@@ -10,7 +10,15 @@ REQUEST_INTERVAL = 0.6  # 100 req/min (limit: 120/min)
 
 def _get_with_retry(client: httpx.Client, url: str, params: dict) -> httpx.Response:
     for attempt in range(MAX_RETRIES):
-        resp = client.get(url, params=params)
+        try:
+            resp = client.get(url, params=params)
+        except httpx.TimeoutException as exc:
+            wait = 2 ** (attempt + 2)
+            print(f"  Timeout on attempt {attempt + 1}, retrying in {wait:.0f}s... ({exc})")
+            if attempt + 1 == MAX_RETRIES:
+                raise
+            time.sleep(wait)
+            continue
         if resp.status_code not in RETRY_STATUSES:
             resp.raise_for_status()
             return resp
