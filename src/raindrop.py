@@ -3,6 +3,22 @@ import httpx
 from src.config import RAINDROP_TOKEN
 from src.store import get_raindrop_ids, insert_raindrops, now_iso
 
+RETRY_STATUSES = {429, 500, 502, 503, 504}
+MAX_RETRIES = 4
+
+
+def _get_with_retry(client: httpx.Client, url: str, params: dict) -> httpx.Response:
+    for attempt in range(MAX_RETRIES):
+        resp = client.get(url, params=params)
+        if resp.status_code not in RETRY_STATUSES:
+            resp.raise_for_status()
+            return resp
+        wait = 2 ** attempt
+        print(f"  HTTP {resp.status_code} on attempt {attempt + 1}, retrying in {wait}s...")
+        time.sleep(wait)
+    resp.raise_for_status()
+    return resp
+
 
 def fetch_all_raindrops() -> int:
     existing = get_raindrop_ids()
@@ -13,11 +29,11 @@ def fetch_all_raindrops() -> int:
 
     with httpx.Client(headers=headers, timeout=30) as client:
         while True:
-            resp = client.get(
+            resp = _get_with_retry(
+                client,
                 "https://api.raindrop.io/rest/v1/raindrops/0",
                 params={"page": page, "perpage": per_page},
             )
-            resp.raise_for_status()
             data = resp.json()
             items = data.get("items", [])
             if not items:
