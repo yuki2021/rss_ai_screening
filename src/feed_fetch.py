@@ -4,7 +4,8 @@ from src.store import upsert_article, now_iso
 
 
 def fetch_feed() -> int:
-    feed = feedparser.parse(INOREADER_FEED_URL)
+    url = INOREADER_FEED_URL + ("&" if "?" in INOREADER_FEED_URL else "?") + "n=1000"
+    feed = feedparser.parse(url)
     count = 0
     for entry in feed.entries:
         url = entry.get("link", "")

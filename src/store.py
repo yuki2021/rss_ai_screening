@@ -103,8 +103,11 @@ def get_recent_raindrop_embeddings(days: int) -> tuple[np.ndarray, list[str]]:
 def upsert_article(item: dict):
     with get_conn() as conn:
         conn.execute(
-            "INSERT OR REPLACE INTO articles (url, title, content, published_at, fetched_at) "
-            "VALUES (:url, :title, :content, :published_at, :fetched_at)",
+            "INSERT INTO articles (url, title, content, published_at, fetched_at) "
+            "VALUES (:url, :title, :content, :published_at, :fetched_at) "
+            "ON CONFLICT(url) DO UPDATE SET "
+            "title=excluded.title, content=excluded.content, "
+            "published_at=excluded.published_at, fetched_at=excluded.fetched_at",
             item,
         )
 
