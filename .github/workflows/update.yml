@@ -2,7 +2,7 @@ name: update-feed
 
 on:
   schedule:
-    - cron: "0 21,9 * * *"  # UTC 21:00 = JST 06:00, UTC 09:00 = JST 18:00
+    - cron: "0 21,6 * * *"  # UTC 21:00 = JST 06:00, UTC 06:00 = JST 15:00
   workflow_dispatch:
 
 permissions:
