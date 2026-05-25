@@ -85,10 +85,13 @@ def get_raindrops_without_embedding() -> list[sqlite3.Row]:
         ).fetchall()
 
 
-def get_all_raindrop_embeddings() -> tuple[np.ndarray, list[str]]:
+def get_recent_raindrop_embeddings(days: int) -> tuple[np.ndarray, list[str]]:
+    cutoff = (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
     with get_conn() as conn:
         rows = conn.execute(
-            "SELECT embedding, saved_at FROM raindrops WHERE embedding IS NOT NULL"
+            "SELECT embedding, saved_at FROM raindrops "
+            "WHERE embedding IS NOT NULL AND saved_at > ?",
+            (cutoff,),
         ).fetchall()
     if not rows:
         return np.empty((0, 384), dtype=np.float32), []
