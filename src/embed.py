@@ -1,6 +1,6 @@
 import numpy as np
 from sentence_transformers import SentenceTransformer
-from src.config import MODEL_NAME
+from src.config import MODEL_NAME, EMB_ARTICLE_TAG
 from src.store import (
     get_raindrops_without_embedding,
     update_raindrop_embedding,
@@ -33,7 +33,7 @@ def _text_for_article(row) -> str:
         parts.append(row["title"])
     if row["content"]:
         parts.append(row["content"][:2000])
-    return "passage: " + " ".join(parts) if parts else "passage: (no content)"
+    return "query: " + " ".join(parts) if parts else "query: (no content)"
 
 
 def embed_pending():
@@ -48,11 +48,11 @@ def embed_pending():
         for row, emb in zip(raindrop_rows, embs):
             update_raindrop_embedding(row["id"], emb, MODEL_NAME)
 
-    article_rows = get_articles_without_embedding()
+    article_rows = get_articles_without_embedding(EMB_ARTICLE_TAG)
     if article_rows:
         texts = [_text_for_article(r) for r in article_rows]
         embs = model.encode(
             texts, normalize_embeddings=True, batch_size=32, show_progress_bar=False
         )
         for row, emb in zip(article_rows, embs):
-            update_article_embedding(row["url"], emb, MODEL_NAME)
+            update_article_embedding(row["url"], emb, EMB_ARTICLE_TAG)

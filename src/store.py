@@ -109,8 +109,14 @@ def upsert_article(item: dict):
         )
 
 
-def get_articles_without_embedding() -> list[sqlite3.Row]:
+def get_articles_without_embedding(expected_model: str | None = None) -> list[sqlite3.Row]:
     with get_conn() as conn:
+        if expected_model:
+            return conn.execute(
+                "SELECT url, title, content FROM articles "
+                "WHERE embedding IS NULL OR emb_model IS NULL OR emb_model != ?",
+                (expected_model,),
+            ).fetchall()
         return conn.execute(
             "SELECT url, title, content FROM articles WHERE embedding IS NULL"
         ).fetchall()
