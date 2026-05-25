@@ -1,15 +1,21 @@
 import numpy as np
 from datetime import datetime, timezone, timedelta
-from src.config import TOP_K_SCORE, RECENCY_DAYS, SHORT_RECENCY_DAYS, SHORT_RECENCY_WEIGHT
+from src.config import TOP_K_SCORE, RECENCY_DAYS, MID_RECENCY_DAYS, MID_RECENCY_WEIGHT, SHORT_RECENCY_DAYS, SHORT_RECENCY_WEIGHT
 from src.store import get_recent_raindrop_embeddings, get_conn, update_article_score
 
 
 def _recency_weights(saved_ats: list[str]) -> np.ndarray:
-    cutoff = (datetime.now(timezone.utc) - timedelta(days=SHORT_RECENCY_DAYS)).isoformat()
-    return np.array(
-        [SHORT_RECENCY_WEIGHT if s > cutoff else 1.0 for s in saved_ats],
-        dtype=np.float32,
-    )
+    short_cutoff = (datetime.now(timezone.utc) - timedelta(days=SHORT_RECENCY_DAYS)).isoformat()
+    mid_cutoff = (datetime.now(timezone.utc) - timedelta(days=MID_RECENCY_DAYS)).isoformat()
+
+    def _weight(s: str) -> float:
+        if s > short_cutoff:
+            return SHORT_RECENCY_WEIGHT
+        if s > mid_cutoff:
+            return MID_RECENCY_WEIGHT
+        return 1.0
+
+    return np.array([_weight(s) for s in saved_ats], dtype=np.float32)
 
 
 def score_articles():
@@ -19,9 +25,10 @@ def score_articles():
         return
 
     weights = _recency_weights(saved_ats)
-    short_count = int((weights > 1.0).sum())
-    print(f"Scoring against {raindrop_embs.shape[0]} recent raindrops "
-          f"(last {RECENCY_DAYS} days, {short_count} within {SHORT_RECENCY_DAYS} days at {SHORT_RECENCY_WEIGHT}x weight)")
+    short_count = int((weights >= SHORT_RECENCY_WEIGHT).sum())
+    mid_count = int(((weights >= MID_RECENCY_WEIGHT) & (weights < SHORT_RECENCY_WEIGHT)).sum())
+    print(f"Scoring against {raindrop_embs.shape[0]} raindrops (last {RECENCY_DAYS} days): "
+          f"{short_count} at {SHORT_RECENCY_WEIGHT}x, {mid_count} at {MID_RECENCY_WEIGHT}x, rest at 1.0x)")
     k = min(TOP_K_SCORE, raindrop_embs.shape[0])
 
     with get_conn() as conn:
