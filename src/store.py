@@ -61,6 +61,12 @@ def get_raindrop_ids() -> set[int]:
     return {r["id"] for r in rows}
 
 
+def get_raindrop_urls() -> set[str]:
+    with get_conn() as conn:
+        rows = conn.execute("SELECT url FROM raindrops").fetchall()
+    return {r["url"] for r in rows}
+
+
 def insert_raindrops(items: list[dict]):
     with get_conn() as conn:
         conn.executemany(

@@ -1,4 +1,4 @@
-from src.store import init_db, get_recent_emitted_urls, get_top_articles, log_emissions, cleanup_old_articles
+from src.store import init_db, get_recent_emitted_urls, get_raindrop_urls, get_top_articles, log_emissions, cleanup_old_articles
 from src.raindrop import fetch_all_raindrops
 from src.feed_fetch import fetch_feed
 from src.extract import extract_articles
@@ -30,7 +30,7 @@ def main():
     score_articles()
 
     print(f"Selecting top {TOP_N} articles...")
-    exclude = get_recent_emitted_urls(DEDUP_DAYS)
+    exclude = get_recent_emitted_urls(DEDUP_DAYS) | get_raindrop_urls()
     top_items = get_top_articles(TOP_N, exclude)
     if not top_items:
         print("No articles to emit, keeping previous RSS.")
