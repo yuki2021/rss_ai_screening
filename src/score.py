@@ -1,5 +1,5 @@
 import numpy as np
-from src.config import RECENCY_DAYS
+from src.config import DUPLICATE_SCORE_THRESHOLD, RECENCY_DAYS
 from src.store import get_recent_raindrop_embeddings, get_conn, update_article_score
 
 
@@ -21,4 +21,6 @@ def score_articles():
         # cosine similarity: both are L2-normalized, so dot product = cosine sim
         sims = raindrop_embs @ article_emb  # (N,)
         score = float(sims.max())
+        if score >= DUPLICATE_SCORE_THRESHOLD:
+            score = 0.0
         update_article_score(row["url"], score)
