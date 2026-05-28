@@ -3,7 +3,7 @@ import httpx
 from src.config import RAINDROP_TOKEN
 from src.store import get_raindrop_ids, insert_raindrops, now_iso
 
-RETRY_STATUSES = {429, 500, 502, 503, 504}
+RETRY_STATUSES = {429, 500, 502, 503, 504, 522, 524}
 MAX_RETRIES = 6
 REQUEST_INTERVAL = 0.6  # 100 req/min (limit: 120/min)
 
