@@ -61,6 +61,21 @@ def get_raindrop_ids() -> set[int]:
     return {r["id"] for r in rows}
 
 
+def get_article_counts() -> dict:
+    with get_conn() as conn:
+        row = conn.execute(
+            "SELECT COUNT(*) total, "
+            "SUM(embedding IS NOT NULL) embedded, "
+            "SUM(score IS NOT NULL) scored "
+            "FROM articles"
+        ).fetchone()
+    return {
+        "total": row["total"],
+        "embedded": row["embedded"] or 0,
+        "scored": row["scored"] or 0,
+    }
+
+
 def get_raindrop_urls() -> set[str]:
     with get_conn() as conn:
         rows = conn.execute("SELECT url FROM raindrops").fetchall()

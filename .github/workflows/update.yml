@@ -53,7 +53,7 @@ jobs:
         run: |
           git config user.name "github-actions[bot]"
           git config user.email "github-actions[bot]@users.noreply.github.com"
-          git add public/custom.xml
+          git add public/custom.xml public/run_log.jsonl
           git diff --cached --quiet || git commit -m "chore: update feed [skip ci]"
           git push
 
