@@ -12,9 +12,9 @@ def _get_with_retry(client: httpx.Client, url: str, params: dict) -> httpx.Respo
     for attempt in range(MAX_RETRIES):
         try:
             resp = client.get(url, params=params)
-        except httpx.TimeoutException as exc:
+        except httpx.TransportError as exc:
             wait = 2 ** (attempt + 2)
-            print(f"  Timeout on attempt {attempt + 1}, retrying in {wait:.0f}s... ({exc})")
+            print(f"  Network error on attempt {attempt + 1}, retrying in {wait:.0f}s... ({exc})")
             if attempt + 1 == MAX_RETRIES:
                 raise
             time.sleep(wait)
