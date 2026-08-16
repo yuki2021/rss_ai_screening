@@ -1,0 +1,105 @@
+name: pipeline-test
+
+# Runs the full pipeline on a branch without any production side effects:
+#   - no `environment:`  -> not blocked by the github-pages branch policy (main only)
+#   - no commit / push   -> nothing lands in the repo
+#   - no Pages deploy    -> the live feed is untouched
+#   - cache is restore-only -> reads main's state.db, never writes a cache entry
+# The generated feed is uploaded as an artifact for inspection instead.
+
+on:
+  push:
+    branches-ignore: [main]
+  workflow_dispatch:
+
+permissions:
+  contents: read
+
+jobs:
+  test:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Restore HuggingFace model cache
+        uses: actions/cache/restore@v4
+        with:
+          path: ~/.cache/huggingface
+          key: hf-multilingual-e5-small-v1
+
+      # Prefix-matches the newest state-db-* cache from main. Restore-only, so
+      # the production cache is read but never overwritten.
+      - name: Restore state DB
+        uses: actions/cache/restore@v4
+        with:
+          path: data/state.db
+          key: state-db-none
+          restore-keys: state-db-
+
+      - name: Install uv
+        run: pip install uv
+
+      - name: Install dependencies
+        run: uv sync
+
+      - name: Show resolved trafilatura version
+        run: uv run python -c "import trafilatura; print('trafilatura', trafilatura.__version__)"
+
+      - name: Article content lengths before the run
+        run: |
+          uv run python - <<'PY'
+          import sqlite3, os
+          if not os.path.exists("data/state.db"):
+              print("no cached DB restored - starting from empty")
+              raise SystemExit
+          c = sqlite3.connect("data/state.db")
+          print("articles:", c.execute("select count(*) from articles").fetchone()[0])
+          for row in c.execute("""
+              select case when length(content) < 200 then 'a <200'
+                          when length(content) < 1000 then 'b 200-1000'
+                          when length(content) < 3000 then 'c 1000-3000'
+                          else 'd >=3000' end bucket, count(*)
+              from articles group by bucket order by bucket"""):
+              print(f"  {row[0]}: {row[1]}")
+          PY
+
+      - name: Run pipeline
+        env:
+          RAINDROP_TOKEN: ${{ secrets.RAINDROP_TOKEN }}
+          INOREADER_FEED_URL: ${{ secrets.INOREADER_FEED_URL }}
+        run: uv run python -m src.main
+
+      - name: Article content lengths after the run
+        if: always()
+        run: |
+          uv run python - <<'PY'
+          import sqlite3, os
+          if not os.path.exists("data/state.db"):
+              print("no DB to inspect")
+              raise SystemExit
+          c = sqlite3.connect("data/state.db")
+          print("articles:", c.execute("select count(*) from articles").fetchone()[0])
+          for row in c.execute("""
+              select case when length(content) < 200 then 'a <200'
+                          when length(content) < 1000 then 'b 200-1000'
+                          when length(content) < 3000 then 'c 1000-3000'
+                          else 'd >=3000' end bucket, count(*)
+              from articles group by bucket order by bucket"""):
+              print(f"  {row[0]}: {row[1]}")
+          print("max content length:", c.execute("select max(length(content)) from articles").fetchone()[0])
+          PY
+
+      - name: Upload generated feed
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: pipeline-output
+          path: |
+            public/custom.xml
+            public/run_log.jsonl
+          if-no-files-found: warn
