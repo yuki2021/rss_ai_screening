@@ -1,152 +1,73 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 16 Aug 2026 21:28:35 +0000</lastBuildDate><item><title>妊婦と子の命を奪う「妊娠高血圧腎症」、根絶に向け画期的な発見</title><link>https://natgeo.nikkeibp.co.jp/atcl/news/26/081300448/?rss</link><description>[score: 0.873] かつて子癇前症（しかんぜんしょう）と呼ばれていた妊娠高血圧腎症は、世界中の妊産婦と胎児の死亡の主要な原因でありながら、そのメカニズムがいまだによく解明されていない深刻な妊娠合併症だ。このほど、思いがけない場所から、妊娠高血圧腎症に関する画期的な発見があった。
-皮膚科の研究室だ。
-米ミシガン大学タウブマン医学研究所の皮膚科医で免疫学教授であるヨハン・グジョンソン氏のチームは、自己免疫疾患が女性に多い理由を解き明かすことに力を注いでいた。自己免疫疾患は、皮膚に症状が現れることが多いからだ。
-そんなグジョンソン氏が畑違いの妊娠高血圧腎症に興味を持ったのは、産科・婦人科医で心臓産科を専門とするアシュリ</description><guid isPermaLink="false">https://natgeo.nikkeibp.co.jp/atcl/news/26/081300448/?rss</guid><pubDate>Sun, 16 Aug 2026 21:05:35 +0000</pubDate></item><item><title>ローカル LLM 雑感 (2026-08)</title><link>https://voluntas.ghost.io/local-llm-2026-08/</link><description>[score: 0.873] ローカル LLM 雑感 (2026-08) NVIDIA DGX Spark 互換機 (以下 Spark) を 2 台購入し、クラスター起動して ローカルで DeepSeek V4 Flash 0731 の運用を開始したので雑感を書いて行く。 前提悪いのでそもそもコスパを検討するなら API 利用をすべきなので、コスト面でのメリットはとても薄い。 速度まずローカル LLM の一番気になっていた「速度」だが...</description><guid isPermaLink="false">https://voluntas.ghost.io/local-llm-2026-08/</guid><pubDate>Sun, 16 Aug 2026 21:16:55 +0000</pubDate></item><item><title>【Terraform】planとplan -refresh-onlyの結果で、ドリフトを2種類に分類する</title><link>https://qiita.com/eureka_/items/40e0b4ced50375a91f62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.873] はじめに
-複数チームで同じAWS環境を利用している中で、インフラチームがTerraformで管理しているAWSリソースを、アプリチームがコンソール上から設定変更することがあります。
-その結果、Terraformで管理している構成と実際のAWS環境に差分が生じ、後日terraform plan
-を実行した際に、意図しない差分として検出されるケースが私の現場ではたまにあります...
-また、私のチームでは手動でterraform apply
-後、mainにマージするという運用をしているのですが、たま～にマージし忘れも発生しています。
-そのため、後続作業でterraform plan
-を実行した際に、</description><guid isPermaLink="false">https://qiita.com/eureka_/items/40e0b4ced50375a91f62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 16 Aug 2026 20:24:15 +0000</pubDate></item><item><title>｢量を減らして利益率を上げる発想はない｣　"腹いっぱい食べて満足"を追求したら22年連続黒字｢ゆで太郎｣の矜持 | ライフ | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/953882?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.874] コンテンツブロックが有効であることを検知しました。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 17 Aug 2026 06:51:45 +0000</lastBuildDate><item><title>4─6月期実質ＧＤＰは年率+1.1％＝内閣府（ロイター予測: +2.0%) - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9RT2w1QzRpQ0JyZzdvWmhVZnhSeGxnRVZkNUY0Z2FhTkZKOGRmQ0VtRl83cmU3enloYmg1T1RkT3ZCcFItSVZoZm1lLVotWFZkcnJoUmloR3dCTEVTVWhBYTlNTEoxQjJJcjZHaHZJY1NyYVdXVk95Z1AzTXRlVlU?oc=5</link><description>[score: 0.883] 4─6月期実質ＧＤＰは年率+1.1％＝内閣府（ロイター予測: +2.0%) Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9RT2w1QzRpQ0JyZzdvWmhVZnhSeGxnRVZkNUY0Z2FhTkZKOGRmQ0VtRl83cmU3enloYmg1T1RkT3ZCcFItSVZoZm1lLVotWFZkcnJoUmloR3dCTEVTVWhBYTlNTEoxQjJJcjZHaHZJY1NyYVdXVk95Z1AzTXRlVlU?oc=5</guid><pubDate>Mon, 17 Aug 2026 00:22:53 +0000</pubDate></item><item><title>Hugging Face分析、中国のオープンモデルが台頭　Qwenは派生モデル15万件超</title><link>https://www.itmedia.co.jp/news/article/2608/17/2000000557/</link><description>[score: 0.883] Hugging Face分析、中国のオープンモデルが台頭 Qwenは派生モデル15万件超
+米Hugging Faceは8月14日（現地時間）、オープンモデルを巡る動向を分析したレポート「State of Open Models: Summer 2026 Observations」を公開した。自社プラットフォーム「Hugging Face Hub」における2026年1～7月の活動データを基に、6つの観察結果をまとめている。期間中、公開モデルのリポジトリは243万件から296万件に増えた。
+中でも目立つのが中国勢の台頭だ。Hugging Faceは「ほぼ毎月、中国のラボが公開したオープンモデルの最</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2608/17/2000000557/</guid><pubDate>Mon, 17 Aug 2026 00:30:22 +0000</pubDate></item><item><title>プーチン｢北方領土入り｣が東アジアの歴史的転換点になるワケ…突飛な行動に隠された中国･北朝鮮､欧州との点と線 | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/954998?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.885] コンテンツブロックが有効であることを検知しました。
 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/953882?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 16 Aug 2026 20:38:11 +0000</pubDate></item><item><title>韓国42.5度､中国は50度…2026年東アジア猛暑の衝撃､｢暴炎｣続きの韓国と中国､一方で暑さに便乗した｢熱経済｣が勃興 | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/954723?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.874] コンテンツブロックが有効であることを検知しました。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/954998?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Mon, 17 Aug 2026 05:13:51 +0000</pubDate></item><item><title>「知床旅情」の加藤登紀子さん「現在、北方領土はロシアの領有」　TBSアナ「実効支配」</title><link>https://www.sankei.com/article/20260817-DQPD47DVX5GRXIRGOFGWCFISHU/</link><description>[score: 0.885] 「知床旅情」の加藤登紀子さん「現在、北方領土はロシアの領有」 TBSアナ「実効支配」 平成25年11月、森繁久彌さんの「生誕100年をお祝いする会」で知床旅情を歌う加藤登紀子さん（手前左）ら＝東京都千代田区 北方領土返還要求運動でも歌われる「知床旅情」で知られる歌手の加藤登紀子さんが16日、TBS系情報番組「サンデーモーニング」で、ロシアのプーチン大統領が北方領土・択捉島を訪問したことを巡り、...</description><guid isPermaLink="false">https://www.sankei.com/article/20260817-DQPD47DVX5GRXIRGOFGWCFISHU/</guid><pubDate>Mon, 17 Aug 2026 04:19:50 +0000</pubDate></item><item><title>生成AIを全社員に配っても｢使われない｣企業が多い中､損保ジャパンとSkyが利用率98％を実現できた仕掛け | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/954315?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.885] コンテンツブロックが有効であることを検知しました。
 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/954723?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 16 Aug 2026 21:17:55 +0000</pubDate></item><item><title>【詳報】｢オルツ粉飾事件｣元CFOの初公判で検察が明かした不正に加担した企業名と循環取引を指摘した監査法人名 | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/954710?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.875] 「無職――」
-7月17日、東京地方裁判所の法廷に現れたAI新興企業オルツの元CFO（後に社長）日置友輔被告は、裁判長に職業を聞かれると消え入りそうな声でこう答えた。
-白いシャツと紺のスーツで証言台に立った日置被告は裁判長から名前や生年月日を聞かれた際も返答の声が小さく、聞き返される場面もあった。「饒舌でプレゼンがうまかった」（個人投資家）とされるかつての面影はまるでなかった。
-2024年10月に上場したものの、翌25年に粉飾決算が発覚した後に民事再生法申請、上場廃止となったオルツ。同社の事件では、今年5月25日、金融商品取引法違反（有価証券報告書の虚偽記載など）の罪で、元営業部門長と元経理部門</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/954710?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 16 Aug 2026 21:07:20 +0000</pubDate></item><item><title>夏休みに｢もう教員辞めたい｣と思ったら？ 元校長が伝える"逃げ道"の作り方と辞める前にまずやるべきこと | キャリア・教育 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/953387?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.875] コンテンツブロックが有効であることを検知しました。
-このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
-なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/953387?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 16 Aug 2026 21:17:55 +0000</pubDate></item><item><title>「北方領土はロシアが領有…」加藤登紀子の発言にTBSアナ補足「正しくは実効支配」 - 芸能 : 日刊スポーツ</title><link>https://www.nikkansports.com/m/entertainment/news/202608160000671_m.html</link><description>[score: 0.877] 「北方領土はロシアが領有…」加藤登紀子の発言にTBSアナ補足「正しくは実効支配」 - 芸能 : 日刊スポーツ 歌手の加藤登紀子（82）が16日、TBS系「サンデーモーニング」（日曜午前8時）に出演。ロシアのプーチン大統領が北方領土を初訪問したことをめぐり、「現実に求められているのは領土ではなくて平和」と訴えるシーンがあった。 プーチン氏は13日に択捉島を初訪問。水産加工施設などを視察し、住民と触れ合う様子が国営メデ...</description><guid isPermaLink="false">https://www.nikkansports.com/m/entertainment/news/202608160000671_m.html</guid><pubDate>Sun, 16 Aug 2026 13:14:02 +0000</pubDate></item><item><title>ウクライナ ロシアの物流施設など攻撃 えん戦気分拡大ねらいか</title><link>https://news.web.nhk/newsweb/na/nd-20260816de44393</link><description>[score: 0.877] ロシアによる軍事侵攻が続くウクライナは、ロシア国内の石油関連施設や物流施設を相次いで攻撃しています。こうした中、ロシア国民の間では、ウクライナへの侵攻が順調ではないと考える人が増加しています。
-ネ…
-ウクライナがロシアのロケット製造拠点など攻撃
-8月16日 10:39
-“交渉期限”迫る イラン「停戦存在せず」 米も対決姿勢
-8月16日 15:40
-インドネシア東部地震の死者47人に 救助活動続く
-8月16日 5:52
-死者10人に 浸水被害は約1500棟 千葉市で車両約2500台が路上に
-8月16日 22:44
-熊本地震 災害関連死の疑い含め39人死亡 避難所に3121人避難
-8月16日 18</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260816de44393</guid><pubDate>Sun, 16 Aug 2026 17:59:55 +0000</pubDate></item><item><title>cdk-nagが良さそうなので使ってみる</title><link>https://qiita.com/yakumo_09/items/9c540e06512631ca0b39?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] はじめに
-CDKでインフラを書いていて、「これ、セキュリティ的に大丈夫なんだろうか...」と不安になることがよくあります。
-レビューをお願いするにしても、レビュワーがAWSに詳しくないと判断が難しいんですよね。
-そこで前から気になっていた cdk-nag を試してみました。
-結論から言うとかなり良さそうだったのですが、v3で書き方がガラッと変わっていたり、思わぬ落とし穴があったりしたので、その辺りもまとめておきます。
-cdk-nagとは
-一言でいうと インフラ用のESLint です。
-ESLintが「そのコードの書き方、まずいですよ」と教えてくれるように、cdk-nagは「そのAWS構成、セキ</description><guid isPermaLink="false">https://qiita.com/yakumo_09/items/9c540e06512631ca0b39?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 16 Aug 2026 20:24:15 +0000</pubDate></item><item><title>【緊急公開】医療機関を襲った8月12日の大規模サイバー攻撃｜医療法人鳳應会グループ Medi Face社がデジタルフォレンジック解析および証拠保全を完了（2026-08-12 19:33:27発生）</title><link>https://prtimes.jp/main/html/rd/p/000000017.000080422.html</link><description>[score: 0.878] 【緊急公開】医療機関を襲った8月12日の大規模サイバー攻撃｜医療法人鳳應会グループ Medi Face社がデジタルフォレンジック解析および証拠保全を完了（2026-08-12 19:33:27発生） 【緊急公開】医療機関を襲った8月12日の大規模サイバー攻撃｜医療法人鳳應会グループ Medi Face社がデジタルフォレンジック解析および証拠保全を完了（2026-08-12 19:33:27発生）Webシェル侵入からGSC奪取、Cloud... defiant %E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%B5%E3%8</description><guid isPermaLink="false">https://prtimes.jp/main/html/rd/p/000000017.000080422.html</guid><pubDate>Sun, 16 Aug 2026 17:24:23 +0000</pubDate></item><item><title>米財務長官の「やることリスト」に円買い50億─100億ドル ロイターの写真で判明 - ロイター</title><link>https://news.google.com/rss/articles/CBMieEFVX3lxTFA5YWU2bHBXRDdmYklHS2lOckpBcXc3SjBUSl80Y1Q3UV9yXzVhRFRWNG0yN2Z3VkVwaFRlNFZFMlV6aks2TEVHU3JMR3hKNVJ6YnVlNWx5M3B2a2ZDaUs1NHg5amtrWmUwYWJic0VJTExTVjlSZWhzZg?oc=5</link><description>[score: 0.881] 米財務長官の「やることリスト」に円買い50億─100億ドル ロイターの写真で判明 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMieEFVX3lxTFA5YWU2bHBXRDdmYklHS2lOckpBcXc3SjBUSl80Y1Q3UV9yXzVhRFRWNG0yN2Z3VkVwaFRlNFZFMlV6aks2TEVHU3JMR3hKNVJ6YnVlNWx5M3B2a2ZDaUs1NHg5amtrWmUwYWJic0VJTExTVjlSZWhzZg?oc=5</guid><pubDate>Sun, 16 Aug 2026 21:23:06 +0000</pubDate></item><item><title>エンジニアが1年育休を取って、働き方とキャリア観が変わった話 - Yuki Watanabe's Blog</title><link>https://yuki0920.hatenablog.jp/entry/20260816/1786878000</link><description>[score: 0.881] エンジニアが1年育休を取って、働き方とキャリア観が変わった話 - Yuki Watanabe's Blog 第二子の誕生をきっかけに、約1年間の育休を取得しました。復職してからは3か月ほど経ちます。 この記事では、育休中の過ごし方と、復職後に変わった働き方・キャリアの考え方について書きます。 育休を取得でき... firststar_hateno 育児とキャリアの両立、現代の美しい調和ですわね。AIも育児を支えてくれるなんて、素敵ですの！</description><guid isPermaLink="false">https://yuki0920.hatenablog.jp/entry/20260816/1786878000</guid><pubDate>Sun, 16 Aug 2026 19:24:50 +0000</pubDate></item><item><title>はてブにピン留め機能が欲しい</title><link>https://anond.hatelabo.jp/20260816215235</link><description>[score: 0.882] Xにある固定ツイートみたいな機能がはてブにも欲しい。できれば1件限定ではなく3〜5件くらいで
-今のはてブは古いブクマがどんどん流れてしまうし、検索がしょぼいのでブックマークとして使い難い
-個人用の備忘録としてはてブを使っているユーザーなら、頻繁に参照するブクマを先頭に置いておけるようになってハッピーだし
-ソーシャル重視ではてブを使っているユーザーなら、自分のプロフィール代わりになるブコメを先頭に置けてハッピーだ
-というか、ブクマカなら「めっちゃ良い事を言ったのにタイミングが悪くてぜんぜん⭐︎が貰えなかった」ブクマの一つや二つ絶対あるだろ。少しでもageたいだろ</description><guid isPermaLink="false">https://anond.hatelabo.jp/20260816215235</guid><pubDate>Sun, 16 Aug 2026 20:26:17 +0000</pubDate></item><item><title>GitHub Copilot Appsで非エンジニアでも開発できた話 ～ 分析・実装・PR作成・デプロイまでやってみた ～</title><link>https://qiita.com/junko105106/items/f6c497d76b47a654fdf6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] GitHub Copilot Appsを使ってみた。非エンジニアでもPR作成からデプロイまでできた話
-はじめに
-最近、GitHub Copilot Appsを使う機会がありました。
-最初は正直、
-- GitHubが苦手
-- ブランチって何？
-- PR（Pull Request）って何？
-- Create PRを押したら終わりだと思っていた
-という状態でした。
-そんな私でも、GitHub Copilot Appsと一緒に開発を進めることで、
-- ソースコード調査
-- 改善案作成
-- 実装
-- Build確認
-- Git操作
-- PR作成
-- デプロイ確認
-まで進めることができました。
-この記事は</description><guid isPermaLink="false">https://qiita.com/junko105106/items/f6c497d76b47a654fdf6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 16 Aug 2026 20:24:15 +0000</pubDate></item><item><title>3万円で自作PCを作ろう――生成AIに頼りっぱなしの初心者自作記</title><link>https://qiita.com/heurekaijoh/items/5b4004dcc3e854b413d2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] はじめに
-「情報工学科の学生たるもの，自作PC程度も組めないまま大学生活を終えてよいのだろうか」
-そんな思いが，今回の自作PC計画の出発点だった．
-はじめまして．某大学情報工学科2年の階乗です．今回は，私の100％生成AI頼りの絶望的な自作PC製作記にして，初めてのQiita記事です．
-無論，情報工学を学ぶ人が必ず自作PCを経験しなければならないわけではありません．プログラミングや情報科学を学ぶだけなら，市販のノートPCでも十分です．
-それでも個人的には，CPU，メモリ，ストレージ，電源といった部品が，実際にどのようにつながって一台のコンピューターになるのか，自分の手で確かめてみたいと思ってい</description><guid isPermaLink="false">https://qiita.com/heurekaijoh/items/5b4004dcc3e854b413d2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 16 Aug 2026 20:24:15 +0000</pubDate></item><item><title>ロシアへの長距離攻撃にイギリス供与の無人機使用 英紙報道</title><link>https://news.web.nhk/newsweb/na/nd-20260816de44425</link><description>[score: 0.886] ウクライナが無人機を使って国境から遠く離れたロシア国内への攻撃を強化するなか、イギリスメディアは、こうした長距離攻撃にイギリス製の無人機が使用され始めたと報じました。
-ウクライナ軍は無人機を使った…
-ウクライナ ロシアの物流施設など攻撃 えん戦気分拡大ねらいか
-8月16日 19:58
-“交渉期限”迫る イラン「停戦存在せず」 米も対決姿勢
-8月16日 15:40
-ウクライナがロシアのロケット製造拠点など攻撃
-8月16日 10:39
-インドネシア東部地震の死者47人に 救助活動続く
-8月16日 5:52
-靖国神社参拝めぐり中国“強く抗議”韓国“嘆き禁じ得ない”
-8月16日 5:18
-インド モデ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260816de44425</guid><pubDate>Sun, 16 Aug 2026 20:57:20 +0000</pubDate></item><item><title>【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた</title><link>https://qiita.com/claudecat/items/fd8f449f1dddcc9f31fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.887] 【インシデント報告】Defender が有効なのに、開発機で5日間マイニングされていた —— 「AI がコードを壊した」と思ったら本当の原因は別だった
-注意喚起を兼ねた個人環境のインシデント報告です。
-同じ手口は「Defender を入れているから大丈夫」な環境をそのまま素通りします。
-記事末尾に、管理者 PowerShell で5分で流せるチェックリストを置いたので、心当たりが無い方こそ一度実行してみてください。
-インシデント概要
-| 項目 | 内容 |
-|---|---|
-| 事象 | 暗号通貨マイナー（XMRig 6.21.3）の無断稼働 |
-| 対象 | 自宅の Windows 11 </description><guid isPermaLink="false">https://qiita.com/claudecat/items/fd8f449f1dddcc9f31fe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 16 Aug 2026 20:24:15 +0000</pubDate></item><item><title>携帯電話の基地局は、宇宙に移るのか？</title><link>https://note.com/lifeisbeautiful/n/nfb49b423a82b</link><description>[score: 0.888] 携帯電話の基地局は、宇宙に移るのか？
-Cell Towers are moving to Space
-携帯電話の基地局が宇宙に移りつつあり、Starlink、AST SpaceMobile、Amazon、Rocket Lab-Iridiumの4陣営が「携帯ネットワークそのものの主導権」を争い始めた、という解説記事です。衛星から普通のスマホに直接電波を届ける技術が、非常用の付加機能から本命の通信インフラへと変わろうとしている今、その勢力図を整理した記事なので紹介します。
-これまで衛星とスマホの直接通信は、山奥からのメッセージ送信、海上からの遭難信号、ハリケーンで基地局が倒れた時のバックアップとい</description><guid isPermaLink="false">https://note.com/lifeisbeautiful/n/nfb49b423a82b</guid><pubDate>Sun, 16 Aug 2026 19:45:59 +0000</pubDate></item><item><title>きょうから米韓軍事演習 野外機動訓練縮小続くも北朝鮮は反発</title><link>https://news.web.nhk/newsweb/na/nd-20260816de44424</link><description>[score: 0.888] アメリカ軍と韓国軍は、17日から朝鮮半島有事を想定した定例の合同軍事演習を行います。イ・ジェミョン（李在明）政権が北朝鮮との対話を模索する中、野外での機動訓練は縮小される予定ですが、北朝鮮は反発してい…
-ウクライナ ロシアの物流施設など攻撃 えん戦気分拡大ねらいか
-8月16日 19:58
-“交渉期限”迫る イラン「停戦存在せず」 米も対決姿勢
-8月16日 15:40
-ウクライナがロシアのロケット製造拠点など攻撃
-8月16日 10:39
-インドネシア東部地震の死者47人に 救助活動続く
-8月16日 5:52
-靖国神社参拝めぐり中国“強く抗議”韓国“嘆き禁じ得ない”
-8月16日 5:18
-インド </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260816de44424</guid><pubDate>Sun, 16 Aug 2026 20:26:49 +0000</pubDate></item><item><title>Z世代の新SNS「Setlog（セットログ）」　学生の9割が認知！
-直近3カ月で利用急拡大【学割アプリ調べ】</title><link>https://webtan.impress.co.jp/n/2026/08/17/53105</link><description>[score: 0.888] Z世代の新SNS「Setlog（セットログ）」 学生の9割が認知！ 直近3カ月で利用急拡大【学割アプリ調べ】
-若年層に広がるVlogアプリ「Setlog」とは？ 通知に追われないクローズドな空間が魅力。
-6:00
-パレンテが運営する「学割アプリ」は、10～20代の学生ユーザー479名を対象に、「Setlog（セットログ）」の利用実態に関するアンケート調査を実施した。
-Setlog（セットログ）とは？
-Z世代を中心に流行している韓国発のVlog（ブイログ）アプリ。1時間ごとに2秒の動画を撮影し、友達と共有できるほか、1日の記録をVlogとして簡単にまとめられる。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/954315?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Mon, 17 Aug 2026 04:04:06 +0000</pubDate></item><item><title>Claude、Codex、Qwen……そのAI用語、どう読む？　読み方クイズ30問</title><link>https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news020.html</link><description>[score: 0.886] Claude、Codex、Qwen……そのAI用語、どう読む？ 読み方クイズ30問 この記事のクイズでは、オレンジ色のマスク部分をクリック／タップすると正解と解説が表示される（※解説内のリンクを踏まないよう、マスクの先頭付近をクリックするのがお勧め）。 Q1 「Claude」は、どう読む？ ［定着した読み］ 1. クラウド 2. クロード 正解と解説： 正解は2の「クロード」。Anthropicの日本語サイ...</description><guid isPermaLink="false">https://atmarkit.itmedia.co.jp/ait/articles/2608/17/news020.html</guid><pubDate>Mon, 17 Aug 2026 04:53:36 +0000</pubDate></item><item><title>米空母リンカーンの艦内環境悪化・士気低下報道、トランプ氏は否定 「派遣期間は長すぎない」（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE90d3VuNVVIQXlaSUNFQXkyNVNaM2ZwMGYzMXhKNk8ycG44dHh3LVZWcERNS1JKWm5jSUVWMWh5U1R6dkFMN0thbUI1c2QySDRRRnZ6Sk5jazhydjhNdm41TzkzLTFQRmNwSTh2dGpXMlJjQTR1Vk84bGs1LWdKcUk?oc=5</link><description>[score: 0.887] 米空母リンカーンの艦内環境悪化・士気低下報道、トランプ氏は否定 「派遣期間は長すぎない」（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE90d3VuNVVIQXlaSUNFQXkyNVNaM2ZwMGYzMXhKNk8ycG44dHh3LVZWcERNS1JKWm5jSUVWMWh5U1R6dkFMN0thbUI1c2QySDRRRnZ6Sk5jazhydjhNdm41TzkzLTFQRmNwSTh2dGpXMlJjQTR1Vk84bGs1LWdKcUk?oc=5</guid><pubDate>Mon, 17 Aug 2026 01:23:29 +0000</pubDate></item><item><title>自作ルール1本をOpus 5のときだけ注入したら、いい感じになった - yasunaのてっくぶろぐ</title><link>https://yasunacoffee.github.io/yasuna-tech/posts/agent-rule-1hon-de-iikanji/</link><description>[score: 0.887] 自作ルール1本をOpus 5のときだけ注入したら、いい感じになった - yasunaのてっくぶろぐ はじめに 端的に言うと、AI エージェント向けの自作ルールを 1 本だけ書いて、Opus 5 のときだけ注入するようにしたら、かなり具合が良くなった話です。 作ったものは、.claude/rules/ に置いたルール 1 ファイルと、それを注入するシェルスクリプト 1 本だけです。UserPromptSubmit フックから毎回スクリプトが走り、い...</description><guid isPermaLink="false">https://yasunacoffee.github.io/yasuna-tech/posts/agent-rule-1hon-de-iikanji/</guid><pubDate>Mon, 17 Aug 2026 06:44:05 +0000</pubDate></item><item><title>コンゴのエボラ死者、過去最悪2325人に 感染者の約半数死亡 - ロイター</title><link>https://news.google.com/rss/articles/CBMieEFVX3lxTE9XZ3U2SklLQkh4WTZJS3lJN2VjWnVBdEtVMmFvam1TWUdIWURhY0NyNmxrajVVVWtqVF9lQTRnQnd3VDN4cVBNSVVEZmI3V1BENEZJYmp2ZjhhSDR0bW5lSDBTXzlhaFBTbjZLYl93a21ONElqekZmZQ?oc=5</link><description>[score: 0.887] コンゴのエボラ死者、過去最悪2325人に 感染者の約半数死亡 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMieEFVX3lxTE9XZ3U2SklLQkh4WTZJS3lJN2VjWnVBdEtVMmFvam1TWUdIWURhY0NyNmxrajVVVWtqVF9lQTRnQnd3VDN4cVBNSVVEZmI3V1BENEZJYmp2ZjhhSDR0bW5lSDBTXzlhaFBTbjZLYl93a21ONElqekZmZQ?oc=5</guid><pubDate>Mon, 17 Aug 2026 02:21:56 +0000</pubDate></item><item><title>トランプ氏、米韓軍事演習の大幅縮小指示 金正恩氏との関係強調 - ロイター</title><link>https://news.google.com/rss/articles/CBMiekFVX3lxTE9LVzdBOEJiMWRGQ09PSDJXMXg4RUgxdnlHTjlFSHJ6czk0OEhWZHlHUjVIREQyU1VuNHJETENHQjZackxsaV9scmN1emc4ZnhRVnlpbEZNVzRERzRTTE8tRGwydHQ3V24wVEFIeWhrTVNNOXlPSXdLLWN3?oc=5</link><description>[score: 0.889] トランプ氏、米韓軍事演習の大幅縮小指示 金正恩氏との関係強調 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiekFVX3lxTE9LVzdBOEJiMWRGQ09PSDJXMXg4RUgxdnlHTjlFSHJ6czk0OEhWZHlHUjVIREQyU1VuNHJETENHQjZackxsaV9scmN1emc4ZnhRVnlpbEZNVzRERzRTTE8tRGwydHQ3V24wVEFIeWhrTVNNOXlPSXdLLWN3?oc=5</guid><pubDate>Sun, 16 Aug 2026 23:23:38 +0000</pubDate></item><item><title>Anthropicの電子透かし導入発表直後に登場した透かし剥がしOSS「watermarks-remover」がClaude・Gemini・OpenAIに対応（生成AIクローズアップ）</title><link>https://www.techno-edge.net/article/2026/08/17/5398.html</link><description>[score: 0.891] 1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。
+今回は、AIで書かれたことを表す電子透かし（ウォーターマーク）やメタデータを除去するオープンソースツール「watermarks-remover」を取り上げます。
+AnthropicはEU AI法第50条への対応として、8月2日以降にリリースされたClaudeのモデルで生成されたテキストに、知覚できない電子透かしを埋め込むと公表しました。
+この発表後すぐに「watermarks-remover」という電子透かし除去ツール</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/08/17/5398.html</guid><pubDate>Sun, 16 Aug 2026 22:16:25 +0000</pubDate></item><item><title>https://x.com/Zai_org/status/2088280509474320693</title><link>https://x.com/Zai_org/status/2088280509474320693</link><description>[score: 0.892] https://x.com/Zai_org/status/2088280509474320693 misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86 Z.aiがGLM-5.3を段階公開へ。ExploitBenchは24.4%→54.4%。269プロジェクトで2,436件の脆弱性を発見。安全評価後に完全なモデルウェイト公開を予定。</description><guid isPermaLink="false">https://x.com/Zai_org/status/2088280509474320693</guid><pubDate>Mon, 17 Aug 2026 06:27:30 +0000</pubDate></item><item><title>両毛システムズ、社内システムに不正アクセス被害</title><link>https://www.itmedia.co.jp/news/article/2608/17/2000000566/</link><description>[score: 0.893] 両毛システムズ、社内システムに不正アクセス被害
+行政や水道、製造分野などにITソリューションを提供する両毛システムズは8月15日、社内システムに対する不正アクセスが発生したと発表した。情報流出などの影響は「確認中」で、詳細は判明していない。
+不正アクセスは8月14日に確認。原因や侵入経路の特定、被害範囲の調査を進めるとともに、復旧に向けた対応を行っているという。
+同社は「新たな事実が判明した場合には速やかに続報を公表する」としている。
+Copyright © ITmedia, Inc. All Rights Reserved.
+この記事の著者
 関連記事
-学生のSetlog認知</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/08/17/53105</guid><pubDate>Sun, 16 Aug 2026 21:21:37 +0000</pubDate></item><item><title>20年前に衝撃を受けたBrainGate 脳でPCカーソルを動かすBCIとAI時代</title><link>https://qiita.com/s_horikoshi/items/22804dfa955e2ce46255?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] はじめに
-2005年、頭部に埋め込んだ電極から信号を取り出し、人が考えるだけでPCのカーソルを動かす映像を見ました。
-頭部の接続部からケーブルが伸び、外部のコンピューターにつながっている。手でマウスを操作していないのに、画面上のカーソルが動く。
-「人間の脳とPCは、ここまで直接やり取りできるのか」と、強い衝撃を受けたのを今でも覚えています。
-私が見たのは、2005年11月5日に放送されたNHKスペシャル「立花隆 最前線報告 サイボーグ技術が人類を変える」です。放送当時、私は20歳でした。
-※この画像は、BCIの信号経路を伝えるために作成した概念図です。実際のBrainGate装置や研究参加者を</description><guid isPermaLink="false">https://qiita.com/s_horikoshi/items/22804dfa955e2ce46255?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 16 Aug 2026 20:24:15 +0000</pubDate></item><item><title>メモリーをGPUの真上に載せる——SamsungのzHBMは何を解決し、何を難しくするのか？</title><link>https://note.com/lifeisbeautiful/n/n49f080a4e58c</link><description>[score: 0.890] メモリーをGPUの真上に載せる——SamsungのzHBMは何を解決し、何を難しくするのか？
-When Distance Becomes Architecture
-Samsungが開発中の新しいメモリー「zHBM」を題材に、AIチップの性能を決めるのは計算力ではなく「データをどれだけ短い距離で運べるか」になりつつある、と解説した記事です。
-記事はまず、次のAIチップ競争は「計算する回路をもっと増やす」ことでは勝てない、という前提から始まります。難しいのは、増やした計算回路を遊ばせずに済むだけの速さでデータを供給し続けること、しかも電力の使い道がどんどんデータ運搬に食われていく状況でそれをやるこ</description><guid isPermaLink="false">https://note.com/lifeisbeautiful/n/n49f080a4e58c</guid><pubDate>Sun, 16 Aug 2026 19:45:59 +0000</pubDate></item><item><title>コードレビューで身についた技術と、メンタルを守るための習慣</title><link>https://qiita.com/NekoByte/items/d09be87764a66c9077f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] 導入
-初めてコードレビューを受けたとき、指摘されるたびに胸がざわついたことを覚えている。自分の書いたコードが「間違っている」と言われると、自分はまだまだだめなんだという気持ちが湧いてきて、次のレビューが怖くなる。レビューのコメントを見るだけで「また指摘されるんだろうな」とため息が出たし、夜になると今日あった指摘を頭の中で繰り返し、眠れなくなることもあった。同じように悩んでいる駆け出しエンジニアの皆さん、きっとこの気持ちは共感できるはずだ。今回は、自分が実際にレビューを通じて学んだ技術的なポイントと、気持ちを落ち着かせるために取り入れた習慣について、具体的なエピソードを交えながらお伝えしたい。
-</description><guid isPermaLink="false">https://qiita.com/NekoByte/items/d09be87764a66c9077f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 16 Aug 2026 20:24:15 +0000</pubDate></item><item><title>Claude Managed Agents Workshop(大阪開催)に参加しました！</title><link>https://qiita.com/Maruhoppe8/items/9be555d1f349d9c73d78?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.892] １．はじめに
-先月、Claude Managed Agents Workshopに参加させていただきました！
-これは、Claude Community Ambassadorの森田さん（@moritalous）が主催されたものですぐに満席となったそうです！2026/8/18(火)にも開催されるみたいです！
-ただし現在はまた満員のようです・・・。
-下記から、この素敵なワークショップを体感することもできます！(ただしワークショップ参加以外の場合、料金負担が必要になります。ご注意ください)
-https://moritalous.github.io/claude-managed-agents-works</description><guid isPermaLink="false">https://qiita.com/Maruhoppe8/items/9be555d1f349d9c73d78?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 16 Aug 2026 20:24:15 +0000</pubDate></item><item><title>さくらのAIと話したかっただけなのに。。。人生初APIで、会話履歴をJSON保存し始めたセキュリティエンジニアの話</title><link>https://qiita.com/Maruhoppe8/items/70b9777bac0159c840ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.893] １．はじめに
-１－１．今回のポイント
-APIの実装経験がほぼない状態から、さくらのAI Engine APIを使って、会話履歴を保持できる自分用チャット環境を作ってみました。
-きっかけは、Playgroundで生成AIとやりとりしていたところ、ログインし直したタイミングで会話履歴が消えてしまったことです。
-それなら、自分で履歴を保存できる簡易チャット環境を作ってみようと思い、最終的に次の機能を実装しました。
-- prompt.txtに書いた内容をAIへ送信する
-- 会話履歴をJSONファイルに保存する
-- AIとのやりとりをHTMLで確認できるようにする
-- 任意のタイミングでセッションをリセ</description><guid isPermaLink="false">https://qiita.com/Maruhoppe8/items/70b9777bac0159c840ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 16 Aug 2026 20:24:15 +0000</pubDate></item><item><title>AI生成テキストの「透かし」が埋め込まれる仕組み</title><link>https://gigazine.net/news/20260816-ai-text-watermarking/</link><description>[score: 0.894] AI生成テキストの「透かし」が埋め込まれる仕組み
-AIが生成したコンテンツに目印を埋め込んで区別できるようにする「ウォーターマーク」が注目されており、OpenAIが試験的に導入したりAnthropicが導入を発表したりしています。画像と違ってデータを隠すためのピクセルがないテキストにはどのようにウォーターマークを入れるのかという仕組みについて、人間とAIの関係性について調査・研究するNOPEが解説しています。
-How AI text watermarking works: a visual guide
-https://declaude.org/watermarking/
-AI企業のAnthro</description><guid isPermaLink="false">https://gigazine.net/news/20260816-ai-text-watermarking/</guid><pubDate>Sun, 16 Aug 2026 10:25:03 +0000</pubDate></item><item><title>「北方領土はロシアが領有…」加藤登紀子の発言にTBSアナ補足「正しくは実効支配」 - 芸能 : 日刊スポーツ</title><link>https://www.nikkansports.com/entertainment/news/202608160000671.html</link><description>[score: 0.898] 「北方領土はロシアが領有…」加藤登紀子の発言にTBSアナ補足「正しくは実効支配」 - 芸能 : 日刊スポーツ 歌手の加藤登紀子（82）が16日、TBS系「サンデーモーニング」（日曜午前8時）に出演。ロシアのプーチン大統領が北方領土を初訪問したことをめぐり、「現実に求められているのは領土ではなくて平和」と訴えるシーンがあった。 プーチン氏は13日に択捉島を初訪問。水産加工施設などを視察し、住民と触れ合う様子が国営メデ...</description><guid isPermaLink="false">https://www.nikkansports.com/entertainment/news/202608160000671.html</guid><pubDate>Sun, 16 Aug 2026 19:07:14 +0000</pubDate></item><item><title>エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした - Qiita</title><link>https://qiita.com/jksoft/items/65f7824679ddf171a93d</link><description>[score: 0.903] 「見事な手さばき」を笑えなかった話
-先日、隣の席の若手エンジニアの画面をたまたま見て、手が止まりました。
-エラーが出る。
-コピーする。
-AI に貼る。
-返ってきたコードを貼り直す。
-動く。次のタスクへ。
-ここまで、およそ 3 秒 × 数往復。見事でした。
-ですが、エラーメッセージを、本人は一度も読んでいませんでした。
-「最近の若手は」という話をしたいのではありません。話はここからです。
-その日の午後、自分の画面で見慣れないエラーが出ました。いつものように AI に貼ろうとして、ふと手を止めて、試しに自力で読んでみることにしたんです。
-読めませんでした。
-正確に言うと、読む前に「AI に貼れば済</description><guid isPermaLink="false">https://qiita.com/jksoft/items/65f7824679ddf171a93d</guid><pubDate>Sun, 16 Aug 2026 20:45:59 +0000</pubDate></item><item><title>Qwen3.8-27B(量子化モデル)を手元の自作PCで雑に動かして検証してみる</title><link>https://qiita.com/helloworld_0203/items/2f076de853266d6c8325?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.914] はじめに
-2026年8月にリリースされたばかりの Qwen3.8-27B を、手元の自作PC(RTX 4070・12GB VRAM)で動かせるか検証してみました。
-普段はClaude CodeやOpenCode(さくらのAI Engine経由)のような、クラウドLLMを使ったコーディングエージェントを利用することが多いですが、実はローカルLLMはほぼ触ったことがなく、LLM自体の仕組みにもそこまで詳しくありません。今回は正直に言うと、Qwen3.8-27Bがなんか盛り上がってそうだったので「試しに動かしてみるか、せっかくだし勉強がてら」くらいのノリで始めました。加えて、自分のPC(RTX 40</description><guid isPermaLink="false">https://qiita.com/helloworld_0203/items/2f076de853266d6c8325?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 16 Aug 2026 20:24:15 +0000</pubDate></item></channel></rss>
+こんなメディアも見られています
+ITme</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2608/17/2000000566/</guid><pubDate>Mon, 17 Aug 2026 05:54:26 +0000</pubDate></item><item><title>中国の新興ＡＩモデル、ソフトの脆弱性検出でミュトス５に迫る - ロイター</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE1PR0tHVzhkY2ppT3ZsT0hYNk5yYm9tWWNwQUxTRVJMb3NGOURIaWd3cmhlMGJnVjZkTGZiNXlIVndYckhiRG9Ua2NsLWxSd0hicUF2dEFkSzluV2VBUlJPaU92VDZ5LUw1WXgyMWZRQTRCY0Y2QVhscm1ZWXZldw?oc=5</link><description>[score: 0.894] 中国の新興ＡＩモデル、ソフトの脆弱性検出でミュトス５に迫る ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE1PR0tHVzhkY2ppT3ZsT0hYNk5yYm9tWWNwQUxTRVJMb3NGOURIaWd3cmhlMGJnVjZkTGZiNXlIVndYckhiRG9Ua2NsLWxSd0hicUF2dEFkSzluV2VBUlJPaU92VDZ5LUw1WXgyMWZRQTRCY0Y2QVhscm1ZWXZldw?oc=5</guid><pubDate>Mon, 17 Aug 2026 05:20:29 +0000</pubDate></item><item><title>Ruby on Railsコードを書くのに最適なエージェントは？ Agents on Railsプロジェクトがベンチマークレポートを発表</title><link>https://gihyo.jp/article/2026/08/agents-on-rails-benchmark?utm_source=feed</link><description>[score: 0.894] Rails Foundationは2026年8月13日、Ruby on Railsタスクに対するコーディングエージェント比較プロジェクト
+使用したモデルは以下の8種。
+- Anthropic Claude Opus 5
+- Anthropic Claude Fable 5
+- MoonshotAI Kimi-K3
+- OpenAI GPT-5.
+6 Sol - OpenAI GPT-5.
+6 Luna - Meta Muse Spark 1.
+2 - Z.
+ai GLM-5. 2 - DeepSeek V4 Flash
+またこれに加えて、SpaceXAI Grok 4.
+今回行ったベンチマーク</description><guid isPermaLink="false">https://gihyo.jp/article/2026/08/agents-on-rails-benchmark?utm_source=feed</guid><pubDate>Mon, 17 Aug 2026 05:33:25 +0000</pubDate></item><item><title>OpenAI、ChatGPTを“日常の相棒”として描く日本初広告</title><link>https://www.watch.impress.co.jp/docs/news/2133129.html</link><description>[score: 0.895] ニュース
+OpenAI、ChatGPTを“日常の相棒”として描く日本初広告
+2026年8月17日 14:45
+OpenAIは、日本初となるChatGPTのブランドキャンペーンを8月よりYouTubeやデジタル広告などで順次展開する。ChatGPTを、アイデアを成果に変えることを助ける相棒として描く。
+キャンペーンでは、ChatGPTの機能そのものよりも、人が何をつくりたいのか、何を変えたいのか、何を成し遂げたいのかに焦点を当て、仕事や生活の中で一歩を踏み出す様子を描く。
+映像は、地方転勤を機に新しい生活を形づくる会社員、新たな顧客を呼び込む看板ドーナツを考案するカフェオーナー、事務作業をCha</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2133129.html</guid><pubDate>Mon, 17 Aug 2026 05:51:39 +0000</pubDate></item><item><title>アングル：米のイラン制裁強化、トランプ政権に残された選択肢 - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5KSERYTWVISlBxZzJNeUZQZGxVeFdRVVVKdXlKWHNVUUlLSE50QmpzQVRSMkFDdnJkTHZqTXlrdkozMnBxMUJGT3FBNENJUGNJWFN4c0RxTVk3UmxXd1FrNzY3clhzOWpiZlI2SVhieWxsUEVtQV9qejdXTnJTQdIBgwFBVV95cUxQWkYwajczLWhNLWhpc0trTUNzZHZoX0lOdkxvaHJJX2F5UUlXUXhaUlhIVzl0RlJMSHVRUkVDR18zRnNPUW1YY2UtWlRzUms5TGZJcmE0eFNBcVZoWnRjQkhwdVRqVXVOSGZ3T1NMdXNuYldCTURzbVFlMWhtYkRvRWhUYw?oc=5</link><description>[score: 0.896] アングル：米のイラン制裁強化、トランプ政権に残された選択肢 ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE5KSERYTWVISlBxZzJNeUZQZGxVeFdRVVVKdXlKWHNVUUlLSE50QmpzQVRSMkFDdnJkTHZqTXlrdkozMnBxMUJGT3FBNENJUGNJWFN4c0RxTVk3UmxXd1FrNzY3clhzOWpiZlI2SVhieWxsUEVtQV9qejdXTnJTQdIBgwFBVV95cUxQWkYwajczLWhNLWhpc0trTUNzZHZoX0lOdkxvaHJJX2F5UUlXUXhaUlhIVzl0RlJMSHVRUkVDR18zRnNPUW1YY2UtWlRzUms5TGZJcmE0eFNBcVZoWnRjQkhwdVRqVXVOSGZ3T1NMdXNuYldCTURzbVFlMWhtYkRvRWhUYw?oc=5</guid><pubDate>Mon, 17 Aug 2026 06:19:57 +0000</pubDate></item><item><title>https://x.com/OpenAI/status/2087996496088297746</title><link>https://x.com/OpenAI/status/2087996496088297746</link><description>[score: 0.897] https://x.com/OpenAI/status/2087996496088297746 misshiki OpenAI%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD ChatGPTに「Computer History」。PC上のアプリ・Web活動を記憶し、会話を個人化。Chronicle比でトークン削減・プライバシー強化。Mac版でPro/Business/Enterprise向けに展開中。</description><guid isPermaLink="false">https://x.com/OpenAI/status/2087996496088297746</guid><pubDate>Mon, 17 Aug 2026 06:27:30 +0000</pubDate></item><item><title>コンゴのエボラ死者、過去最悪2325人に 感染者の約半数死亡（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE03dUZxTXRuM1M1dlEydFNGUnNNUDN5X1ZSZzgwLS0wYXJOR2g0dGRlbkowNG1yeGFiVlJjbVNuSnhsWm9fTjFYRDBsdFlpREtnWmNKZ0ZkcGxFSWF6OWNrNXBiX0xma1dtcFgtbktFOGNrVFZEeVNyMnBNMDNVVXM?oc=5</link><description>[score: 0.897] コンゴのエボラ死者、過去最悪2325人に 感染者の約半数死亡（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE03dUZxTXRuM1M1dlEydFNGUnNNUDN5X1ZSZzgwLS0wYXJOR2g0dGRlbkowNG1yeGFiVlJjbVNuSnhsWm9fTjFYRDBsdFlpREtnWmNKZ0ZkcGxFSWF6OWNrNXBiX0xma1dtcFgtbktFOGNrVFZEeVNyMnBNMDNVVXM?oc=5</guid><pubDate>Mon, 17 Aug 2026 05:20:29 +0000</pubDate></item><item><title>アメリカとイランの覚書形骸化 事態打開の糸口見いだせず</title><link>https://news.web.nhk/newsweb/na/nd-20260817de44493</link><description>[score: 0.898] アメリカとイランが戦闘終結に向けて交わした覚書は、16日、当初、定められた交渉期限を迎えました。
+しかし、覚書は形骸化し、ホルムズ海峡での船舶の航行をめぐる両国の主張は平行線をたどったままで、事態打…
+あわせて読みたい
+“交渉期限”迫る イラン「停戦存在せず」 米も対決姿勢
+8月16日 15:40
+トランプ大統領 米韓合同軍事演習“縮小を指示”
+8月17日 14:35
+リヒテンシュタイン 女性も国家元首可能に 欧州で転換進む
+8月17日 7:23
+論文盗用疑惑のケンブリッジ大元教授死亡 疑惑に人種差別訴え
+8月17日 7:34
+ブラジル大統領選挙の選挙戦始まる 現職と前大統領長男が軸に
+8月1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260817de44493</guid><pubDate>Mon, 17 Aug 2026 04:52:52 +0000</pubDate></item><item><title>トランプ米大統領、米韓軍事演習の縮小を発表　イラン戦争に協力しない韓国を批判</title><link>https://www.cnn.co.jp/world/35251590.html</link><description>[score: 0.899] 16日、米アンドルーズ統合基地に到着した大統領専用機から降りてくるトランプ大統領/Kent Nishimura/AFP/Getty Images （CNN） 米国のドナルド・トランプ大統領は16日、韓国との合同軍事演習を縮小すると発表した。北朝鮮の金正恩（キムジョンウン）総書記との良好な関係や、韓国がイランとの戦争に協力しないことを理由として挙げている。 トランプ氏は自身のSNS「トゥルース・ソーシャル」への投稿で、「私は北朝鮮の金正恩との非常に良好な関係に基づき、米国がかなり前に韓国との合同軍事演習への参加に合意した事実を快く思っていない。そうした演習はコストがかさむだけでなく、そのコストの</description><guid isPermaLink="false">https://www.cnn.co.jp/world/35251590.html</guid><pubDate>Mon, 17 Aug 2026 01:15:52 +0000</pubDate></item><item><title>Claudeの隠された電子透かしに、テック業界関係者は懸念を抱いている。アンソロピックはいくつかの回答を示した</title><link>https://www.businessinsider.jp/article/2608-anthropic-claude-text-watermark-concerns-tech-community-answers/</link><description>[score: 0.900] Claudeが生成したテキストに不可視の電子透かしを挿入するというアンソロピックの計画は、シリコンバレーやテック界の重要人物たちの間で疑問と動揺を引き起こしている。
+アンソロピックは8月、一部のClaudeモデルにおいて、出力されるテキストデータへ直接「知覚できない電子透かし（不可視ウォーターマーク）」を埋め込むと発表した。この透かしデータは、テキストがコピー＆ペーストされた際にもコンテンツとともに保持され、一定程度の文章編集を経た後でも消えずに残るため、AIが生成した素材と人間が書いた文章とを明確に判別する助けになるという。
+Anthropicはこのシステムが具体的にどのようなアルゴリズムで</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2608-anthropic-claude-text-watermark-concerns-tech-community-answers/</guid><pubDate>Mon, 17 Aug 2026 01:10:30 +0000</pubDate></item><item><title>OpenAIがAIのもたらす深刻なリスクを評価・軽減することを目的とした危機管理チーム</title><link>https://gigazine.net/news/20260817-openai-reportedly-disbanded-preparedness-team/</link><description>[score: 0.906] OpenAIがAIのもたらす深刻なリスクを評価・軽減することを目的とした危機管理チームが解散
+OpenAIがAIがもたらす深刻なリスクを評価・軽減することを目的とした危機管理チーム「Preparedness」を解散したと報じられています。
+OpenAI upheaval mounts as Sam Altman readies IPO push
+https://www.ft.com/content/53082739-7714-4aae-9816-e55ab423cbee
+OpenAI reportedly disbanded its preparedness team | The Verge
+</description><guid isPermaLink="false">https://gigazine.net/news/20260817-openai-reportedly-disbanded-preparedness-team/</guid><pubDate>Mon, 17 Aug 2026 04:34:36 +0000</pubDate></item><item><title>なぜ、AI時代においてC#は最適な言語の1つなのか？ - Qiita</title><link>https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403</link><description>[score: 0.907] はじめに
+AI が開発現場に入り込んだ今、私たちは「どの言語で書けば、AI と一緒に生産性を上げられるか」をあらためて考える必要があります。
+その問いに対して、私は C# をとても強く推したいです。
+理由はシンプルです。C# は、AI が生成するコードの質を人間が早く見抜き、なおかつ安全に運用できるように設計された言語だからです。
+AI には、たとえ文法は正しくても、意味が崩れているコードを量産するという特性があります。つまり、今の時代に重要なのは「AI が勝手にコードを書けるか」ではなく、AI が書いたコードをすぐに検証・修正できるかです。
+C# はその点で非常に強いです。
+- 強い型システ</description><guid isPermaLink="false">https://qiita.com/tomokusaba/items/45b66545bb7ea88e8403</guid><pubDate>Mon, 17 Aug 2026 06:25:02 +0000</pubDate></item><item><title>「AIが生成した文章であることを示す電子透かし」についてAnthropicが公式解説</title><link>https://gigazine.net/news/20260817-anthropic-claude-text-watermark/</link><description>[score: 0.909] 「AIが生成した文章であることを示す電子透かし」についてAnthropicが公式解説
+EUの法律に準拠するため、AnthropicはClaudeが生成したコンテンツに「透かし(ウォーターマーク)」を追加する予定です。Anthropicが、「文章」に追加する透かしの仕組みを解説しました。
+How Claude's text watermarking works \ Anthropic
+https://www.anthropic.com/news/claude-text-watermark
+文章の透かしは肉眼で確認できる何かではなく、単語の選択パターンです。技術的にはGoogle DeepMind</description><guid isPermaLink="false">https://gigazine.net/news/20260817-anthropic-claude-text-watermark/</guid><pubDate>Mon, 17 Aug 2026 02:52:43 +0000</pubDate></item><item><title>Z.aiがコーディング能力に優れたオープンウェイトAIモデル「GLM-5.3」リリース、前モデル比で50％の性能向上</title><link>https://gigazine.net/news/20260817-z-ai-glm-5-3/</link><description>[score: 0.911] Z.aiがコーディング能力に優れたオープンウェイトAIモデル「GLM-5.3」リリース、前モデル比で50％の性能向上
+中国のAI企業・Z.ai(北京智譜華章科技)が、コーディング能力に優れ、サイバーセキュリティタスクでは「これまでで最も有能なモデル」だというAIモデル「GLM-5.3」をリリースしました。
+GLM-5.3: Frontier Coding with Emergent Cyber Capabilities
+https://z.ai/blog/glm-5.3
+Introducing GLM-5.3: Built to Code. Ready for Cyber Defense.
+—</description><guid isPermaLink="false">https://gigazine.net/news/20260817-z-ai-glm-5-3/</guid><pubDate>Mon, 17 Aug 2026 03:11:43 +0000</pubDate></item><item><title>https://x.com/cwmasaki/status/2088433897445171301</title><link>https://x.com/cwmasaki/status/2088433897445171301</link><description>[score: 0.912] https://x.com/cwmasaki/status/2088433897445171301 misshiki CodexClaude%20Code 「今ならCodexを選ぶ」。App UX、Browser-use、Compaction、Luna、App Serverを評価。一方Claude CodeはFable、hooks、Managed Agents、組織統制が強み。設計・レビューはClaude、実装はCodexで併用。</description><guid isPermaLink="false">https://x.com/cwmasaki/status/2088433897445171301</guid><pubDate>Mon, 17 Aug 2026 06:27:30 +0000</pubDate></item><item><title>Claude Code 2026年5月～8月 週間利用制限プロモーション | Anthropicヘルプセンター</title><link>https://support.claude.com/ja/articles/15910845-claude-code-2026%E5%B9%B45%E6%9C%88-8%E6%9C%88-%E9%80%B1%E9%96%93%E5%88%A9%E7%94%A8%E5%88%B6%E9%99%90%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3</link><description>[score: 0.915] Claude Code 2026年5月～8月 週間利用制限プロモーション | Anthropicヘルプセンター このプロモーションはPro、Max、Teamプランのほか、Enterpriseプランのレガシーシートベースユーザーが対象です。Freeプランと従量課金ベースのEnterpriseシートはこのプロモーションに含まれません。 misshiki Claude%20Code まもなく終了...。Claude Codeの週間利用制限が期間限定で50%増。Pro/Max/Teamなどが対象で8月19日まで。5時間制限は変更なし。対象者には自動適用。</description><guid isPermaLink="false">https://support.claude.com/ja/articles/15910845-claude-code-2026%E5%B9%B45%E6%9C%88-8%E6%9C%88-%E9%80%B1%E9%96%93%E5%88%A9%E7%94%A8%E5%88%B6%E9%99%90%E3%83%97%E3%83%AD%E3%83%A2%E3%83%BC%E3%82%B7%E3%83%A7%E3%83%B3</guid><pubDate>Mon, 17 Aug 2026 06:27:30 +0000</pubDate></item><item><title>https://x.com/lmstudio/status/2088284427826643052</title><link>https://x.com/lmstudio/status/2088284427826643052</link><description>[score: 0.916] https://x.com/lmstudio/status/2088284427826643052 misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86 LM StudioにQwen3.8-27B登場。約17GBでローカル実行可能。27BのマルチモーダルDenseモデルで、262Kコンテキスト、1Mまで拡張可能。</description><guid isPermaLink="false">https://x.com/lmstudio/status/2088284427826643052</guid><pubDate>Mon, 17 Aug 2026 06:27:30 +0000</pubDate></item><item><title>ローカルで動かせる「Qwen3.8-27B」が無償公開、一部ベンチマークでClaude Opus 4.6 Max超え</title><link>https://gigazine.net/news/20260817-qwen3-8-27b/</link><description>[score: 0.931] ローカルで動かせる「Qwen3.8-27B」が無償公開、一部ベンチマークでClaude Opus 4.6 Max超え
+アリババのQwenチームが270億パラメーターのAIモデル「Qwen3.8-27B」を公開しました。モデルのウェイトはApache License 2.0で公開されており、条件を守れば商用利用も可能。手元のPCに導入できるオープンウェイトモデルながら、一部の性能テストではAnthropicの高性能モデル「Claude Opus 4.6 Max」を上回る結果も報告されています。
+We promised open weights for Qwen3.8. Now, time to </description><guid isPermaLink="false">https://gigazine.net/news/20260817-qwen3-8-27b/</guid><pubDate>Mon, 17 Aug 2026 04:54:38 +0000</pubDate></item></channel></rss>
