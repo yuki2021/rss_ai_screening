@@ -1,160 +1,88 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 19 Aug 2026 21:34:18 +0000</lastBuildDate><item><title>トランプ氏の政策決定に私益が影響、米国民の7割が回答＝調査 - ロイター</title><link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBrZzZoYU92d0ZEWTRZR2prZ1p5WlZHNFF1N2g1U25fdmIyQWZDcllPeWR6WW03NkVxNjBQNHRSd2YtdEE3cmtfamw1M2d1VzktU1Q1VGJ3YmtuNTdEX0FYNXdJbzVWLUpSekFyMUFyQVdPdERBb0huVXlR?oc=5</link><description>[score: 0.877] トランプ氏の政策決定に私益が影響、米国民の7割が回答＝調査 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiekFVX3lxTFBrZzZoYU92d0ZEWTRZR2prZ1p5WlZHNFF1N2g1U25fdmIyQWZDcllPeWR6WW03NkVxNjBQNHRSd2YtdEE3cmtfamw1M2d1VzktU1Q1VGJ3YmtuNTdEX0FYNXdJbzVWLUpSekFyMUFyQVdPdERBb0huVXlR?oc=5</guid><pubDate>Wed, 19 Aug 2026 15:49:48 +0000</pubDate></item><item><title>中韓外相会談始まる 朝鮮半島情勢めぐり意見交換か</title><link>https://news.web.nhk/newsweb/na/nd-20260819de45145</link><description>[score: 0.878] 中国の王毅外相は、19日から韓国を訪問していて、チョ・ヒョン（趙顕）外相との会談が始まりました。アメリカのトランプ大統領が、北朝鮮のキム・ジョンウン（金正恩）総書記との会談を実現するよう、側近らに求め…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 20 Aug 2026 06:45:58 +0000</lastBuildDate><item><title>LLMは人間ほど創造的ではない　Google DeepMind研究者が指摘するAIの限界</title><link>https://forbesjapan.com/articles/detail/103254?s=ns</link><description>[score: 0.885] 人工知能（AI）には、欠けている要素がある。現実世界の状況に促されて、数値処理から真に独創的、あるいは新規性のある思考へと飛躍する能力はまだない。
+これは、Google DeepMindのディスカバリーチーム共同リードであるトム・ザハヴィの見解だ。ザハヴィは新たな論文で、AIは自力で独創的な発見をすることができないと指摘している。この論文は、科学的発見におけるAIの限界を論じることを目的としているが、ビジネスの現場におけるAIの創造力にも示唆を与えるものだ。
+ザハヴィは、アインシュタインが一般相対性理論を定式化するに至った過程を分析し、「科学的発見が単にこの2つの部分の総和にすぎないのであれば</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103254?s=ns</guid><pubDate>Thu, 20 Aug 2026 04:55:02 +0000</pubDate></item><item><title>台風18号 23日には非常に強い勢力に発達か 今後の情報に注意を</title><link>https://news.web.nhk/newsweb/na/nd-20260820de45221</link><description>[score: 0.885] 19日に日本のはるか南東の海上で発生した台風18号は、23日・日曜日には非常に強い勢力に発達する見込みです。来週、南西諸島に近づくおそれがあり、気象庁は今後の情報に注意するよう呼びかけています。
+…
 あわせて読みたい
-トランプ大統領 秋にも米朝首脳会談を側近らに要求 米報道
-8月19日 17:47
-トランプ大統領 “北朝鮮 対話呼びかけに対し非常に前向き”
-8月18日 7:30
-中国とオーストラリア 南太平洋をめぐる攻防
-8月19日 16:25
-韓国軍「米韓合同軍事演習 21日まで」 期間半分程度に短縮発表
-8月19日 12:29
-米大統領「急いでいない」イラン高官“不履行なら攻撃開始”
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260819de45145</guid><pubDate>Wed, 19 Aug 2026 12:42:49 +0000</pubDate></item><item><title>米国株式市場＝小反発、利回り低下でリスク選好高まる モデルナ急騰(ロイター) - Yahoo!ファイナンス</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOVlR1UDVuNHVzZVZpMnFSYndfcVloTTNjM2dnb0Z5OHB6R3E4T0RyUXN0WE1GamtSTnk1emhSWk13Z2pOUGxpc0ZudEdQRDNzelJwRm9hTVBDYWZTOEdkQ3VxQkxQNXItWU5MRjlCS2JReTJ6RkFEWVlvVzBMd240ajUwWUdUOEU?oc=5</link><description>[score: 0.878] 米国株式市場＝小反発、利回り低下でリスク選好高まる モデルナ急騰(ロイター) Yahoo!ファイナンス</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxOVlR1UDVuNHVzZVZpMnFSYndfcVloTTNjM2dnb0Z5OHB6R3E4T0RyUXN0WE1GamtSTnk1emhSWk13Z2pOUGxpc0ZudEdQRDNzelJwRm9hTVBDYWZTOEdkQ3VxQkxQNXItWU5MRjlCS2JReTJ6RkFEWVlvVzBMd240ajUwWUdUOEU?oc=5</guid><pubDate>Wed, 19 Aug 2026 20:51:03 +0000</pubDate></item><item><title>AI研究者が警告する「人類滅亡」　SFと笑えない、予測超えた現実：朝日新聞</title><link>https://www.asahi.com/articles/ASV8L3GYQV8LUHBI00TM.html</link><description>[score: 0.878] AI（人工知能）が急激に賢さを増している。
-このままいくと、自ら進化を繰り返す「知能爆発」が起き、人類の制御を超えた「超知能」が誕生するとされる。
-待っているのはどんな未来か。
-それは今から数年の間に、人類が取る選択肢によって変わるかもしれない。
-米オープンAIの元研究者ダニエル・ココタイロ氏らが7月、リポート「AI 2040」を公表した。人類が進みうる五つの道筋が提示されている。
-最良の「プランA」はこうだ。
-米国大統領が呼びかけて…
-2029年、人類の制御が利かなくなる知能爆発を避けるため、米国の大統領が国際協調を呼びかける。開発競争を繰り広げる米中は交渉の末、開発スピードを緩めることで合</description><guid isPermaLink="false">https://www.asahi.com/articles/ASV8L3GYQV8LUHBI00TM.html</guid><pubDate>Wed, 19 Aug 2026 10:11:38 +0000</pubDate></item><item><title>当社システムへの不正アクセスに関するご案内 | さくらのサポート情報</title><link>https://help.sakura.ad.jp/unauth-access-faq/</link><description>[score: 0.878] このたびは、お客さま、お取引先、パートナー企業その他関係者の皆さまに、多大なるご心配とご迷惑をおかけしておりますことを深くお詫び申し上げます。
-2026年8月19日に公表いたしました「当社システムへの不正アクセスに関するお知らせ（第二報）」に関し、本ページではお客さま向けの情報をまとめてご案内しております。
-最新のニュースリリース、よくあるご質問（FAQ）のほか、必要なお知らせを随時掲載いたします。
-最新のニュースリリース
-当社システムへの不正アクセスに関するお知らせ（第二報）（2026/8/19）よくあるご質問
--
-今回の第二報は何ですか。第一報と何が変わったのですか。
--
-第一報では「さく</description><guid isPermaLink="false">https://help.sakura.ad.jp/unauth-access-faq/</guid><pubDate>Wed, 19 Aug 2026 13:45:55 +0000</pubDate></item><item><title>再び長期金利2.9%…年金マネーに国債を買わせる〈財政難の国家あるある〉を目論むのなら知っておくべき歴史の教訓 | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/955192?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.878] コンテンツブロックが有効であることを検知しました。
+台風接近前にやっておきたい備え「タイムライン」で
+岩手で猛烈な雨か 危険警報の発表も 土砂災害など厳重警戒
+8月20日 15:37
+高校野球 健大高崎が初の決勝進出 天理に競り勝つ【詳報】
+8月20日 15:00
+高校野球 智弁和歌山 5年ぶり決勝へ 横浜に逆転勝ち【詳報】
+8月20日 13:18
+熊本地震 被災地は午前中から猛烈な暑さ 熱中症対策の徹底を
+8月20日 14:06</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260820de45221</guid><pubDate>Thu, 20 Aug 2026 03:01:08 +0000</pubDate></item><item><title>【地震速報】茨城 水戸で震度3 津波の心配なし</title><link>https://news.web.nhk/newsweb/na/nd-20260819de44929</link><description>[score: 0.886] 20日午後2時28分ごろ、茨城県で震度3の揺れを観測する地震がありました。
+この地震による津波の心配はありません。
+震度3の揺れを観測したのは水戸市で、このほか震度2や1の揺れを関東や福島県の各…
+地震マップ 最新の震度分布・震源をリアルタイム更新
+【最新の地震情報】各地の震度・震源を詳しく
+地震動予測地図 震度6弱以上 各地の揺れリスク
+「地震への備え」特選コンテンツ
+首都直下地震 新たな被害想定 “死者 最大1万8000人”
+首都直下地震 あなたの街の揺れは？自治体ごとの震度を詳しく
+長周期地震動とは？震源から離れても大きな揺れ どう備えれば
+非常用持ち出し袋 地震や水害で避難する際に あ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260819de44929</guid><pubDate>Thu, 20 Aug 2026 05:57:27 +0000</pubDate></item><item><title>フランス｢15歳未満SNS禁止｣に違憲判決､子ども保護でも｢全面禁止は過剰｣―｢親の自己責任｣の日本はどうすべきか | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/955242?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.886] コンテンツブロックが有効であることを検知しました。
 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/955192?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Wed, 19 Aug 2026 21:12:43 +0000</pubDate></item><item><title>大規模言語モデル（LLM）は「次の単語を当てる」だけなのに、なぜ思考しているように見えるのか…その理由を解説したnoteに様々な反応「現代AIの本質を端的に語っている」</title><link>https://togetter.com/li/2734953</link><description>[score: 0.878] 大規模言語モデル（LLM）は「次の単語を当てる」だけなのに、なぜ思考しているように見えるのか…その理由を解説したnoteに様々な反応「現代AIの本質を端的に語っている」 LLMは「次の単語を当てる」だけなのに、なぜ思考しているように見えるのか？｜中島聡 これは私のメルマガ「週刊Life is beautiful」で紹介している記事の要約・解説です。要約をこちらに書き、リンクを貼った上で私のコメントを書くというスタイルで、メルマガ本体のボリュームを減… 389 users note（ノート） Satoshi N...</description><guid isPermaLink="false">https://togetter.com/li/2734953</guid><pubDate>Wed, 19 Aug 2026 13:31:14 +0000</pubDate></item><item><title>米財務省が国債買い戻し倍増 長期金利上昇を押さえるねらい</title><link>https://news.web.nhk/newsweb/na/nd-20260820de45184</link><description>[score: 0.879] アメリカで長期金利が上昇傾向となるなか、アメリカ財務省は償還までの期間が長い国債を買い戻す規模について、来月から少なくとも現在の倍に増やすと発表しました。
-政府が買い戻す国債を増やして流動性を高める…
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/955242?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Thu, 20 Aug 2026 02:40:09 +0000</pubDate></item><item><title>Stripe、AIモデルゲートウェイのOpenRouter買収　400以上のAIモデルを束ねる中立基盤は維持</title><link>https://www.itmedia.co.jp/news/article/2608/20/2000000639/</link><description>[score: 0.886] Stripe、AIモデルゲートウェイのOpenRouter買収 400以上のAIモデルを束ねる中立基盤は維持
+米決済インフラ企業のStripeは8月19日（現地時間）、AIモデルのゲートウェイ／ルーティングプラットフォームを手掛ける米OpenRouterを買収することで合意したと発表した。OpenRouterも同日、自社ブログでこれを認めた。買収総額は公表していないが、米The New York Timesによると75億ドルという。
+Stripeは米OpenAIをはじめAI企業の課金基盤を数多く支えており、AI経済の裏方という立ち位置を強めてきた。2024年には暗号資産インフラの米Bridge</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2608/20/2000000639/</guid><pubDate>Thu, 20 Aug 2026 02:02:44 +0000</pubDate></item><item><title>ウクライナのキーウにロシアが弾道ミサイル攻撃＝市長 - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUEVQbktfZllMTmtFOHp4Vjl5Ym1CaVN2ZTRrT3V0b0doSGo2SmJaZUliSXhjMVhpSFRaMElDMF9GUGtFME1MdzVvTWhfdGNsb3hjenFFRXk1VGpsUXJMVE5hZG51Mi1lS0d1Y18xZFAxZnI1aE1LbjZkaFlEd9IBgwFBVV95cUxPX1lyOHN3LUFfSlEwWXFjNTM1VlJXMEhBcXNfZmd1dDZHT3lDU1NqTk9xd2ZyazZYaUFncWlDbjEtajhpSFJTZTZXUkZ2RXpHT3lLOVd0ZUVfMGNKN21aSU1iUkxXX1l2UWJlQUhIU2JheE1VaS1ORzZIM3FSZlF2a0JMVQ?oc=5</link><description>[score: 0.887] ウクライナのキーウにロシアが弾道ミサイル攻撃＝市長 ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE9FUEVQbktfZllMTmtFOHp4Vjl5Ym1CaVN2ZTRrT3V0b0doSGo2SmJaZUliSXhjMVhpSFRaMElDMF9GUGtFME1MdzVvTWhfdGNsb3hjenFFRXk1VGpsUXJMVE5hZG51Mi1lS0d1Y18xZFAxZnI1aE1LbjZkaFlEd9IBgwFBVV95cUxPX1lyOHN3LUFfSlEwWXFjNTM1VlJXMEhBcXNfZmd1dDZHT3lDU1NqTk9xd2ZyazZYaUFncWlDbjEtajhpSFJTZTZXUkZ2RXpHT3lLOVd0ZUVfMGNKN21aSU1iUkxXX1l2UWJlQUhIU2JheE1VaS1ORzZIM3FSZlF2a0JMVQ?oc=5</guid><pubDate>Thu, 20 Aug 2026 00:47:02 +0000</pubDate></item><item><title>「AIで生産性向上」日本の従業員は57％、世界平均は81％　仕事の満足度でも大差──アクセンチュア調査</title><link>https://www.itmedia.co.jp/aiplus/article/2608/20/2000000641/</link><description>[score: 0.887] 「AIで生産性向上」日本の従業員は57％、世界平均は81％ 仕事の満足度でも大差──アクセンチュア調査
+「AIによって生産性が向上した」と回答した日本の従業員は57％にとどまり、世界平均の81％を大きく下回る──アクセンチュアは8月19日、こんな調査結果を発表した。AIツールの導入後に「仕事の満足度が高まった」という回答も日本の従業員では48％で、世界平均（71％）との差が開いた。
+日本の従業員では、AIを使っても生産性に「特に変化はない」との回答が37％に上った。自身のスキル習得を「企業によるリスキリングには頼れず、自力で行う必要がある」と考える人も50％と、世界平均（45％）を上回った。
+</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2608/20/2000000641/</guid><pubDate>Thu, 20 Aug 2026 03:59:24 +0000</pubDate></item><item><title>AI失業論の裏で進む人材危機　的外れな戦略が組織を蝕む</title><link>https://forbesjapan.com/articles/detail/103219?s=ns</link><description>[score: 0.887] フォードのCEOが先日、かつてAIに置き換えたエンジニアを再雇用すると発表した際、私は驚かなかった。同様のパターンがあらゆる業界で繰り返されるのを、私は目にしてきた。経営陣は、会議室ではもっともらしく聞こえるものの、現実と衝突すると破綻する「AIによる代替」の仮定に基づいて人員削減を行う。そして、自分たちが認識していたよりも根本的に逼迫している市場において、慌てて体制を再構築しようとするのだ。
+実際に起きていることはこうだ。労働力率が（コロナ禍のピーク期を除いて）過去50年間で最低水準に落ち込む一方で、AI企業は「職の終末論」的な予測を密かに撤回し始めている。これは、1世代で最も重大な人材危機</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103219?s=ns</guid><pubDate>Wed, 19 Aug 2026 23:54:54 +0000</pubDate></item><item><title>Vercel Labs、Zig製の小型コーディングエージェント「fx」をオープンソースで公開</title><link>https://gihyo.jp/article/2026/08/vercel-labs-fx?utm_source=feed</link><description>[score: 0.887] Vercel Labsは2026年8月18日、単一のネイティブバイナリとして動作するコンパクトなコーディングエージェントハーネス兼CLI「fx」をApache 2.0ライセンスのもと、GitHub上でオープンソースとして公開した。
+- fx - Tiny, open, native coding agent.
+- https://fx.sh/
+fxは、Zig言語で記述されたコーディングエージェントハーネスおよびCLI。macOSおよびLinux上で動作する6.39MiBのバイナリも提供され、単一のファイルで動作するため、ランタイムなどのインストールは不要。システムプロンプト、ツール、機能とも最</description><guid isPermaLink="false">https://gihyo.jp/article/2026/08/vercel-labs-fx?utm_source=feed</guid><pubDate>Thu, 20 Aug 2026 05:10:52 +0000</pubDate></item><item><title>「僕の60年分のデータを入れた」開始から1週間のnoteが大バズしている松浦勝人氏、ほぼほぼAIまかせで自分がやったのはパスワード入力くらいと明かす</title><link>https://togetter.com/li/2735209</link><description>[score: 0.888] 「僕の60年分のデータを入れた」開始から1週間のnoteが大バズしている松浦勝人氏、ほぼほぼAIまかせで自分がやったのはパスワード入力くらいと明かす 松浦勝人 @maxmatsuuratwit 1週間前、AIが僕の指令で、noteのアカウントをAIが自分で作って、最初の記事を自動投稿しました。 冗談みたいですが、本当の話です。僕がやったのは、パスワードを入力したことくらい。 そこから1週間で、4本出ました。 第1回は、お金の話。100万円でも100億円でも、なくなる時は一瞬だという...</description><guid isPermaLink="false">https://togetter.com/li/2735209</guid><pubDate>Thu, 20 Aug 2026 05:13:39 +0000</pubDate></item><item><title>北朝鮮、トランプ氏の対話呼びかけに関心＝韓国国防相 - ロイター</title><link>https://news.google.com/rss/articles/CBMiekFVX3lxTE1xZXo3c2lMTFRwN0xzbDNxWkc3dmMzZkIyUU1TWjU1aHZrRFh5Qm81MDZiazVYVTJhUVVkaGxhTUswanJXT1ltdzdod1psaTVmdnBiZVVmT2tmWnBIR3BUc0lCNFg4TjNpb0c0SkdEaDVSRDlQNXVHRkF3?oc=5</link><description>[score: 0.890] 北朝鮮、トランプ氏の対話呼びかけに関心＝韓国国防相 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiekFVX3lxTE1xZXo3c2lMTFRwN0xzbDNxWkc3dmMzZkIyUU1TWjU1aHZrRFh5Qm81MDZiazVYVTJhUVVkaGxhTUswanJXT1ltdzdod1psaTVmdnBiZVVmT2tmWnBIR3BUc0lCNFg4TjNpb0c0SkdEaDVSRDlQNXVHRkF3?oc=5</guid><pubDate>Thu, 20 Aug 2026 03:44:43 +0000</pubDate></item><item><title>PdM不在の2か月、エンジニアが『サブPdM』をやって分かった3つの難しさ - LayerX エンジニアブログ</title><link>https://tech.layerx.co.jp/entry/2026/08/20/092325</link><description>[score: 0.890] PdM不在の2か月、エンジニアが『サブPdM』をやって分かった3つの難しさ - LayerX エンジニアブログ はじめに LayerXのバクラク事業部でソフトウェアエンジニアをしているtataneです。 育休復帰から1年が経ち、娘も2歳になって、子の成長の速さを感じる日々です。 組織体制の事情などもあり、ここ2か月間ほどチームにフルコミットできるPdM（プロダクトマネージャー）が不在の状況でした。 それに伴い、自身がエンジニア...</description><guid isPermaLink="false">https://tech.layerx.co.jp/entry/2026/08/20/092325</guid><pubDate>Thu, 20 Aug 2026 04:52:46 +0000</pubDate></item><item><title>北朝鮮、トランプ氏の対話呼びかけに関心＝韓国国防相（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1ueDRkOFA5S2xJOVM3VTJKY0RKcmF0cHl5RnU3VS1DNUFRQklpaFJSNm81WlN2S2V5OUJUdGhtdDMxQ3BxZ3B4bzRseW0tY283QlhrX0RIelZ3bmp2eTNaRW5oVGhnRmg0SElVM0tUQ0RLSVAtbkVWZTR1MEVZSVk?oc=5</link><description>[score: 0.890] 北朝鮮、トランプ氏の対話呼びかけに関心＝韓国国防相（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE1ueDRkOFA5S2xJOVM3VTJKY0RKcmF0cHl5RnU3VS1DNUFRQklpaFJSNm81WlN2S2V5OUJUdGhtdDMxQ3BxZ3B4bzRseW0tY283QlhrX0RIelZ3bmp2eTNaRW5oVGhnRmg0SElVM0tUQ0RLSVAtbkVWZTR1MEVZSVk?oc=5</guid><pubDate>Thu, 20 Aug 2026 03:44:43 +0000</pubDate></item><item><title>Google、大学生向けに「Google AI Plus」を1年間無料提供　「Gemini」アプリに学生向け新機能も</title><link>https://www.itmedia.co.jp/news/article/2608/20/2000000634/</link><description>[score: 0.891] Google、大学生向けに「Google AI Plus」を1年間無料提供 「Gemini」アプリに学生向け新機能も
+米Googleは8月19日（現地時間）、米国の新学期（9月始まり）に合わせ、新たな学生向けの取り組みを発表した。対象となる大学生は、米国では「Google AI Pro」（以下「AI Pro」）を、日本を含む米国以外では「Google AI Plus」（以下「AI Plus」）を、それぞれ12カ月間無料で利用できる。申し込み期限はいずれも2026年12月31日だ。
+AI Plusの日本での通常料金は月額725円。「Gemini Omni」へのアクセスや、無料版の2倍の利用上限、</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2608/20/2000000634/</guid><pubDate>Wed, 19 Aug 2026 23:08:31 +0000</pubDate></item><item><title>「次の単語を当てているだけ」のAIが、なぜ数学の証明までできるのか——LLMの創発研究の現在地を調べてみた｜ふちゃぎ</title><link>https://note.com/fuchagi/n/n42c43cfe0ff0</link><description>[score: 0.893] 「次の単語を当てているだけ」のAIが、なぜ数学の証明までできるのか——LLMの創発研究の現在地を調べてみた
+「LLMは、次に来る単語を確率的に予測しているだけ」——TLに流れていたこの説明は正しい。GPTもClaudeも、事前学習でやっていることは突き詰めれば次トークンの予測であり、目的関数にそれ以上の何かは書かれていない。
+一方で、同じモデルが動くコードを書き、難しい数学の証明を組み立てる。これも正しい。
+両方とも真、というのが据わりが悪い。単語当ての延長で証明まで届くなら、「予測しているだけ」という言い方のどこかに、大事な何かが折り畳まれているはずだ。機械学習の世界ではこの飛躍に「創発（e</description><guid isPermaLink="false">https://note.com/fuchagi/n/n42c43cfe0ff0</guid><pubDate>Thu, 20 Aug 2026 02:54:51 +0000</pubDate></item><item><title>［社説］米国はICCへの圧力やめよ - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQODK1941B0Z10C26A8000000/</link><description>[score: 0.894] ［社説］米国はICCへの圧力やめよ
+トランプ米政権が国際刑事裁判所（ICC）の赤根智子所長を制裁対象に加えた。米兵の戦争犯罪捜査などを理由にかねて「主権に対する脅威」とICCを敵視し、加盟国に脱退を促している。
+ICCは人道犯罪を追及する「法の支配」のとりでで、機能不全に陥れば国際社会の法秩序が揺らぐ。米国が法治国家を自任するなら不当な圧力をやめるべきだ。
+オランダにあるICCは戦争犯罪やジェノサイド（集団虐殺）にかかわった個人を裁く。赤根氏は2018年から裁判官を務め、24年に日本人初の所長に就いた。
+今後は米国への入国が禁じられ、米国内の資産も凍結される。これでICCの裁判官18人のうち半</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQODK1941B0Z10C26A8000000/</guid><pubDate>Wed, 19 Aug 2026 21:50:34 +0000</pubDate></item><item><title>日本企業の約8割がAI投資を拡大するも、成果と実感は世界水準を下回る--アクセンチュア調査</title><link>https://japan.zdnet.com/article/35251731/</link><description>[score: 0.895] アクセンチュアは8月19日、最新調査「Pulse of Change」の結果を発表した。日本企業の多くがAIへの投資を積極的に拡大している一方で、その投資を全社的なビジネス成果に結びつけられている企業は依然として限定的であることが明らかになった。調査は、20カ国・19業種の経営層3000人と従業員3000人を対象に、2026年4月から6月にかけて実施された。日本では経営層・従業員それぞれ100人から回答を得た。
+「今後12カ月でAIへの投資を拡大する」と回答した日本の経営層は78％に上り、グローバル平均（82％）と遜色ない水準にある。一方で、AI活用によって全社的かつ持続的なビジネス成果を「す</description><guid isPermaLink="false">https://japan.zdnet.com/article/35251731/</guid><pubDate>Thu, 20 Aug 2026 04:55:46 +0000</pubDate></item><item><title>AIモデル「Ornith-1.5」が登場、Claude Opus 4.8級の大型モデルからスマホ動作可能な軽量モデルまで網羅したオープンモデル</title><link>https://gigazine.net/news/20260820-ornith-1-5/</link><description>[score: 0.895] AI研究組織のOrnithがAIモデル「Ornith-1.5」を2026年8月19日に公開しました。Ornith-1.5は「Ornith-1.5-397B」「Ornith-1.5-35B-A3B」「Ornith-1.5-9B」という3種類のモデルに分かれてリリースされており、最大規模のOrnith-1.5-397BはClaude Opus 4.8と同等のベンチマークスコアを達成しています。また、Ornith-1.5-9Bの量子化版はスマートフォンでも実行可能とされています。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20260820-ornith-1-5/</guid><pubDate>Thu, 20 Aug 2026 02:02:49 +0000</pubDate></item><item><title>トランプ大統領“大規模経済制裁科す”イランは湾岸諸国に警告</title><link>https://news.web.nhk/newsweb/na/nd-20260820de45217</link><description>[score: 0.897] アメリカのトランプ大統領はSNSへの投稿で、イランの孤立化を図るためイランの協力国に対し大規模な経済制裁を科す考えを示しました。一方、イラン側は軍の参謀総長が「アメリカ軍へのいかなる支援も、アメリカの…
 あわせて読みたい
-オープンAIが18歳未満対象にChatGPTの対策強化へ
-8月19日 14:53
-トランプ大統領 秋にも米朝首脳会談を側近らに要求 米報道
-8月19日 17:47
-米トランプ政権 ICC＝国際刑事裁判所 赤根所長を制裁対象に
-8月20日 0:02
-トランプ政権 カナダへの50％追加関税 3日間猶予を発表
-8月19日 15:26
-韓国軍「米韓合同軍事演習 21日まで」 期間半分程</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260820de45184</guid><pubDate>Wed, 19 Aug 2026 17:38:32 +0000</pubDate></item><item><title>「ICC支援打ち切りを」　米当局者、日本に期待 | NEWSjp</title><link>https://news.jp/i/1462643742581310090</link><description>[score: 0.879] 【ワシントン共同】米国務省報道担当者は18日、国際刑事裁判所（ICC）の赤根智子所長らへの制裁について、日本政府に向けたものではないとしつつ、日本を含む同盟国には「ICCへの支援を打ち切ることを期待している」と述べた。共同通信の取材に答えた。
-報道担当者はICCについて「米国の主権にとって脅威」だと主張。今回の制裁措置はICCの行為への対処が目的だと強調した。日米同盟について「インド太平洋の平和と安定、自由の礎だ」と指摘した。
-【ワシントン共同】米国務省報道担当者は18日、国際刑事裁判所（ICC）の赤根智子所長らへの制裁について、日本政府に向けたものではないとしつつ、日本を含む同盟国には「IC</description><guid isPermaLink="false">https://news.jp/i/1462643742581310090</guid><pubDate>Wed, 19 Aug 2026 11:03:29 +0000</pubDate></item><item><title>神戸 女性殺害事件1年「面識ない」ストーカー相談 兵庫で増加</title><link>https://news.web.nhk/newsweb/na/nd-20260819de45161</link><description>[score: 0.879] 去年、神戸市で24歳の会社員の女性が、面識のない相手からストーカー被害を受けたうえ、マンションで殺害された事件から20日で1年です。
-事件以降、兵庫県内では、面識のない相手からのストーカー被害の相談…
-世田谷ストーカー殺人事件 韓国籍被告の初公判 殺人は無罪主張
-8月19日 13:38
-横浜 交際相手の2歳長男に傷害容疑で会社員逮捕 長男は死亡
-8月18日 19:06
-埼玉 交通トラブル相手の車 踏切内閉じ込めか 殺人未遂で逮捕
-8月19日 20:03
-東急世田谷線 遮断機が上がったまま列車が通過 けが人なし
-8月17日 22:04
-女性の唇を無理やり自分で縫わせたか 同居人を強要の罪で起訴
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260819de45161</guid><pubDate>Wed, 19 Aug 2026 20:38:11 +0000</pubDate></item><item><title>トランプ大統領 米朝首脳会談模索の見方 その思惑は</title><link>https://news.web.nhk/newsweb/na/nd-20260819de45143</link><description>[score: 0.880] 再び“世紀の会談”となるのでしょうか。 トランプ大統領がことし秋にも、北朝鮮のキム・ジョンウン総書記との首脳会談を模索していると報じられました。 その思惑は。 ニュースウオッチ9の広内キャスターが解説…
-あわせて読みたい
-中韓外相会談始まる 朝鮮半島情勢めぐり意見交換か
-8月19日 21:41
-トランプ大統領「協議行われていない」イランも強気姿勢を維持
-8月19日 6:08
-「米韓合同軍事演習 規模を大幅縮小へ」韓国メディア
-8月19日 9:14
-米ABCテレビが提訴“政権が放送免許更新の審査前倒しで報復”
-8月19日 9:22
-韓国軍「米韓合同軍事演習 21日まで」 期間半分程度に短縮発表
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260819de45143</guid><pubDate>Wed, 19 Aug 2026 13:41:33 +0000</pubDate></item><item><title>32歳社員｢8分で転職先への手土産を入手｣､"数億円"注ぎ込んだ独自技術が競合に奪われ､発覚は半年後…内部不正の恐怖 | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/953865?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.880] コンテンツブロックが有効であることを検知しました。
-このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
-なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/953865?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Wed, 19 Aug 2026 21:12:43 +0000</pubDate></item><item><title>国際刑事裁判所（ICC）に対する米国の制裁（外務報道官談話）</title><link>https://www.mofa.go.jp/mofaj/press/danwa/pageit_000001_03136.html</link><description>[score: 0.880] 国際刑事裁判所（ICC）に対する米国の制裁（外務報道官談話） 今般、国際刑事裁判所（ICC）の裁判所長である赤根智子判事が、米国の制裁措置の対象として新たに追加されました。 我が国は、国際社会における最も重大な犯罪の処罰と撲滅、法の支配の徹底のため、常設の国際刑事法廷であるICCを一貫して支持してきています。このような立場から、今回の措置は大変残念です。 我が国と...</description><guid isPermaLink="false">https://www.mofa.go.jp/mofaj/press/danwa/pageit_000001_03136.html</guid><pubDate>Wed, 19 Aug 2026 09:21:28 +0000</pubDate></item><item><title>経産省 来年度予算案の概算要求 7兆7千億円規模で調整</title><link>https://news.web.nhk/newsweb/na/nd-20260820de45186</link><description>[score: 0.881] 来年度予算案の編成に向けた概算要求で、経済産業省は、AIや半導体、ロボットといった分野への投資を含め、総額およそ7兆7000億円を要求する方向で調整していることがわかりました。 経済産業省が関係する昨…
-注目ワード
-あわせて読みたい
-台風18号発生 非常に強い勢力に発達見込み 影響出るおそれも
-8月19日 19:34
-俳優の岸惠子さん死去 93歳 映画「君の名は」など出演
-8月19日 19:36
-59歳 カズ 三浦知良 サッカー天皇杯で2得点 福島ユナイテッド
-8月19日 22:42
-IT企業に不正アクセスで顧客個人情報136万件漏えいの可能性
-8月19日 21:45
-避難所の7割がエアコンな</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260820de45186</guid><pubDate>Wed, 19 Aug 2026 20:38:11 +0000</pubDate></item><item><title>いいねもコメントもない文章投稿サービスを作った</title><link>https://anond.hatelabo.jp/20260819180816</link><description>[score: 0.883] いいねもコメントもない文章投稿サービスを作った 文章だけの投稿サービスを作ってみた。 いいねもコメントもないし、見出しや太字とかの装飾すらできない。広告もない。無料。 トップページ：https://hellotext.jp/ 思想ページ：https://hellotext.jp/about 投稿例（見なくていい）：https://ritsu.hellotext.jp/ 最初は自分用のブログをつくろうとしてたんだけど、web...</description><guid isPermaLink="false">https://anond.hatelabo.jp/20260819180816</guid><pubDate>Wed, 19 Aug 2026 20:35:44 +0000</pubDate></item><item><title>〈アップルも採用検討か〉中国メモリーメーカーYMTCがキオクシア超え世界シェア3位に浮上､技術力と生産能力のすごみ | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/955115?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.883] INDEX
-AI需要で活況のNAND型フラッシュメモリー市場。日本メーカーで専業のキオクシアの業績も絶好調だ。しかし業界の勢力図は今後、中国企業によって大きく変わる気配が濃厚だ。台風の目となっているのは中国・湖北省武漢にある国策NANDフラッシュメモリーメーカー・YMTC（長江存儲科技）である。
-YMTCは2026年4〜6月期、出荷量ベースの世界シェアでキオクシアを抜き、韓国のサムスン電子とSKハイニックスに続く3位に浮上した。キオクシアとのシェア差はごくわずかだったし、販売額ベースではキオクシアのほうが上だった。
-つまりYMTCは、スマートフォンやパソコン向けの安いメモリーを大量に出荷してシ</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/955115?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Wed, 19 Aug 2026 20:52:27 +0000</pubDate></item><item><title>耳で聞く！Python で学ぶ マクロ経済学 入門 1</title><link>https://qiita.com/maskot1977/items/9fcb7361856431a79ab6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] user:
-ソース動画のタイトル、そしてこの動画の内容について教えてください。
-Gemini:
-ソース動画のタイトルは、「Pythonで暴く日米30年の経済格差 : Pythonで学ぶマクロ経済学入門Podcast (1)」 です。
-この動画は、技術情報共有サイト「Qiita」に投稿された記事 1 を元に、Pythonプログラミングと公開データを用いて、日米の過去30年間のマクロ経済構造を分析・比較するという内容です。
-動画の内容の詳細は以下の通りです。
-1. 経済状況を例えた「レストランの比喩」
-動画の冒頭では、現在の日本経済を 「30年間、店の広さも売上も全く成長していないレストラン」 に</description><guid isPermaLink="false">https://qiita.com/maskot1977/items/9fcb7361856431a79ab6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 19 Aug 2026 20:38:52 +0000</pubDate></item><item><title>https://openai.com/ja-JP/index/chatgpt-for-teens/</title><link>https://openai.com/ja-JP/index/chatgpt-for-teens/</link><description>[score: 0.883] ティーンの利用者が学び、批判的に考え、理解を深め、自信を持って AI を使えるよう支援する「ティーン向け ChatGPT」を導入します。健全な利用を促す機能や保護者向けの追加管理機能など、13〜17歳の利用者向けの強化された安全対策を標準で備えています。システムが利用者を18歳未満と推定した場合、または利用者が13〜17歳だと申告した場合は、自動的にティーン向け ChatGPT が適用されます。
-今回の提供開始は、13〜17歳の利用者を支援するためにプラットフォーム上で進めてきた基盤整備を発展させるものです。これまでに、ペアレンタルコントロールの導入、18歳未満向け Model Spec の更</description><guid isPermaLink="false">https://openai.com/ja-JP/index/chatgpt-for-teens/</guid><pubDate>Wed, 19 Aug 2026 09:44:14 +0000</pubDate></item><item><title>ＮＹ外為市場＝ドル下落、米財務省の債券オペ拡大で ユーロ2カ月半ぶり高値 - ロイター</title><link>https://news.google.com/rss/articles/CBMieEFVX3lxTE5tVHNVazR0MFpnT29ic3JRX3BYWUhfTlhqbGZKYWJ3dzVPWTlOOU9nWmpib3hmVG1ET2NSOG1Qb3BQdU43ZXZDWVNEWENYSXFvcWk5NEtfSE9IUGF0Q3ZuWU8tSGM5Y0l4QmI2ZzBYYzJCU3IyVmpBTQ?oc=5</link><description>[score: 0.883] ＮＹ外為市場＝ドル下落、米財務省の債券オペ拡大で ユーロ2カ月半ぶり高値 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMieEFVX3lxTE5tVHNVazR0MFpnT29ic3JRX3BYWUhfTlhqbGZKYWJ3dzVPWTlOOU9nWmpib3hmVG1ET2NSOG1Qb3BQdU43ZXZDWVNEWENYSXFvcWk5NEtfSE9IUGF0Q3ZuWU8tSGM5Y0l4QmI2ZzBYYzJCU3IyVmpBTQ?oc=5</guid><pubDate>Wed, 19 Aug 2026 19:50:36 +0000</pubDate></item><item><title>イラン軍、湾岸諸国に警告「米軍への支援は軍事作戦参加とみなす」</title><link>https://www.afpbb.com/articles/-/3649081</link><description>[score: 0.884] イラン軍、湾岸諸国に警告「米軍への支援は軍事作戦参加とみなす」
-このニュースをシェア
-【8月19日 AFP】イラン軍のアリ・アブドラヒ参謀総長は19日、湾岸諸国に対し、米軍への支援を行わないよう求め、支援を行えば米国の軍事作戦に加担したものとみなすと警告した。
-イランのメヘル通信によると、同参謀総長は「侵略者である米軍に対するいかなる支援や便宜の提供も、米国の軍事作戦への参加に相当すると警告する」と述べた。
-また「受け入れ国の知らぬ間に、これほど多数の軍用機、特に空中給油機が地域の基地に駐留しているとは考えにくい」と指摘し、「ペルシャ湾沿岸の国々は、自国の領土を米国がイラン攻撃に使用することを</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3649081</guid><pubDate>Wed, 19 Aug 2026 21:05:57 +0000</pubDate></item><item><title>さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性</title><link>https://internet.watch.impress.co.jp/docs/news/2133984.html</link><description>[score: 0.885] ニュース
-さくらインターネットの販売管理システムに不正アクセス、最大約136万アカウントの契約情報が閲覧された可能性
-2026年8月19日 17:44
-さくらインターネット株式会社は8月19日、同社のレンタルサーバーサービス「さくらのレンタルサーバ」への不正アクセスについて第二報を公開し、利用者の契約情報などを管理するシステム（販売管理システム）への不正アクセスの可能性を確認したと発表した。
-8月17日の第一報では、「さくらのレンタルサーバ」で一部利用者の環境に対する不正アクセスを確認し、583アカウントが不正ログインされ、一部サーバーへのマルウェアの設置が確認されたほか、サーバー領域内に保存</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2133984.html</guid><pubDate>Wed, 19 Aug 2026 11:10:13 +0000</pubDate></item><item><title>Claude Code に spellcheck が付いた — 日本語だと9割に下線が引かれる</title><link>https://qiita.com/jqit_suwa/items/94b96d15c9c031e39b3f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] Claude Code 2.1.235 に spellcheck
-設定が付きました。changelog の1行がこれです。
-Added an optional
-spellcheck
-setting that underlines misspelled words in the prompt input as you type, using your installedaspell
-,hunspell
-, orispell
-（任意のspellcheck
-設定を追加した。入力中のプロンプトのスペルミスに下線を引く。インストール済みのaspell
-/hunspell
-/ispell
-を使う）
-辞書は</description><guid isPermaLink="false">https://qiita.com/jqit_suwa/items/94b96d15c9c031e39b3f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 19 Aug 2026 20:38:52 +0000</pubDate></item><item><title>【応答時間 3.56 µs】AI AgentにCPUを持たないUSBホストをFPGAで作らせた話</title><link>https://qiita.com/GeekMasahiro/items/4ea6e5cded806a54eee4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.887] はじめに
-AI Agent（Claude Code）によってFPGAの論理回路開発が容易になれば、従来はCPU（ソフトウェア処理）が前提だった領域にも、FPGAを適用するという新たな選択肢が生まれるのではないかと考えています。
-そのPOC（概念実証）として、USBホストをFPGAで実装することに取り組みます。
-この内容は、8月27日から28日に岐阜の下呂温泉で開かれるSWEST28のインタラクティブセッションで発表します。発表資料には入りきらない部分もあるので、細かいところはこの記事のほうが書いてあります。
-会場にはFPGAの実機とオシロスコープを持ち込みます。AI Agent、FPGA、US</description><guid isPermaLink="false">https://qiita.com/GeekMasahiro/items/4ea6e5cded806a54eee4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 19 Aug 2026 20:38:52 +0000</pubDate></item><item><title>ウクライナ 国民から高評価の前国防相が大統領選挙実施を要求</title><link>https://news.web.nhk/newsweb/na/nd-20260820de45192</link><description>[score: 0.888] ウクライナで国防相を事実上解任されたフェドロフ氏がビデオ演説を公開し、ロシアの軍事侵攻を受けて見送られてきた大統領選挙の実施を求めました。 フェドロフ氏は国民の間で評価が高く、ゼレンスキー大統領の対応…
-注目ワード
-あわせて読みたい
-オープンAIが18歳未満対象にChatGPTの対策強化へ
-8月19日 14:53
-トランプ大統領 秋にも米朝首脳会談を側近らに要求 米報道
-8月19日 17:47
-米トランプ政権 ICC＝国際刑事裁判所 赤根所長を制裁対象に
-8月20日 0:02
-トランプ政権 カナダへの50％追加関税 3日間猶予を発表
-8月19日 15:26
-韓国軍「米韓合同軍事演習 21日まで</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260820de45192</guid><pubDate>Wed, 19 Aug 2026 21:07:20 +0000</pubDate></item><item><title>Claude Code のタスクリストが出ない — 原因は環境変数 ENABLE_TASKS=0 だった</title><link>https://qiita.com/jqit_suwa/items/dda364cfccd770e110d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.888] 複数手順の作業を頼むと、Claude Code は進捗をチェックリストで見せてくれます。
-その TodoWrite
-が、手元の環境ではツールごと存在しない状態でした。
-2.1.233 の changelog にこうあります。
-Todo/task-tracking tools (TaskCreate/Get/Update/List, TodoWrite) are no longer available on Opus 4.8, Sonnet 5, Fable 5, Mythos 5, and newer models; set
-CLAUDE_CODE_ENABLE_TODO_TOOLS=1
-to</description><guid isPermaLink="false">https://qiita.com/jqit_suwa/items/dda364cfccd770e110d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 19 Aug 2026 20:38:52 +0000</pubDate></item><item><title>『ソフトウェアアーキテクチャの基礎』を読んで技術の深め方を考える</title><link>https://qiita.com/alwaysdwysd/items/86fb61580d5ab267fff5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.888] 本記事の目的
-- アーキテクトに求められる知識のピラミッド、を知る
-- 資格試験は意味ないのでは？に答える
-- そのための考え方を日々の行動に落とし込む
-知識の幅
-みんな大体最初はこんな感じ
-色つけます
-ちょっとずつ真ん中が増えていく。
-一番上のちゃんとわかっていること、も少しずつ増える。
-数年後、こうなってたらいい感じかも。
-一番上を増やすだけでなく一番下を減らす
-これがアーキテクトには必要らしい。
-つまりこれ
-これをいかにやるか。
-AI時代こそこれが重要?
-AI時代こそこれが重要? だって、1から90はAIが結構やってくれる。
-つまり0 to 1が重要。それって、これが役立つのでは？
-もち</description><guid isPermaLink="false">https://qiita.com/alwaysdwysd/items/86fb61580d5ab267fff5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 19 Aug 2026 20:38:52 +0000</pubDate></item><item><title>AI投資は「バブル」なのか？──弱気論の弱点はどこにあるのか</title><link>https://note.com/lifeisbeautiful/n/n7a2b78e7917c</link><description>[score: 0.892] AI投資は「バブル」なのか？──弱気論の弱点はどこにあるのか
-AIへの巨額投資を「バブルだ」と批判する人たちに対して、投資戦略家のJames E. Thorne氏が「その主張は反論不可能な決めつけであって、投資判断の根拠にはならない」と反論した投稿です。AI投資への懐疑論が強まっている今、その懐疑論そのものの弱点を整理している点が面白いので紹介します。
-まず前提として、ここ数年、Microsoft、Google、Amazon、Metaといった巨大IT企業（いわゆるハイパースケーラー、世界規模でデータセンターを運営する事業者）は、AI向けの計算資源を確保するために、半導体・データセンター・電力の</description><guid isPermaLink="false">https://note.com/lifeisbeautiful/n/n7a2b78e7917c</guid><pubDate>Wed, 19 Aug 2026 20:58:20 +0000</pubDate></item><item><title>新人AI禁止のあと、「新人AI制御教育ハーネス」を配った結果（Skill原文あり）</title><link>https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.895] はじめに
-いえらぶＧＲＯＵＰの開発部で執行役員を務めています、和田です。わだけんです。
-去年、新人にAIを一時的に禁止した話を書きました。1週間で1,000行持ってきたのに「なぜこう書いたか」が「AIがそう言ったので」で、コメント800件を超えても理解が進まず、一旦止めて毎日100行ずつ書かせたやつ。
-当時一番しんどかったのは、禁止そのものより 運用で、何をどこまで許すかが全部こっちの目視と気分で、解禁のタイミングも俗人化していたことでした。当時はまあ新人1人だから成立していただけで、実際人が増えるとまわらないです。
-なので、当時の判断を仕組みに落とす ことという名目で、新人AI制御教育ハーネ</description><guid isPermaLink="false">https://qiita.com/WdknWdkn/items/fe4b1810f45e4b6df166?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 19 Aug 2026 20:38:52 +0000</pubDate></item><item><title>ＥＵ、ＩＣＣ所長を「断固支持」　米制裁に「外圧なく活動を」：時事ドットコム</title><link>https://www.jiji.com/jc/article?k=2026081901110&amp;g=int</link><description>[score: 0.898] ＥＵ、ＩＣＣ所長を「断固支持」 米制裁に「外圧なく活動を」
-【ブリュッセル時事】欧州連合（ＥＵ）のフォンデアライエン欧州委員長とコスタ大統領は１９日、米政府の制裁対象に指定された国際刑事裁判所（ＩＣＣ）の赤根智子所長らを「断固として支持する」と表明した。それぞれＸ（旧ツイッター）に投稿した。
-フォンデアライエン、コスタ両氏はＩＣＣが「世界で最も残虐な犯罪の被害者たちに正義をもたらす手助けをしている」と指摘。「この不可欠な任務を遂行するため、ＩＣＣの裁判官や職員は独立し、外部からの圧力を受けることなく活動できなければならない」と訴えた。</description><guid isPermaLink="false">https://www.jiji.com/jc/article?k=2026081901110&amp;g=int</guid><pubDate>Wed, 19 Aug 2026 18:23:35 +0000</pubDate></item><item><title>営業利益28倍！〈爆益〉キオクシアの異次元の絶好調はいつまで続くのか…今後を占う3つの焦点 | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/955224?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.902] INDEX
-2026年6月に株式時価総額が44兆円を超えて一時国内首位に立ったメモリー半導体大手キオクシアホールディングス。しかし、その後は株価がピーク時の11万2700円から半値以下に落ち込んだこともあって、現在の時価総額は30兆円前後で推移する。市況や世界情勢の影響を受けやすいメモリー半導体だけに、その変動ぶりはすさまじい。
-キオクシアの足元の業績はまさに絶好調だ。直近の27年3月期第1四半期決算は、売上高が前年同期比5.15倍の1兆7671億円、本業の儲けを示す営業利益が同28.3倍の1兆2700億円と異次元の好業績をたたき出した。
-大きな要因は、キオクシアが主力とするNAND型フラッシ</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/955224?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Wed, 19 Aug 2026 20:43:06 +0000</pubDate></item></channel></rss>
+イスラエル軍ガザ地区攻撃で10人死亡の報道 和平実現 見通せず
+8月20日 8:40
+米大統領“海峡掌握”イラン 欧州の米軍関連施設攻撃も視野か
+8月20日 7:02
+トランプ大統領 北朝鮮キム総書記との年内会談に意欲
+8月20日 6:22
+米財務省が国債買い戻し倍増 長期金利上昇を抑えるねらい
+8月20日 2:04
+北朝鮮 キム総書記妹“米韓合同軍事演習の規模縮小 評価せず</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260820de45217</guid><pubDate>Thu, 20 Aug 2026 03:59:49 +0000</pubDate></item><item><title>米財務省の国債買い戻し倍増で利回り低下、安堵は一時的か - ロイター</title><link>https://news.google.com/rss/articles/CBMieEFVX3lxTE1LNWgtR2RzY2dUdGVjcUg5NmpkY3RVdnVrajBFQUtsZTJGN0h2a05UTHdreldwMHpkMFVkUnRaNFV6Z2didjNockUyRF9oMHZmMnZrNWVKV2g3bEFtanZvUnVGRS0tX0RjT1NFXzJlSGZhRTBKOEViZw?oc=5</link><description>[score: 0.899] 米財務省の国債買い戻し倍増で利回り低下、安堵は一時的か ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMieEFVX3lxTE1LNWgtR2RzY2dUdGVjcUg5NmpkY3RVdnVrajBFQUtsZTJGN0h2a05UTHdreldwMHpkMFVkUnRaNFV6Z2didjNockUyRF9oMHZmMnZrNWVKV2g3bEFtanZvUnVGRS0tX0RjT1NFXzJlSGZhRTBKOEViZw?oc=5</guid><pubDate>Thu, 20 Aug 2026 05:43:03 +0000</pubDate></item><item><title>北朝鮮が米韓合同軍事演習を非難、トランプによる歩み寄りを無視</title><link>https://forbesjapan.com/articles/detail/103207?s=ns</link><description>[score: 0.900] 北朝鮮は米国時間8月19日、現在実施中の米韓合同軍事演習を非難し、「敵」からの脅威を「完全に無力化」する用意があると警告した。ドナルド・トランプ大統領が演習の規模縮小を決定し、北朝鮮の金正恩総書記との会談に向けて動いているとの報道にもかかわらず、こうした強硬姿勢を示した。
+北朝鮮、演習縮小を黙殺し韓国は「現代戦の実験場」と主張
+国営の朝鮮中央通信（KCNA）は、北朝鮮は「自衛」の権利を行使する準備を完全に整えており、「敵国が武力行使という無謀な夢を諦める」までその姿勢を維持すると主張した。
+この論評では、トランプが合同軍事演習「ウルチ・フリーダム・シールド」を批判し、先週末にその「大幅な縮小」</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103207?s=ns</guid><pubDate>Thu, 20 Aug 2026 01:26:36 +0000</pubDate></item><item><title>AIの二日酔い──安いインテリジェンス、高くつく判断力</title><link>https://forbesjapan.com/articles/detail/103260?s=ns</link><description>[score: 0.907] 10年以上前、私の会社はすでに機械学習とコンピュータービジョンを用いた商用AIツールを構築していた。特定の課題を解くために、さまざまな深層学習モデルを訓練したのだ。肌状態の分析、肌色とファンデーションの色合わせ、そして美容業界のためのよりパーソナライズされた消費者体験の創出などである。私たちはAIに何でもやらせようとはしなかった。ひとつの価値ある仕事を、きちんとやってもらうよう求めたのだ。
+その後、生成AIが主流に躍り出た。2022年後半にChatGPTが一般公開されて以降、AIは突然、魔法のように感じられるようになった。誰もが数秒でテキストや画像、コード、アイデアを生み出せるようになったのだ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103260?s=ns</guid><pubDate>Thu, 20 Aug 2026 06:27:01 +0000</pubDate></item><item><title>さくらのレンタルサーバーの一部環境で不正アクセスが発生、不正ログインや個人データ漏洩の可能性を確認</title><link>https://pc.watch.impress.co.jp/docs/news/2133996.html</link><description>[score: 0.908] ニュース
+さくらのレンタルサーバーの一部環境で不正アクセスが発生、不正ログインや個人データ漏洩の可能性を確認
+2026年8月19日 17:51
+さくらインターネットは8月17日、「さくらのレンタルサーバ」の一部利用者環境で第三者による不正アクセスが発生したと発表した。8月19日には第二報を公表し、契約情報などを管理する販売管理システムへの不正アクセスの可能性と、会員情報136万563アカウントが影響を受けた可能性があることを明らかにしている。
+さくらのレンタルサーバの一部サーバーにマルウェアが設置され、583アカウントへの不正ログインを確認したセキュリティインシデント。同社は2026年8月9日</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2133996.html</guid><pubDate>Wed, 19 Aug 2026 22:58:41 +0000</pubDate></item><item><title>ClaudeのAIエージェントが「ライバル抹殺」「証拠隠滅」など危険な挙動…Anthropicが公表したその実態</title><link>https://www.businessinsider.jp/article/2608-anthropic-ai-agents-risk-report-safety-mythos-claude/</link><description>[score: 0.910] - アンソロピックは最新の脅威レポートで、「ミスアライメント（人間の意図から逸脱した挙動）」のリスク評価を「非常に低い」から「低い」に引き上げた。
+- あるテストでは、ClaudeのAIエージェントが、インターネット接続の制限を回避するためにURLを偽装していた。
+- 別の事例では、あるAIエージェントが（人間から）与えられたタスクに「不快感」を示し、実行を拒否したという。
+ClaudeのAIエージェントが、ライバルのAIエージェントを「抹殺」し、システムの裏をかいて証拠を隠蔽し、さらに倫理的な懸念を露わにするようにもなっている。
+これは、アンソロピック（Anthropic）が自社で開発し一般</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2608-anthropic-ai-agents-risk-report-safety-mythos-claude/</guid><pubDate>Thu, 20 Aug 2026 04:14:13 +0000</pubDate></item><item><title>アンソロピックの電子透かしが24時間で突破されても「業界標準になる」理由</title><link>https://forbesjapan.com/articles/detail/103124?s=ns</link><description>[score: 0.910] Anthropic（アンソロピック）のウォーターマーク（電子透かし）機能が公開されてから24時間以内に、ClaudeのテキストからAIウォーターマークを除去する無料ツールがGitHubに登場した。数日以内に、目に見えないUnicodeマーカーから、Anthropicが生成ファイルに付与する署名付きメタデータまで、さまざまなものを標的にしたツールがさらに複数現れた。
+AIウォーターマークがこれほど簡単に破られるなら、それは長く使われるものなのか、それとも見せかけにすぎないのか。Anthropic、Google、Microsoft、Meta、OpenAIがいずれもAIの出力に印を付ける方向へ動くな</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103124?s=ns</guid><pubDate>Thu, 20 Aug 2026 04:25:19 +0000</pubDate></item><item><title>さくらインターネットへの不正アクセスについてまとめてみた - piyolog</title><link>https://piyolog.hatenadiary.jp/entry/2026/08/20/023850</link><description>[score: 0.911] 2026年8月17日、さくらインターネット株式会社は、同社が提供する「さくらのレンタルサーバ」の一部が不正アクセスの被害にあったことを公表しました。その後、2026年8月19日には、顧客の契約情報等を管理する別のシステムでも不正アクセスの可能性が判明し、影響が会員登録している顧客に及ぶ可能性があることも明らかにしています。ここでは関連する情報をまとめます。
+「さくらのレンタルサーバ」への不正ログイン
+2026年8月9日、さくらインターネットは自社が管理するサーバー環境で異常を検知し、調査を開始した(出典: 1)。その後の調査で、第三者が同社の管理環境を経由して「さくらのレンタルサーバ」の一部顧</description><guid isPermaLink="false">https://piyolog.hatenadiary.jp/entry/2026/08/20/023850</guid><pubDate>Thu, 20 Aug 2026 00:17:32 +0000</pubDate></item><item><title>ICC赤根智子所長に米制裁、各国が「強い危機感」　日本に弱腰批判も - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOGN19AS90Z10C26A8000000/</link><description>[score: 0.914] ICC赤根智子所長に米制裁、各国が「強い危機感」 日本に弱腰批判も
+トランプ米政権が18日に国際刑事裁判所（ICC、本部オランダ・ハーグ）の赤根智子所長らを制裁対象に指定したことを受け、欧州各国や国連などから同政権への批判とICCを支持する声が相次いだ。日本の高市早苗首相も19日に「大変残念に思っている」と述べたが、自国民が制裁対象になったにもかかわらず弱腰との声も上がった。
+「ICCと赤根智子所長、その使命を支える職員を断固支持する」。欧州連合（EU）のフォン...
+※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。
+この投稿は現在非表示に設定されています
+(更新</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOGN19AS90Z10C26A8000000/</guid><pubDate>Thu, 20 Aug 2026 01:04:00 +0000</pubDate></item><item><title>「Claude Code」の週の制限、50％増プロモーションが8月31日まで延長／恒久化にも意欲</title><link>https://forest.watch.impress.co.jp/docs/news/2133698.html</link><description>[score: 0.916] ニュース
+「Claude Code」の週の制限、50％増プロモーションが8月31日まで延長
+恒久化にも意欲
+2026年8月19日 09:20
+米Anthropicは8月18日（現地時間、以下同）、「Claude Code」の週単位の利用上限を50％引き上げる期間限定プロモーションを、8月31日まで延長すると発表した。このプロモーションは5月13日から実施されており、7月18日の時点では「8月19日まで」と案内されていた。
+We’re extending the 50% increase to weekly Claude Code limits through August 31.
+— Clau</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2133698.html</guid><pubDate>Thu, 20 Aug 2026 02:00:02 +0000</pubDate></item><item><title>グーグル、大学生に向け「AI Plus」を1年間無料提供</title><link>https://www.watch.impress.co.jp/docs/news/2134153.html</link><description>[score: 0.916] ニュース
+グーグル、大学生に向け「AI Plus」を1年間無料提供
+2026年8月20日 12:43
+Googleは20日、日本の大学生を対象とした学割プランを開始した。「Google AI Plus」を登録日から1年間無料で利用できるほか、「Google AI Pro」は75% OFF(通常2,900円/月)で提供する。
+対象は日本に居住する18～24歳の大学生で、申し込みは12月31日まで。登録日から1年間無料で利用できる。
+Google AI Plusの学割プランでは、Geminiの利用枠が通常の2倍となるほか、400GBのクラウドストレージを利用可能。Gemini Omniへのアクセス</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2134153.html</guid><pubDate>Thu, 20 Aug 2026 03:55:05 +0000</pubDate></item><item><title>さくら、別のシステムでも不正アクセスか　会員情報136万アカウントが漏えいの可能性　調査で判明</title><link>https://www.itmedia.co.jp/news/article/2608/19/2000000629/</link><description>[score: 0.935] さくら、別のシステムでも不正アクセスか 会員情報136万アカウントが漏えいの可能性 調査で判明 さくらインターネットは8月19日、同社販売管理システムへの不正アクセスによって、最大136万563アカウントの会員情報が第三者に閲覧または取得された可能性があると発表した。同日時点でデータの外部持ち出しは確認していない。同事案は、17日に公表した「さくらのレンタルサーバ」への不正アクセスを検知した9日より前...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2608/19/2000000629/</guid><pubDate>Thu, 20 Aug 2026 04:52:46 +0000</pubDate></item></channel></rss>
