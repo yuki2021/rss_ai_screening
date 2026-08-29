@@ -1,115 +1,159 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 29 Aug 2026 12:11:32 +0000</lastBuildDate><item><title>OpenAI、Cursorへのモデル提供を終了　理由は「SpaceXによる買収」</title><link>https://www.watch.impress.co.jp/docs/news/2136717.html</link><description>[score: 0.870] ニュース
-OpenAI、Cursorへのモデル提供を終了 理由は「SpaceXによる買収」
-2026年8月29日 12:50
-OpenAIは28日(米国時間)、SpaceXによるCursor買収を受けて、コーディングエージェント「Cursor」へのOpenAIの最新モデルの提供を終了すると発表した。同日にSpaceXにモデル提供契約の終了を通知し、終了予定日は11月12日。
-提供終了の理由は、「イーロン・マスク氏の企業が過去に契約違反を繰り返してきた経験から、SpaceXがOpenAIの利用規約の範囲内で技術を使用するとの確信を持てないため」としている。
-コーディングエージェントのCursor</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2136717.html</guid><pubDate>Sat, 29 Aug 2026 04:06:18 +0000</pubDate></item><item><title>ベネズエラの石油権益確保　トランプ氏、ガソリン意識 | NEWSjp</title><link>https://news.jp/i/1466244217708183995</link><description>[score: 0.871] 【ワシントン共同】トランプ米大統領は28日、ベネズエラ国内の石油権益取得で合意したと自身の交流サイト（SNS）に投稿した。埋蔵量650億バレル超について過半の支配権を確保したとしている。「石油供給を大幅に拡大し、ガソリン価格が長期にわたり大幅に下がる」と主張。価格高止まりで強まる国民の不満を意識してアピールした。
-ベネズエラは世界最大の原油埋蔵量を誇る。ただ石油産業の国有化を進めたことに伴い、投資不足で設備が老朽化し、生産量が減少した。トランプ氏は今年1月にベネズエラを攻撃し、マドゥロ大統領を拘束した当初から、石油利権の確保に意欲を見せていた。</description><guid isPermaLink="false">https://news.jp/i/1466244217708183995</guid><pubDate>Sat, 29 Aug 2026 08:05:07 +0000</pubDate></item><item><title>「AIエージェント」登場でネット通販激変　〝アマゾン飛ばし〟でビジネスモデル崩壊も</title><link>https://www.sankei.com/article/20260828-RJSFTQBT3VMEPN5EQIQZX4TG4U/</link><description>[score: 0.871] 「AIエージェント」登場でネット通販激変 〝アマゾン飛ばし〟でビジネスモデル崩壊も LINEヤフーが提供する買い物向けAIエージェント。画像からも商品を探すことができる＝8月28日、東京都港区 LINE（ライン）ヤフーは28日、通信アプリ「LINE」を通じて利用できる人工知能（AI）サービスを、アプリにすると発表した。10月の提供開始を予定している。利用者の質問に答えたり、買い物をしやすくしたりする機...</description><guid isPermaLink="false">https://www.sankei.com/article/20260828-RJSFTQBT3VMEPN5EQIQZX4TG4U/</guid><pubDate>Sat, 29 Aug 2026 09:15:07 +0000</pubDate></item><item><title>Go の設計、どこまでやる？〜小さく作って、壊さず育てる〜</title><link>https://zenn.dev/135yshr/books/go-service-design</link><description>[score: 0.872] Go の設計、どこまでやる？〜小さく作って、壊さず育てる〜
-無料で読める本
-「クリーンアーキテクチャというアーキテクチャはない」——大事なのは図の形を真似ることではなく、依存の向きを設計し、変更に強いサービスを育てることです。本書は、Go でサービスを設計・運用する中で得た判断基準を、原則の理解、層ごとの設計判断、ドメインの表現、CI での維持、そして読書ログサービスを題材にしたハンズオンまで一冊にまとめました。読み終えたとき、自分のサービスを設計して作りはじめられる状態になることがゴールです。
-Chapters
-はじめに〜この本の歩き方〜
-依存性ルール〜同心円図の正しい読み方〜
-Go の i</description><guid isPermaLink="false">https://zenn.dev/135yshr/books/go-service-design</guid><pubDate>Sat, 29 Aug 2026 08:45:21 +0000</pubDate></item><item><title>OpenAIの暴走AI、1200体が結託　「仲間のため｣とシステムに突撃要求 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/</link><description>[score: 0.874] OpenAIの暴走AI、1200体が結託 「仲間のため｣とシステムに突撃要求 - 日本経済新聞 【シリコンバレー=伴正春】米オープンAIで開発中の人工知能（AI）がサイバー攻撃をした問題で、約1200体のAIが連携して指示役、偵察役などを分担していたことがわかった。失敗リスクが高い作業でも、AI同士で「仲... netafull “米オープンAIで開発中の人工知能（AI）がサイバー攻撃をした問題で、約1200体のAIが連携して指示役、偵察役などを分担していたことがわかった。”</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOGN2704N0X20C26A8000000/</guid><pubDate>Sat, 29 Aug 2026 03:23:46 +0000</pubDate></item><item><title>石川 羽咋 大雨被害の災害廃棄物仮置き場が開設</title><link>https://news.web.nhk/newsweb/na/nd-20260829de47145</link><description>[score: 0.875] 27日の記録的な大雨で「レベル5大雨特別警報」が発表された石川県や富山県では、29日も新たな被害が確認されたほか、住民が後片づけなど対応に追われています。各地の状況をまとめました。
-前線で大気の状…
-注目ワード
-あわせて読みたい
-“周囲と行き来できず” 大雨被害 石川・富山で相次ぐ【詳報】
-8月28日 19:25
-【上空からの映像】石川 富山 記録的な大雨から一夜 現状は
-8月28日 16:48
-避難所はどこに？【災害情報マップ】
-前線で大気の状態不安定 石川県と福井県にレベル4危険警報
-8月29日 21:06
-鹿児島 いちき串木野市の海岸で流された中高生3人の捜索続く
-8月29日 6:30
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260829de47145</guid><pubDate>Sat, 29 Aug 2026 10:01:22 +0000</pubDate></item><item><title>米紙 対イラン作戦でアメリカ弱体化とロシアが評価か</title><link>https://news.web.nhk/newsweb/na/nd-20260829de47147</link><description>[score: 0.876] アメリカのCIA＝中央情報局の長官がロシアを訪問したことについて、有力紙、ワシントン・ポストがその背景について関係者の話を伝えました。イランへの軍事作戦でアメリカが弱体化していると、ロシアが評価し、行…
-あわせて読みたい
-ゼレンスキー大統領「CIA長官のモスクワ訪問の説明受けた」
-8月29日 11:24
-米財務省 イラン経済制裁でエジプトの銀行とのドル取引遮断へ
-8月29日 11:17
-FRBウォーシュ議長 “利上げの可能性を排除しない考え”示唆
-8月29日 4:43
-ネパール土石流 633人が死亡 二次災害のリスクを警戒
-8月29日 19:57
-中国 軍制服組トップら2人を解任 規律違反など</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260829de47147</guid><pubDate>Sat, 29 Aug 2026 05:38:18 +0000</pubDate></item><item><title>AI語に親しむ</title><link>https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/</link><description>[score: 0.877] まず以下の文章を見てほしい。
-はじめまして。今日から転校してきました、山田スロップ太郎と申します。
-まず前提として、前の高校ではバスケ部に入っていました。ここで重要なのは、運動が得意だったかどうかではありません。試合に多く出ていたわけでもない。むしろ、限られた役割の中でどうチームに関わるか、という部分が大きかったです。
-一般に、チームスポーツでは一人ひとりに異なる役割があります。全員が点を取る必要はありませんし、全員が目立つ必要もありません。重要なのは、それぞれが自分の立ち位置を理解することです。
-個人的に非常に大きかったのは、そうした経験を通じて「継続すること」の意味を実感できた点です。もち</description><guid isPermaLink="false">https://ktrmnm.jp/blog/2026-08-29-what-is-ai-ism-jp/</guid><pubDate>Sat, 29 Aug 2026 06:04:45 +0000</pubDate></item><item><title>オープンウェイトAIの21モデル、“改変”により安全策を弱体化できることが明らかに</title><link>https://wired.jp/article/tamperbench-open-weight-llm-safety-tampering/</link><description>[score: 0.877] メールの下書きやプログラムのコーディング、対話などをこなす大規模言語モデル（LLM）の活用が、このところ急速に広がっている。なかでも無料でダウンロードできて自由に調整（ファインチューニング）可能なオープンウェイトモデルは、個人の開発者や企業、公共機関などで幅広く利用されている技術だ。
-LLMには通常、モデルを犯罪行為などに悪用させないための機能制限が設けられている。例えば「爆弾のつくり方」を聞かれても拒否する、といった機能だ。ところが、こうしたモデルに組み込まれた安全対策は意外なほど簡単に弱体化できることが、このほど最新の研究で明らかになった。
-カナダのウォータールー大学と、人工知能（AI）の</description><guid isPermaLink="false">https://wired.jp/article/tamperbench-open-weight-llm-safety-tampering/</guid><pubDate>Sat, 29 Aug 2026 08:08:40 +0000</pubDate></item><item><title>8年間もデイトレードにのめり込んでいた私が、数カ月で“依存”から抜け出した5つの方法</title><link>https://www.businessinsider.jp/article/2608-how-to-stop-day-trading-addiction/</link><description>[score: 0.878] - イギリス在住の元トレーダー、イタイ・グリーンバーグ（Itay Greenberg）は、8年間にわたる市場取引への依存を断ち切った。
-- 彼は、4月に取引をやめるまでに、トレーディング関連の費用で約3万ポンド（約600万円）を失ったと見積もっている。
-- 彼は、薬物療法から新しい趣味まで、トレーディング依存を断ち切るのに役立った5つの方法を紹介した。
-この記事は、2026年に市場取引から離れるまでの8年間デイトレード依存に苦しんだ、イギリス在住の視覚効果アーティストのイタイ・グリーンバーグとの会話に基づく。Business Insiderは、証券会社の取引明細、メールで送られた取引記録、クレ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2608-how-to-stop-day-trading-addiction/</guid><pubDate>Sat, 29 Aug 2026 11:25:05 +0000</pubDate></item><item><title>【基本情報】RAM？ROM？略称多すぎ問題を解消するアプリ作った【応用情報】</title><link>https://qiita.com/redwings_a/items/0a9b574983aeae65d369?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] 基本情報・応用情報に出てくる、英語略称だけをひたすら覚える単語帳
-はじめに
-基本情報技術者試験(FE)・応用情報技術者試験(AP)の勉強をしていると、CRM
-・RFID
-・MIME
-のような英語の略称が大量に出てきます。
-問題なら文脈と選択肢で見えてきますが、
-「略称単体で見た（聞いた）ときに、一瞬で分野と正式名称が出てこない」
-「これはアルファベット読みか？特殊な読みがあるパターンか？」
-ということがありませんか？私はありました。昔からこういった英語略称に苦手意識があります。
-そこで、略称だけを見て「何の略で、どういうものか」を反射的に思い出すことに特化した単語帳アプリをClaudeCode</description><guid isPermaLink="false">https://qiita.com/redwings_a/items/0a9b574983aeae65d369?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 29 Aug 2026 08:27:20 +0000</pubDate></item><item><title>GitHub Enterprise導入とTeams再設計で最小権限と俊敏性を両立。30人規模スタートアップの実践</title><link>https://zenn.dev/unsoluble_sugar/articles/github-org-least-privilege</link><description>[score: 0.879] はじめに 仕事でITセキュリティを担当しており、今回、社内のGitHub Organizationの権限設計を見直す機会がありました。GitHub Enterpriseを新規契約し、Base permissionsの変更を軸に、リポジトリ・Teams・メンバー・権限・認証・運用ルールを横断して再設計するという内容です。 いざ取り組んでみると、GitHubには詳細な公式ドキュメントがある一方で、「組織全体としてどう設計し、どの順序で既存Organizationに適用するか」をまとめた事例はネット上にあまり見当たりませんでした。結局、自分で実際に設定を触りながら設計と実作業を進め、何とか...</description><guid isPermaLink="false">https://zenn.dev/unsoluble_sugar/articles/github-org-least-privilege</guid><pubDate>Sat, 29 Aug 2026 11:05:35 +0000</pubDate></item><item><title>AIで宿題をこなす学生は「学力が30％低下」することが研究で明らかに</title><link>https://forbesjapan.com/articles/detail/103754?s=ns</link><description>[score: 0.880] 教育の世界におけるテクノロジー導入の歴史を振り返ると、浮き彫りになることがある。この世には、手っ取り早い解決策などない、という事実だ。電子計算機が最初に登場した時には、自分の頭で考えることの代替手段として使われるのではないかと、多くの人が危惧した。最近も、スマートフォンの使用に関して同様の懸念が生じている。
-しかし、歴史のサイクルで見ると、新たなテクノロジーが登場するたびに教育にプラスの効果がある、とは言えないものの、悪影響を与えているようにも見えない。現実問題として、テクノロジーが果たしているのは、既に存在している生徒個人間の格差を拡大する役割だ。
-ジャーナリストのローズ・ホロウィッチは20</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103754?s=ns</guid><pubDate>Sat, 29 Aug 2026 08:28:35 +0000</pubDate></item><item><title>PyCon JP 2026 in 広島に初参加してきました（0日目〜3日目レポート）</title><link>https://qiita.com/keikeigo/items/9b8356a81267c2090d8a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] はじめに
-こんにちは、エンジニアを目指している27卒の大学4年生です！
-PyConに初めて参加してきたので、その様子や学んだことをまとめます！
-PyConに参加した理由
-- いつも家でアプリを作って勉強しているだけでは得られない知識を得るため
-- エンジニアの方と話す機会を得るため
-- 広島に行くため
-広島を楽しみながら勉強もできるなんて最高！と思い、参加しました。
-この記事の概要
-PyConは2年連続で広島開催。今回は前泊しました。
-0日目から3日目までの様子を書きます。
-- 0日目：FindyのDrinkup
-- 1〜2日目：カンファレンス
-- 3日目：スプリント
-0日目
-FindyのDr</description><guid isPermaLink="false">https://qiita.com/keikeigo/items/9b8356a81267c2090d8a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 29 Aug 2026 08:27:20 +0000</pubDate></item><item><title>トランプ大統領“ベネズエラ石油資源の過半数の支配権を確保”</title><link>https://news.web.nhk/newsweb/na/nd-20260829de47161</link><description>[score: 0.881] アメリカのトランプ大統領は南米ベネズエラにある石油資源の過半数の支配権を確保したと明らかにしました。アメリカでは、イランへの軍事作戦を受けてガソリン価格の高騰が続いていてトランプ大統領は「大幅に価格を…
-あわせて読みたい
-米のイラン軍事作戦半年 ホルムズ回避の代替ルート構築進む
-8月28日 20:53
-FRB議長「金融引き締め的と表現は難しい」利上げ可能性に含み
-8月29日 12:45
-ネパール土石流 633人が死亡 二次災害のリスクを警戒
-8月29日 19:57
-米財務省 イラン経済制裁でエジプトの銀行とのドル取引遮断へ
-8月29日 11:17
-ICC締約国会議 アメリカでの開催変更を検討
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260829de47161</guid><pubDate>Sat, 29 Aug 2026 06:35:32 +0000</pubDate></item><item><title>「ハーネス」ってなんぞ？ Claudeに“性格”と“記憶”を持たせる仕組みを、おじさんでも分かるように調べてみた</title><link>https://qiita.com/OnuuuumaX/items/8b7ac7751411f79a41d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] はじめに
-最近、AIにコーディングを手伝ってもらう文脈で「ハーネス」という言葉を見かけるようになりました。専門用語っぽくて身構えてしまいますが、中身はとてもシンプルらしいです。
-難しい記事を漁りましたが、頭の中で整理しきれなかったので、Claudeに教えてもらいつつまとめ上げました。
-「毎回言うことが違う新人」と「一度教えたことはちゃんと守り続けてくれるベテラン」の違いは何か
-これがハーネスの正体です。エンジニアでなくても、「誰かに仕事を教える」経験がある人なら、すぐにピンとくるでしょう。
-ハーネスって、そもそも何？
-ハーネス(harness)は、もともと馬に付ける「馬具」のことらしいです。手</description><guid isPermaLink="false">https://qiita.com/OnuuuumaX/items/8b7ac7751411f79a41d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 29 Aug 2026 08:27:20 +0000</pubDate></item><item><title>バイト先の店長がAIに私の描いた絵を読み込ませてて終わった→悪意なきパターンの難しさについて</title><link>https://togetter.com/li/2738666</link><description>[score: 0.882] 元絵の良さが
-めとろん🍵
-@BAR_METORON
-元絵からでる微妙なニュアンスの陰の影みたいな物が死んでて 汎用化された、憑き物をとられた感じになってる。。。 x.com/_oe______/stat…
-2026-08-29 11:59:13会社の著作物になっている可能性もあるかも？
-アルハンブラ
-@alhumbra
-この場合の生成AIにi2i？した行為以前に 著作権法 第十五条の職務著作によって 作品が「会社の著作物」になっている可能性がある 許諾は心情的には取った方がいいだろうけどもね 文化庁 著作権テキスト令和8年版 P.12より引用 bunka.go.jp/seisaku/chosa</description><guid isPermaLink="false">https://togetter.com/li/2738666</guid><pubDate>Sat, 29 Aug 2026 11:15:56 +0000</pubDate></item><item><title>AIプロダクトの新規事業、立ち上げから1年の振り返り</title><link>https://zenn.dev/loglass/articles/3f8a2c91d4e7b5</link><description>[score: 0.882] ! この記事は毎週必ず記事がでるテックブログ Loglass Tech Blog Sprintの 158週目 の記事です！ 3年間連続達成まで 残り1週 となりました！ 背景 約1年前から自分は、「Loglass AI IR」という新規事業のプロダクト開発責任者を担当しています。PdM・デザイナー・エンジニアからなるプロダクトチームのマネージャーで、事業全体は上司にあたる事業責任者が見ています。 その前は、既存事業でエンジニアリングマネージャー（EM）をしていました。仕事は採用・育成・プロジェクトマネジメントが中心で、プレイングはほとんどしていませんでした。その延長で考えれば、新規...</description><guid isPermaLink="false">https://zenn.dev/loglass/articles/3f8a2c91d4e7b5</guid><pubDate>Sat, 29 Aug 2026 07:03:05 +0000</pubDate></item><item><title>Azure基盤でセキュアなCodex利用環境を作る</title><link>https://qiita.com/Sugiyama_Shingo/items/88816c2d1c0215778de4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.882] はじめに
-Skillsの登場以降、様々な企業で業務効率化の為にCursorやVSCodeなどと併用する形でSkillsが活用されるようになりました。しかし個人での利用ではセキュリティ・ガバナンス面での懸念があり、組織としての運用に移行したいと考えている方も多いと思われます。しかし実際に運用に載せる上で必要な統制を取るために、本記事ではAzure で業務・データを統制し、生成AIセキュリティ製品でAI通信を防御する基盤を構築することを提案します。
-課題
-- 利用環境の個人依存
-各PCへのセットアップが必要で、利用者展開やバージョンアップ、問い合わせ対応の負荷が高い。 - データ・成果物の分散
-案</description><guid isPermaLink="false">https://qiita.com/Sugiyama_Shingo/items/88816c2d1c0215778de4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 29 Aug 2026 08:27:20 +0000</pubDate></item><item><title>ビジネス書より効果的、頭脳明晰な人が週末に「小説を愛読」する理由</title><link>https://forbesjapan.com/articles/detail/103725?s=ns</link><description>[score: 0.885] 頭脳をもっと明晰にしたいと考える人の多くは趣味としてノンフィクションに手を伸ばす。妥当な選択のように思えるからだ。交渉術や経済学、習慣形成についての本なら、読み終えた後に「何を得たか」を具体的に説明できるため、費やした時間は有意義だったと感じられる。その序列の中でフィクションはもっと下にくる。飛行機の中で読むもの、あるいは一日の終わりに本格的な読書をするには疲れすぎているときに読むもの、という扱いだ。
-考えることを生業にしている人たちは往々にして正反対の習慣を持っており、それを何ら恥じたりはしない。土曜日の午後は丸々小説に没頭し、メモも取らず、月曜日の仕事で要約できるような成果も何も得られない</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103725?s=ns</guid><pubDate>Sat, 29 Aug 2026 07:29:07 +0000</pubDate></item><item><title>【国債のリアル】個人向け国債の賢い買い方と時期は？／インフレによる資産の目減りに注意／金利上昇でも円安のカラクリ／市場は財政悪化を懸念／日銀の利上げと国債購入の矛盾 | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956277?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.885] コンテンツブロックが有効であることを検知しました。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 29 Aug 2026 23:10:37 +0000</lastBuildDate><item><title>SNS投稿の質を高める、ChatGPT活用術3選</title><link>https://forbesjapan.com/articles/detail/103832?s=ns</link><description>[score: 0.873] 私は以前から、ビジネスにとってソーシャルメディアが重要であることは理解していた。だが、それは必ずしも、存在感を築くプロセスを楽しんできたという意味ではない。書くことは好きだが、私は生来の「投稿好き」ではない。自ら進んでTikTokで流行のダンスを覚えたり、最高の自撮りのためにリングライトを調整したりする姿を見られることは決してないだろう。
+幸い、Jotformのソーシャル上の存在感を際立たせてくれる優秀なマーケティングチームがいる。だが長い間、私は自分自身のソーシャルメディアでの発信を後回しにし、明確な仕組みや構成意識もないまま、思いついたときに投稿を寄せ集めるような状態だった。
+結果は想像ど</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103832?s=ns</guid><pubDate>Sat, 29 Aug 2026 15:57:52 +0000</pubDate></item><item><title>AI時代の検索最適化——Googleだけでは勝てない新常識</title><link>https://forbesjapan.com/articles/detail/103831?s=ns</link><description>[score: 0.874] 私は検索エンジン最適化（SEO）の分野で20年以上仕事をしてきた。この業界がベストプラクティスとは何かをまだ模索していた時代からだ。
+Googleツールバーにあった、あの小さな緑色のPageRankバーを覚えている。クライアントはそのスコアを注視していた。SEOが測定可能なものに感じられたからだ。エージェンシーはウェブサイトをディレクトリに登録し、記事をインターネット上に配信し、プレスリリースをシンジケート配信していた。その多くはリンクを獲得するためだった。当時これらの手法は決して異端ではなく、標準的な戦術の一部だった。
+その後、Googleは変わった。品質シグナルは向上し、抜け道は通用しなく</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103831?s=ns</guid><pubDate>Sat, 29 Aug 2026 15:27:37 +0000</pubDate></item><item><title>「諦めれば成功率は0%」米有名投資家がAI未公開株に賭ける理由</title><link>https://forbesjapan.com/articles/detail/103201?s=ns</link><description>[score: 0.875] ハワード・マークスはこの10年、一般の人々がベンチャーキャピタリストと同じように投資できるようにすることに取り組んできた。そして、その結果について語ることに、彼は珍しいほど率直である。自身が共同創業した株式投資型クラウドファンディング・プラットフォーム、StartEngineで資金調達した1000社超について、マークスはポッドキャスト「On The Margin」で「次のUberになるような企業、あるいは巨大企業になった企業はなかった」と述べた。「うまくいった企業もあったが、多くは何の成果もなかった」
+彼の最初のファンドは、59社のスタートアップにそれぞれ約2万ドル（約319万円）を投じた。彼</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103201?s=ns</guid><pubDate>Sat, 29 Aug 2026 22:26:10 +0000</pubDate></item><item><title>｢築47年､都心マンションを60歳でリノベ｣ 失敗だらけの"自力リノベ"でも｢人生最後の買い物｣に､心から納得できた理由 | ライフ | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/955581?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.875] コンテンツブロックが有効であることを検知しました。
 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956277?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sat, 29 Aug 2026 10:18:42 +0000</pubDate></item><item><title>Claude Codeの体系的な理解と知識のフック</title><link>https://speakerdeck.com/oikon48/cc</link><description>[score: 0.887] Share
-Claude Code Meetup Japan #7 (Claude Code祭り!): https://aid.connpass.com/event/402949/
-書籍 『Claude Code実践入門［生成AI深掘りガイド］』: https://amzn.asia/d/08P7IEWl</description><guid isPermaLink="false">https://speakerdeck.com/oikon48/cc</guid><pubDate>Sat, 29 Aug 2026 07:24:46 +0000</pubDate></item><item><title>ローカルLLMの壁を打ち破る「Unsloth Desktop」登場！　画像生成・コード実行・API化を1つのアプリに統合</title><link>https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news020.html</link><description>[score: 0.887] ローカルLLMの壁を打ち破る「Unsloth Desktop」登場！ 画像生成・コード実行・API化を1つのアプリに統合 画像生成・コード実行・API化を1つのアプリに統合「Unsloth Desktop」登場 クラウド生成AIの普及が進む一方、情報漏えいを防ぎコストを抑えるローカルLLMへの注目が集まっている。本Tech TIPSでは2026年8月に登場した「Unsloth Desktop」を解説する。チャットだけでなくノーコード学習や画像生成までGUIで完結する本ツー...</description><guid isPermaLink="false">https://atmarkit.itmedia.co.jp/ait/articles/2608/28/news020.html</guid><pubDate>Sat, 29 Aug 2026 07:44:10 +0000</pubDate></item><item><title>AI語を受容する</title><link>https://ktrmnm.jp/blog/2026-08-29-accept-ai-ism/</link><description>[score: 0.890] 前回の記事でAI語とは何なのかについて書いた。今回は、AI語とどう付き合うべきかについて書きたい。具体的には「AI語を除去すること」と「受け入れること」について考察する。本記事にはおおむね以下のようなことが書いてある。
-- AI語を完全に「脱臭」するのは難しい。
-- AI語が好ましくないという規範意識が実際に存在するが、今後も主流とは限らない。
-- 実用上は、可用性を妨げない範囲でAI語を部分的には除去し、部分的には受け入れるのが良いのではないか。
-本編の前に、良い時事ネタがあったのでまず紹介したい。
-最近、松浦勝人さん (Max Matsuuraさん) のnoteが話題を集めた。これらはAI</description><guid isPermaLink="false">https://ktrmnm.jp/blog/2026-08-29-accept-ai-ism/</guid><pubDate>Sat, 29 Aug 2026 09:05:02 +0000</pubDate></item><item><title>「鳥肌が立った」特定したネット中傷の加害者死亡、勝訴しても「100万円超」の出費…被害男性が語る現実 - 弁護士ドットコムニュース</title><link>https://www.bengo4.com/c_23/n_20851/</link><description>[score: 0.890] 「鳥肌が立った」特定したネット中傷の加害者死亡、勝訴しても「100万円超」の出費…被害男性が語る現実 - 弁護士ドットコムニュース 「加害者が亡くなっていたと聞いたとき、鳥肌が立ちました」 ネット上で誹謗中傷を受け続けた横浜市の男性（56）は、相手を特定し、裁判を起こした。1人とは和解し、もう1人には賠償を命じる判決が出た。 それでも、男性は「勝っても被害者が赤字になる」とうったえる。 被害が始まってから7年。弁護士費用などに100万円...</description><guid isPermaLink="false">https://www.bengo4.com/c_23/n_20851/</guid><pubDate>Sat, 29 Aug 2026 11:18:37 +0000</pubDate></item><item><title>ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった - Qiita</title><link>https://qiita.com/ktdatascience/items/02b6b45e2ca7d34ad146</link><description>[score: 0.892] ベテランエンジニアのPRレビュー187件を分類してみたら、バグは5件に1件しか指摘されていなかった - Qiita 上位2つで61件、全体の33%。一方、いわゆるバグ相当（3位の「値そのもの」＋7位の「データが壊れないか」）は38件で20%です。5件に1件しかない。 レイヤーが変わると領域も入れ替わる 同じ人のレビューでも、対象がバックエンドかモバイルかWebフロントかで、厚い領域がはっきり違いました。 バックエンドは「値の正しさ...</description><guid isPermaLink="false">https://qiita.com/ktdatascience/items/02b6b45e2ca7d34ad146</guid><pubDate>Sat, 29 Aug 2026 11:36:00 +0000</pubDate></item><item><title>ロシアのドローン攻撃で倉庫爆発、27人死亡　キーウ近郊</title><link>https://www.cnn.co.jp/world/35252053.html</link><description>[score: 0.892] ロシアの空からの攻撃を受けて立ち上る煙＝29日、ウクライナ首都キーウ/Serhii Okunev/AFP/Getty Images （CNN） ウクライナの首都キーウ近郊の倉庫で、ロシアのドローン（無人機）攻撃による爆発が発生し、少なくとも27人が死亡、数十人が負傷した。 キーウ州軍政当局のトップ、ティムール・トカチェンコ氏は「残念ながら、現時点で27人の死亡が確認されている。この数字は最終的なものではない可能性がある」と述べ、犠牲者の遺族や近しい人に哀悼の意を示した。 ウクライナのゼレンスキー大統領は、ロシアのドローンによって倉庫が攻撃されたと説明。これが引き金となって爆発が起き、広い範囲に</description><guid isPermaLink="false">https://www.cnn.co.jp/world/35252053.html</guid><pubDate>Sat, 29 Aug 2026 10:11:18 +0000</pubDate></item><item><title>【首相動静に記載なし】高市首相　読売新聞主筆を “公邸呼びつけ” 騒動…読売OBが明かす “意外な内容” とは | 女性自身</title><link>https://jisin.jp/domestic/2597805/</link><description>[score: 0.897] 【首相動静に記載なし】高市首相 読売新聞主筆を “公邸呼びつけ” 騒動…読売OBが明かす “意外な内容” とは | 女性自身 女性自身TOP &gt; 国内 &gt; 政治 &gt; 高市早苗 &gt; 【首相動静に記載なし】高市首相 読売新聞主筆を “公邸呼びつけ” 騒動…読売OBが明かす “意外な内容” とは 2026年8月18日配信の「文春オンライン」の記事が物議を醸している。『高市首相 被災地「自己アピール動画」に映らない“裏の顔”《被爆者団体会長が「歴代首相で最も冷たい...</description><guid isPermaLink="false">https://jisin.jp/domestic/2597805/</guid><pubDate>Sat, 29 Aug 2026 11:39:38 +0000</pubDate></item><item><title>自宅PCで巨大AIが高速動作？　ノートPCで350億、プロ向けGPU1枚で7530億パラメータのAIモデルを非公式量子化なしで動かす無償ツール「FreeToken」など生成AI技術5つを解説（生成AIウィークリー）</title><link>https://www.techno-edge.net/article/2026/08/29/5442.html</link><description>[score: 0.898] この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第157回）は、AIが自ら問題を作って学習する自己改善型モデル「Ornith-1.5」や、スマホで撮った1本の動画から動く人の3D映像を作るAI技術「4DAnyone」を取り上げます。
-また、ご家庭のノートPCやゲーミングPCなどで巨大なAIモデルを動作させることを可能にするツール「FreeToken」や、Z.aiの新しいモデル「GLM-5.3」をご紹介します。
-そして、生成AIウィークリーの中でも特に興味深いAI技術や研究にスポットライトを当てる「生成AIクローズアップ」では、Huggin</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/08/29/5442.html</guid><pubDate>Sat, 29 Aug 2026 10:47:22 +0000</pubDate></item><item><title>肥大化し続けるCLAUDE.md</title><link>https://zenn.dev/tokium_dev/articles/claude-md-keeps-growing</link><description>[score: 0.910] はじめに TOKIUM でエンジニアをしているちっちです。26卒として入社し、現在は2ヶ月の研修を経て開発に取り組んでいます。 突然ですが、今お使いのCLAUDE.mdは何行ありますか？ 以前、中身を整理した方も気づくと膨れ上がっていませんか？ かくいう自分も研修を終えて数週間後、ふとCLAUDE.mdを開いてみると378行ありました。しかも、そこに書いてあることを自分でも半分くらい覚えていません。 書き足すたびに便利にしているつもりが、実際にやっていたのは自分でも把握できていないものを Claude に毎回読ませることでした。 整理しても、静かに崩れていく 公式ドキュメントには...</description><guid isPermaLink="false">https://zenn.dev/tokium_dev/articles/claude-md-keeps-growing</guid><pubDate>Sat, 29 Aug 2026 11:05:35 +0000</pubDate></item></channel></rss>
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/955581?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sat, 29 Aug 2026 21:10:28 +0000</pubDate></item><item><title>｢好きなことしかしたくない｣ 60歳でマンションリノベ　"残りの人生"見据えた彼女が《落ち着きのない部屋》を作ったワケ | ライフ | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/955574?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.876] コンテンツブロックが有効であることを検知しました。
+このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
+なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/955574?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sat, 29 Aug 2026 21:10:28 +0000</pubDate></item><item><title>【ライブ配信中】福井県に大雨特別警報 気象庁と国交省が会見</title><link>https://news.web.nhk/newsweb/na/nd-20260830de47205</link><description>[score: 0.876] 福井県に「レベル5大雨特別警報」を発表したことについて、気象庁と国土交通省は30日午前5時半から合同で記者会見を開きました。
+気象庁「命の危険迫る。直ちに安全確保を」
+気象庁の細見卓也予報課長は…
+福井県に大雨特別警報 福井市 大野市 勝山市の3市が対象
+8月30日 7:42
+【最新の避難情報】こちらから地域別でご覧になれます
+【気象警報・注意報】各地の発表状況を詳しく
+【最新の河川情報】こちらから一覧でご覧になれます
+「命を守る行動を！」特別警報に緊急安全確保…どうすれば
+土砂災害マップ【NHK】現在の危険度をリアルタイム表示
+土砂災害 警戒や避難のポイントは？
+川の氾濫 警戒のポイントは？</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260830de47205</guid><pubDate>Sat, 29 Aug 2026 19:44:07 +0000</pubDate></item><item><title>Claude Codeの設計詰めスキル『grilling』の紹介</title><link>https://zenn.dev/sato_frontend/articles/1a85841505b9bb</link><description>[score: 0.876] Claude Codeの設計詰めスキル『grilling』の紹介
+はじめに
+Claude Codeを使っていると、実装そのものよりも「実装前にどこまで設計を詰められているか」のほうが成果物に効く場面が増えてきました。
+実装後にQAで「この条件はどうなりますか？」「このケースは想定していますか？」と指摘されると、単なる修正では済まず、データ構造や画面設計まで戻ることがあります。納期が決まっているプロジェクトだと、この手戻りがかなりきついです。
+そこで最近使ってよかったのが、Matt Pocockさんが公開しているClaude Codeスキルのgrilling
+です。実装前のプランや設計に対して、</description><guid isPermaLink="false">https://zenn.dev/sato_frontend/articles/1a85841505b9bb</guid><pubDate>Sat, 29 Aug 2026 15:28:20 +0000</pubDate></item><item><title>母親に褒めてもらいたくて、LINEを送ったら「顔浮腫んでない？お酒飲みすぎてる？」みたいな返信が…心配性あるある「自己肯定感が低くなる」「分析する癖がついている」</title><link>https://togetter.com/li/2738813</link><description>[score: 0.876] 母親に褒めてもらいたくて、LINEを送ったら「顔浮腫んでない？お酒飲みすぎてる？」みたいな返信が…心配性あるある「自己肯定感が低くなる」「分析する癖がついている」 青ネギ＠プロトレーダーのつもり @1cPWvbed6lS98UK 例えば社内表彰されて、写真を母親にLINEで送るじゃん。私は「すごいねがんばったね」って返信を期待するんだけど「顔浮腫んでない？お酒飲みすぎてる？」みたいな返信がくるんだよね。子どもの写真送っても「かわいい」って返してくるかと思ったら、「頭ぶつけないよ...</description><guid isPermaLink="false">https://togetter.com/li/2738813</guid><pubDate>Sat, 29 Aug 2026 22:22:29 +0000</pubDate></item><item><title>【AWS DevOps Agent】コードレビューと自動検証テストの検証</title><link>https://qiita.com/aliean/items/bec57a9a20c7f9e60f79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] この記事は「2026 Japan AWS Jr. Champions 真夏のQiitaリレー」の29日目の記事となります。
+過去の投稿（リンク集）は以下リンクからご覧ください。
+はじめに
+開発が進むにつれて提出される Pull Request（PR）。
+気づけば未レビューの PR が溜まり続け、レビュー作業がボトルネックになって開発スピードが落ちてしまう……そんな経験ありませんか？
+メンバーのレビューやテストの手間を少しでも減らし、開発に集中できる環境を整えるため、今回は AWS DevOps Agent の導入を検討・検証してみました。
+同じような課題を抱えている方や解決策を探している方へ、</description><guid isPermaLink="false">https://qiita.com/aliean/items/bec57a9a20c7f9e60f79?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 29 Aug 2026 20:38:38 +0000</pubDate></item><item><title>福井県に大雨特別警報 福井市 大野市 勝山市の3市が対象</title><link>https://news.web.nhk/newsweb/na/nd-20260830de47200</link><description>[score: 0.877] 前線と湿った空気の影響で福井県では記録的な大雨となり、気象庁は30日早朝、福井市と大野市、それに勝山市にレベル5大雨特別警報を発表しました。
+川の氾濫や浸水がすでに発生していて、気象庁は少しでも命が…
+気象庁と国交省が会見“身の安全確保を”福井県に大雨特別警報
+8月30日 6:24
+【最新の避難情報】こちらから地域別でご覧になれます
+【気象警報・注意報】各地の発表状況を詳しく
+【最新の河川情報】こちらから一覧でご覧になれます
+「命を守る行動を！」特別警報に緊急安全確保…どうすれば
+土砂災害マップ【NHK】現在の危険度をリアルタイム表示
+土砂災害 警戒や避難のポイントは？
+川の氾濫 警戒のポイン</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260830de47200</guid><pubDate>Sat, 29 Aug 2026 19:44:07 +0000</pubDate></item><item><title>Claude Codeでトライ！④ - Claude CodeとFlutterで麻雀点数計算アプリを作ってみた</title><link>https://qiita.com/OnuuuumaX/items/4bb47e2770e28207778a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] はじめに
+Flutterで「牌をカメラで撮影するだけで点数計算してくれるアプリ」を思い付きましたのでclaudeにお願いするだけで作れるか試してみました。
+（リサーチの結果、巷には同じようなアプリは多数存在するようです）
+実装はClaude Code（AIコーディングエージェント）と一緒に進めていて、この記事ではどういう設計・実装にしたか、そして実装後にシミュレータ/実機で動作確認してもらった際に何が起きたか（Claudeからの質問と私の回答も含めて）の両方をまとめます。単なる実装ログではなく、AIとのやり取りをそのまま載せることで「AIに設計〜実装〜実機確認まで任せるとどんな感じになるのか」</description><guid isPermaLink="false">https://qiita.com/OnuuuumaX/items/4bb47e2770e28207778a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 29 Aug 2026 20:38:38 +0000</pubDate></item><item><title>半導体サプライチェーンからイノベーション･エコシステムへ――台湾の次に目指すべき成長戦略 | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956160?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.878] 1980年代後半に冷戦が終結してから約30年間、グローバル企業は利益の最大化を追求し、世界的な分業体制がもたらす繁栄を享受してきた。
+しかし、2010年代後半の米中貿易摩擦を皮切りに、20年の新型コロナウイルス感染症の流行に伴う半導体不足や、22年に始まったロシアによるウクライナ侵略に起因するエネルギー価格の高騰、さらには米中の技術競争を背景とした輸出規制などによって、企業の行動や意思決定の論理は大きく変化した。
+政府や企業が重視するようになったのは、サプライチェーンの信頼性や、制度の透明性、納入品質の安定性、そして取引先が長期的に契約を履行する能力を備えているかどうかだ。こうした要素によって</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956160?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sat, 29 Aug 2026 20:59:32 +0000</pubDate></item><item><title>【動画】福井市大宮町の国道が冠水 茶色い水が激しく流れる</title><link>https://news.web.nhk/newsweb/na/nd-20260830de47218</link><description>[score: 0.878] 30日午前4時ごろ、福井市大宮町で撮影された映像です。
+道路が冠水し、茶色く濁った水が激しく流れている様子が確認できます。
+動画を撮影した50代の男性は、「国道が膝くらいの高さまで冠水していて、水…
+福井県に大雨特別警報 福井市 大野市 勝山市の3市が対象
+8月30日 7:42
+【最新の避難情報】こちらから地域別でご覧になれます
+【気象警報・注意報】各地の発表状況を詳しく
+【最新の河川情報】こちらから一覧でご覧になれます
+「命を守る行動を！」特別警報に緊急安全確保…どうすれば
+土砂災害マップ【NHK】現在の危険度をリアルタイム表示
+土砂災害 警戒や避難のポイントは？
+川の氾濫 警戒のポイントは</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260830de47218</guid><pubDate>Sat, 29 Aug 2026 21:40:20 +0000</pubDate></item><item><title>米アプライド･マテリアルズの最新決算が映す｢AI半導体の供給逼迫｣ 顧客は2年先まで発注を確約 | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/955686?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.882] INDEX
+米アプライド・マテリアルズ（AMAT）は、半導体製造装置の世界最大手です。成膜、エッチング、検査など、チップ製造の幅広い工程をカバーする装置を手がけます。顧客にはTSMCやサムスン電子、インテルなど世界の主要チップメーカーが名を連ねます。装置販売に加え、納入後の保守・改善を担うサービス事業も収益の柱です。
+同社は2026年8月13日、2026年5〜7月期の決算を発表しました。売上高は前年比25%増の91億ドルで、四半期ベースの増収額として過去最大を記録しました。調整後EPSは前年比41%増の3.5ドルです。AI向け半導体の生産投資が需要を押し上げており、決算説明会では経営陣が業界の</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/955686?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sat, 29 Aug 2026 22:11:12 +0000</pubDate></item><item><title>【被害まとめ】福井県内で道路冠水や住宅浸水相次ぐ</title><link>https://news.web.nhk/newsweb/na/nd-20260830de47209</link><description>[score: 0.882] 前線と湿った空気の影響で福井県では記録的な大雨となっています。県内では道路の冠水や、住宅の浸水が相次いでいます。 各地の被害をまとめました。
+福井 勝山 冠水で通行できない道路が複数 警察
+福井…
+【最新の避難情報】こちらから地域別でご覧になれます
+【気象警報・注意報】各地の発表状況を詳しく
+【最新の河川情報】こちらから一覧でご覧になれます
+新たな防災気象情報と避難 いつ避難する？
+「命を守る行動を！」特別警報に緊急安全確保…どうすれば
+土砂災害マップ【NHK】現在の危険度をリアルタイム表示
+土砂災害 警戒や避難のポイントは？
+川の氾濫 警戒のポイントは？
+線状降水帯とは？情報が出たらどうする</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260830de47209</guid><pubDate>Sat, 29 Aug 2026 22:08:50 +0000</pubDate></item><item><title>【動画】福井県大野市下丁 住宅の間を通る道が冠水</title><link>https://news.web.nhk/newsweb/na/nd-20260830de47225</link><description>[score: 0.882] 30日午前6時前、大野市下丁で撮影された映像です。
+住宅の間を通る道が冠水していて、水が激しく流れています。
+動画を撮影した60代の男性は「ゴーッという音がして家の外に出てみると、道路が20センチ…
+福井県に大雨特別警報 福井市 大野市 勝山市の3市が対象
+8月30日 7:42
+気象庁と国交省が会見“身の安全確保を”福井県に大雨特別警報
+8月30日 6:24
+【最新の避難情報】こちらから地域別でご覧になれます
+【気象警報・注意報】各地の発表状況を詳しく
+【最新の河川情報】こちらから一覧でご覧になれます
+「命を守る行動を！」特別警報に緊急安全確保…どうすれば
+土砂災害マップ【NHK】現在の危険度</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260830de47225</guid><pubDate>Sat, 29 Aug 2026 22:38:52 +0000</pubDate></item><item><title>福井 坂井 道路が冠水して車が立ち往生との情報</title><link>https://news.web.nhk/newsweb/na/nd-20260830de47222</link><description>[score: 0.882] レベル4の大雨危険警報と土砂災害危険警報が出ている福井県坂井市によりますと、午前6時までに市内の春江町と丸岡町で、それぞれ道路が冠水して車が動けなくなっているという情報が寄せられているということです。…
+福井県に大雨特別警報 福井市 大野市 勝山市の3市が対象
+8月30日 7:42
+気象庁と国交省が会見“身の安全確保を”福井県に大雨特別警報
+8月30日 6:24
+【最新の避難情報】こちらから地域別でご覧になれます
+【気象警報・注意報】各地の発表状況を詳しく
+【最新の河川情報】こちらから一覧でご覧になれます
+「命を守る行動を！」特別警報に緊急安全確保…どうすれば
+土砂災害マップ【NHK】現在の危</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260830de47222</guid><pubDate>Sat, 29 Aug 2026 22:08:50 +0000</pubDate></item><item><title>【初投稿】自己紹介と決意表明</title><link>https://qiita.com/ryu0947/items/ef869c7abc7047cb627a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] はじめに
+自社開発企業のフロントエンドエンジニアへの転職の夢を叶えるため2026年8月29日にReactプログラミングコーチングのJISOUに入会しました。
+現状について
+都内のWeb制作会社でフロントエンドエンジニアをしています。職業名こそフロントエンドエンジニアを名乗っていますが、実際の業務はコーダーになります。言語はHTML・CSS・JavaScript扱いWebサイトの制作や運用保守を主に行っています。
+JISOUへ入会を決めた理由
+元々Web制作からWeb開発の領域へ進みたいと思っていましたが、中々思うようなキャリアを歩むことが出来ずに悩んでいました。会社の業績が年々悪化し、上司・先</description><guid isPermaLink="false">https://qiita.com/ryu0947/items/ef869c7abc7047cb627a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 29 Aug 2026 20:38:38 +0000</pubDate></item><item><title>「頭脳だけで正解を探したら、AIに大敗する」川邊健太郎が旅と“ヒュー！”に見いだすもの - エンジニアtype | 転職type</title><link>https://type.jp/et/feature/31605/</link><description>[score: 0.884] 「頭脳だけで正解を探したら、AIに大敗する」川邊健太郎が旅と“ヒュー！”に見いだすもの - エンジニアtype | 転職type NEW! 2026.08.29 働き方 LINEヤフーAI 30年、ネット業界の最前線を走ってきた人は、AI時代にはもう「古い人」なのだろうか。 たぶん、違う。 前LINEヤフー代表の川邊 健太郎さんは今、巨大組織を率いる立場を離れ、AIと自分だけで事業をつくる「AIソロプレナー」として、旅に出ている。 目的は、「次にBetするテーマ」を...</description><guid isPermaLink="false">https://type.jp/et/feature/31605/</guid><pubDate>Sat, 29 Aug 2026 21:40:16 +0000</pubDate></item><item><title>さよならララ：色彩設計　相澤里佳インタビュー　監督の思い描く「うちの色」を表現する - MANTANWEB（まんたんウェブ）</title><link>https://mantan-web.jp/article/20260828dog00m200064000a.html</link><description>[score: 0.885] 薬屋のひとりごと
+第21話 身請け作戦
+8月29日(土)放送分
+キネマシトラスの15周年記念作品となるオリジナルアニメ「さよならララ」。童話「人魚姫」を題材としたアニメで、人魚姫ララが200年の時を経て、現代の琵琶湖によみがえる。色彩設計の相澤里佳さんに、「さよならララ」の“色”について聞いた。
+あなたにオススメ
+【PR】自分にぴったりの動画配信サービスは？ 利用方法に応じた選び方を懇切丁寧に案内します
+色彩設計です。色を作成したり作品全体の色のバランス調整をしてます。
+谷（紫織）さんの人をひきつける魅力的なキャラクターと、小出（卓史）監督の人となりが感じられるようなあたたかさです。この二人を</description><guid isPermaLink="false">https://mantan-web.jp/article/20260828dog00m200064000a.html</guid><pubDate>Sat, 29 Aug 2026 22:44:02 +0000</pubDate></item><item><title>エンジニアに一番大切なのは技術力ですか？ — 5年働いて気づいた、信頼を生む「誠実さ」の話</title><link>https://qiita.com/teppei19980914/items/5d2749c683331577b2cc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] この記事は約6分で読めます。
+筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。
+👉 ポートフォリオ: 筆者ホームページ
+今日は技術そのものではなく、仕事をするうえで土台になる 「誠実さ」 について書きます。
+いきなりですが、エンジニアにとって一番大切なものは何でしょうか。
+- 技術力
+- 設計力
+- 実装速度
+- 問題解決能力
+- 資格
+- 経験年数
+どれも大切です。
+でも、5年以上IT業界でさまざまな経験をしてきた中で、私は一つの結論にたどり着きまし</description><guid isPermaLink="false">https://qiita.com/teppei19980914/items/5d2749c683331577b2cc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 29 Aug 2026 20:38:38 +0000</pubDate></item><item><title>S3 Vectors、安すぎん？OpenSearch Serverlessからの本番移行</title><link>https://qiita.com/takahumi27/items/6fe3157b5f1d28cba2ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] 本記事の移行元および料金比較の対象は、Amazon OpenSearch Serverless Classicです。
+2026年5月に一般提供されたAmazon OpenSearch Serverless NextGenは、今回の比較には含めていません。
+はじめに
+はじめまして。2026 Japan AWS Jr.champions の長井です。
+この記事は「2026 Japan AWS Jr. Champions 真夏のQiitaリレー」の28日目の記事です。
+※この内容をもとに、本の執筆を予定しています。(技術書展で発売予定)
+過去の投稿は、こちらのリンク集からご覧いただけます。
+背景
+業</description><guid isPermaLink="false">https://qiita.com/takahumi27/items/6fe3157b5f1d28cba2ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 29 Aug 2026 20:38:38 +0000</pubDate></item><item><title>LLMアプリ、雰囲気で運用してませんか? 〜2026年のLLMOpsの現在地〜</title><link>https://qiita.com/taka_yayoi/items/a349cf0801e76f372ca7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.887] はじめに
+2026年8月29日に開催された Machine Learning 15minutes! で、「LLMアプリ、雰囲気で運用してませんか? 〜LLMOpsの現在地〜」というタイトルで15分お話ししました。
+2026年4月に共著で『MLflowで実践するLLMOps』を出したのですが、この領域は書籍の脱稿から登壇までの数ヶ月だけでもかなり動いています。そこで今回は、書籍で整理した骨格を土台にしつつ、その後に何が変わったのかを中心に構成しました。
+LTの内容と、当日デモに使ったDatabricks Free Editionでのトレーシングのコードも含めて書いていきます。
+「雰囲気で運用」と</description><guid isPermaLink="false">https://qiita.com/taka_yayoi/items/a349cf0801e76f372ca7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 29 Aug 2026 20:38:38 +0000</pubDate></item><item><title>【2026年版】目的別で選ぶ おすすめUIコンポーネントライブラリ12選</title><link>https://qiita.com/yushibats/items/5976a0ac8db82bd1c2bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] フロントエンドのUIコンポーネントライブラリは進化のスピードが速く、選択肢も膨大です。「とりあえず有名どころ」で選ぶと、作りたいものとライブラリの得意分野がズレて後悔することも少なくありません。
+この記事では、2026年8月時点でおすすめできるUIコンポーネントライブラリを、「何を作りたいか」の目的別に5つのカテゴリへ整理して紹介します。
+ひとつだけ、最近のライブラリ選びで新しく効くようになった観点に触れておくと、AIコーディングツールとの相性です。Claude CodeやCursor、v0のようなツールにUIを書かせる開発スタイルが一般化した結果、「AIがそのライブラリをよく知っているか」「</description><guid isPermaLink="false">https://qiita.com/yushibats/items/5976a0ac8db82bd1c2bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 29 Aug 2026 20:38:38 +0000</pubDate></item><item><title>高市早苗首相、物価高対策前のめり　ガソリン補助を突如発表・Xで長文投稿 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUA2711M0X20C26A8000000/</link><description>[score: 0.890] 首相、物価高対策前のめり ガソリン補助を突如発表・Xで長文投稿
+高市早苗首相が物価高対策への前のめり姿勢を強めている。X（旧ツイッター）で政策効果を繰り返し長文で訴え、ガソリン価格を抑える補助の延長も打ち出した。与党内に慎重論が根強いなか、首相判断による政策遂行はリスクもつきまとう。
+「物価高対策をないがしろにして自らの政治的信念の実現を優先しているように見えるとのご意見があるようですが、それは私の認識とは異なる」――。首相は14日、Xで5回にわたり、ガソリ...
+※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。
+この投稿は現在非表示に設定されています
+(更新)
+</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUA2711M0X20C26A8000000/</guid><pubDate>Sat, 29 Aug 2026 21:52:40 +0000</pubDate></item><item><title>AIの口癖を日本語記事で測ろうとして、3回とも失敗した</title><link>https://qiita.com/jqit_suwa/items/4231026d13f7527c0f69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] AI が書いた文章には、特徴的な語彙がある。 そういう分析が Hacker News で 663 ポイントを集めていました。
+面白かったので、自分の Qiita 記事30本で同じことをやろうとしました。
+3回とも失敗しました。 この記事は、その記録です。
+「日本語でも同じ手法が使える」と思って始めた人が、同じ時間を溶かさないように書きます。
+検証環境: Windows 10 / 対象は自分の Qiita 記事30本（144,710字）と、
+同じタグの他者記事292本（151人、2,062,562字）/ 測定は 2026-08-29 時点
+元の分析が何をしたか
+Louis Abraham による</description><guid isPermaLink="false">https://qiita.com/jqit_suwa/items/4231026d13f7527c0f69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 29 Aug 2026 20:38:38 +0000</pubDate></item><item><title>不規則な生活でも勉強が続けられる。社会人のための「もう一つの計画」のつくり方</title><link>https://studyhacker.net/coping-planning-study</link><description>[score: 0.893] 「規則正しい生活さえ送れれば、もっと勉強がはかどるのに」 そう感じた経験はありませんか。 残業や急な予定変更で、決めていた学習時間があっという間に消えてしまう。そのたびに「自分はだらしない」と感じて、勉強そのものから足が遠のいてしまう。 習慣化アプリやTodoリストで計画を立て直しても、予定が崩れた途端にやる気を失って三日坊主。そんな悪循環の繰り返しで、自分にうんざりしてしまうこともあるかもしれません。 しかし、スケジュール通りに毎日を過ごせないのは、働く人にとってごく自然なこと。大切なのは「規則正しい生活」を目指すのではなく、スケジュールはズレこむものという前提で、あらかじめ備えておくことで</description><guid isPermaLink="false">https://studyhacker.net/coping-planning-study</guid><pubDate>Sat, 29 Aug 2026 22:17:33 +0000</pubDate></item><item><title>「FANZAスタジオ」爆誕へ　成人向けAIマンガに違和感を覚えるマンガ家も期待する部分とは？</title><link>https://www.itmedia.co.jp/news/article/2608/30/2000000911/</link><description>[score: 0.895] サダタローのゆるっとマンガ劇場
+「FANZAスタジオ」爆誕へ 成人向けAIマンガに違和感を覚えるマンガ家も期待する部分とは？（1/7 ページ）
+8月24日から、成人向けECサイトである「FANZA」で独自の新サービス「FANZAスタジオ」の先行体験がスタートしました。生成AIを使って成人向け作品を作り、公開することができ、そうした作品を求めるファンとのコミュニケーションの場にもなるといいます。
+FANZAスタジオで作品を作る際には、複数の生成AIモデルを、いちいちアカウント登録や決済等の手続をせずに利用することができます。そしてそのAIモデルの1つに、韓国Onoma AIの「Illustrio</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2608/30/2000000911/</guid><pubDate>Sat, 29 Aug 2026 22:58:38 +0000</pubDate></item><item><title>AIに淘汰されそう</title><link>https://qiita.com/J-T_ky2g/items/5d3d125bcd1450585092?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.906] この記事の目的
+- 現状と目標のアウトプットをすることで、現状と目標の解像度を上げる
+- 書き留めておくことで振り返りできるようにする
+現状
+- SESで5年ほど経験しReact, Ruby on Rails, AWSをツールとして動かすことはできるが中身はあまり理解していない
+- 肩書きだけのリーダー経験が合計で1年ほど
+- よくいる、経歴だけは立派で実力とのギャップで苦しむエンジニア
+- 自社開発企業にフロントエンドエンジニアとして転職しレベルの差に愕然としている
+- さらにAIの台頭で、AIが得意なことしかできないので何も価値が出せていない
+- ソフトスキル、ハードスキル両面で場当たり的</description><guid isPermaLink="false">https://qiita.com/J-T_ky2g/items/5d3d125bcd1450585092?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 29 Aug 2026 20:38:38 +0000</pubDate></item><item><title>メタ､マイクロソフト､グーグル､オープンAI…テック企業経営者は｢子どものスマホ･SNS利用｣をどう考えているか | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/955800?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.909] ソーシャルメディア（SNS）は子どもにとって有害だ――。
+米カリフォルニア州、ケンタッキー州、ニューメキシコ州で最近相次いだテクノロジー企業をめぐる裁判では、そうした厳しい見方が示された。シリコンバレーの企業がかつてないほど大きな影響力と野心を持つ今、その代表的な製品の1つであるソーシャルメディアは、1990年ごろのたばこのように人々を誘惑する一方で数々の訴訟の対象にもなっている。
+8月18日にはカリフォルニア州オークランドで、ソーシャルメディアをめぐる新たな裁判の冒頭陳述が始まった。同州などは、フェイスブックとインスタグラムを運営するメタ・プラットフォームズを相手取り、同社が「強力かつ前例の</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/955800?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sat, 29 Aug 2026 21:41:55 +0000</pubDate></item></channel></rss>
