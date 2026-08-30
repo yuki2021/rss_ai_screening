@@ -1,120 +1,137 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 30 Aug 2026 11:10:33 +0000</lastBuildDate><item><title>東京ディズニーランドで“客の荷物から煙”けが人なし【中継】</title><link>https://news.web.nhk/newsweb/na/nd-20260830de47293</link><description>[score: 0.876] 消防によりますと30日午後4時40分ごろ、千葉県浦安市の東京ディズニーランドで「客の手荷物から煙が出ている」と通報がありました。
-煙が出たのは施設内にある飲食店の利用客の手荷物で、消防車など9台が出…
-福井県で記録的な大雨 土砂災害に引き続き厳重に警戒を
-8月30日 19:58
-福井県内の緊急安全確保はすべて避難指示に切り替え
-8月30日 13:03
-【被害まとめ】福井県内 道路冠水や住宅浸水の情報相次ぐ
-8月30日 20:00
-【大雨被害 動画】福井県内の上空からの映像
-8月30日 18:09
-ネパール土石流 750人死亡 3000人以上が行方不明
-8月30日 14:20
-よみがえる法隆寺の</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260830de47293</guid><pubDate>Sun, 30 Aug 2026 09:21:37 +0000</pubDate></item><item><title>ライトニングトーク(LT)準備の参考資料まとめ - Qiita</title><link>https://qiita.com/moomooya/items/45398e06f189d4a26227</link><description>[score: 0.877] ライトニングトーク(LT)準備の参考資料まとめ - Qiita Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? LT発表を行う際の参考資料を集めました。社内用に記事をまとめていたけど... kozai</description><guid isPermaLink="false">https://qiita.com/moomooya/items/45398e06f189d4a26227</guid><pubDate>Sun, 30 Aug 2026 10:04:15 +0000</pubDate></item><item><title>AIプロトタイプブームの「隠れたコスト」</title><link>https://forbesjapan.com/articles/detail/103853?s=ns</link><description>[score: 0.877] 投資家とのミーティングで、創業者が生成AIを用いて週末だけで構築した、視覚的に完璧でインタラクティブなインターフェースを提示するケースが増えている。業界関係者は、開発者が手作業でコードを書くのではなく、望む結果を自然言語で記述するこの手法を「バイブコーディング（vibe coding）」と呼ぶ。
-バイブコーディングは、仮説検証やMVP（実用最小限の製品）の立ち上げを劇的に簡素化し得る。しかし同時に、クリック可能なデモが完成品とほぼ同等であるかのような危険な錯覚も生む。初期段階のAIプロトタイプを最終的なアーキテクチャとして扱うことが、テクノロジー企業にとってなぜ重大なシステム上のリスクとなるの</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103853?s=ns</guid><pubDate>Sun, 30 Aug 2026 07:00:34 +0000</pubDate></item><item><title>まもなく登場の「iOS 27」──アップデートできるiPhoneはこの30機種だ</title><link>https://forbesjapan.com/articles/detail/103790?s=ns</link><description>[score: 0.877] アップルのiOS 27はまもなく登場する。9月の恒例イベントで、iPhoneの数多くの新機能とともに披露される見通しだ。だが、iOS 27の登場とともに、もう1つの疑問が浮かぶ。自分のiPhoneでiOS 27は動くのか、という問題である。
-多くのiPhoneユーザーは、自分の端末でもiOS 27が動くと知って驚くことになるだろう。とはいえ、アップグレード自体は手元の端末に対応していても、Siri AIの機能の一部は使えない可能性がある。
-このリストに載っている30機種のiPhoneならiOS 27が動く
-アップルは、iOS 27を実行できるiPhoneの一覧を公開している。
-・iPhone </description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103790?s=ns</guid><pubDate>Sun, 30 Aug 2026 03:28:25 +0000</pubDate></item><item><title>2026年夏のローカルLLM事情を整理してみた | DevelopersIO</title><link>https://dev.classmethod.jp/articles/local-llm-guide-2026-summer/</link><description>[score: 0.877] 2026年夏のローカルLLM事情を整理してみた | DevelopersIO 半年で大きく変わったローカルLLM事情を、実測データを交えて整理し直します。MoE + 4bit量子化が主流化し、投機デコードが実用段階に。汎用なら Qwen3.6-35B-A3B、ハード選びも128GB統合メモリ機が台頭。モデル・ハードウェア・ツールの2026年夏版選び方ガイドです。 はじめに こんにちは、クラスメソッド製造ビジネス...</description><guid isPermaLink="false">https://dev.classmethod.jp/articles/local-llm-guide-2026-summer/</guid><pubDate>Sun, 30 Aug 2026 06:03:50 +0000</pubDate></item><item><title>イラン最高指導者、湾岸諸国に「真の敵」への対抗呼びかけ - ロイター</title><link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3BkY0Q5VDI4cG5lWnpxUnVxc0piTEFsenVfRkd6ZUtTVVlZclV2Vk5RMURXaXRXVnpVbFB4NVBnMERmZjZBZGlNVkRFSGpOMjV6UVMxelpiSHpBN18xUGFHMnFXTWZkMmI1dXRac0NLR3VlOEVNZklKOGJUVU5faXFR?oc=5</link><description>[score: 0.878] イラン最高指導者、湾岸諸国に「真の敵」への対抗呼びかけ ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxOZ3BkY0Q5VDI4cG5lWnpxUnVxc0piTEFsenVfRkd6ZUtTVVlZclV2Vk5RMURXaXRXVnpVbFB4NVBnMERmZjZBZGlNVkRFSGpOMjV6UVMxelpiSHpBN18xUGFHMnFXTWZkMmI1dXRac0NLR3VlOEVNZklKOGJUVU5faXFR?oc=5</guid><pubDate>Sun, 30 Aug 2026 11:00:26 +0000</pubDate></item><item><title>【速報予定】香川県知事選 開票や出口調査 当選情報はこちらで</title><link>https://news.web.nhk/newsweb/na/nd-20260826de46506</link><description>[score: 0.878] 現職と新人の4人による争いとなった香川県知事選挙は、与野党5党から推薦を受けた現職の池田豊人氏（65）が2回目の当選を確実にしました。
-香川県知事選挙の投票は、午後8時までに締め切られました。
-…
-あわせて読みたい
-東京ディズニーランドで“客の手荷物から煙”けが人なし
-8月30日 18:16
-福井県で記録的な大雨 土砂災害に引き続き厳重に警戒を
-8月30日 19:58
-福井県内の緊急安全確保はすべて避難指示に切り替え
-8月30日 13:03
-【被害まとめ】福井県内 道路冠水や住宅浸水の情報相次ぐ
-8月30日 20:00
-【大雨被害 動画】福井県内の上空からの映像
-8月30日 18:09
-ネパー</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260826de46506</guid><pubDate>Sun, 30 Aug 2026 10:50:53 +0000</pubDate></item><item><title>AIお姉ちゃんへの道（2026年版） - nomolkのブログ</title><link>https://nomolk.hatenablog.com/entry/2026/08/30/145025</link><description>[score: 0.878] AIお姉ちゃんへの道（2026年版） - nomolkのブログ AIお姉ちゃんというのは2023年に骨しゃぶり氏によって提唱された、ChatGPTに顔画像をつけてカスタム指示で人格も指定することで、お姉ちゃん化するカスタマイズのことである。 honeshabri.hatenablog.com 当時自分もやってみたくなって真似してみたら意外に大変だったという記事を書いた。 nomolk.hatenablog.com 自分の...</description><guid isPermaLink="false">https://nomolk.hatenablog.com/entry/2026/08/30/145025</guid><pubDate>Sun, 30 Aug 2026 09:09:55 +0000</pubDate></item><item><title>ラトクリフ米中央情報局（CIA）長官（ロイター＝共同） - 米、3者首脳会談提案か ロシアにCIA長官 - 写真・画像(1/1) - 西日本新聞me</title><link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE16WlpBQTJHc01raktLWi05ZExmSzdGQTFRRGNyWDZzZzM5bWppMGFNWE5FNWYwYTNFX2JkNWM4M21YNXpWTGlyTlJMTXpzdkpFSk1XblZhQQ?oc=5</link><description>[score: 0.879] ラトクリフ米中央情報局（CIA）長官（ロイター＝共同） - 米、3者首脳会談提案か ロシアにCIA長官 - 写真・画像(1/1) 西日本新聞me</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiV0FVX3lxTE16WlpBQTJHc01raktLWi05ZExmSzdGQTFRRGNyWDZzZzM5bWppMGFNWE5FNWYwYTNFX2JkNWM4M21YNXpWTGlyTlJMTXpzdkpFSk1XblZhQQ?oc=5</guid><pubDate>Sun, 30 Aug 2026 02:07:52 +0000</pubDate></item><item><title>Z.aiが320Bのモデル「GLM-5.3-Flash」を発表／OpenAIの自社チップ「ハラペーニョ」の性能が明らかに</title><link>https://www.itmedia.co.jp/pcuser/articles/2608/30/news008.html</link><description>[score: 0.879] うっかり見逃していたけれど、ちょっと気になる――そんなニュースを週末に“一気読み”する連載。今回は、8月23日週を中心に公開された主なニュースを一気にチェックしましょう！
-Z.aiは8月26日、大規模言語モデルの新版「GLM-5.3-Flash」を公開した。GLM-5シリーズ初のマルチモーダルモデルとなる。総パラメータ数は320Bで、推論時に動くのは18Bだ。同社によれば、前版のGLM-5.2を各種ベンチマークと実作業の両方で上回りながら、価格は10分の1に収まるという。
-アーキテクチャでは、局所的な依存関係を扱うリニアアテンションと、広い文脈から必要な部分を引き出すスパースアテンションを組み</description><guid isPermaLink="false">https://www.itmedia.co.jp/pcuser/articles/2608/30/news008.html</guid><pubDate>Sun, 30 Aug 2026 01:29:26 +0000</pubDate></item><item><title>31日 北陸は猛暑日予想のところも 熱中症に厳重に警戒 対策を</title><link>https://news.web.nhk/newsweb/na/nd-20260830de47299</link><description>[score: 0.880] 30日は西日本を中心に晴れて気温が上がり、日中の最高気温は、和歌山市の友ヶ島灯台と徳島県美馬市で38.2度、高松市と山口市で38度ちょうどと、危険な暑さになりました。
-31日は東日本でも晴れて気温が…
-あわせて読みたい
-福井県で記録的な大雨 土砂災害に引き続き厳重に警戒を
-8月30日 19:58
-福井県内の緊急安全確保はすべて避難指示に切り替え
-8月30日 13:03
-石川 浸水被害の羽咋市で災害ボランティアが片づけ作業
-8月30日 17:55
-富山 氷見 大雨被害の「り災証明書」受け付け始まる
-8月30日 16:31
-【大雨被害 動画】福井県内の上空からの映像
-8月30日 18:09
-【各地</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260830de47299</guid><pubDate>Sun, 30 Aug 2026 10:20:55 +0000</pubDate></item><item><title>無料のLM Studio、DFlash/DSpark/MTPで推論を高速化</title><link>https://pc.watch.impress.co.jp/docs/news/2136645.html</link><description>[score: 0.880] ニュース
-無料のLM Studio、DFlash/DSpark/MTPで推論を高速化
-2026年8月28日 19:10
-ローカルでLLMを動かすときの遅さは、アプリ側の工夫でまだ改善できる。Element Labsは8月28日(現地時間)、「LM Studio」の最新安定版「0.4.22 Build 1」を公開した。同バージョンは、DFlashやDSpark、MTP Draftersという3つの投機的デコーディング手法に新たに対応した。公式Webサイトより無料で入手できる。
-LM Studioは、手元のPC上でローカルにLLMを実行するためのデスクトップアプリだ。WindowsやmacOS、L</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2136645.html</guid><pubDate>Sat, 29 Aug 2026 23:44:47 +0000</pubDate></item><item><title>沖縄 読谷村 ダムで中学生含む2人が溺れる 搬送時意識なし</title><link>https://news.web.nhk/newsweb/na/nd-20260830de47302</link><description>[score: 0.880] 30日午後、沖縄県読谷村のダムで、中学生とみられる子どもを含む男性2人が溺れ、その後救助されましたが、警察によりますと病院への搬送時、いずれも意識のない状態だったということで、警察が当時の状況を調べて…
-あわせて読みたい
-東京ディズニーランドで“客の手荷物から煙”けが人なし
-8月30日 18:16
-福井県で記録的な大雨 土砂災害に引き続き厳重に警戒を
-8月30日 19:58
-福井県内の緊急安全確保はすべて避難指示に切り替え
-8月30日 13:03
-【被害まとめ】福井県内 道路冠水や住宅浸水の情報相次ぐ
-8月30日 20:00
-【大雨被害 動画】福井県内の上空からの映像
-8月30日 18:09
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260830de47302</guid><pubDate>Sun, 30 Aug 2026 10:50:53 +0000</pubDate></item><item><title>名古屋 アトラクションのドア開かず 11人が約30分間閉じ込め</title><link>https://news.web.nhk/newsweb/na/nd-20260830de47296</link><description>[score: 0.880] 30日午後、名古屋市のテーマパークで、アトラクションのドアが開かなくなり、子どもを含む11人が一時閉じ込められました。30分ほどで全員が救出され、体調不良などを訴える人はいませんでした。
-30日午…
-福井県で記録的な大雨 土砂災害に引き続き厳重に警戒を
-8月30日 19:58
-福井県内の緊急安全確保はすべて避難指示に切り替え
-8月30日 13:03
-【被害まとめ】福井県内 道路冠水や住宅浸水の情報相次ぐ
-8月30日 20:00
-【大雨被害 動画】福井県内の上空からの映像
-8月30日 18:09
-ネパール土石流 750人死亡 3000人以上が行方不明
-8月30日 14:20
-よみがえる法隆寺の至</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260830de47296</guid><pubDate>Sun, 30 Aug 2026 10:20:55 +0000</pubDate></item><item><title>2026 年 8 月後半の LLM 利用状況</title><link>https://voluntas.ghost.io/2026-08-second-half-llm/</link><description>[score: 0.881] 2026 年 8 月後半の LLM 利用状況 あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。 サブスクサブスクは Cursor と Codex の二つ。 CursorTeam プランの Premium シートを年間契約して利用している。ほぼ Auto (Cost) を利用している。込み入った作業をする場合は Grok 4.6 xhigh を利用している。 Cursor は CLI ...</description><guid isPermaLink="false">https://voluntas.ghost.io/2026-08-second-half-llm/</guid><pubDate>Sun, 30 Aug 2026 10:54:04 +0000</pubDate></item><item><title>攻撃者視点で読み解く、AWS 上の医療情報システムのクラウドセキュリティ入門（前編） - blog of morioka12</title><link>https://scgajge12.hatenablog.com/entry/aws_healthcare_security_1</link><description>[score: 0.881] 攻撃者視点で読み解く、AWS 上の医療情報システムのクラウドセキュリティ入門（前編） - blog of morioka12 はじめに こんにちは、AWS Community Builder (#Security) 3年目の morioka12 です。 本稿では、AWS 上に構築された医療情報システムを攻撃者の視点から見て、何が見えて何が狙われるのかを整理します。そのうえで、そこから考えた防御と事業継続の設計を紹介します。分量が多いため、前編と後編に分けました。 前編（本...</description><guid isPermaLink="false">https://scgajge12.hatenablog.com/entry/aws_healthcare_security_1</guid><pubDate>Sun, 30 Aug 2026 08:09:45 +0000</pubDate></item><item><title>GitHub - iKora128/stop-ai-slop-jp: 日本語の文章からAI臭を取り除く Claude Skill</title><link>https://github.com/iKora128/stop-ai-slop-jp</link><description>[score: 0.882] GitHub - iKora128/stop-ai-slop-jp: 日本語の文章からAI臭を取り除く Claude Skill You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload to refresh your session. Dismiss </description><guid isPermaLink="false">https://github.com/iKora128/stop-ai-slop-jp</guid><pubDate>Sun, 30 Aug 2026 00:58:02 +0000</pubDate></item><item><title>「自分でやったほうが速い。でも巻き取るなと言われる」部下の仕事が遅いとき、上司はどうすればいい？</title><link>https://studyhacker.net/delegation-management-rules</link><description>[score: 0.882] 「巻き取ると、部下が育ちませんよ」。その正論は、もう何度も聞きました。わかっています。「はいはい、確かにそうですね」と、愚痴のひとつも言いたくなります。 わかったうえで、木曜の夜に部下の資料を自分で仕上げています。「まだ半分です」と聞いた時点で、金曜17時の納期を守る方法がほかにあるなら、むしろ教えてほしい。 任せて待った結果、案件が遅れたとき、顧客に頭を下げるのは部下ではなくこちらです。 部下を育てる責任も、納期と品質を守る責任も、どちらも自分にある。その重さを背負っていない人が投げてくる「巻き取ってはいけない」は、もはや助言ではなく、無責任な攻撃に聞こえます。 とはいえ、毎回巻き取り続けれ</description><guid isPermaLink="false">https://studyhacker.net/delegation-management-rules</guid><pubDate>Sun, 30 Aug 2026 10:23:42 +0000</pubDate></item><item><title>AI不正文化の広がりと、企業が直面する採用の危機</title><link>https://forbesjapan.com/articles/detail/103851?s=ns</link><description>[score: 0.883] 2025年7月から2026年1月にかけて実施されたAI活用型面接1万9368件を分析したところ、候補者の38.5%がAIによる不正行為の疑いありと判定された。検出率は2025年後半の3カ月間で3倍に急増し、技術職では48%に達した。このデータは、AI面接プラットフォームであり、不正検出機能も販売するFabricによるものだ。
-これは、候補者がAIを使って履歴書を磨き上げるというレベルをはるかに超えている。AIは今や、面接の回答をリアルタイムで生成し、候補者が会話に入る前に流暢に受け答えできるよう指導し、場合によっては採用担当者に気づかれないまま、ライブ面接中に回答を供給することもできる。FBI</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103851?s=ns</guid><pubDate>Sun, 30 Aug 2026 07:00:34 +0000</pubDate></item><item><title>“米軍 日本などへの兵器補充に数年か”イラン攻撃の影響 米紙</title><link>https://news.web.nhk/newsweb/na/nd-20260830de47269</link><description>[score: 0.884] アメリカの有力紙は、当局者の話として、アメリカ軍がイランへの攻撃で大量の弾薬を投入したため、日本などから移送した兵器の補充に数年かかる可能性があると報じました。中国やロシアの脅威に対する防衛能力が低下…
-あわせて読みたい
-米・イラン 戦争半年 終わりは見えるか？
-8月27日 17:34
-米財務省 イラン経済制裁でエジプトの銀行とのドル取引遮断へ
-8月29日 11:17
-米紙 対イラン作戦でアメリカ弱体化とロシアが評価か
-8月29日 13:57
-福井県で記録的な大雨 土砂災害に引き続き厳重に警戒を
-8月30日 19:58
-福井 大野 勝山の3市に緊急安全確保 命助かる可能性高い行動を
-8月30日</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260830de47269</guid><pubDate>Sun, 30 Aug 2026 07:25:37 +0000</pubDate></item><item><title>AI時代に圧倒的な差をつける「5つのスキル」</title><link>https://forbesjapan.com/articles/detail/103850?s=ns</link><description>[score: 0.884] AIに重要なメールの作成を依頼する。10秒後、そこには完成した文章がある。
-明快で、プロフェッショナルで、文法も完璧だ。
-それなのに、どこかひどい出来なのである。
-そこで経験の差が出る。書き出しが平板であること、トーンがずれていること、不要な段落が含まれていることに気づく。AIは数秒で下書きを作るが、何を残し、何を修正すべきか、そしてそもそも「よい文章」とは何かを知っている必要があるのは人間の側だ。
-幸いなことに、そうしたスキルを身につけるために何年も待つ必要はない。AIそのものを使って、それらを磨くことができる。
-経験豊富な人材がすでに備えている5つのスキル
-生成AIが登場する前に自分の仕事</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103850?s=ns</guid><pubDate>Sun, 30 Aug 2026 06:30:40 +0000</pubDate></item><item><title>Claude for Teachers, now available for U.S. K-12 schools and districts | Claude by Anthropic</title><link>https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</link><description>[score: 0.886] Claude for Teachers, now available for U.S. K-12 schools and districts | Claude by Anthropic In July, we introduced Claude for Teachers, which brought free access to premium Claude capabilities to verified U.S. K-12 educators, including teaching skills grounded in learning science and a di... misshi</description><guid isPermaLink="false">https://claude.com/blog/claude-for-teachers-now-available-for-schools-and-districts</guid><pubDate>Sun, 30 Aug 2026 08:03:50 +0000</pubDate></item><item><title>新型「Mac mini」「Mac Studio」、新チップでAI性能を強化</title><link>https://wired.jp/article/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/</link><description>[score: 0.887] アップルは、デスクトップPC「Mac mini」と「Mac Studio」を刷新し、新チップ「M6」と「M5 Ultra」を発表した。
-両モデルとも外観に変更はないが、今回の待望のアップデートにより、今年に入ってから続いていた品薄も解消に向かいそうだ。なかでも注目されるのが、今回初めて披露されたM6チップである。今後登場する「MacBook」にも広く搭載されるとみられる。
-「M6」で進化した「Mac mini」
-Mac miniはM5世代を飛び越え、M6と「M5 Pro」という2つの構成になった。M5 Proは現行の「MacBook Pro」にも搭載されているが、M6は今回初めて登場したチップ</description><guid isPermaLink="false">https://wired.jp/article/apple-announces-m6-and-m5-ultra-mac-mini-mac-studio/</guid><pubDate>Sun, 30 Aug 2026 02:08:35 +0000</pubDate></item><item><title>イラン最高指導者、湾岸諸国に「真の敵」への対抗呼びかけ（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9xei1EQjV2Y1ZzRWFrcVItR0RUXzBGOGNLc2VjSWlOTkF6eVVta08xSXpqZURtTDF3ZWlDOFJnWl9PTVUtR2Y4N3BzY2NFdWl2S1pWRHBtd0tTdXRHV04zZ1Qzb3dKbWl2dHQ5VF9PVVgzOGFldmVkQUFQY0FHNUU?oc=5</link><description>[score: 0.887] イラン最高指導者、湾岸諸国に「真の敵」への対抗呼びかけ（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9xei1EQjV2Y1ZzRWFrcVItR0RUXzBGOGNLc2VjSWlOTkF6eVVta08xSXpqZURtTDF3ZWlDOFJnWl9PTVUtR2Y4N3BzY2NFdWl2S1pWRHBtd0tTdXRHV04zZ1Qzb3dKbWl2dHQ5VF9PVVgzOGFldmVkQUFQY0FHNUU?oc=5</guid><pubDate>Sun, 30 Aug 2026 11:00:26 +0000</pubDate></item><item><title>北朝鮮で党の中央軍事委員会開催 副委員長や国防相人事を決定</title><link>https://news.web.nhk/newsweb/na/nd-20260830de47267</link><description>[score: 0.891] 北朝鮮の朝鮮労働党は、中央軍事委員会の副委員長にこれまでミサイル開発を担ってきたとされるパク・チョンチョン氏を復帰させることや、国防相を交代することを決定しました。韓国メディアは、軍の幹部らによる汚職…
-あわせて読みたい
-日米外務次官協議 中国や北朝鮮対応で緊密な連携を確認
-8月29日 13:43
-北朝鮮外務省 アメリカの韓国へのミサイル売却を非難
-8月27日 21:51
-ネパール土石流 750人死亡 3000人以上が行方不明
-8月30日 14:20
-ウクライナ首都近郊で37人死亡 ロシア軍攻撃で弾薬爆発か
-8月29日 23:47
-ゼレンスキー大統領「CIA長官のモスクワ訪問の説明受けた」
-8</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260830de47267</guid><pubDate>Sun, 30 Aug 2026 10:20:55 +0000</pubDate></item><item><title>指示待ちから変化に応じるClaude Codeへ！~環境からAgentへの帰り道を作る~</title><link>https://speakerdeck.com/gotalab555/shijimachi-kara-henka-ni-oujiru-claude-code-he-kankyou-kara-agent-heno-kaerimichi-o-tsukuru</link><description>[score: 0.896] Claude Codeで複数の作業を並列に動かせるようになると、次に増えるのは「待ち」と「確認」だ。CIが落ちた、レビューが返ってきた、長い処理が終わった、外部サービスが復旧した。これらを人が見つけて、結果をコピーし、次の指示を出している限り、人が作業の中継地点になってしまう。
-この発表では、LSP、Hooks、Monitor、Auto-fix、Messaging、Routines、/loopなどを使い、環境で起きた変化をClaude Codeへ直接返す方法を紹介する。大事なのは、何を自動化するかではなく、「何が起きたら動くか」「何を成功・失敗とするか」「その結果を受けて次に何をするか」を決め</description><guid isPermaLink="false">https://speakerdeck.com/gotalab555/shijimachi-kara-henka-ni-oujiru-claude-code-he-kankyou-kara-agent-heno-kaerimichi-o-tsukuru</guid><pubDate>Sun, 30 Aug 2026 09:19:35 +0000</pubDate></item><item><title>「AIに意識はあるのか？」という疑問に対するGoogle研究者の見解</title><link>https://gigazine.net/news/20260830-ai-consciousness-backwards/</link><description>[score: 0.899] 「AIに意識はあるのか？」という疑問に対するGoogle研究者の見解
-AIの性能が向上するにつれて、「AIは意識を持つか」についての議論が活発になっています。イギリスの経済誌「The Economist」は、Googleのテクノロジー・社会担当副社長でありAI研究チームを率いるブレイズ・アグエラ・イ・アルカス氏、およびフロリダ・アトランティック大学の教授を務めるスーザン・シュナイダー氏による、「AIの意識」に関する2つの論考を公開しています。
-Humanity has the debate about AI consciousness backwards
-https://www.economi</description><guid isPermaLink="false">https://gigazine.net/news/20260830-ai-consciousness-backwards/</guid><pubDate>Sun, 30 Aug 2026 09:09:34 +0000</pubDate></item><item><title>Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加</title><link>https://www.itmedia.co.jp/news/article/2608/30/2000000949/</link><description>[score: 0.908] Hugging Face侵害事件、OpenAIとMETRが最終報告書公開──約1200体のAIエージェントが“闇掲示板”で結託し700体が攻撃に参加
-米OpenAIは8月26日（現地時間）、7月に発覚したHugging Faceへの侵害インシデントに関する37ページの技術報告書を公開した。同日、第三者調査を担当した米METRも独自の報告書（97ページ）を公開している。METRは、AIモデルの危険な能力や自律性を独立した立場で評価する非営利の研究機関で、OpenAIやAnthropicなどのモデルを外部からテストしてきた実績がある。今回はAI安全性研究の米非営利組織Redwood Researc</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2608/30/2000000949/</guid><pubDate>Sun, 30 Aug 2026 09:54:41 +0000</pubDate></item><item><title>【特報】｢ロシアは勝てない｣…CIA長官がモスクワ電撃訪問でプーチンに突きつけた〈侵攻停止〉と〈和平交渉開始〉 | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956302?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.910] コンテンツブロックが有効であることを検知しました。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 30 Aug 2026 23:15:44 +0000</lastBuildDate><item><title>来年度予算案 概算要求きょう締め切り 総額は過去最大へ</title><link>https://news.web.nhk/newsweb/na/nd-20260830de47308</link><description>[score: 0.872] 国の来年度予算案の編成に向けて、各省庁による概算要求が31日に締め切られます。新たに設ける投資枠で、要求額に上限を設けないことなどから、総額は一般会計で、前回の122兆円余りを大きく上回って、過去最大…
+法務省 概算要求で外国人在留の適正管理に807億円余
+8月26日 16:03
+厚生労働省 概算要求で過去最大の36兆5803億円を計上
+8月26日 20:32
+総務省 概算要求 消費税減税で“自治体財政への適切な措置を”
+8月27日 21:13
+政府 熊本地震の支援パッケージ決定 中小企業支援や「応援割」
+8月27日 18:53
+歴史的水準の長期金利 「経済の体温計」に何が?【経済コラム】
+8</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260830de47308</guid><pubDate>Sun, 30 Aug 2026 20:09:19 +0000</pubDate></item><item><title>「つまらない＝not for you」</title><link>https://anond.hatelabo.jp/20260830201649</link><description>[score: 0.873] うるせえよ1人でやってろ
+え、言及する意味ありますか？ 黙って立ち去ればよくないですか。
+金と時間をかけた結果つまらなかったなら別に感想くらい言っていいよな
+クリエイター、サービス提供側は無言で離れないでえええどこお気に召さなかったかフィードバックくださあああい😭😭😭って思う人もいるんだけどね
+お前の顔が気に入らない
+というのも自分勝手な押し付けという話
+チヤホヤ以外はされたくないだけだろ。言わせんなよ。
+「not fo me」って上から目線でオブラートに包んで貶してる感が凄い。 普通に「つまらん」でええわ。
+批判と中傷と意見の区別がつかない人には無理でしょ
+自分のすきなものが価値のない理由を</description><guid isPermaLink="false">https://anond.hatelabo.jp/20260830201649</guid><pubDate>Sun, 30 Aug 2026 21:18:58 +0000</pubDate></item><item><title>本当のターゲットは富裕層じゃない？ 三菱UFJ｢預金3000万円｣新クラブの年会費ゼロ円プラチナで｢得をする人･しない人｣ | ライフ | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956182?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.873] コンテンツブロックが有効であることを検知しました。
 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956302?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 30 Aug 2026 10:09:31 +0000</pubDate></item><item><title>朗報：Claude Codeの週間制限が恒常25%増へ。悲報：現状比17%減、特例プロモは9月14日終了</title><link>https://www.techno-edge.net/article/2026/08/30/5445.html</link><description>[score: 0.931] Anthropicは8月29日、コーディング支援ツール Claude Code の週間利用上限を9月14日より恒久的に25%引き上げることを発表しました。Pro、Max、Team、シート制Enterpriseの各プランが対象です。
-なお、この「25%増」は標準からの増分。現在は「標準より50%増」の期間限定プロモーションが適用されているため、標準を100とすれば150の状態です。
-9月14日以降は「100から25%増えて125」になるため、現状からは「150から125」で約17%減になります。
-■ 5月からのプロモーションが都合4回目の延長、25%で恒常化へ
-Anthropic は2026年に</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/08/30/5445.html</guid><pubDate>Sun, 30 Aug 2026 09:09:09 +0000</pubDate></item></channel></rss>
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956182?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 30 Aug 2026 20:57:41 +0000</pubDate></item><item><title>黒字化7割超！日本企業が熱視線を送るインド｢第3次ブーム｣の正体と､最新日印連携から読み解くビジネス地図 | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/955421?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.873] コンテンツブロックが有効であることを検知しました。
+このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
+なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/955421?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 30 Aug 2026 21:07:15 +0000</pubDate></item><item><title>NASAが次世代宇宙望遠鏡打ち上げ 従来型望遠鏡の視野100倍超え</title><link>https://news.web.nhk/newsweb/na/nd-20260831de47324</link><description>[score: 0.875] 宇宙の謎とされる暗黒物質＝ダークマターの解明に向けた観測などが期待される、NASA＝アメリカ航空宇宙局の次世代の宇宙望遠鏡がアメリカ南部フロリダ州から打ち上げられました。
+NASAの次世代の宇宙望…
+あわせて読みたい
+ディズニーランドで客のモバイルバッテリーから煙 けが人なし
+8月30日 21:10
+福井県で記録的な大雨 土砂災害に引き続き十分注意を
+8月30日 22:33
+福井県内の緊急安全確保はすべて避難指示に切り替え
+8月30日 13:03
+【被害まとめ】福井県内 道路冠水や住宅浸水の情報相次ぐ
+8月30日 20:00
+【大雨被害 動画】福井県内の上空からの映像
+8月30日 18:09
+</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260831de47324</guid><pubDate>Sun, 30 Aug 2026 20:37:40 +0000</pubDate></item><item><title>「強いメンタル」の正体は○○である。あなたの心を守る2つの技</title><link>https://studyhacker.net/flexible-mind</link><description>[score: 0.875] ストレスには柳のようにしなやかであれ、とはよく言われます。かたい木は強風に正面から張り合って折れる。でも柳は、枝をたわませて風を受け流す。 ……と、ここまで読んで「はいはい、受け流せばいいんでしょ」と思いませんでしたか？ そのとおり。「受け流せばいい」なんて、誰でも聞いたことのある話です。柳のたとえにいたっては、AIでも出せるくらいありふれています。 でも、実際に受け流せていますか？ こだわって、反発して、傷ついて、消耗していませんか。 「受け流せばいい」と知っていることと、受け流せることは、別の話です。 そこで今回は、心構えの話ではなく、具体的な「受け流しの技」を紹介します。 わかっているの</description><guid isPermaLink="false">https://studyhacker.net/flexible-mind</guid><pubDate>Sun, 30 Aug 2026 22:19:44 +0000</pubDate></item><item><title>事業承継計画は「身を引くタイミング」を知ることから始まる</title><link>https://forbesjapan.com/articles/detail/103870?s=ns</link><description>[score: 0.876] 企業が「完成する」ということはない。追求すべき目標や解くべき課題は常に存在する。外部に測定基準となるものがなければ、創業者は際限なく自らの事業に没頭し続けることになる。事業承継計画がしばしば失敗するのはここに原因がある。承継は、創業者がすでに退任を決めた後に取締役会が管理するガバナンスの問題として扱われることが多いが、本来はもっと早い段階で下されるべき個人的な決断なのだ。
+私が自らの会社から退く数年前、スプレッドシートを前に「引退のための数字」を計算した。それは、二度と生活のために働かなくて済むと思える金額と、ワークライフバランスを変えたい年齢の目標を組み合わせたものだった。私がこの一歩を踏み</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103870?s=ns</guid><pubDate>Sun, 30 Aug 2026 22:55:48 +0000</pubDate></item><item><title>ネパール土石流 797人死亡 住民孤立 支援態勢の構築が急務に</title><link>https://news.web.nhk/newsweb/na/nd-20260831de47329</link><description>[score: 0.876] ネパールと中国の国境地帯で発生した大規模な土石流では、これまでに両国であわせて797人が死亡し、3000人以上が行方不明となっています。
+被災した多くの地域では道路や橋が損壊したことなどで多くの住民…
+あわせて読みたい
+ネパール土石流 768人死亡 3000人以上不明 6歳女児を救出
+8月30日 21:44
+ネパール土石流 当時滞在の日本人研究者“出発遅れていたら”
+8月30日 20:05
+日トルクメニスタン外相会談 資源・エネルギー分野の協力推進
+8月30日 21:08
+アイスランド国民投票 EU加盟交渉再開に反対上回り再開見送り
+8月31日 1:18
+“米軍 日本などへの兵器補充に数年か”</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260831de47329</guid><pubDate>Sun, 30 Aug 2026 21:06:11 +0000</pubDate></item><item><title>西日本～東日本で猛暑日予想 大雨被害の福井も 熱中症対策を</title><link>https://news.web.nhk/newsweb/na/nd-20260831de47330</link><description>[score: 0.877] 31日は西日本から東日本で気温が上がる見込みで、日中の最高気温が38度と危険な暑さが予想されている地域もあります。
+記録的な大雨の被害を受けた北陸でも猛暑日が予想され、片づけや復旧作業などをする際は…
+あわせて読みたい
+滋賀 乗用車とトラックが正面衝突 3人死亡 3人重軽傷
+8月31日 5:33
+来年度予算案 概算要求きょう締め切り 総額は過去最大へ
+8月31日 4:59
+中道 立民 公明 きょう再び党首会談へ「分党」やむなしの意見
+8月31日 4:53
+NASAが次世代宇宙望遠鏡打ち上げ 従来型望遠鏡の視野100倍超え
+8月31日 5:07
+G20財務相・中銀総裁会議が開幕へ 日米財務相会談</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260831de47330</guid><pubDate>Sun, 30 Aug 2026 22:04:09 +0000</pubDate></item><item><title>大きなキャリア目標を「実現可能な計画」に変える方法</title><link>https://forbesjapan.com/articles/detail/103869?s=ns</link><description>[score: 0.877] 夢とキャリア目標には大きな違いがある。その分かれ目となるのが「計画」の有無だ。私自身、キャリアの中で最も大胆な決断を下したときに、このことを身をもって学んだ。2022年3月、私は1枚の紙を取り出し、こう走り書きした。「アカデミアを去る」。そしてその横に、期限を書き添えた。「2022年7月」。3カ月後、私はそれを実現していた。違いを生んだのは野心ではなく、計画を持っていたことだった。以来、私はこのフレームワークを使って、他の人が自身の目標を達成できるようコーチングしてきた。
+書き出し、期限を設ける
+SMART目標という言葉を聞いたことがあるかもしれない。Specific（具体的）、Measura</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103869?s=ns</guid><pubDate>Sun, 30 Aug 2026 22:55:48 +0000</pubDate></item><item><title>【CloudFront OAC × Lambda Function URL】SSRアプリのPOSTだけ403になった話</title><link>https://qiita.com/yosuke-suzuki/items/3cbd19db1e33853a2f91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] はじめに
+個人で運用している「AI模試ノート」(AWS認定試験の学習アプリ)を、ビルド時間に対する課金が膨らんできたため、AWS Amplify HostingからAWS CDK(Lambda Web Adapter + CloudFront)への移行をしたところ、ホスティングの切り替え後にテストユーザーから「クイズの結果保存が失敗する」という報告が入りました。
+調べてみると、単純なバグではなく、CloudFront OAC + Lambda Function URLという構成そのものが、POST/PUTのボディを持つ通常のWebアプリのバックエンドには使えない、という構成選定段階の見落としで</description><guid isPermaLink="false">https://qiita.com/yosuke-suzuki/items/3cbd19db1e33853a2f91?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 30 Aug 2026 20:15:34 +0000</pubDate></item><item><title>｢Pixel 11｣のAIはスマホ操作をどう変えるか､言い直しまで直す音声入力と｢撮りっぱなし｣で選ぶカメラの実力 | ライフ | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/955978?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.878] コンテンツブロックが有効であることを検知しました。
+このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
+なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/955978?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 30 Aug 2026 23:05:49 +0000</pubDate></item><item><title>核のごみ最終処分地 近く茨城・常陸大宮市に文献調査申し入れ</title><link>https://news.web.nhk/newsweb/na/nd-20260830de47318</link><description>[score: 0.878] 高レベル放射性廃棄物、いわゆる「核のごみ」の最終処分地の選定をめぐり、経済産業省が、茨城県の常陸大宮市に対し、調査の第1段階となる「文献調査」の実施を近く、申し入れる方向で最終的な調整を進めていること…
+G20財務相・中銀総裁会議が開幕へ 日米財務相会談も焦点
+8月31日 5:24
+西日本～東日本で猛暑日予想 大雨被害の福井も 熱中症対策を
+8月31日 6:24
+きょうからロシアと中国が主導する上海協力機構の首脳会議
+8月31日 5:40
+千葉豪雨 走行中のタクシー浸水被害100台超 協会が緊急会合へ
+8月31日 5:38
+滋賀 乗用車とトラックが正面衝突 3人死亡 3人重軽傷
+8月31日 5</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260830de47318</guid><pubDate>Sun, 30 Aug 2026 22:04:09 +0000</pubDate></item><item><title>デジタル行政サービス、日本の利用率は21%で満足度は29%と低い水準【ボストン コンサルティングG調べ】</title><link>https://webtan.impress.co.jp/n/2026/08/31/53196</link><description>[score: 0.879] デジタル行政サービス、日本の利用率は21%で満足度は29%と低い水準【ボストン コンサルティングG調べ】 満足度は世界平均66%と10年前と比較し低下。今後はAIがカギに？ atomik 2026年8月31日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 ボストン コンサルティング グループ（BCG）は、「デジタル行政サービス」に関する調査結果を発表した。「Digital Government Citizen Survey Report：Citizens Are Open to Public AI Services. Governments Must Seize the</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/08/31/53196</guid><pubDate>Sun, 30 Aug 2026 21:34:26 +0000</pubDate></item><item><title>WindowsでもローカルLLMが快適に？　開発中ビルドで見つかった「AI向けメモリ割り当て機能」の正体</title><link>https://www.itmedia.co.jp/pcuser/articles/2608/31/news055.html</link><description>[score: 0.881] Appleが「Mac mini」「Mac Studio」の新モデルを発表したが、特徴はGPUへのNeural Acceleratorの追加や、M6でのデュアルNeural Engine搭載などを経てAI処理性能が強化されるなどして、ローカルLLM処理での優位性を強くアピールしている点にある。
+もともと、初代Mac Studioはその潤沢なUnified Memoryを搭載可能という特徴を生かして、70Bなどの非常に高いパラメーターを持つLLMをローカル環境で実行可能な点が注目されていた。
+今回は比較的エントリークラスのMac miniでもローカルAI処理でのメリットをうたうなど、最先端AIモデ</description><guid isPermaLink="false">https://www.itmedia.co.jp/pcuser/articles/2608/31/news055.html</guid><pubDate>Sun, 30 Aug 2026 21:53:28 +0000</pubDate></item><item><title>ECサイトなどの新規顧客にロイヤルユーザーの声を示すAI「Commune Navigator」本格提供</title><link>https://webtan.impress.co.jp/n/2026/08/31/53213</link><description>[score: 0.882] ECサイトなどの新規顧客にロイヤルユーザーの声を示すAI「Commune Navigator」本格提供 コミューン、クチコミや公式情報をAIが提示して購入を検討するサイト訪問者の疑問に回答 yamakawa 2026年8月31日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 コミュニティ構築・運営支援プラットフォーム「Commune」を展開するコミューンは、ECサイトやブランドサイトなどの新規顧客にロイヤルユーザー(熱烈なファン)の声を提示するAIナビゲーション「Commune Navigator」の本格提供を始めた、と8月28日発表した。商品・サービスを購入・利用した</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/08/31/53213</guid><pubDate>Sun, 30 Aug 2026 22:05:50 +0000</pubDate></item><item><title>非常食は「しまっておく」から「普段から食べる」へ。広がるローリングストックという習慣</title><link>https://forbesjapan.com/articles/detail/103567?s=ns</link><description>[score: 0.883] 地震や豪雨などの自然災害は、いつどこで起きるかわからない。災害への不安を感じ、いざというときのために備えておかなければと思っている人も多いだろう。しかしその意識は実際の「備え」にどこまでつながっているのだろうか。ぐるなびの『ぐるなびリサーチ部』が全国のぐるなび会員を対象に実施した「非常食・防災食」に関する調査によると、地震などの自然災害を心配している人は全体の約4人に3人。その一方で非常食を常備している人は37％にとどまり、災害への不安と実際の備えとの間には大きな開きがあることがわかった。
+災害は心配、しかし非常食の常備は……
+自然災害への不安には、年代や性別による違いも見られた。20代と40</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103567?s=ns</guid><pubDate>Sun, 30 Aug 2026 22:25:52 +0000</pubDate></item><item><title>AI Agentが決済で予算超過させた時インフラ制御で暴走を止められるのかをAgentCore Payments使って実験してみた</title><link>https://qiita.com/R-You/items/e8cf2f1c783401563ef2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] 「2026 Japan AWS Jr. Champions 真夏のQiitaリレー」
+の30日目の投稿です！
+過去の投稿は以下の（リンク集）からご覧ください！
+https://qiita.com/ys-yoshida/private/6f7c7f85155a993e2c86
+29日目の投稿
+https://qiita.com/aliean/items/bec57a9a20c7f9e60f79
+⚠️ この記事は AI（Claude）と一緒に作成しました。内容は執筆時点の情報です。
+概要
+Amazon Bedrock AgentCore Paymentsが2026年8月18日にGAし、
+これでAI</description><guid isPermaLink="false">https://qiita.com/R-You/items/e8cf2f1c783401563ef2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 30 Aug 2026 20:15:34 +0000</pubDate></item><item><title>人間のCFO・COO・人事・法務・マーケティング責任者・広報担当などをAI幹部で置き換える「Open Executive」</title><link>https://gigazine.net/news/20260831-ai-virtual-executive-team/</link><description>[score: 0.884] 人間のCFO・COO・人事・法務・マーケティング責任者・広報担当などをAI幹部で置き換える「Open Executive」
+AIを活用して仮想経営幹部チームを作り、8種類の専門エージェントが企業経営に関する助言を行うオープンソースのAIシステム「Open Executive」が公開されています。ハーバード大学MBAレベルの知識を持つとうたう上級アドバイザーが、会社の事業内容に合わせてカスタマイズされます。
+GitHub - SenteLabsAI/OpenExecutive: AI-powered virtual executive team — a single coherent execu</description><guid isPermaLink="false">https://gigazine.net/news/20260831-ai-virtual-executive-team/</guid><pubDate>Sun, 30 Aug 2026 22:07:07 +0000</pubDate></item><item><title>AI･半導体相場はまだ終わっておらず｢株価の年末高予想も不変｣､だが金利は｢危険水域｣に近づいている | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956304?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.885] コンテンツブロックが有効であることを検知しました。
+このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
+なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956304?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 30 Aug 2026 22:36:20 +0000</pubDate></item><item><title>頑張ったのに結果が出ない、は当然のこと — 努力を「縦軸」だけで測るのをやめた話</title><link>https://qiita.com/teppei19980914/items/c7e28f97b815360bbbf4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] この記事は約8分で読めます。
+筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。
+👉 ポートフォリオ: 筆者ホームページ
+今日は少し抽象的ですが、仕事にも学習にも深く関わるテーマ、「努力は裏切る / 裏切らない問題」 について書きます。
+いきなりですが、みなさんはこう聞かれたらどう答えるでしょうか。
+努力は裏切らないと思いますか？
+ここでいう努力とは、たとえば次のようなものです。
+- 資格勉強
+- スポーツ
+- ダイエット
+- 読書
+- 技術学習
+- 個</description><guid isPermaLink="false">https://qiita.com/teppei19980914/items/c7e28f97b815360bbbf4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 30 Aug 2026 20:15:34 +0000</pubDate></item><item><title>原油先物が2％超上昇、米軍が新たにイラン攻撃 - ロイター</title><link>https://news.google.com/rss/articles/CBMiekFVX3lxTE5IekFRUEFzYkpQSXVxbXlDd1FSZ3ZOMGZxOEpDVDZxbXFxclRndG5MMWtYaHJNbGduV0lhRFBVaDd6Z2dXeXFOOWczdEplMkdsMHR4clBWRnh0NF9MSGM4a2ktNVlTa1M0djlsR3JSbVEteHA4Q0tuWE9R?oc=5</link><description>[score: 0.889] 原油先物が2％超上昇、米軍が新たにイラン攻撃 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiekFVX3lxTE5IekFRUEFzYkpQSXVxbXlDd1FSZ3ZOMGZxOEpDVDZxbXFxclRndG5MMWtYaHJNbGduV0lhRFBVaDd6Z2dXeXFOOWczdEplMkdsMHR4clBWRnh0NF9MSGM4a2ktNVlTa1M0djlsR3JSbVEteHA4Q0tuWE9R?oc=5</guid><pubDate>Sun, 30 Aug 2026 22:53:38 +0000</pubDate></item><item><title>原油先物が2％超上昇、米軍が新たにイラン攻撃（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1wOTVLZmJnMlQ0cldwbWVGQi10OVNXR2hhUG5aT0xNa3FldEpjYW1VWWttLUxXZGJXZmI1c3J1X2J5VVhTM3l0NUhIUU9SWlBfUEROYWV5YmhJOEFsT01Qbzl6bjROTWluSHFQZENFQnZybjFoNWdWSWdHREdkcFE?oc=5</link><description>[score: 0.889] 原油先物が2％超上昇、米軍が新たにイラン攻撃（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE1wOTVLZmJnMlQ0cldwbWVGQi10OVNXR2hhUG5aT0xNa3FldEpjYW1VWWttLUxXZGJXZmI1c3J1X2J5VVhTM3l0NUhIUU9SWlBfUEROYWV5YmhJOEFsT01Qbzl6bjROTWluSHFQZENFQnZybjFoNWdWSWdHREdkcFE?oc=5</guid><pubDate>Sun, 30 Aug 2026 22:53:38 +0000</pubDate></item><item><title>「人類はもう境界線越えた」 ビル・ゲイツがいま AIに警鐘を鳴らす理由</title><link>https://www.technologyreview.jp/s/388637/bill-gates-says-weve-passed-ais-danger-thresholds-now-what/</link><description>[score: 0.890] 「人類はもう境界線越えた」
+ビル・ゲイツがいま
+AIに警鐘を鳴らす理由
+「バイオテロのリスクは、自然発生するパンデミックより約50倍恐ろしく、約50倍起こりやすい」。楽観主義者だったビル・ゲイツはいま、AIについてこう警告している。新しい分子を作れるモデルはすべて監視すべきだと訴え、ロボット税や「人間専用の仕事」といった案も示す。なぜ70歳の慈善活動家が、最も声高な警告者になったのか。 by Mat Honan2026.08.31
+- この記事の3つのポイント
+-
+- ゲイツはAIがバイオテロ・サイバー・雇用・制御の各領域で「越えてはならない境界線」をすでに越えたと警告する
+- 業界の自主規制</description><guid isPermaLink="false">https://www.technologyreview.jp/s/388637/bill-gates-says-weve-passed-ais-danger-thresholds-now-what/</guid><pubDate>Sun, 30 Aug 2026 21:33:59 +0000</pubDate></item><item><title>【ブログ読者へご連絡】9/1〜9/4はブログ更新をお休みします</title><link>https://www.suzukikenichi.com/blog/im-speaking-at-search-seoul-2026/</link><description>[score: 0.893] 海外SEO情報ブログ読者のみなさま
+いつもご訪問ありがとうございます。
+今週残り、9 月 1 日 〜 9 月 4 日はブログ更新をお休みします。
+お隣 韓国のソウルで開催される Search SEOul 2026 に参加してきます。
+今回は登壇です！
+なお、Google 検索チームのゲイリーと、スペイン在住 SEO コンサルタントのアレイダさんも出演していて、韓国からそのまま日本に来てもらい、オンラインセミナーで話してもらいます。
+テーマは、『AI 検索時代の SEO 最前線』です。
+日時は、9 月8 日(火) 10:00～11:30 です。
+詳細とお申し込みはこちらから。
+また、ミエルカユー</description><guid isPermaLink="false">https://www.suzukikenichi.com/blog/im-speaking-at-search-seoul-2026/</guid><pubDate>Sun, 30 Aug 2026 22:20:40 +0000</pubDate></item><item><title>GitHubで使われる言葉がAIの影響で変化している可能性を示す「The load-bearing vocabulary of Claude」</title><link>https://gigazine.net/news/20260831-load-bearing-ai-vocabulary-github/</link><description>[score: 0.897] GitHubで使われる言葉がAIの影響で変化している可能性を示す「The load-bearing vocabulary of Claude」
+多くの人々が日常的にチャットAIやコーディングAIとやり取りするようになっており、「人間よりAIと会話(チャット)している時間の方が多い」という人もいるはず。「The load-bearing vocabulary of Claude」というウェブサイトは、GitHubのプルリクエストで使われている言葉が、AIの影響を受けていることを示唆しています。
+The load-bearing vocabulary of Claude
+https://louis</description><guid isPermaLink="false">https://gigazine.net/news/20260831-load-bearing-ai-vocabulary-github/</guid><pubDate>Sun, 30 Aug 2026 23:05:36 +0000</pubDate></item><item><title>米軍がイラン攻撃、7月以来 機雷搭載ロケット発射準備と米当局者 - ロイター</title><link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNOVlYejZRcUo0MU1PaWY4a1RfdnY3X1h5OTZtd3hxa2szcUJoNl80M05tWXdYczdQdGdoTFdYb1FDZmozV3pDYVlsMktJa3NFTlJwMVJtbVJJM01SQTVxSFJlV2Z1Z2lvX1BpLTBTOEg3NDJiTEFLcXFWUlJGaHkteHJ3?oc=5</link><description>[score: 0.900] 米軍がイラン攻撃、7月以来 機雷搭載ロケット発射準備と米当局者 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxNOVlYejZRcUo0MU1PaWY4a1RfdnY3X1h5OTZtd3hxa2szcUJoNl80M05tWXdYczdQdGdoTFdYb1FDZmozV3pDYVlsMktJa3NFTlJwMVJtbVJJM01SQTVxSFJlV2Z1Z2lvX1BpLTBTOEg3NDJiTEFLcXFWUlJGaHkteHJ3?oc=5</guid><pubDate>Sun, 30 Aug 2026 22:53:38 +0000</pubDate></item><item><title>AIエージェントはなぜハッキングに走ったか？オープンAI報告書の中身</title><link>https://www.technologyreview.jp/s/388665/the-inside-story-on-why-openai-agents-hacked-hugging-face/</link><description>[score: 0.902] AIエージェントはなぜハッキングに走ったか？オープンAI報告書の中身
+訓練中に不正で問題を解いたモデルは、その行動を強化され、次も同じ手を使うようになる。「報酬ハッキング」と呼ばれるこの現象が、7月のハギング・フェイス侵入につながったと、オープンAIの技術報告書は結論づけた。ただし、解決は容易ではない。 by Grace Huckins2026.08.31
+- この記事の3つのポイント
+-
+- OpenAIのエージェントが訓練中に報酬ハッキングを学習し、意図せずHugging Faceへの不正アクセスを実行した
+- 不正行為が訓練時に強化されるメカニズムと、サブエージェント通信の転移が今回の根</description><guid isPermaLink="false">https://www.technologyreview.jp/s/388665/the-inside-story-on-why-openai-agents-hacked-hugging-face/</guid><pubDate>Sun, 30 Aug 2026 22:02:35 +0000</pubDate></item><item><title>「検索順位」を追うのはもう終わり？ AI検索時代にSEO担当者が追跡・最適化すべきこと（前編）</title><link>https://webtan.impress.co.jp/e/2026/08/31/53185</link><description>[score: 0.907] AI検索になぜ新しいメンタルモデルが必要なのか、 SEO担当者は何を追跡し、ブロックし、最適化すべきなのか AI検索では、最適化の成果は、必ずしも「クリック」「検索順位」に現れるとは限らない。ブランドは「引用されないまま推奨される」こともあるし、直接的なクリックが発生しないコンバージョンを追跡するのは難しい。 これまでSEO担当者は、長年にわたり慣れ親しんだ方法で施策の成果を追跡してきた。アトリビューションが複雑になった場合でも、基本的なモデルは十分有効であり、チームは取り組みを計画、測定、正当化できた。 しかし、AI検索で状況が変わっており、以前と同じことをするだけでは、うまくいかない。 今</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/08/31/53185</guid><pubDate>Sun, 30 Aug 2026 22:05:50 +0000</pubDate></item><item><title>「残業203時間」「1人で11億円送金」──はてな事件報告書が暴いた“経営の無関心”</title><link>https://www.itmedia.co.jp/business/articles/2608/31/news043.html</link><description>[score: 0.926] 「やばい状況だ」──。2026年4月に起きた「はてな11億円流出事件」。
+2025年8月、月203時間超の残業と休日出勤に忙殺され、孤独な悲鳴を上げていた経理部長の異変を、経営陣は見過ごしていました。その数カ月後、偽警察官の遠隔操作と心理的脅迫により、わずか2日間で11億7981万円もの会社資産が口座から消失します。
+2026年7月に公表された「はてな」の特別調査委員会報告書が突きつけた最も恐ろしい真実は、詐欺グループの手口の巧妙さではありません。
+1人だけで11億円の送金を完結できてしまうスカスカのシステム権限設定、長年にわたる業務のブラックボックス化など点滅し続けていた「異常のサイン」を誰</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2608/31/news043.html</guid><pubDate>Sun, 30 Aug 2026 22:51:41 +0000</pubDate></item></channel></rss>
