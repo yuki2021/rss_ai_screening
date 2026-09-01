@@ -21,7 +21,9 @@ Required environment variables:
 
 ## Architecture
 
-This is a single-pipeline CLI tool that runs on a schedule (JST 06:00 and 18:00 via GitHub Actions), filters RSS articles by personal interest, and publishes the result as `public/custom.xml` to GitHub Pages.
+This is a single-pipeline CLI tool that runs on a schedule (JST 06:00 and 15:00 via GitHub Actions), filters RSS articles by personal interest, and publishes the result as `public/custom.xml` to GitHub Pages.
+
+**The weekday morning run has a second trigger outside this repository.** `podcast_auto_player`'s Cloudflare Worker dispatches `update.yml` at JST 06:05 on weekdays, because GitHub's own scheduler stopped keeping time in late August 2026 — this workflow ran 3, 6, and once 11 hours late — and `morning_podcast` downstream reads `custom.xml` at JST 06:35 to build the day's briefing. The JST 06:00 cron is kept for weekends, which the Worker does not cover. `update.yml` has a `concurrency` group so the two triggers cannot race on the `Commit RSS` push.
 
 **Pipeline stages in `src/main.py`:**
 
