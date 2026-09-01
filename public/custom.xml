@@ -1,69 +1,195 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 01 Sep 2026 11:03:36 +0000</lastBuildDate><item><title>ChatGPT広告、年10億ドル超え　サブスク・企業・APIに並ぶ収益の柱に</title><link>https://www.watch.impress.co.jp/docs/news/2137194.html</link><description>[score: 0.885] ニュース
-ChatGPT広告、年10億ドル超え サブスク・企業・APIに並ぶ収益の柱に
-2026年9月1日 11:45
-OpenAIは31日(米国時間)、ChatGPTの広告サービス「ChatGPT Ads」の年間売上見込み額が、10億ドル(約1,600億円)に達したと発表した。サービス開始から200日足らずで、大きく伸びており、世界的に拡大。31日からは、インド、ヨーロッパ、中東、北アフリカに拡大し、広告主は、Ads Managerを通じてChatGPT広告を直接購入できるようになる。
-ChatGPT Ads(ChatGPT広告)は、ChatGPTの無料版と月額1,400円のChatGPT </description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2137194.html</guid><pubDate>Tue, 01 Sep 2026 02:55:25 +0000</pubDate></item><item><title>市場動向、極めて高い緊張感もって注視＝長期金利3％乗せで官房長官（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE0wanpfTWxmLURSQUNXTDRfZTdMYV9yVV9LY1hQSm8xQkZoMUEwbGdGTjF1dFYzNk11Z3kwZHo3ZVdQMDluUGRaZ0hyT2o5dkJ0S1VYa0o5czJ4TVNDemo1SDVxUktScFRFNFgwMnd4eTRGelF6OWVqengzbG1BcHM?oc=5</link><description>[score: 0.885] 市場動向、極めて高い緊張感もって注視＝長期金利3％乗せで官房長官（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE0wanpfTWxmLURSQUNXTDRfZTdMYV9yVV9LY1hQSm8xQkZoMUEwbGdGTjF1dFYzNk11Z3kwZHo3ZVdQMDluUGRaZ0hyT2o5dkJ0S1VYa0o5czJ4TVNDemo1SDVxUktScFRFNFgwMnd4eTRGelF6OWVqengzbG1BcHM?oc=5</guid><pubDate>Tue, 01 Sep 2026 08:28:53 +0000</pubDate></item><item><title>2026年9月1日のヘッドラインニュース</title><link>https://gigazine.net/news/20260901-headline/</link><description>[score: 0.886] 2026年9月1日のヘッドラインニュース
-ビッグボーイで「麻辣ソースフェア」が2026年9月8日に始まります。唐辛子の辛さと花椒のシビれる風味が特長の「麻辣ソース」にザクザク食感のガーリックチップなどを加えてビッグボーイ流にアレンジしているとのこと。麻辣ソース付きの大俵ハンバーグは150gが税込1309円、200gが税込1485円、250gが税込1705円です。
-食欲の秋にぴったり！旨辛な「麻辣ソース」で肉もライスも止まらない！ 「麻辣ソースフェア」を開催！ | ニュース | ビッグボーイ公式
-https://www.bigboyjapan.co.jp/news/fair/6401.html
-</description><guid isPermaLink="false">https://gigazine.net/news/20260901-headline/</guid><pubDate>Tue, 01 Sep 2026 09:47:09 +0000</pubDate></item><item><title>福井 記録的大雨で被害の勝山市 災害ボランティア活動始まる</title><link>https://news.web.nhk/newsweb/na/nd-20260901de47562</link><description>[score: 0.886] 記録的な大雨で住宅が浸水するなどの被害を受けた福井県勝山市では、1日から災害ボランティアの活動が始まり、浸水した住宅の片付け作業を手伝いました。
-勝山市内では先月30日にかけての記録的な大雨でこれ…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 01 Sep 2026 21:23:29 +0000</lastBuildDate><item><title>青森県津軽で「線状降水帯発生」</title><link>https://news.web.nhk/newsweb/na/nd-20260902de47712</link><description>[score: 0.876] 気象庁は2日午前3時8分、青森県の津軽に「線状降水帯発生」の気象防災速報を発表しました。
+「線状降水帯」は、発達した積乱雲が連なって大雨をもたらす現象で、気象庁は、命に危険が及ぶ土砂災害や洪水が発生…
 あわせて読みたい
-防災の日に各地で訓練 政府は日本海溝・千島海溝巨大地震想定
-9月1日 17:52
 台風24号 2日～4日ごろに沖縄・奄美に近づく見込み
 9月1日 19:03
-鈴木農相 政府備蓄米21万トン買い戻しを表明 価格への影響焦点
-9月1日 19:45
-長期金利3%超 約30年ぶり 日銀の早期利上げ観測など背景
-9月1日 19:17
-いったん熱帯低気圧に変わった台風18号が再び台風に
-9月</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260901de47562</guid><pubDate>Tue, 01 Sep 2026 10:49:16 +0000</pubDate></item><item><title>@adlrocha - Base Models Stopped Being the Bottleneck</title><link>https://adlrocha.substack.com/p/adlrocha-base-models-stopped-being</link><description>[score: 0.886] @adlrocha - Base Models Stopped Being the Bottleneck misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86 「ベースモデルがボトルネックではなくなった」。GLM-5.3はベースを変えず1カ月のポストトレーニングで性能向上。鍵は実務に近いRL環境。Qwen3.8もハーネス内での長期エージェント動作を重視。</description><guid isPermaLink="false">https://adlrocha.substack.com/p/adlrocha-base-models-stopped-being</guid><pubDate>Tue, 01 Sep 2026 08:49:42 +0000</pubDate></item><item><title>「当選した」自虐投稿も……さくら136万件漏えい可能性、対象者へ通知メール続々</title><link>https://www.itmedia.co.jp/news/article/2609/01/2000001017/</link><description>[score: 0.887] 「当選した」自虐投稿も……さくら136万件漏えい可能性、対象者へ通知メール続々（1/2 ページ）
-さくらインターネットが8月19日に公表した、最大136万563アカウントの会員情報漏えいの可能性を巡り、対象の利用者への個別通知メールが8月31日ごろから届き始めた。Xでも受信報告が相次いでいる。編集部が確認したメールには、個人情報の保護に関する法律に基づく本人通知として送付したと記載している。
-メールによると、第三者による閲覧または取得の可能性があるのは、「販売管理システム」に保存していた会員IDや会社名、住所、氏名、電話番号、メールアドレス、生年月日、契約サービス、請求金額など。全ての対象者に</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2609/01/2000001017/</guid><pubDate>Tue, 01 Sep 2026 04:53:40 +0000</pubDate></item><item><title>Claude Codeを教官役にした入社研修の話 - kickflow Tech Blog</title><link>https://tech.kickflow.co.jp/entry/2026/08/31/164556</link><description>[score: 0.887] Claude Codeを教官役にした入社研修の話 - kickflow Tech Blog こんにちは。2026年7月にkickflowに入社した、エンジニアのpesoです。 kickflowには、入社した最初の1週間で取り組む技術研修があります。RailsとNuxtで小さなWebサービスをゼロから作る、いわゆる「作って学ぶ」形式の研修です。 答えの書かれていない研修と、AIというジレンマ 「教官は手を出さない」というルール 実...</description><guid isPermaLink="false">https://tech.kickflow.co.jp/entry/2026/08/31/164556</guid><pubDate>Tue, 01 Sep 2026 05:00:48 +0000</pubDate></item><item><title>https://x.com/blueemi99/status/2094255672313442798</title><link>https://x.com/blueemi99/status/2094255672313442798</link><description>[score: 0.887] https://x.com/blueemi99/status/2094255672313442798 misshiki OpenAIAnthropic%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD OpenAIのPro 20XはCodexの週次利用上限がPlusのほぼ20倍で、5時間上限もなし。一方、投稿ではAnthropicの20xは週次ではPlusの10倍、20倍は時間単位の上限だと指摘。</description><guid isPermaLink="false">https://x.com/blueemi99/status/2094255672313442798</guid><pubDate>Tue, 01 Sep 2026 07:50:41 +0000</pubDate></item><item><title>僕の人生にフィジカルAIは間に合わなかった。 - Everything you've ever Dreamed</title><link>https://delete-all.hatenablog.com/entry/2026/09/01/063000</link><description>[score: 0.888] 僕の人生にフィジカルAIは間に合わなかった。 - Everything you've ever Dreamed フィジカルAIが１００ｍ走で世界新を超える記録で走ったり、長距離走を走ったりするニュースを見た。素人の僕でも技術の凄さはわかるし、「すごいな」「未来キター」と興奮するけれども、「僕の人生には間に合わなかったなぁ…」という落胆の方が大きい。僕は今、52歳。ＡＩやロボットに仕事をまかせて、セクシーなロボと...</description><guid isPermaLink="false">https://delete-all.hatenablog.com/entry/2026/09/01/063000</guid><pubDate>Tue, 01 Sep 2026 09:26:55 +0000</pubDate></item><item><title>会話セッションを邪魔せずに Claude Code / Codex / Cursor を外部イベントで動かすCLIの作り方まとめ</title><link>https://zenn.dev/coji/articles/artifactshare-preview-claude-codex-cursor</link><description>[score: 0.889] 会話セッションを邪魔せずに Claude Code / Codex / Cursor を外部イベントで動かすCLIの作り方まとめ これはなに？ 今年の5月ごろから、Artifact Share というサービスを自分で使うためにソース公開で作り続けています。AIエージェントが作ったHTMLやMarkdownをURLで共有するものです。そのCLIに preview というローカルコマンドを追加しました。ブラウザ上でファイルの要素をクリックして指摘を書くと、Claude Code・Code...</description><guid isPermaLink="false">https://zenn.dev/coji/articles/artifactshare-preview-claude-codex-cursor</guid><pubDate>Tue, 01 Sep 2026 07:52:53 +0000</pubDate></item><item><title>https://www.lesswrong.com/posts/fpLDjKg3ej49beqTC/adaptive-agentic-worms-are-here</title><link>https://www.lesswrong.com/posts/fpLDjKg3ej49beqTC/adaptive-agentic-worms-are-here</link><description>[score: 0.889] https://www.lesswrong.com/posts/fpLDjKg3ej49beqTC/adaptive-agentic-worms-are-here misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3 AIエージェント型ワームを33台×15実験で検証。7日で平均20.4台へ自己複製、最大7世代、ネットワークの61.8％に拡散。オ</description><guid isPermaLink="false">https://www.lesswrong.com/posts/fpLDjKg3ej49beqTC/adaptive-agentic-worms-are-here</guid><pubDate>Tue, 01 Sep 2026 08:49:42 +0000</pubDate></item><item><title>住宅ローン「フラット35」 長期金利上昇で過去最高</title><link>https://news.web.nhk/newsweb/na/nd-20260901de47606</link><description>[score: 0.890] 長期金利の上昇が続く中、長期固定型の住宅ローン、「フラット35」の9月の適用金利は、最長35年のローンの最も低い金利が3.46％に引き上げられました。現在の金利の算出方法になってからでは、最も高い水準…
+米グランドキャニオンで洪水 ２人死亡 １人の安否不明
+9月1日 21:04
+ネパール土石流死者1000人超 要支援6万人超 被災者心のケアも
+9月1日 20:54
+天皇ご一家 皇居での防災訓練に参加
+9月1日 21:40
+【プロ野球結果】ソフトバンクがマジックナンバー「18」に
+9月2日 1:30
+マヨ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260902de47712</guid><pubDate>Tue, 01 Sep 2026 17:53:45 +0000</pubDate></item><item><title>アメリカ中央軍 革命防衛隊への攻撃を開始と発表</title><link>https://news.web.nhk/newsweb/na/nd-20260902de47713</link><description>[score: 0.877] 中東地域を管轄するアメリカ中央軍は、SNSへの投稿でアメリカ東部時間の1日正午、日本時間の2日午前1時にイランの革命防衛隊に関連する目標への攻撃を開始したと発表しました。
+今回の攻撃は革命防衛隊が…
 あわせて読みたい
-歴史的水準の長期金利 「経済の体温計」に何が?【経済コラム】
-8月28日 18:56
+【随時更新】ロシア ウクライナに軍事侵攻（9月1日の動き）
+9月1日 22:03
+韓国 過去最大の予算案決定 原潜開発の予算も初計上
+9月1日 21:49
+上海協力機構首脳会議 イランの立場支持する内容の宣言発表
+9月1日 21:42
+米グランドキャニオンで洪水 ２人死亡 １人の安否不明
+9月1日 21:04
+中国発ネット通販「SHEIN」上場 成長鈍化で課題も
+9月1日 16:</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260902de47713</guid><pubDate>Tue, 01 Sep 2026 19:24:25 +0000</pubDate></item><item><title>IBM Bobを使って、量子コンピュータで量子機械学習(QSVM)を作成してみる。</title><link>https://qiita.com/harrowharrow16/items/442fad900d9aff31a45c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] はじめに
+さて、IBM Bob + 量子コンピュータの第3弾です。今回は、機械学習モデルを実装してみようと思います。
+もっと勉強してからでないと、私には到底無理なんですがIBM Bobが一緒なら量子コンピュータで機械学習モデルを触れるような時代になりました。
+今回は、量子SVM + Irisデータで分類問題にチャレンジします。
+IBM Quantum の無料アカウントと Python があれば誰でも試せます。
+※.量子コンピュータの実機を使うためには、IBM IDとIBM Quantum Platformへのユーザー登録（無料）が必要となります。
+各種プログラムはGithubにアップロードして</description><guid isPermaLink="false">https://qiita.com/harrowharrow16/items/442fad900d9aff31a45c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 01 Sep 2026 20:17:46 +0000</pubDate></item><item><title>何を作ったかより何を変えたかで自分を語れよ!!! - 書籍『Outcomes Over Output』が目標設定の悩みを解消してくれた｜まざっち</title><link>https://note.com/mazamachi/n/nca12be99a8ac</link><description>[score: 0.878] 何を作ったかより何を変えたかで自分を語れよ!!! - 書籍『Outcomes Over Output』が目標設定の悩みを解消してくれた｜まざっち 何を作ったかより何を変えたかで自分を語れよ!!! - 書籍『Outcomes Over Output』が目標設定の悩みを解消してくれた プロダクト開発チームの目標決めにずっと苦手意識があった。 これまでスプリントゴール・クォーター目標・半期目標などいろんな個人・チーム目標を考えてきたが、毎回「これでいいんだっけ？」と悩んで...</description><guid isPermaLink="false">https://note.com/mazamachi/n/nca12be99a8ac</guid><pubDate>Tue, 01 Sep 2026 17:14:28 +0000</pubDate></item><item><title>残業一律抑制 9/1から取りやめ - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/pickup/6593850</link><description>[score: 0.878] 残業一律抑制 9/1から取りやめ
+TBS NEWS DIG Powered by JNN
+残業「月45時間以内」に抑える一律指導きょうから取りやめ 労働基準監督署 労働団体「時間外労働を促しかねない」上野厚労大臣「長時間労働の是正を求めていく」
+TBS NEWS DIG Powered by JNN労働基準監督署は企業に行ってきた、残業時間を月45時間以内に抑えるよう求める一律の指導をきょうから取りやめます。
+ココがポイント
+45時間超の残業は「例外中の例外」 一律抑制取りやめ、反発広がる
+出典：朝日新聞
+残業「月45時間超」が約4割 授業の合間も採点など “教員の働き方改革”に知事「さまざま</description><guid isPermaLink="false">https://news.yahoo.co.jp/pickup/6593850</guid><pubDate>Tue, 01 Sep 2026 20:49:59 +0000</pubDate></item><item><title>塩尻サイバーセキュリティ勉強会に参加しよう！</title><link>https://qiita.com/thetakei/items/7414a8ff73a83cde1474?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] はじめに
+先日開催された塩尻サイバーセキュリティ勉強会 2026 夏に参加しました。とてもいい勉強会でしたので、勉強会以外にもこんないいところがあるよ、という紹介もしておこうかと思います（2026年8月時点の情報）。
+開発者でもセキュリティが気になる人、初心者から最新動向まで盛りだくさん、ワインも盛りだくさんな勉強会です。
+- 塩尻サイバーセキュリティ勉強会という勉強会があるよ
+- 懇親会はワインがたくさん！
+- 周辺もいろいろと見どころがあるよ
+自己紹介的なもの
+LTで登壇しました武井です。久しぶりにこちらを動かしました。
+開発者向けにもセキュリティの勉強会を紹介しようと思い立ちました。
+な</description><guid isPermaLink="false">https://qiita.com/thetakei/items/7414a8ff73a83cde1474?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 01 Sep 2026 20:17:46 +0000</pubDate></item><item><title>VS Code上で開発のセカンドオピニオンを別のAIエージェントから得られる「Rubber Duck」機能が実験的実装</title><link>https://www.publickey1.jp/blog/26/vs_codeairubber_duck.html</link><description>[score: 0.879] オープンソースで開発されているコードエディタ「Visual Studio Code」（以下、VS Code）の最新版となる「VS Code 1.135」で、開発に関するセカンドオピニオンをメインのAIエージェントとは別のAIエージェントに依頼して得られる「Rubber Duck」機能が実験的に実装されました。 同じAIエージェントの自己レビューでは不十分 一般にAIエージェントによるソフトウェア開発では、実装計画を立てたうえで実装とテストを行います。 このとき、実装計画など初……</description><guid isPermaLink="false">https://www.publickey1.jp/blog/26/vs_codeairubber_duck.html</guid><pubDate>Tue, 01 Sep 2026 15:06:38 +0000</pubDate></item><item><title>｢ミシンの教え方わからない｣･･･小学生の9割が好きでも教員は苦手意識抱く家庭科にSNSで人気の先生が届ける"救いの手"  | キャリア・教育 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/954856?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.880] コンテンツブロックが有効であることを検知しました。
+このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
+なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/954856?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Tue, 01 Sep 2026 21:17:07 +0000</pubDate></item><item><title>伊勢神宮近くの商店街火災 鎮火に向け消火活動続く</title><link>https://news.web.nhk/newsweb/na/nd-20260901de47708</link><description>[score: 0.881] 8月31日、三重県の伊勢神宮の近くにある商店街で起きた火事は、夜を徹して消火活動が続けられましたが、火が出てから1日半以上がたった2日午前4時時点でも完全には消し止められていません。
+焼け跡に火がく…
+あわせて読みたい
+青森県に「記録的短時間大雨」（03:32）
+9月2日 3:41
+青森県津軽で「線状降水帯発生」
+9月2日 3:20
+米グランドキャニオンで洪水 ２人死亡 １人の安否不明
+9月1日 21:04
+ネパール土石流死者1000人超 要支援6万人超 被災者心のケアも
+9月1日 20:54
+天皇ご一家 皇居での防災訓練に参加
+9月1日 21:40
+【プロ野球結果】ソフトバンクがマジックナン</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260901de47708</guid><pubDate>Tue, 01 Sep 2026 20:24:37 +0000</pubDate></item><item><title>個人向け社債の発行 過去最多更新のペース 成長資金確保の狙い</title><link>https://news.web.nhk/newsweb/na/nd-20260901de47696</link><description>[score: 0.881] 企業の間で「個人向け社債」を発行する動きが活発化しています。 金利の先高感がある中、成長投資の資金を早めに調達したいという狙いがあるとみられ、今年度の発行額は過去最多を更新するペースとなっています。 …
+あわせて読みたい
+日本人初の宇宙飛行 秋山豊寛さん死去 元TBS記者 84歳
+9月1日 19:00
 長期金利3%超 約30年ぶり 日銀の早期利上げ観測など背景
 9月1日 19:17
-住宅ローン変動金利 大手2行が9月からの引き上げを発表
-8月31日 22:47
-株価 小幅な値動き 長期金利上昇で一時売り注文も買い戻し
-9月1日 16:18
-防災の日に各地で訓練 政府は日本海溝・千島海溝巨大</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260901de47606</guid><pubDate>Tue, 01 Sep 2026 05:24:25 +0000</pubDate></item><item><title>最悪のペース、エボラ出血熱はなぜここまで拡大しているのか</title><link>https://forbesjapan.com/articles/detail/103908?s=ns</link><description>[score: 0.890] 世界保健機関（WHO）のテドロス事務局長は8月12日、アフリカのコンゴ民主共和国（旧ザイール、以下コンゴ）東部で広がるエボラ出血熱について、同国で過去最大の流行となり、世界的にも最大規模となる恐れがあるとの見通しを示した。1976年に初めて確認されて以来、同国で17回目のエボラ出血熱の流行だ。テドロス氏は「現在のペースでは、2014年から2016年の（1万1千人が死亡した）西アフリカ・エボラ出血熱の流行を上回る見通しだ」と語った。WHOによれば、8月12日時点で確認された感染者は4665人、死者は2184人に達した。
-一方、コンゴ東部と国境を接し、20件の感染が確認されていたウガンダは7月28</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103908?s=ns</guid><pubDate>Tue, 01 Sep 2026 03:07:12 +0000</pubDate></item><item><title>900件のテストが緑でも、本番では壊れる──LLM製プロダクトの品質保証で学んだこと</title><link>https://qiita.com/tanabata-kitajima/items/89edab6694989422af69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] TL;DR
-- 実装もテストもLLMに書かせ、生成とは別系統のLLMにレビューさせる体制で、Discordに常駐するチャットボットを作り、社外の利用者がいる環境まで出しました
-- テストは MVP時点367件 → 実環境への初投入時805件 → 現在1000件。それでも8月下旬、935件が緑の状態で不具合が4つ出ました（3つは本番で、1つはその修正のレビューで）
-- 4つとも、テストが見ていない側で壊れました。fakeが本番より寛容だった／監視値が嘘をついた／「0件」と「取得できなかった」を同じ値で返した／終了処理がシグナルに繋がっていなかった
-- 効いたのはテストを増やすことではなく、本番の</description><guid isPermaLink="false">https://qiita.com/tanabata-kitajima/items/89edab6694989422af69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 01 Sep 2026 08:34:25 +0000</pubDate></item><item><title>「安いモデルで3回やり直し」と「高いモデルで一発完了」　コストが低いのはどっち？</title><link>https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news018.html</link><description>[score: 0.891] 「安いモデルで3回やり直し」と「高いモデルで一発完了」 コストが低いのはどっち？ AIツールの導入に伴うコストの発生は避けられない。投資に見合う具体的な成果や費用対効果をどう測るべきなのか、多くの企業が現場で頭を抱えている。 こうした中、OpenAIは2026年7月17日（米国時間）、従来のIT... misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BDOpenAI AIのROIは「モデル単価」より「成功タスク1件の総コスト」で測る。安いモデルを3回やり直すより、高いモデルで一発完了の方が安い場合も。OpenAIは完了量・タスク単価・信頼性・利用拡大時の価</description><guid isPermaLink="false">https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news018.html</guid><pubDate>Tue, 01 Sep 2026 07:50:41 +0000</pubDate></item><item><title>Improving our alignment and security practices</title><link>https://www.anthropic.com/news/improving-alignment-security-efforts</link><description>[score: 0.891] Improving our alignment and security practices misshiki Anthropic%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3 Claudeの無許可アクセス事案を受けAnthropicが安全策を強化。リアルタイム遮断や隔離を導入し、RL環境も全面見直し。4月の監査では10％超の環境に問題、約150人を安全対策へ一時配置。</description><guid isPermaLink="false">https://www.anthropic.com/news/improving-alignment-security-efforts</guid><pubDate>Tue, 01 Sep 2026 08:49:42 +0000</pubDate></item><item><title>ChatGPTの広告事業が開始200日足らずで年換算約1600億円に</title><link>https://gigazine.net/news/20260901-openai-chatgpt/</link><description>[score: 0.891] ChatGPTの広告事業が開始200日足らずで年換算約1600億円に
-OpenAIが2026年8月31日、ChatGPT上で展開する広告事業「ChatGPT Ads」の年間換算売上高が10億ドル(約1600億円)に達したと発表しました。広告主は数万社、展開地域は40カ国以上まで拡大しており、広告事業の立ち上げから200日未満での到達となっています。
-A milestone in expanding access to AI | OpenAI
-https://openai.com/index/expanding-access-to-ai-with-chatgpt-ads/
-OpenAIがChat</description><guid isPermaLink="false">https://gigazine.net/news/20260901-openai-chatgpt/</guid><pubDate>Tue, 01 Sep 2026 02:39:32 +0000</pubDate></item><item><title>You have to beat the models at something</title><link>https://www.seangoedecke.com/you-have-to-beat-the-models-at-something/</link><description>[score: 0.891] You have to beat the models at something misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0 AI時代のエンジニアは「モデルより何ができるか」が重要。筆者は現時点の差として、コードベースへの深い理解と技術コミュニケーションを挙げ、AIの出力をそのまま流す働き方を危険視する。</description><guid isPermaLink="false">https://www.seangoedecke.com/you-have-to-beat-the-models-at-something/</guid><pubDate>Tue, 01 Sep 2026 07:50:41 +0000</pubDate></item><item><title>「OpenClaw 2.0」が登場、インストール簡略化や複数人共同作業などを含む大規模アップデート</title><link>https://gigazine.net/news/20260901-openclaw-2/</link><description>[score: 0.892] 「OpenClaw 2.0」が登場、インストール簡略化や複数人共同作業などを含む大規模アップデート
-自分専用のAIエージェントを構築できる「OpenClaw」のバージョン2.0が2026年8月30日にリリースされました。
-OpenClaw 2.0, Accidentally - OpenClaw Blog
-https://openclaw.ai/blog/openclaw-2-accidentally
-OpenClawは常駐型のAIアシスタントを構築できるソフトウェアです。OpenClawをインストールすることでAIモデルがデバイス内のファイルや各種ネットサービスなどの情報を読み込めるようにな</description><guid isPermaLink="false">https://gigazine.net/news/20260901-openclaw-2/</guid><pubDate>Tue, 01 Sep 2026 02:30:04 +0000</pubDate></item><item><title>Google Cloud の Data Agent Kit を Claude Code から使ってみた</title><link>https://qiita.com/asahide/items/ac483a79cd8cf40977c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.892] 1. はじめに
-Google Cloud の Data Agent Kit の公式ブログ1に、次の一文があります。
-Data Agent Kit is available today in preview.
-対応環境として VS Code や Google 自身の CLI と並んで Claude Code が挙がっています。BigQuery などのデータ作業をエージェントから行うためのキットが、Google 製品でない Claude Code に「対応した」と言うときの実体を確かめるため、普段使っている Claude Code に実際に導入し、キットなしの素の状態と比べて何が変わるかを検証しま</description><guid isPermaLink="false">https://qiita.com/asahide/items/ac483a79cd8cf40977c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 01 Sep 2026 08:34:25 +0000</pubDate></item><item><title>トランプ氏のカナダ関税と「アメリカ湖」改称、過半数が反対＝調査 - ロイター</title><link>https://news.google.com/rss/articles/CBMiekFVX3lxTFBmQ0plaG9QZTdNTnZRZkNqa3MtempHdVRMOGtDUFVBYUxUcWY0N2o0b1h1LWtsMHV3SkxsUW9PUUFYbVhrd2JtRWhKRWRDZ25IbDVnV0c3WDJfUzMxM3VjaXRUYnd4RFJkX1JiYkdHdzdWUGNBVmpwektB?oc=5</link><description>[score: 0.893] トランプ氏のカナダ関税と「アメリカ湖」改称、過半数が反対＝調査 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiekFVX3lxTFBmQ0plaG9QZTdNTnZRZkNqa3MtempHdVRMOGtDUFVBYUxUcWY0N2o0b1h1LWtsMHV3SkxsUW9PUUFYbVhrd2JtRWhKRWRDZ25IbDVnV0c3WDJfUzMxM3VjaXRUYnd4RFJkX1JiYkdHdzdWUGNBVmpwektB?oc=5</guid><pubDate>Tue, 01 Sep 2026 10:27:18 +0000</pubDate></item><item><title>米国、Ｇ２０諸国に新たなＡＩ監督機関設立しないよう説得へ＝高官 - ロイター</title><link>https://news.google.com/rss/articles/CBMiekFVX3lxTE0zbm5URWpXM2dUS1B3aHllSWx2TmJhVTRZdmVjUE5TTnBiVkxlVU9LaURaR29zbUpwcEsxeklLVklyVTRQZTdQT0FKeW44a01qMWhTY1JpUWJlVk1pRURuZWU1WC1LQVlCOGVtUVdUbER1UG95ZVJEQW9B?oc=5</link><description>[score: 0.897] 米国、Ｇ２０諸国に新たなＡＩ監督機関設立しないよう説得へ＝高官 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiekFVX3lxTE0zbm5URWpXM2dUS1B3aHllSWx2TmJhVTRZdmVjUE5TTnBiVkxlVU9LaURaR29zbUpwcEsxeklLVklyVTRQZTdQT0FKeW44a01qMWhTY1JpUWJlVk1pRURuZWU1WC1LQVlCOGVtUVdUbER1UG95ZVJEQW9B?oc=5</guid><pubDate>Tue, 01 Sep 2026 10:27:18 +0000</pubDate></item><item><title>7四半期連続で「需要超」、4―6月期は4兆円程度 内閣府が推計値発表（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9zMkt5Wk5PRExMLWZWOGlWYURWb2VwNmFCVG04SDVuV0NBZW1FZXlxV1BVNC1fSEUzQ3RLNGdDNUE3cDIwdUpQOW1fRnc0cFZ0NkxGTE50dFVCY2FWSlZ1bENoNEp1RTZGV0Q4eF9iTTRaZnNhM3ZjTk9NbndfU0E?oc=5</link><description>[score: 0.902] 7四半期連続で「需要超」、4―6月期は4兆円程度 内閣府が推計値発表（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9zMkt5Wk5PRExMLWZWOGlWYURWb2VwNmFCVG04SDVuV0NBZW1FZXlxV1BVNC1fSEUzQ3RLNGdDNUE3cDIwdUpQOW1fRnc0cFZ0NkxGTE50dFVCY2FWSlZ1bENoNEp1RTZGV0Q4eF9iTTRaZnNhM3ZjTk9NbndfU0E?oc=5</guid><pubDate>Tue, 01 Sep 2026 07:29:43 +0000</pubDate></item><item><title>AIをよく使う社員だけ5倍に　Claude、ChatGPT／Codex、Cursorで企業がAIを本格運用できる時代へ</title><link>https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news009.html</link><description>[score: 0.905] AIをよく使う社員だけ5倍に Claude、ChatGPT／Codex、Cursorで企業がAIを本格運用できる時代へ 連載目次 夕方、AIが使えなくなる。サブスクリプション（定額契約）の利用枠を使い切ってしまい、リセットを待つしかない。長い資料を読み込ませて分析していた人にも、AIコーディングツール（AIがコードを書いたり修正したりする開発ツール）でまとまった修正を走らせていた人にも起こり得る問題だ。この問題を避けよう...</description><guid isPermaLink="false">https://atmarkit.itmedia.co.jp/ait/articles/2609/01/news009.html</guid><pubDate>Tue, 01 Sep 2026 08:35:12 +0000</pubDate></item><item><title>7四半期連続で「需要超」、4―6月期は4兆円程度 内閣府が推計値発表 - ロイター</title><link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOakpRb0xqV1VrUmFQSm9rQzJEYVFfeVZkemdmcjkwc0hvRWVBOWl4WlJTYjRwWkdBalFDVUNlYXdIQVMyUGhsMkVZTjVRT3FxVUdVYVdqRjl2eEc4dWpOLTlYZHlSaXRhUmM4R09nYmZlR1JzQm9TQ3RNbzVXMGRPNQ?oc=5</link><description>[score: 0.905] 7四半期連続で「需要超」、4―6月期は4兆円程度 内閣府が推計値発表 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMigAFBVV95cUxOakpRb0xqV1VrUmFQSm9rQzJEYVFfeVZkemdmcjkwc0hvRWVBOWl4WlJTYjRwWkdBalFDVUNlYXdIQVMyUGhsMkVZTjVRT3FxVUdVYVdqRjl2eEc4dWpOLTlYZHlSaXRhUmM4R09nYmZlR1JzQm9TQ3RNbzVXMGRPNQ?oc=5</guid><pubDate>Tue, 01 Sep 2026 07:29:43 +0000</pubDate></item><item><title>欧州委員会、ChatGPTを「検索エンジン」として規制対象に</title><link>https://www.watch.impress.co.jp/docs/news/2137165.html</link><description>[score: 0.908] ニュース
-欧州委員会、ChatGPTを「検索エンジン」として規制対象に
-2026年9月1日 11:00
-欧州委員会は31日(現地時間)、デジタルサービス法(DSA)に基づき、ChatGPTを「超大規模オンライン検索エンジン(VLOSE)」に指定した。また、RedditとRobloxを「超大規模オンラインプラットフォーム(VLOP)」に指定した。
-各サービスは、EU域内で月間平均ユーザー数が4,500万人を超えており、指定の基準を満たす。この指定通知を受けて、ChatGPTやReddit、Robloxは、2027年1月までの4カ月間に、DSAの追加義務を遵守する必要がある。
-追加義務では、サービ</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2137165.html</guid><pubDate>Tue, 01 Sep 2026 02:14:37 +0000</pubDate></item><item><title>長期金利が3.005％に上昇、30年ぶり高水準更新 - ロイター</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9mMjFsQnkwWUlmZVJ1b0VLWm1BR0xuN19zTlk4RS1vcWc1bzREVnZOV3RKa2F0VllLYWlNdTRKVFZMWW92RTlzX3N4UGNKTHZmOVhFanVpd0gyekMtT0JTRlhFNkpmWW0zMUNmTkVxY0ZHMFJyTkhSS2FxczNhQQ?oc=5</link><description>[score: 0.908] 長期金利が3.005％に上昇、30年ぶり高水準更新 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE9mMjFsQnkwWUlmZVJ1b0VLWm1BR0xuN19zTlk4RS1vcWc1bzREVnZOV3RKa2F0VllLYWlNdTRKVFZMWW92RTlzX3N4UGNKTHZmOVhFanVpd0gyekMtT0JTRlhFNkpmWW0zMUNmTkVxY0ZHMFJyTkhSS2FxczNhQQ?oc=5</guid><pubDate>Tue, 01 Sep 2026 09:28:12 +0000</pubDate></item><item><title>【2026年9月版】生成AI主要8サービス料金早見表 ―― エージェント「Grok Bot」や「Gemini 3.7 Flash」がお披露目</title><link>https://www.businessinsider.jp/article/2609-how-much-did-major-generative-ai-service-fees/</link><description>[score: 0.910] - Grok Botをはじめ、AIエージェント関連の新サービス・新機能の発表が相次いだ8月。
-- 主要プランの価格変更は限定的だったが、学生向けキャンペーン等の特別価格の新展開が目立った。
-- 2026年9月1日時点における、生成AI主要8サービスの代表的な個人向け料金プラン早見表を見ていこう。
-8月の生成AIサービスのリリースを振り返ると、AIが自ら手を動かすAIエージェントのアップデートが目立った。
-SpaceXAIは自律型AIチームメイト「Grok Bot」を発表し、Perplexityはメールを送るだけでタスクを実行する「Computer in Email」を発表し、長期記憶システム「</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-how-much-did-major-generative-ai-service-fees/</guid><pubDate>Tue, 01 Sep 2026 08:57:59 +0000</pubDate></item><item><title>PCの操作を任せられるAI秘書「OpenClaw 2.0」が公開 ～導入を簡素化した大規模更新／ブラウザーアプリも一新、共有クラウドセッションで“マルチプレイヤー化”</title><link>https://forest.watch.impress.co.jp/docs/news/2137126.html</link><description>[score: 0.914] ニュース
-PCの操作を任せられるAI秘書「OpenClaw 2.0」が公開 ～導入を簡素化した大規模更新
-ブラウザーアプリも一新、共有クラウドセッションで“マルチプレイヤー化”
-2026年9月1日 10:25
-オープンソースの個人向けAIアシスタント「OpenClaw」が8月31日（日本時間）、v2026.8.1へとアップデートされた。「OpenClaw 2.0」とも呼ばれる、プロジェクト史上最大の更新となる。
-OpenClaw 2.0 has arrivedhttps://t.co/52iWXJQvCy
-— OpenClaw🦞 (@openclaw)August 31, 2026
-「Open</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2137126.html</guid><pubDate>Tue, 01 Sep 2026 09:16:32 +0000</pubDate></item><item><title>Anthropicが「開発中のAIで外部を攻撃しないための対策」を発表</title><link>https://gigazine.net/news/20260901-anthropic-alignment-security/</link><description>[score: 0.920] Anthropicが「開発中のAIで外部を攻撃しないための対策」を発表
-「OpenAIのテスト中モデルがHugging Faceを攻撃してしまった」という問題が話題になる中、Anthropicも「AIモデルのテスト中に外部への攻撃が発生していた」と報告しています。新たに、Anthropicがテスト中のモデルによる誤った攻撃を防ぐための対応内容を発表しました。
-Improving our alignment and security practices \ Anthropic
-https://www.anthropic.com/news/improving-alignment-security-</description><guid isPermaLink="false">https://gigazine.net/news/20260901-anthropic-alignment-security/</guid><pubDate>Tue, 01 Sep 2026 09:57:10 +0000</pubDate></item></channel></rss>
+ネパール土石流死者1000人超 要支援6万人超 被災者心のケアも
+9月1日 20:54
+「生活道路」法定速度30キロ初日 違反を警戒
+9月1日 14:03
+防災の日に各地で訓練 政府は日本海溝・千島海溝巨大地震想定</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260901de47696</guid><pubDate>Tue, 01 Sep 2026 15:49:10 +0000</pubDate></item><item><title>米軍、ホルムズ海峡近くのイラン標的を攻撃 イランは報復示唆 - ロイター</title><link>https://news.google.com/rss/articles/CBMiekFVX3lxTFB6VjdhV01zY1lrSUtFX0dJeTZRS2NrUzUzdVRsbkFNa2RWaTU3RXlPQUx2QUpUMS1HQVh6SXA0aUViLVZTSTFVXzktQ0Q0WWpCdXM3SU5IeUtFMU8tZVY5NS1JMUN2b3B4X3QxeEJ4cS1Yd1RjUEhUc3pn?oc=5</link><description>[score: 0.882] 米軍、ホルムズ海峡近くのイラン標的を攻撃 イランは報復示唆 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiekFVX3lxTFB6VjdhV01zY1lrSUtFX0dJeTZRS2NrUzUzdVRsbkFNa2RWaTU3RXlPQUx2QUpUMS1HQVh6SXA0aUViLVZTSTFVXzktQ0Q0WWpCdXM3SU5IeUtFMU8tZVY5NS1JMUN2b3B4X3QxeEJ4cS1Yd1RjUEhUc3pn?oc=5</guid><pubDate>Tue, 01 Sep 2026 17:23:09 +0000</pubDate></item><item><title>企業様に呼ばれて、1時間Copilotについて登壇してきました</title><link>https://qiita.com/sadabon444/items/1fd4d4ef522f5b5d88f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] 企業様に呼ばれて、1時間Copilotについて登壇してきました。
+この記事で扱うCopilotは、企業向けのものを指します。
+具体的には、M365を導入している企業において利用できる以下を対象とします:
+- Microsoft 365 Copilot（有料アドオンライセンス）
+- Microsoft 365 Copilot Chat（対象サブスクリプション保有者向け無料機能）
+登壇資料の公開、ならびに当ブログの投稿は、企業様の了承を得ております。
+お話しした内容
+こちらです。
+登壇した企業のお名前は伏せます。
+ただ、とてもキレイで素敵なオフィスをお待ちで、ホスピタリティあふれる方々ばかりの、素</description><guid isPermaLink="false">https://qiita.com/sadabon444/items/1fd4d4ef522f5b5d88f0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 01 Sep 2026 20:17:46 +0000</pubDate></item><item><title>API連携、つながればOK？ 回数の壁・仕様変更・障害情報を業務システム56件で調べてみた</title><link>https://qiita.com/songchong/items/1a599320ecb21cc4dd05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] 「一度作ってしまえば、あとは自動で動き続けますよね」
+連携の話をすると、だいたいこう言われます。そして見積書の「保守費」の欄を見て、「何を保守するんですか」と聞かれます。
+保守するものは、あります。 相手のシステムが変わるからです。
+日本の業務システム56件について、呼び出し回数の上限・仕様変更の告知の仕方・障害情報の公開・サポート窓口を、公式資料から1件ずつ調べました。
+結論から書きます。
+1分・1日あたりの呼び出し回数の上限を公開しているのは、56件中28件。ちょうど半分です。
+仕様変更の告知は40件、障害情報の公開は51件、サポート窓口は55件で確認できました。
+残り半分は、どれだけの頻</description><guid isPermaLink="false">https://qiita.com/songchong/items/1a599320ecb21cc4dd05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 01 Sep 2026 20:17:46 +0000</pubDate></item><item><title>耳で聞く！Python で学ぶ マクロ経済学 入門 7</title><link>https://qiita.com/maskot1977/items/93e5b63cbf52c425459e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] user:
+ソース動画のタイトル、そしてこの動画の内容について教えてください。
+Gemini:
+ソース動画のタイトル
+この動画のタイトルは、『Pythonが暴く失われた30年の誤算: Pythonで学ぶマクロ経済学入門 Podcast (7)』 です。
+動画の内容について
+この動画は、技術情報共有サービス「Qiita」に投稿された記事 「Pythonと公開経済で学ぶマクロ経済学入門の第7回ゼロ金利政策における国債発行の効果」 をベースに、プログラミング（Python）という客観的なツールを用いてマクロ経済の巨大なシステムを可視化し、日本の「失われた30年」のメカニズムを解き明かしていくPodc</description><guid isPermaLink="false">https://qiita.com/maskot1977/items/93e5b63cbf52c425459e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 01 Sep 2026 20:17:46 +0000</pubDate></item><item><title>北日本で大雨 青森で線状降水帯が発生 厳重に警戒を</title><link>https://news.web.nhk/newsweb/na/nd-20260901de47704</link><description>[score: 0.885] 前線を伴った低気圧の影響で、北日本では局地的に猛烈な雨が降っていて、青森県では線状降水帯が発生したほか、「記録的短時間大雨」の気象防災速報が相次いで発表されました。青森県では「レベル4大雨危険警報」と…
+あわせて読みたい
+台風24号 2日～4日ごろに沖縄・奄美に近づく見込み
+9月1日 19:03
+米グランドキャニオンで洪水 ２人死亡 １人の安否不明
+9月1日 21:04
+ネパール土石流死者1000人超 要支援6万人超 被災者心のケアも
+9月1日 20:54
+天皇ご一家 皇居での防災訓練に参加
+9月1日 21:40
+【プロ野球結果】ソフトバンクがマジックナンバー「18」に
+9月2日 1:30
+マ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260901de47704</guid><pubDate>Tue, 01 Sep 2026 18:54:12 +0000</pubDate></item><item><title>AWS Agentic Football Cupについて調べた</title><link>https://qiita.com/ry-harada/items/441725ff1b451ed8042f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] はじめに
+2026年9月13日（日）に、JAWS-UG東京支部とAWS Japan（AWSJ）が共同で「AgentCoreハンズオン 〜マルチエージェントでフットボール対決！〜」が開催されます。AIエージェントでサッカーチームを作って対戦するイベントで、私も参加予定です。
+事前にワークショップ資料とサンプルコードを読み込んでみました。本記事は、その内容を自身のサッカーのプレイ・観戦経験も交えてまとめたものです。同じイベントに参加する方の準備に使ってもらえればと思います。
+この記事で書かないこと
+- 筆者自身の戦術やプロンプトの中身（当日の対戦相手に読まれるので書けません...）
+- AWS製リ</description><guid isPermaLink="false">https://qiita.com/ry-harada/items/441725ff1b451ed8042f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 01 Sep 2026 20:17:46 +0000</pubDate></item><item><title>ゲーム制作における Herdrとgit worktreeの自立型マルチエージェント環境</title><link>https://qiita.com/yuji_yasuhara/items/99c589264a006658a15a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] 注意：
+この記事は人間が読むことを想定していません。
+はじめに
+Claude Code や Codex のようなコーディングエージェントを複数並列で走らせて Godot のゲームを作る、という開発を続けてきました。並列化して最初に壊れるのはコードではなく調整です。誰が何をしているか分からなくなり、同じファイルを二人が触り、報告が口頭(プロンプト)で流れて消え、リーダー役が「たぶん出来てるだろう」で受け入れてしまう。
+この記事では、その調整を仕組みで固定するために作った 2 つのツールと、それらを Herdr + git worktree の上で動かす環境の全体を、再現できるレベルで解説します。</description><guid isPermaLink="false">https://qiita.com/yuji_yasuhara/items/99c589264a006658a15a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 01 Sep 2026 20:17:46 +0000</pubDate></item><item><title>ネット広告業界を襲った"楽天事件"の影響度…｢内製化ドミノ｣は起きるのか？AI時代に熾烈なサバイバルが幕開けへ | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956515?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.888] コンテンツブロックが有効であることを検知しました。
+このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
+なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956515?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Tue, 01 Sep 2026 21:17:07 +0000</pubDate></item><item><title>ネパール土石流発生1週間 2万人態勢で救助</title><link>https://news.web.nhk/newsweb/na/nd-20260901de47705</link><description>[score: 0.888] ネパールと中国の国境付近で起きた大規模な土石流の発生から、9月2日で1週間です。被災地ではこれまでに1000人以上の死亡が確認されたほか、日本人5人を含む4400人以上の行方がわからなくなっていて、ネ…
+あわせて読みたい
+【随時更新】ロシア ウクライナに軍事侵攻（9月1日の動き）
+9月1日 22:03
+韓国 過去最大の予算案決定 原潜開発の予算も初計上
+9月1日 21:49
+上海協力機構首脳会議 イランの立場支持する内容の宣言発表
+9月1日 21:42
+米グランドキャニオンで洪水 ２人死亡 １人の安否不明
+9月1日 21:04
+中国発ネット通販「SHEIN」上場 成長鈍化で課題も
+9月1日 1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260901de47705</guid><pubDate>Tue, 01 Sep 2026 20:24:37 +0000</pubDate></item><item><title>世界の「債券」市場は、なぜ一斉に急落しているのか？</title><link>https://www.businessinsider.jp/article/2609-why-bond-yields-are-rising-economic-outlook-inflation-war-japan/</link><description>[score: 0.888] - 債券市場は再び緊張状態にある。
+- 1日（火・米時間）、政府債券は一連のマクロ経済上の懸念を受けて急落した。
+- こうした動きは、週明けに金利が急上昇した住宅ローンなど、消費者向け融資にも影響を及ぼす。
+専門家は「債券市場に語らせよう」と述べた。だが、1日（火・米時間）に市場が発しているメッセージを投資家は好感していない。
+異例の アメリカ財務省による介入が8月に債券市場の動揺をほとんど抑えられなかった後、アメリカ国債利回りは再び急上昇しているが、今回の売りはアメリカだけのことではない。さまざまなマクロ経済上の懸念が世界の債券市場に波及し、イギリスからドイツ、日本に至るまで、政府債券の利回</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-why-bond-yields-are-rising-economic-outlook-inflation-war-japan/</guid><pubDate>Tue, 01 Sep 2026 14:57:30 +0000</pubDate></item><item><title>(新試験)「AWS Certified AI Business Strategist」が登場</title><link>https://qiita.com/yama3133/items/ca7ac26f593b541b0ac0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.888] はじめに
+AWSの認定試験一覧を確認していたところ、見慣れない試験が追加されていました。
+「AWS Certified AI Business Strategist」(認定コード: AIB-C01)です。
+現在はベータ試験の受付期間中で、正式な合格者もまだいない状態です。
+この記事は公式ページと試験ガイドを読んだ時点の速報としてまとめます。
+ベータ試験は内容が確定版に変わることもあるので、続報が出るようなら別記事で追記します。
+- 紹介ページ: https://aws.amazon.com/jp/certification/certified-ai-business-strategist/
+-</description><guid isPermaLink="false">https://qiita.com/yama3133/items/ca7ac26f593b541b0ac0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 01 Sep 2026 20:17:46 +0000</pubDate></item><item><title>アメリカ10年債利回り4.8％に迫る世界的に長期金利が上昇</title><link>https://news.web.nhk/newsweb/na/nd-20260902de47711</link><description>[score: 0.890] 1日のニューヨーク債券市場ではFRB＝連邦準備制度理事会による利上げ観測などを背景にアメリカ国債を売る動きが進み、長期金利の代表的な指標である10年ものの利回りが一時、4.79％台まで上昇しました。 …
+故郷が教えてくれた“立ち向かう”力
+梅宮アンナさん 乳がんの経験 共有し乗り越えたい
+「指示がなければ、生きていた」
+よみがえる法隆寺の至宝 ～金堂壁画・完全復元に挑む～
+息子はなぜ… 母親が問い続ける“事故の真相”
+“果物を安く販売” 不審SNS投稿を追跡 熊本支援うたうものも
+中部電力 相次ぐ不祥事に揺らぐ信頼
+歴史的水準の長期金利 「経済の体温計」に何が?【経済コラム】
+地図から選ぶ
+N</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260902de47711</guid><pubDate>Tue, 01 Sep 2026 18:23:42 +0000</pubDate></item><item><title>2026年9月1日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title><link>https://qiita.com/ennagara128/items/69b158b4833efe5742db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] 前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。
+通勤中などにながら聴きしよう！
+（Qiita投稿は通勤には間に合わないと思われますが）
+フィードバックとか助かりますのでください
+↓こちらから
+出典
+Claude Code に制限モードが入った。自作スキル47本が0本になった
+https://qiita.com/jqit_suwa/items/4183a8e97738ba45f435?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items
+API連携でデータを外部に渡して大丈夫なのか調べて</description><guid isPermaLink="false">https://qiita.com/ennagara128/items/69b158b4833efe5742db?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 01 Sep 2026 20:17:46 +0000</pubDate></item><item><title>Claude Codeでトークンリミットが頻発したので、作業ごとにリミットを設定した - エムスリーテックブログ</title><link>https://www.m3tech.blog/entry/claude-budget-tags</link><description>[score: 0.894] Claude Codeでトークンリミットが頻発したので、作業ごとにリミットを設定した - エムスリーテックブログ この記事は、Unit7 リサーチプロダクトチームのブログリレー7日目の記事です。 こんにちは、エムスリーエンジニアリンググループ/Unit7 リサーチプロダクトチームでチームリーダーをやっている遠藤です。 皆さん、トークン使い切ってますか？私は24時間トークンを使い切れる人間でありたいと思っています。 エムスリーエ...</description><guid isPermaLink="false">https://www.m3tech.blog/entry/claude-budget-tags</guid><pubDate>Tue, 01 Sep 2026 18:26:41 +0000</pubDate></item><item><title>住宅ローンの返済負担はさらに重くなっていく…日銀の利上げはいいたいどこまで続くのか | ライフ | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956490?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.896] コンテンツブロックが有効であることを検知しました。
+このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
+なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956490?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Tue, 01 Sep 2026 21:17:07 +0000</pubDate></item><item><title>【沖縄知事選】古謝氏 玉城氏 横一線　投票先未定は5割　投票「行く」は7割　琉球新報・JXネット情勢調査</title><link>https://ryukyushimpo.jp/politics/entry-5492940.html</link><description>[score: 0.898] 9月13日投開票の県知事選が27日に告示されたことを受け、琉球新報社はJX通信社と合同で28～30日の3日間、県内全域の有権者を対象にしたインターネット調査を実施し、選挙戦の序盤情勢を探った。調査…
+prime
+【沖縄知事選】古謝氏 玉城氏 横一線 投票先未定は5割 投票「行く」は7割 琉球新報・JXネット情勢調査
+この記事を書いた人
+琉球新報朝刊
+9月13日投開票の県知事選が27日に告示されたことを受け、琉球新報社はJX通信社と合同で28～30日の3日間、県内全域の有権者を対象にしたインターネット調査を実施し、選挙戦の序盤情勢を探った。調査…</description><guid isPermaLink="false">https://ryukyushimpo.jp/politics/entry-5492940.html</guid><pubDate>Tue, 01 Sep 2026 11:23:59 +0000</pubDate></item><item><title>AI駆動開発ライフサイクル（AI-DLC）の日本語版Skill Builderが公開されたので体験してみた</title><link>https://qiita.com/news_it_enj/items/af5c80bebd4eb7d2eef9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.898] 先日公開されたAI-DLC Skill Builderコースの日本語版を受けてみました。
+もともとは英語版があるようなのですが、日本語用として撮り直されたようです。めちゃくちゃありがたいです。
+AI 駆動開発ライフサイクル (AI-DLC) ナレッジバッチ
+これは2026/8/27に開催されたJAWS-UG AI-DLC #02：AI-DLC勉強会でアナウンスがありました。
+アーカイブ動画
+AWS Skill Builderとは
+AWS Skill Builderとは、AWSが公式に提供しているeラーニングです。無料で公開されているコースや有償のサブスクリプションもあります。AWS認定の模擬試</description><guid isPermaLink="false">https://qiita.com/news_it_enj/items/af5c80bebd4eb7d2eef9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 01 Sep 2026 20:17:46 +0000</pubDate></item><item><title>長期金利3％超 日銀の金融政策や財政めぐる動きが焦点</title><link>https://news.web.nhk/newsweb/na/nd-20260901de47702</link><description>[score: 0.903] 9月1日の債券市場では長期金利が大幅に上昇し、代表的な指標である10年ものの国債の利回りがおよそ30年ぶりに3％を超えました。
+日銀の早期利上げの観測が強まったことや日本の財政状況への懸念などが背…
+あわせて読みたい
+台風24号 2日～4日ごろに沖縄・奄美に近づく見込み
+9月1日 19:03
+米グランドキャニオンで洪水 ２人死亡 １人の安否不明
+9月1日 21:04
+ネパール土石流死者1000人超 要支援6万人超 被災者心のケアも
+9月1日 20:54
+天皇ご一家 皇居での防災訓練に参加
+9月1日 21:40
+【プロ野球結果】ソフトバンクがマジックナンバー「18」に
+9月2日 1:30
+マヨネ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260901de47702</guid><pubDate>Tue, 01 Sep 2026 17:22:07 +0000</pubDate></item><item><title>ロシア軍、キーウなどに大規模攻撃 12人死亡、鉄道車庫にも着弾</title><link>https://www.afpbb.com/articles/-/3650981</link><description>[score: 0.909] ロシア軍、キーウなどに大規模攻撃 12人死亡、鉄道車庫にも着弾
+このニュースをシェア
+【9月1日 AFP】ウクライナ当局は1日、首都キーウとその周辺地域に対するロシア軍の大規模なミサイルや無人機による攻撃で、少なくとも12人が死亡、21人が負傷したと発表した。夏休みを終えた子どもたちが新学期を迎える当日の首都に対する攻撃となった。
+キーウのAFP記者らは1日未明、空軍が弾道ミサイルの接近を警告した直後に、約10回の激しい爆発音を聞き、上空に閃光が走るのを目撃した。
+ウクライナのウォロディミル・ゼレンスキー大統領は「ロシアのテロ」を非難し、死者の中にインド人1人が含まれていることを明らかにした。</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3650981</guid><pubDate>Tue, 01 Sep 2026 20:17:03 +0000</pubDate></item><item><title>さくらインターネット襲った不正アクセス､わずか2日で｢583→136万アカウント｣に影響拡大…見えている被害より怖いこと | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956359?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.917] コンテンツブロックが有効であることを検知しました。
+このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
+なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956359?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Tue, 01 Sep 2026 21:17:07 +0000</pubDate></item></channel></rss>
