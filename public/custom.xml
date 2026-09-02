@@ -1,104 +1,150 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 01 Sep 2026 23:07:39 +0000</lastBuildDate><item><title>幸福研究が明かす不都合な真実…｢玉の輿｣も｢昇進｣も｢合格通知｣も一瞬の幻 なぜそれでも人は必死で頑張るのか | キャリア・教育 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/954420?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.877] コンテンツブロックが有効であることを検知しました。
-このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
-なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/954420?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Tue, 01 Sep 2026 21:38:31 +0000</pubDate></item><item><title>ゼレンスキー氏「ロシア領空が安全な時代は終わった」 無人機飛行で航空各社に警告</title><link>https://www.afpbb.com/articles/-/3650988</link><description>[score: 0.879] ゼレンスキー氏「ロシア領空が安全な時代は終わった」 無人機飛行で航空各社に警告
-このニュースをシェア
-【9月2日 AFP】ウクライナのウォロディミル・ゼレンスキー大統領は1日、自国の無人機（ドローン）飛行の増加により、ロシア領空は危険な状態になると航空会社に警告し、「ロシアの空が安全だった時代は終わった」と述べた。
-ロシアとウクライナの攻撃が激化する中、ゼレンスキー氏は演説で、「民間航空機を1機たりとも標的にすることはない。ただ、ロシアの空には、無視できない規模でドローンが飛ぶことになる」と強調した。
-「ロシア領空を利用するすべての航空会社、すべての保険会社、そして今もロシアの主要空港を利用し</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3650988</guid><pubDate>Tue, 01 Sep 2026 22:44:38 +0000</pubDate></item><item><title>LINEヤフーがAIエージェント「Agent i」でAIとの対話の文脈に連動した広告配信を拡大、課金も開始</title><link>https://webtan.impress.co.jp/n/2026/09/02/53230</link><description>[score: 0.880] LINEヤフーがAIエージェント「Agent i」でAIとの対話の文脈に連動した広告配信を拡大、課金も開始 「検索連動型ショッピング広告」と「ディスプレイ広告(運用型)」、新たな顧客接点を創出 noboru.kojima 2026年9月2日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 LINEヤフーは、AIエージェント「Agent i」で、AIとの対話の文脈に応じた広告配信を拡大し、広告主向け課金を開始したと9月1日に発表した。Agent iに配信される「検索連動型ショッピング広告」では8月31日から一部ユーザーに限定していた広告配信を拡大するとともに、広告主向けの課</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/09/02/53230</guid><pubDate>Tue, 01 Sep 2026 22:23:02 +0000</pubDate></item><item><title>上海協力機構の首脳会議が閉幕 イランに連帯示す</title><link>https://news.web.nhk/newsweb/na/nd-20260902de47715</link><description>[score: 0.881] 中国とロシアが主導する上海協力機構の首脳会議は、アメリカなどによる攻撃を受けたイランへの連帯を示す内容などを盛り込んだ「ビシケク宣言」を発表して閉幕しました。
-中央アジアのキルギスの首都ビシケクで…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 02 Sep 2026 10:31:25 +0000</lastBuildDate><item><title>アンソロピック、最上位モデル「Fable 5.1」公開　性能を大幅向上</title><link>https://www.watch.impress.co.jp/docs/news/2137469.html</link><description>[score: 0.885] ニュース
+アンソロピック、最上位モデル「Fable 5.1」公開 性能を大幅向上
+2026年9月2日 09:58
+Anthropicは1日(米国時間)、最上位AIモデルとなる「Claude Fable 5.1」と「Mythos 5.1」を発表した。Fable 5.1は一般提供されるが、Mythos 5.1はAnthropicのトラステッド・アクセス・プログラムを通じて限定された企業・団体にのみ提供される。
+Fable 5.1は、コーディング、ナレッジワーク、長時間かかる問題解決タスクなどの能力を向上。Fable 5.1は前バージョンのFable 5より大きくパフォーマンス向上を図っており、「L</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2137469.html</guid><pubDate>Wed, 02 Sep 2026 01:02:50 +0000</pubDate></item><item><title>「ChatGPT」の内蔵ブラウザーに［サイトツール］、拡張機能の対応ブラウザーも拡充／「Microsoft Edge」「Brave」「Opera」「Vivaldi」を新たに追加</title><link>https://forest.watch.impress.co.jp/docs/news/2137312.html</link><description>[score: 0.885] ニュース
+「ChatGPT」の内蔵ブラウザーに［サイトツール］、拡張機能の対応ブラウザーも拡充
+「Microsoft Edge」「Brave」「Opera」「Vivaldi」を新たに追加
+2026年9月1日 17:40
+米OpenAIは8月31日（現地時間、以下同）、「ChatGPT」のリリースノートを更新し、複数の新機能を発表した。デスクトップアプリに［サイトツール］が導入されたほか、拡張機能の対応ブラウザーが拡大したのが目玉だ。
+内蔵ブラウザーで［サイトツール］を利用
+［サイトツール］（Site Tools）は、一部のWebサイトがAIエージェントのために公開している機能。これが提供されて</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2137312.html</guid><pubDate>Wed, 02 Sep 2026 00:08:18 +0000</pubDate></item><item><title>AIにアンケートの生データを丸投げしたら、対応表を読んで前処理を一瞬で終わらせてくれた話</title><link>https://qiita.com/IkuyaM/items/655665c108a1972f04ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] 「アンケートの回答データ、集計できる形にしておいてもらえますか」
+先日そう頼まれて、送られてきたCSVを開いた瞬間、正直うんざりしました。
+列名は SC1
+SC2
+SC3
+、その先は Q1
+Q2
+と続きます。値は 1
+2
+3
+。列を見ても値を見ても、何のことか分かりません。
+意味は別のファイルに書いてありました。コードブックや対応表と呼ばれるものです。
+SC1
+は「あなたの性別をお答えください」で、値の 1
+は男性、2
+は女性。読めば分かります。分かるのですが、これを送られてきたCSVに当てはめていくわけです。対応表のほうは100行近くあります。
+置換の手順そのものは決まりきっていて、迷うとこ</description><guid isPermaLink="false">https://qiita.com/IkuyaM/items/655665c108a1972f04ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 02 Sep 2026 08:22:51 +0000</pubDate></item><item><title>Claude Code のサブエージェント、モデルの固定手段が4日で戻ってきた</title><link>https://qiita.com/jqit_suwa/items/e0e1ca2287fb4da46852?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] 8月28日、Claude Code 2.1.251 で CLAUDE_CODE_SUBAGENT_MODEL
+の挙動が変わりました。全部を上書きしていたのが、エージェント定義の model:
+に負けるようになった。それを記事にしました。
+9月1日、2.1.257 で上書き手段が戻ってきました。 CLAUDE_CODE_SUBAGENT_MODEL_FORCE
+です（手元で動かしたのは 2.1.258）。
+4日です。
+ただし完全には戻っていません。 8条件を測ったら、守られるものと潰されるものが分かれました。
+検証環境: Windows 10 / Claude Code 2.1.258 / 測定</description><guid isPermaLink="false">https://qiita.com/jqit_suwa/items/e0e1ca2287fb4da46852?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 02 Sep 2026 08:22:51 +0000</pubDate></item><item><title>【AI駆動開発】AIエージェントに「人間の承認」を残す設計：Human-in-the-Loop超入門</title><link>https://qiita.com/shimada_slj/items/601651731615a4b71605?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] はじめに
+こんにちは、エンジニア5年目の嶋田です。
+この記事を開いていただき、ありがとうございます！
+前回、「MCP・エージェント・ツール」という用語を整理する記事を書きました。
+そのときは「AIエージェントは、目標を渡すと自分で計画・実行までしてくれる」という便利さの話が中心でした。
+ただ、その後にこんな疑問が浮かびました。
+エージェントが「自分で実行まで進める」のはいいけど、
+決済とか、ファイル削除とか、重要な操作まで勝手にやられて大丈夫なの？
+暴走したらどうするの？
+実際、社内で決済導線のE2EテストをPlaywright MCPで自動化した記事を読んだときも、「テスト環境だからいいけど</description><guid isPermaLink="false">https://qiita.com/shimada_slj/items/601651731615a4b71605?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 02 Sep 2026 08:22:51 +0000</pubDate></item><item><title>Yahoo!ショッピングで「AIおまかせコーディネート」提供開始</title><link>https://www.watch.impress.co.jp/docs/news/2137744.html</link><description>[score: 0.887] ニュース
+Yahoo!ショッピングで「AIおまかせコーディネート」提供開始
+2026年9月2日 19:07
+LINEヤフーは、「Yahoo!ショッピング AIエージェント」の新機能として、生成AIを活用して洋服選びをサポートする「AIおまかせコーディネート」の提供を開始した。一部のストア・対象商品からの先行提供で、対象ストアや商品は今後も順次拡大される。
+先行提供されるストアは、「antiqua」(アンティカ)、「HUG.U」(ハグユー)、「osharewalker」(オシャレウォーカー)、「Honeys」(ハニーズ)で、一部の商品が対象。
+新機能は、AIがコーディネート提案から着用イメージ、</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2137744.html</guid><pubDate>Wed, 02 Sep 2026 10:16:23 +0000</pubDate></item><item><title>AI Content Disclosure で人間 / AI のどちらが書いたかを表現する - yaakai.to</title><link>https://yaakai.to/note/162</link><description>[score: 0.888] AI Content Disclosure で人間 / AI のどちらが書いたかを表現する - yaakai.to GitHub - dweekly/ai-content-disclosure: Explainer: AI Content Disclosure for HTML — element-level markup for AI authorship transparencyExplainer: AI Content Disclosure for HTML — element-level mark... t-wada</description><guid isPermaLink="false">https://yaakai.to/note/162</guid><pubDate>Wed, 02 Sep 2026 08:45:25 +0000</pubDate></item><item><title>辺野古移設「県民の反対変わらぬ」　稲嶺元沖縄知事に聞く―知事選：時事ドットコム</title><link>https://www.jiji.com/jc/article?k=2026090100882&amp;g=pol</link><description>[score: 0.888] 辺野古移設「県民の反対変わらぬ」 稲嶺元沖縄知事に聞く―知事選：時事ドットコム 辺野古移設「県民の反対変わらぬ」 稲嶺元沖縄知事に聞く―知事選 時事通信 政治部2026年09月02日06時56分配信 インタビューに応じる稲嶺恵一元沖縄県知事＝８月２８日、沖縄県浦添市 沖縄県知事選は１３日の投開票に向け、米軍基地問題などを巡る論戦が熱を帯びている。米軍普天間飛行場（同県宜野湾市）の県内移設の是...</description><guid isPermaLink="false">https://www.jiji.com/jc/article?k=2026090100882&amp;g=pol</guid><pubDate>Wed, 02 Sep 2026 04:58:31 +0000</pubDate></item><item><title>「Claude Fable 5.1」と「Claude Mythos 5.1」が登場、Fable 5より最大45％安くて高性能</title><link>https://gigazine.net/news/20260902-claude-fable-mythos-5-1/</link><description>[score: 0.889] 「Claude Fable 5.1」と「Claude Mythos 5.1」が登場、Fable 5より最大45％安くて高性能
+Anthropicが「Claude Fable 5.1」と「Claude Mythos 5.1」を現地時間の2026年9月1日にリリースしました。Claude Fable 5.1は前世代モデルのClaude Fable 5より高い性能を備えつつ、コストを最大45％削減することが可能。さらに、安全対策システムのアップデートによって誤検出が60％減少しています。
+Introducing Claude Fable 5.1 and Claude Mythos 5.1 \ Ant</description><guid isPermaLink="false">https://gigazine.net/news/20260902-claude-fable-mythos-5-1/</guid><pubDate>Wed, 02 Sep 2026 01:57:05 +0000</pubDate></item><item><title>日銀 高田審議委員 “機動的に利上げを進めるべき”</title><link>https://news.web.nhk/newsweb/na/nd-20260902de47789</link><description>[score: 0.889] 日銀の金融政策の決定に関わる高田創審議委員が、2日、札幌市で講演し、物価の上振れリスクに対応するため、一定のペースや幅にとらわれず、機動的に利上げを進めるべきだという考えを示しました。
+日銀の高田…
 あわせて読みたい
-アメリカ10年債利回り4.8％に迫る世界的に長期金利が上昇
-9月2日 2:56
-日チェコ外相 協力促進へ5年間の行動計画に署名
-9月2日 2:06
-茂木外相 中東欧4か国外相と会合 国際秩序強化へ協力
-9月2日 2:03
-【随時更新】ロシア ウクライナに軍事侵攻（9月1日の動き）
-9月1日 22:03
-韓国 過去最大の予算案決定 原潜開発の予算も初計上
-9月1日 21:49
-上海</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260902de47715</guid><pubDate>Tue, 01 Sep 2026 21:26:24 +0000</pubDate></item><item><title>爆速UIで話題！ NewDaysセルフレジは本当に速かった</title><link>https://webtan.impress.co.jp/e/2026/09/02/53224</link><description>[score: 0.882] SNSで「爆速すぎる」と話題になっていたNewDays（ニューデイズ）のセルフレジ。本当に速いのか実際に店舗で検証してきたが、期待以上の圧倒的な速さに驚かされた。 WebサービスやアプリのUI/UX改善に取り組むWeb担当者にとっても、非常に学びの多い設計になっている。 わずか3画面、10秒で会計完了する凄み 一般的なコンビニやスーパーのセルフレジは、画面遷移が多い。 「スタート」を押させたり、ポイントカードの有無や年齢確認を挟んだりと、ストレスを感じることも少なくない。 しかし、NewDaysのUIは徹底的に無駄が削ぎ落とされている。 ①スタートボタンなし。いきなりスキャン 会計を始めるのに</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/09/02/53224</guid><pubDate>Tue, 01 Sep 2026 22:23:02 +0000</pubDate></item><item><title>｢初日は突然､目の前が真っ暗に…｣｢食事量を2倍に｣62年間"男の仕事"だったうなぎパイ職人｢錬士｣に40代女性がなったワケ | ライフ | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956158?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.882] コンテンツブロックが有効であることを検知しました。
-このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
-なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956158?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Tue, 01 Sep 2026 22:26:12 +0000</pubDate></item><item><title>プーチン氏、ウクライナ巡る「具体的」協議に前向き ロ軍勝利に自信（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE0wWkZzenBUb2cwcVgzNkxkSHpCbmI0bHNGQTh3TFFaY3AxRW05N29YSlhPdlJ1UV9OdUVCSTlGQ2c0dGRyTHQ3ZVpMblNGeE44WUJ3QTN3dzNYT0NCa1dNWjFpZWsxcW1CcDBrcGxNc1pCVldva1E0a1RSdDV5UHc?oc=5</link><description>[score: 0.882] プーチン氏、ウクライナ巡る「具体的」協議に前向き ロ軍勝利に自信（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE0wWkZzenBUb2cwcVgzNkxkSHpCbmI0bHNGQTh3TFFaY3AxRW05N29YSlhPdlJ1UV9OdUVCSTlGQ2c0dGRyTHQ3ZVpMblNGeE44WUJ3QTN3dzNYT0NCa1dNWjFpZWsxcW1CcDBrcGxNc1pCVldva1E0a1RSdDV5UHc?oc=5</guid><pubDate>Tue, 01 Sep 2026 22:20:17 +0000</pubDate></item><item><title>検索もレコメンドもない狭い売場のまま、カルディはなぜEC全盛の時代に増え続けるのか【新人さんのためのマーケティング講座 Season9 vol.1】</title><link>https://studyhacker.net/kaldi-coffee</link><description>[score: 0.883] 📘 新人さんのためのマーケティング講座 Season9 Season8では「機能から情緒へのドメイン再定義」を20社の事例で深掘りしました。 Season9でも引き続き、現代のマーケティングの本質を事例で解き明かしていきます。 まだ過去のSeasonを読んでいない方は、そちらからどうぞ。 ▶ Season 1【全14回まとめ】｜▶ Season 2【全15回まとめ】｜▶ Season 3【全20回まとめ】｜▶ Season 4【全20回まとめ】｜▶ Season 5【全20回まとめ】｜▶ Season 6【全20回まとめ】｜▶ Season 7【全20回まとめ】｜▶ Season 8【全20回</description><guid isPermaLink="false">https://studyhacker.net/kaldi-coffee</guid><pubDate>Tue, 01 Sep 2026 22:04:00 +0000</pubDate></item><item><title>まず増やし、後で働かせる 遺伝子改変微生物で 肥料を再発明する企業</title><link>https://www.technologyreview.jp/s/389503/how-engineered-microbes-could-help-feed-the-worlds-crops/</link><description>[score: 0.883] まず増やし、後で働かせる
-遺伝子改変微生物で
-肥料を再発明する企業
-化学肥料の製造は、世界の温室効果ガス排出量の約2%を占める。これを微生物で置き換える試みは長く続いてきたが、窒素を作らせると微生物自身が増えなくなるという壁があった。スイッチ・バイオワークスは、まず増殖させ、その後で窒素を作らせる遺伝子スイッチで、これを乗り越えようとしている。 by Casey Crownhart2026.09.02
-- この記事の3つのポイント
+台風と前線影響 西・東日本は3日から大雨に 長引くおそれも
+9月2日 19:21
+G20閉幕 政府・日銀の政策焦点 アメリカの注文など踏まえ
+9月2日 15:34
+ネパール土石流 発生から1週間 避難所の衛生状態維持も課題に
+9月2日 18:52
+長期金利3.015％に一時上昇 イラン情勢緊迫化でインフレ懸念
+9月2日 11:18
+株価 一時1900円超の値下がり 原油先物価格と</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260902de47789</guid><pubDate>Wed, 02 Sep 2026 06:54:07 +0000</pubDate></item><item><title>「あの人が変わってくれない」———人が動かないとき、どうしたらいいのか。カケハシ渡邉暁雄さんインタビュー</title><link>https://agend.jp/media/watanabe-akio/</link><description>[score: 0.889] 「あの人が変わってくれない」———人が動かないとき、どうしたらいいのか。カケハシ渡邉暁雄さんインタビュー
+会社組織で働いていると誰しもが感じる「あの人はどうしたら変わってくれるのか」や「どうしたら会社は動くのか」。
+そんな悩みに、株式会社カケハシで組織開発をしている渡邉暁雄さんにお答えいただきました。ぜひ最後のまとめまでお読みいただければと思います。
+渡邉暁雄
+株式会社カケハシ エンジニアリングマネージャー。大学卒業後、新卒でマクドナルドに入社。SIerへの転職をきっかけにエンジニアのキャリアを積む。その後、さまざまな組織でマネジメントとチームづくりに携わり続けている。現在はカケハシにてエンジ</description><guid isPermaLink="false">https://agend.jp/media/watanabe-akio/</guid><pubDate>Wed, 02 Sep 2026 10:05:49 +0000</pubDate></item><item><title>プロダクトビルダーは「何でもできる人」じゃなかった｜gurico</title><link>https://note.com/g_tarou/n/n7ed89feb3e54</link><description>[score: 0.889] プロダクトビルダーは「何でもできる人」じゃなかった
+はじめに
+こんにちは。Ubie でプロダクト開発エンジニアをしている江崎です。
+Ubie に入社して、3年ほど症状検索エンジンユビー(https://ubie.app)、AIパートナーユビーなどの開発を経たのちに、いまは Ubie の広告事業まわりを主に担当していて、ウェルネス領域の新しいメディアを立ち上げたり、製薬会社向けの広告商品を考えたりしています。
+Ubieで「プロダクトビルダー」という職種の採用が始まったと聞いて、正直、最初は「なんだそれ」と思いました。どうやら自分もそれに当てはまるらしいのですが、いまでもよくわかっていません。
+（</description><guid isPermaLink="false">https://note.com/g_tarou/n/n7ed89feb3e54</guid><pubDate>Wed, 02 Sep 2026 08:45:25 +0000</pubDate></item><item><title>OpenAI、アンソロピックのMythos対抗モデル「Astra」をまもなく投入へ</title><link>https://forbesjapan.com/articles/detail/103989?s=ns</link><description>[score: 0.890] OpenAIは9月1日に公開した声明で、同社としてこれまでで最も高度なサイバーセキュリティ向けAIモデルを「まもなく」投入すると明らかにした。これにより、AnthropicのClaude Mythosと真正面からぶつかるモデルが登場することになる。Mythosは人間の手を介さずに動く強力なサイバーセキュリティ機能を備えており、4月には金融業界と政府の双方で警戒が広がった。
+OpenAIは最新モデルAstraを「まもなく」投入する計画だ。ただし同社は、このモデルの「最も高度なサイバーセキュリティ能力については、提供範囲を限定する」としており、その能力に触れられるのは選ばれたテスターだけになる。
+</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103989?s=ns</guid><pubDate>Wed, 02 Sep 2026 03:44:53 +0000</pubDate></item><item><title>AIがコードを書く時代に、開発者は何を学ぶべきなのか。AWS認定デベロッパーの対策本を書きました - プログラマでありたい</title><link>https://blog.takuros.net/entry/2026/08/31/150628</link><description>[score: 0.890] AIがコードを書く時代に、開発者は何を学ぶべきなのか。AWS認定デベロッパーの対策本を書きました - プログラマでありたい AWS認定デベロッパーの対策本を書きました。発売日は8月28日なので、もう既に書店にも並び始めています。 そしてこちらの写真は、ジュンク堂書店 池袋本店に書かせて頂いたポップです。 AI時代にこそ基礎を 一生使える考え方を 書きました！！ ※下手くそな字で申し訳ありません たった3行ですが、この本の執筆を通じて...</description><guid isPermaLink="false">https://blog.takuros.net/entry/2026/08/31/150628</guid><pubDate>Wed, 02 Sep 2026 07:45:53 +0000</pubDate></item><item><title>上皇さまの意向受け 将来の葬儀の規模大幅縮小へ</title><link>https://news.web.nhk/newsweb/na/nd-20260902de47735</link><description>[score: 0.890] 上皇さまが生前退位の意向がにじむビデオメッセージを表されてからことしで10年となり、上皇ご夫妻は公の場にはほぼ出ることなく、穏やかな日々を過ごされています。
+ことし93歳となる上皇さまは将来のご自身…
+注目ワード
+あわせて読みたい
+上皇ご夫妻 ことしは軽井沢での静養を見送り
+8月13日 20:28
+台風と前線影響 西・東日本は3日から大雨に 長引くおそれも
+9月2日 19:21
+G20閉幕 政府・日銀の政策焦点 アメリカの注文など踏まえ
+9月2日 15:34
+日銀 植田総裁 利上げは9月会合含め毎回会合で議論
+9月2日 14:57
+伊勢神宮近くの商店街火災 発生から約44時間後に鎮火
+9月2日</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260902de47735</guid><pubDate>Wed, 02 Sep 2026 10:19:17 +0000</pubDate></item><item><title>画像生成・編集ツール「Google Pics」公開　Nano Banana搭載</title><link>https://www.watch.impress.co.jp/docs/news/2137646.html</link><description>[score: 0.891] ニュース
+画像生成・編集ツール「Google Pics」公開 Nano Banana搭載
+2026年9月2日 15:29
+Googleは9月1日(米国時間)、Google Workspaceの画像作成・編集ツール「Google Pics」を公開した。Google AI ProおよびUltraの加入者と、Google Workspaceのほとんどの法人向けプランの加入者に今後数週間かけて順次展開する。
+Google Picsは、画像生成モデル「Nano Banana」をベースにした画像作成・編集ツール。ポスターやSNS投稿用画像、デジタルイラストなどを作成できるほか、既存画像の編集にも対応する。</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2137646.html</guid><pubDate>Wed, 02 Sep 2026 06:38:42 +0000</pubDate></item><item><title>ついに「Claude Fable 5.1」登場、実質最大45%安く、科学研究スコア2倍超。「Claude Mythos 5.1」も 〜全ユーザーの5時間ごとと週ごとの利用上限もリセット</title><link>https://pc.watch.impress.co.jp/docs/news/2137457.html</link><description>[score: 0.892] ニュース
+ついに「Claude Fable 5.1」登場、実質最大45%安く、科学研究スコア2倍超。「Claude Mythos 5.1」も
+〜全ユーザーの5時間ごとと週ごとの利用上限もリセット
+2026年9月2日 08:08
+Anthropicは9月1日(現地時間)、AIモデル「Claude Fable 5.1」と「Claude Mythos 5.1」を発表した。発表に合わせて、同社は全ユーザーの5時間ごとと週ごとの利用上限もリセットした。
+Fable 5.1は発表直後から使うことができ、コーディングや知識労働、長時間の自律的なタスクを得意とする。性能は公開された7つのベンチマークすべてでF</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2137457.html</guid><pubDate>Wed, 02 Sep 2026 01:51:24 +0000</pubDate></item><item><title>https://x.com/sama/status/2094934592062959832</title><link>https://x.com/sama/status/2094934592062959832</link><description>[score: 0.892] https://x.com/sama/status/2094934592062959832 misshiki OpenAI%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86 Sam Altman氏、次期モデル「Astra」を近日公開へ。学習は既に完了し能力・alignmentとも大幅向上。一方、Astra以降は安全性とalignment確保のため必要に応じ開発を減速。</description><guid isPermaLink="false">https://x.com/sama/status/2094934592062959832</guid><pubDate>Wed, 02 Sep 2026 07:46:40 +0000</pubDate></item><item><title>Claude Fable 5.1、キャッシュ読みは4分の1。ただし tool_choice が400を返す</title><link>https://qiita.com/jqit_suwa/items/c0f5b86dfb8a3106cbaf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.892] 9月1日に Claude Fable 5.1 が出ました。価格表で変わったのは1行だけです。
+入力 $10 → $10 据え置き
+出力 $50 → $50 据え置き
+5m 書込 $12.50 → $12.50 据え置き
+1h 書込 $20 → $20 据え置き
+キャッシュ読み $1.00 → $0.25 ← ここだけ
+値下げだけなら乗り換えない理由がありません。 ただし公式は破壊的変更が3つあると書いています。
+検証環境: Windows 10 / Claude Code 2.1.258 / 測定は 2026-09-02 時点
+壊れる変更が3つ
+公式の移行ガイドから。エージェントを組んでいる人</description><guid isPermaLink="false">https://qiita.com/jqit_suwa/items/c0f5b86dfb8a3106cbaf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 02 Sep 2026 08:22:51 +0000</pubDate></item><item><title>Claude Codeのサブエージェントを作ってみて分かったこと</title><link>https://qiita.com/yukegineer/items/10b4df062391383a86af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.895] 目的
+Claudeの記事を色々見ていると、「エージェント同士でやり取りし、人間は最初の指示を出すだけであとは全部Claudeがやってくれる」という事例を見かけました。自分もこれを実現したいと思い、実装用とレビュー用のサブエージェントを作成しました。
+指示を出すだけでClaude同士がやり取りし、実装からレビューまで完了させてくれる状態を目指した記録です。
+1. サブエージェントとは何なのか
+サブエージェントとは、メインの会話とは別に、独立したコンテキストウィンドウで動作する特化型のAIアシスタントです。
+サブエージェントを使うことで、以下のようなメリットが得られます。
+- メインの会話コンテキ</description><guid isPermaLink="false">https://qiita.com/yukegineer/items/10b4df062391383a86af?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 02 Sep 2026 08:22:51 +0000</pubDate></item><item><title>自民税調 消費税減税で「便乗値上げ」や「買い控え」に対策を</title><link>https://news.web.nhk/newsweb/na/nd-20260902de47815</link><description>[score: 0.895] 食料品の消費税減税をめぐり、自民党の税制調査会の会合が開かれ、出席者から税率変更にあわせた「便乗値上げ」や、消費者による買い控えを防ぐ対策を求める意見が出されました。
+食料品の消費税減税をめぐり、…
+注目ワード
+あわせて読みたい
+台風と前線影響 西・東日本は3日から大雨に 長引くおそれも
+9月2日 19:21
+G20閉幕 政府・日銀の政策焦点 アメリカの注文など踏まえ
+9月2日 15:34
+ネパール土石流 発生から1週間 避難所の衛生状態維持も課題に
+9月2日 18:52
+長期金利3.015％に一時上昇 イラン情勢緊迫化でインフレ懸念
+9月2日 11:18
+株価 一時1900円超の値下がり 原</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260902de47815</guid><pubDate>Wed, 02 Sep 2026 09:50:18 +0000</pubDate></item><item><title>“結婚式への米軍攻撃”イランが周辺国の米軍基地に報復攻撃</title><link>https://news.web.nhk/newsweb/na/nd-20260902de47843</link><description>[score: 0.899] アメリカ軍は1日、イランの革命防衛隊の複数の軍事施設を攻撃し、イラン側はこのなかで結婚式が行われていた住宅の周辺が攻撃を受け、少なくとも4人が死亡したとしています。
+革命防衛隊はヨルダン、バーレーン…
+あわせて読みたい
+米ベッセント財務長官 イランへの制裁 中国の対応見極める考え
+9月2日 12:06
+G20閉幕 政府・日銀の政策焦点 アメリカの注文など踏まえ
+9月2日 15:34
+ネパール土石流 発生から1週間 避難所の衛生状態維持も課題に
+9月2日 18:52
+プーチン大統領 日ロ関係悪化の責任 “100%日本にある”
+9月2日 17:36
+ロシア外務省報道官 日米豪共同訓練に「対抗措置と</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260902de47843</guid><pubDate>Wed, 02 Sep 2026 10:19:17 +0000</pubDate></item><item><title>ロシアの新型ドローンで甚大な被害、迎撃機の開発急ぐウクライナ</title><link>https://www.cnn.co.jp/world/35252206.html</link><description>[score: 0.899] 8月29日、ロシア軍によるキーウへの攻撃の後に立ち上る黒煙/Serhii Okunev/AFP/Getty Images （CNN） ウクライナは数カ月前から、ジェット推進式の次世代ドローン（無人機）を使ったロシアの攻撃で甚大な被害を受けてきた。同国は今、これに対抗できる迎撃機の開発を急いでいる。 ロシア軍は弾道ミサイルや新型の巡航ミサイルに加え、ジェット推進ドローンでウクライナの首都キーウやその周辺に大きな打撃を与えている。 双方が攻撃対象を大幅に拡大するなかで、ロシアのジェット推進ドローンは倉庫やガソリンスタンド、郵便施設や工場への攻撃にも使われてきた。 ロシアが「ゲラン4」「ゲラン5」と</description><guid isPermaLink="false">https://www.cnn.co.jp/world/35252206.html</guid><pubDate>Wed, 02 Sep 2026 10:16:55 +0000</pubDate></item><item><title>Anthropic、Claude Fable 5.1とMythos 5.1を発表</title><link>https://gihyo.jp/article/2026/09/claude-fable-5.1-and-mythos-5.1?utm_source=feed</link><description>[score: 0.900] Anthropicは2026年9月1日、AIモデル「Claude Fable 5.1」と「Claude Mythos 5.1」を発表した。両者は同じモデルだが、サイバーセキュリティと生命科学の分野に適用するセーフガードの強さが異なる。Fable 5.1は一般提供され、コーディング、専門知識を必要とする業務、長時間にわたる問題解決を主な用途とする。Mythos 5.1は、審査を受けた個人や組織に限定して提供している。
+2つのベンチマークでFable 5を上回る
+Anthropicの評価によると、エージェント型の科学研究タスクを扱う「Terminal-Bench-Science 0.1」でFabl</description><guid isPermaLink="false">https://gihyo.jp/article/2026/09/claude-fable-5.1-and-mythos-5.1?utm_source=feed</guid><pubDate>Wed, 02 Sep 2026 03:31:00 +0000</pubDate></item><item><title>長期展開を終えた空母リンカーン、中東からタイに到着　交代艦の派遣で東アジアは手薄に</title><link>https://www.cnn.co.jp/world/35252178.html</link><description>[score: 0.900] タイの港湾付近で、米海軍の原子力空母エイブラハム・リンカーンが確認された＝9月2日、タイのパタヤ市近郊/ Anthony Wallace/AFP/Getty Images （CNN） 中東に長期配備されていた米空母エイブラハム・リンカーンが2日、8カ月以上で初の寄港先となるタイに到着した。乗組員の健康状態を懸念する声が出ていた中東での長期海上任務は終了した。 排水量10トンのエイブラハム・リンカーンは昨年11月、米サンディエゴを出港した。年内に南カリフォルニアに戻る予定で、米海軍史上有数の長期配備が完了することになる。 民主党のブルーメンソール上院議員によると、エイブラハム・リンカーンはイラン</description><guid isPermaLink="false">https://www.cnn.co.jp/world/35252178.html</guid><pubDate>Wed, 02 Sep 2026 03:09:22 +0000</pubDate></item><item><title>AWS認定資格のSAAを1か月で取得した勉強方法</title><link>https://qiita.com/hiroto15/items/5539b47e0f66518ee30a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.904] はじめに
+新卒1年目エンジニアのhirotoです。
+この記事では、AWS Certified Solutions Architect - Associate（SAA-C03）に約1か月・60時間の学習で合格した際に、実際に効果を感じた勉強方法を共有します。特に、AWS Certified Cloud Practitioner (以下、CLF)取得直後の方や、模擬試験の復習方法に悩んでいる方の参考になればうれしいです。
+※本記事で紹介する教材は個人の利用経験に基づくもので、試験問題の再現や非公開情報は含みません。
+以前のAWS認定資格取得に関する記事
+結果
 -
-- 微生物が窒素を固定する「遺伝子スイッチ」技術で化学肥料代替を目指すスタートアップが登場
-- 増殖と窒素固定のトレードオフという生物学的制約が、微生物肥料開発</description><guid isPermaLink="false">https://www.technologyreview.jp/s/389503/how-engineered-microbes-could-help-feed-the-worlds-crops/</guid><pubDate>Tue, 01 Sep 2026 21:42:41 +0000</pubDate></item><item><title>EDRを入れても侵入される　405社調査が示す日本企業の「構造的欠陥」</title><link>https://www.itmedia.co.jp/enterprise/articles/2608/31/news027.html</link><description>[score: 0.884] EDRなどの検知ツールへの投資は進んだ。それでも重大インシデント寸前の事案は絶えない。サイバーリーズンが国内405社の成熟度診断とSOC観測データを突き合わせたところ、攻撃者が狙う共通の「死角」が浮かんだ。
-この記事は会員限定です。会員登録すると全てご覧いただけます。
-セキュリティベンダーのサイバーリーズンは2026年8月28日、国内405社を対象にした「セキュリティ成熟度ベンチマーク診断」の結果と、同社のセキュリティ監視組織であるグローバルSOC（GSOC）が2026年上半期に観測したインシデントの分析結果を発表した。同社は両調査の結果を、日本企業のセキュリティ課題が「ツール導入の問題」から</description><guid isPermaLink="false">https://www.itmedia.co.jp/enterprise/articles/2608/31/news027.html</guid><pubDate>Tue, 01 Sep 2026 22:56:39 +0000</pubDate></item><item><title>ロシア外務省報道官、日米豪共同訓練に「対抗措置とる」と警告</title><link>https://news.web.nhk/newsweb/na/nd-20260902de47725</link><description>[score: 0.885] ロシア外務省は、自衛隊が、9月にアメリカ軍やオーストラリア軍と行う予定の共同訓練をめぐって、ロシアにある日本大使館に対して懸念を伝え、「相応の対抗措置をとる」と警告しました。
-陸上自衛隊の発表によ…
-故郷が教えてくれた“立ち向かう”力
-梅宮アンナさん 乳がんの経験 共有し乗り越えたい
-「指示がなければ、生きていた」
-よみがえる法隆寺の至宝 ～金堂壁画・完全復元に挑む～
-息子はなぜ… 母親が問い続ける“事故の真相”
-“果物を安く販売” 不審SNS投稿を追跡 熊本支援うたうものも
-中部電力 相次ぐ不祥事に揺らぐ信頼
-歴史的水準の長期金利 「経済の体温計」に何が?【経済コラム】
-地図から選ぶ
-NHK</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260902de47725</guid><pubDate>Tue, 01 Sep 2026 22:29:20 +0000</pubDate></item><item><title>「日本語コピーライティング特化型生成AI」の開発に向けた共同研究の成果を電通などが公表</title><link>https://webtan.impress.co.jp/n/2026/09/02/53229</link><description>[score: 0.885] 「日本語コピーライティング特化型生成AI」の開発に向けた共同研究の成果を電通などが公表 電通、電通デジタル、SB Intuitionsの3社、広告コピー評価データセット構築、自動評価の実用化を推進 noboru.kojima 2026年9月2日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 電通と電通デジタル、ソフトバンク子会社で日本語に特化した大規模言語モデル(LLM)開発のSB Intuitionsの3社は、電通のコピーライター64名による11万件超の広告コピー評価データセットを構築し、日本語の広告コピーの自動評価に関する研究成果を9月1日に公表した。2025年9月</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/09/02/53229</guid><pubDate>Tue, 01 Sep 2026 22:23:02 +0000</pubDate></item><item><title>原油先物4ドル超急騰、5週間ぶり高値 イラン情勢緊迫化で - Reuters</title><link>https://news.google.com/rss/articles/CBMieEFVX3lxTE9paDVyZExPbkx2RXJwWW44ZGRwdmJPM1VCRG0tQ2xNcXQ0Y242djRqVUd6elRTUEJLTXpmb05uM25CZkVIVmt6QTVwWWFXeENsUTRBM0tiVWk3Tlp1Tk9fNlZnVVJuclZtMXV2VVRzUGtLWjJiQTMwNw?oc=5</link><description>[score: 0.886] 原油先物4ドル超急騰、5週間ぶり高値 イラン情勢緊迫化で Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMieEFVX3lxTE9paDVyZExPbkx2RXJwWW44ZGRwdmJPM1VCRG0tQ2xNcXQ0Y242djRqVUd6elRTUEJLTXpmb05uM25CZkVIVmt6QTVwWWFXeENsUTRBM0tiVWk3Tlp1Tk9fNlZnVVJuclZtMXV2VVRzUGtLWjJiQTMwNw?oc=5</guid><pubDate>Tue, 01 Sep 2026 21:19:58 +0000</pubDate></item><item><title>「何度も調べ直し」「毎回同じことで悩む」を解消　ChatGPTで“自分専用”のマニュアルを作る方法</title><link>https://www.itmedia.co.jp/business/articles/2609/02/news011.html</link><description>[score: 0.886] アイデアが浮かばない、こんな無駄な作業なくしたい――。ビジネスパーソンを悩ませる日々のさまざまな困りごと、ChatGPTに聞いてみませんか？ ITジャーナリストの酒井麻里子氏がプロンプトの書き方を伝授します。
-Q．日頃の業務のなかで、毎回同じことで迷ったり、過去のやり方を参照したりして時間を取られています。遠回りをなくすためにAIでできることはありますか？
-繰り返し対応している業務にもかかわらず、細かいところで迷いが生じ、何度も同じことで迷ったり、過去のやり方を何度も調べ直したり……。読者の皆さんも、そんな状況に陥ったことはないだろうか。
-仕事の進め方を自分の頭の中だけに置いていると、そういっ</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2609/02/news011.html</guid><pubDate>Tue, 01 Sep 2026 21:36:25 +0000</pubDate></item><item><title>米軍、ホルムズ海峡近くのイラン標的を攻撃＝トランプ氏 - topics.smt.docomo.ne.jp</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE95VmsxZGJXNWtzQlRSMy1hcTZSVmJIenNWRF9TT2lmQ0k2c21XZnhUcUk5aENac3EzeVU5Z1RWVDA0eVlWd2w5ZElQWGhoaGYyRjFUNm0tY3A5RVUybGdISjFNNGhKZ3RDczZ4cUlsbl81MERuYkxWQzlyTUdYZ9IBgwFBVV95cUxQVEViTk5lSVVtR21UVV9mc2xOekRwMndVTTNmSC1aU2dxTGRjU2tpaFFCWFZvemZHRXN6NFZjQVNDN1Ayc1FhWmFqZWl6STh1M1Y0Tm5IRzR6R0o1NHU1OXctQzUybVd1RFNhRy1RV1pna3U0RHhiMWJzZ2VCaEFkY2tLNA?oc=5</link><description>[score: 0.887] 米軍、ホルムズ海峡近くのイラン標的を攻撃＝トランプ氏 topics.smt.docomo.ne.jp</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE95VmsxZGJXNWtzQlRSMy1hcTZSVmJIenNWRF9TT2lmQ0k2c21XZnhUcUk5aENac3EzeVU5Z1RWVDA0eVlWd2w5ZElQWGhoaGYyRjFUNm0tY3A5RVUybGdISjFNNGhKZ3RDczZ4cUlsbl81MERuYkxWQzlyTUdYZ9IBgwFBVV95cUxQVEViTk5lSVVtR21UVV9mc2xOekRwMndVTTNmSC1aU2dxTGRjU2tpaFFCWFZvemZHRXN6NFZjQVNDN1Ayc1FhWmFqZWl6STh1M1Y0Tm5IRzR6R0o1NHU1OXctQzUybVd1RFNhRy1RV1pna3U0RHhiMWJzZ2VCaEFkY2tLNA?oc=5</guid><pubDate>Tue, 01 Sep 2026 21:19:58 +0000</pubDate></item><item><title>ロシア財務相がアメリカでのG20参加で欧州側は反発</title><link>https://news.web.nhk/newsweb/na/nd-20260902de47720</link><description>[score: 0.888] アメリカで開かれたG20＝主要20か国の財務相・中央銀行総裁会議にロシアのシルアノフ財務相が出席し、ベッセント財務長官と会談しました。
-アメリカメディアによりますと、ロシアの財務相の対面での出席はウ…
-あわせて読みたい
-アメリカ10年債利回り4.8％に迫る世界的に長期金利が上昇
-9月2日 2:56
-日チェコ外相 協力促進へ5年間の行動計画に署名
-9月2日 2:06
-茂木外相 中東欧4か国外相と会合 国際秩序強化へ協力
-9月2日 2:03
-【随時更新】ロシア ウクライナに軍事侵攻（9月1日の動き）
-9月1日 22:03
-韓国 過去最大の予算案決定 原潜開発の予算も初計上
-9月1日 21:49
-上</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260902de47720</guid><pubDate>Tue, 01 Sep 2026 21:57:43 +0000</pubDate></item><item><title>AIネイティブ環境は「別物」だ　従来型ITと同じ発想で管理する危うさ</title><link>https://forbesjapan.com/articles/detail/103976?s=ns</link><description>[score: 0.889] エンタープライズAIは、より複雑な段階に入りつつある。AIを統合的なテクノロジートレンドとして捉える議論はなお多いが、その前提はますます危険になっている。CIOやCTOがテクノロジー戦略の次の段階を計画するにあたり、自分たちが実際には根本的に異なる3つのテクノロジー環境を管理していることを認識する必要があると私は考えている。それぞれに異なる運用モデル、ガバナンス、期待値が求められるからだ。
-こうした違いを早い段階で認識する組織は、不要なコストや運用リスクを回避しながら、AIによる生産性向上を取り込むうえではるかに有利な立場に立つことになる。
-出現した3つのテクノロジー環境
-今日の大半の企業は、</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103976?s=ns</guid><pubDate>Tue, 01 Sep 2026 22:44:24 +0000</pubDate></item><item><title>日米協調介入はアメリカの貿易赤字縮小に向けたドル高是正への切り札､日本の経済政策へのトランプ圧力はさらに強まる | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956484?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.890] 迷走を続けたトランプ米政権の経済政策がたどり着いた先が、先般実施された日米協調為替介入だったのではないか。
-トランプ政権が円安阻止に取り組む日本政府に協力したのは、貿易赤字を削減するという同政権の経済政策上の重要な目標を実現する狙いが大きかったと考えられる。ここで同政権発足以来、初めて日米の利害が一致したといえるだろう。
-米国の貿易赤字は他国からの押しつけ？
-トランプ大統領は、自由貿易や通貨で世界のリーダーであるというアメリカの地位を他国が逆手に取り、長年、同国に対して不利益を押し付けてきたと考えている。その不利益の象徴がアメリカの巨額の貿易赤字だ。他国の不公正な貿易慣行と、基軸通貨であるドル</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956484?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Tue, 01 Sep 2026 21:38:31 +0000</pubDate></item><item><title>【徳丸浩氏に聞く】Webサイトのサイバー被害を80%減らす「4つのセキュリティ対策」とは？</title><link>https://webtan.impress.co.jp/e/2026/09/02/53179</link><description>[score: 0.890] 「ランサムウェア被害」「AIによるサイバー攻撃」「WordPress改ざん」「個人情報流出」――。近年、連日のようにニュースを騒がせるサイバー攻撃の話題。中小企業やWebサイト運営者にとっても、もはやセキュリティ脅威は他人事ではない。 「最近企業への攻撃が増えているが、企業の頭文字がアルファベット順に狙われているのではないか」という都市伝説まで飛び出すほど、現場の危機感は高まっている。そこで、サイバー攻撃に詳しい、EGセキュアソリューションズ株式会社 取締役CTOの徳丸浩氏に話を聞いた。 EGセキュアソリューションズ株式会社 取締役CTO 徳丸浩氏 サイバー攻撃が巧妙化しても「基本」は変わらな</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/09/02/53179</guid><pubDate>Tue, 01 Sep 2026 22:23:02 +0000</pubDate></item><item><title>ＮＹ外為市場＝ドル上昇、米イラン緊張で原油高・インフレ懸念再燃 - jp.reuters.com</title><link>https://news.google.com/rss/articles/CBMieEFVX3lxTE81Z1BOc0tZNjcwVHM3N01Oc1ZLZzZaMHdGcHVTV1VmR1lCR19WMmszbVdMRE1XQnR1a25kNzQzRWxpUThfQWdzWDVTYmRFdHpfRkM3bml1aU4yX1ZUUUVTdXdPRDJnbDlnQ0laWVM0a2pGdEQzaFEyWg?oc=5</link><description>[score: 0.891] ＮＹ外為市場＝ドル上昇、米イラン緊張で原油高・インフレ懸念再燃 jp.reuters.com</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMieEFVX3lxTE81Z1BOc0tZNjcwVHM3N01Oc1ZLZzZaMHdGcHVTV1VmR1lCR19WMmszbVdMRE1XQnR1a25kNzQzRWxpUThfQWdzWDVTYmRFdHpfRkM3bml1aU4yX1ZUUUVTdXdPRDJnbDlnQ0laWVM0a2pGdEQzaFEyWg?oc=5</guid><pubDate>Tue, 01 Sep 2026 21:19:58 +0000</pubDate></item><item><title>G20は2日目の議論に 声明とりまとめに向けた調整も続く</title><link>https://news.web.nhk/newsweb/na/nd-20260902de47719</link><description>[score: 0.891] アメリカで行われているG20＝主要20か国の財務相・中央銀行総裁会議は、2日目の議論が行われ、貿易の不均衡などをテーマに意見が交わされたとみられます。
-アメリカのアッシュビルで行われているG20の…
-あわせて読みたい
-アメリカ10年債利回り4.8％に迫る世界的に長期金利が上昇
-9月2日 2:56
-日チェコ外相 協力促進へ5年間の行動計画に署名
-9月2日 2:06
-茂木外相 中東欧4か国外相と会合 国際秩序強化へ協力
-9月2日 2:03
-【随時更新】ロシア ウクライナに軍事侵攻（9月1日の動き）
-9月1日 22:03
-韓国 過去最大の予算案決定 原潜開発の予算も初計上
-9月1日 21:49
-上海</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260902de47719</guid><pubDate>Tue, 01 Sep 2026 21:57:43 +0000</pubDate></item><item><title>人材を巡る世界的競争が地政学的レースになりつつある理由</title><link>https://forbesjapan.com/articles/detail/103977?s=ns</link><description>[score: 0.892] 私たちは、分断に定義される時代に突入しつつある。地政学的な緊張が貿易関係を再構築している。戦略的競争は激化している。地域紛争は安定を揺るがし、これまでのグローバリゼーションの数十年を特徴づけていた相互接続性に比べ、経済安全保障や技術的主権がより重視されるようになっている。
-同時に、多くの先進国は、注目度ははるかに低いものの、同様に深刻な結末をもたらしかねない課題、すなわち人口減少に直面している。
-欧州、東アジア、北米の一部では、出生率が人口置換水準を下回る一方で、人口の高齢化が急速に進んでいる。国連の最新の世界人口推計によれば、多くの国で今後数十年にわたり生産年齢人口が縮小すると予測されており</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103977?s=ns</guid><pubDate>Tue, 01 Sep 2026 22:44:24 +0000</pubDate></item><item><title>インテル、AI利益を食いつぶす工場赤字3350億円と復活の条件</title><link>https://forbesjapan.com/articles/detail/103963?s=ns</link><description>[score: 0.895] インテルの株価は、過去1年間で278％上昇した。売上高の約8.2倍という現在の株価売上高倍率（PSR）は、同社自身の過去10年間で上位10％に位置する水準であり、工場が最終的に事業を食いつぶすのではなく、事業として利益を生む場合にのみ正当化されるバリュエーションだ。
-投資家が注視すべきは、これらの工場にかかる足元のコストだ。
-インテル・ファウンドリーが1四半期で失った約3350億円
-同社の製造部門であるインテル・ファウンドリーは、2026年第2四半期に売上高58億ドル（約9260億円）を計上し、営業損失は21億ドル（約3350億円）に達した。これは同じ四半期にデータセンターAI部門が生み出した</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103963?s=ns</guid><pubDate>Tue, 01 Sep 2026 22:44:24 +0000</pubDate></item><item><title>AI導入が過去最高に。「時間請求」ビジネスモデルに迫る終焉</title><link>https://forbesjapan.com/articles/detail/103978?s=ns</link><description>[score: 0.895] 今週発表された新しい調査によると、監査部門のリーダーの93%が何らかの形でAIを利用していると回答したものの、AI戦略を策定しているのはわずか38%にとどまった。ガートナーが743人の監査専門家を対象に実施した調査では、AIの利用は事前計画や草案作成といった個別の業務に集中しており、同社が言うところの「中程度の生産性向上」にとどまっていることが分かった。監査専門家の間でAIの導入は進んでいるものの、多くのチームがいまだにこの技術の価値を明確に定義し、伝えることに苦戦しているとアナリストは指摘している。
-法律業界の状況も同様だ。クリオ（Clio）が実施した、個人事務所および小規模事務所を対象とす</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103978?s=ns</guid><pubDate>Tue, 01 Sep 2026 22:44:24 +0000</pubDate></item><item><title>高リターン・低リスクのAI戦略を構築する方法</title><link>https://forbesjapan.com/articles/detail/103972?s=ns</link><description>[score: 0.896] 人工知能（AI）をめぐる当初の熱狂が落ち着きつつあるなか、企業はこれらのツールが現実の現場でどのように機能するのかをより厳密に見極め始めている。大手AI開発企業のテスト段階で最近発見されたセキュリティ上の脆弱性は、重要な現実を浮き彫りにした。適切なガードレールなしに拙速に進めれば、不必要なリスクを生むということだ。
-したがって、従業員や経営幹部がまだ信頼を築いている途上にあるのは理解できる。私の会社であるProsper Insights &amp; Analyticsの最近の調査によると、調査対象となった従業員の80%はエージェント型AIを良いアイデアだとは考えていない。一方、グローバル雇用企業G-P</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103972?s=ns</guid><pubDate>Tue, 01 Sep 2026 22:14:28 +0000</pubDate></item><item><title>AIエージェントのハッキング、報告書が見落とした「組織の失敗」</title><link>https://www.technologyreview.jp/s/389375/hugging-face-hack-could-indicate-cultural-issues-at-openai/</link><description>[score: 0.897] AIエージェントのハッキング、報告書が見落とした「組織の失敗」
-オープンAIが8月26日に公開した報告書は、AIエージェントの不正行動の技術的な原因を詳述している。だが、そこに企業文化への省察はほとんどない。訓練中の危険な兆候は5月に見つかっていた。問われているのは技術だけではない。 by Grace Huckins2026.09.02
-- この記事の3つのポイント
--
-- オープンAIのAIエージェントがサンドボックスを脱出しHugging Faceをハッキングした重大インシデント
-- 公開された38ページの技術報告書は技術的原因を詳述する一方、組織文化や人的要因の分析をほぼ欠いている
-- </description><guid isPermaLink="false">https://www.technologyreview.jp/s/389375/hugging-face-hack-could-indicate-cultural-issues-at-openai/</guid><pubDate>Tue, 01 Sep 2026 21:31:48 +0000</pubDate></item><item><title>America Can Still Lose the A.I. Race to Itself</title><link>https://dev.to/jonholman_/america-can-still-lose-the-ai-race-to-itself-1bf</link><description>[score: 0.899] At 5:21 p.m. Eastern on Friday, June 12, Anthropic received a United States government directive. By nightfall, two of the most capable artificial-intelligence models in the world had gone dark after a Commerce Department export-control directive prompted Anthropic to take them offline worldwide. Th</description><guid isPermaLink="false">https://dev.to/jonholman_/america-can-still-lose-the-ai-race-to-itself-1bf</guid><pubDate>Tue, 01 Sep 2026 21:44:51 +0000</pubDate></item><item><title>米国が6月合意の覚書に復帰なら「相互的措置」 イラン大統領</title><link>https://www.afpbb.com/articles/-/3650952</link><description>[score: 0.901] 米国が6月合意の覚書に復帰なら「相互的措置」 イラン大統領
-このニュースをシェア
-【9月1日 AFP】イランのマスード・ペゼシュキアン大統領は1日、ロシアのウラジーミル・プーチン大統領との首脳会談を前に、米イラン間の紛争終結を目指した6月の合意に米国が復帰するなら、イランも同様に対応すると述べた。
-イランとロシアの首脳は、欧米主導の権力構造に対抗する枠組みとしてロシアと中国が推進する上海協力機構（SCO）の首脳会議に合わせて、キルギスで会談する予定と報じられている。
-イラン大統領府の公式ウェブサイトによると、ペゼシュキアン氏は「米国が前述の覚書に基づく義務を履行するならば、イランも直ちに相互的</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3650952</guid><pubDate>Tue, 01 Sep 2026 22:35:19 +0000</pubDate></item><item><title>Claude Fable 5.1提供開始　セーフガード誤介入が大幅減、性能向上で半額以下のタスクも。「AIが科学の進歩に貢献する未来の先駆け」</title><link>https://www.techno-edge.net/article/2026/09/02/5454.html</link><description>[score: 0.916] Anthropicが新たなAIモデル「Claude Fable 5.1」の提供を開始しました。サイバーセキュリティ等の制限を緩和した上位版「Claude Mythos 5.1」も一部のパートナー組織に提供します。
-Anthropicいわく、Fable 5.1は「もっとも先進的なコーディング・知識労働向けモデル」。科学研究でFable 5やOpus 5にダブルスコアの高性能を示すなど各分野で性能を向上しつつ、トークン効率の改善とAPIの値下げでコストパフォーマンスも向上しました。
-￥221,800
-(価格・在庫状況は記事公開時点のものです)
-またFable 5で頻発した、サイバー攻撃やテロ等の準</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/09/02/5454.html</guid><pubDate>Tue, 01 Sep 2026 22:06:01 +0000</pubDate></item><item><title>Anthropic、「Claude Fable 5.1」と「Claude Mythos 5.1」発表　「監視の難しさ」への懸念も開示</title><link>https://www.itmedia.co.jp/news/article/2609/02/2000001048/</link><description>[score: 0.919] Anthropic、「Claude Fable 5.1」と「Claude Mythos 5.1」発表 「監視の難しさ」への懸念も開示
-米Anthropicは9月1日（現地時間）、大規模言語モデル「Claude Fable 5.1」と「Claude Mythos 5.1」を発表した。両者は同一のモデルで、適用されるセーフガードの水準だけが異なる。Fable 5.1は一般提供、Mythos 5.1はサイバーセキュリティとライフサイエンス分野の審査を通過した組織向けの限定提供となる。
-コーディングと科学研究で大幅向上
-エージェント型の科学研究ベンチマーク「Terminal-Bench-Science</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2609/02/2000001048/</guid><pubDate>Tue, 01 Sep 2026 22:35:57 +0000</pubDate></item></channel></rss>
+得点：805点 / 1000点（合</description><guid isPermaLink="false">https://qiita.com/hiroto15/items/5539b47e0f66518ee30a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 02 Sep 2026 08:22:51 +0000</pubDate></item><item><title>OpenClaw、大規模アップデートにより2.0に大きく進化</title><link>https://ai.watch.impress.co.jp/docs/news/2137386.html</link><description>[score: 0.905] ニュース
+OpenClaw、大規模アップデートにより2.0に大きく進化
+2026年9月1日 17:55
+オープンソースのAIエージェントソフト「OpenClaw」の最新バージョン「OpenClaw 2.0」が公開された。今回のアップデートによりインストールの簡素化から、メッセージング、メモリ、スキル、モデル、自動化、ブラウザおよびネイティブアプリ、プラグイン、セキュリティなどあらゆる部分に多くのアップデートが行なわれた。
+今回のアップデートでは、569名の新規参加者を含む933名の参加者によってアップデートが行なわれ、16,000件以上のプルリクエストで構成されている。リリースまでに7週間近く</description><guid isPermaLink="false">https://ai.watch.impress.co.jp/docs/news/2137386.html</guid><pubDate>Wed, 02 Sep 2026 01:48:53 +0000</pubDate></item><item><title>性能2倍で値段はそのまま! Claude Fable 5.1は何が変わったのか?</title><link>https://qiita.com/nolanlover0527/items/1c95e374a543ff357c13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.923] Claude Fable 5.1が公開
+2026年9月1日、AnthropicがAIモデル「Claude Fable 5.1」と「Claude Mythos 5.1」を発表しました。前のモデルであるFable 5から約3か月というスピード更新です。
+Fable 5.1とMythos 5.1は、Anthropicの説明によると同じ土台のモデルで、安全対策の強さが異なるだけの兄弟モデルとのこと。
+Fable 5.1はPro以上のプランを契約している場合に利用可能ですが、従量課金制となります。
+一方のMythos 5.1は、サイバーセキュリティや生命科学分野の専門家向けプログラムに登録した人だけが使</description><guid isPermaLink="false">https://qiita.com/nolanlover0527/items/1c95e374a543ff357c13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 02 Sep 2026 08:22:51 +0000</pubDate></item><item><title>OpenAIが次期主力AIモデル「Astra」の開発状況を報告</title><link>https://gigazine.net/news/20260902-path-to-astra/</link><description>[score: 0.923] OpenAIは次期主力AIモデルの「Astra」を開発中です。Astraは数学と理論計算機科学における10件の未解決課題について新たな成果を上げるなど、開発段階で既に優れたパフォーマンスを発揮していたのですが、OpenAIは「強力すぎる」としてAstraの開発が安全かつ確実に進むよう追加の管理措置を講じると発表しました。そんなAstraの最新の開発状況を、OpenAIが報告しています。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20260902-path-to-astra/</guid><pubDate>Wed, 02 Sep 2026 04:47:36 +0000</pubDate></item><item><title>【分析】米国民は「アメリカ湖」も対カナダ貿易戦争も大嫌い　最新世論調査</title><link>https://www.cnn.co.jp/usa/35252205.html</link><description>[score: 0.939] 大統領執務室でオンタリオ湖をアメリカ湖に改称する大統領令に署名するトランプ米大統領＝8月27日/Evan Vucci/Reuters （CNN） トランプ米大統領は、中間選挙を控える共和党議員らの前にまた一つ厄介な問題を投下した。 カナダとの新たな貿易戦争と、それに関連して米国とカナダにまたがるオンタリオ湖を「アメリカ湖」に改称しようとする動きは、相次ぐ不人気な行動の最新事例だ。 実際、新たな世論調査は、こうした動きがこれまでのトランプ氏による関税政策や名称変更の取り組みを上回る不人気ぶりであることを示している。 ここ数日に実施されたロイター通信とイプソスの世論調査は、トランプ氏とカナダの間で</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35252205.html</guid><pubDate>Wed, 02 Sep 2026 09:15:06 +0000</pubDate></item></channel></rss>
