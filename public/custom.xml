@@ -1,127 +1,78 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 02 Sep 2026 21:22:56 +0000</lastBuildDate><item><title>26卒エンジニアがAI時代に日本CTO協会の「新卒エンジニア合同研修」で学んだこと - ZOZO TECH BLOG</title><link>https://techblog.zozo.com/entry/cto-a-training-2026</link><description>[score: 0.879] 26卒エンジニアがAI時代に日本CTO協会の「新卒エンジニア合同研修」で学んだこと - ZOZO TECH BLOG はじめに こんにちは。技術戦略部CTOブロックのikkouです。ZOZOでは毎年、独自の新卒研修を実施しています。さらに昨年からは、日本CTO協会の新卒エンジニア合同研修にも参加しています。参加は任意として、興味を持つ研修を自身で選択できるようにしました。本年度は2名の新卒エンジニアが参加しました。本記事では参加...</description><guid isPermaLink="false">https://techblog.zozo.com/entry/cto-a-training-2026</guid><pubDate>Wed, 02 Sep 2026 15:29:34 +0000</pubDate></item><item><title>AIに必要な「ルールのルール」 - 🐴 (馬)</title><link>https://blog.takaumada.com/entry/agent-rule-of-rules</link><description>[score: 0.879] AIが文章やコードを速く作るようになればなるほど、人間によるレビューや決裁、品質保証といった、人間の意思決定がボトルネックになっていきます。その状況が続けば、企業はAIに人間への提案をさせるだけでなく、一定の条件の下で、判断と実行まで任せようとするでしょう。
-たとえば購買先を選んで発注したり、顧客への返金を認めたり、本番環境の異常を修復したりと、影響の小さいところから徐々に、AIに意思決定そのものを委託する段階へと進んでいくはずです。少なくともそうした方向に強いインセンティブが働くのではないか、と思います。
-では意思決定をしやすいよう、ルールでAIを縛れば良いかというと、後に見る OpenAI</description><guid isPermaLink="false">https://blog.takaumada.com/entry/agent-rule-of-rules</guid><pubDate>Wed, 02 Sep 2026 14:59:06 +0000</pubDate></item><item><title>LINEの便利機能が｢実質有料化｣されていく…｢1億人が使う業務連絡ツール｣にインスタ世代の若者が抱くホンネ</title><link>https://president.jp/articles/-/118313</link><description>[score: 0.880] LINEの便利機能が｢実質有料化｣されていく…｢1億人が使う業務連絡ツール｣にインスタ世代の若者が抱くホンネ 「LINEにAIなんて求めてない」 LINEは2025年末に月間利用者数が1億ユーザーを突破した。「国民的SNS」に成長したLINEにAI機能、ゲーム、ミニアプリなど続々と新しい機能が追加されている。ニュースやショッピングなど様々な機能があるが、若者はどう感じているのだろうか。 「LINEには、ただシンプルで使いやすくしてほ...</description><guid isPermaLink="false">https://president.jp/articles/-/118313</guid><pubDate>Wed, 02 Sep 2026 19:04:45 +0000</pubDate></item><item><title>委託業者が無断でAI利用か――ヨルシカ、ライブ映像上映会のチケットサンプル画像が文字化け　デザインにも影響</title><link>https://www.itmedia.co.jp/news/article/2609/02/2000001082/</link><description>[score: 0.881] 委託業者が無断でAI利用か――ヨルシカ、ライブ映像上映会のチケットサンプル画像が文字化け デザインにも影響 音楽ユニット「ヨルシカ」の公式Xは9月1日、ライブ映像作品「ヨルシカ LIVE『盗作』」のプレミアム上映会で配布するメモリアルチケットのサンプル画像に、Xの「AIで生成」ラベルが表示された件について経緯を説明した。告知用画像を提供した業者が「SAMPLE」の文字を加える際に生成AIを使ったことが原因という。チケット...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2609/02/2000001082/</guid><pubDate>Wed, 02 Sep 2026 20:29:57 +0000</pubDate></item><item><title>｢AI技術を国の経済成長の原動力に｣…エヌビディアCEO､G20各国にAIの導入加速を呼びかけ | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956699?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.882] 1/1 PAGES
-エヌビディアのジェンスン･フアン最高経営責任者（CEO）は2日､20カ国･地域（G20）に対し､経済成長を高める手段としてAIの導入を加速するよう呼びかけ､データセンターなどのインフラを拡充するよう促した。
-フアン氏は､米国がノースカロライナ州で開催したテクノロジー関連イベントで､｢全ての国が､自国経済を支えられるようインフラを構築する必要がある｣と述べたうえで､AIを水道や電力などの公益サービスになぞらえ､｢これは大いなる平等化をもたらすものだ｣と強調した。イベントは､G20議長国の米国が加盟国向けに開催した。
-この記事は有料会員限定です
-残り 1288文字</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956699?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Wed, 02 Sep 2026 18:55:59 +0000</pubDate></item><item><title>米NY市、公立校でのAI利用禁止へ 中学生以下対象</title><link>https://www.afpbb.com/articles/-/3651158</link><description>[score: 0.883] 米NY市、公立校でのAI利用禁止へ 中学生以下対象
-このニュースをシェア
-【9月2日 AFP】米ニューヨーク市では今後、市内の公立学校に通う中学2年生（第8学年）以下のすべての児童・生徒を対象に、学校での人工知能（AI）の使用を禁じる方針であることが分かった。米メディアの報道を受け、関係者が2日、AFPに確認した。
-教員や保護者はこれまで、子どもたちのメンタルヘルスや認知発達への悪影響、さらには環境破壊への懸念から、学校でのAI利用に警鐘を鳴らしていた。
-関係者によると、生徒によるAIの使用が許可されるのは、米国の一般的な高校に当たる第9学年以上となる。
-高校での利用に関しても、技術そのものに</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3651158</guid><pubDate>Wed, 02 Sep 2026 20:19:17 +0000</pubDate></item><item><title>働いて稼ぐより､資産に稼いでもらう時代に？財産所得が過去最高､｢資本を分配して格差是正｣という世界の潮流 | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956320?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.883] コンテンツブロックが有効であることを検知しました。
-このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
-なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956320?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Wed, 02 Sep 2026 21:15:02 +0000</pubDate></item><item><title>Claude Desktopに２つ目のSlackワークスペースをつなぐ</title><link>https://qiita.com/moritalous/items/fa8e5e0c4a784103b8c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] 全編人力で書いております！
-Claude Desktopで、2つのSlackワークスペースつなぎたくないですか？
-デフォルト機能だと、ひとつのワークスペースしか繋がらなかった気がしたので、試行錯誤したらなんとなくできましたので、手順を共有します！
-やったらできた レベルですので、個人の責任で実施ください
-Slackワークスペースにアプリを作成する
--
-https://api.slack.com/apps にアクセスする
--
-「Blank app」を選択して「Continue」をクリックする
--
-左メニューの「Agents」を選択して「Slack MCP Server」にチェックを入れる
--
-左</description><guid isPermaLink="false">https://qiita.com/moritalous/items/fa8e5e0c4a784103b8c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 02 Sep 2026 20:24:28 +0000</pubDate></item><item><title>トークン2000分の1——オントロジー×ナレッジグラフでClaude Codeの推測を消す</title><link>https://zenn.dev/helloworld/articles/bcaea69f58eae5</link><description>[score: 0.884] Claude Codeはコードの全体像を持ってない。聞くたびにファイルを読んで、関係を推測して答えを組み立ててる。 コードの構造をナレッジグラフにしてClaude Codeに渡す。使うのは4つのOSSツール: code-review-graph / better-code-review-graph — 依存関係をグラフ化。意味検索やレビューに使う Graphify — コード・設計書・画像を横断するナレッジグラフ Serena — 言語サーバー経由で型や定義元をピンポイントで返してくれる 推測がなくなる。レビュー用コンテキストは14万トークンから70に。日本語の質問で英語の関数...</description><guid isPermaLink="false">https://zenn.dev/helloworld/articles/bcaea69f58eae5</guid><pubDate>Wed, 02 Sep 2026 12:19:48 +0000</pubDate></item><item><title>米長期債利回り上昇、インフレ懸念でなく堅調な経済の反映＝ＮＹ連銀総裁 - ロイター</title><link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPNmlPZTh0aUVzelNrcldmc0YyM3VVNlJtcWk4Wk9hbDhpdURMdlRCaG1hUXVsTFk4MjVuWkJjWGk4M2o5S0V5RUF6VXNWUXgxc2dDTGR3dnVfVlFSUGo1RWJWWWlhZlVGcmpGVzZSWmt6Qjk0ZEM4ZVJLWGczeUI5cQ?oc=5</link><description>[score: 0.885] 米長期債利回り上昇、インフレ懸念でなく堅調な経済の反映＝ＮＹ連銀総裁 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMigAFBVV95cUxPNmlPZTh0aUVzelNrcldmc0YyM3VVNlJtcWk4Wk9hbDhpdURMdlRCaG1hUXVsTFk4MjVuWkJjWGk4M2o5S0V5RUF6VXNWUXgxc2dDTGR3dnVfVlFSUGo1RWJWWWlhZlVGcmpGVzZSWmt6Qjk0ZEM4ZVJLWGczeUI5cQ?oc=5</guid><pubDate>Wed, 02 Sep 2026 16:10:40 +0000</pubDate></item><item><title>年金｢月15万円｣が｢月27万6千円｣に84％UP！知っている人だけがトクできる"受給開始時期"のカラクリ | キャリア・教育 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/955071?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.885] コンテンツブロックが有効であることを検知しました。
-このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
-なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/955071?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Wed, 02 Sep 2026 20:54:51 +0000</pubDate></item><item><title>〈あえて互換性を崩した〉電子部品実装機がAIサーバー需要にハマった…脱スマホ銘柄のFUJIが全方位で備える"大波の次" | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956321?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.885] ――第1四半期の受注高は857億円と、前年同期の2倍を超えました。ここまで受注が膨らんでいる要因は。
-最大の要因は、何といってもAIサーバー向けがものすごく強いことだ。アメリカのハイパースケーラーの投資意欲は非常に強く、主要顧客である台湾や米系の大手EMS（電子機器の受託製造サービス）からも、ネガティブな声はまず聞こえてこない。
-顧客の裾野も広がっている。サーバー向けの受注は前年の第3四半期ごろから本格化したが、当初はインドでの投資が先行していた。それが今ではベトナム、マレーシア、台湾、北米、中国へと広がって、設備投資に動くお客様がどんどん増えている。
-――AIサーバー向けの需要拡大は2年目に</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956321?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Wed, 02 Sep 2026 21:15:02 +0000</pubDate></item><item><title>製薬企業が震え上がるトランプ大統領の最恵国待遇（MFN）､バイエル薬品の元会長が解き明かす｢日本の勝ち筋｣ | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956192?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.886] 【製薬 地盤沈下】特集の3本目は、元バイエル薬品会長でアメリカの製薬企業や薬価政策に詳しい、アメリカ在住の栄木憲和氏にウェブで話を聞いた。
-――米トランプ大統領によるMFN政策について解説してほしいという依頼が増えているそうですね。
-多くの製薬企業、そのほかの団体から質問が寄せられ、コメントを求められている。彼らと話をしていると、MFNについて多くの誤解があることに気づかされる。
-――誤解とは？
-日本の薬価をアメリカ並みに上げなければドラッグロス、ドラッグラグが加速するとか、日本の薬価を上げればすべて解決できるとか。かなり単純な議論がまかり通っている。
-この記事は有料会員限定です
-残り 465</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956192?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Wed, 02 Sep 2026 21:04:01 +0000</pubDate></item><item><title>【AgentCore Memory】「何かおかしい。なんとなくそんな気がした」〜AIエージェントはエンドレスエイトに既視感を抱けるのか〜</title><link>https://qiita.com/ryu-ki/items/6037ba9456b345a019c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.888] 本記事は「涼宮ハルヒの憂鬱」に関する禁則事項（ネタバレ）を含みます。閲覧は自己責任でお願いします。
-この記事は「2026 Japan AWS Jr. Champions 真夏のQiitaリレー」の33日目の記事となります。
-過去の投稿（リンク集）・昨日の投稿は以下リンクからご覧ください。
-はじめに
-みなさん、本日は何月何日でしょうか？
-9月2日をお過ごしでしょうか？
-無事に9月2日を迎えられているなら、あなたの夏休みはちゃんと終わっています。世界によっては、8月31日の夜が明けると8月17日の朝に戻っていることがあります。
-「涼宮ハルヒの憂鬱」のエンドレスエイトです。繰り返される夏休みの中で、</description><guid isPermaLink="false">https://qiita.com/ryu-ki/items/6037ba9456b345a019c1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 02 Sep 2026 20:24:28 +0000</pubDate></item><item><title>円相場一時1ドル＝158円台前半に上昇　日銀利上げ観測強まる中</title><link>https://news.web.nhk/newsweb/na/nd-20260903de47883</link><description>[score: 0.888] 2日のニューヨーク外国為替市場ではドルを売って円を買う動きが急激に進む場面があり、円相場は一時、1ドル＝158円台前半まで値上がりしました。
-日銀による利上げのペースが速まるのではないかとの観測が出…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 02 Sep 2026 23:09:35 +0000</lastBuildDate><item><title>生鮮ジャガイモ輸入解禁　農水省検討　トランプ政権圧力か　病害虫に農家反発</title><link>https://news.tv-asahi.co.jp/news_politics/articles/900198609.html</link><description>[score: 0.875] 2
+生鮮ジャガイモの輸入解禁について、農水省が検討を進めています。全国の産地からは、外から病害虫が入り込んでしまうと反対の声が相次いでいます。
+“努力が無駄に”病害虫の懸念
+全国屈指のジャガイモ生産地・北海道。農家を訪ねるとまず渡されたのは、ジャガイモを守るための「袋」でした。
+ジャガイモ農家 黒河潤さん
+「どこから来ているか分からないので、靴の裏によその土が付いて、土壌病害虫が入らないように皆にしてもらっている」
+「どこから来ているか分からないので、靴の裏によその土が付いて、土壌病害虫が入らないように皆にしてもらっている」
+4.5ヘクタールの土地で栽培をしている黒河さん。出荷の際に使ったトラ</description><guid isPermaLink="false">https://news.tv-asahi.co.jp/news_politics/articles/900198609.html</guid><pubDate>Wed, 02 Sep 2026 22:58:46 +0000</pubDate></item><item><title>自転車の青切符ってどうなの？ 車道走行は拡大しているが道路環境に強い不満と不安【ネオマーケティング調べ】</title><link>https://webtan.impress.co.jp/n/2026/09/03/53233</link><description>[score: 0.876] 自転車の青切符ってどうなの？ 車道走行は拡大しているが道路環境に強い不満と不安【ネオマーケティング調べ】 「車道」が最多も、半数超が歩道を走行。 atomik 2026年9月3日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 ネオマーケティングは、「自転車の交通ルール改正」に関する調査結果を発表した。2026年4月から導入された「自転車の青切符（反則金制度）」について、全国16歳以上の男女・月1回以上自転車に乗る1000人が回答している。 関連記事 自転車の「歩道走行禁止」守れる？ 青切符制度で約7割が不安視【アイディエーション調べ】 「現金はいらない！」PayPayと</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/09/03/53233</guid><pubDate>Wed, 02 Sep 2026 21:59:14 +0000</pubDate></item><item><title>製造業における「ファジング」の重要性――ITと製品のセキュリティで何が違うのか</title><link>https://monoist.itmedia.co.jp/mn/articles/2609/03/news013.html</link><description>[score: 0.876] 近年「製品セキュリティ」と呼ばれ始めたセキュリティの新分野に関する事象を紹介し考察する本連載。今回は、製造業のセキュリティ対策で重要性を増す「ファジング」について整理した後、ITセキュリティと製品セキュリティの違いを解説する。
+ファジングは、2010年前後にIPA（情報処理推進機構）などを通じて国内でも注目されたテスト手法である。しかし、当時のITセキュリティの主戦場はWebアプリケーションであり、ファジングは一時的なブームの後、一般的なセキュリティ対策の中心からはやや外れていった。
+ところが2020年代に入り、自動車、産業機器、医療機器、家電、ロボットなど、さまざまな製品がネットワークやセン</description><guid isPermaLink="false">https://monoist.itmedia.co.jp/mn/articles/2609/03/news013.html</guid><pubDate>Wed, 02 Sep 2026 22:46:40 +0000</pubDate></item><item><title>Macアプリ開発者に「インテル対応終了可能」通知。Appleシリコン未対応には「すぐ移行開始」呼びかけも</title><link>https://www.techno-edge.net/article/2026/09/03/5459.html</link><description>[score: 0.877] アップルは2026年9月2日、Mac App Storeに登録するアプリ開発者に対し、インテルMacへの対応を終了可能になったことを告知しました。
+あわせて公開されたサポート資料では、macOS 28以降はインテル向けのアプリが起動できなくなることが明記されており、2020年に始まったAppleシリコンへの移行も大詰めとなりつつあります。
+アップルは2020年11月に発売したMacBook Air・Mac mini・13インチMacBook Proを皮切りに、それまで約20年に渡りMacラインナップを支えたインテル製チップから、自社製のAppleシリコンへの移行を開始しました。
+その後、201</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/09/03/5459.html</guid><pubDate>Wed, 02 Sep 2026 21:30:37 +0000</pubDate></item><item><title>東北新幹線 運転見合わせ 那須塩原～盛岡の上下線</title><link>https://news.web.nhk/newsweb/na/nd-20260903de47895</link><description>[score: 0.878] JR東日本によりますと、東北新幹線は保守用車が故障している影響で、那須塩原駅と盛岡駅の間の上下線で運転を見合わせています。運転再開は午前8時20分ごろを見込んでいるということです。
 あわせて読みたい
-長期金利 一時3.015％まで上昇 インフレ懸念高まる
-9月2日 22:40
-円相場 小幅に値上がり
-9月2日 18:28
-台風24号 4日にかけて沖縄・奄美に接近 土砂災害など十分注意
-9月2日 19:40
+前線活発化 秋田で非常に激しい雨 広い範囲で大雨続くおそれ
+9月3日 7:51
+【大雨】青森市やむつ市 県道で土砂崩れや住宅浸水の被害
+9月3日 7:22
+青森市 一部地域に避難指示 内真部川が氾濫のおそれ
+9月3日 5:34
+青森 五所川原 一部地域に緊急安全確保 川の堤防決壊のおそれ
+9月3日 7:03
+石川 志賀町 全域に高齢者等避難の情報
+9月3日 7:30
+高市首相 党役員人事と内閣改造</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260903de47895</guid><pubDate>Wed, 02 Sep 2026 23:03:41 +0000</pubDate></item><item><title>ベネチア国際映画祭開幕 最優秀賞競う部門に日本の2作品</title><link>https://news.web.nhk/newsweb/na/nd-20260903de47885</link><description>[score: 0.878] 世界3大映画祭の1つ、ベネチア国際映画祭がイタリアで開幕し、最優秀賞を競う部門に日本からは是枝裕和監督と塚本晋也監督の合わせて2つの作品が出品されています。
+ことしで83回目を迎えるベネチア国際映…
+注目ワード
+あわせて読みたい
+戦場で“人を殺す”ということ 塚本晋也監督の描く戦争
+9月1日 19:31
+よみがえる法隆寺の至宝 ～金堂壁画・完全復元に挑む～
+8月30日 14:36
+新聞協会賞にNHKスペシャル「ヒグマ」など6作品
+9月2日 18:27
 台風と前線影響 西・東日本は3日から大雨に 長引くおそれも
 9月3日 2:17
-上皇さまの意向受け 将来の葬儀の規模大幅縮小へ
-9月2日 19:00
-ネパール土石流 発生</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260903de47883</guid><pubDate>Wed, 02 Sep 2026 18:38:03 +0000</pubDate></item><item><title>高市首相 党役員人事と内閣改造 再来週にも踏み切るとの見方も</title><link>https://news.web.nhk/newsweb/na/nd-20260903de47879</link><description>[score: 0.889] 自民党の役員人事と内閣改造をめぐり、政府・与党内では食料品の消費税減税に関する税制改正大綱を決定したあと、再来週にも高市総理大臣が人事に踏み切るのではないかという見方が出ています。党役員人事では麻生副…
-あわせて読みたい
-維新 馬場前代表“維新入閣 既定路線 ポストは高市首相判断”
-8月27日 11:29
-野党の"軸"はどこに？
-9月1日 13:26
-全国知事会 所得連動給付などの地方負担“国は丁寧に協議を”
-9月2日 17:38
-台風24号 4日にかけて沖縄・奄美に接近 土砂災害など十分注意
-9月2日 19:40
-台風と前線影響 西・東日本は3日から大雨に 長引くおそれも
-9月3日 2:17</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260903de47879</guid><pubDate>Wed, 02 Sep 2026 20:08:10 +0000</pubDate></item><item><title>ネパール土石流 1200人以上死亡 首相は気候変動対策を訴え</title><link>https://news.web.nhk/newsweb/na/nd-20260903de47884</link><description>[score: 0.889] ネパールと中国の国境付近で起きた大規模な土石流で、これまでに1200人以上が死亡し、4700人以上の行方が分からなくなっています。ネパールのシャー首相は2日、議会で、気候変動による災害のリスクが高まっ…
-あわせて読みたい
-ネパール土石流 発生から1週間 避難所の衛生状態維持も課題に
-9月2日 22:23
-「命拾いしたけど、複雑な心境」 土石流逃れた日本人は
-9月1日 11:52
-“結婚式への米軍攻撃”イランが周辺国の米軍基地に報復攻撃
-9月2日 18:54
-アメリカはイランの目標を攻撃 イランは“報復”
-9月2日 12:43
-米ベッセント財務長官 イランへの制裁 中国の対応見極める考え
-9月2</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260903de47884</guid><pubDate>Wed, 02 Sep 2026 20:36:57 +0000</pubDate></item><item><title>コンゴ民主共和国でエボラ出血熱の死者3000人超える</title><link>https://news.web.nhk/newsweb/na/nd-20260903de47881</link><description>[score: 0.889] アフリカ中部、コンゴ民主共和国で感染が拡大しているエボラ出血熱について、保健当局は死者が3000人を超えたと発表しました。
-コンゴ民主共和国ではことし5月以降、北東部イトゥリ州を中心にエボラ出血熱…
-あわせて読みたい
-“結婚式への米軍攻撃”イランが周辺国の米軍基地に報復攻撃
-9月2日 18:54
-アメリカはイランの目標を攻撃 イランは“報復”
-9月2日 12:43
-米ベッセント財務長官 イランへの制裁 中国の対応見極める考え
-9月2日 12:06
-ネパール土石流 発生から1週間 避難所の衛生状態維持も課題に
-9月2日 22:23
-香港の民主活動家 黄之鋒氏、別の罪も認め収監長引くか
-9月2日 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260903de47881</guid><pubDate>Wed, 02 Sep 2026 20:08:10 +0000</pubDate></item><item><title>原油先物1％高、米イラン攻撃再開で供給懸念高まる（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5KRGRrdlgyNnQ3ejdlR2lacW1XSkRodmhiVDlhZENrZHdEZmNIRUdkQi1EOTUxUDJKQzZFTjFPeF9UeFFiejNaZXNJVm1zcjZBVzFCWlBVeU9ER1hLcG9sNVN2R2hGQV9FSTZ3TVR6VjVsQ3ZnLXQtX1M1cW9fNG8?oc=5</link><description>[score: 0.890] 原油先物1％高、米イラン攻撃再開で供給懸念高まる（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE5KRGRrdlgyNnQ3ejdlR2lacW1XSkRodmhiVDlhZENrZHdEZmNIRUdkQi1EOTUxUDJKQzZFTjFPeF9UeFFiejNaZXNJVm1zcjZBVzFCWlBVeU9ER1hLcG9sNVN2R2hGQV9FSTZ3TVR6VjVsQ3ZnLXQtX1M1cW9fNG8?oc=5</guid><pubDate>Wed, 02 Sep 2026 21:08:19 +0000</pubDate></item><item><title>なのにあなたはKindleで買うの？　Google Play Booksで買った本をGemini Notebookにぶち込めてAI対話できる新機能登場（生成AIクローズアップ） | テクノエッジ TechnoEdge</title><link>https://www.techno-edge.net/article/2026/08/31/5446.html</link><description>[score: 0.891] なのにあなたはKindleで買うの？ Google Play Booksで買った本をGemini Notebookにぶち込めてAI対話できる新機能登場（生成AIクローズアップ） | テクノエッジ TechnoEdge 1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。 今回は、Googleが発表した、購... tmatsuu 意外なアプローチきたな。日本語の書籍も対象に含まれているんだろうか。</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/08/31/5446.html</guid><pubDate>Wed, 02 Sep 2026 15:40:42 +0000</pubDate></item><item><title>アメリカ中間選挙まで2か月 共和・民主の選挙戦さらに激しく</title><link>https://news.web.nhk/newsweb/na/nd-20260903de47876</link><description>[score: 0.895] トランプ政権に対する有権者の評価が事実上示されるアメリカの中間選挙まであと2か月となります。イラン情勢や物価高などを背景に支持率が低迷する中、トランプ大統領は野党・民主党への批判を強めていて、選挙戦は…
-あわせて読みたい
-習主席「域外大国は主権の尊重を」イラン情勢めぐり米けん制
-9月3日 3:04
-ネパール土石流 1200人以上死亡 首相は気候変動対策を訴え
-9月3日 5:29
-アメリカはイランの目標を攻撃 イランは“報復”
-9月2日 12:43
-“結婚式への米軍攻撃”イランが周辺国の米軍基地に報復攻撃
-9月2日 18:54
-米ベッセント財務長官 イランへの制裁 中国の対応見極める考え
-9月2</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260903de47876</guid><pubDate>Wed, 02 Sep 2026 21:05:56 +0000</pubDate></item><item><title>OpenAI、次世代AIモデル「Astra」はまもなく　今後は「ペースを落とす」</title><link>https://www.watch.impress.co.jp/docs/news/2137743.html</link><description>[score: 0.895] ニュース
-OpenAI、次世代AIモデル「Astra」はまもなく 今後は「ペースを落とす」
-2026年9月2日 20:00
-OpenAIは1日(米国時間)、次世代AIモデルとなる「Astra」を“まもなく”公開すると発表した。
-Astraは、OpenAIの次期主要モデルのコードネームで、8月には、高い数学的能力を示し、10年以上の間進展しなかった数学問題を解決したことなどを報告。その際もまもなく提供としていたが、その後、非常に高いサイバー攻撃能力が社内の安全ガイドラインを超える可能性があるとして、安全対策を重視し、慎重にリリースすると表明していた。
-そのため、安全性を最優先とし、リリースに向け</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2137743.html</guid><pubDate>Wed, 02 Sep 2026 11:03:59 +0000</pubDate></item><item><title>ECS デプロイパイプラインと構成管理を GitHub Actionsと ecspresso に移行しました</title><link>https://zenn.dev/mybest_dev/articles/2cd71bc64ad380</link><description>[score: 0.895] ECS デプロイパイプラインと構成管理を GitHub Actionsと ecspresso に移行しました マイベスト1人目の専任 SRE の秋吉です。ポメラニアンと暮らしています。 概要 マイベストでは、ステージング環境を含めて100個弱の ECS サービスを運用しています。これまで ECS の構成管理とデプロイは、CodePipeline / CodeBuild / CodeDeploy / 独自シェルスクリプトなどを組み合わせた複雑な仕組みで実現していまし...</description><guid isPermaLink="false">https://zenn.dev/mybest_dev/articles/2cd71bc64ad380</guid><pubDate>Wed, 02 Sep 2026 20:19:17 +0000</pubDate></item><item><title>トランプ氏、新たな対イラン軍事作戦「長く続かず」 必要なら追加攻撃（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE0yQ3VseGFRcTN5UHdDVTF2aGhlQjdXbGs2NkJYV2IxT3R3Q2l2LWRFQVNCcE1ncnc2MS1qT2dHU19MX29RMktLM3FzR09fSDBhVVdPR3IyLVNUdnhVMWZ1S01kUHFQR2NablNTMnY2OEZKLV9Ud2oyOEFtOWVrT28?oc=5</link><description>[score: 0.902] トランプ氏、新たな対イラン軍事作戦「長く続かず」 必要なら追加攻撃（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE0yQ3VseGFRcTN5UHdDVTF2aGhlQjdXbGs2NkJYV2IxT3R3Q2l2LWRFQVNCcE1ncnc2MS1qT2dHU19MX29RMktLM3FzR09fSDBhVVdPR3IyLVNUdnhVMWZ1S01kUHFQR2NablNTMnY2OEZKLV9Ud2oyOEFtOWVrT28?oc=5</guid><pubDate>Wed, 02 Sep 2026 21:08:19 +0000</pubDate></item><item><title>信頼できるAI基盤の実証 — オフライン閉域環境でAIは組織の右腕になれるか — | デジタル人材の育成 | IPA 独立行政法人 情報処理推進機構</title><link>https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2026/pm_ai.html</link><description>[score: 0.904] 信頼できるAI基盤の実証 — オフライン閉域環境でAIは組織の右腕になれるか — | デジタル人材の育成 | IPA 独立行政法人 情報処理推進機構 プロジェクトの背景 近年、多くの企業で生成AIの業務利用が広がる一方、情報漏えいや誤情報などへの懸念から、利用を制限・禁止する動きが見られます。しかし、業務効率化への期待は大きく、組織の管理が及ばない「シャドーAI」の発生を招くなど、別の管理上の課題も生じています。 こうした状況は、組織がAIのリスクや...</description><guid isPermaLink="false">https://www.ipa.go.jp/jinzai/ics/core_human_resource/final_project/2026/pm_ai.html</guid><pubDate>Wed, 02 Sep 2026 21:00:35 +0000</pubDate></item><item><title>Anthropic、「Claude Fable 5.1」「Claude Mythos 5.1」を発表 ～性能をさらに向上／実質値下げの側面も、エージェントでは最大45％減、両モデルの違いはセーフガード水準のみ</title><link>https://forest.watch.impress.co.jp/docs/news/2137456.html</link><description>[score: 0.904] ニュース
-Anthropic、「Claude Fable 5.1」「Claude Mythos 5.1」を発表 ～性能をさらに向上
-実質値下げの側面も、エージェントでは最大45％減、両モデルの違いはセーフガード水準のみ
-2026年9月2日 08:13
-米Anthropicは9月1日（現地時間、以下同）、AIモデル「Claude Fable 5.1」「Claude Mythos 5.1」を発表した。コーディングと知識労働において世界最高性能をうたうモデルで、「Fable 5.1」は同日よりすべてのプラットフォームで利用できる。
-We’re introducing Claude Fable 5.1</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2137456.html</guid><pubDate>Wed, 02 Sep 2026 12:44:21 +0000</pubDate></item><item><title>Claude Fable 5.1、API仕様変更で違法蒸留の対策を強化</title><link>https://pc.watch.impress.co.jp/docs/news/2137479.html</link><description>[score: 0.905] ニュース
-Claude Fable 5.1、API仕様変更で違法蒸留の対策を強化
-2026年9月2日 11:18
-科学研究スコアで従来の「Fable 5」の2倍を記録した新モデル「Fable 5.1」が本日より利用可能になった。一方、こうした高度なAIモデルから知識を抽出してほかのモデルに載せる「違法蒸留」も課題となっている。Anthropicは9月1日(米国時間)、最新のAIモデル「Claude Fable 5.1」において、蒸留攻撃によるモデルの不正な学習を防止するため、メッセージAPIにおける思考ブロックの処理仕様を変更したと発表した。
-これまで複数ターンの会話では、前回の思考ブロックを</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2137479.html</guid><pubDate>Wed, 02 Sep 2026 18:45:44 +0000</pubDate></item><item><title>五大湖オンタリオ湖を「アメリカ湖」支持14％ 米国民、大半が改称反対 ロイター調査 - 産経ニュース</title><link>https://news.google.com/rss/articles/CBMidkFVX3lxTE9fQy1FMVlpN2tCVGtjVzMwd0pYRU5UbldWelVmMDRiVW05M2hmcEtnc2QzWTVmMHZVRE84aE51U3pCaHdkV1hGaWw0LWdLQm1zVVI0dUVCT0I1NU9yN1NhSThFUFUzTC1kWEpCNWJQbjRkZTZfMnc?oc=5</link><description>[score: 0.912] 五大湖オンタリオ湖を「アメリカ湖」支持14％ 米国民、大半が改称反対 ロイター調査 産経ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTE9fQy1FMVlpN2tCVGtjVzMwd0pYRU5UbldWelVmMDRiVW05M2hmcEtnc2QzWTVmMHZVRE84aE51U3pCaHdkV1hGaWw0LWdLQm1zVVI0dUVCT0I1NU9yN1NhSThFUFUzTC1kWEpCNWJQbjRkZTZfMnc?oc=5</guid><pubDate>Wed, 02 Sep 2026 18:10:13 +0000</pubDate></item><item><title>官僚機構を「守る組織」から「学習する組織」へ ― 日本の行政をアップデートするリファクタリング : システム設計視点の行動経済学 (24)</title><link>https://qiita.com/maskot1977/items/54634f3d875fd3e4f452?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.917] 「システム設計視点の行動経済学」、第24回を始めましょう。今回は「官僚の役割」を深掘りしたいと思います。その前に、まず前回の復習として、
-野党は何のためにあるのか？ ― 政権交代と政策改善から考える日本経済 : システム設計視点の行動経済学 (23)
-https://qiita.com/maskot1977/items/170b23b7b2738975f021
-をよく読み込んで、システム設計と行動経済学の視点を交えながらその内容の復習をしてください。ここで導き出されていた結論やキーメッセージも示してください
-Gemini:
-「システム設計視点の行動経済学」第24回「官僚の役割」の開始にあたり、</description><guid isPermaLink="false">https://qiita.com/maskot1977/items/54634f3d875fd3e4f452?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 02 Sep 2026 20:24:28 +0000</pubDate></item><item><title>〈迫る地殻変動〉｢楽天内製化｣だけじゃない！広告業界を襲う激変期"3つの焦点"　AI時代に生き残る広告会社とは？ | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956448?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.926] 「デジタルマーケティングの定義そのものがアップデートされた」「マスメディアからデジタルへシフトしたときと同じくらい、タフな変化が起きている」
-SNSや動画配信サービス経由で拡大を続けるネット広告。その最前線を走る各社首脳陣からは今、「産業の地殻変動」をうかがわせる声が相次いでいる。
-2025年のネット広告市場は4兆0459億円（前年比10.8%増）と右肩上がりで成長。今や、テレビ、ラジオ、新聞、雑誌の「4マス広告」の倍に迫る規模に到達した。
-そんな我が世の春を謳歌する市場に昨年、衝撃が走った。国内有数の大口顧客である楽天グループが打ち出した、ネット広告運用の大規模な「内製化（インハウス化）」だ</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956448?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Wed, 02 Sep 2026 20:45:39 +0000</pubDate></item></channel></rss>
+高市首相 党役員人事と内閣改造 再来週にも踏み切るとの見方も
+9</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260903de47885</guid><pubDate>Wed, 02 Sep 2026 22:04:17 +0000</pubDate></item><item><title>幸福度が高い人は何にお金を使うのか　 1000人調査で見えた「幸せ」と消費の関係</title><link>https://forbesjapan.com/articles/detail/103808?s=ns</link><description>[score: 0.879] 近年「ウェルビーイング（精神的・身体的・社会的な幸福）」への関心が高まる一方、物価高や将来への経済不安などを背景に、人々のお金の使い方も変化している。では日々の幸福度と消費スタイルには、どのような関係があるのだろうか。
+マーケティングリサーチ会社のアスマークは、全国の20歳以上の男女1000人を対象に「日本人の幸福度と消費スタイル・消費意識の関係」を調査。その結果、興味深い幸福と消費の関係性が見えてきた。調査では生活や意識に関する複数の質問への回答を点数化し、その合計値をもとに回答者をおおむね均等になるよう幸福度H（High）・M（Middle）・L（Low）の3層に分類。それぞれの消費スタイ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103808?s=ns</guid><pubDate>Wed, 02 Sep 2026 22:30:04 +0000</pubDate></item><item><title>上司が会議中に突然ブチギレて退席し、コンビニでスーパードライの500ml缶と手巻き寿司を買って戻ってきて1人で酒宴を始めたことがあった</title><link>https://togetter.com/li/2740487</link><description>[score: 0.879] 兎に角
+@to2kaku
+上司が会議中に突然ブチギレて、退席してコンビニでスーパードライの500缶と手巻き寿司を買って戻ってきて1人で酒宴を始めたことがあったのを思い出した。あれ本当に何だったんだろう
+2026-09-01 22:32:12
+兎に角
+@to2kaku
+過去の職場のキチガイエピソードを開陳すると毎回反響があるけど、働き方改革以前の職場はみんな薄っすら気が触れてて、楽しかったんですよね。客先に軟禁されて12時間続く会議とか、流石にないもんな今は
+2026-09-02 18:05:54会議中に突然ブチギレてお酒と手巻き寿司を買ってきた上司
+13冊28万部著者 岡崎かつひろ
+@zaki</description><guid isPermaLink="false">https://togetter.com/li/2740487</guid><pubDate>Wed, 02 Sep 2026 22:18:11 +0000</pubDate></item><item><title>前線活発化 秋田で非常に激しい雨 広い範囲で大雨続くおそれ</title><link>https://news.web.nhk/newsweb/na/nd-20260903de47887</link><description>[score: 0.879] 秋雨前線の影響で東北や北陸に発達した雨雲がかかっています。このあと前線は次第に南下し、台風24号が湿った空気を運んでくることから、今後数日は広い範囲で大雨が続くおそれがあります。気象庁は 「大雨になり…
+【最新の河川情報】こちらから一覧でご覧になれます
+【気象警報・注意報】各地の発表状況を詳しく
+土砂災害マップ【NHK】現在の危険度をリアルタイム表示
+「命を守る行動を！」特別警報に緊急安全確保…どうすれば
+土砂災害 警戒や避難のポイントは？
+川の氾濫 警戒のポイントは？
+線状降水帯とは？情報が出たらどうする？
+「記録的短時間大雨」とは? どう身を守る?
+戦場で“人を殺す”ということ 塚本晋也監</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260903de47887</guid><pubDate>Wed, 02 Sep 2026 21:34:40 +0000</pubDate></item><item><title>バークシャーＣＥＯ、ＡＩによる事業機会に期待 日本商社株「何十年も」保有姿勢 - ロイター</title><link>https://news.google.com/rss/articles/CBMidkFVX3lxTFBrSDEyOTBVQWlUdHJDZkdZcVJlRVNlYXoyek5Kai1IZHdjb3dtT3N2SjZBbkM5VDNid0ktSWRZYXctVGw2QTA0Z01Jbk1LNVNwV2EtUjZHbktzbzFGaTBiRGE0TWt3X2Jhc1FQOHF6bk1zRXZnSFE?oc=5</link><description>[score: 0.880] バークシャーＣＥＯ、ＡＩによる事業機会に期待 日本商社株「何十年も」保有姿勢 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTFBrSDEyOTBVQWlUdHJDZkdZcVJlRVNlYXoyek5Kai1IZHdjb3dtT3N2SjZBbkM5VDNid0ktSWRZYXctVGw2QTA0Z01Jbk1LNVNwV2EtUjZHbktzbzFGaTBiRGE0TWt3X2Jhc1FQOHF6bk1zRXZnSFE?oc=5</guid><pubDate>Wed, 02 Sep 2026 23:06:58 +0000</pubDate></item><item><title>「レッツノート」10月値上げ。カスタマイズSSDは価格2倍の衝撃</title><link>https://pc.watch.impress.co.jp/docs/news/2137701.html</link><description>[score: 0.881] ニュース
+「レッツノート」10月値上げ。カスタマイズSSDは価格2倍の衝撃
+2026年9月2日 17:46
+円安や部材高騰の波がついに直販モデルを直撃し、SSDのカスタマイズ価格が最大2倍へと跳ね上がる衝撃的な発表が行なわれた。パナソニックは9月1日、直販サイトで展開している「カスタマイズレッツノート」の一部製品において、10月1日より出荷価格の改定を実施すると発表。本体を約10～15%、カスタマイズのSSDを約80～100%値上げする。
+今回の価格改定の対象となるのは、カスタマイズレッツノートの「SC7」シリーズおよび「FC7」シリーズの本体と、カスタマイズ時に選択できるSSD。特にSSDは</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2137701.html</guid><pubDate>Wed, 02 Sep 2026 22:58:55 +0000</pubDate></item><item><title>高市早苗政権の経済政策を米ベッセントさんに酷評され、無事板ばさみ＆無能判定されてしまう片山さつき先生への励ましのお便り｜山本一郎（やまもといちろう）</title><link>https://note.com/kirik/n/nc96ca3095e33</link><description>[score: 0.881] 高市早苗政権の経済政策を米ベッセントさんに酷評され、無事板ばさみ＆無能判定されてしまう片山さつき先生への励ましのお便り｜山本一郎（やまもといちろう） ※おことわり 本稿は、ほぼ同じ内容を私のメルマガ『人間迷路』で配信しています。で、メルマガご購読者の皆さまに於かれましては本稿は配信する記事と同じものですので、お布施でもない限り、間違って買わないようお願いします。 https://yakan-hiko.com/kirik.html まあ見てきた人たちからすればただの「知ってた速報...</description><guid isPermaLink="false">https://note.com/kirik/n/nc96ca3095e33</guid><pubDate>Wed, 02 Sep 2026 22:18:11 +0000</pubDate></item><item><title>今日の株式見通し＝買い先行、米株高が支え 原油・金利高警戒はくすぶる - ロイター</title><link>https://news.google.com/rss/articles/CBMigAFBVV95cUxPSEh2Z3IwLWdsVG1iaS1WQ3BSYVFNbV9Na3BRd09INjlWRmdhQ1Y5UDlTSUFka2RfM25MdGk5ZWQ2NzhWQ0tTSzE2ZnlabHY3UWhNZ0lMQ29MNEdHcXdlcVlDWjJFUzhCVTlFb2JtejluYWN2RkhKNkQteW5DY3hEbA?oc=5</link><description>[score: 0.881] 今日の株式見通し＝買い先行、米株高が支え 原油・金利高警戒はくすぶる ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMigAFBVV95cUxPSEh2Z3IwLWdsVG1iaS1WQ3BSYVFNbV9Na3BRd09INjlWRmdhQ1Y5UDlTSUFka2RfM25MdGk5ZWQ2NzhWQ0tTSzE2ZnlabHY3UWhNZ0lMQ29MNEdHcXdlcVlDWjJFUzhCVTlFb2JtejluYWN2RkhKNkQteW5DY3hEbA?oc=5</guid><pubDate>Wed, 02 Sep 2026 23:06:58 +0000</pubDate></item><item><title>無料でいろいろなLinuxディストリビューションをブラウザ上でインストールせずに試せる「DistroSea」</title><link>https://gigazine.net/news/20260903-distrosea/</link><description>[score: 0.881] Linuxには様々なディストリビューションが存在しており、何を使用するかによって使用感は大きく異なります。メジャーなディストリビューションであれば多くの情報に触れることができますが、そうでなければ実際に動作している様子を確認してみる必要があります。「DistroSea」はいろいろなLinuxディストリビューションを実際に起動して試すことのできるサービスであり、インストールせずにブラウザ上で動作させることができるのが特徴です。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20260903-distrosea/</guid><pubDate>Wed, 02 Sep 2026 22:02:15 +0000</pubDate></item><item><title>オンタリオ湖を「アメリカ湖」に、アップルマップも変更　米利用者向け - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMGp4SHNMQTZxVnlENE9kbVhFc2hyclpUSDhMdGxkOVRDejRuS0JWb1dZWlU3RXVVZVdJT1NEX1lrTDFxLWhfVnU4cEJBR2FiOUFublZQaTI0Z1dkTDV5UXJtLXBHZmNyd0Y4NjhYcjlRN3FYbGFUSnNFNFU2MnlaSFFaNzRKeE1JSHAyZndJZGhjcGxWYTlvLVBNamtCNHp4aldrbUtZbkVZbl9jSnM1UE5qbXd1LTB4UHZ2X3dXWXBTWFZuWnhyZdIBhwFBVV95cUxQdHZEVDlIYm1sc0YtdWt1cFMxcDRaX2NUVGVLdlhOZVhYZHNOM1VXMk5KZUlRbU1CUTlzTVI0X1Zsd0d3d29QbE5YZmdvSm4tZm5heVhKLWp6b242WlRLUUpJeXBtTTgxVlMwUU9sYjZ3T0VWZzBUcVpla1E0RDVDTHZBczN4Nm8?oc=5</link><description>[score: 0.881] オンタリオ湖を「アメリカ湖」に、アップルマップも変更 米利用者向け ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiyAFBVV95cUxNMGp4SHNMQTZxVnlENE9kbVhFc2hyclpUSDhMdGxkOVRDejRuS0JWb1dZWlU3RXVVZVdJT1NEX1lrTDFxLWhfVnU4cEJBR2FiOUFublZQaTI0Z1dkTDV5UXJtLXBHZmNyd0Y4NjhYcjlRN3FYbGFUSnNFNFU2MnlaSFFaNzRKeE1JSHAyZndJZGhjcGxWYTlvLVBNamtCNHp4aldrbUtZbkVZbl9jSnM1UE5qbXd1LTB4UHZ2X3dXWXBTWFZuWnhyZdIBhwFBVV95cUxQdHZEVDlIYm1sc0YtdWt1cFMxcDRaX2NUVGVLdlhOZVhYZHNOM1VXMk5KZUlRbU1CUTlzTVI0X1Zsd0d3d29QbE5YZmdvSm4tZm5heVhKLWp6b242WlRLUUpJeXBtTTgxVlMwUU9sYjZ3T0VWZzBUcVpla1E0RDVDTHZBczN4Nm8?oc=5</guid><pubDate>Wed, 02 Sep 2026 23:06:58 +0000</pubDate></item><item><title>ＮＹ外為市場＝円急伸、レートチェック観測も 日銀委員はタカ派発言 - Reuters</title><link>https://news.google.com/rss/articles/CBMieEFVX3lxTE1maktSMG00RmhmNm9Gd2RpU3pWY3RsVjVTRjkxajRoZU0zXzZ4bFF1RFRiaXM2bDdZT3k0LXJ2M3lhR09yM1NFRWFORW82cTA0TUtqc0E5VTJRNmR1QkdlOFBHUjE2VUpWLTNUTVJHMkZYdnZoSGxHSg?oc=5</link><description>[score: 0.881] ＮＹ外為市場＝円急伸、レートチェック観測も 日銀委員はタカ派発言 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMieEFVX3lxTE1maktSMG00RmhmNm9Gd2RpU3pWY3RsVjVTRjkxajRoZU0zXzZ4bFF1RFRiaXM2bDdZT3k0LXJ2M3lhR09yM1NFRWFORW82cTA0TUtqc0E5VTJRNmR1QkdlOFBHUjE2VUpWLTNUTVJHMkZYdnZoSGxHSg?oc=5</guid><pubDate>Wed, 02 Sep 2026 22:08:09 +0000</pubDate></item><item><title>SEOの歴史対談！ 混沌とした黎明期から、リンクスパム全盛時代へ【第1回 住氏＆渡辺氏】</title><link>https://webtan.impress.co.jp/e/2026/09/03/53147</link><description>[score: 0.883] 生成AI時代に入り、SEOにも大きな変化が起こることが予想される。そんな時だからこそ、黎明期からSEOに携わってきた住太陽氏と専門家とともに、SEOの歴史を次の5回に渡ってたどってみたい。 第1回：1990年代終わり～2011年 第2回：2012年～2015年 第3回：2016年～2023年頃 第4回：2024年～2026年現在 第5回：これからのSEOを展望 第1回は、インターネットの利用が一般にも普及し始めた1990年代終わり～2011年までのSEOの状況について、住氏とDMM.comのPF事業統括本部 SEO部渡辺隆広氏とで振り返る。 （左から）ボーディー有限会社 代表取締役 住太陽氏、</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/09/03/53147</guid><pubDate>Wed, 02 Sep 2026 22:28:33 +0000</pubDate></item><item><title>AIで丸ごと生成したゲノムからウイルスを作製…衝撃の新技術がもたらす可能性とリスクとは | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956271?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.883] INDEX
+8月、米スタンフォード大学などの研究チームが、世界を驚かせる研究成果を米科学誌サイエンスで発表した（該当の論文）。AI（人工知能）を使って細菌に感染する小型のウイルスのゲノム（全遺伝情報）を大量に生成し、それを実験室で合成して、一部が実際に機能することを確かめたというのだ。
+これらのゲノムは、あらかじめAIに学習させた天然のウイルスのゲノムとは異なる配列や構造を持っていた。
+使われたAIは、天然のゲノムを大量に学習させた、いわばゲノム版の大規模言語モデルだ。これまでも遺伝子などゲノムの「部品」にあたる部分の設計に使われてきたが、機能するゲノムを丸ごと生成できたのは初めて。生物学にパ</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956271?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Wed, 02 Sep 2026 21:45:47 +0000</pubDate></item><item><title>コネクティが「CONNECTY CDP」に「AIアシスタント機能」搭載、自然言語でレポート作成・データ抽出</title><link>https://webtan.impress.co.jp/n/2026/09/03/53240</link><description>[score: 0.883] コネクティが「CONNECTY CDP」に「AIアシスタント機能」搭載、自然言語でレポート作成・データ抽出 CDPの分析業務をAIで効率化、SQL不要で分析可能に マーケターの意思決定を支援 noboru.kojima 2026年9月3日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 CMS(コンテンツ管理システム)やCDP(顧客データ基盤)開発・提供のコネクティは、データ統合マーケティングツール「CONNECTY CDP」で、自然言語の指示によってレポート作成やデータ抽出を支援する新機能「AIアシスタント機能」の提供を開始したと8月27日に発表した。従来はデータベース</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/09/03/53240</guid><pubDate>Wed, 02 Sep 2026 22:28:33 +0000</pubDate></item><item><title>CloudflareがCDNキャッシュを平均3分の1に圧縮、数PB級の容量を生み出す「Cache Transcoding」を試作</title><link>https://gigazine.net/news/20260903-cloudflare-cache-transcoding/</link><description>[score: 0.884] CloudflareがCDNキャッシュを平均3分の1に圧縮、数PB級の容量を生み出す「Cache Transcoding」を試作
+CloudflareがCDNのキャッシュに保存するデータを圧縮し、既存のストレージを実質的に大容量化する仕組み「Cache Transcoding」を試作していることを明らかにしました。初期テストでは圧縮対象となるデータの保存サイズが平均で元の約3分の1となり、CPU負荷を数％程度増やすだけで数PB(ペタバイト)規模の実効キャッシュ容量を生み出せる可能性があるとのことです。
+How we could save petabytes of cache storage w</description><guid isPermaLink="false">https://gigazine.net/news/20260903-cloudflare-cache-transcoding/</guid><pubDate>Wed, 02 Sep 2026 23:03:11 +0000</pubDate></item><item><title>エヌビディアは自社製品への需要を「自らの資金」を使って生み出している</title><link>https://forbesjapan.com/articles/detail/103990?s=ns</link><description>[score: 0.885] エヌビディアはもはや単なる半導体企業ではない。AI革命における中央銀行とでも呼ぶべき存在へと姿を変えつつある。
+同社はいま、顧客のために5000億ドル（約80兆円）を超える外部資本を集めることになる金融プラットフォームの立ち上げに手を貸している。さらに、最先端のAIモデルを開発するフロンティアAIラボに500億ドル（約8兆円）近くを直接出資しており、事実上、自社製品への需要を自ら支えている。
+この、資金の出し手としての新たな役割が、そのまま売上を動かす原動力になっている。ハイパースケーラー（大規模クラウド事業者）以外の顧客を対象とするACIE（AIクラウド事業者・産業界・企業向けの事業区分）は</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103990?s=ns</guid><pubDate>Wed, 02 Sep 2026 22:30:04 +0000</pubDate></item><item><title>あなたの「昼のプレゼン」が通らない理由 マーケの実務は9割が社内調整</title><link>https://webtan.impress.co.jp/e/2026/09/03/53187</link><description>[score: 0.885] 「正しい戦略を渾身の資料にまとめて、意思決定者にぶつければ、きっと通るはず」 そう信じて何日もかけて資料を仕上げ、意思決定の会議に持ち込む。しかし返ってきたのは、想定外の角度からの辛辣な反論だった。 そんな経験に心当たりはないでしょうか。 原因は、あなたの説得力不足でも、上司の理解力不足でもありません。戦う場所を間違えているのです。 なぜ定石だけでは組織は動かないのか？ マーケターのための人心を動かす「社内調整」の技術 ※当記事は8月20日発売の新刊『なぜ定石だけでは組織は動かないのか？』（日本実業出版社）より、中核を抜粋してお届けします。 あなたの「昼のプレゼン」が通らない3つの理由 昼のプ</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/09/03/53187</guid><pubDate>Wed, 02 Sep 2026 22:28:33 +0000</pubDate></item><item><title>原油先物1％高、米イラン攻撃再開で供給懸念高まる - ロイター</title><link>https://news.google.com/rss/articles/CBMieEFVX3lxTE5fVm9rV2JQRmtSSzhhMzN0aUloTnY0eXdzaS1oOTNRNVBsY0lhRnNMNFhQbGNZZHRhR0xMNjVVTUc1bUFpTko4SUp2Tmc4a0F2MXc0UWJnc0lBb2lzTEZZQTdTNHlDWFhBdTVfSmQwNGswcTV1bWRUVw?oc=5</link><description>[score: 0.887] 原油先物1％高、米イラン攻撃再開で供給懸念高まる ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMieEFVX3lxTE5fVm9rV2JQRmtSSzhhMzN0aUloTnY0eXdzaS1oOTNRNVBsY0lhRnNMNFhQbGNZZHRhR0xMNjVVTUc1bUFpTko4SUp2Tmc4a0F2MXc0UWJnc0lBb2lzTEZZQTdTNHlDWFhBdTVfSmQwNGswcTV1bWRUVw?oc=5</guid><pubDate>Wed, 02 Sep 2026 23:06:58 +0000</pubDate></item><item><title>トランプ氏、新たな対イラン軍事作戦「長く続かず」 必要なら追加攻撃 - ロイター</title><link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOam1uVklxY1ZaWkRUOWVqRl9pb3NkOHBucXlZT2RuM1pMSDJ0N2ZLTHVKNkctYVFCV3lDRUFwS1llSFpJdUxYaG9pcnBLTWJnY3hVVFZIUFlhZGZpakR6RjF2RG1mRDFPUUZPejlXOWo1Uk1mUGJZZHRmY0ZQaUJ1bU93?oc=5</link><description>[score: 0.894] トランプ氏、新たな対イラン軍事作戦「長く続かず」 必要なら追加攻撃 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxOam1uVklxY1ZaWkRUOWVqRl9pb3NkOHBucXlZT2RuM1pMSDJ0N2ZLTHVKNkctYVFCV3lDRUFwS1llSFpJdUxYaG9pcnBLTWJnY3hVVFZIUFlhZGZpakR6RjF2RG1mRDFPUUZPejlXOWo1Uk1mUGJZZHRmY0ZQaUJ1bU93?oc=5</guid><pubDate>Wed, 02 Sep 2026 22:08:09 +0000</pubDate></item><item><title>米、対イラン圧力強化へ 海運や暗号資産も制裁対象か＝財務長官 - ロイター</title><link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNS2V2OUFtYVJjY3c2TlZXMkdBQWpCbHRyTzFKemV5SjJKMHhSUXBjZHJQcE1nZWxDUUdXeUNtdHp5T1lEbGFGbGNPQ3N4ZlRoM0dndDQtdG0wd3ZiWVJ4QkY5NGRuNnA2OUZGYUVOUEhwZnBFTVg4NmZiM2NqeGtZWEFn?oc=5</link><description>[score: 0.895] 米、対イラン圧力強化へ 海運や暗号資産も制裁対象か＝財務長官 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxNS2V2OUFtYVJjY3c2TlZXMkdBQWpCbHRyTzFKemV5SjJKMHhSUXBjZHJQcE1nZWxDUUdXeUNtdHp5T1lEbGFGbGNPQ3N4ZlRoM0dndDQtdG0wd3ZiWVJ4QkY5NGRuNnA2OUZGYUVOUEhwZnBFTVg4NmZiM2NqeGtZWEFn?oc=5</guid><pubDate>Wed, 02 Sep 2026 23:06:58 +0000</pubDate></item><item><title>"老化が進む人･ゆるやかな人"の違い　｢へその向き｣が分かれ目…理学療法士が教える今すぐできる姿勢の整え方 | ライフ | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956239?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.896] コンテンツブロックが有効であることを検知しました。
+このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
+なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956239?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Wed, 02 Sep 2026 22:44:16 +0000</pubDate></item><item><title>AIにまじなスライド作らせる｜【公式】Jinba</title><link>https://note.com/jinbaflow/n/nc8372b84e572</link><description>[score: 0.896] AIにまじなスライド作らせる
+AIでスライドを作ると、それらしい見た目のものは一瞬で出てきます。ところが実際に役員会議や顧客提案に持っていけるかというと、ほとんどの場合そのままでは使えません。角丸のカードが3枚並び、タイトルは「〜のご紹介」、結論はどこにも書いていない——そんな「AIが作った感」のあるスライドになりがちです。
+私たちCarnot AIは、AIエージェント基盤「Jinba」を大手企業に提供する中で、提案書・報告書を毎週大量にAI（Claude Code）で作ってきました。今回公開するのは、その中で作り上げてきた資料作成の仕組み一式です。先に結論を言うと、本質はテンプレでもパイプラ</description><guid isPermaLink="false">https://note.com/jinbaflow/n/nc8372b84e572</guid><pubDate>Wed, 02 Sep 2026 22:58:55 +0000</pubDate></item><item><title>コンテンツは情報提供型よりも、導入事例や独自の視点のものを優先したい。社内を説得するには？</title><link>https://webtan.impress.co.jp/e/2026/09/03/53180</link><description>[score: 0.897] ひとりで頑張るSEO担当者さんの悩みに答える本連載。今回の質問は「コンテンツは情報提供型よりも、導入事例や独自の視点のものを優先したい。社内を説得するには？」です。 この回答は「AI検索の影響を可視化することで、説得できます」です。 「コンテンツは情報提供型よりも、導入事例や独自の視点のものを優先したい。社内を説得するには？」 に対する回答は 「AI検索の影響を可視化することで、説得できます」です 従来は極めて効果的だった「情報提供型コンテンツ」 今回の質問は「コンテンツは情報提供型よりも、導入事例や独自の視点のものを優先したい。社内を説得するには？」というもので、ペンネーム「赤ちゃんマン」さ</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/09/03/53180</guid><pubDate>Wed, 02 Sep 2026 22:28:33 +0000</pubDate></item><item><title>「ドパガキ」は意志の弱さでは治らない。スマホに手が伸びた瞬間の「なんで見てるんだっけ？」が効く理由</title><link>https://studyhacker.net/metacog_smph</link><description>[score: 0.899] ショート動画をついつい見てしまう自分にうんざり。無駄に時間を潰してしまって「スマホをダラダラ見るの、止めなきゃ」って思いますよね。 そんなとき、「ダメな自分……」で片づける前に、ちょっと質問です。 「今、なんでスマホを見ているんだろう？」と考えたことはありますか。この問いに、あなたは答えられますか。 「なぜ見ているか」に気づけていないだけ 筆者が自分を観察してみたら 「気づく」を練習するには よくある質問（FAQ） 「なぜ見ているか」に気づけていないだけ スマホやSNSがドーパミンを利用して次々と動画を見せてくる状態を、ネットでは「ドパガキ」と呼ぶことがあります。その治し方として、「意志が弱い</description><guid isPermaLink="false">https://studyhacker.net/metacog_smph</guid><pubDate>Wed, 02 Sep 2026 22:48:04 +0000</pubDate></item><item><title>「下積み20年やれと？」──生成AI活用、若手が投げかけた問い　社長の答えは？</title><link>https://www.itmedia.co.jp/business/articles/2609/03/news022.html</link><description>[score: 0.916] 「今から僕たち若者に、下積みを10年20年やれっていうことですか」
+三菱マテリアルのグループ会社で、IT事業を手掛ける三菱マテリアルITソリューションズ社長の板野則弘氏は、部下が抱えている「AIにまつわる業務上の課題」を聞く面談で、年次の浅い社員からこう問いかけられたという。
+生成AIが出したアウトプットをうのみにせず、自分で見極める力を持つ必要があると伝えたときに返ってきた言葉だった。
+AIのない時代に時間をかけて経験を積み、判断力を培ってきたベテランと、最初からAIが手元にあり「下積み」の経験がない今の若手。両者のスタート地点は全く異なる。
+板野氏は、若手の切実な問いかけを受け止め「AI人</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2609/03/news022.html</guid><pubDate>Wed, 02 Sep 2026 21:44:17 +0000</pubDate></item></channel></rss>
