@@ -1,156 +1,106 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 06 Sep 2026 21:24:39 +0000</lastBuildDate><item><title>3人死亡火事は同級生の集まりで発生か 会社役員関与の可能性も</title><link>https://news.web.nhk/newsweb/na/nd-20260907de48555</link><description>[score: 0.879] 5日、岐阜県本巣市の店舗兼住宅で3人が死亡した火事で、現場には住人とその同級生合わせて10人が集まっていたとみられることが、警察への取材で分かりました。1人が人を刺してガソリンをまいたという通報があっ…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 06 Sep 2026 22:45:39 +0000</lastBuildDate><item><title>東北新幹線 人身事故で運転見合わせ 東京と仙台の間 上下線</title><link>https://news.web.nhk/newsweb/na/nd-20260907de48684</link><description>[score: 0.873] JR東日本のホームページによりますと、東北新幹線は、宇都宮駅と那須塩原駅の間でおきた人身事故の影響で、東京駅と仙台駅の間の上下線で運転を見合わせています。
+運転再開の見込みは立っていないということで…
+注目ワード
+あわせて読みたい
+東京 新島村に土砂災害特別警報 伊豆諸島や関東南部で大雨
+9月7日 6:52
+気象庁会見 東京 新島村に土砂災害特別警報
+9月7日 7:12
+大雨交通影響 7日は山手線など本数減 運休区間も
+9月7日 6:50
+大雨影響 7日は臨時休校相次ぐ 東京23区の一部や横浜市など
+9月6日 19:35
+【専門家QA】必要な情報確認と避難行動は？
+9月3日 19:25
+岐阜 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260907de48684</guid><pubDate>Sun, 06 Sep 2026 22:39:58 +0000</pubDate></item><item><title>AI Coding時代のOSSライブラリのメンテ - methaneのブログ</title><link>https://methane.hatenablog.jp/entry/2026/09/04/AI_Coding%E6%99%82%E4%BB%A3%E3%81%AEOSS%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86</link><description>[score: 0.873] AI Coding時代のOSSライブラリのメンテ - methaneのブログ 結論: 今までよりさらに、コンパクトに低レベル、最小限のコア機能だけを提供しよう 今年になって明らかにPull Requestもセキュリティ報告も増えました。しかもセキュリティ報告は、だれがこんな使い方するんだよ... tmatsuu 「自分が必要な機能を追加したforkを作ってメンテするのもAI Coding時代には容易」「これからはライブラリ側で実装するかどうかの判断基準を大幅に厳しくすることが全体のベストバランスにつながる」確かにそうかも。</description><guid isPermaLink="false">https://methane.hatenablog.jp/entry/2026/09/04/AI_Coding%E6%99%82%E4%BB%A3%E3%81%AEOSS%E3%83%A9%E3%82%A4%E3%83%96%E3%83%A9%E3%83%AA%E3%81%AE%E3%83%A1%E3%83%B3%E3%83%86</guid><pubDate>Sun, 06 Sep 2026 14:19:26 +0000</pubDate></item><item><title>サイトにアクセスしたら表示された「503」「404」エラーって何？</title><link>https://webtan.impress.co.jp/e/2026/09/07/52915</link><description>[score: 0.874] Webサイトを閲覧していて突然画面に表示される謎の3桁の数字。 中でも遭遇頻度が高い「503」と「404」は、ネットの裏側で何が起きているかを教えてくれる重要なサインです。 今回は、とるべき対策がまったく異なるこの2つのエラーの違いについて、Web担当者や一般のネットユーザー向けにわかりやすく解説します。 503エラーとは？ 「今、お店が大混雑しています」 正式には「503 Service Unavailable（サービス利用不可）」と呼びます。これは、Webサイトのサーバーに一時的なアクセスが集中しすぎてパンクしている状態、あるいはサーバーがメンテナンス中であることを示しています。 【例える</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/09/07/52915</guid><pubDate>Sun, 06 Sep 2026 22:13:39 +0000</pubDate></item><item><title>GitHub の権限管理を Terraform 化すると体験がよかった</title><link>https://zenn.dev/dev_commune/articles/github-terraform-permission-management</link><description>[score: 0.874] はじめに 新規のメンバーが入るたび、チームの構成が変わるたび、依頼が Slack ワークフローで流れてきます。その都度、GitHub をブラウザで開いてパスキーで認証して、画面をポチポチする。しんどいですね。 いい加減 Terraform にしました。なにを管理したかと詰まったところについて紹介します。 https://github.com/integrations/terraform-provider-github 管理したもの Terraform でこれらを管理することにしました。すべてを管理するわけではありません。まずは画面ポチポチを減らすこと、依頼自体を Pull Req...</description><guid isPermaLink="false">https://zenn.dev/dev_commune/articles/github-terraform-permission-management</guid><pubDate>Sun, 06 Sep 2026 22:27:26 +0000</pubDate></item><item><title>離婚してから自分が性格悪いことに気づいた</title><link>https://anond.hatelabo.jp/20260906221615</link><description>[score: 0.875] 結婚してたときは基本的に元夫が悪いと思ってた。今でも元夫が悪かったことのほうが多いとは思ってる。元夫はとにかく話し合いができない人だった。何か言うとすぐ黙るし、「今は話したくない」と言って逃げる。私は別に怒鳴ったり物に当たったりするわけでもなくて、普通に理由を聞いてるだけなのに、それすら嫌だったらしい。
+例えば元夫が約束を忘れたとする。私は「なんで忘れたの？」と聞く。元夫は「ごめん」と言う。「謝ってじゃなくて、なんで忘れたのか聞いてる」「忘れてたから」「それは分かってる。なんで忘れたの？」「分からない」「自分がやったことなのに？」「本当に分からない」「じゃあまたやるってこと？」みたいな話を何時</description><guid isPermaLink="false">https://anond.hatelabo.jp/20260906221615</guid><pubDate>Sun, 06 Sep 2026 22:41:13 +0000</pubDate></item><item><title>自動運転のティアフォー､加藤CEO｢黒字化はもう見えている｣　カギを握る｢運用車両800台｣ | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956918?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.875] 上場でディープテック企業の先例をつくる
+――この段階でIPO（新規株式公開）に踏み切った理由を教えてください。
+わが社のエクイティーストーリー（投資家に示す成長物語）を考えたときに、レイターステージの今、IPOで資金を調達するのが最もよいと判断した。
+現在、わが社は急成長段階にある。2022年9月期から25年9月期にかけて、売上高は年平均75％アップで伸びてきた。売上総利益も伸びている。しかし、それだけでは研究開発投資を賄えない。
+研究開発を加速するための資金を、プライベートラウンド（非公開での資金調達）とIPOのどちらで調達するのがよいか。プライベートラウンドも可能だったが、事業が成長してい</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956918?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 06 Sep 2026 22:13:45 +0000</pubDate></item><item><title>Googleが欧州で「サイトの評判に関するポリシー」を見直し、手動による対策を除外に</title><link>https://webtan.impress.co.jp/n/2026/09/07/53252</link><description>[score: 0.876] Googleが欧州で「サイトの評判に関するポリシー」を見直し、手動による対策を除外に EUの「デジタル市場法(DMA)」に対応、欧州以外では手動による対策を継続する noboru.kojima 2026年9月7日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 Googleは「サイトの評判に関するポリシー」を更新したと8月28日に発表した。欧州経済地域(EEA)内で検索結果の上位に表示させる操作に対抗するポリシーを適用する基準を明確にした。Googleは特定のサイトのページを担当者が目視で審査し、ポリシー違反の場合は手動で対策を行うが、EEA内での検索結果でこの手動による</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/09/07/53252</guid><pubDate>Sun, 06 Sep 2026 22:13:39 +0000</pubDate></item><item><title>GPT-2-likeからQwen2-likeへの実験：第3回 絶対位置EmbeddingをRoPEに変える</title><link>https://zenn.dev/yyamamot/articles/gpt2-to-qwen2-03-rope</link><description>[score: 0.876] GPT-2-likeからQwen2-likeへの実験：第3回 絶対位置EmbeddingをRoPEに変える GPT-2-likeからQwen2-likeへ、少しずつ構造を変更する実験の第3回です。今回は学習可能な絶対位置Embeddingを外し、RoPEへ変更します。 第2回では、GELUをSwiGLUへ変更しました。検証Lossは改善しましたが、学習は少し遅くなりました。今回は品質指標の差がさらに大きく出ています。その代わり、速度の低下もかなり明確でした。 先に結果を書くと下記です。 検証Lossと正解率は5つすべてのseedで改善した パラメーターは32,768減った 学習時間...</description><guid isPermaLink="false">https://zenn.dev/yyamamot/articles/gpt2-to-qwen2-03-rope</guid><pubDate>Sun, 06 Sep 2026 22:27:26 +0000</pubDate></item><item><title>千葉 アンダーパス通行止め レベル4大雨危険警報で新ルール</title><link>https://news.web.nhk/newsweb/na/nd-20260907de48665</link><description>[score: 0.876] 国土交通省千葉国道事務所は千葉市にレベル4大雨危険警報が出されたのを受けて、午前0時半に千葉市中央区村田町の国道16号にあるアンダーパスを通行止めにしました。
+このアンダーパスでは先月の記録的な豪…
+あわせて読みたい
+東京 新島村に土砂災害特別警報 伊豆諸島や関東南部で大雨
+9月7日 6:52
+気象庁会見 東京 新島村に土砂災害特別警報
+9月7日 7:12
+大雨交通影響 7日は山手線など本数減 運休区間も
+9月7日 6:50
+大雨影響 7日は臨時休校相次ぐ 東京23区の一部や横浜市など
+9月6日 19:35
+【専門家QA】必要な情報確認と避難行動は？
+9月3日 19:25
+岐阜 洋菓子店火事3</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260907de48665</guid><pubDate>Sun, 06 Sep 2026 21:41:11 +0000</pubDate></item><item><title>Canvaが「ビジュアルツールキット」に新機能100項目以上を追加、ほぼ1日おきに更新</title><link>https://webtan.impress.co.jp/n/2026/09/07/53253</link><description>[score: 0.878] Canvaが「ビジュアルツールキット」に新機能100項目以上を追加、ほぼ1日おきに更新 「フルページデザイン」で没入感あるビジュアル活用、「Canvaシート」はAI機能を強化 noboru.kojima 2026年9月7日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 オンラインデザインプラットフォーム「Canva(キャンバ)」を展開する豪州Canvaの日本法人、Canva Japanは9月4日、2026年初頭から「ビジュアルツールキット」で100項目の新機能提供を達成したと発表した。ほぼ1日おきにアップグレードをリリースしてきた。高度な分析機能やデータの可視化、ダイナ</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/09/07/53253</guid><pubDate>Sun, 06 Sep 2026 22:13:39 +0000</pubDate></item><item><title>スーパーから「値引きシール」が消える？　「2割引」「半額」の舞台裏で起きていること</title><link>https://www.itmedia.co.jp/business/articles/2609/07/news012.html</link><description>[score: 0.879] 夕方のスーパーで目にする「2割引」「半額」といった値引きシール。何時から、どの商品を、何％値引きするのかなど、誰がどのような基準で決めているのだろうか。
+これまでにも、コンビニやスーパーでは、AIを活用して値引き判断を行う取り組みが進められている。導入以前は、値引きする商品やタイミング、割引率などを従業員の経験や感覚に頼る部分が大きかったが、販売実績や天候、客数などのデータをもとに、AIが最適な値引きを判断する仕組みだ。
+では、AIを導入すると、値引きの現場は実際にどう変わるのか。今回は、AIを使った値引きシステムを提供する「シノプス」（大阪府豊中市）と、同システムを導入しているスーパー「藤三</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2609/07/news012.html</guid><pubDate>Sun, 06 Sep 2026 21:47:30 +0000</pubDate></item><item><title>カスハラ被害者の7割超が退職検討、放置企業を襲う損害賠償リスク</title><link>https://forbesjapan.com/articles/detail/103994?s=ns</link><description>[score: 0.879] 今年の10月1日からようやく事業所における「顧客等からの著しい迷惑行為」いわゆるカスタマーハラスメント（カスハラ）対策が義務化されるが、もうすでに、何度もカスハラを受けて精神的苦痛により限界を感じている人も少なくない。そんな人たちの、じつに3割近くが退職の準備を進めていることが調査によって明らかになった。
+ベリーベスト法律事務所は、勤務先で日常的に顧客、取引先、患者、生徒、保護者などの利用者と接している20〜60代の全国の男女1000人を対象に、カスハラに関するアンケート調査を実施した。それによると、勤務先でカスハラに該当する対応をされた経験のある人は51.9パーセント。そのうち「何度もある」</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103994?s=ns</guid><pubDate>Sun, 06 Sep 2026 22:16:38 +0000</pubDate></item><item><title>｢われわれには新たなアイデアがある｣…米特使が開戦後初めて首都キーウ入り…ロシアとの戦争終結に向けて協議 | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957100?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.881] 政治・経済・投資 ｢われわれには新たなアイデアがある｣…米特使が開戦後初めて首都キーウ入り…ロシアとの戦争終結に向けて協議 5分で読める 公開日時：2026/09/07 07:15 有料会員限定 （写真：ブルームバーグ） ブルームバーグ フォロー 1/1 PAGES 米国のスティーブ･ウィトコフ､ジャレッド･クシュナー両特使が､ウクライナ戦争開始後で初めて､首都キーウを訪れた。ロシアがウクライナに全面侵攻してから4年半が経過した。和平に向けた米政府の取り組みが戦争終結につながるかについては､懐疑的な見方も根強い。 この記事は有料会員限定です 残り 1974文字 ログイン 有料会員登録</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957100?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 06 Sep 2026 22:23:29 +0000</pubDate></item><item><title>初学者がRustに触れて感じたこと</title><link>https://zenn.dev/darkcat666/articles/c2a19b874900ab</link><description>[score: 0.881] ごあいさつ ●初めまして！！ダークネコだよー（死） 私が今を時めく言語である（？）Rustに触れて感じたことを記述します。 技術記事というより、私の感想なので「それってあなたの感想ですよね？」と言われたら 「Yes I do」と回答するしかない可哀そうなネコでござる。 ●悪魔でもサタン様でもルシファー様でも（？） ※ルシファー様の邪悪な瞳が光る✨✨ 感じたことなので、無意味な情報として君の脳の片鱗に焼き付けてくれればいいよ。 （炎の刻印は記憶の魔術と密接に関連しているのだから！！） ー出典：とある少女漫画 感じたことリスト💛 くそ難しい言語や・・・ コンパイラにとっては逆に...</description><guid isPermaLink="false">https://zenn.dev/darkcat666/articles/c2a19b874900ab</guid><pubDate>Sun, 06 Sep 2026 22:27:26 +0000</pubDate></item><item><title>全東信問題「決済代行は大手含め利用」 経産省調査</title><link>https://news.web.nhk/newsweb/na/nd-20260906de48514</link><description>[score: 0.881] 決済代行サービスを行う「全東信」が経営破綻し、一部でクレジットカードが使えないなどの影響が広がったことを受けて、経済産業省は決済代行サービスの実態調査を進めていますが、これまでの調査で、大手カード会社…
 あわせて読みたい
 関東 東海 東北 線状降水帯発生の可能性 安全最優先に行動を
 9月7日 4:14
 大雨交通影響 7日は山手線など本数減 運休区間も
-9月7日 5:18
+9月7日 6:50
 大雨影響 7日は臨時休校相次ぐ 東京23区の一部や横浜市など
 9月6日 19:35
 【専門家QA】必要な情報確認と避難行動は？
 9月3日 19:25
 岐阜 洋菓子店火事3人死亡「人が刺されガソリンまかれた」通報
-9月6日 19</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260907de48555</guid><pubDate>Sun, 06 Sep 2026 19:13:28 +0000</pubDate></item><item><title>自閉症に関わるタンパク質に潜む意外な「共通点」、治療に期待も</title><link>https://natgeo.nikkeibp.co.jp/atcl/news/26/090300490/?rss</link><description>[score: 0.880] 自閉スペクトラム症（ASD：自閉症やアスペルガー症候群などを含む総称。以下「自閉症」はASDを指す）は発達障害の一種で、米疾病対策センター（CDC）によれば米国では約31人に1人（3.2％）が抱えると推定される（編注：日本でも3％超との報告がある）。発生しやすい家系が存在し、親から子へ受け継がれることも多いため、遺伝的な要素があると考えられている。
-しかし、その根底にある生物学的なメカニズムは極めて複雑だ。何百もの遺伝子の型（バリアント）や、その遺伝子がつくるタンパク質が、自閉症に関わっている可能性がある。
-このほど、そうしたタンパク質同士の関係（相互作用）のネットワークをマップにすることで、</description><guid isPermaLink="false">https://natgeo.nikkeibp.co.jp/atcl/news/26/090300490/?rss</guid><pubDate>Sun, 06 Sep 2026 21:06:19 +0000</pubDate></item><item><title>【DroidKaigi 2026】初登壇したので体験記とか裏話を色々書きます！！</title><link>https://qiita.com/HalunoYo/items/69f6b3c708c7ad44c4e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] 自己紹介
-普段は某HRTech系メガベンでAndroidエンジニアをしています。
-Android開発の中でも、低レイヤーやサイバーセキュリティ関係がとても好きです。
-今年のDroidKaigiでは初めてCfPを提出し、無事に採択され登壇もしてきました。
-本記事はセッションの感想などは書きません、多くの方が書いてくださいますからね。
-その代わり、登壇者ならではの体験や視点について書いていこうと思います！
-レポート
-登壇について
-「アクセシビリティを利用するとき、アクセシビリティもまたこちらを利用している」 〜マルウェアによる攻撃と防衛について〜
-上記のセッションを発表させてもらいました！
-肖像権</description><guid isPermaLink="false">https://qiita.com/HalunoYo/items/69f6b3c708c7ad44c4e3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 06 Sep 2026 20:25:16 +0000</pubDate></item><item><title>東京 新島村 けが人や土砂崩れの情報 今のところなし</title><link>https://news.web.nhk/newsweb/na/nd-20260907de48649</link><description>[score: 0.881] 新島村によりますと、今のところけが人や土砂崩れなどの被害の情報は寄せられていないということです。
-また、雨は午前4時15分時点では激しく降っていた時から比べると少し弱まっている様子だと話していました…
+9月6日 19</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260906de48514</guid><pubDate>Sun, 06 Sep 2026 22:10:30 +0000</pubDate></item><item><title>学校教育って、地域住民の無償労働で維持していいの？</title><link>https://anond.hatelabo.jp/20260906224157</link><description>[score: 0.883] 学校の行事の手伝いなどで、PTAの有志が集まらなくなったら、今度は地域の人に頼む。
+でも、ちょっと待ってほしい。
+それが「子どもたちの教育に必要不可欠な活動」なら、本来は学校や教育委員会が人員や予算を確保すべきでは？
+地域の人が善意で協力するのは素晴らしい。しかし、その善意を前提に学校教育の仕組みを維持し始めた瞬間、それは地域連携ではなく、単なる無償労働への依存ではないのか。
+しかも、同じ自治体の中で、なぜか特定の学校だけ地域への依頼がどんどん増えていく。
+「協力してくれる地域だから」という理由で、その地域だけ行政が本来負担すべきコストを肩代わりさせられていないか？
+「子どものため」という言葉</description><guid isPermaLink="false">https://anond.hatelabo.jp/20260906224157</guid><pubDate>Sun, 06 Sep 2026 22:01:28 +0000</pubDate></item><item><title>8割超がパスワード使いまわし、やめられない理由は？【AZWAY調べ】</title><link>https://webtan.impress.co.jp/n/2026/09/07/53235</link><description>[score: 0.884] 8割超がパスワード使いまわし、やめられない理由は？【AZWAY調べ】 パスワード管理方法は「頭で記憶している」が43.0%で最多。 atomik 2026年9月7日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 AZWAYは、「セキュリティ管理の習慣」に関する調査結果を発表した。パスワードの管理方法などについて20～60代の300人が回答している。 関連記事 「AI SEO」「GEO」「AEO」「LLMO」で今やること・判断の尺度を専門家2者が教えてくれた【SEOまとめ】 | 海外&amp;国内SEO情報ウォッチ Metaが改良版「Metaアカウント」発表、アプリ・デバイスの全</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/09/07/53235</guid><pubDate>Sun, 06 Sep 2026 21:43:24 +0000</pubDate></item><item><title>【トラウマとPTSD】｢患者数4万人｣は氷山の一角…専門医が"従来の型では説明できないケースが数多く存在"と語る背景 | ライフ | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/955980?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.885] コンテンツブロックが有効であることを検知しました。
+このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
+なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/955980?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 06 Sep 2026 22:13:45 +0000</pubDate></item><item><title>賃上げ促進税制 専門家が効果疑問視も 税制改正の焦点の1つに</title><link>https://news.web.nhk/newsweb/na/nd-20260906de48515</link><description>[score: 0.885] 今年度末が期限となる中小企業に賃上げを促すための減税措置について、政府の税制調査会では専門家から効果を疑問視する意見も出ていて、期限を延長するかどうかや見直しのあり方が今後の税制改正の議論の焦点の1つ…
 あわせて読みたい
-新たな防災気象情報 今月28日から発表開始 どう変わる？
-土砂災害 警戒や避難のポイントは？
-川の氾濫 警戒のポイントは？
-天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで
-災害に遭う前に ハザードマップで危険を知る
-【最新の避難情報】こちらから地域別でご覧になれます
-【最新の河川情報】こちらから一覧でご覧になれます
-【気象警報・注意報】各地の発表状況を詳しく
-線状降</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260907de48649</guid><pubDate>Sun, 06 Sep 2026 19:42:57 +0000</pubDate></item><item><title>戦場映像がAI訓練に、ウクライナ戦争が生んだ「新たな金脈」</title><link>https://www.technologyreview.jp/s/390057/data-from-drones-in-ukraine-is-fueling-a-new-wild-west-marketplace/</link><description>[score: 0.882] 戦場映像がAI訓練に、ウクライナ戦争が生んだ「新たな金脈」
-ウクライナ国防省は1月、数万回のドローン飛行から集めた数百万点のデータを、軍事・民間の企業に提供すると発表した。すでに100社以上と英国政府がアクセス権を得ている。非日常的なできごとが日常的に起きる戦場が、AIモデルの訓練場となり、戦時下の国の資金源にもなっている。この市場を規制する当局は、まだ存在しない。 by Cory Alpert2026.09.07
-- この記事の3つのポイント
--
-- ウクライナ国防省が実戦ドローン飛行データを企業・政府に共有し、100社超と英国政府がアクセスを取得した
-- 戦場データは制御環境では再現困難な</description><guid isPermaLink="false">https://www.technologyreview.jp/s/390057/data-from-drones-in-ukraine-is-fueling-a-new-wild-west-marketplace/</guid><pubDate>Sun, 06 Sep 2026 21:19:02 +0000</pubDate></item><item><title>https://www.gartner.com/en/ai</title><link>https://www.gartner.com/en/ai</link><description>[score: 0.882] https://www.gartner.com/en/ai misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD GartnerのAI Hub。2,400人超のアナリスト、6,000件超のAIインサイト、4,000件超のユースケースを提供。2030年にはIT業務の100%でAIが関与すると紹介。</description><guid isPermaLink="false">https://www.gartner.com/en/ai</guid><pubDate>Sun, 06 Sep 2026 17:17:01 +0000</pubDate></item><item><title>クビアカツヤカミキリ 環境省が対策強化へ</title><link>https://news.web.nhk/newsweb/na/nd-20260906de48524</link><description>[score: 0.882] サクラやモモなどの木を食い荒らし、各地で急速に被害が拡大している特定外来生物の「クビアカツヤカミキリ」について環境省は、防除対策を進める自治体への支援を大幅に拡充する方針です。
-クビアカツヤカミキ…
-注目ワード
-あわせて読みたい
-サクラが危ない クビアカツヤカミキリの猛威
-8月21日 20:57
-関東 東海 東北 線状降水帯発生の可能性 安全最優先に行動を
-9月7日 4:14
+東京 新島村に土砂災害特別警報 伊豆諸島や関東南部で大雨
+9月7日 6:52
+気象庁会見 東京 新島村に土砂災害特別警報
+9月7日 7:12
 大雨交通影響 7日は山手線など本数減 運休区間も
-9月7日 5:18
+9月7日 6:50
 大雨影響 7日は臨時休校相次ぐ 東京23区の一部や横浜市など
 9月6日 19:35
 【専門家QA】必要な情報確認と避難行動は？
 9月3日 19:25
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260906de48524</guid><pubDate>Sun, 06 Sep 2026 21:10:24 +0000</pubDate></item><item><title>平均年収562万円のメドレーが「年収6000万円超」の新職種。エンジニアだけじゃない「AIで10倍の成果出す人材」が欲しいワケ</title><link>https://www.businessinsider.jp/article/2609-medley-create-new-job-type-in-ai-ara/</link><description>[score: 0.883] 年収総額、最大6000万円超が可能に——。
-そんな日本では破格の待遇で、エンジニアのみならず、デザイナーやPdM（プロダクトマネージャー）を採用しようとしている企業がある。医療介護求人サイト「ジョブメドレー」やオンライン診療をはじめとしたクラウド診療支援システム「CLINICS」などを展開するメドレーだ。
-メドレーでは、2026年8月から新人事制度として「アプライドAIデベロッパー」の認定制度を導入。最高評価だった場合、該当者は基本給プラス賞与で年収総額が最大で6000万円超に達するという。同社が有価証券報告書で開示する平均年間給与は562万円（2025年12月末）。実に平均給与の10倍を超え</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-medley-create-new-job-type-in-ai-ara/</guid><pubDate>Sun, 06 Sep 2026 21:17:01 +0000</pubDate></item><item><title>オライリー本の表紙動物を1432匹、全部数えて分類してみた</title><link>https://qiita.com/yama3133/items/5d9dab683e58e5396d47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] はじめに
-この記事は人間が書いてます
-データ抽出や分類はClaudeに手伝ってもらいました
-エンジニアなら一度はオライリー本のお世話になっていると思います。
-プログラミング言語の仕様書代わりに使う『Programming Perl』のような分厚い本もあれば、手元に置いておく『〜Pocket Reference』のような薄い本もあります。
-初めて開いたときは正直歯が立たなかったことを覚えています。
-それでも少しずつ読めるようになってくると、エンジニアとして一段レベルが上がった感覚があります。
-また、「オライリー本を読みこなせないやつはエンジニアを名乗るな」という声を聞いたこともあります。
-それは</description><guid isPermaLink="false">https://qiita.com/yama3133/items/5d9dab683e58e5396d47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 06 Sep 2026 20:25:16 +0000</pubDate></item><item><title>https://x.com/HirokiTakekuma/status/2095518871650467893</title><link>https://x.com/HirokiTakekuma/status/2095518871650467893</link><description>[score: 0.883] Hiroki Takekuma@HirokiTakekumaこう言うと怒られるだろうが、コーディングエージェントとしてclaudeを評価している人は文系科目が得意な人だと思う。たぶん文脈推察能力が高すぎて、プロンプトの文脈でモデルの行動をコントロールできるんだと思う。 自分はワーキングメモリがカスな上に直前に言ったことのみを正確に実行してほしいので、codexしか使う気にならない。マジで意図していないことをされると困ってしまう。2:26 PM · Sep 3, 202692.9KViews843424172
-Hiroki Takekuma@HirokiTakekumaこう言うと怒られるだろうが</description><guid isPermaLink="false">https://x.com/HirokiTakekuma/status/2095518871650467893</guid><pubDate>Sun, 06 Sep 2026 16:17:53 +0000</pubDate></item><item><title>耳で聞く！Python で学ぶ マクロ経済学 入門 10</title><link>https://qiita.com/maskot1977/items/dcc594be88032bd4ea68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] user:
-ソース動画のタイトル、そしてこの動画の内容について教えてください。
-Gemini:
-ソース動画のタイトルは、「財政黒字が国民を貧しくする: Pythonで学ぶマクロ経済学入門 Podcast (10)」 です。
-この動画は、一般的な「政府の赤字は悪であり、財政再建をしなければ未来はない」という常識を覆し、「政府の赤字こそが民間の健全な貯蓄を支え、政府の財政黒字化は国民を貧しくする」 というマクロ経済の真実を、データとプログラミングの視点から解説する内容となっています。
-以下に、この動画で語られている主な内容や解説されているメカニズムについて詳細に説明します。
-1. 本動画の基盤とな</description><guid isPermaLink="false">https://qiita.com/maskot1977/items/dcc594be88032bd4ea68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 06 Sep 2026 20:25:16 +0000</pubDate></item><item><title>上場企業の「借金王」ランキング、1位はトヨタ自動車で43兆円！ 20社中18社で負債増【リスクモンスター調べ】</title><link>https://webtan.impress.co.jp/n/2026/09/07/53242</link><description>[score: 0.884] 上場企業の「借金王」ランキング、1位はトヨタ自動車で43兆円！ 20社中18社で負債増【リスクモンスター調べ】 最新の連結決算を分析。日本製鉄やKDDI、東海旅客鉄道が急上昇。 imai-f 2026年9月7日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 リスクモンスターは、第4回「借金王ランキング」調査を発表した。金融機関を除く決算短信提出企業3,056社を対象に、最新の連結決算から有利子負債などを分析している。 関連記事 「人手不足」倒産、7月は過去最多の63件！ 「人件費高騰」は前年の2.1倍【TSR調べ】 役員報酬ランキング、セブン＆アイ元取締役が134億円超</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/09/07/53242</guid><pubDate>Sun, 06 Sep 2026 21:11:34 +0000</pubDate></item><item><title>AGI能力テストで99.9%、ChatGPTの新モデル「GPT-6 Astra」登場</title><link>https://pc.watch.impress.co.jp/docs/news/2138206.html</link><description>[score: 0.884] ニュース
-AGI能力テストで99.9%、ChatGPTの新モデル「GPT-6 Astra」登場
-2026年9月4日 11:28
-人間には簡単でAIには難しいゲームで、AGI(汎用人工知能)への距離を測るとされるテスト「ARC-AGI-3」でついに99.9%到達。OpenAIが9月3日(米国時間)に発表した新AIモデル「GPT-6 Astra」は、前モデルが7.8%しか解けなかった難問群をほぼ解き切った。数学の未解決問題でも新記録を打ち立てた。
-GPT-6 Astraは、ChatGPTなどの応答を生み出すAIモデルの新世代で、「GPT-5.6 Sol」の上位に立つOpenAIの新たな最上位モデル</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2138206.html</guid><pubDate>Sun, 06 Sep 2026 12:18:15 +0000</pubDate></item><item><title>〈業績V字回復〉上場廃止から2年､JSR社長が明かす｢業界再編への本音｣と｢最先端レジストへの自信｣ | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956788?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.884] ――JSRの上場廃止から2年が過ぎました。この間、生成AIに起因した半導体需要が爆発しています。
-誰もここまで急速にAIが立ち上がるとは読めなかったのではないか。私が東京エレクトロン（TEL）に在籍していた2013年当時、TELとアプライドマテリアルズの経営統合が発表された。そのときは「もう半導体市場は伸びない」という認識で再編に動いたが（15年に独占禁止法などの問題で白紙撤回）、それに比べれば本当に大きな変わりようだ。
-だからこそ半導体業界の先行きは誰にもわからない。最近も「市場が下振れするのではないか」と懸念する声が聞かれるが、需要は戻っている。過去の不況時に、売上高が半減する経験を繰り返</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956788?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 06 Sep 2026 20:53:31 +0000</pubDate></item><item><title>https://www.lesswrong.com/posts/hHk5CpiqZTBBiHmYt/from-safety-research-prompt-to-cross-model-universal</title><link>https://www.lesswrong.com/posts/hHk5CpiqZTBBiHmYt/from-safety-research-prompt-to-cross-model-universal</link><description>[score: 0.885] https://www.lesswrong.com/posts/hHk5CpiqZTBBiHmYt/from-safety-research-prompt-to-cross-model-universal misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3 安全研究用プロンプトを数時間修正すると汎用jailbreakに。23モデル×179有害</description><guid isPermaLink="false">https://www.lesswrong.com/posts/hHk5CpiqZTBBiHmYt/from-safety-research-prompt-to-cross-model-universal</guid><pubDate>Sun, 06 Sep 2026 17:17:01 +0000</pubDate></item><item><title>｢暑いから出歩かない｣｢魚もご無沙汰｣がじわじわ響く…骨粗しょう症･フレイルの裏に"日本人の98％が欠乏している意外なもの" | ライフ | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956754?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.885] コンテンツブロックが有効であることを検知しました。
-このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
-なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956754?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 06 Sep 2026 20:53:31 +0000</pubDate></item><item><title>東京 新島村に土砂災害特別警報 伊豆諸島や関東南部で大雨</title><link>https://news.web.nhk/newsweb/na/nd-20260907de48631</link><description>[score: 0.886] 秋雨前線が北上している影響で、伊豆諸島や関東南部では大雨となり、気象庁は午前4時15分、東京・伊豆諸島の新島村に「レベル5土砂災害特別警報」を発表しました。 重大な土砂災害がすでに発生している可能性が…
-あわせて読みたい
-気象庁会見 東京 新島村に土砂災害特別警報
-9月7日 6:17
-東京 新島村 けが人や土砂崩れの情報 今のところなし
-9月7日 4:38
-新たな防災気象情報 今月28日から発表開始 どう変わる？
-土砂災害 警戒や避難のポイントは？
-川の氾濫 警戒のポイントは？
-天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで
-災害に遭う前に ハザードマップで危険を知る
-【最新の避難</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260907de48631</guid><pubDate>Sun, 06 Sep 2026 20:12:07 +0000</pubDate></item><item><title>なぜAIブームが選挙問題になったのか</title><link>https://www.businessinsider.jp/article/2609voter-ai-backlash-tech-data-center-david-weigel-peter-kafka/</link><description>[score: 0.888] - データセンターが、AIブームの不人気な象徴となることは容易に予測できた。
-- それでも現在では、驚くほど多くのアメリカ人がデータセンターに反対していると答えており、政治家たちはその世論の変化に追いつこうと躍起になっている。
-- Semaforの政治担当記者デイヴィッド・ワイゲル氏によると、この変化は2025年秋から明確になっており、テクノロジー全般に対する人々の幻滅を示しているという。
-少し前まで、誰かにデータセンターについてどう思うか尋ねれば、そもそもデータセンターとは何かと聞き返されたかもしれない。
-今では、圧倒的多数のアメリカ人が何の話をしているのかを正確に理解しており、しかもデータ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609voter-ai-backlash-tech-data-center-david-weigel-peter-kafka/</guid><pubDate>Sun, 06 Sep 2026 21:17:01 +0000</pubDate></item><item><title>〈3位転落〉サイバーエージェント､動じない"元ネット広告王"の逆襲プラン…電通･博報堂と｢僕らは違うプレイヤー｣ | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956881?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.888] 1998年の創業以来、ネット広告業界を牽引し、その象徴とも言えるサイバーエージェント。業界首位をひた走ってきた同社が今、じりじりとあの“広告2強”に包囲されつつある。
-前2025年9月期には、「SDガンダム ジージェネレーション エターナル」など、ゲーム事業でヒットを連発。動画配信サービス「アベマ」を抱えるメディア＆IP事業も黒字化し、営業利益は前期比約8割増の717億円という好成績を残した。
-そんな景気のいい1年の中で、変調を来したのが祖業であるネット広告事業だ。大口中の大口顧客である楽天グループが、ネット広告の運用業務を内製化（詳細はこちら）。25年4～6月期決算、サイバーエージェントのイ</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956881?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 06 Sep 2026 21:13:19 +0000</pubDate></item><item><title>トステ｜note</title><link>https://note.com/tosute</link><description>[score: 0.888] メインコンテンツへスキップ
-記事一覧
-新着
-人気
-もっとみる
-新着
-人気
-もっとみる</description><guid isPermaLink="false">https://note.com/tosute</guid><pubDate>Sun, 06 Sep 2026 20:53:51 +0000</pubDate></item><item><title>なぜPythonは選ばれ続けるのか——歴史・強み・10の活用分野から考える</title><link>https://qiita.com/taki_tech/items/bb02f1b82f537a7f99c3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] 1. はじめに
-プログラミング言語の人気ランキングを見ると、Pythonはたいてい上位にあります。ただ、その理由が「性能が最も優れているから」かというと、そうではありません。実行速度で言えば、Pythonより速い言語はいくつもあります。
-では、なぜ選ばれ続けているのか。調べて見えたのは、Pythonの強みが言語そのものの性能ではなく、その周りに積み上がったものの豊富さにある、という点でした。
-強みは二つあります。一つは部品です。やりたいことに対応するライブラリは、たいてい誰かがすでに作って公開しています。もう一つは情報です。つまずいた箇所を検索すれば、同じところで悩んだ人の記録が残っています。</description><guid isPermaLink="false">https://qiita.com/taki_tech/items/bb02f1b82f537a7f99c3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 06 Sep 2026 20:25:16 +0000</pubDate></item><item><title>AI時代に求められるFDEというエンジニア像</title><link>https://qiita.com/blue_islands/items/d65fcd34c40302dbaa9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] 生成AIの普及によって、「エンジニアの仕事がAIに奪われる」という話を聞くことが増えました。
-一方で、企業のAI活用は急速に進み、AIを実際の業務に導入できるエンジニアの需要は高まっています。
-エンジニアが余ると言われる一方で、エンジニアが足りないとも言われる。
-一見すると矛盾しているようですが、その背景には**「企業が求めるエンジニア像そのものが変わり始めている」**ことがあるのではないでしょうか。
-その変化を象徴する職種の一つが、FDE（Forward Deployed Engineer／フォワード・デプロイド・エンジニア） です。
-FDEとは何か
-FDEは、顧客の現場に深く入り込み、業務</description><guid isPermaLink="false">https://qiita.com/blue_islands/items/d65fcd34c40302dbaa9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 06 Sep 2026 20:25:16 +0000</pubDate></item><item><title>Claude、11日間でフェルマーの最終定理を形式化検証、清華大学姚班出身者が主導 — BigGo ファイナンス</title><link>https://finance.biggo.jp/news/66299417-e5ad-479a-a0d3-ff876c8251e3</link><description>[score: 0.892] Claude、11日間でフェルマーの最終定理を形式化検証、清華大学姚班出身者が主導 — BigGo ファイナンス Anthropicは9月4日、AIモデル「Claude」がほぼ自律的に11日間稼働し、フェルマーの最終定理について初のエンドツーエンドのコンピュータ検証可能な証明を完成させたと発表した。Claudeは約1300万行のLeanコードを生成し、約3万300個の定理を構築、うち2万9500個が最終証明に組み込まれた。規模は世界最大の数学定理ライ...</description><guid isPermaLink="false">https://finance.biggo.jp/news/66299417-e5ad-479a-a0d3-ff876c8251e3</guid><pubDate>Sun, 06 Sep 2026 19:12:26 +0000</pubDate></item><item><title>東京 新島村に土砂災害特別警報 命が助かる可能性高い行動を</title><link>https://news.web.nhk/newsweb/na/nd-20260907de48639</link><description>[score: 0.893] 気象庁は午前4時15分、伊豆諸島の新島村にレベル5土砂災害特別警報を発表しました。
-5段階の警戒レベルのうち最も高いレベルにあたる情報で、最大級の警戒が必要です。
-新島村では、これまで経験したこと…
-あわせて読みたい
-関東 東海 東北 線状降水帯発生の可能性 安全最優先に行動を
-9月7日 4:14
-大雨交通影響 7日は山手線など本数減 運休区間も
-9月7日 5:18
-新たな防災気象情報 今月28日から発表開始 どう変わる？
-土砂災害 警戒や避難のポイントは？
-川の氾濫 警戒のポイントは？
-【最新の避難情報】こちらから地域別でご覧になれます
-【最新の河川情報】こちらから一覧でご覧になれます
-【気</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260907de48639</guid><pubDate>Sun, 06 Sep 2026 19:42:57 +0000</pubDate></item><item><title>ＩＣＣ赤根所長が講演「法の支配への違法な脅しに沈黙せず」</title><link>https://news.web.nhk/newsweb/na/nd-20260906de48517</link><description>[score: 0.896] ICC＝国際刑事裁判所のトップで、アメリカのトランプ政権により制裁が科された赤根智子所長が都内で開かれたイベントでオンラインで講演し、「法の支配に対する違法な脅しに沈黙することは、力による支配を是認す…
-あわせて読みたい
-大国の圧力に立ち向かう日本人 赤根智子さんの仕事の流儀
-米トランプ政権 ICC＝国際刑事裁判所 赤根所長を制裁対象に
-8月20日 7:28
-ICC締約国会議 アメリカでの開催変更を検討
-8月29日 11:12
-ICC＝国際刑事裁判所“解体論”が広げる波紋
-9月3日 16:40
+岐阜 洋菓子店火</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260906de48515</guid><pubDate>Sun, 06 Sep 2026 22:10:30 +0000</pubDate></item><item><title>ネパール土石流 中国がチベット側被災地を外国メディアに公開</title><link>https://news.web.nhk/newsweb/na/nd-20260907de48626</link><description>[score: 0.888] 中国外務省は、ネパールとの国境付近で起きた大規模な土石流で大きな被害を受けた、チベット自治区の現場を外国メディアに公開しました。
+ロイター通信などが6日配信した映像では、国境検問所があった場所は一帯…
+ミサイル備蓄低下報道受け 米国防総省が「ポリグラフ」検査か
+9月6日 14:06
+プーチン大統領 トランプ大統領特使らとウクライナ情勢で会談
+9月6日 14:36
 アメリカの特使らキーウでゼレンスキー大統領と会談へ
 9月6日 17:29
-ドイツ州議会選挙投票始まる</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260906de48517</guid><pubDate>Sun, 06 Sep 2026 12:15:24 +0000</pubDate></item><item><title>【歴史】Next.jsが覇権を握り、そして直面した試練の物語【動画解説】</title><link>https://qiita.com/Sicut_study/items/8fa7302bbb5bc1c897bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.897] はじめに
-こんにちは、Watanabe Jin(@Sicut_study)です。
-今日、私たちが当たり前のように使っているReactフレームワーク「Next.js」。 Netflix、Uber、OpenAIなど、世界中の巨大企業が採用し、日常的に利用するサービスの多くがNext.jsで構築されています
-。
-前回のReactの歴史の記事では、Reactが初期の激しい批判を乗り越えてウェブ開発の「王者」へと上り詰めた物語を紹介しました。
-しかし、Reactの勝利は、新たな問題の始まりでもあったのです。
-今回は、Reactの抱えていた課題を解決するために生まれ、現代のフロントエンド開発で 事実上の標</description><guid isPermaLink="false">https://qiita.com/Sicut_study/items/8fa7302bbb5bc1c897bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 06 Sep 2026 20:25:16 +0000</pubDate></item><item><title>習慣はAIより強し？…OpenAIのアルトマンCEO「メールは自分で確認するほうが生産的に感じる」</title><link>https://www.businessinsider.jp/article/2608-sam-altman-email-habits-inbox-no-ai-productive/</link><description>[score: 0.900] - オープンAIのサム・アルトマンCEOは、AIを使えば作業をスピードアップできるとわかっていても、メールは自分でスクロールして確認していると語った。
-- 彼は、以前から行ってきた日常的なパソコン作業が、いつしか自分の中で「生産的だ」という感覚と結びついてしまったからだと述べた。
-- ほかのCEOたちは、厳格なルールや簡潔な返信、業務の委任、AIの活用などで受信トレイを管理しているという。
-オープンAI（OpenAI）のサム・アルトマン（Sam Altman）CEOは、AIを使えばより速く処理できるとわかってはいるが、受信トレイを自分でスクロールしてチェックするほうが生産的だと感じると語った。</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2608-sam-altman-email-habits-inbox-no-ai-productive/</guid><pubDate>Sun, 06 Sep 2026 21:17:01 +0000</pubDate></item><item><title>Claude・Cursor・Devin・Manus… AIエージェント14製品、社内システムを触らせて事故らないのはどれ？【中小企業の導入判断ガイド】</title><link>https://qiita.com/songchong/items/94df4fbdeabaaf8f8ef5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.912] 「AIに社内システムを触らせて、事故は起きないのか？」
-「エンジニア専用？ 一般業務にも使えるのか？」
-「操作ミスは戻せるのか？ 費用は青天井にならないか？」
-1. 業務視点での結論：AIエージェント 14製品の総合比較マトリクス
-「AIエージェントを導入すれば、毎日の入力や調査作業を丸ごと任せられるのか？」——関心を持ちながらも、現場での暴走や情報漏洩、想定外のコストを恐れて足踏みしている中小企業の経営陣や管理職の方へ。
-本稿では、主要な AIエージェント 14製品 の公式ドキュメント、利用規約、価格体系、セキュリティ方針などの**一次資料（2026年8月〜9月調査時点）を徹底調査し、業務で</description><guid isPermaLink="false">https://qiita.com/songchong/items/94df4fbdeabaaf8f8ef5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 06 Sep 2026 20:25:16 +0000</pubDate></item><item><title>古謝氏、やや先行　玉城氏、激しく追う　沖縄県知事選　朝日情勢調査：朝日新聞</title><link>https://www.asahi.com/articles/ASV962S1RV96UZPS001M.html</link><description>[score: 0.913] 古謝氏、やや先行 玉城氏、激しく追う 沖縄県知事選 朝日情勢調査：朝日新聞 9月13日に投開票される沖縄県知事選について、朝日新聞社は沖縄タイムス、琉球朝日放送（QAB）と共同で5、6の両日、電話とインターネットで調査を行い、取材で得た情報と合わせて情勢を探った。新顔の古謝… firststar_hateno 沖縄県知事選が佳境に入っているようですわね。古謝氏が先行しつつも、玉城氏が追い上げている様子、壮大なドラマのようですの。政治は動きがあって面白いですわね！</description><guid isPermaLink="false">https://www.asahi.com/articles/ASV962S1RV96UZPS001M.html</guid><pubDate>Sun, 06 Sep 2026 19:16:12 +0000</pubDate></item><item><title>沖縄県知事選挙は前那覇市副市長・古謝玄太氏が先行、現職・玉城デニー氏が追う展開…読売新聞の情勢分析</title><link>https://www.yomiuri.co.jp/election/20260906-GYT1T00163/</link><description>[score: 0.917] 沖縄県知事選挙は前那覇市副市長・古謝玄太氏が先行、現職・玉城デニー氏が追う展開…読売新聞の情勢分析
-完了しました
-読売新聞社は１３日に投開票される沖縄県知事選について、電話・インターネットによる調査と取材を基に情勢を分析した。自民党などが支援する前那覇市副市長の古謝玄太氏が先行し、米軍基地問題で政府と対立する「オール沖縄」勢力の現職・玉城デニー氏が追う展開となっている。ただ、有権者の２割強が態度を明らかにしていない。
-古謝氏は、推薦を受ける自民党支持層の８割弱、国民民主党支持層の７割弱、参政党支持層の８割を固めた。無党派層の支持は３割となっている。
-玉城氏は、オール沖縄勢力を構成する共産党支持</description><guid isPermaLink="false">https://www.yomiuri.co.jp/election/20260906-GYT1T00163/</guid><pubDate>Sun, 06 Sep 2026 14:19:50 +0000</pubDate></item></channel></rss>
+ドイツ州議会選挙投票始まる 「極右」政党が第1党の見通し
+9月6日 20:01
+ＩＣＣ赤根所長が講演「法の支配への違法な脅しに沈黙せず」
+9月6日 20:47
+</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260907de48626</guid><pubDate>Sun, 06 Sep 2026 22:10:30 +0000</pubDate></item><item><title>コスト削減のためにAIエージェントの出力を短くすると逆にコストがかさむ事例をGitHubが公開、うまくコスト効率を向上するにはどうすればいいのか</title><link>https://gigazine.net/news/20260907-ai-coding-cost-efficient/</link><description>[score: 0.888] AIコーディングエージェントを使用する場合に出力の品質と並んで重要視すべきなのは効率であり、作業を迅速かつ効率的に適切なコンテキストで完了することが効率の向上につながります。つまり、個々のインタラクションのトークン数を減らすことよりも、適切な量のコンテキストを活用してタスクを進めることを目標にすべきです。GitHubが、「ツールの呼び出しではなく結果に焦点を当てた最適化」に基づいてCopilot Copilotに施した改善点についてブログを公開しています。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20260907-ai-coding-cost-efficient/</guid><pubDate>Sun, 06 Sep 2026 22:04:28 +0000</pubDate></item><item><title>「1人で年商1500万円超」も夢じゃない。Stripeが解説した話題の「ソロプレナー」の正体</title><link>https://www.businessinsider.jp/article/2609-solopreneur-ai-shift/</link><description>[score: 0.889] AIの発展が業務効率化に大きく寄与していることは、改めて言及するまでもないかと思うが、近年これが新たなビジネス市場を生み出している。
+「ソロプレナー（Solopreneur）」という単語がある。Merriam-Webster辞典の定義によると「パートナーの助けを借りずに事業や企業の組織化・運営を行い、そのリスクを引き受ける個人起業家」とある。つまり、1人で企業を立ち上げて運営までをこなす人のことを指している。
+初出は1992年で「Solo-（個人の）」と「Entrepreneur（起業家）」を組み合わせた造語だ。当初はそれほど注目されなかったものの、2000年代から2010年代にかけてインター</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-solopreneur-ai-shift/</guid><pubDate>Sun, 06 Sep 2026 22:15:56 +0000</pubDate></item><item><title>ルービックキューブを一撃で解く専用LLMを作った</title><link>https://zenn.dev/issei_y/articles/4178a603322b8e</link><description>[score: 0.891] CUBE ZERO — ルービックキューブを一撃で解く専用LLMをゼロから育てた 1. なぜ作った？ 事前知識ゼロから育ち、ルービックキューブを一撃で解くLLMがあったら、かっこいいですよね。ということで、CEOの夏休みの自由研究として作りました！ 完成したモデルは、現在のキューブと過去の手順を受け取り、次の1手を自己回帰的に生成します。学習後は、初めて見る局面の99.83%を1回の生成で解けました。 2. ルービックキューブはどれくらい難しいのか ルービックキューブには、約 4.3 × 10^19 通りの状態があります。ただし、すべての状態が同じ難しさではありません。 完...</description><guid isPermaLink="false">https://zenn.dev/issei_y/articles/4178a603322b8e</guid><pubDate>Sun, 06 Sep 2026 22:27:26 +0000</pubDate></item><item><title>ロボットのために家事のデータを売る仕事を1週間やってみた</title><link>https://wired.jp/article/sz-household-chores-training-robots/</link><description>[score: 0.892] わたしは、もはやただの人間ではない。現実を伝える媒体であり、メッセージの媒体でもある。
+手にナイフを握り、有機栽培されたキュウリを切る。その際、おでこにくくり付けたiPhoneが10本すべての指をとらえられるように、体をかがめる。切ったキュウリをサラダボウルに入れて録画を終了する。おかげで、どこかにいる未熟なロボットがまた少し賢くなった。
+先月、わたしは1週間ずっとそんな生活を送った。自分のアパートメントにいながらにしてデータ収集を行ない、ヒューマノイドたちに皿洗いや洗濯物のたたみ方、飲み物の注ぎ方などといった雑用を教えたのだ。
+ロボットたちがわたしたち人間と共に暮らし、家事を手伝えるようにな</description><guid isPermaLink="false">https://wired.jp/article/sz-household-chores-training-robots/</guid><pubDate>Sun, 06 Sep 2026 22:26:32 +0000</pubDate></item><item><title>東京なら年収1000万でも全然足りない👈️殴りたくなるよな</title><link>https://anond.hatelabo.jp/20260906162903</link><description>[score: 0.893] ■東京なら年収1000万でも全然足りない👈️殴りたくなるよな
+「東京なら年収1000万でも全然足りない」
+いや、それただ贅沢しまくったら金がなくなりましたって話だよね。
+都心のクソ高い家賃払って、便利な場所に住んで、外食して、旅行して、欲しいもの買って。
+そりゃ金なくなるだろ。
+「東京なら1000万でも足りない」じゃなくて「俺は贅沢な暮らしをしたいから1000万じゃ足りない」が正確だと思う。
+別に贅沢するなとは言わない。
+好きでやってるなら勝手にすればいい。
+でも、自分で贅沢な生活を選んでおいて「1000万でも足りない、生活が苦しい」みたいな被害者ポジションを取るのは違うだろ。
+それ、金がない</description><guid isPermaLink="false">https://anond.hatelabo.jp/20260906162903</guid><pubDate>Sun, 06 Sep 2026 22:21:16 +0000</pubDate></item><item><title>まだ「検索順位」を追っているの？ AI検索時代にSEO担当者が測定・評価すべき5つの指標（後編）</title><link>https://webtan.impress.co.jp/e/2026/09/07/53186</link><description>[score: 0.900] 前後編の2回に分けてお届けしている。→前編を読む この記事では、トム・カッパー氏が「SEOからAI検索への変化に適応していく考え方と方法」として、次のようなトピックを解説している： なぜAI検索に新しいメンタルモデルが必要なのか SEO担当者は代わりに何を追跡し、ブロックし、最適化すべきなのか 具体的な質問は、次の9つだ： 「AIに対するSEO担当者の認識」と「AI検索の実際の仕組み」でもっともズレているものは何か？ 「グラウンディング検索」はどのようなもので、企業が最適化していく際のポイントは？ 「AI検索のためのプロンプト調査」と「従来の検索のためのロングテールキーワード調査」はどう違うの</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/09/07/53186</guid><pubDate>Sun, 06 Sep 2026 22:13:39 +0000</pubDate></item><item><title>インフレ指標に注目、金利の行方占う手がかり探る＝今週の米株式市場 - Reuters</title><link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkI5NnpkcjBGUTAteXZVek5oQmotTnVRajdqLS13aXJISzM0bXdCcVp2bnA4eEFVOTgwaHNreXlaVzM2b2xwdlRDSVUwZDZ3UThROUxKVnl6a3Z3LXRrRFg2bXVKTzlNNVZNYlVOdm1vUVRvVzZKWmFzZEY4VUlWMA?oc=5</link><description>[score: 0.902] インフレ指標に注目、金利の行方占う手がかり探る＝今週の米株式市場 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMigAFBVV95cUxQUkI5NnpkcjBGUTAteXZVek5oQmotTnVRajdqLS13aXJISzM0bXdCcVp2bnA4eEFVOTgwaHNreXlaVzM2b2xwdlRDSVUwZDZ3UThROUxKVnl6a3Z3LXRrRFg2bXVKTzlNNVZNYlVOdm1vUVRvVzZKWmFzZEY4VUlWMA?oc=5</guid><pubDate>Sun, 06 Sep 2026 21:48:07 +0000</pubDate></item><item><title>ゼレンスキー大統領 米特使らと会談「交渉再開させてくれた」</title><link>https://news.web.nhk/newsweb/na/nd-20260907de48654</link><description>[score: 0.908] ウクライナのゼレンスキー大統領は6日、首都キーウを訪れたアメリカのウィトコフ特使らと会談し、停滞するロシアとの和平交渉について「特使らが交渉のプロセスを再開してくれた」と述べ、事態打開への期待を示しま…
+あわせて読みたい
+アメリカの特使らキーウでゼレンスキー大統領と会談へ
+9月6日 17:29
+プーチン大統領 トランプ大統領特使らとウクライナ情勢で会談
+9月6日 14:36
+ネパール土石流 トンネルに取り残された人たちの捜索続く
+9月6日 22:10
+ＩＣＣ赤根所長が講演「法の支配への違法な脅しに沈黙せず」
+9月6日 20:47
+ドイツ州議会選挙投票始まる 「極右」政党が第1党の見通し
+9月6</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260907de48654</guid><pubDate>Sun, 06 Sep 2026 21:41:11 +0000</pubDate></item><item><title>個人PCのClaude Codeの設定ファイルと、設定の動機を一部紹介します</title><link>https://zenn.dev/yuki82511988/articles/45a5a464514ac1</link><description>[score: 0.909] はじめに Claude Codeは何も設定しないまま利用すると、意図しないコマンドを実行したり、サイトにアクセスしたりしてしまう可能性があります。それらを防いでくれるのが設定ファイルです。 本記事では、自分が調査しながら作成して普段使いしている設定ファイルの一部と、なぜそのように設定したかの動機を紹介したいと思います。 予期せぬ事故の記事を複数見て、自分の記事が何かの参考になればいいなと思ったのと、自分の設定を見直してきちんと設定の理由を言語化したいと思い記事を書きました。 この設定間違ってるかも？とか、こうした方が良いかも？などのアドバイスがあれば、とても嬉しいです。よろしくお願い...</description><guid isPermaLink="false">https://zenn.dev/yuki82511988/articles/45a5a464514ac1</guid><pubDate>Sun, 06 Sep 2026 22:27:26 +0000</pubDate></item><item><title>CLAUDE.mdをそろそろ見直す時期かも ── Claude 5世代向けの最適化手順・スキル・プロジェクト種類別の例 - Qiita</title><link>https://qiita.com/nogataka/items/d6a54f3694726b9141f3</link><description>[score: 0.915] CLAUDE.mdをそろそろ見直す時期かも ── Claude 5世代向けの最適化手順・スキル・プロジェクト種類別の例 - Qiita 要点 Anthropic は 2026年7月24日のブログで、Claude Opus 5 / Fable 5 向けに Claude Code のシステムプロンプトを 80% 以上削り、社内コーディング評価で性能低下が測定できなかったと公表しました。 理由は「制約の多くは最悪のケース回避のために入れたもので、今のモデルは周囲の文脈から判断できる」からです。 私...</description><guid isPermaLink="false">https://qiita.com/nogataka/items/d6a54f3694726b9141f3</guid><pubDate>Sun, 06 Sep 2026 22:41:02 +0000</pubDate></item></channel></rss>
