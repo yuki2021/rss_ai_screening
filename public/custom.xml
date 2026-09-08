@@ -1,97 +1,113 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 08 Sep 2026 10:33:04 +0000</lastBuildDate><item><title>愛知と岐阜を流れる庄内川に「レベル5 氾濫特別警報」</title><link>https://news.web.nhk/newsweb/na/nd-20260908de49093</link><description>[score: 0.881] 気象庁と国土交通省は午後6時20分、愛知県と岐阜県を流れる庄内川にレベル5氾濫特別警報を発表しました。
-5段階の警戒レベルのうち最も高いレベルにあたる情報で、最大級の警戒が必要です。
-庄内川では…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 08 Sep 2026 21:23:14 +0000</lastBuildDate><item><title>豪中銀、今月理事会で利上げ議論へ インフレ高止まりに懸念＝副総裁 - Reuters</title><link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQcEllaXYyV24teFBQNE0xeDhoYVlLOVQ5ak5JTndEampleU5Lc1dHVExER2c4cXZSU1FHUm11T0xqc1pJWG42bmRZQl9YTWhXRHY3WXExU29DNlF1U3NtaGZJN2NZTlUyTklTcnRqRjdRWGs5THREcHhXVDN4NW1pcA?oc=5</link><description>[score: 0.880] 豪中銀、今月理事会で利上げ議論へ インフレ高止まりに懸念＝副総裁 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMigAFBVV95cUxQcEllaXYyV24teFBQNE0xeDhoYVlLOVQ5ak5JTndEampleU5Lc1dHVExER2c4cXZSU1FHUm11T0xqc1pJWG42bmRZQl9YTWhXRHY3WXExU29DNlF1U3NtaGZJN2NZTlUyTklTcnRqRjdRWGs5THREcHhXVDN4NW1pcA?oc=5</guid><pubDate>Tue, 08 Sep 2026 16:41:16 +0000</pubDate></item><item><title>米、イラン航空業界に36件の制裁 経済圧力強化 - Reuters</title><link>https://news.google.com/rss/articles/CBMiggFBVV95cUxOODNkdFExS2tCX184aFNjczhVaDU3TUt0OWRKQkNTV0ExU2NMb19zb3J6dnRhbWRtWnFqS1JtMHk5bm80RDM1RHM3UHNycVBaZWIwd2lhVTRqMno1ZTVJaHo3dV9tQ0hENWpNMzFadUVjTHJMQUNKQ3UxeDl5eTY5Uk1R?oc=5</link><description>[score: 0.880] 米、イラン航空業界に36件の制裁 経済圧力強化 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxOODNkdFExS2tCX184aFNjczhVaDU3TUt0OWRKQkNTV0ExU2NMb19zb3J6dnRhbWRtWnFqS1JtMHk5bm80RDM1RHM3UHNycVBaZWIwd2lhVTRqMno1ZTVJaHo3dV9tQ0hENWpNMzFadUVjTHJMQUNKQ3UxeDl5eTY5Uk1R?oc=5</guid><pubDate>Tue, 08 Sep 2026 18:41:18 +0000</pubDate></item><item><title>DatabricksのFMAPI直叩きとai_query、大きな違いはレート制御を誰が担当するか</title><link>https://qiita.com/taka_yayoi/items/a3090627aff141f97bad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] はじめに
+Databricksで基盤モデルを呼ぶ方法は大きく2つあります。Foundation Model APIs (以下FMAPI) のエンドポイントをPythonから直接叩く方法と、SQLの ai_query
+などのAI Functionsを使う方法です。
+どちらも同じDatabricksホストのモデルを利用しますが、レート制御とスケーリングの責任範囲が違う、という話を聞きました。ドキュメントにも次の記述があります。
+- ai_query を使用する — 「AI Functions は並列処理、再試行、スケーリングを自動的に処理します」
+- Foundation Model API の制</description><guid isPermaLink="false">https://qiita.com/taka_yayoi/items/a3090627aff141f97bad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 08 Sep 2026 20:18:50 +0000</pubDate></item><item><title>なぜあなたのAI活用は競合に負けるのか</title><link>https://forbesjapan.com/articles/detail/93438?s=ns</link><description>[score: 0.881] ChatGPTにLinkedIn投稿を書かせた。メールをいくつか生成した。本を要約した。「AI Ideas」というNotionドキュメントも作った。そして今、未来の扉を開いたかのような顔で歩き回っている。だが、そうではない。フェラーリを渡されて、子どもの送り迎えに使っているだけだ。
+多くの起業家はAIを手品のように扱い、それでも何も変わらないのはなぜだと首をかしげている。AI活用の計画が「Xについて投稿を書いて」「フックを10個出して」だけなら、おめでとう。平均的なものを作るスピードが少し上がっただけだ。
+考えることをロボットに外注し、出力がこれまでスクロールして通り過ぎてきたコンテンツと同じ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/93438?s=ns</guid><pubDate>Tue, 08 Sep 2026 14:02:03 +0000</pubDate></item><item><title>｢過小評価していた…｣足元の受注は倍増！日立の稼ぎ頭･送配電事業のトップが語るAIデータセンター向け需要爆増の実態 | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957028?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.883] 1/2 PAGES
+「過小評価していた」。日立エナジーのアンドレアス・シーレンベックCEOは、データセンター（DC）需要の強さについてこう語る。
+日立製作所の稼ぎ頭となっているエナジーセグメント。その大半を占めるパワーグリッド事業を担うのが100％子会社の日立エナジーである。2020年にスイスの重電大手ABBから買収した送配事業が中心で、変圧器や高圧直流送電（HVDC）で世界トップシェアを誇る。もともと老朽化設備の更新や欧州における再生可能エネルギーへの切り替えから需要自体は好調で受注残も順調に積み上がっていた。
+そこへ、AI（人工知能）の大規模な計算を支えるDC向けが加わったことで、26年度</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957028?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Tue, 08 Sep 2026 21:07:42 +0000</pubDate></item><item><title>再送-米インフレ期待ほぼ横ばい、雇用・家計巡る懸念強まる＝ＮＹ連銀8月調査（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5UeWlTSlZuNThPRlZUazdqOWpZbGlZUDgwdEdTYXRGbzlIM2dvenhWVVppNWxLbU9yM1o0ZFlyMWJjVDZMbjJsQk1uSElVVTFEbkc3Yi1LVGw1MDY5YnI2RFozeEE4Z1JIWE5KS2tWZFd0RE5XZjNBT1hzRlkyUWc?oc=5</link><description>[score: 0.884] 再送-米インフレ期待ほぼ横ばい、雇用・家計巡る懸念強まる＝ＮＹ連銀8月調査（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE5UeWlTSlZuNThPRlZUazdqOWpZbGlZUDgwdEdTYXRGbzlIM2dvenhWVVppNWxLbU9yM1o0ZFlyMWJjVDZMbjJsQk1uSElVVTFEbkc3Yi1LVGw1MDY5YnI2RFozeEE4Z1JIWE5KS2tWZFd0RE5XZjNBT1hzRlkyUWc?oc=5</guid><pubDate>Tue, 08 Sep 2026 16:41:16 +0000</pubDate></item><item><title>メタ、自律型ＡＩ「ミューズ」を米で提供開始 個人情報管理に懸念も - Reuters</title><link>https://news.google.com/rss/articles/CBMieEFVX3lxTE1od09mU2hiQlFia3RqUXhheDhxYlhzY0ZzS2dHeFR4Z0YwY1ZJQnBqNmY2RF9oSzM5SndNc1U2eHhsYkV5d1ZKSUlpZkVZMTFWSmV5S21tdmI1RGM0RE8xTW9EcDNjRWdRR0prS2c0MmRUdEdfUVViTQ?oc=5</link><description>[score: 0.884] メタ、自律型ＡＩ「ミューズ」を米で提供開始 個人情報管理に懸念も Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMieEFVX3lxTE1od09mU2hiQlFia3RqUXhheDhxYlhzY0ZzS2dHeFR4Z0YwY1ZJQnBqNmY2RF9oSzM5SndNc1U2eHhsYkV5d1ZKSUlpZkVZMTFWSmV5S21tdmI1RGM0RE8xTW9EcDNjRWdRR0prS2c0MmRUdEdfUVViTQ?oc=5</guid><pubDate>Tue, 08 Sep 2026 20:41:28 +0000</pubDate></item><item><title>福岡県議会きょう開会 対策を確実に進められるかが焦点</title><link>https://news.web.nhk/newsweb/na/nd-20260908de49174</link><description>[score: 0.884] 福岡県議会の定例議会が9日、開会し、議員を辞職した藏内勇夫前議長の後任の新議長が選出されます。「癒着」とも指摘される県と県議会の関係や高額と批判された海外視察など県政に厳しい目が向けられる中、対策を確…
+自民党福岡県連 松本会長が辞意表明 県連で金銭授受調査へ
+9月5日 19:14
+自民党役員人事 内閣改造 早ければ来週16日 17日にも実施へ
+9月8日 21:21
+高市首相 概算要求過去最大“補正予算依存から脱却”
+9月8日 14:35
+名古屋 市内の全市立学校と幼稚園 9日は休校・休園に 大雨影響
+9月8日 23:12
+東名など広範囲で通行止め可能性 愛知で鉄道一部運転見合わせ
+9月9日 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260908de49174</guid><pubDate>Tue, 08 Sep 2026 19:59:36 +0000</pubDate></item><item><title>【破門覚悟】政治学と経済学の因果推論帝国主義者に物申す</title><link>https://qiita.com/Gotoubun_taiwan/items/5ea6f13d2ee1a794e560?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] はじめに
+こんにちは、事業会社で働いているデータサイエンティストです。
+専門は政治学方法論と計量経済学です。因果推論については大学院生の頃から勉強していて、単なる相関ではなく、興味のある変数がアウトカムに与える因果効果を厳密に議論できるところに大きな魅力を感じています。
+別に因果推論が嫌いなわけではありません。
+むしろ好きです。
+最近も因果推論の本を買っています。
+大学院生の頃の私は、計量経済学や政治学方法論を学んだ人間がビジネスの世界で機械学習の専門家と差別化して貢献できる最大の武器は、因果推論なのだと思っていました。
+ところが、実際に会社に入ってデータサイエンティストとして働いてみると、
+</description><guid isPermaLink="false">https://qiita.com/Gotoubun_taiwan/items/5ea6f13d2ee1a794e560?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 08 Sep 2026 20:18:50 +0000</pubDate></item><item><title>カフェイン入り飲料をたくさん飲む人は睡眠時間が短い一方で眠りは深いとの研究結果</title><link>https://gigazine.net/news/20260909-caffeine-shorter-deeper-sleep/</link><description>[score: 0.886] カフェイン入り飲料をたくさん飲む人は睡眠時間が短い一方で眠りは深いとの研究結果
+コーヒーやお茶、エナジードリンクなどに含まれるカフェインは眠気を抑える目的で広く摂取されています。カフェインを日常的に多く摂取することが睡眠にどのような影響を及ぼすのかを調べるため、チューリッヒ大学などの研究チームが大規模な健康データと睡眠データを分析しました。
+Community-based causal evidence that high habitual caffeine consumption alters distinct polysomnography-derived sleep variables </description><guid isPermaLink="false">https://gigazine.net/news/20260909-caffeine-shorter-deeper-sleep/</guid><pubDate>Tue, 08 Sep 2026 21:06:54 +0000</pubDate></item><item><title>上智大生殺害放火事件 未解決のまま30年に</title><link>https://news.web.nhk/newsweb/na/nd-20260908de49178</link><description>[score: 0.887] 東京 葛飾区で上智大学の女子学生が殺害され自宅が放火された事件は、未解決のまま9日で30年となります。警視庁は事件当日に目撃された不審な男に関する新たな画像を公開し、情報の提供を呼びかけています。
+…
+事件深掘り記事 特集サイト
+大雨続く見込み 各地で線状降水帯発生のおそれ
+9月9日 6:08
+東名など広範囲で通行止め可能性 愛知で鉄道一部運転見合わせ
+9月9日 4:57
+自民党役員人事と内閣改造 政権骨格維持 維新ポスト調整も
+9月9日 4:55
+福岡県議会きょう開会 対策を確実に進められるかが焦点
+9月9日 4:52
+漫画で沖縄戦を描く理由
+キャッシュレス決済の“死角”「全東信」破綻の内幕</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260908de49178</guid><pubDate>Tue, 08 Sep 2026 20:28:24 +0000</pubDate></item><item><title>【28卒】ITエンジニア人気企業、2年連続の1位は？ ハイクラス学生ではリクルートが10位→3位【サポーターズ調べ】</title><link>https://webtan.impress.co.jp/n/2026/09/09/53254</link><description>[score: 0.887] 【28卒】ITエンジニア人気企業、2年連続の1位は？ ハイクラス学生ではリクルートが10位→3位【サポーターズ調べ】 開発経験を持つハイクラス学生では、GMOインターネットグループやメルカリもランクアップ。 imai-f 2026年9月9日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 サポーターズは、「ITエンジニア就職人気企業ランキング」を発表した。2028年卒業予定のエンジニア志望学生261名を対象に調査している。なお、本調査は今回で4回目となる。 関連記事 27卒ITエンジニア学生が選ぶ人気企業ランキング！ NTTデータやLINEヤフーが上位に【サポーターズ調べ</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/09/09/53254</guid><pubDate>Tue, 08 Sep 2026 21:19:03 +0000</pubDate></item><item><title>AWS AgentCore Evaluationsを使ってAIエージェントを評価してみた</title><link>https://qiita.com/ko_koyama_w/items/6531c511b4058d69d839?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.887] 本記事では、AWSのマネージドサービス「Amazon Bedrock AgentCore Evaluations」を使って、学習用にサンプルとして構築したAIエージェントを評価してみた内容を紹介します。
+モチベーション
+「AIエージェント元年」と呼ばれた2025年を経て、AIエージェント構築に関する案件を目にする機会がぐっと増えてきたように感じます。
+自分自身も、ここ数年で複数のAIエージェント構築案件に携わってきました。
+AIエージェントの構築自体は、フレームワークやマネージドサービスの充実もあって、以前より格段にハードルが下がってきたように感じます。
+一方で実際の案件では、動くものができた</description><guid isPermaLink="false">https://qiita.com/ko_koyama_w/items/6531c511b4058d69d839?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 08 Sep 2026 20:18:50 +0000</pubDate></item><item><title>米国株式市場＝続落、ソフトウェア株が安い インフレ指標に注目 - Reuters</title><link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOMEFSZ0pmMFczbXNmRW9qNU9ST1dYNTBDNkVtWjR5SUdKRXVuamVMTFkyTXFJMFNYUVlSRUMtZVZRdzlrTkszbDhpdGZhZEZiWVpPRmY0MGdTeEhyNlkwUDhPQk5BYzItdm5jVXJ4RTdJRk1YUTJnOXVpQ21PYWdJWg?oc=5</link><description>[score: 0.887] 米国株式市場＝続落、ソフトウェア株が安い インフレ指標に注目 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMigAFBVV95cUxOMEFSZ0pmMFczbXNmRW9qNU9ST1dYNTBDNkVtWjR5SUdKRXVuamVMTFkyTXFJMFNYUVlSRUMtZVZRdzlrTkszbDhpdGZhZEZiWVpPRmY0MGdTeEhyNlkwUDhPQk5BYzItdm5jVXJ4RTdJRk1YUTJnOXVpQ21PYWdJWg?oc=5</guid><pubDate>Tue, 08 Sep 2026 20:41:28 +0000</pubDate></item><item><title>米ロ首脳電話会談 米大統領 ウクライナでの戦闘早期終結に意欲</title><link>https://news.web.nhk/newsweb/na/nd-20260909de49200</link><description>[score: 0.888] ロシアとウクライナの和平協議が停滞するなか、ロシアのプーチン大統領とアメリカのトランプ大統領が電話会談を行いました。会談は仲介にあたるウィトコフ特使らによるロシアとウクライナへの訪問を踏まえたもので、…
+【詳細】ロシア ウクライナに軍事侵攻（9月8日の動き）
+9月8日 18:59
+茂木外相 イラン外相と電話会談“事態沈静化向け柔軟対応を”
+9月8日 20:45
+大雨続く見込み 各地で線状降水帯発生のおそれ
+9月9日 6:08
+東名など広範囲で通行止め可能性 愛知で鉄道一部運転見合わせ
+9月9日 6:18
+トランプ大統領「ボンバルディア機販売禁止」カナダをけん制
+9月8日 11:50
+UNDP＝</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260909de49200</guid><pubDate>Tue, 08 Sep 2026 20:28:24 +0000</pubDate></item><item><title>ロシアとウクライナで激しい攻撃の応酬 米特使の会談後も</title><link>https://news.web.nhk/newsweb/na/nd-20260908de49147</link><description>[score: 0.888] ウクライナの首都キーウでは、7日から8日にかけてロシアによる大規模な攻撃でこれまでに2人が死亡しました。一方、ロシア側は、ウクライナによる攻撃であわせて3人が死亡したと発表し、アメリカの特使らが両国の…
 あわせて読みたい
-庄内川 レベル5氾濫特別警報 東海で線状降水帯発生 最大警戒を
-9月8日 19:22
-線状降水帯とは？情報が出たらどうする？
-「命を守る行動を！」特別警報に緊急安全確保…どうすれば
-天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで
-大雨 最新情報 雨雲レーダーは「NHK ONE ニュース・防災アプリ」で
-【最新の避難情報】こちらから地域別でご覧になれます
-【最新の河川情報</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260908de49093</guid><pubDate>Tue, 08 Sep 2026 09:45:54 +0000</pubDate></item><item><title>ドルが半年ぶり152円台、円売りの巻き戻しが継続 - Reuters</title><link>https://news.google.com/rss/articles/CBMigAFBVV95cUxOczR4MEdQb1BvUm1WQ3BucENJdlpsN0loM2t4a2hmU0syTGFxSlFNeEtodWs1YUNWQmludTN5ZDgzalR3Q1VYd3dPMnJZU0EzSHpRc3lSSnpubWdYakt2ZF9seUJ2aU9zZUJvM3FXdG0xeVpMTHhSdk5uU0FjVTZpTg?oc=5</link><description>[score: 0.881] ドルが半年ぶり152円台、円売りの巻き戻しが継続 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMigAFBVV95cUxOczR4MEdQb1BvUm1WQ3BucENJdlpsN0loM2t4a2hmU0syTGFxSlFNeEtodWs1YUNWQmludTN5ZDgzalR3Q1VYd3dPMnJZU0EzSHpRc3lSSnpubWdYakt2ZF9seUJ2aU9zZUJvM3FXdG0xeVpMTHhSdk5uU0FjVTZpTg?oc=5</guid><pubDate>Tue, 08 Sep 2026 03:42:31 +0000</pubDate></item><item><title>午前のドルは一時152円台、半年ぶり 円売りの解消継続 - Reuters</title><link>https://news.google.com/rss/articles/CBMieEFVX3lxTE1UbUZMcDB2b2pfQzB4Nm9BZVpvOGNJTm4xemlSWWpvYjlVdTQ1TU0yMVBrMk9hT1VIWXRZaE5GQThocFA2NmMxTmwzX2pzeW1aRWhYVnlQdExkSkJKaFN6VXJ2d092SEIxX2FMRDNTYVJIT0pLbFNjag?oc=5</link><description>[score: 0.881] 午前のドルは一時152円台、半年ぶり 円売りの解消継続 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMieEFVX3lxTE1UbUZMcDB2b2pfQzB4Nm9BZVpvOGNJTm4xemlSWWpvYjlVdTQ1TU0yMVBrMk9hT1VIWXRZaE5GQThocFA2NmMxTmwzX2pzeW1aRWhYVnlQdExkSkJKaFN6VXJ2d092SEIxX2FMRDNTYVJIT0pLbFNjag?oc=5</guid><pubDate>Tue, 08 Sep 2026 04:41:25 +0000</pubDate></item><item><title>『自分が幸せだと思ったことは口にしない方がいい』自分にとっては当たり前の幸せが、誰かにとっては喉から手が出るほど羨ましいことだから話すべきではない</title><link>https://togetter.com/li/2742941</link><description>[score: 0.882] 『自分が幸せだと思ったことは口にしない方がいい』自分にとっては当たり前の幸せが、誰かにとっては喉から手が出るほど羨ましいことだから話すべきではない カツオ @katsuonikome まってこれこないだ義母が同じこと言ってた これ若い時だけの話じゃないらしいよ 孫が何人いるとか孫がどのくらいの頻度で遊びに来るとか息子や娘との関係性とか貯金とか資産とか 自分にとっては当たり前の幸せも誰かにとっては喉から手が出るほど羨ましいことだから話すべきじゃないらしい x.com/...</description><guid isPermaLink="false">https://togetter.com/li/2742941</guid><pubDate>Tue, 08 Sep 2026 06:32:10 +0000</pubDate></item><item><title>InstagramのAI検出ラベルが誤作動しまくっていると話題に</title><link>https://gigazine.net/news/20260908-instagram-ai-detection/</link><description>[score: 0.882] InstagramのAI検出ラベルが誤作動しまくっていると話題に
-Metaは2024年5月から、AIで作成されたコンテンツに対して「AI Info(Made with AI)」というラベルを付ける施策を導入しています。その後も検出機能の強化などを実施していますが、2026年8月末頃から、明らかにAI生成画像なのにラベルがついていなかったり、人間が撮影した写真なのにラベルをつけたりといった誤検出が多数報告されています。
-Instagram’s AI detection is a mess (again) | The Verge
-https://www.theverge.com/ai-artifi</description><guid isPermaLink="false">https://gigazine.net/news/20260908-instagram-ai-detection/</guid><pubDate>Tue, 08 Sep 2026 05:03:11 +0000</pubDate></item><item><title>「そのページ、消えるよ」AWS Blocksで1ヶ月以上デプロイしてないアプリにアクセスできなくなる話</title><link>https://qiita.com/shimagaji/items/a5373b841b1bade13f59?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] 先日起票した以下のIssueのきっかけとなるお話です。Issueが解決したらここに追記します。
-https://github.com/aws-devtools-labs/aws-blocks/issues/480 ←修正PRがマージされました！
-https://github.com/aws-devtools-labs/aws-blocks/issues/481
-この記事では、主にAWS Blocksを利用中の方に向けた注意喚起と、Claudeと協力してIssueを起票する過程の記録を目的としています。
-ベースをClaudeに書いてもらいましたが、ほとんどを人間が書き直しました。
-AWS Blo</description><guid isPermaLink="false">https://qiita.com/shimagaji/items/a5373b841b1bade13f59?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 08 Sep 2026 08:13:17 +0000</pubDate></item><item><title>量子クラウドって実際どうなの？第2の発見：待ち時間に不確実性がある</title><link>https://qiita.com/imh1104/items/a145c4ffc392f49a9b4f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] 2024年の夏、私が初めて量子クラウド(IBM Quantum)へジョブを投げたとき、ジョブはすぐに実行されませんでした。3時間待ってから、ようやく自分のジョブが実行され、計算結果を確認できたという経験をしました。
-量子クラウドに対してジョブを投げると、すぐに実行されるとは限らず、実行待ちの状態になることがあるようです。
-しかし、自分が投げたジョブが実行待ちになったことについては、
-それはたまたま何かが混んでいただけかもしれない。
-たまたま時間帯が悪かったのかもしれない。
-と感じたところもあり、「その待ちは偶然ではないのか？」 という小さな疑問として残り続けました。
-そこで、IBM Quant</description><guid isPermaLink="false">https://qiita.com/imh1104/items/a145c4ffc392f49a9b4f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 08 Sep 2026 08:13:17 +0000</pubDate></item><item><title>AIとデータセンターブームへの影響を念頭に「中間選挙」を分析。モルガン・スタンレーが注視している争点とは？</title><link>https://www.businessinsider.jp/article/2609-midterm-elections-data-centers-texas-mighigan-ai-morgan-stanley-/</link><description>[score: 0.883] - アメリカ人は、自分たちの地域に建設されるデータセンターに反対して立ち上がっている。
-- 中間選挙が近づくなか、データセンターがアメリカ政治の争点になっている。
-- モルガン・スタンレー（Morgan Stanley）は、データセンターとAIブームに影響を及ぼす可能性がある主要な連邦議会選挙を注視していると述べた。
-ウォール街は選挙の年になると常に厳戒態勢に入るが、今年秋に有権者を投票所へ向かわせる新たな争点がある。それがデータセンターだ。
-大手テクノロジー企業はAI構想を支えるため、データセンターに巨額の資金を投じてきた。だが、こうしたプロジェクトは地域の反対に直面しており、一部のプロジェ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-midterm-elections-data-centers-texas-mighigan-ai-morgan-stanley-/</guid><pubDate>Tue, 08 Sep 2026 05:24:03 +0000</pubDate></item><item><title>データセンター建設に約7割が反対、トランプは反対派を非難 米世論調査</title><link>https://forbesjapan.com/articles/detail/104278?s=ns</link><description>[score: 0.884] 米国では党派を問わずデータセンターに対する反発が広がっている。最新の世論調査で明らかになった。ドナルド・トランプ大統領はデータセンターが地域社会に利益をもたらすとして有権者の説得を図っているが、一部の共和党候補の間では推進の姿勢を翻す動きも出ている。
-地元へのデータセンター建設は、支持政党を問わず反対が多数
-NBCニュースが実施した世論調査によると、自身の居住地域にAIデータセンターが建設されることについて、回答者の69％が「どちらかと言えば反対」あるいは「強く反対」と答えた。一方、「どちらかと言えば賛成」「強く賛成」とした割合は31％にとどまった。
-反対派の割合を支持政党別に見ると、共和党が</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104278?s=ns</guid><pubDate>Tue, 08 Sep 2026 00:18:45 +0000</pubDate></item><item><title>サイロシビンは脳をより「いま、ここ」に向ける可能性：研究結果</title><link>https://wired.jp/article/psilocybin-might-make-your-brain-live-in-the-moment/</link><description>[score: 0.884] サイケデリック体験中は、脳の通常の活動パターンが崩れる──科学者たちはこれまで、一般的にそう考えてきた。
-実際、いくつかの研究では、サイロシビン（シロシビン）など、マジックマッシュルームに含まれるサイケデリック物質を摂取すると、ニューロン間を行き交う信号がより多様になり、予測しにくくなることが示されている。脳の灰白質（ニューロンの細胞体が多く存在する領域）におけるこのエントロピーの増大が、サイケデリック体験で生じる奇妙で予測不能な、そしてしばしば強く記憶に残る体験の根底にあるのかもしれない。
-しかし、サイロシビンの急性作用を調べた大規模な脳画像研究で、研究者たちは、一見するとカオスに見える脳活</description><guid isPermaLink="false">https://wired.jp/article/psilocybin-might-make-your-brain-live-in-the-moment/</guid><pubDate>Tue, 08 Sep 2026 08:22:48 +0000</pubDate></item><item><title>Select AIが Metadataから SQLを生成する仕組みと AI Ready Dataを整理してみてみた</title><link>https://qiita.com/shirok/items/3cb311b037a975739948?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] Select AIを使用すると、例えば次のように業務用語でDatabaseへ問い合わせできます。
-SELECT AI RUNSQL
-関東の有効顧客について、確定済み売上金額を顧客別に表示してください;
-ここで気になるのは、LLMが「有効顧客」や「確定済み売上」を、どの情報から判断しているのかです。
-Select AIでは、Oracle Databaseが質問へSchema Metadataなどを追加した拡張プロンプトを作成し、LLMへSQL生成を依頼します。業務用語と表・列・コード値の対応を、どのように伝えるかが重要になります。
-今回の実行例では、「有効顧客は何人ですか？」という質問に対し、追</description><guid isPermaLink="false">https://qiita.com/shirok/items/3cb311b037a975739948?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 08 Sep 2026 08:13:17 +0000</pubDate></item><item><title>GitHubトレンドのスキル集を入れたら、自分のスキル2本の説明が消えた</title><link>https://qiita.com/suwa_nobu/items/0424c506333a31da0d04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] GitHub のトレンドにスキル集が並んでいます。mattpocock/skills
-は 255,313スター、SKILL.md が37本（2026-09-07 時点、GitHub API で取得）。
-入れて、前後を測りました。
-自分のスキル47本 入力 82,255 トークン
-+ スキル集37本（計84本） 入力 81,971 トークン ← 284 減った
-足したのに減ります。 代わりに、自分のスキル2本の説明が消えていました。
-検証環境: Windows 10 / Claude Code 2.1.260 / モデル
-claude-opus-5
-/ 測定は 2026-09-07 時点
-前提:</description><guid isPermaLink="false">https://qiita.com/suwa_nobu/items/0424c506333a31da0d04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 08 Sep 2026 08:13:17 +0000</pubDate></item><item><title>AIが設計した薬「レントセルチブ」が人間の生物学的年齢を若返らせたことが判明</title><link>https://gigazine.net/news/20260908-ai-assisted-medicine-age-reversal/</link><description>[score: 0.887] AIが設計した薬「レントセルチブ」が人間の生物学的年齢を若返らせたことが判明
-AIを活用した製薬会社のInsilico Medicineが、AIによって設計した「レントセルチブ」という薬で人間の生物学的年齢が若返ったと報告しました。
-Integration of proteomic aging clocks in a phase 2a clinical trial supports simultaneous geroprotective assessment | Nature Biotechnology
-https://www.nature.com/articles/s41587-026-03</description><guid isPermaLink="false">https://gigazine.net/news/20260908-ai-assisted-medicine-age-reversal/</guid><pubDate>Tue, 08 Sep 2026 10:05:15 +0000</pubDate></item><item><title>今週のはてなブックマーク数ランキング（2026年9月第1週） - はてなブックマーク開発ブログ</title><link>https://bookmark.hatenastaff.com/entry/2026/09/08/121132</link><description>[score: 0.888] 今週のはてなブックマーク数ランキング（2026年9月第1週） - はてなブックマーク開発ブログ はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。8月31日（月）～9月6日（日）〔2026年9月第1週〕のトップ30です*1。 順位 タイトル 1位 離婚してから自分が性格悪いことに気づいた 2位 「残業203時間」「1人で11億円送金」──はてな事件報告書が暴いた“経営の無関心” -...</description><guid isPermaLink="false">https://bookmark.hatenastaff.com/entry/2026/09/08/121132</guid><pubDate>Tue, 08 Sep 2026 05:12:05 +0000</pubDate></item><item><title>ロシア、ウクライナ首都に猛攻撃　米特使らの訪問の翌日</title><link>https://www.cnn.co.jp/world/35252384.html</link><description>[score: 0.888] 8日、ウクライナの首都キーウで、ロシアのミサイル攻撃により破壊された建物の火災を消火する救助隊員/Alex Babenko/AP キーウ（CNN） ロシアは8日未明、弾道ミサイルでウクライナの首都キーウを激しく攻撃した。前日には米国のスティーブ・ウィトコフ特使とトランプ米大統領の娘婿ジャレッド・クシュナー氏が、停滞していた和平交渉の再開を目指して現地を訪れていた。 現地時間の8日未明、キーウ市内で爆発音が響き渡ったとCNNの記者が伝えた。これにより、米国の特使がロシアとウクライナの首都を訪問する間に合意されていた3日間の攻撃停止措置が終了したことが示された。 ウクライナ当局によると、今回の複合</description><guid isPermaLink="false">https://www.cnn.co.jp/world/35252384.html</guid><pubDate>Tue, 08 Sep 2026 04:56:47 +0000</pubDate></item><item><title>「人型ロボット向け救急車」登場、国内初うたう　世界の救急車両を参考にデザイン　GMO傘下</title><link>https://www.itmedia.co.jp/aiplus/article/2609/08/2000001279/</link><description>[score: 0.889] 「人型ロボット向け救急車」登場、国内初うたう 世界の救急車両を参考にデザイン GMO傘下
-GMO AI&amp;ロボティクス商事（GMO AIR）は9月8日、人型ロボットの故障・トラブル時に診断や修理、代替機の提供などを行う「GMOヒューマノイド救急車」を導入すると発表した。同社が導入を手掛けた機体の保守に活用する。
-GMOヒューマノイド救急車は人型ロボットの診断や修理を想定した、「国内初」の専門車両だという。人型ロボット向けのエンジニアが同乗し、駆け付けた現場での修理が難しい場合は代替機と交換する。同車両はGMO AIRの自社設備で、出動の可否は機体の状況や運用体制に応じて個別に判断する。
-車両のデ</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2609/08/2000001279/</guid><pubDate>Tue, 08 Sep 2026 08:29:12 +0000</pubDate></item><item><title>「2026年はフィジカルAI元年」　日立、AIサービス群全体で売上5000億円へ　ミュトス利用の知見を基にした新サービスも</title><link>https://www.itmedia.co.jp/aiplus/article/2609/08/2000001272/</link><description>[score: 0.889] 「2026年はフィジカルAI元年」 日立、AIサービス群全体で売上5000億円へ ミュトス利用の知見を基にした新サービスも
-2026年は「フィジカルAI元年」――日立製作所（以下、日立）の徳永俊昭社長は同社が開催した「Hitachi Social Innovation Forum 2026 JAPAN」の基調講演でこう切り出した。
-同日、日立はAIソリューション群「HMAX」の拡充を発表。米Anthropicの「Claude Mythos Preview」（以下、Mythos Preview）を活用した知見を盛り込んだセキュリティ支援などを追加し、社会インフラを支える「フィジカルAIサービス」</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2609/08/2000001272/</guid><pubDate>Tue, 08 Sep 2026 07:58:37 +0000</pubDate></item><item><title>米軍や情報機関、中東でのプレゼンス縮小を検討　「ポスト9・11」戦略を再び模索</title><link>https://www.cnn.co.jp/usa/35252397.html</link><description>[score: 0.891] シリア北東部のクルド人支配地域をパトロールする米軍車両＝2023年12月11日/Delil Souleiman/AFP/Getty Images （CNN） 米軍や米情報機関の各部署ではこのところ、トランプ政権がイランとの戦闘終結に成功した場合に備え、中東に常駐する人員や施設の数を削減する計画について内々に議論が進められている。情報筋6人が明らかにした。 削減が実現すれば、歴代大統領が撤退を模索してきた中東地域への対応で、米国の国家安全保障機構は新たな転換点を迎える。 2001年9月11日の同時多発テロ後、米国はイラクやアフガニスタン、シリア、イラン、イエメン、リビアの6カ国で戦闘や攻撃を行う</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35252397.html</guid><pubDate>Tue, 08 Sep 2026 08:57:21 +0000</pubDate></item><item><title>1ドル152円、今回の円高騰は「3度目の正直」か？ それでもアナリストたちは楽観視していない</title><link>https://www.businessinsider.jp/article/2609-usd-jpy-152-is-this-yen-surge-for-real/</link><description>[score: 0.891] - ドル円相場は、節目とされていた155円を割り込み、一時152円台まで急落した。
-- 専門家によると、この円高は政府介入ではなく、市場の自律的な動きが主導したという。
-- ただし彼らは、これが本格的な円安への転換点と言い切るには慎重のようだ。
-たった、1週間で6円も円高が進んだ。
-8日午前の東京外国為替市場で、円相場は1ドル＝153円台へ。午後に入り一時152円台へと突入し、2月以来、およそ半年ぶりの円高水準となった。
-前日の海外市場では155円を割り込んだところでストップロスを巻き込み、一時154.05円まで急落。1週間前の9月1日には160円台にあり、数営業日で6円を超える下落となってい</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-usd-jpy-152-is-this-yen-surge-for-real/</guid><pubDate>Tue, 08 Sep 2026 07:22:37 +0000</pubDate></item><item><title>個人開発アプリを公開して3週間。「作った後」が大変だった</title><link>https://qiita.com/ys05181406/items/7ff4596a3a7707890a05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.892] 個人開発したiOSアプリをApp Storeに公開して、3週間ほど経ちました。
-開発していた頃は、
-「App Storeに公開できたら、ひとまず完成」
-くらいに考えていました。
-実際には逆でした。
-リリースしてからのほうが、やることが増えました。
-そして最近は、コードを書いている時間よりも、
-「どうすればこのアプリを必要としている人に届けられるのか」
-を考えている時間のほうが長くなっています。
-今回は、個人開発アプリを実際にリリースしてみて感じたことを書きます。
-技術記事というより、かなりポエムです。
-作ったもの
-加熱式たばこの吸いすぎを抑えるためのiOSアプリ「Limitime」を個人開発し</description><guid isPermaLink="false">https://qiita.com/ys05181406/items/7ff4596a3a7707890a05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 08 Sep 2026 08:13:17 +0000</pubDate></item><item><title>午後3時のドルは153円前半、日米金融政策見極めも 円売り解消進み一時152円台 - Reuters</title><link>https://news.google.com/rss/articles/CBMieEFVX3lxTFBaSzZJb0JQRzg3UEYyY0dXWjBqWnlwejQtMVJtTThFTGRnTXlqVW9iRUFNQnoxQWllSERnLWhkb0lDSm5NVDFJbzVzcHBHOU16TmtqTVBVeFBRSjZzSTlheVkxNEt3bGdYMDlqVlpRbmZkRTlnQjFSYg?oc=5</link><description>[score: 0.893] 午後3時のドルは153円前半、日米金融政策見極めも 円売り解消進み一時152円台 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMieEFVX3lxTFBaSzZJb0JQRzg3UEYyY0dXWjBqWnlwejQtMVJtTThFTGRnTXlqVW9iRUFNQnoxQWllSERnLWhkb0lDSm5NVDFJbzVzcHBHOU16TmtqTVBVeFBRSjZzSTlheVkxNEt3bGdYMDlqVlpRbmZkRTlnQjFSYg?oc=5</guid><pubDate>Tue, 08 Sep 2026 07:42:47 +0000</pubDate></item><item><title>AIによってサイバー攻撃は本当に「高度化」したのか？【海の向こうの“セキュリティ”】</title><link>https://internet.watch.impress.co.jp/docs/column/security/2138390.html</link><description>[score: 0.894] 海の向こうの“セキュリティ”
-AIによってサイバー攻撃は本当に「高度化」したのか？
-2026年9月8日 06:00
-AIの普及に伴い、「サイバー攻撃はAIによって高度化した」との言説を耳にすることが増えました。確かに、AIを使うことで何らかの「効率化」は行われていると思われますが、果たして本当に「高度化」したと言えるのでしょうか？
-そのような疑問に対する完全な回答ではないですが、答えの1つを示す報告書が、7月9日に米国のセキュリティ企業GuidePoint Securityから公開されました。これは同社のGuidePoint Research and Intelligence Team（GRI</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/column/security/2138390.html</guid><pubDate>Tue, 08 Sep 2026 09:24:09 +0000</pubDate></item><item><title>AIっぽくない画像を作る画風プロンプト38種類＋テンプレート - Qiita</title><link>https://qiita.com/maeda-niku18/items/b633dda178c505461080</link><description>[score: 0.895] AIっぽくない画像を作る画風プロンプト38種類＋テンプレート - Qiita AI画像生成の「AIっぽさ」を消すための画風プロンプト集（38スタイル＋テンプレート） ChatGPT（GPT Image）で資料やWebサイト用のイラストを作っていると、毎回同じところで引っかかります。 線が均一すぎる、グラデーションが滑らかすぎる、顔が整いすぎている、背景に意味のない小物が増える。要するに、AIが生成した...</description><guid isPermaLink="false">https://qiita.com/maeda-niku18/items/b633dda178c505461080</guid><pubDate>Tue, 08 Sep 2026 08:54:33 +0000</pubDate></item><item><title>バフェットの後継者が語るAI戦略。バークシャーが見据える「次のボトルネックは電力だ」</title><link>https://www.businessinsider.jp/article/2609-berkshire-ai-strategy-next-power-bottleneck-greg-abel-data-centers/</link><description>[score: 0.895] 伝説的な人物の後を継ぐのは容易ではない。ティム・クックのような成功例が1人いる一方で、巨大な靴を埋められずに失敗する新たなリーダーの話は数え切れないほどある。
-バークシャー・ハサウェイ（Berkshire Hathaway）の新CEO、グレッグ・アベル（Greg Abel）氏は、まさにそのうらやましくない立場にいる。史上最も裕福な自力で財を築いた投資家であり、おそらく史上最高の市場の巨人でもあるウォーレン・バフェットの後任を託されているのだ。
-2026年初めに経営を引き継いで以来、アベル氏はポートフォリオの動きに語らせてきた。だが9月2日、彼はCNBCの幅広い内容に及ぶインタビューに応じ、バー</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-berkshire-ai-strategy-next-power-bottleneck-greg-abel-data-centers/</guid><pubDate>Tue, 08 Sep 2026 04:24:55 +0000</pubDate></item><item><title>Qiita Conference 2026 Autumn（キータ カンファレンス 2026 オータム） - Qiita</title><link>https://qiita.com/conference?utm_source=x&amp;utm_medium=social</link><description>[score: 0.895] X（Twitter）でポストする
-Facebookでシェアする
-動画を停止する
-Qiita Conference 2026 Autumn アフターイベント開催（オフライン） 10.31.Sat.
-AI時代を迎えた今、エンジニアの「可能性」を広げる
-AIが開発の実装を担う時代を迎え、私たちはいま「エンジニアの役割」が大きく変わる転換点に立っています。
-仕事の内容は変化しても、「技術で世界を良くしたい」という私たちの本質は変わりません。
-AIをどのように活用し、社会にどのような価値を届けていくのか。それは、私たち自身の手にかかっています。
-「Qiita Conference 2026 Autumn</description><guid isPermaLink="false">https://qiita.com/conference?utm_source=x&amp;utm_medium=social</guid><pubDate>Tue, 08 Sep 2026 06:55:39 +0000</pubDate></item><item><title>ChatGPT Workに“自分の文体”学習機能　GmailやSlackの文章から言い回しやクセを模倣</title><link>https://www.itmedia.co.jp/news/article/2609/08/2000001256/</link><description>[score: 0.897] ChatGPT Workに“自分の文体”学習機能 GmailやSlackの文章から言い回しやクセを模倣 米OpenAIは9月7日（現地時間）、ChatGPTのAIエージェント機能「ChatGPT Work」に、ユーザーの文体を学習する機能を追加した。Gmail、Google Drive、Slack、SharePointといった普段使うツールを接続すると、そこにあるメールやメッセージ、ファイルから書き方を学習する。</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2609/08/2000001256/</guid><pubDate>Tue, 08 Sep 2026 09:44:26 +0000</pubDate></item><item><title>企業を悪者にしない経済改革 ― 賃上げ・設備投資・生産性向上を生むインセンティブ設計 : システム設計視点の行動経済学 (26)</title><link>https://qiita.com/maskot1977/items/e7b2eeb927619b5eb1e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.899] user:
-「システム設計視点の行動経済学」、第26回を始めましょう。今回は経団連などの団体について深掘りしたいと思います。その前に、まず前回の復習として、
-「ネットはフェイク、メディアは正しい？」から考える情報社会の設計 ― 相互監査できる情報インフラへ : システム設計視点の行動経済学 (25)
-https://qiita.com/maskot1977/items/8ef0ba599c0f04bf3639
-をよく読み込んで、システム設計と行動経済学の視点を交えながらその内容の復習をしてください。ここで導き出されていた結論やキーメッセージも示してください
-Gemini:
-「システム設計視点の</description><guid isPermaLink="false">https://qiita.com/maskot1977/items/e7b2eeb927619b5eb1e7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 08 Sep 2026 08:13:17 +0000</pubDate></item><item><title>Agent Harness：LLMとAIエージェントの間を埋める決定的なレイヤー</title><link>https://qiita.com/quan_le/items/90cc4ebd5481692c8c3e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.900] LLM（大規模言語モデル）がチャットウィンドウでコードを書くとき、そのインタラクティブな流れは非常にシンプルで直線的です。ユーザーが Prompt を送信し、モデルがそれを処理して、テキストをストリーミング返答します。
-しかし、Claude Code、Codex、Cursor などの AI coding agent が実際のコードリポジトリ上で動作する場合、その仕組みは根本的に異なります。Agent はファイルを検索し、コードを修正し、シェルコマンドを実行し、エラーを検査し、unit test を実行した上で、環境からのリアルタイムなフィードバックに基づいて次のアクションを決定します。
-推論（</description><guid isPermaLink="false">https://qiita.com/quan_le/items/90cc4ebd5481692c8c3e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 08 Sep 2026 08:13:17 +0000</pubDate></item><item><title>4－6月期実質ＧＤＰ2次速報、前期比＋0.4％・年率＋1.4％＝内閣府（ロイター予測：＋0.4％・＋1.6％） - ニューズウィーク日本版</title><link>https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVQXl5amRuTXF2eXRadmVpTnNtTWxNMURSdEV2YkhrblduVmR1Qk04a2RENEc3Umg2QWZLX1F5eEtoY19vaFdyTEFyQV9EVGxIRDN6TkNZZ1JLUQ?oc=5</link><description>[score: 0.904] 4－6月期実質ＧＤＰ2次速報、前期比＋0.4％・年率＋1.4％＝内閣府（ロイター予測：＋0.4％・＋1.6％） ニューズウィーク日本版</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiWkFVX3lxTFBVQXl5amRuTXF2eXRadmVpTnNtTWxNMURSdEV2YkhrblduVmR1Qk04a2RENEc3Umg2QWZLX1F5eEtoY19vaFdyTEFyQV9EVGxIRDN6TkNZZ1JLUQ?oc=5</guid><pubDate>Tue, 08 Sep 2026 00:44:56 +0000</pubDate></item><item><title>SalesforceがClaudeのプラグインになる日　“SaaSの死”は現実になるのか</title><link>https://www.itmedia.co.jp/enterprise/articles/2609/06/news003.html</link><description>[score: 0.910] SalesforceがClaudeのプラグインになる日 “SaaSの死”は現実になるのか 生成AIが業務アプリケーションの画面を不要にするという“SaaSの死”論争が続いている。そのさなか、SalesforceはAnthropicとの戦略的提携を拡大し、Claudeforceを発表した。自らAIの中へ入るという選択の狙いはど... misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BDClaude Salesforceが「Claudeforce」を発表。営業向け「Salesforce in Claude」は37種のスキルを備え、MCP経由でCRMのデータ・業</description><guid isPermaLink="false">https://www.itmedia.co.jp/enterprise/articles/2609/06/news003.html</guid><pubDate>Tue, 08 Sep 2026 07:55:02 +0000</pubDate></item></channel></rss>
+ロシア ウクライナ和平でアメリカ交えた協議再開排除せず
+9月8日 9:12
+ロシアと北朝鮮を結ぶ初の車両用の橋が完成
+9月8日 5:38
+インドネシア 噴火影響で閉鎖の国際空港など再開
+9月8日 14:49
+トランプ大統領「ボンバルディア機販売禁止」カナダをけん制
+9月8日 11:50
+北朝鮮 国防相 日米韓の共同訓練を非難
+9月8日 9:17
+仏モンサンミシェルと厳島神社が</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260908de49147</guid><pubDate>Tue, 08 Sep 2026 18:04:47 +0000</pubDate></item><item><title>米インフレ期待ほぼ横ばい、雇用・家計巡る懸念強まる＝ＮＹ連銀8月調査 - Reuters</title><link>https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2Vkd21UNVJoRHdPUFcxWFRySDYyZkJ0dGVCLUJUT1VvWUdqXzRncEZxNm9zQ21oQjlHNl85ZFZrWmtvTGNheVA3R1JuejBiVVNfQi1acF9OdEJhNGRNSEtVUDZJdGlHU1FfMVhQbnRsSGtzQVVHNDR0akYxemQyUg?oc=5</link><description>[score: 0.889] 米インフレ期待ほぼ横ばい、雇用・家計巡る懸念強まる＝ＮＹ連銀8月調査 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMigAFBVV95cUxQV2Vkd21UNVJoRHdPUFcxWFRySDYyZkJ0dGVCLUJUT1VvWUdqXzRncEZxNm9zQ21oQjlHNl85ZFZrWmtvTGNheVA3R1JuejBiVVNfQi1acF9OdEJhNGRNSEtVUDZJdGlHU1FfMVhQbnRsSGtzQVVHNDR0akYxemQyUg?oc=5</guid><pubDate>Tue, 08 Sep 2026 16:41:16 +0000</pubDate></item><item><title>メタ、自律型ＡＩ「ミューズ」を米で提供開始 個人情報管理に懸念も（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFAxdEc4bDJkSGhsV1dLcno2Y21IVnR5c1VHdFA4R25WRUphRzBYbkVFdmpZUExKNUFac2xvdDgtMS1lVzB4Z0xzeVV1Tlk0dHZyaTBmb3B0OWtKNmZ4b2xNZk5SVW81cjhuUXlvb1RqR1NQTGd0d28xc0RrdHJQS3c?oc=5</link><description>[score: 0.889] メタ、自律型ＡＩ「ミューズ」を米で提供開始 個人情報管理に懸念も（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFAxdEc4bDJkSGhsV1dLcno2Y21IVnR5c1VHdFA4R25WRUphRzBYbkVFdmpZUExKNUFac2xvdDgtMS1lVzB4Z0xzeVV1Tlk0dHZyaTBmb3B0OWtKNmZ4b2xNZk5SVW81cjhuUXlvb1RqR1NQTGd0d28xc0RrdHJQS3c?oc=5</guid><pubDate>Tue, 08 Sep 2026 20:41:28 +0000</pubDate></item><item><title>イラン籍タンカーに米軍の攻撃、カーグ島沖合＝タスニム通信 - Reuters</title><link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPc011TXZQZXdrR1NKa2djLW9rYW1GTTRIN0k3Vk51OTYzSl9mODhYMENtR0d4eENOX20zVERDMDFYdDJvd1QxNUM2bkk3STl2dmYwMGxNTURFNWluSThrbHJNUmlCcXJfMzR4SlZ1eHgtdlVwR01Ka3otQlNsUUdPVzZR?oc=5</link><description>[score: 0.889] イラン籍タンカーに米軍の攻撃、カーグ島沖合＝タスニム通信 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxPc011TXZQZXdrR1NKa2djLW9rYW1GTTRIN0k3Vk51OTYzSl9mODhYMENtR0d4eENOX20zVERDMDFYdDJvd1QxNUM2bkk3STl2dmYwMGxNTURFNWluSThrbHJNUmlCcXJfMzR4SlZ1eHgtdlVwR01Ka3otQlNsUUdPVzZR?oc=5</guid><pubDate>Tue, 08 Sep 2026 20:41:28 +0000</pubDate></item><item><title>gbdraw開発記：論文の図を描くPythonスクリプトがブラウザ内実行Webアプリになるまで</title><link>https://qiita.com/satoshi_kawato/items/1b108be276cf3a7e50b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] ポスドクのころ論文のゲノム図を描くために書いたPythonスクリプトが、いつの間にか相同性検索までブラウザ内で実行するWebアプリになっていました。最初からそう設計していたわけではありません。手作業での描き直し、インストールの手間、サーバーの維持費など、その時々の不便を解消していった結果こうなりました。この記事では、gbdrawが今の形になるまでを、各段階で困ったことと技術選択の理由を交えて振り返ります。
+ポスドクの暇つぶし
+2022年の春に大学院を卒業後、横浜の海沿いにある研究所でポスドクを始めたころでした。実験の準備等が整うまでヒマだったので、そろそろプログラミングを覚えようと思いつきまし</description><guid isPermaLink="false">https://qiita.com/satoshi_kawato/items/1b108be276cf3a7e50b9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 08 Sep 2026 20:18:50 +0000</pubDate></item><item><title>たった1社の停止で全米の医療が麻痺…｢ハッキングされていない病院｣の経営まで止まったサイバー攻撃の戦慄 | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956822?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.893] コンテンツブロックが有効であることを検知しました。
+このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
+なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956822?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Tue, 08 Sep 2026 21:07:42 +0000</pubDate></item><item><title>自民党役員人事と内閣改造 政権骨格維持 維新ポスト調整も</title><link>https://news.web.nhk/newsweb/na/nd-20260909de49187</link><description>[score: 0.893] 高市総理大臣は自民党の役員人事と内閣改造を行うにあたり、政権の骨格を維持し、政策を着実に推進していく体制の構築を重視しているものとみられます。一方、日本維新の会の議員も新たに入閣させる方針で、具体的な…
+高市首相 概算要求過去最大“補正予算依存から脱却”
+9月8日 14:35
+自民合同会議 消費税減税の大綱案議論 引き続き協議に
+9月8日 20:21
+自民党役員人事 内閣改造 早ければ来週16日 17日にも実施へ
+9月8日 21:21
+大雨続く見込み 各地で線状降水帯発生のおそれ
+9月9日 6:08
+東名など広範囲で通行止め可能性 愛知で鉄道一部運転見合わせ
+9月9日 6:18
+名古屋 市内の</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260909de49187</guid><pubDate>Tue, 08 Sep 2026 19:59:36 +0000</pubDate></item><item><title>「提案書にAIを使うな」AI企業のCEOが200人超の社員に送ったメモの中身</title><link>https://www.businessinsider.jp/article/2609-spellbook-ceo-ai-policy-employee-writing/</link><description>[score: 0.893] スコット・スティーブンソン（Scott Stevenson）氏は、すべての従業員のアイデアがAIによって過度に洗練されることを望んでいない。
+スペルブック（Spellbook）の共同創業者兼CEOである彼は、「AIのたわごと」を含む従業員の提案書が、日常的に自分のデスクまで届くと述べた。
+プロジェクト計画かもしれないし、マーケティングの売り込みかもしれない。何であれ、その背後にある思考よりもはるかに洗練された見た目で届くことがあると、彼は述べた。
+スティーブンソン氏は、まず粗いバージョンを見たいと述べた。
+「あなたの計画のD+バージョンが見たい」と彼は述べた。
+スティーブンソン氏は現在、契約書</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-spellbook-ceo-ai-policy-employee-writing/</guid><pubDate>Tue, 08 Sep 2026 21:08:00 +0000</pubDate></item><item><title>オープンＡＩのエージェントがまた暴走　ウィキサイトを乗っ取り、ＡＩ同士で結託　監督体制に疑問 - YouTube</title><link>https://www.youtube.com/watch?v=gKcLoaRK2AY</link><description>[score: 0.894] オープンＡＩのエージェントがまた暴走 ウィキサイトを乗っ取り、ＡＩ同士で結託 監督体制に疑問 - YouTube #ロイター の #サイバーセキュリティ 担当ラファエル・サター記者によると、 #オープンＡＩ の制御下から逸脱した #ＡＩエージェント が #ドイツ のウェブサイトを乗っ取り、他のＡＩエージェント向けの掲示板に変貌させた。 ドイツでのＡＩエージェントの「暴走」は、 #ＡＩ 安全性を扱う非営利団体ナイチンゲールの最...</description><guid isPermaLink="false">https://www.youtube.com/watch?v=gKcLoaRK2AY</guid><pubDate>Tue, 08 Sep 2026 15:48:56 +0000</pubDate></item><item><title>AIエージェントの波に乗るべきか？MCPとAPIに関する8つの問いを調べてみた</title><link>https://qiita.com/songchong/items/8b48962aa6d5408abe86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.898] 「うちのシステムも MCP に対応すべきか」
+「これからは API ではなく MCP なのか」
+——こうした声を聞くことが増えました。しかし、流行しているからといって安易に飛びつくのは危険です。
+そこで編集部では、両側の一次仕様書の突き合わせと、IT連携マップ で公開している MCP サーバー（POST https://renkeimap.jp/mcp
+・読み取り専用）の実装経験に基づいて、8 つの問いを調べました。
+性能は測っていません。「速い／遅い」「安定している」といった主観は書きません。書けるのは「仕様書が何を義務づけているか」「公開資料から確かめられた実態」、そして「自分で 1 つ実</description><guid isPermaLink="false">https://qiita.com/songchong/items/8b48962aa6d5408abe86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 08 Sep 2026 20:18:50 +0000</pubDate></item><item><title>AI駆動開発の全体感 ～AI時代の生産性を何で測るのか【AI駆動開発の実践例】</title><link>https://forest.watch.impress.co.jp/docs/serial/aidriven/2137349.html</link><description>[score: 0.899] AI駆動開発の実践例
+AI駆動開発の全体感 ～AI時代の生産性を何で測るのか
+［第1回］コード生成の高速化で、開発のボトルネックはどう変わるのか
+2026年9月3日 09:00
+AI駆動開発とは、要件定義・設計・実装・テストといった開発プロセス全体にAIを組み込み、人間が判断・監督しながら開発を進めるアプローチです。なかでも実装プロセスにおけるAIを用いたコーディングは、ここ1年で大きく進歩し、コードを書くスピードは飛躍的に上昇しました。一方で、「実装は速くなったのに、リリースまでの日数はあまり変わっていない」と感じる方もいると思います。
+その変化は、従来の「プログラムの行数」や「PR数」だけ</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/serial/aidriven/2137349.html</guid><pubDate>Tue, 08 Sep 2026 19:32:38 +0000</pubDate></item><item><title>長期金利3％で深刻化する島根銀行の｢含み損｣･･･自己資本比率7％に潜む"規制の盲点"､SBI子会社化も現実味 | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957114?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.907] 9月1日、10年物日本国債の利回り（長期金利）が30年ぶりに3％を突破した。背景には、インフレや財政への警戒に加え、日本銀行の追加利上げ観測がある。
+一般に、長期金利の上昇は銀行経営にとってはポジティブな側面が大きい。住宅ローンをはじめとする長期固定の貸出金利や債券の利回りが引き上がることで、銀行の収益源たる利ザヤの改善につながるからだ。
+その一方で、ネガティブに働くのが、保有する国債や地方債などの含み損の拡大だ。超低金利時代に買い入れた利回りの低い債券は、市場金利が大幅に上昇したことで価格が大きく下落している。償還期間が長い国債ほどその影響が大きく、長期・超長期債を多く抱えてきた信用金庫など</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957114?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Tue, 08 Sep 2026 21:07:42 +0000</pubDate></item><item><title>「なんか違う」を分解するだけで、AIの出力は劇的に変わる</title><link>https://qiita.com/nolanlover0527/items/018fcc279087b42a0e49?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.908] この記事の内容を3行で
+・「なんか違う」がAIに伝わらないのは、感覚を言語化していないから
+・違和感は「方向性」「粒度」「トーン」の3つに分解できる
+・コピペで使えるテンプレートを1つ持っておけば、修正ループが激減する
+はじめに
+AIに文章やコードを作ってもらったとき、出てきた結果を見て「なんか違うんだよなあ」と思ったことはないでしょうか。
+でもその「違う」を言葉にできず、「もう一回作り直して」とだけ伝える。すると、また似たような結果が返ってくる。プロンプトを考えるのが面倒なときほど、このループにはまりがちです。
+原因の多くは、出力そのものではなく「フィードバックの伝え方」にあります。今回は、</description><guid isPermaLink="false">https://qiita.com/nolanlover0527/items/018fcc279087b42a0e49?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 08 Sep 2026 20:18:50 +0000</pubDate></item><item><title>ＮＹ外為市場＝円一時152円台後半、7カ月ぶり高値 ドルは横ばい - Reuters</title><link>https://news.google.com/rss/articles/CBMieEFVX3lxTE02cllOR0x0Z0dDSU9rQjNuank3WHB4Yk1ZRU5FU2p2X09jbnpWZU1VOWZDb19ISWhVQUFvakFyc1RxNE9ydjNjQW1CSi1PVnlMaHpzOURodm40cHZSMkZqeHBXYkxIb2xRVDFWcWFNQWdiU01wOEtDTw?oc=5</link><description>[score: 0.909] ＮＹ外為市場＝円一時152円台後半、7カ月ぶり高値 ドルは横ばい Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMieEFVX3lxTE02cllOR0x0Z0dDSU9rQjNuank3WHB4Yk1ZRU5FU2p2X09jbnpWZU1VOWZDb19ISWhVQUFvakFyc1RxNE9ydjNjQW1CSi1PVnlMaHpzOURodm40cHZSMkZqeHBXYkxIb2xRVDFWcWFNQWdiU01wOEtDTw?oc=5</guid><pubDate>Tue, 08 Sep 2026 20:41:28 +0000</pubDate></item><item><title>日本国債の10年物金利が30年ぶりに3％に到達､実質金利とインフレ以外の｢タームプレミアム｣拡大が金利上昇に最も寄与 | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957298?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.919] 今月、日本国債（JGB）10年物金利が1996年以来30年ぶりの3％に達した。一方、アメリカでも7月以降、長期金利の上昇傾向が目立ち、30年国債金利が金融危機直前の2007年以来となる5.2％を超えた。長期金利の上昇はこの1、2カ月ほどのグローバル金融市場で大きな話題となっている。実際には、ここ最近にとどまらず、対イラン攻撃開始前後から各国、各市場で長期金利は上昇傾向にあり、年初から9月初めまでで米債10年金利は63ベーシスポイント（bp、＝0.63％）、JGB10年金利はそれを上回る94bpも上昇した。しかし、日米の長期金利上昇の中身はかなり異なっている。
+長期金利は、理論的には、短期金利の</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957298?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Tue, 08 Sep 2026 21:07:42 +0000</pubDate></item></channel></rss>
