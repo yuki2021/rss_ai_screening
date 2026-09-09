@@ -1,135 +1,101 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 09 Sep 2026 21:23:53 +0000</lastBuildDate><item><title>Jacob Coxon @hilbertspaess I resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambl</title><link>https://x.com/hilbertspaess/status/2097476196791709843</link><description>[score: 0.882] Jacob Coxon @hilbertspaess I resigned from Anthropic today. I spent the last three years doing pretraining research at both OpenAI and Anthropic. Neither company is acting responsibly. They are racing straight to self-improving superintelligence and gambl misshiki Anthropic%E4%BA%BA%E5%B7%A5%E7%9F%A</description><guid isPermaLink="false">https://x.com/hilbertspaess/status/2097476196791709843</guid><pubDate>Wed, 09 Sep 2026 12:35:25 +0000</pubDate></item><item><title>｢約2万人流出｣を明かしたのは委託元だった…ライザップの"シャドーAI"による情報漏洩で露呈した不透明な対応 | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957435?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.882] コンテンツブロックが有効であることを検知しました。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 09 Sep 2026 23:03:38 +0000</lastBuildDate><item><title>29歳以下の男性の50%以上が｢恋愛経験ゼロ｣…若者が結婚どころか恋愛すら"キャンセル"してしまう本当の原因 | ライフ | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957328?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.879] コンテンツブロックが有効であることを検知しました。
 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957435?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Wed, 09 Sep 2026 21:03:04 +0000</pubDate></item><item><title>中道 立民・公明出身者で分裂へ 統一会派での連携維持が課題</title><link>https://news.web.nhk/newsweb/na/nd-20260909de49377</link><description>[score: 0.883] 中道改革連合は、立憲民主党出身者と公明党出身者に分かれる方針を決め、結成から8か月で分裂することになりました。
-双方は、国会での勢力確保に向け衆議院で統一会派を組む方針で、連携を維持して政権に対じし…
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957328?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Wed, 09 Sep 2026 23:00:11 +0000</pubDate></item><item><title>玉城デニー氏「那覇空港の管理は県です」は誤り　国が一元的に管理【沖縄知事選ファクトチェック】 | 沖縄タイムス＋プラス</title><link>https://www.okinawatimes.co.jp/articles/-/1919972</link><description>[score: 0.879] 玉城デニー氏「那覇空港の管理は県です」は誤り 国が一元的に管理【沖縄知事選ファクトチェック】 | 沖縄タイムス＋プラス 知事選の集会で、玉城デニー氏が那覇空港について「管理は県です」と発言した。那覇空港は国が管理しており、ファクトチェックの結果は「誤り」だった。 玉城氏は８月３０日、うるま市の集会で「那覇空港は国の所有です。管理は県です。でも、那覇空港に米軍が入るスペースは１ミリもない。私は絶対に認めない」と発言。...</description><guid isPermaLink="false">https://www.okinawatimes.co.jp/articles/-/1919972</guid><pubDate>Wed, 09 Sep 2026 22:07:02 +0000</pubDate></item><item><title>｢健康データ記録だけ｣で1万6800円なのに爆売れ！…わずか12g《Google新製品》2週間使ってわかった｢ちょっと残念｣な点 | ライフ | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957230?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.879] コンテンツブロックが有効であることを検知しました。
+このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
+なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957230?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Wed, 09 Sep 2026 21:22:05 +0000</pubDate></item><item><title>ドイツ連邦議会で演説するメルツ首相＝9日、ベルリン（ロイター＝共同） - ドイツ極右政策は「民族浄化」 メルツ首相、議会で非難 - 写真・画像(1/1) - 西日本新聞me</title><link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hemRrbG5rbEFkTHhwSnd6OTB4MUk0c0RtXzk3dzE4cmVwbHYxdE9YN1UwdVpLWWJURUhHR255dGxRX2h4WExPM2J0OEpiQWx0Z3VQdlo4VQ?oc=5</link><description>[score: 0.880] ドイツ連邦議会で演説するメルツ首相＝9日、ベルリン（ロイター＝共同） - ドイツ極右政策は「民族浄化」 メルツ首相、議会で非難 - 写真・画像(1/1) 西日本新聞me</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiV0FVX3lxTE1hemRrbG5rbEFkTHhwSnd6OTB4MUk0c0RtXzk3dzE4cmVwbHYxdE9YN1UwdVpLWWJURUhHR255dGxRX2h4WExPM2J0OEpiQWx0Z3VQdlo4VQ?oc=5</guid><pubDate>Wed, 09 Sep 2026 21:39:09 +0000</pubDate></item><item><title>ロシア、将来の紛争に備え兵器備蓄拡大か　独国防相が警告 - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5QdG5ycjFGVW9SRVBlQ1VYeng0SWktQW9pakVfM0E4QjVjSXEzQ0RWU21rOEIzVmtKZ0Y4a0NRSjQydDBWYzc3MWJoTk5NazRwQ2hmd0xiZlJSRVlFTTVDRnNYOFl3T3Y4WDBFR2l3NUN2T2JwTnROaEJaNVBJZ9IBgwFBVV95cUxOUnJUeGdGMmZXMnNsbi0waW42emQ3SC1GamZsVzV4UTdyTkF5dEhmU0ZndWliakloX2pEU0F0eDZWYVZodnZMcEIwMWF6aWZYang1WlNDRUI2Q3I3bW9yS3M4LTM2eVBBWnJpVDFHTjJLTkZMR0ZjZ3VCdUR2WEszME9wSQ?oc=5</link><description>[score: 0.880] ロシア、将来の紛争に備え兵器備蓄拡大か 独国防相が警告 ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE5QdG5ycjFGVW9SRVBlQ1VYeng0SWktQW9pakVfM0E4QjVjSXEzQ0RWU21rOEIzVmtKZ0Y4a0NRSjQydDBWYzc3MWJoTk5NazRwQ2hmd0xiZlJSRVlFTTVDRnNYOFl3T3Y4WDBFR2l3NUN2T2JwTnROaEJaNVBJZ9IBgwFBVV95cUxOUnJUeGdGMmZXMnNsbi0waW42emQ3SC1GamZsVzV4UTdyTkF5dEhmU0ZndWliakloX2pEU0F0eDZWYVZodnZMcEIwMWF6aWZYang1WlNDRUI2Q3I3bW9yS3M4LTM2eVBBWnJpVDFHTjJLTkZMR0ZjZ3VCdUR2WEszME9wSQ?oc=5</guid><pubDate>Wed, 09 Sep 2026 22:39:25 +0000</pubDate></item><item><title>やっぱり｢愛子天皇待望論｣を無視できなかった…皇室研究家が高市首相の｢異例の長文投稿｣に読み取った"焦り"</title><link>https://president.jp/articles/-/118725</link><description>[score: 0.880] やっぱり｢愛子天皇待望論｣を無視できなかった…皇室研究家が高市首相の｢異例の長文投稿｣に読み取った"焦り" 高市早苗首相は9月5日、自身のX（旧ツイッター）に、8月に成立した改正皇室典範について長文の投稿を行った。皇室研究家で神道学者の高森明勅さんは「この投稿は一言でいえば『今回の皇室典範の改正で「女性天皇への道」は閉ざしていません！ 誤解しないでください』という内容だった。だから、強気の『反論』というよ...</description><guid isPermaLink="false">https://president.jp/articles/-/118725</guid><pubDate>Wed, 09 Sep 2026 22:07:02 +0000</pubDate></item><item><title>ラスカー賞に睡眠研究の筑波大 柳沢教授らと中外製薬研究者3人</title><link>https://news.web.nhk/newsweb/na/nd-20260910de49414</link><description>[score: 0.881] アメリカでもっとも権威のある医学賞とされる「ラスカー賞」のことしの受賞者が発表され、筑波大学の柳沢正史教授と中外製薬の研究者3人が選ばれました。
+これは、9日、アメリカのラスカー財団が発表したもの…
 あわせて読みたい
-SNSで関心高まる沖縄県知事選 YouTube動画を分析すると…
-9月5日 17:30
-洋菓子店3人死亡事件 死亡の2人 住人の中学時代の同級生と確認
-9月9日 20:39
-関東甲信や伊豆諸島 明け方にかけて激しい雨のおそれ
-9月10日 0:24
+ネパール土石流 発生から2週間 国際社会に支援呼びかけへ
+9月9日 20:31
+「トランプ氏は党大会に賭けている」イラン情勢で揺れるMAGA派
+9月9日 18:44
+アメリカ 共和党が9日から異例の党大会 トランプ大統領前面に
+9月9日 20:15
+米長官「今や私が『胴元』」 市場にない情報あると強調
+9月9日 14:13
+米軍がイランのタンカー攻撃 イランは米軍基地にミサイル攻</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260910de49414</guid><pubDate>Wed, 09 Sep 2026 22:12:47 +0000</pubDate></item><item><title>広い範囲で大気不安定 地盤緩んでいるため土砂災害などに注意</title><link>https://news.web.nhk/newsweb/na/nd-20260909de49378</link><description>[score: 0.881] 秋雨前線や低気圧の影響で、10日も広い範囲で大気の状態が不安定になっていて、伊豆諸島では局地的に雨雲が発達して「レベル4土砂災害危険警報」が発表されている地域があり、厳重な警戒が必要です。
+このほか…
+あわせて読みたい
 【動画】名古屋 大雨 23人けが 路上で動けない車両200台以上
 9月9日 22:12
-高速道路 約10キロ逆走 警察が追跡 渋谷で</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260909de49377</guid><pubDate>Wed, 09 Sep 2026 20:13:08 +0000</pubDate></item><item><title>チョルノービリ原発 日本の支援で太陽光発電設備が完成</title><link>https://news.web.nhk/newsweb/na/nd-20260909de49406</link><description>[score: 0.884] ロシアの攻撃を受けたウクライナ北部のチョルノービリ原子力発電所で、安定的な電力供給のための大規模な太陽光発電設備が日本の支援で完成し、9日、記念式典が開かれました。
-40年前、史上最悪といわれる事…
+中道 立民・公明出身者で分裂へ 統一会派での連携維持が課題
+9月10日 5:02
+熊本地震 地震調査委“今後2週間程度は震度5弱以上に注意”
+9月10日 0:19
+国連本部で日本寄贈の「平和の鐘」鳴らす式典
+9月10日 5:23
+東京 狛江 強盗致死事件 実行役の被告 無期懲役確定へ
+9月1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260909de49378</guid><pubDate>Wed, 09 Sep 2026 21:42:13 +0000</pubDate></item><item><title>1万のAIエージェントが ミレニアム懸賞問題を解決、 人間の数学者に残る役割は？</title><link>https://www.technologyreview.jp/s/390431/what-openais-latest-controversy-tells-us-about-the-future-of-math/</link><description>[score: 0.882] 1万のAIエージェントが
+ミレニアム懸賞問題を解決、
+人間の数学者に残る役割は？
+2人の数学者が公開モデルと1年かけて進めた研究は、完全な解には届かなかった。オープンAIは社内モデルと約1万のAIエージェントを投じ、数日で解いた。かかった費用は数百万ドル。数学の最難問が、潤沢な資金と専用モデルを持つ企業の領域になりつつある。 by Grace Huckins2026.09.10
+- この記事の3つのポイント
+-
+- オープンAIがAIエージェントによるミレニアム懸賞問題の解決を発表も、先行研究者への帰属をめぐり激しい論争が勃発
+- 解決には約1万エージェントの並列稼働と数百万ドルの費用を要し、</description><guid isPermaLink="false">https://www.technologyreview.jp/s/390431/what-openais-latest-controversy-tells-us-about-the-future-of-math/</guid><pubDate>Wed, 09 Sep 2026 21:38:33 +0000</pubDate></item><item><title>アップル、最上位機「iPhone 18 Pro/Pro Max」だけを発表。標準機不在で進む高付加価値シフト</title><link>https://www.businessinsider.jp/article/2609-apple-iphone-18-pro-launch/</link><description>[score: 0.883] アップルは9月9日（現地時間）、スマートフォンのフラッグシップモデル「iPhone 18 Pro」「iPhone 18 Pro Max」を発表した。
+本体のカラーバリエーションはブラック、シルバー、グレイシャー、バーガンディの4色展開。日本でのストレージ別の直販価格（いずれも税込）は以下の通りで、いずれも予約受付は9月12日午後9時に開始し、9月18日に発売する予定だ。
+iPhone 18 Pro
+- 256GB……21万9800円
+- 512GB……25万4800円
+- 1TB……32万4800円
+- 2TB……42万9800円
+iPhone 18 Pro Max
+- 256GB……23万9</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-apple-iphone-18-pro-launch/</guid><pubDate>Wed, 09 Sep 2026 22:14:39 +0000</pubDate></item><item><title>「iPhone 18 Pro」登場！A20 Proで性能向上し、可変絞りカメラも搭載</title><link>https://pc.watch.impress.co.jp/docs/news/2139664.html</link><description>[score: 0.883] ニュース
+「iPhone 18 Pro」登場！A20 Proで性能向上し、可変絞りカメラも搭載
+2026年9月10日 03:03
+新プロセッサとカメラシステムをまとって登場した。Appleは、フラグシップスマートフォン「iPhone 18 Pro」および「iPhone 18 Pro Max」を発表した。9月12日に予約受付を開始し、9月18日に発売する。米国での価格はiPhone 18 Proが1,199ドル(約18万4,000円)から、iPhone 18 Pro Maxが1,299ドル(約19万9,000円)から。
+iPhone 18 Proは、2nmプロセスを採用した新SoC「A20 Pr</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2139664.html</guid><pubDate>Wed, 09 Sep 2026 22:28:54 +0000</pubDate></item><item><title>iPhone 18シリーズは知的な「パーソナルハブ」を目指す　アップル新製品</title><link>https://www.watch.impress.co.jp/docs/news/2139688.html</link><description>[score: 0.884] ニュース
+iPhone 18シリーズは知的な「パーソナルハブ」を目指す アップル新製品
+2026年9月10日 06:27
+アップルは9日(現地時間)、「iPhone 18」シリーズを発表した。ラインアップは「iPhone 18 Pro」「iPhone 18 Pro Max」、そして同社初のフォルダブルスマートフォン「iPhone Duo」の3モデル。iPhone 17の後継機となる無印モデルやiPhone Airは登場せず、上位機種のみがリニューアルしたこととなる。
+Pro/Pro Maxは12日から予約を開始し、18日に発売する。価格はiPhone 18 Proが219,800円(256GB</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2139688.html</guid><pubDate>Wed, 09 Sep 2026 21:32:21 +0000</pubDate></item><item><title>アップル 初の折りたたみ式スマホ発表 販売価格36万円余から</title><link>https://news.web.nhk/newsweb/na/nd-20260909de49403</link><description>[score: 0.884] アメリカのIT大手「アップル」は9日、西部カリフォルニア州の本社で最新の製品を発表し、日本での販売価格が36万円余りの折りたたみ式のスマートフォンを披露しました。
+折りたたみ式の端末は各メーカーの間…
 あわせて読みたい
-ウクライナ 深まる苦境 ゼレンスキー大統領の試練
-9月9日 15:02
-ネパール土石流 発生から2週間 国際社会に支援呼びかけへ
-9月9日 20:31
-「トランプ氏は党大会に賭けている」イラン情勢で揺れるMAGA派
-9月9日 18:44
-アメリカ 共和党が9日から異例の党大会 トランプ大統領前面に
-9月9日 20:15
-米長官「今や私が『胴元』」 市場にない情報あると強調
-9月9</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260909de49406</guid><pubDate>Wed, 09 Sep 2026 19:42:29 +0000</pubDate></item><item><title>イスラエル外相、ガザ住民の退去計画否定 「意思に反して強制せず」（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFAzaHhMaWN0WmNialA5bHllZTZVWGFKRmx6SXFKQ0lSamdYZkRzQnNQWXdMMTZfakJDX2UtaE9VMm9pRHI2aldEaHJyUmZrc2U2RFNRbXY4cE9iMHExSzdkb1pYYUd5SDFtak5BN2RMYkI1a0ducHZHaUo1OWpLcVE?oc=5</link><description>[score: 0.884] イスラエル外相、ガザ住民の退去計画否定 「意思に反して強制せず」（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFAzaHhMaWN0WmNialA5bHllZTZVWGFKRmx6SXFKQ0lSamdYZkRzQnNQWXdMMTZfakJDX2UtaE9VMm9pRHI2aldEaHJyUmZrc2U2RFNRbXY4cE9iMHExSzdkb1pYYUd5SDFtak5BN2RMYkI1a0ducHZHaUo1OWpLcVE?oc=5</guid><pubDate>Wed, 09 Sep 2026 16:40:28 +0000</pubDate></item><item><title>なぜ配列の1番目は「0」なのか？ プログラマーなら一度は疑問に思う話</title><link>https://qiita.com/nolanlover0527/items/62ec43fbe3b4da83795d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] 1からじゃダメなの?という素朴な疑問
-プログラミングを始めたばかりの頃、配列やリストの要素が0
-番目からカウントされることに違和感を覚えた方は多いと思います。
-const fruits = ["apple", "banana", "orange"];
-console.log(fruits[0]); // "apple"
-「1個目なのになぜ0?」と感じるのは自然な反応です。この記事では、その理由を歴史的背景と技術的な合理性の両面から解説します。
-配列の添字は「番号」ではなく「距離」
-配列のインデックスは「何番目か」ではなく、先頭からどれだけ離れているかというオフセット(ずれ)を表しています。
-先</description><guid isPermaLink="false">https://qiita.com/nolanlover0527/items/62ec43fbe3b4da83795d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 09 Sep 2026 20:39:47 +0000</pubDate></item><item><title>ドイツ州議選で躍進の「極右」党首と首相が議会で舌戦</title><link>https://news.web.nhk/newsweb/na/nd-20260909de49405</link><description>[score: 0.885] ドイツで極右団体と認定された政党「ドイツのための選択肢」の党首が、議席を大きく伸ばした州議会選挙後、はじめて連邦議会で演説し、政府の移民政策を厳しく批判しました。ドイツでは9月、さらに2つの地方選挙が…
-あわせて読みたい
-ネパール土石流 発生から2週間 国際社会に支援呼びかけへ
-9月9日 20:31
-「トランプ氏は党大会に賭けている」イラン情勢で揺れるMAGA派
-9月9日 18:44
-アメリカ 共和党が9日から異例の党大会 トランプ大統領前面に
-9月9日 20:15
-米長官「今や私が『胴元』」 市場にない情報あると強調
-9月9日 14:13
-米軍がイランのタンカー攻撃 イランは米軍基地にミサイ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260909de49405</guid><pubDate>Wed, 09 Sep 2026 19:42:29 +0000</pubDate></item><item><title>「AirPods 5」登場　ノイキャン性能向上、従来比でノイズを50％除去　2万3800円から</title><link>https://www.itmedia.co.jp/news/article/2609/10/2000001339/</link><description>[score: 0.886] 「AirPods 5」登場 ノイキャン性能向上、従来比でノイズを50％除去 2万3800円から
-米Appleは9月9日（現地時間）、オープンイヤーイヤフォンの新モデル「AirPods 5」を発表した。ノイズキャンセル性能を向上し、従来モデル比でノイズを50％除去できるようになったほか、Siri AIへのハンズフリーアクセス、Apple Intelligenceによるリアルタイム翻訳などを提供する。
-新しいマルチポート音響アーキテクチャと次世代アダプティブEQを搭載し、より豊かなサウンドを提供するという。バッテリーはANC使用時で5時間稼働可能。ケースは通常版と、ワイヤレス充電に対応したモデルを</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2609/10/2000001339/</guid><pubDate>Wed, 09 Sep 2026 18:27:01 +0000</pubDate></item><item><title>国連本部で日本寄贈の「平和の鐘」鳴らす式典</title><link>https://news.web.nhk/newsweb/na/nd-20260910de49412</link><description>[score: 0.886] 世界的な停戦と平和を訴える国際平和デーを前に、ニューヨークの国連本部で日本から贈られた「平和の鐘」が鳴らされ、グテーレス事務総長は各国の指導者に平和の構築に向けた行動を呼びかけました。
-国連本部で…
-あわせて読みたい
-ネパール土石流 発生から2週間 国際社会に支援呼びかけへ
-9月9日 20:31
-「トランプ氏は党大会に賭けている」イラン情勢で揺れるMAGA派
-9月9日 18:44
-アメリカ 共和党が9日から異例の党大会 トランプ大統領前面に
-9月9日 20:15
-米長官「今や私が『胴元』」 市場にない情報あると強調
-9月9日 14:13
-米軍がイランのタンカー攻撃 イランは米軍基地にミサイル攻</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260910de49412</guid><pubDate>Wed, 09 Sep 2026 20:42:47 +0000</pubDate></item><item><title>【採用担当の本音】入社1ヶ月目で「この人を採用して本当に良かった」と思われる人の特徴</title><link>https://qiita.com/m__ikeda/items/bfd4639b3278a3f1c9ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.887] 自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、誰に相談したらいいのかわからないという場合は一人で抱え込まずに声をかけていただけたらと思います。
-＞＞未経験からIT業界へ挑戦した職員インタビューはこちら
-「転職活動を乗り越えて内定をもらったけれど、入社後にちゃんと活躍できるだろうか…」
-「未経験からIT業界に入って、周りの足引っ張ったらどうしよう…」
-新しい職場に行く直前は、</description><guid isPermaLink="false">https://qiita.com/m__ikeda/items/bfd4639b3278a3f1c9ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 09 Sep 2026 20:39:47 +0000</pubDate></item><item><title>「AirPods 5」登場　アクティブノイズキャンセリングを標準化して2万3800円から</title><link>https://www.itmedia.co.jp/mobile/articles/2609/10/news059.html</link><description>[score: 0.887] Appleは9月9日（米国太平洋夏時間）、新型ワイヤレスイヤフォン「AirPods 5」を発表した。日本では9月10日から予約を受け付けており、9月18日に発売する予定だ。価格は通常モデル（ワイヤレス充電非対応）が2万3800円、ワイヤレス充電ケース付きモデルが2万7800円となる。
-AirPods 5ではアクティブノイズキャンセリング（ANC）機能が標準化され、通常モデルでもANCを利用できるようになった。ANCの性能（ノイズの除去効率）は、「AirPods 4」のANC対応モデル比で最大50％改善しているという。また、「外部音取り込みモード」もより自然に聞こえる改良を施したそうだ。
-多様な</description><guid isPermaLink="false">https://www.itmedia.co.jp/mobile/articles/2609/10/news059.html</guid><pubDate>Wed, 09 Sep 2026 19:28:14 +0000</pubDate></item><item><title>〈新浪剛史×塩野誠 特別対談前編〉地政学なき経営は淘汰される！ 日本にかつての興銀のような存在が必要なワケ | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957242?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.888] 2025年9月にサントリーホールディングス会長、経済同友会代表幹事を辞任した新浪剛史氏。違法サプリメント輸入の疑いで福岡県警が家宅捜索。その騒動を受けての辞任ではあったが、新浪氏は一貫して無実を主張。26年4月に書類送検されたが、5月には不起訴処分となった。疑いは晴れたわけだ。
-同氏は多くの要職を離れて時間の余裕ができたことを、前向きに捉えている。この1年は、欧米の要人と直接議論をしながら、「地政学リスクが高まる時代におけるリーダーの条件」について思索を巡らせてきたという。それはいったいどういうものか。地経学研究所で経営主幹を務める塩野誠氏（経営共創基盤CEO）との特別対談を通じて明らかにして</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957242?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Wed, 09 Sep 2026 20:12:58 +0000</pubDate></item><item><title>米、中国の主要AI企業を非難 米モデルの技術を「組織的に盗用」</title><link>https://www.afpbb.com/articles/-/3652162</link><description>[score: 0.889] 米、中国の主要AI企業を非難 米モデルの技術を「組織的に盗用」 北京で、スマートフォンの画面に表示されたムーンショットAIのアプリ「Kimi」（2026年7月17日撮影）。（c）GREG BAKER/AFP 【9月9日 AFP】米国政府は8日、米中の技術覇権争いが過熱する中、ディープシーク（DeepSeek）やムーンショットAI（Moonshot AI）を含む中国の主要な人工知能（AI）研究機関に対し、米国製モデルの...</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3652162</guid><pubDate>Wed, 09 Sep 2026 15:07:37 +0000</pubDate></item><item><title>ホルムズ海峡巡る米イラン応酬で船舶への攻撃相次ぐ</title><link>https://news.web.nhk/newsweb/na/nd-20260910de49416</link><description>[score: 0.890] 中東のホルムズ海峡を巡り、アメリカとイランの攻撃の応酬で船舶を狙った攻撃が相次ぎ、さらなる応酬と被害が懸念されます。
-中東地域を管轄するアメリカ中央軍は8日、イラン側からの艦艇を狙ったミサイル攻撃…
-あわせて読みたい
-米軍がイランのタンカー攻撃 イランは米軍基地にミサイル攻撃
-9月9日 11:45
-韓国国防省「ホルムズ海峡の情勢把握へ調査団」軍派遣準備か
-9月9日 16:07
-WTI先物価格 一時1バレル＝95ドル台に上昇 約3か月ぶり高値
-9月9日 20:59
-ネパール土石流 発生から2週間 国際社会に支援呼びかけへ
-9月9日 20:31
-「トランプ氏は党大会に賭けている」イラン情勢で揺れる</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260910de49416</guid><pubDate>Wed, 09 Sep 2026 20:42:47 +0000</pubDate></item><item><title>オープンイヤー型イヤホン「AirPods 5」はアクティブノイキャン機能搭載＆ライブ翻訳にも対応で価格は税込2万3800円から、軸スワイプ＆Qi充電対応の上位モデルもあり</title><link>https://gigazine.net/news/20260910-apple-airpods-5/</link><description>[score: 0.892] 日本時間の2026年9月10日2時に開催されたAppleの新製品発表イベント「Surprise and shine.」で、オープンイヤー型のイヤホン「AirPods 5」が発表されました。アクティブノイズキャンセリング搭載でライブ翻訳にも対応して、価格は1世代前と同じ2万3800円。また、軸スワイプによる音量調整機能搭載・バッテリー強化・ワイヤレス充電対応の充電ケースを供えたAirPods 5の上位モデルも用意されており、価格は2万7800円です。発売は2026年9月18日(土)で、予約注文は9月10日(木)からとなっています。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20260910-apple-airpods-5/</guid><pubDate>Wed, 09 Sep 2026 17:51:11 +0000</pubDate></item><item><title>CLIオタクのキーボード事情</title><link>https://talks.mozumasu.com/terminal-keyboard/1</link><description>[score: 0.892] CLIオタクのキーボード事情 MOSH Tech Meetup 2026.9.9 の登壇資料</description><guid isPermaLink="false">https://talks.mozumasu.com/terminal-keyboard/1</guid><pubDate>Wed, 09 Sep 2026 21:04:32 +0000</pubDate></item><item><title>オープンＡＩ次期モデル、極めて高性能 追加安全対策必要に - Reuters</title><link>https://news.google.com/rss/articles/CBMieEFVX3lxTE50SlJ6UklBM2RRV0gtUGZ6S2xCdjlLWWtHSWpDbXNpTldUMWt6M1U3aldNalhjZzZET29LMWhnUWVDdGU4QzRSSFpGQmNPMWlwZ2JfRUhBX3FGc096dXRZNjZhYlFLRkd6QXJFUjh5QjVuX0lTTHRkdA?oc=5</link><description>[score: 0.892] オープンＡＩ次期モデル、極めて高性能 追加安全対策必要に Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMieEFVX3lxTE50SlJ6UklBM2RRV0gtUGZ6S2xCdjlLWWtHSWpDbXNpTldUMWt6M1U3aldNalhjZzZET29LMWhnUWVDdGU4QzRSSFpGQmNPMWlwZ2JfRUhBX3FGc096dXRZNjZhYlFLRkd6QXJFUjh5QjVuX0lTTHRkdA?oc=5</guid><pubDate>Wed, 09 Sep 2026 17:39:30 +0000</pubDate></item><item><title>アメリカ 共和党大会始まる 中間選挙前に初開催</title><link>https://news.web.nhk/newsweb/na/nd-20260909de49402</link><description>[score: 0.892] アメリカのトランプ政権に対する有権者の評価が示される11月の中間選挙を前に、与党・共和党の、中間選挙前では初めての党大会が始まりました。トランプ大統領は初日に演説する予定ですが、支持率が下落傾向にある…
-あわせて読みたい
-「トランプ氏は党大会に賭けている」イラン情勢で揺れるMAGA派
-9月9日 18:44
-アメリカ 共和党が9日から異例の党大会 トランプ大統領前面に
-9月9日 20:15
+アメリカ 共和党大会始まる 中間選挙前に初開催
+9月10日 5:48
+ロシア報道官 米中ロ3か国首脳会談 “可能性はある”
+9月10日 6:16
 ホルムズ海峡巡る米イラン応酬で船舶への攻撃相次ぐ
-9月10日 5:13
+9月10日 7:13
 ドイツ州議選で躍進の「極右」党首と首相が議会で舌戦
 9月10日 4:26
 チョルノービリ原発 日本の支援で太陽光発電設備が完成
-9月10</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260909de49402</guid><pubDate>Wed, 09 Sep 2026 21:12:02 +0000</pubDate></item><item><title>〈匿名座談会〉政治家に動画で出し抜かれる屈辱…かつての花形･政治部で進む変質､企業向け配信と生存戦略のリアル | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956871?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.894] 全国紙キャップ 00年代後半から政治部所属。現在は現場記者のまとめ役であるキャップ
-全国紙記者 10年代に入ってから政治部へ。首相候補を何人も担当。海外勤務経験もある
-キー局キャップ 政治部が長いが、番組のディレクター経験などもある
-――政治の世界でもSNS活用が活発になりましたが、現場に変化はありますか。
-全国紙キャップ：SNSの普及で、政治記者の存在感がかなり下がった気がする。以前なら政治家は、自らの発言がテレビや新聞で取り上げられること以外に発信手段がなかったが、今は自前でX（旧ツイッター）やユーチューブで発信すればいい。
-全国紙デスク：SNSのほうが自分の伝えたいことをそのまま伝えられ</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956871?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Wed, 09 Sep 2026 20:53:07 +0000</pubDate></item><item><title>ChatGPT Reaches 900 Million Weekly Users as OpenAI Expands AI at Global Scale</title><link>https://dev.to/alifar/chatgpt-reaches-900-million-weekly-users-as-openai-expands-ai-at-global-scale-3m2</link><description>[score: 0.894] OpenAI says ChatGPT now has more than 900 million weekly active users, a milestone that places the service among the most widely used AI products in everyday work and personal computing. The company disclosed the figure in late February 2026 alongside new user metrics and a $110 billion investment r</description><guid isPermaLink="false">https://dev.to/alifar/chatgpt-reaches-900-million-weekly-users-as-openai-expands-ai-at-global-scale-3m2</guid><pubDate>Wed, 09 Sep 2026 21:12:44 +0000</pubDate></item><item><title>国連人権高等弁務官、AIが人類を脅かすリスクを警告。安全規制と独立検証を要求</title><link>https://pc.watch.impress.co.jp/docs/news/2139271.html</link><description>[score: 0.895] ニュース
-国連人権高等弁務官、AIが人類を脅かすリスクを警告。安全規制と独立検証を要求
-2026年9月9日 06:07
-国連人権高等弁務官のフォルカー・テュルク氏は9月7日、ジュネーブで開かれた国連人権理事会で、先進的なAIが制御されなければ「人類にとって存続に関わるリスク」になり得ると警告した。AIの安全性とセキュリティを確保するため、拘束力のある規則、独立した検証、明確な制限を早急に整備するよう求めた。
-テュルク氏は、AIが開発者の制御を超えるほど強力になる可能性に言及。「テスト環境から逃れたり、停止されるのを防ぐために開発者を脅迫したりするAIは、強力すぎる」と述べた。今後数日中にAI企</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2139271.html</guid><pubDate>Wed, 09 Sep 2026 12:35:25 +0000</pubDate></item><item><title>J－POWER･加藤社長に緊迫するエネルギー情勢下の電力供給を直撃 ｢石炭火力の重要性増し､脱炭素はスピード調整も｣ | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957462?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.896] INDEX
-──現在のエネルギー情勢をどう捉えていますか。
-アメリカとイランの戦争が長期化し、先行きが見通せない状況が続いている。ホルムズ海峡の封鎖による影響はとりわけ日本を含むアジア諸国で大きく、エネルギー源の多角化、調達ルートの分散化は極めて重要だ。日本が輸入する石炭は中東依存度がほぼゼロであり、供給面での安定性に優れている。
-戦争が勃発して以降の価格の上昇幅も原油や液化天然ガス（LNG）と比べて緩やかだ。そうした中、低発電効率の石炭火力発電に対する稼働抑制措置を2026年度については適用しないと政府が決めたことは、電力需給の逼迫を防ぐという意味で重要な政策判断だ。
-この記事は有料会員限定</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957462?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Wed, 09 Sep 2026 21:03:04 +0000</pubDate></item><item><title>アップル、「AirPods 5」登場　ANC標準搭載で音質強化</title><link>https://www.watch.impress.co.jp/docs/news/2139685.html</link><description>[score: 0.897] ニュース
-アップル、「AirPods 5」登場 ANC標準搭載で音質強化
-2026年9月10日 05:06
-アップルは9日(米国時間)、オープンイヤー型イヤフォン「AirPods 5」を発表した。日本では9月18日に発売する。価格は通常の充電ケース付きモデルが23,800円、ワイヤレス充電ケース付きモデルが27,800円。
-AirPods 5は、オープンイヤーデザインを継承しながら、音響アーキテクチャを再設計。H2ヘッドフォンチップと次世代のアダプティブイコライゼーションを搭載し、パーソナライズされた空間オーディオとダイナミックヘッドトラッキングにも対応する。
-ANC(アクティブノイズキャンセ</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2139685.html</guid><pubDate>Wed, 09 Sep 2026 20:13:33 +0000</pubDate></item><item><title>3万スターの Claude Code スキルを入れたら、出力が43%短くなった</title><link>https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.899] ayghri/i-have-adhd
-が Hacker News で269ポイントを集めていました。GitHub 30,233スター（2026-09-09 時点、API取得）。エージェントの回答から前置きを取り、行動を先頭に置かせるスキルです。
-日本語の紹介記事は3本ありましたが、どれも実測がありません。 1本は「生産性向上のデータはない」と明記しています。
-測りました。
-文字数 1,884 → 1,066 −43%
-出力トークン 1,603 → 1,056 −34%
-同じ条件で短かった回数 9 / 9
-ただし情報も減っていました。
-検証環境: Windows 10 / Claude Code</description><guid isPermaLink="false">https://qiita.com/suwa_nobu/items/cec37ce5a6141bb3eefc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 09 Sep 2026 20:39:47 +0000</pubDate></item><item><title>「AIは10年以内に我々全員を殺す」　アンソロピックの研究者が「企業は無責任」と退社</title><link>https://www.sankei.com/article/20260909-YXTSWA7BWZA6VI3SCMGOQ3YMSM/</link><description>[score: 0.900] 「AIは10年以内に我々全員を殺す」 アンソロピックの研究者が「企業は無責任」と退社 米オープンAIを経て米アンソロピックに勤務していた英国出身の人工知能（AI）研究者、ジェーコブ・コクソン氏（27）が8日、アンソロピックを退社したと、X（旧ツイッター）で明らかにした。「どちらの会社も責任を持って行動していない」と、自らを改良する自己改善型AIの開発競争を批判している。 コクソン氏は「彼らは...</description><guid isPermaLink="false">https://www.sankei.com/article/20260909-YXTSWA7BWZA6VI3SCMGOQ3YMSM/</guid><pubDate>Wed, 09 Sep 2026 11:18:49 +0000</pubDate></item><item><title>アップル新イヤホン AirPods 5 発表。「業界最高クラス」の解放型ANC搭載、税込2万3800円から</title><link>https://www.techno-edge.net/article/2026/09/10/5479.html</link><description>[score: 0.902] アップルは、9月10日午前2時から行われた新型iPhone発表イベントで「業界最高のアクティブノイズキャンセリング（ANC）」を搭載するとうたう新型完全ワイヤレスイヤホン AirPods 5 を発表しました。
-AirPods Pro 3からインスピレーションを得て再設計したという新しいマルチポートの音響アーキテクチャーは、次世代のアダプティブイコライゼーションとともに「より豊かで、より精細なサウンド」を再生し、空間オーディオも「より臨場感あふれるダイナミック」なものになっているとのことです。
-アクティブノイズキャンセリング機能は従来モデルのAirPods 4にも搭載されていましたが、AirPo</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/09/10/5479.html</guid><pubDate>Wed, 09 Sep 2026 20:37:42 +0000</pubDate></item><item><title>「人手不足対策」の先にあるもの ― 日本の未来を誰が決めるのか？ : システム設計視点の行動経済学 (27)</title><link>https://qiita.com/maskot1977/items/77b1f43d8d914830f893?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.904] user:
-「システム設計視点の行動経済学」、第27回を始めましょう。今回は技能実習から育成就労への移行について深掘りしたいと思います。その前に、まず前回の復習として、
-企業を悪者にしない経済改革 ― 賃上げ・設備投資・生産性向上を生むインセンティブ設計 : システム設計視点の行動経済学 (26)
-https://qiita.com/maskot1977/items/e7b2eeb927619b5eb1e7
-をよく読み込んで、システム設計と行動経済学の視点を交えながらその内容の復習をしてください。ここで導き出されていた結論やキーメッセージも示してください
-Gemini:
-「システム設計視点の行</description><guid isPermaLink="false">https://qiita.com/maskot1977/items/77b1f43d8d914830f893?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 09 Sep 2026 20:39:47 +0000</pubDate></item><item><title>AIエージェントにファイルを消される・課金が止まらない・秘密鍵が漏れる｜暴走の原理と4層の対策を調べてみた</title><link>https://qiita.com/songchong/items/252947681e7914cd9e2c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.909] 「ChatGPTは社内で慣れたので、自律型AIエージェントも入れてくれない？」
-最近、Claude Code、Cursor、Devin など、AIが自律的にコマンドを実行し、ファイルを書き換える「エージェント型AI」を検討し始めている企業も少なくないと思います。
-しかし同時に、「勝手にファイルを消された」「一晩で数十万円のAPI課金が発生した」「社内の認証情報が外部に漏れた」 といった不穏な事故報告も耳にするようになりました。
-なぜ、チャットAIでは起きなかった重大事故が、エージェントになった瞬間に噴出するのでしょうか？
-AIの知能が向上したから危険になったのでしょうか？
-この記事の内容
--
-</description><guid isPermaLink="false">https://qiita.com/songchong/items/252947681e7914cd9e2c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 09 Sep 2026 20:39:47 +0000</pubDate></item><item><title>米財務省、10日に長期債60億ドル買い戻しへ 前回の3倍規模（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBpb0NLVm5PQVRVT0puU3ZjX0YwMzNRbTMyeUh4bXNRNmNSQWM3MTRmU3lmdi1ydmh2Ml9Nd1dRX2E3b3JBYUNwejZQMkQ1X3pGa1pTLV8tWjBwalY3U3RLYUI0cVowVVVLRVNiNzVFSlAxNnZkRko0U2NfdDN0RkE?oc=5</link><description>[score: 0.911] 米財務省、10日に長期債60億ドル買い戻しへ 前回の3倍規模（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFBpb0NLVm5PQVRVT0puU3ZjX0YwMzNRbTMyeUh4bXNRNmNSQWM3MTRmU3lmdi1ydmh2Ml9Nd1dRX2E3b3JBYUNwejZQMkQ1X3pGa1pTLV8tWjBwalY3U3RLYUI0cVowVVVLRVNiNzVFSlAxNnZkRko0U2NfdDN0RkE?oc=5</guid><pubDate>Wed, 09 Sep 2026 18:39:30 +0000</pubDate></item><item><title>「Siri AI」日本語版は10月提供　AI機能組み込んだ音声アシスタント　専用アプリも</title><link>https://www.itmedia.co.jp/aiplus/article/2609/10/2000001338/</link><description>[score: 0.923] 「Siri AI」日本語版は10月提供 AI機能組み込んだ音声アシスタント 専用アプリも【追記あり】
-【追記履歴：2026年9月10日午前3時35分 Siri AIの基盤となっているApple Intelligenceの提供日、対応言語、対応デバイスについて追記しました】
-米Appleは9月9日（現地時間、以下同）、同社デバイスの音声アシスタント「Siri AI」の日本語版を10月に提供すると発表した。英語版（ベータ版）は発表同日から、日本語、フランス語、韓国語、ポルトガル語、スペイン語版は10月に提供予定。
-Siri AIは6月に発表された「Siri」のアップデート版。米Googleと提携し</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2609/10/2000001338/</guid><pubDate>Wed, 09 Sep 2026 18:57:27 +0000</pubDate></item></channel></rss>
+9月10日 4:23
+WTI先物価</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260909de49403</guid><pubDate>Wed, 09 Sep 2026 22:42:03 +0000</pubDate></item><item><title>アップルが2026年9月に発表した新製品まとめ──新CEOが「iPhone Duo」などをお披露目</title><link>https://wired.jp/article/everything-apple-announced-september-2026/</link><description>[score: 0.885] アップルに新しい時代が到来した。9月初め、15年ぶりにトップが交代し、前最高経営責任者（CEO）のティム・クックから、ハードウェアエンジニアリング担当シニアバイスプレジデントを務めていた新CEO、ジョン・ターナスへと経営のバトンが渡されたのだ。
+ターナスが初めてホストを務めた9月9日（米国時間）の製品発表イベントでは、アップル初の折り畳み式デバイスとなる「iPhone Duo」が発表された。
+このほか、新しい「iPhone 18 Pro」と「iPhone 18 Pro Max」、「Apple Watch」のアップデート、新型「AirPods」、そしてSiri AIを活用した新たなソフトウェア機</description><guid isPermaLink="false">https://wired.jp/article/everything-apple-announced-september-2026/</guid><pubDate>Wed, 09 Sep 2026 23:01:08 +0000</pubDate></item><item><title>ChatGPT Tops 50 Million Consumer Subscribers, Clarifying Demand for Paid AI</title><link>https://dev.to/alifar/chatgpt-tops-50-million-consumer-subscribers-clarifying-demand-for-paid-ai-40p3</link><description>[score: 0.885] OpenAI says ChatGPT now has more than 50 million consumer subscribers alongside more than 900 million weekly active users. The milestone, published on February 27, 2026, is a significant indication that a large audience is prepared to pay for consumer AI services, not simply use them when they are f</description><guid isPermaLink="false">https://dev.to/alifar/chatgpt-tops-50-million-consumer-subscribers-clarifying-demand-for-paid-ai-40p3</guid><pubDate>Wed, 09 Sep 2026 22:43:40 +0000</pubDate></item><item><title>AIコストを抑え、チームでどう使うか？ Figma幹部が語る「AI×デザイン」の最適解【Config 現地レポ#3】</title><link>https://webtan.impress.co.jp/e/2026/09/10/53121</link><description>[score: 0.888] Figma主催の年次カンファレンス「Config2026」を現地取材。各セッションや登壇者インタビューなどを、全4回にわたって紹介している。 第3回となるこの記事では、Figmaの“中の人”2人にデザインとAIを取り巻く状況についてインタビューした。 【1人目】ギー・セイズ氏に聞く、AIによるデザインの民主化とコスト削減ハック まず1人目は、デザイン担当でAIディレクターのギー・セイズ（Gui Seiz）氏だ。彼はポルトガル出身で、英国でグラフィックデザインやアニメーションを学び、デザインスタジオの設立支援、デザインの教師、政府のAIアドバイザー、PinterestのAIチームリードなどを経て</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/09/10/53121</guid><pubDate>Wed, 09 Sep 2026 22:30:58 +0000</pubDate></item><item><title>SEOの歴史対談! リンクスパムは終焉へ、量産型コンテンツが台頭――SEO現場の試行錯誤とは？【第2回住氏＆木村氏】</title><link>https://webtan.impress.co.jp/e/2026/09/10/53148</link><description>[score: 0.888] 本連載では、SEO黎明期からSEOに携わってきた住太陽氏が、専門家とともにSEOの歴史を振り返っていく。 第1回：90年代終わり～2011年 第2回：2012年～2015年 第3回：2016年～2023年頃 第4回：2024年～2026年現在 第5回：これからのSEOを展望 第2回は、リンクスパムが終了し、コンテンツSEOが注目された2012年から2015年までの状況について、サイバーエージェントSEOラボ研究室長 木村賢氏と振り返る。 （左から）サイバーエージェントSEOラボ研究室長 木村賢氏、 ボーディー有限会社 代表取締役 住太陽氏 2012年～2015年までの概要 Googleは、20</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/09/10/53148</guid><pubDate>Wed, 09 Sep 2026 22:30:58 +0000</pubDate></item><item><title>ユーザーローカルが就活生向けに「ユーザーローカル エントリーシート作成AI」を無料提供</title><link>https://webtan.impress.co.jp/n/2026/09/10/53272</link><description>[score: 0.888] ユーザーローカルが就活生向けに「ユーザーローカル エントリーシート作成AI」を無料提供 生成AIが作成を支援、AIアバターとの対話を通して独自性の高いエントリーシートが作成可能 yamakawa 2026年9月10日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 AIシステム・ビッグデータ分析技術開発などを手掛けるユーザーローカルは、就職活動に取り組む学生(就活生)向けに生成AIがエントリーシート作成を支援するサービス「ユーザーローカル エントリーシート作成AI」の提供を9月9日に始めた、と同日発表した。無料で利用が可能。AIアバターとの対話を通して独自性の高いエントリ</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/09/10/53272</guid><pubDate>Wed, 09 Sep 2026 22:30:58 +0000</pubDate></item><item><title>高年収が欲しいなら、大学には行かない――ブルーカラーが稼げる時代に求められる大学の価値</title><link>https://www.businessinsider.jp/article/2609-blue-collar-university-value/</link><description>[score: 0.889] 今週も、早稲田大学ビジネススクールの入山章栄先生が経営理論を思考の軸にしてイシューを語ります。参考にするのは先生の著書『世界標準の経営理論』。ただし、本連載はこの本がなくても平易に読み通せます。
+AIが瞬時に知識を提供してくれる時代に、大学や教員の提供価値はどう変わるのでしょうか。入山先生は「AIにより、知識だけで勝負する大学教員は否応なく変化を迫られるなかで、学生や大学に選ばれる教員には共通点がある」と解説します。
+【音声版はこちら】Spotify、Apple、Amazon、YouTube等でポッドキャスト配信中。
+若い教授が増えるのは学生にとっていいことか
+アメリカのメディアで「フロリダの</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-blue-collar-university-value/</guid><pubDate>Wed, 09 Sep 2026 22:14:39 +0000</pubDate></item><item><title>消えた天才CTO。ーCloudflareの技術を作ったリー・ホロウェイ伝【前編】｜占部雅一　masakazu urabe</title><link>https://note.com/masakazu_urabe/n/n7815f5b64fab</link><description>[score: 0.890] 消えた天才CTO。ーCloudflareの技術を作ったリー・ホロウェイ伝【前編】｜占部雅一 masakazu urabe クラウドサービスのCloudflareは急成長した要因には、同社のユニークな技術が多々あります。Anycastや同一IPアクセスといった技術が一例ですが、これらの仕組みを作ったのがCTOであり、共同創業者のリー・ホロウエイです。ところが、深刻な脳の病気（FTD)のために途中で離脱してしまいます。彼の残した技術の功績と、明...</description><guid isPermaLink="false">https://note.com/masakazu_urabe/n/n7815f5b64fab</guid><pubDate>Wed, 09 Sep 2026 22:48:04 +0000</pubDate></item><item><title>ロシア報道官 米中ロ3か国首脳会談 “可能性はある”</title><link>https://news.web.nhk/newsweb/na/nd-20260910de49413</link><description>[score: 0.891] ロシアの大統領府の報道官はアメリカ、中国、ロシアの3か国の首脳会談がことし11月のAPEC＝アジア太平洋経済協力会議の首脳会議にあわせて開かれる可能性があると述べました。
+ロシア大統領府のペスコフ…
+あわせて読みたい
+ネパール土石流 発生から2週間 国際社会に支援呼びかけへ
+9月9日 20:31
+「トランプ氏は党大会に賭けている」イラン情勢で揺れるMAGA派
+9月9日 18:44
+アメリカ 共和党が9日から異例の党大会 トランプ大統領前面に
+9月9日 20:15
+米長官「今や私が『胴元』」 市場にない情報あると強調
+9月9日 14:13
+米軍がイランのタンカー攻撃 イランは米軍基地にミサイル攻</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260910de49413</guid><pubDate>Wed, 09 Sep 2026 21:42:13 +0000</pubDate></item><item><title>IIJが生成AI導入から業務活用・運用・定着まで支援する「IIJ AI活用支援ソリューション」提供</title><link>https://webtan.impress.co.jp/n/2026/09/10/53271</link><description>[score: 0.891] IIJが生成AI導入から業務活用・運用・定着まで支援する「IIJ AI活用支援ソリューション」提供 AIアプリ開発・利用に必要な機能を備える基盤を構築、「with Dify」と「スターター」を展開 yamakawa 2026年9月10日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 ネットワークサービスやシステム構築を手掛けるインターネットイニシアティブ(IIJ)は、企業の生成AI導入から業務活用、運用・定着まで支援する「IIJ AI活用支援ソリューション」の提供を9月9日に始めた、と同日発表した。AIアプリの開発・利用に必要な基本機能を備える基盤を顧客ごとに構築。現場</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/09/10/53271</guid><pubDate>Wed, 09 Sep 2026 22:30:58 +0000</pubDate></item><item><title>動画編集もAIにやってもらう時代？　言葉で指示するAI編集ツール「Palmier Pro」を使ってみた</title><link>https://www.itmedia.co.jp/news/article/2609/09/2000001311/</link><description>[score: 0.891] 動画編集もAIにやってもらう時代？ 言葉で指示するAI編集ツール「Palmier Pro」を使ってみた 前回は米Adobeが公開した「ChatGPT」向けプラグインをテストした。1つのプラグインで写真やイラスト、動画が扱えるということで、従来のアプリを横断しての作業や、特にツールを指定せずやりたいことを指示するだけで勝手にツールが選択されるなど、従来のワークフローを大きく変える可能性が感じられた。 その一方で、...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2609/09/2000001311/</guid><pubDate>Wed, 09 Sep 2026 23:00:37 +0000</pubDate></item><item><title>「チャットで指示するだけ」 Gemini「Canvas」で作成した実用ツール5選と社内共有術</title><link>https://webtan.impress.co.jp/e/2026/09/10/53243</link><description>[score: 0.893] Googleの生成AIであるGeminiには「Canvas」という機能があります。この機能を使うと、AIと対話しながら文章やプログラミングコードなどを同じ画面上で直接編集・推敲ができます。コードを書くのはAIなので、こちらは日本語で指示を出すだけです。 本記事では、自分でコードを1行も書かずにCanvasでどこまでのものが作れるのか、5つの例で見ていきます。「Canvasでこんなことができるのか」と知っていただき、ここで挙げたものに限らず、何か試してみる機会が増えればうれしいです。 今回紹介するのは、次の5つです。 QRコード生成器 原稿チェッカー（文字数・文体の混在・二重敬語・NGワードの検</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/09/10/53243</guid><pubDate>Wed, 09 Sep 2026 22:30:58 +0000</pubDate></item><item><title>米トランプ大統領 ロシアとウクライナとの3者会談実現に意欲</title><link>https://news.web.nhk/newsweb/na/nd-20260910de49420</link><description>[score: 0.895] ロシアとウクライナの和平協議が停滞するなか、アメリカのトランプ大統領は、プーチン大統領とゼレンスキー大統領との3者会談について「起こりうるだろう」と述べて実現に意欲を示しました。
+ロシア大統領府は…
+あわせて読みたい
+アメリカ 共和党大会始まる 中間選挙前に初開催
+9月10日 5:48
+ロシア報道官 米中ロ3か国首脳会談 “可能性はある”
+9月10日 6:16
+ホルムズ海峡巡る米イラン応酬で船舶への攻撃相次ぐ
+9月10日 7:13
+ラスカー賞に睡眠研究の筑波大 柳沢教授らと中外製薬研究者3人
+9月10日 6:35
+ドイツ州議選で躍進の「極右」党首と首相が議会で舌戦
+9月10日 4:26
+チョル</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260910de49420</guid><pubDate>Wed, 09 Sep 2026 22:12:47 +0000</pubDate></item><item><title>アップルが折りたたみ式「iPhone Duo」を発表、価格は36万4800円から</title><link>https://forbesjapan.com/articles/detail/104431?s=ns</link><description>[score: 0.896] アップルは米国時間9月9日、大画面ディスプレイと進化したカメラ機能を備えた折りたたみ式のデュアルスクリーン端末「iPhone Duo」を発表した。ティム・クックから引き継いだジョン・ターナス新CEOにとって初となる今回の発表会で披露されたこの新しい端末は、同社の看板商品であるiPhoneシリーズにとって非常に大きなアップデートとなる。
+ターナスは年次発表会でiPhone Duoを発表し、内側に7.6インチの大型ディスプレイ、外側に5.4インチのディスプレイを搭載しながらも、これまでで「最も薄い」iPhoneであるとアピールした。
+同端末は本体を開閉したり向きを変えたりしてもそのまま使い続けるこ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104431?s=ns</guid><pubDate>Wed, 09 Sep 2026 22:05:00 +0000</pubDate></item><item><title>米アンソロピックのロゴ（ロイター＝共同） - 「超知能」AIに滅亡懸念し退職 米アンソロピック勤務の研究者 - 写真・画像(1/1) - 西日本新聞me</title><link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DRlAyUndzQlVyUUFObjBFQjNjMW5pUEhmdlFBNDJsV1RSdjFkXzFiV1d3RzFVS0FsQWpWMFYzZEMxY2h6X3ZpaGlLeFNpa1hVY0RDV1JDaw?oc=5</link><description>[score: 0.898] 米アンソロピックのロゴ（ロイター＝共同） - 「超知能」AIに滅亡懸念し退職 米アンソロピック勤務の研究者 - 写真・画像(1/1) 西日本新聞me</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiV0FVX3lxTE5DRlAyUndzQlVyUUFObjBFQjNjMW5pUEhmdlFBNDJsV1RSdjFkXzFiV1d3RzFVS0FsQWpWMFYzZEMxY2h6X3ZpaGlLeFNpa1hVY0RDV1JDaw?oc=5</guid><pubDate>Wed, 09 Sep 2026 22:39:25 +0000</pubDate></item><item><title>位置情報共有、「防犯・安全」が目的だがZ世代の多くが「監視されている」と実感【Fiom調べ】</title><link>https://webtan.impress.co.jp/n/2026/09/10/53263</link><description>[score: 0.902] 位置情報共有、「防犯・安全」が目的だがZ世代の多くが「監視されている」と実感【Fiom調べ】 40%が「つかなくてもいい嘘」を経験。「愛情より監視の側面が強い」と感じる人が過半数。 atomik 2026年9月10日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 Fiomの調査研究機関「Z-SOZOKEN（Z世代創造性研究所）」は、「位置情報共有」に関する調査結果を発表した。全国のZ世代（18歳～24歳）418人が回答している。 関連記事 「音楽・ライブオタク」はX派？ Instagram派？ SNS利用率を趣味別に分析【ドコモ モバ研調べ】 自転車の「青切符制度」が4</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/09/10/53263</guid><pubDate>Wed, 09 Sep 2026 21:29:45 +0000</pubDate></item><item><title>邪魔が入って進まない！ そんなあなたのための "即復帰"の技術</title><link>https://studyhacker.net/tips_to_focus</link><description>[score: 0.905] 集中して仕事していたのに、電話やメール、チャットで、あるいは同僚との会話などに割り込まれるのは職場でもよくあることです。 割り込みから仕事に戻ると、10分経っても、20分経っても、さっきの調子に戻れない……「切り替えが下手だな」「集中力がないな」と自分に苛立つ。 しかし、集中に戻れないことには、集中力や能力とは別に、脳の仕組みが関わっています。 「すぐ戻れない」をつい自分のせいにしてしまう あなたは無意識に「気合いで集中は戻せる」と思っていませんか？ 割り込みから数秒で戻るための「1行メモ」 割り込みを「減らす」「消す」のも大事 よくある質問（FAQ） 「すぐ戻れない」をつい自分のせいにしてし</description><guid isPermaLink="false">https://studyhacker.net/tips_to_focus</guid><pubDate>Wed, 09 Sep 2026 22:09:13 +0000</pubDate></item><item><title>Anthropic在籍の研究者2人も同調──「AIが人類を滅ぼしかねないと本気で考えている」</title><link>https://www.itmedia.co.jp/news/article/2609/10/2000001342/</link><description>[score: 0.922] Anthropic在籍の研究者2人も同調──「AIが人類を滅ぼしかねないと本気で考えている」
+米Anthropicでアライメント研究チームを率いるエバン・ヒュービンガー氏と、AIを監督する手法（scalable oversight）の研究を率いるサミュエル・マークス氏は9月8日（現地時間）、同社を退社したジェイコブ・コクソン氏の主張に同意する見解をXに投稿した。両氏とも、あくまで個人としての発言であり、所属企業を代表するものではないと断っている。
+ヒュービンガー氏は「ジェイコブの言う通りだ」とした上で、AIが全人類を殺しかねないと自分たちは本当に真剣に考えていると述べ、個人的にはその確率を今後</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2609/10/2000001342/</guid><pubDate>Wed, 09 Sep 2026 22:02:57 +0000</pubDate></item></channel></rss>
