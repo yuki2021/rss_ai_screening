@@ -1,81 +1,142 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 11 Sep 2026 23:09:13 +0000</lastBuildDate><item><title>原油先物反落、中東供給懸念根強く100ドル台維持 - Reuters</title><link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWlLdFVoNEVrYTg3QXhoY3V6MmtRNi1xaF9JRmdhN3hjdWVfenRrbEg2Y2haMmx2SklwMXViemxGVUFLckdKUFJEOXVpUU9nWU5sSkNoSTdsSXB4UzViR3llaENiRXNiMTloWFd0c0RWSDdnZmhKNHFrSENfVEJrcE9neko?oc=5</link><description>[score: 0.876] 原油先物反落、中東供給懸念根強く100ドル台維持 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxQLWlLdFVoNEVrYTg3QXhoY3V6MmtRNi1xaF9JRmdhN3hjdWVfenRrbEg2Y2haMmx2SklwMXViemxGVUFLckdKUFJEOXVpUU9nWU5sSkNoSTdsSXB4UzViR3llaENiRXNiMTloWFd0c0RWSDdnZmhKNHFrSENfVEJrcE9neko?oc=5</guid><pubDate>Fri, 11 Sep 2026 21:34:56 +0000</pubDate></item><item><title>米国株式市場＝反発、ＣＰＩ受け利上げ観測強まる デル最高値（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5KUnBJaEpIWjdxb3ZGc2NwM3Njc29LZFdGa2NxUXh6RUItN3daRDZSdGdWU1JndUk0ZEJiZVZzYzJHRVN5cC0zUWJUYXVUVU9TN2RMWHFFZDFUQVJUMmE3dE1yRjBOMGRVbWozRlJYRXU0cHhGT0I3NUJTd2lBOU0?oc=5</link><description>[score: 0.877] 米国株式市場＝反発、ＣＰＩ受け利上げ観測強まる デル最高値（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE5KUnBJaEpIWjdxb3ZGc2NwM3Njc29LZFdGa2NxUXh6RUItN3daRDZSdGdWU1JndUk0ZEJiZVZzYzJHRVN5cC0zUWJUYXVUVU9TN2RMWHFFZDFUQVJUMmE3dE1yRjBOMGRVbWozRlJYRXU0cHhGT0I3NUJTd2lBOU0?oc=5</guid><pubDate>Fri, 11 Sep 2026 21:34:56 +0000</pubDate></item><item><title>〈次世代材料の主導権を握るのは誰か〉丸いウェハーから四角いパネルへ大転換､大型有機材で攻めるレゾナック | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957557?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.877] ビジネス #AI・半導体 需要爆発 前の記事 次の記事 〈次世代材料の主導権を握るのは誰か〉丸いウェハーから四角いパネルへ大転換､大型有機材で攻めるレゾナック 3分で読める 公開日時：2026/09/12 05:45 有料会員限定 （写真：編集部撮影） 横山 隼也 東洋経済 記者 フォロー 1/1 PAGES 「もはやこれから生き残れるかどうかは、グローバルのハイパースケーラーといかにして密な関係を築くかで決まると言っていい」。半導体材料メーカーの首脳や幹部は口をそろえる。 生成AI（人工知能）向けデータセンター投資に沸く半導体サプライチェーンにあって、材料メーカーもご多分に漏れず大忙しだ。 </description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957557?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Fri, 11 Sep 2026 20:52:07 +0000</pubDate></item><item><title>クリーンアーキテクチャは個人開発でもやる価値があるか</title><link>https://qiita.com/Ohmiya-Mizuki/items/f3fd704d0aba19e0bc8c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] この記事はすきま経営からの転載です。
-結論から書く。個人開発でクリーンアーキテクチャを採用する価値は「ある」が、無条件ではない。私は複業のfinance-managementリポジトリ（家計データの集計・シート同期・Slack通知）でdomain/ports/adapters/usecaseの構成を採用し、実際に開発速度が落ちなかった一方、別の小さなスクリプトでは同じ構成を見送った。この線引きの基準を、実体験から書く。
-「オーバーエンジニアリング」批判は半分正しい
-個人開発でクリーンアーキテクチャを検討すると、必ず「1人でやるプロジェクトに層分けは過剰だ」という批判にぶつかる。この批判は半分正</description><guid isPermaLink="false">https://qiita.com/Ohmiya-Mizuki/items/f3fd704d0aba19e0bc8c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 11 Sep 2026 20:35:12 +0000</pubDate></item><item><title>データセンター建設ブーム、次の巨大商機は「保険」</title><link>https://diamond.jp/articles/-/398842</link><description>[score: 0.877] 米国では1兆ドル（約156兆円）規模のデータセンター建設競争が 経済をけん引 しており、保険会社に新たな巨大商機をもたらしている。保険業界は、数百億ドル規模の追加収益を生み出す「一世代に一度の好機」に目を向けている。
-スイス再保険 は今月のリポートで、データセンター向け保険の世界全体の保険料が2030年までに年間200億〜300億ドルに達する可能性があるとの予測を示した。
-これは猛烈な成長ペースだ。格付け会社S&amp;Pグローバルによると、今年はデータセンター向け保険料として新たに100億ドルが発生する可能性があり、200億〜300億ドルという金額はその少なくとも2倍に相当する。別の主要市場と比較す</description><guid isPermaLink="false">https://diamond.jp/articles/-/398842</guid><pubDate>Fri, 11 Sep 2026 21:03:41 +0000</pubDate></item><item><title>官房長官、岸田氏に謝罪　人事アンケート提出を暴露：時事ドットコム</title><link>https://www.jiji.com/jc/article?k=2026091100804&amp;g=pol</link><description>[score: 0.878] こんな記事も
-政治用語
-政治
-社債情報のインフラ整備 売買活性化、資金調達支援―金融庁
-(09/12 07:11)消費減税、特例・経過措置で複雑化 事業者や消費者、混乱の恐れ
-(09/12 07:08)合意３０年、返らぬ「普天間」 県民ににじむ不信と疲労―沖縄知事選、８回目の選択
-(09/12 07:07)石井参院幹事長の処遇焦点 「聖域」人事、高市首相と確執か―自民
-(09/12 07:06)越智経産政務官、中国エネルギー局長と立ち話 ＡＰＥＣ関連会合で
-(09/12 05:42)ＡＩ向け電力・供給網で協力 共同声明「政策連携強化」―ＡＰＥＣエネ相
-(09/12 05:38)「ホルムズ情勢悪</description><guid isPermaLink="false">https://www.jiji.com/jc/article?k=2026091100804&amp;g=pol</guid><pubDate>Fri, 11 Sep 2026 20:36:27 +0000</pubDate></item><item><title>AI活用力で採用した世代を、私たちは「それ以外のすべて」で評価する</title><link>https://forbesjapan.com/articles/detail/104581?s=ns</link><description>[score: 0.879] AI活用力で採用した世代を、私たちは「それ以外のすべて」で評価する
-現在、組織に加わりつつある24歳の若者たちは、大方の基準において、私たちが求めた能力に非常に長けている。彼らは優れたプロンプトを作成できる。ほぼあらゆるものの実用的な下書きを1分未満で作成できる。1週間かかるデスクリサーチを午後だけで終わらせる。シニアリーダーが何かの初稿を求める際、彼らはそこに至る最短のルートだ。
-そのAI活用力こそが、彼らが採用される大きな理由になりつつある。全米大学雇用者協会（NACE）が2月と3月に185社の雇用主を対象に実施した調査によると、現在、エントリーレベル職の3分の1超がAIスキルを求めており</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104581?s=ns</guid><pubDate>Fri, 11 Sep 2026 15:16:04 +0000</pubDate></item><item><title>Windows用「Gemini」アプリ提供開始　画面上に重ねて作業を中断せず利用可能に（ITmedia NEWS） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/04f985e08ada781230f372e0ff00d9c0c26fa900</link><description>[score: 0.879] Windows用「Gemini」アプリ提供開始 画面上に重ねて作業を中断せず利用可能に（ITmedia NEWS） - Yahoo!ニュース 米Googleは9月10日（現地時間）、Windows向けのデスクトップアプリ「Gemini app for Windows」を公開した。同日からWindows 10および11を搭載したPC向けにグローバルで提供しており、公式サイトからダウンロード... kozai</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/04f985e08ada781230f372e0ff00d9c0c26fa900</guid><pubDate>Fri, 11 Sep 2026 21:03:41 +0000</pubDate></item><item><title>デジタル庁のガバメントソリューションサービス(GSS)への不正アクセスについてまとめてみた - piyolog</title><link>https://piyolog.hatenadiary.jp/entry/2026/09/11/220855</link><description>[score: 0.879] デジタル庁のガバメントソリューションサービス(GSS)への不正アクセスについてまとめてみた - piyolog 2026年9月11日、デジタル庁は、政府共通の業務実施環境「ガバメントソリューションサービス(GSS)」が外部からの不正アクセスを受け、取り扱っていた個人情報を含むファイルの一部が外部に漏えいした可能性があると公表しました。ここでは関連する情報をまとめます。 VPN機器の脆弱性を悪用され侵入 GSSは、ゼロトラスト...</description><guid isPermaLink="false">https://piyolog.hatenadiary.jp/entry/2026/09/11/220855</guid><pubDate>Fri, 11 Sep 2026 21:56:29 +0000</pubDate></item><item><title>11.3中間選挙の天王山､｢アメリカの未来を先取りする｣テキサス州は､赤（共和党）か青（民主党）か､それとも紫（接戦）か？ | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957683?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.879] コンテンツブロックが有効であることを検知しました。
-このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
-なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957683?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Fri, 11 Sep 2026 21:31:03 +0000</pubDate></item><item><title>原油先物反落、中東供給懸念根強く100ドル台維持（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE0yZXQxcDVjTXRheFEwbkJLTHByWndGTkhUOG1fQzZHTG01ai1peDI0TGVCSXNNdlhwZTU1NHBoVHRmMW5MN2Vkd0pRNmFKcElNVXkwUE5OTDhFUlYzNndIM1hGNlF0NHdqUUVTUko2NVB6WGlUNzYyMEtBdjFkTjQ?oc=5</link><description>[score: 0.880] 原油先物反落、中東供給懸念根強く100ドル台維持（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE0yZXQxcDVjTXRheFEwbkJLTHByWndGTkhUOG1fQzZHTG01ai1peDI0TGVCSXNNdlhwZTU1NHBoVHRmMW5MN2Vkd0pRNmFKcElNVXkwUE5OTDhFUlYzNndIM1hGNlF0NHdqUUVTUko2NVB6WGlUNzYyMEtBdjFkTjQ?oc=5</guid><pubDate>Fri, 11 Sep 2026 21:34:56 +0000</pubDate></item><item><title>米国株式市場＝反発、ＣＰＩ受け利上げ観測強まる デル最高値(ロイター) - Yahoo!ファイナンス</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPX3g3dlluaGFwLS1VRGVNVmJHRnhJcHo0LVl6TGFfLVpPTDJRTEJidlNmYk5pS09iM3BLOUJ3cDZKcm1xVWxscHBVQ3Z4aTVCVW1ERmRMRXduc3R2OEdRUWR0c3FCNDVNdElQMG5RSWlXT1Q4eFl5ZVRMRS0ybUhWRWZhNWNUQUU?oc=5</link><description>[score: 0.880] 米国株式市場＝反発、ＣＰＩ受け利上げ観測強まる デル最高値(ロイター) Yahoo!ファイナンス</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxPX3g3dlluaGFwLS1VRGVNVmJHRnhJcHo0LVl6TGFfLVpPTDJRTEJidlNmYk5pS09iM3BLOUJ3cDZKcm1xVWxscHBVQ3Z4aTVCVW1ERmRMRXduc3R2OEdRUWR0c3FCNDVNdElQMG5RSWlXT1Q4eFl5ZVRMRS0ybUhWRWZhNWNUQUU?oc=5</guid><pubDate>Fri, 11 Sep 2026 22:34:53 +0000</pubDate></item><item><title>2026年9月11日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title><link>https://qiita.com/ennagara128/items/552b61295bfa9bc2c20a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] 前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 12 Sep 2026 10:02:16 +0000</lastBuildDate><item><title>レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない - AUTOMATON</title><link>https://automaton-media.com/articles/newsjp/20260912-467049/</link><description>[score: 0.877] レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない - AUTOMATON レベルファイブ日野社長、“AI盛り込みトレイラー発表会”について「派手にしたかった」ためと弁明。ただ発売するゲームには、“安易なAI出力データ”は入れない レベルファイブの代表取締役社長を務める日野晃博氏は9月12日、先日おこなわれたオンライン発表イベント「LEVEL5 VISION 2026 II 夢」の中で、生成AIによる映像...</description><guid isPermaLink="false">https://automaton-media.com/articles/newsjp/20260912-467049/</guid><pubDate>Sat, 12 Sep 2026 08:42:30 +0000</pubDate></item><item><title>イノベーションを「演出」するな。文化に組み込め</title><link>https://forbesjapan.com/articles/detail/104614?s=ns</link><description>[score: 0.878] 企業のイノベーションの多くはパフォーマンス、つまりオフサイトミーティングや投資家、取締役会向けに演出されたショーであり、ビジネスが実際にどう回っているかに組み込まれた規律ではない。あまりにも多くの場合、イノベーションは絆創膏のように扱われ、企業が先進的に見せる必要があるときに応急的に貼り付けられるものであって、意思決定のあり方に組み込まれた習慣ではない。俊敏性をインフラとして捉え、アジャイル思考が日々の意思決定に組み込まれ、あらゆる部門に分散し、絶え間ない小さな反復を通じて実践されるビジネスは、イノベーションを定期的な取り組みとして扱うビジネスよりも長く生き残る。
+次の破壊的変化の後も生き残る</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104614?s=ns</guid><pubDate>Sat, 12 Sep 2026 07:03:20 +0000</pubDate></item><item><title>(ハンズオン)nx-plugin-for-awsで積読管理アプリを作ってAWSにデプロイしてみよう</title><link>https://qiita.com/yama3133/items/a758e66f0c4269ab5b54?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] はじめに
+Nx Plugin for AWSは、コマンドを1つ打つだけで「Webサイト」「API(サーバー側のプログラム)」「データベース」のひな形をまとめて作ってくれるツールです。
+以前、このツールでtRPC APIとReactのWebサイトを作り、パソコンの中でビルド(プログラムを動く形に変換する作業)が通るところまで試した記事を書きました。
+そのときはログイン機能とAWSへの本番デプロイまでは試せていませんでした。
+この記事はその続きです。積読(つんどく、買ったのに読んでいない本のこと)を管理するアプリ「My Bookshelf」を題材に、以下をすべて実際にやってみるハンズオンとなってい</description><guid isPermaLink="false">https://qiita.com/yama3133/items/a758e66f0c4269ab5b54?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 12 Sep 2026 08:35:18 +0000</pubDate></item><item><title>維新 藤田共同代表“閣僚に加え副大臣・政務官の打診応じる”</title><link>https://news.web.nhk/newsweb/na/nd-20260912de49891</link><description>[score: 0.878] 日本維新の会の藤田共同代表は、高市政権の発足当初から閣僚に加え、副大臣や政務官の起用についても打診があったとした上で、今回の内閣改造ではこれに応じる考えを示しました。
+政府・与党は、来週15日に食…
+注目ワード
+あわせて読みたい
+十勝岳 噴火警戒レベル3 上富良野町 吹上温泉地区に避難指示
+9月12日 11:50
+北海道 十勝岳 噴火警戒レベル3に引き上げ 入山規制
+9月12日 18:04
+イコールアースの北方領土表記など日本の修正要求にロシア反発
+9月12日 10:13
+沖縄県知事選 選挙期間投稿100万件超 ひぼう中傷 批判の偏りも
+9月12日 9:04
+中部電力 報告書提出受け14日に会</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260912de49891</guid><pubDate>Sat, 12 Sep 2026 09:34:27 +0000</pubDate></item><item><title>アンソロピックIPO、エヌビディアが最大1.5兆円投資検討－ロイター - TBS NEWS DIG</title><link>https://news.google.com/rss/articles/CBMidEFVX3lxTE9tbFB2ckg1c1ZCYzZiT1Z3S05sT00yQTg4djh0ZUJ3V0xYWjc3R0l1UWdWSXhGbVllb0xYSkRCaDRsQ1hrOEF5cm1seDZBY0dZUU9USDdtcHhvVXEwbHNGZHZsSmxXRFdIZllDeXRiZmtJeWlx?oc=5</link><description>[score: 0.878] アンソロピックIPO、エヌビディアが最大1.5兆円投資検討－ロイター TBS NEWS DIG</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMidEFVX3lxTE9tbFB2ckg1c1ZCYzZiT1Z3S05sT00yQTg4djh0ZUJ3V0xYWjc3R0l1UWdWSXhGbVllb0xYSkRCaDRsQ1hrOEF5cm1seDZBY0dZUU9USDdtcHhvVXEwbHNGZHZsSmxXRFdIZllDeXRiZmtJeWlx?oc=5</guid><pubDate>Sat, 12 Sep 2026 09:29:17 +0000</pubDate></item><item><title>ヴィーガンを馬鹿にする時「植物も生きてるよね？」って言うけど、植物は意識も痛みもないからセーフなんだよ</title><link>https://anond.hatelabo.jp/20260912131454</link><description>[score: 0.878] で、その植物が育つまでに神経のある虫が毒物である農薬で何千匹も殺されてるけど お前が直接食わなければ神経のある生物が何万匹死のうと構わないわけ？
+虫より自分の命や細胞のほうが大事だからかまへんぞ。命大事に。そもそもその程度で虫は絶滅することなく繁殖数でカバーするのがほとんど。
+しかも無農薬に拘る意識高いヴィーガン様のために 虫は一匹ずつ手で潰し屠られているんだよな
+ヴィーガンってだいたい農薬にも反対してるんじゃないの ハチミツとかコチニールも食べないよな
+まさかあらゆる生物を殺さない宗教と勘違いしてないよな？？？
+虫も反射だけではなく痛みを嫌がったり体をケアして思考がある説はあるぞ 魚がダメな</description><guid isPermaLink="false">https://anond.hatelabo.jp/20260912131454</guid><pubDate>Sat, 12 Sep 2026 07:42:48 +0000</pubDate></item><item><title>うっかり世界最強のWasmコンパイラに並行処理（マルチスレッド）を載せたら、なぜか1.46KBまで縮んだ件</title><link>https://qiita.com/kanryu/items/a031d4928ddb7caa0784?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.879] はじめに
+先日投稿した「うっかり世界最強のWasmコンパイラを作ってしまった件」が、気づけば2万PVを超え、多くの反響やスターをいただきました。読んでくださった方、本当にありがとうございます。
+前回の記事では「Goライクな構文のまま、libcフリーでわずか2.56KBのWasmを作る」という話をしました。
+しかし、あれで終わりではありません。
+「ブラウザで動くなら、Web Workerを使ったマルチスレッド並行処理（Goでいう go
+文やチャネルのような並行計算）もサクッと動かしたい」
+そう考えて並行処理ランタイムを自作し、ブラウザ上で実際に動く技術デモページを公開しました。
+- GitHub</description><guid isPermaLink="false">https://qiita.com/kanryu/items/a031d4928ddb7caa0784?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 12 Sep 2026 08:35:18 +0000</pubDate></item><item><title>沖縄知事選、荒れるSNS　動画、Xの大半が県外発　AI悪用し中傷拡散　兵庫知事選と重なる投稿者も</title><link>https://www.kobe-np.co.jp/news/society/202609/0020810373.shtml</link><description>[score: 0.879] 沖縄知事選、荒れるSNS 動画、Xの大半が県外発 AI悪用し中傷拡散 兵庫知事選と重なる投稿者も １３日投開票の沖縄県知事選を巡り、交流サイト（ＳＮＳ）やユーチューブへの投稿が過熱している。地元紙の琉球新報によると、知事選の関連動画の再生回数は５千万回を超えた一方、再生上位で県内発信と確認できた動画はゼロ。Ｘ（旧ツイッター）の投稿も約９割が県外からで、真偽不明の情報や中傷動画も拡散している。...</description><guid isPermaLink="false">https://www.kobe-np.co.jp/news/society/202609/0020810373.shtml</guid><pubDate>Sat, 12 Sep 2026 00:03:46 +0000</pubDate></item><item><title>検索の新たな基盤はデジタル上の評判である――AIレピュテーション管理の時代</title><link>https://forbesjapan.com/articles/detail/104605?s=ns</link><description>[score: 0.880] 過去20年間、デジタル戦略の最も確かな基準はドメイン中心であることだった。ブランドは自社保有の資産に注力し、SEOを用いてユーザー意図をキーワードデータに丹念に対応させ、そのうえでサイト構造を改善しながらパフォーマンスを高める最適化を行ってきた。
+私たちは、自社ブランドが適切な検索クエリに対する主要な到達先であり続けるために必要な権威性を築いてきた。それは厳密で、非常に効果的な科学だった。オーディエンスが何を求めているかを理解できれば、それを届けるための直接的な道筋を構築できたのである。
+いま、その直接的な道筋は塗り替えられつつある。
+生成AIの台頭により、検索エンジンは能動的な統合エンジンへ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104605?s=ns</guid><pubDate>Sat, 12 Sep 2026 05:06:10 +0000</pubDate></item><item><title>Claude Managed AgentsにIaC的に管理する機能が追加されたゾ!!</title><link>https://qiita.com/moritalous/items/2168025729eb840d5143?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] Claude Developer Platformのant
+CLIにv1.30.0でapply
+コマンドが追加されました。
+ドキュメントではこちらに該当します。
+クラウド環境はIaCが主流になっていますが、Manged Agents時代のIaC（Infrastructure as Code）っぽい感じです！
+ドキュメントのタイトルはManage resources as code
+です
+やってみます。
+ant cliをインストール
+公式のインストール手順には、macOSの場合、brewでインストールする手順が書かれています。
+が、私の趣味で、miseを使ってインストールします。
+mise us</description><guid isPermaLink="false">https://qiita.com/moritalous/items/2168025729eb840d5143?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 12 Sep 2026 08:35:18 +0000</pubDate></item><item><title>dbt ＋ DuckDB で学ぶ Spotify 式 Context Layer - 正確なKPI集計と自由なデータ探索を両立する Text-to-SQL 設計論</title><link>https://qiita.com/ReQ_HY/items/e1043eb0cb6e9313c86f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.882] みなさん、こんにちは！
+自然言語での分析（DWHへの問い合わせ）を実現する場合、必要なコンテキストを用意せずにスキーマやテーブル定義のみをプロンプトとして渡しただけのText-to-SQLでは、現場特有の業務ルールを反映できず誤集計が多発します。
+本記事では、Spotify社内AI「Vedder」[^1] の設計思想を参考に、DuckDB + dbt-duckdb + Gemini 3.7 Flash を用いて、4つの検証パターン（素のDDL、Context Layer、Semantic Layer、および両者を統合したハイブリッド構成）の精度を実測した結果を比較します。
+この記事のまとめ
+-</description><guid isPermaLink="false">https://qiita.com/ReQ_HY/items/e1043eb0cb6e9313c86f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 12 Sep 2026 08:35:18 +0000</pubDate></item><item><title>20年来のデータ問題に決着を——AIが開く稀有な好機</title><link>https://forbesjapan.com/articles/detail/104603?s=ns</link><description>[score: 0.882] 20年にわたり、私はCFOと向き合い、実質的に同じ会話を繰り返してきた。データ品質が悪く、ガバナンスは後回しにされ、システムが示す内容を誰も全面的には信用していない、という会話である。AIは確かにその現実を変えるものではない。ただ、その現実から目を背ける余地をなくすだけだ。
+なぜ今、その好機が開いているのか
+良質なデータがなければAIは機能しない。それに尽きる。どれほど高性能なモデルであっても、10年にわたり誤った数値を生み出してきた上流プロセスを修正することはできない。AIの機運は、「データを本当に修正すべきだ」と20年間言われ続けながらも起きなかった決着を迫っている。この好機は、これまで同</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104603?s=ns</guid><pubDate>Sat, 12 Sep 2026 05:06:10 +0000</pubDate></item><item><title>Power Automateクラウドフロー入門｜ロジック設計(1) Apply to each の遅さを体感する</title><link>https://qiita.com/kaiinaba/items/d00e720ccb2b4fdb9aec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.882] Power Automateクラウドフロー入門｜ロジック設計
+第1回 Power Automate初心者向け｜Apply to each の遅さを体感する
+Power Automate では、さまざまな業務を自動化できます。
+たとえば、ライセンス利用数の集計、Teamsでの自動定期連絡などです。
+管理業務で、さらに言えば情シスなどが「毎回手でやっている定型作業」を置き換えるにはかなり強力です。
+一方で、Power Automate は処理量が多くなると遅いことがあります。
+最初は 10 件しか処理しなかったからよかったが、時間がたつにつれ 100 件、200 件を超え、それにともない完了まで </description><guid isPermaLink="false">https://qiita.com/kaiinaba/items/d00e720ccb2b4fdb9aec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 12 Sep 2026 08:35:18 +0000</pubDate></item><item><title>自分を追い込む自己改善を「卒業」、心身の健康を最大化する6つの小さな習慣</title><link>https://forbesjapan.com/articles/detail/104363?s=ns</link><description>[score: 0.884] 米国では9月が「自己改善月間（Self-Improvement Month）」とされるが、日本でも厚生労働省が9月を「健康増進普及月間」および「食生活改善普及運動」に定めている。健康状態を改善することは、もう一つの本業のように感じられるかもしれない。完璧主義に陥ると、自己改善は「ウェルネスマキシング（wellness maxxing）」へと変わりかねない。これは、能力を最大限に発揮する「ピークパフォーマンス」を追求するあまり、複数のウェルネスプログラムを一度に詰め込む行為のことだ。体調を整えようという善意の試みとして始まったものが、あっという間に全く別のもの、すなわち、より大きなプレッシャー、</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104363?s=ns</guid><pubDate>Sat, 12 Sep 2026 07:31:50 +0000</pubDate></item><item><title>カリフォルニア州 SNSやAIから子ども守る州法成立</title><link>https://news.web.nhk/newsweb/na/nd-20260912de49897</link><description>[score: 0.886] SNSの動画の自動再生や過去の閲覧履歴から予測したコンテンツの表示など中毒性のある機能から子どもの利用者を守るとする新たな法律がアメリカ西部カリフォルニア州で成立しました。
+カリフォルニア州のニュ…
+あわせて読みたい
+FRB利上げ観測強まる トランプ大統領は利下げ圧力
+9月12日 14:49
+イコールアースの北方領土表記など日本の修正要求にロシア反発
+9月12日 10:13
+米同時多発テロ事件25年 旅客機激突のビル跡地で犠牲者を追悼
+9月12日 7:48
+韓国軍「北朝鮮が短距離弾道ミサイル発射」日米韓訓練に反発か
+9月12日 11:51
+イエメン反政府勢力のフーシ派 紅海出入り口の海峡の島制</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260912de49897</guid><pubDate>Sat, 12 Sep 2026 09:34:27 +0000</pubDate></item><item><title>“イランが中国の衛星画像をもとに米軍攻撃か”米有力紙</title><link>https://news.web.nhk/newsweb/na/nd-20260912de49890</link><description>[score: 0.887] アメリカの有力紙、ウォール・ストリート・ジャーナルは、当局者の話として、ことし7月にイランが中東にあるアメリカ軍の拠点を攻撃する前に解像度の高い衛星画像を中国から入手していたと伝えました。
+イランは…
+あわせて読みたい
+FRB利上げ観測強まる トランプ大統領は利下げ圧力
+9月12日 14:49
+イコールアースの北方領土表記など日本の修正要求にロシア反発
+9月12日 10:13
+米同時多発テロ事件25年 旅客機激突のビル跡地で犠牲者を追悼
+9月12日 7:48
+韓国軍「北朝鮮が短距離弾道ミサイル発射」日米韓訓練に反発か
+9月12日 11:51
+イエメン反政府勢力のフーシ派 紅海出入り口の海峡の島</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260912de49890</guid><pubDate>Sat, 12 Sep 2026 08:35:31 +0000</pubDate></item><item><title>2026年9月10日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title><link>https://qiita.com/ennagara128/items/1386d130150096dcbd1f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] 2026年9月10日 今日のQiitaトレンド記事をポッドキャストで聴こう！
+AI 初心者 AIエージェント AWS ChatGPT
+前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。
 通勤中などにながら聴きしよう！
 （Qiita投稿は通勤には間に合わないと思われますが）
 フィードバックとか助かりますのでください
 ↓こちらから
 出典
 AIっぽくない画像を作る画風プロンプト38種類＋テンプレート
-https://qiita.com/maeda-niku18/items/b633dda178c505461080?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items
-Docker環境をガチで軽量化するための鉄板設定まとめ
-ht</description><guid isPermaLink="false">https://qiita.com/ennagara128/items/552b61295bfa9bc2c20a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 11 Sep 2026 20:35:12 +0000</pubDate></item><item><title>米国株式市場＝反発、ＣＰＩ受け利上げ観測強まる デル最高値 - Reuters</title><link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmFkQUVjMFRIbWZ6NnlPZFZ0UVIwTnV6V2VtWERLU2QwUHhYRENETm5aWG1Pd0FnMDgxYmM1QUlGQkVIOGFkaC1qNmQ2WUNRQ0RwRjVuUHg5R3RuMjdqazZVZ1k5OE50RlczX2lhZWdhV3FvT3lFV2ZETmVQWlkzbXdBVG4?oc=5</link><description>[score: 0.881] 米国株式市場＝反発、ＣＰＩ受け利上げ観測強まる デル最高値 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxQWmFkQUVjMFRIbWZ6NnlPZFZ0UVIwTnV6V2VtWERLU2QwUHhYRENETm5aWG1Pd0FnMDgxYmM1QUlGQkVIOGFkaC1qNmQ2WUNRQ0RwRjVuUHg5R3RuMjdqazZVZ1k5OE50RlczX2lhZWdhV3FvT3lFV2ZETmVQWlkzbXdBVG4?oc=5</guid><pubDate>Fri, 11 Sep 2026 21:34:56 +0000</pubDate></item><item><title>生成AI以前と以後でエンジニアの文章はどう変わったのか: Qiitaの7万記事を数えてみた話</title><link>https://nyosegawa.com/posts/qiita-writing-before-after-ai/</link><description>[score: 0.881] 生成AI以前と以後でエンジニアの文章はどう変わったのか: Qiitaの7万記事を数えてみた話 こんにちは！逆瀬川ちゃん (@gyakuse) です！ 今日は生成AI以前と以後でエンジニアが書く文章がどう変わったのかを、Qiitaの記事を数えて確かめた結果をまとめていきたいと思います。 最近の技術記事を読んでいると、見覚えのある言い回しに出会うことが増えました。「地味に効きます」「静かに壊れる」「〜とは別物です...</description><guid isPermaLink="false">https://nyosegawa.com/posts/qiita-writing-before-after-ai/</guid><pubDate>Fri, 11 Sep 2026 12:48:59 +0000</pubDate></item><item><title>原油先物反落、中東供給懸念根強く100ドル台維持 - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPRVNfSlZRRkNxbmRCSl80RW0zZnJiT3Fkb3pxZXJjc3ZuQnp6X2w1OXJEZi1Id3YwTUl3MnRkX2YyM0lmakxtdHE4aVJ5NnZLMkhTZU5aVWc0X2tqSkdRVGtCZk54MXVVbGh6MlhFYTJ0aGc1RDlWcmkxVV92cEJfcVFn0gGHAUFVX3lxTE52YnV6cGdROHJZX05fODJYQ2MwSkpHRzZZX2VDa24xeTIxZGZyOW5RRGl3VkJJLW9LRHVWWVM1dnkxclMwQkE0ZVpaTy11U20wOTVXbHpDaHBSSE5IZnJaTy12bFU5ekhuQ1B3Vm9GQnZYVG5zd205N1FQcUtpVDh1LU84VlB0aw?oc=5</link><description>[score: 0.882] 原油先物反落、中東供給懸念根強く100ドル台維持 ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxPRVNfSlZRRkNxbmRCSl80RW0zZnJiT3Fkb3pxZXJjc3ZuQnp6X2w1OXJEZi1Id3YwTUl3MnRkX2YyM0lmakxtdHE4aVJ5NnZLMkhTZU5aVWc0X2tqSkdRVGtCZk54MXVVbGh6MlhFYTJ0aGc1RDlWcmkxVV92cEJfcVFn0gGHAUFVX3lxTE52YnV6cGdROHJZX05fODJYQ2MwSkpHRzZZX2VDa24xeTIxZGZyOW5RRGl3VkJJLW9LRHVWWVM1dnkxclMwQkE0ZVpaTy11U20wOTVXbHpDaHBSSE5IZnJaTy12bFU5ekhuQ1B3Vm9GQnZYVG5zd205N1FQcUtpVDh1LU84VlB0aw?oc=5</guid><pubDate>Fri, 11 Sep 2026 22:34:53 +0000</pubDate></item><item><title>社内データをチャットで分析、ChatGPT Workに「Data agent」</title><link>https://pc.watch.impress.co.jp/docs/news/2136472.html</link><description>[score: 0.882] ニュース
-社内データをチャットで分析、ChatGPT Workに「Data agent」
-2026年9月11日 12:40
-SQLもBIツールの操作も要らない。社内データの分析は「聞くだけ」でいい。チャットを通じて社内データを分析できるChatGPT Workの新機能「Data agent」が公開された。OpenAIが9月10日に発表したもので、ChatGPT Workのプラグイン「Data」を有効化することで利用できる。
-Data agentは、ChatGPT Workとのチャットを通じて社内データの分析が行なえる機能。Amazon Redshift、Datadog、Google BigQu</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2136472.html</guid><pubDate>Fri, 11 Sep 2026 17:51:58 +0000</pubDate></item><item><title>カナダがウクライナ支援に390億円追加へ 防空体制強化</title><link>https://news.web.nhk/newsweb/na/nd-20260911de49815</link><description>[score: 0.882] カナダのカーニー首相は、ウクライナを支援するため、日本円でおよそ390億円を新たに拠出すると発表しました。
-ウクライナのゼレンスキー大統領は10日、SNSで謝意を示したうえで、ロシアのミサイルや無…
+https://qiita.com/maeda-niku18/items/b633dda178c505461080?utm_campaign=popular_items&amp;utm_</description><guid isPermaLink="false">https://qiita.com/ennagara128/items/1386d130150096dcbd1f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 12 Sep 2026 08:35:18 +0000</pubDate></item><item><title>若手社員の6割が入社前から転職を視野　「まずは3年」の終焉</title><link>https://forbesjapan.com/articles/detail/104328?s=ns</link><description>[score: 0.890] 近年は、キャリアアップや労働環境の改善を目指して転職を選択する人は年々増えている。「まずは3年働いてから」と言われた社会人生活だが、働く環境やキャリアに対する意識の変化に伴い、若手層がキャリアの舵を切るタイミングにも変化が見られる。そんな若年層の転職に対する意識について、20代専門転職サイト「Re就活」を運営する学情がアンケート調査を実施し、その結果を公開している。
+それによると、転職について「社会人になる前から視野に入れていた」と答えた人は63.1%に達し、前年の57.9%から5.2ポイント増加していることがわかった。入社してから組織の体制や待遇に疑問を感じて動き出すのではなく、学生時代に就</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104328?s=ns</guid><pubDate>Sat, 12 Sep 2026 09:30:07 +0000</pubDate></item><item><title>サカナAIの「Sakana Fugu」、AI性能再び世界最高水準　複数モデル連携 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC11B4U0R10C26A9000000/</link><description>[score: 0.891] サカナAIの「Sakana Fugu」、AI性能再び世界最高水準 複数モデル連携 - 日本経済新聞 人工知能（AI）開発新興のSakana AI（サカナAI、東京・港）が基幹モデルである「Sakana Fugu（サカナ・フグ）」の最新版を発表した。複数のAIを組み合わせ、最高水準の性能を実現した。日本企業が世界のAI開発競争についていく先例となる。高性能モデルである「Fugu Ultra」は機能を更新した「Fugu Ultra v2（フグ・ウル...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC11B4U0R10C26A9000000/</guid><pubDate>Sat, 12 Sep 2026 07:32:03 +0000</pubDate></item><item><title>無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応</title><link>https://gigazine.net/news/20260912-goose/</link><description>[score: 0.892] 無料のオープンソースAIエージェント「goose」、デスクトップアプリ・CLI・APIなどコード・ワークフロー・その他あらゆる用途に対応
+AIエージェントを使い始めると、用途や料金に応じてOpenAI・Claude・Google Gemini・ローカルLLMなどを使い分けたいケースがあります。そこで複数のAIプロバイダーを自由に切り替えながら、デスクトップアプリ・CLI・APIなどからMCPによるツール連携や自動化まで1つの環境で利用できるオープンソースのAIエージェント「goose」が公開されています。
+goose | Your open source AI agent
+https://go</description><guid isPermaLink="false">https://gigazine.net/news/20260912-goose/</guid><pubDate>Sat, 12 Sep 2026 09:06:59 +0000</pubDate></item><item><title>勉強を「気合」ではなく「ログ」で管理する</title><link>https://qiita.com/SHIBATATA/items/c40eaabbe4a283f706e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.892] 勉強を「気合」ではなく「ログ」で管理する
+ChatGPTとスプレッドシートで作る学習管理システム
+資格勉強や技術学習を続けていると、こんな問題が起きます。
+- 何を勉強したのか忘れる
+- 苦手だった分野を放置する
+- 得意分野ばかり繰り返してしまう
+- 「勉強した」という事実だけで満足する
+- 試験範囲を本当に網羅できているのか分からない
+- 数週間前に間違えた問題をそのまま忘れる
+そこで現在、私は ChatGPTとGoogleスプレッドシートを組み合わせて、学習そのものをログで管理する 方法を試しています。
+単純な勉強時間の記録ではありません。
+目指しているのは、
+学習 → 演習 → 評価 </description><guid isPermaLink="false">https://qiita.com/SHIBATATA/items/c40eaabbe4a283f706e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 12 Sep 2026 08:35:18 +0000</pubDate></item><item><title>AI時代のガバナンス、問われる「証明する力」</title><link>https://forbesjapan.com/articles/detail/104612?s=ns</link><description>[score: 0.895] 人工知能（AI）は、組織がデータをどのように作成し、活用し、行動につなげるかを変えつつある。それと同時に、そのデータに関する説明責任をどう示すべきかについても、根本的な変化が起きている。
+マッキンゼーによれば、世界の組織の88%がAIを日常的に利用している。しかし、リーダーが生成された情報の整合性を説明できず、そのデータの適切なレビューを示せず、その後の意思決定を弁明できなければ、AIは新たな重大リスクとなる。
+監督当局がAIの影響に対応するなか、規制は急速に進化している。EU AI法のようなフレームワークは、特定のAIシステムに対して新たなガバナンスと透明性の義務を課しており、より広範な説明</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104612?s=ns</guid><pubDate>Sat, 12 Sep 2026 06:33:51 +0000</pubDate></item><item><title>Anthropicを辞めたAI研究者が警告。「今後1、2年が人類にとって正念場」</title><link>https://wired.jp/article/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/</link><description>[score: 0.899] 人工知能（AI）研究者のジェイコブ・コクソンは9月8日（米国時間）、Anthropicからの退社を発表した。同時に、AI開発競争がわたしたち全員の命を危険に晒していると強く警告し、シリコンバレー内外に衝撃を与えた。
+コクソンはXへの投稿で、AI開発に携わる多くの人も同様の懸念を抱き、AIシステムの安全性を確保するために残された時間は少ないと考えていると記した。この投稿は、すでに1億回以上閲覧されている。
+「今後1、2年が、人類にとって正念場になるというのが共通認識です」と、AIモデルの事前学習に携わっていたコクソンは『WIRED』の取材に語った。「最終局面（endgame）」や「正念場（cru</description><guid isPermaLink="false">https://wired.jp/article/anthropic-researcher-quits-jacob-coxon-ai-fears-humanity/</guid><pubDate>Fri, 11 Sep 2026 23:26:56 +0000</pubDate></item><item><title>SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは?</title><link>https://gigazine.net/news/20260912-spotify-cut-claude-code-token-usage/</link><description>[score: 0.900] 音楽ストリーミングサービスのSpotifyが、Claude Codeで大量のトークンを消費する単純作業を別のAIモデルに任せることでトークン消費を大幅に削減する手法を公開しました。Spotifyのディミトリ・マズマノフ氏は、この手法を検証した結果、大量のファイル読み込みを委譲するテストでClaude側のトークン消費を平均約90％削減できたと報告しています。 Portal by Spotify cut my Claude Code token usage by 90% | Spotify Engineeringhttps://engineering.atspotify.com/2026/9/po</description><guid isPermaLink="false">https://gigazine.net/news/20260912-spotify-cut-claude-code-token-usage/</guid><pubDate>Sat, 12 Sep 2026 08:05:56 +0000</pubDate></item><item><title>「iPhone 18 Pro/Pro Max」が本日12日21時から予約開始。予約前に知りたい「Duo」との違い</title><link>https://www.businessinsider.jp/article/2609-iphone-18-pro-vs-iphone-duo/</link><description>[score: 0.901] 9月10日（日本時間）に発表された新型iPhone。2026年は無印モデルの発表がなく、新たにラインナップに加わったのは、上位モデルの「iPhone 18 Pro」「iPhone 18 Pro Max」と、アップル初の折りたたみスマートフォン「iPhone Duo」の3機種のみとなった。
+直販価格（税込）は、iPhone 18 Proが21万9800円～、Pro Maxが23万9800円～。折りたたみモデルのiPhone Duoは36万4800円～と、Proシリーズより大幅に高い。
+発売時期にも約1カ月の差がある。iPhone 18 ProとPro Maxは9月12日午後9時に予約注文を開始し</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-iphone-18-pro-vs-iphone-duo/</guid><pubDate>Sat, 12 Sep 2026 09:00:17 +0000</pubDate></item><item><title>「iPhone Duo」登場の裏で「iPhone 18」が発表されなかった理由　変わりゆくラインアップ戦略を読み解く</title><link>https://www.itmedia.co.jp/mobile/articles/2609/12/news013.html</link><description>[score: 0.903] Appleは、9月10日未明（日本時間）に新製品発表会を米カリフォルニア州クパチーノで開催。初のフォルダブルスマホとなる「iPhone Duo」や、カメラに絞りを搭載した「iPhone 18 Pro」「iPhone 18 Pro Max」などの新モデルを発表した。Apple WatchやAirPodsの新製品もそろえた。
+同社初のフォルダブルスマホということもあり、iPhone Duoに高い注目が集まっているが、スマホのラインアップ全体を見渡しても、今回は大きな変化がある。ノーマルモデルのiPhoneや、2025年に登場した「iPhone Air」の後継機が不在な上、継続販売する過去モデルも通</description><guid isPermaLink="false">https://www.itmedia.co.jp/mobile/articles/2609/12/news013.html</guid><pubDate>Sat, 12 Sep 2026 03:31:34 +0000</pubDate></item><item><title>トランプ、AI人類滅亡説を一蹴　「中国に勝つこと」を最優先と断言</title><link>https://forbesjapan.com/articles/detail/104589?s=ns</link><description>[score: 0.904] ドナルド・トランプ米大統領は米国時間9月10日夜、人工知能（AI）が人類を滅ぼしかねないという研究者らの懸念を一蹴し、AI開発競争で中国に勝てない可能性の方が心配だと述べた。
+共和党大会後にダラスを発つ際、駐機場で記者団の取材に応じたトランプは、AIが人類絶滅につながる懸念はあるかと問われた。
+トランプはそれについては心配していないが、「AIで勝てなければ、我々は非常に悪い立場に置かれる」ことを懸念していると述べた。
+大統領は米国が中国を「かなりの差でリードしている」と主張し、米国のAIは「1年……それはかなり大きな差と考えられているが」先行していることを示唆した。
+その後トランプは、今年後半</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104589?s=ns</guid><pubDate>Sat, 12 Sep 2026 02:08:59 +0000</pubDate></item><item><title>沖縄県知事選 選挙期間投稿100万件超 ひぼう中傷 批判の偏りも | NHKニュース</title><link>https://news.web.nhk/newsweb/na/nd-20260911de49830</link><description>[score: 0.906] 13日に投開票が行われる沖縄県知事選挙について、SNSのXへの投稿は8月27日の告示日以降だけで100万件を超え、選挙への関心が高い状態が続いています。ただ、SNSや動画サイトでは、ひぼう中傷や偽情報…
 あわせて読みたい
-ウクライナ空軍 ロシアのジェット無人機の迎撃が新たな課題に
-9月11日 4:56
-ウクライナ大統領を乗せた専用機に無人機接近か
-9月10日 21:33
-ウクライナ 深まる苦境 ゼレンスキー大統領の試練
-9月9日 15:02
-ロシアとウクライナで激しい攻撃の応酬 米特使の会談後も
-9月8日 21:19
-無人機がウクライナ情報機関を直撃 12人けが
-9月5日 8:54
-ゼレンスキー大</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260911de49815</guid><pubDate>Fri, 11 Sep 2026 15:12:30 +0000</pubDate></item><item><title>この国は｢次のパンデミック｣に備えた投資ができているか…バイオセキュリティーも含む国際公共財｢CEPI｣に戦略的拠出を | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957419?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.882] ＊2026年9月14日6:00まで無料の会員登録で全文をお読みいただけます。それ以降は有料会員限定となります。
-コンゴ民主共和国で、エボラ出血熱の感染が急拡大している。エピデミック（地域的な流行）だ。9月5日時点で確認感染者は6604人、死者は3175人に達した。世界保健機関（WHO）のテドロス事務局長は8月、この流行は史上2番目の規模で、過去のエボラ流行の中でも最も速いペースで拡大していると指摘した。
-こうした脅威に対し、米バイオテクノロジー企業のモデルナや英オックスフォード大学などによる複数のワクチン候補の開発を支援している国際組織がある。感染症流行対策イノベーション連合（CEPI）だ。
-</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957419?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Fri, 11 Sep 2026 21:21:30 +0000</pubDate></item><item><title>つい他人と比較してしまう？ そんなの、実は普通です。——脳の「比較グセ」と気楽に向き合う3つの方法</title><link>https://studyhacker.net/social-comparison-theory</link><description>[score: 0.883] 同期が昇進した。そう聞いて「おめでとう」と言った、その声が自分でもわかるくらい薄かった。 夜、なんとなく開いたSNSには、今度は友人の起業報告。その下に、後輩の海外赴任の写真。閉じる。天井を見る。取り残されているのは自分だけ、という気がしてくる。 人の幸せを喜べないなんて、自分はどれだけ性格が悪いんだろう。 でもそれは、あなたの性格の問題ではありません。人間にはもともと「比べる」仕組みがあって、それがいまの環境でうまく回っていないだけです。 今回は、どうしてもしてしまう「他人との比較」と、そこへの向き合い方のお話です。 比較は脳のデフォルト機能である 比べるのは正常。入力される情報が多すぎるだ</description><guid isPermaLink="false">https://studyhacker.net/social-comparison-theory</guid><pubDate>Fri, 11 Sep 2026 22:40:28 +0000</pubDate></item><item><title>米、親イラン勢力支援で追加制裁　「経済的追放作戦」の一環 - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE11TUF6NTJkU01vWEZqMlQ0SVhXTDhxWk4xeFpmbllnS0UzZk9yYUV4b3MzWXFpSHAxdjI5TjNGSjlkMkdnQWZ6a0NtaDFxQzlhWFNSeW5vUnE1czB5TmxPeHZaTGZxeXJQaDNlMGJWbHotcHJ4RGxGTHBLNE1aQdIBgwFBVV95cUxQV3RFWkltZTVQMjZZYS1UUG1WMHlDOG00azBVQzFmRnp6cnE0b2tIWGRrRUkxQjUtSUtibDNYMmJDN25Sb0g0UDhrX1R2LW9RU0h2RDlvb0VhZGFVQUFOczBPczBvbXlsZEFqb0RvZlhWTWxzZHo1T3VHRjlXLXkwN2ZEbw?oc=5</link><description>[score: 0.884] 米、親イラン勢力支援で追加制裁 「経済的追放作戦」の一環 ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE11TUF6NTJkU01vWEZqMlQ0SVhXTDhxWk4xeFpmbllnS0UzZk9yYUV4b3MzWXFpSHAxdjI5TjNGSjlkMkdnQWZ6a0NtaDFxQzlhWFNSeW5vUnE1czB5TmxPeHZaTGZxeXJQaDNlMGJWbHotcHJ4RGxGTHBLNE1aQdIBgwFBVV95cUxQV3RFWkltZTVQMjZZYS1UUG1WMHlDOG00azBVQzFmRnp6cnE0b2tIWGRrRUkxQjUtSUtibDNYMmJDN25Sb0g0UDhrX1R2LW9RU0h2RDlvb0VhZGFVQUFOczBPczBvbXlsZEFqb0RvZlhWTWxzZHo1T3VHRjlXLXkwN2ZEbw?oc=5</guid><pubDate>Fri, 11 Sep 2026 22:34:53 +0000</pubDate></item><item><title>AWSのインフラ導入でAIを使っている箇所と手でやっている箇所</title><link>https://qiita.com/infra365/items/aa30a54fc6f0849385a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] はじめに
-「AIはボトルネックを解消するものではなく、ボトルネックを他の工程に移しているだけ」という話を聞きました。私はシステム導入の中でAIを使いこなせているわけではないのですが、当然一部にはAIを活用しているため、改めてどのようにシステム導入の工程を実施していて、どこにボトルネックがあるのかを振り返ってみました。
-前提
-ざっくりと導入工程を書いてみます。工程は下記のように、要件定義・検証・設計・構築・試験・運用の6つとします。検証をいつ実施するかはプロジェクトによっても異なります。要件定義後に実施する場合もあれば、PoCや検証事業として別に実施する場合もあります。各工程で何をインプットにし</description><guid isPermaLink="false">https://qiita.com/infra365/items/aa30a54fc6f0849385a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 11 Sep 2026 20:35:12 +0000</pubDate></item><item><title>システムに侵入されても気付けない…さくらインターネットへの不正アクセス｢3年以上前からの可能性が判明｣の重み | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957684?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.889] コンテンツブロックが有効であることを検知しました。
-このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
-なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957684?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Fri, 11 Sep 2026 21:02:10 +0000</pubDate></item><item><title>高市首相、現閣僚らと「駆け込み」会食　17日にも内閣改造 | 毎日新聞</title><link>https://mainichi.jp/articles/20260911/k00/00m/010/324000c</link><description>[score: 0.889] 高市早苗首相は11日夜、首相公邸で高市内閣の閣僚メンバーと会食した。首相は17日にも内閣改造に踏み切る見通しで、閣僚交代を前にした「駆け込み」開催となった。
-会食には外国出張中の2閣僚を除く16閣僚が出席した。片山さつき財務相は会食後、「首相からはねぎらいの言葉がたくさんあった」と語った。多くの閣僚にとっては人事の調整が本格化するタイミングでの開催で、政権幹部は出席閣僚の心境について「気が気じゃないだろう」と気遣った。
-当初は国会閉会後の7月下旬に慰労会の開催を予定していたが、熊本地震の発生を受けて延期していた。首相は改造で政権の骨格は維持する方針で、木原稔官房長官や片山氏ら一部の閣僚は留任さ</description><guid isPermaLink="false">https://mainichi.jp/articles/20260911/k00/00m/010/324000c</guid><pubDate>Fri, 11 Sep 2026 22:35:56 +0000</pubDate></item><item><title>決算:オラクル、クラウド好調の裏に財務リスク　OpenAI依存に警戒 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOGN112KN0R10C26A9000000/</link><description>[score: 0.890] この記事は会員限定記事です
-オラクル、クラウド好調の裏に財務リスク OpenAI依存に警戒
-[会員限定記事]
-【シリコンバレー=山田航平】米オラクルが10日発表した2026年6〜8月期の決算は、クラウド事業が好調で純利益で過去最高を更新した。人工知能（AI）ブームの恩恵を受ける一方で、巨額投資に伴う財務リスクへの警戒感が強まっている。
-「計算能力に対する需要は膨大で、能力を稼働させるためにあらゆる手段を講じている」。同日に開いたアナリスト説明会で、クレイ・マグワイク最高経営責任者（CEO）はこう強調した...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOGN112KN0R10C26A9000000/</guid><pubDate>Fri, 11 Sep 2026 21:03:41 +0000</pubDate></item><item><title>イエメン反政府勢力のフーシ派 紅海出入り口の海峡の島制圧か</title><link>https://news.web.nhk/newsweb/na/nd-20260912de49839</link><description>[score: 0.894] イラン情勢を受けて世界の原油供給への影響が続くなか、イランの支援を受ける中東イエメンの反政府勢力が、紅海の出入り口にあたる海峡の島を制圧したと、中東のメディアが伝えました。紅海はホルムズ海峡の代替ルー…
-あわせて読みたい
-ホルムズ海峡の代替ルート 紅海周辺でも情勢悪化の懸念
-9月8日 20:51
-イエメン反政府勢力が攻勢強めホルムズ海峡代替ルートに懸念
-9月11日 5:01
-米同時多発テロ事件25年 旅客機激突のビル跡地で犠牲者を追悼
-9月12日 7:48
-きょうからBRICS首脳会議 中国とインドの関係の安定化が焦点
-9月12日 6:30
-プーチン大統領 制裁の西側諸国を批判 BRICSと関</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260912de49839</guid><pubDate>Fri, 11 Sep 2026 22:10:10 +0000</pubDate></item><item><title>同盟国を遠ざけるトランプ､ロシア･イランとの結束を示す習近平 ｢G20と上海協力機構｣から見えた世界の現状 | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957287?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.899] 中国の国家主席、習近平は先週、アメリカ大統領ドナルド・トランプによって動揺を深める世界に向け、あるメッセージを携えて中央アジアを訪れた。中国には、今後の世界秩序の形成に力を貸す用意がある、というものだ。
-舞台となったのは、キルギスの首都ビシケクで開かれた安全保障首脳会議だ。習はロシアとイランの首脳らと一堂に会し、中国を安定の源泉、そして現在のアメリカ主導の秩序に代わる「秩序ある多極世界」の擁護者として打ち出した。
-安定の上海協力機構、分断のG20
-ビシケクでの首脳会議（上海協力機構首脳会議）が結束を示すためのものだったとすれば、米ノースカロライナ州アッシュビルの山間部で開かれた世界の主要国によ</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957287?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Fri, 11 Sep 2026 22:01:01 +0000</pubDate></item><item><title>外国人労働者をどう受け入れる？ ― 国際仲介インフラを設計する : システム設計視点の行動経済学 (28)</title><link>https://qiita.com/maskot1977/items/d78f862465db444ae47f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.903] user:
-「システム設計視点の行動経済学」、第28回を始めましょう。今回は国際仲介インフラについて深掘りしたいと思います。その前に、まず前回の復習として、
-「人手不足対策」の先にあるもの ― 日本の未来を誰が決めるのか？ : システム設計視点の行動経済学 (27)
-https://qiita.com/maskot1977/items/77b1f43d8d914830f893
-をよく読み込んで、システム設計と行動経済学の視点を交えながらその内容の復習をしてください。ここで導き出されていた結論やキーメッセージも示してください。
-Gemini:
-「システム設計視点の行動経済学」、第28回の開幕にあ</description><guid isPermaLink="false">https://qiita.com/maskot1977/items/d78f862465db444ae47f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 11 Sep 2026 20:35:12 +0000</pubDate></item><item><title>ＮＹ外為市場＝ドル小幅高、米ＣＰＩ受け利上げ観測強まる 円は強含み（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNXhqYlFBVHY2WHFDNDhMZHp3VndwM0w1S0FCUnZPSk5tX1VfQzZ3eHNLSFQ1Z3RTVVhreEc4REZVblpJRVBpMWEyMUdSUnJ3VklicHVEa0hjNDE4Mm0tNVBtZmI1cTBBRWpRd0ROQnVKWkU5TVZpYVFjNXMxRm8?oc=5</link><description>[score: 0.907] ＮＹ外為市場＝ドル小幅高、米ＣＰＩ受け利上げ観測強まる 円は強含み（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFBtNXhqYlFBVHY2WHFDNDhMZHp3VndwM0w1S0FCUnZPSk5tX1VfQzZ3eHNLSFQ1Z3RTVVhreEc4REZVblpJRVBpMWEyMUdSUnJ3VklicHVEa0hjNDE4Mm0tNVBtZmI1cTBBRWpRd0ROQnVKWkU5TVZpYVFjNXMxRm8?oc=5</guid><pubDate>Fri, 11 Sep 2026 21:34:56 +0000</pubDate></item><item><title>ＮＹ外為市場＝ドル小幅高、米ＣＰＩ受け利上げ観測強まる 円は強含み - Reuters</title><link>https://news.google.com/rss/articles/CBMifEFVX3lxTFBHOFZNNTdMN1gzUHhZMjJKdEdsdHFtR1pwMnl6cG9wSHF4LUhqYnFZMnhCblUxbUJVa01nX3NNbVNWMGliS0hERG52UkxQbkt6SEV5bkVXNlNURFdOZWxmcEljbE9UTktpdi1LUjBnNDdOQjJkWi1UVjYySms?oc=5</link><description>[score: 0.909] ＮＹ外為市場＝ドル小幅高、米ＣＰＩ受け利上げ観測強まる 円は強含み Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifEFVX3lxTFBHOFZNNTdMN1gzUHhZMjJKdEdsdHFtR1pwMnl6cG9wSHF4LUhqYnFZMnhCblUxbUJVa01nX3NNbVNWMGliS0hERG52UkxQbkt6SEV5bkVXNlNURFdOZWxmcEljbE9UTktpdi1LUjBnNDdOQjJkWi1UVjYySms?oc=5</guid><pubDate>Fri, 11 Sep 2026 21:34:56 +0000</pubDate></item></channel></rss>
+沖縄県知事選挙 候補者のフェイク相次ぐ 生成AIの偽動画も
+9月9日 20:02
+沖縄県知事選挙 「経済」「暮らし」前面の選挙戦に
+9月10日 19:58
+沖縄県知事選 継続か刷新か NW9広内キャスターが現地取材
+9月10日 22:45
+“AIが人々の命奪いかねない”アンソロピック研究者が退社表明
+9月10日 13:57
+中部電力 報告書提出受け14日に会見 経営トップ進退</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260911de49830</guid><pubDate>Sat, 12 Sep 2026 06:52:41 +0000</pubDate></item><item><title>60歳から個人開発。AIに助けてもらいながら、Flutterでダンスアプリを作ってApp Storeに公開した話</title><link>https://qiita.com/TAKA0917/items/4d439d0cb58793041c87?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.908] はじめに
+60歳になってから、個人でスマホアプリを作り始めました。
+そして2026年8月4日、自分で作ったアプリをApp Storeに公開しました。
+アプリの名前は、
+MoveMaster - AI Dance Analyzer
+ダンスの練習動画を使って、
+- お手本と自分の動きを比較する
+- スロー再生する
+- 左右反転する
+- 骨格を表示する
+- 動きの軌跡を見る
+- 身体の軸や重心の状態を確認する
+- 気づいたことを動画の上に直接書き込む
+といったことができる、ダンス練習用のアプリです。
+「60歳からアプリを作った」と言うと、ものすごいプログラマーを想像されるかもしれません。
+でも、私は</description><guid isPermaLink="false">https://qiita.com/TAKA0917/items/4d439d0cb58793041c87?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 12 Sep 2026 08:35:18 +0000</pubDate></item><item><title>Siri AIで何ができるようになる？ 新機能を紹介</title><link>https://wired.jp/article/everything-new-you-can-do-with-siri-ai/</link><description>[score: 0.920] SiriがiPhoneに初めて登場したのは2011年のことだった。Google Assistantより5年早く、ChatGPTが一般公開される11年も前だ。先行していたにもかかわらず、近年、アップルの音声アシスタントは完全に追い抜かれてしまった。いま対峙している数々の生成AIのライバルたちと比べると、かなり原始的に見えてしまうほどだ。
+しかし、iOS 27のリリースで、アップルとSiriは巻き返しを図っている。Siriは「Siri AI」として生まれ変わり、iPhoneにはさまざまな新機能が加わる。
+iPhone 15 ProやiPhone 15 Pro Max、あるいはそれ以降のモデル（iP</description><guid isPermaLink="false">https://wired.jp/article/everything-new-you-can-do-with-siri-ai/</guid><pubDate>Sat, 12 Sep 2026 08:02:57 +0000</pubDate></item></channel></rss>
