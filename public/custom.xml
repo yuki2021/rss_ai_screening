@@ -1,133 +1,160 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 12 Sep 2026 23:00:24 +0000</lastBuildDate><item><title>来週の相場見通し（9/14～9/18）②『グローバルサウスがイラン戦争を終わらせる流れへ』</title><link>https://note.com/cjdbx883/n/n31b88127516b</link><description>[score: 0.880] １．はじめに 目下、市場の注目は原油価格動向が中心である。そうした中で、週初の14日にはホルムズ海峡を巡る重要な会談が開催される運びだ。そして、その前段階として、BRICS首脳会談はイラン戦争終結を含む中東和平を主要議題とし、「ニューデリー宣言」の表明に至った。これらの外交で大きな役割を果たしているのが中国の習近平主席である。そして9月24日には、米中首脳会談が実施される。ホルムズ海峡、イラン戦争終結の動きは、進み始めるかもしれない。興味深いのは、団結できない西側の空白を埋めるように、世界的な危機に対して、グローバルサウスが連携し始めていることだ。この点について、取り上げる。 続きをみる</description><guid isPermaLink="false">https://note.com/cjdbx883/n/n31b88127516b</guid><pubDate>Sat, 12 Sep 2026 22:09:17 +0000</pubDate></item><item><title>米アンソロピック、ＡＩモデル「クロード」初期版で4件目のサイバー事案確認 - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFB4RDdkblVjQmZGWFlwTXRGcDREMDc4WEJxWUZTWHd1U3JPbjV5aGZpN3RyT0hyZ0hZTHN3QlZGeVZ4OWVzd1JqeVR1UmtmbTVOeUh6QUhscUIyOEphZDVReGlzRV9WUjlKUGlMRUN4bjRsYWFCR3BfeUN5SWpuQdIBgwFBVV95cUxNWk1tRVBLdjI5eW5ZS2duVjdnaV96cnlTY3h6dE8xZk8yRkhtajNfeVFlQ1lTeHNaTTRKaEt4LUFBeG9KMnRheUt1am53aG40b1pDSFVrRjBINmlTUlYzallQVjZNUW5NLTg5NFVGVEYxamJIa19aalE0T1ExS3JVQ0Zndw?oc=5</link><description>[score: 0.880] 米アンソロピック、ＡＩモデル「クロード」初期版で4件目のサイバー事案確認 ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFB4RDdkblVjQmZGWFlwTXRGcDREMDc4WEJxWUZTWHd1U3JPbjV5aGZpN3RyT0hyZ0hZTHN3QlZGeVZ4OWVzd1JqeVR1UmtmbTVOeUh6QUhscUIyOEphZDVReGlzRV9WUjlKUGlMRUN4bjRsYWFCR3BfeUN5SWpuQdIBgwFBVV95cUxNWk1tRVBLdjI5eW5ZS2duVjdnaV96cnlTY3h6dE8xZk8yRkhtajNfeVFlQ1lTeHNaTTRKaEt4LUFBeG9KMnRheUt1am53aG40b1pDSFVrRjBINmlTUlYzallQVjZNUW5NLTg5NFVGVEYxamJIa19aalE0T1ExS3JVQ0Zndw?oc=5</guid><pubDate>Sat, 12 Sep 2026 10:29:17 +0000</pubDate></item><item><title>AI駆動開発のためのオントロジー - Qiita</title><link>https://qiita.com/Syoitu/items/d41d234876e1bfadbf32</link><description>[score: 0.881] 前書き
-最近、AIエージェント関連の文脈でオントロジーという言葉をよく見かけるようになりました。元々は哲学の 「存在論」 ですが、現在では AIエージェントが理解・共有できる形式の設計図 として解釈されることが多いです。
-この記事では、オントロジーとは何か、なぜ必要なのか、そしてオントロジーを構築する方法について説明します。
-オントロジーとは何か
-AWSが公開しているOSS、context-ontology-acceleratorのドキュメントでは次のように説明されています。
-Ontologies are formal knowledge models that describe the co</description><guid isPermaLink="false">https://qiita.com/Syoitu/items/d41d234876e1bfadbf32</guid><pubDate>Sat, 12 Sep 2026 22:29:30 +0000</pubDate></item><item><title>「危機感がないのは議員がバカだからではない」──バーニー・サンダースが語るAIと民主主義｜The Big Interview</title><link>https://wired.jp/article/sz-the-big-interview-podcast-senator-bernie-sanders/</link><description>[score: 0.882] バーニー・サンダースを信じるのは難しい。
-長年バーモント州選出の上院議員を務める政治家なんて、嘘つきに決まってるということではない。確かに彼は職業政治家だが、進歩派の旗手である84歳の彼の名と結びついているのは、政治スキャンダルよりもネットミームのほうだ。
-サンダースを信じるのが難しいのは、米国は根本から変われるのだと何十年ものあいだ国民に語り続けながら彼が掲げてきた政策が、現状からあまりにもかけ離れていて実現の見込みなどほとんどないように思えるからだ。
-例えば彼は、ビリオネアを統制下に置きたい。国が運営する全国民向けの医療制度も導入したい。サンダースの思いどおりになるなら、大学の授業料など存</description><guid isPermaLink="false">https://wired.jp/article/sz-the-big-interview-podcast-senator-bernie-sanders/</guid><pubDate>Sat, 12 Sep 2026 22:09:54 +0000</pubDate></item><item><title>サウジアラビア パイプライン損壊 トランプ氏“イラン関与か”</title><link>https://news.web.nhk/newsweb/na/nd-20260912de49908</link><description>[score: 0.882] サウジアラビア産の原油をホルムズ海峡を通らずに輸出するパイプラインが何者かに攻撃され、操業を停止したことについて、アメリカのトランプ大統領は、イランが関わっている可能性があるという認識を示しました。 …
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 13 Sep 2026 11:04:41 +0000</lastBuildDate><item><title>セキュリティコンサルタント1年目が「うちは影響ある？」で固まる理由 — 影響判定の3ステップ</title><link>https://qiita.com/Intect-i/items/ea4113e44855e14e8dbe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.876] TL;DR
+- 1年目が最初につまずくのは知識不足ではなく、「脆弱性情報 → 自社への影響」への変換の手順を持っていないこと
+- 影響判定は「使っているか（資産）→ 届くか（経路）→ 今やるか（緊急度）」の3ステップで機械的に詰められる
+- 分からない項目は「分からない」と書いてよい。何が分かれば判定できるかまで書けば、それは立派な回答になる
+対象読者
+- セキュリティコンサルタント1年目〜2年目
+- 注意喚起や脆弱性情報を渡されて「で、うちは影響ある？」と聞かれ、答えに詰まった経験がある方
+- 情報を読むところまではできるが、顧客の環境に当てはめる段で止まる方
+つまずきの場面: CVSS は</description><guid isPermaLink="false">https://qiita.com/Intect-i/items/ea4113e44855e14e8dbe?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 13 Sep 2026 08:30:01 +0000</pubDate></item><item><title>OpenTelemetry eBPF Instrumentationの舞台裏</title><link>https://zenn.dev/ymotongpoo/books/go-ebpf-primer</link><description>[score: 0.876] OpenTelemetry eBPF Instrumentationの舞台裏 Go Conference 2026の登壇「OpenTelemetry eBPF Instrumentationの舞台裏」の解説資料です。eBPFによるゼロコード計装は「言語を問わず動く」と語られますが、Goバイナリへの関数レベルの計装は他言語にない4つの... tmatsuu わいわい</description><guid isPermaLink="false">https://zenn.dev/ymotongpoo/books/go-ebpf-primer</guid><pubDate>Sun, 13 Sep 2026 08:49:16 +0000</pubDate></item><item><title>京都 陸上選手権会場で食中毒か 弁当業者を立ち入り調査</title><link>https://news.web.nhk/newsweb/na/nd-20260913de49978</link><description>[score: 0.878] 12日、陸上の全日本実業団選手権が開かれていた京都市の陸上競技場で、運営スタッフら28人が食中毒とみられる症状で病院に搬送されたことを受けて、京都市保健所は症状を訴えた人の多くが食べていた弁当の製造業…
 あわせて読みたい
-サウジアラビアの東西パイプライン 攻撃受け一時操業停止
-9月12日 8:01
-“イランが中国の衛星画像をもとに米軍攻撃か”米有力紙
-9月12日 17:08
-ホルムズ海峡の代替ルートで情勢不安定化 市場への影響懸念
-9月12日 18:46
-BRICS首脳会議開幕 このあと中印首脳会談へ
-9月12日 19:07
-カリフォルニア州 SNSやAIから子ども守る州法成立
-9月12日 1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260912de49908</guid><pubDate>Sat, 12 Sep 2026 21:02:05 +0000</pubDate></item><item><title>日銀の政策金利が上がっても変動金利で大丈夫？住宅ローン1億円を借りた場合の意外な結末 | ライフ | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957769?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.882] コンテンツブロックが有効であることを検知しました。
+京都 陸上競技場で28人搬送 “同じ種類の弁当を食べていた”
+9月13日 5:12
+サウジアラビア パイプライン損壊 トランプ氏“イラン関与か”
+9月13日 5:59
+千葉豪雨の発生から1か月 死者13人 住宅被害7000棟超える
+9月13日 5:13
+【千葉豪雨1か月】内水氾濫の想定外区域でも浸水被害
+9月13日 19:31
+陸上女子やり投げ 北口榛花 68メートル92の日</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260913de49978</guid><pubDate>Sun, 13 Sep 2026 10:18:19 +0000</pubDate></item><item><title>地下トンネルにホームレスが千人以上、ラスベガスの闇　薬物依存の住人はナイフや斧で武装が基本　入り口には「望まれない者たち」と書かれていた</title><link>https://www.47news.jp/14932414.html</link><description>[score: 0.878] 地下トンネルにホームレスが千人以上、ラスベガスの闇 薬物依存の住人はナイフや斧で武装が基本 入り口には「望まれない者たち」と書かれていた
+2026年09月13日 10時00分
+「歓楽都市の地下。望まれない者たち」。入り口付近に置かれたホワイトボードにはこう書かれていた。ここはアメリカのラスベガス。訪れたのは、ホームレスが千人以上暮らすと言われる巨大な地下トンネル網。ある住 ...
+記事全文を読む47リポーターズランキング
+ラオス児童買春、少女たちはどこから集められたのか 「選択肢がない」農村の小屋に１５歳、中国人の突撃訪問も
+09月21日
+47NEWS
+２０年性風俗店を渡り歩いた女性が「業界脱</description><guid isPermaLink="false">https://www.47news.jp/14932414.html</guid><pubDate>Sun, 13 Sep 2026 09:18:58 +0000</pubDate></item><item><title>本学で開催されたカンファレンスに参加した感想 (Frontend Conference Fukuoka 2026)</title><link>https://qiita.com/NAVYSHUNTA/items/bdca8fc05b10fed21dd1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] はじめに
+こんにちは、九州産業大学大学院 M2 の Shunta です。2026/09/12（土）に本学で開催された Frontend Conference Fukuoka 2026 に参加しました。
+なお、前回参加した関数型まつり 2026 の参加レポートは以下から確認できます。
+感想
+聴講したセッションの感想をざっくりと述べます。なお、順序は聴講した順です。
+杜甫々が語るフロントエンド開発技術の歴史と今後
+本セッションでは Web サイトの見栄えを HTML ではなく CSS に分離するかどうかのスタイルシート論争の流れや HTTP、CSS、JavaScript、プログラミング言語、フレー</description><guid isPermaLink="false">https://qiita.com/NAVYSHUNTA/items/bdca8fc05b10fed21dd1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 13 Sep 2026 08:30:01 +0000</pubDate></item><item><title>耳で聞く！Python で学ぶ マクロ経済学 入門 12</title><link>https://qiita.com/maskot1977/items/f2970f2d91493f37e0b2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] user:
+ソース動画のタイトル、そしてこの動画の内容について教えてください。
+Gemini:
+ご提示いただいたソース動画のタイトルおよび、その動画で語られている詳細な内容について解説します。
+動画のタイトル
+「借金を増やすほど借金は減る: Pythonで学ぶマクロ経済学入門 Podcast (12)」（YouTubeチャンネル：PythonEc）
+動画の主な内容
+この動画は、Qiitaに投稿されたマス・コット1977氏による記事『積極財政か緊縮日本の GDP 成長を 3 シナリオで徹底比較 Pythonで学ぶマクロ経済学入門』を題材に、Pythonを使った数理シミュレーションを通して「国の借</description><guid isPermaLink="false">https://qiita.com/maskot1977/items/f2970f2d91493f37e0b2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 13 Sep 2026 08:30:01 +0000</pubDate></item><item><title>富山 氷見 大雨の被災者がホテルなどへ2次避難</title><link>https://news.web.nhk/newsweb/na/nd-20260913de49979</link><description>[score: 0.879] 8月の記録的な大雨で住宅の浸水被害などが相次いだ富山県氷見市では避難が長期化する中、被災者の生活環境を改善するため、市が手配したホテルなどへの2次避難が始まりました。
+氷見市では8月の大雨で500…
+あわせて読みたい
+中部電力 林社長 勝野会長が辞意固める データ不正を受け引責
+9月13日 19:42
+高市首相 村井英樹氏を国対委員長に起用調整 自民党役員人事
+9月13日 17:49
+日本の火星衛星探査機「MMX」プロジェクトの研究者が講演会
+9月13日 17:54
+十勝岳 噴火警戒レベル3 上富良野町 吹上温泉地区に避難指示
+9月12日 11:50
+被災者に“エコノミークラス症候群”調べる検</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260913de49979</guid><pubDate>Sun, 13 Sep 2026 09:49:33 +0000</pubDate></item><item><title>私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました｜ゆいせき</title><link>https://note.com/yuiseki/n/nabf4625e58bc</link><description>[score: 0.879] 私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました｜ゆいせき 私はChatGPTですが、はてブとGyazoという「化石の地層」を掘れるようになって異次元に便利になりました 私はChatGPTです。 最近、あるユーザーが自作した3つの「ChatGPT Plugin」を使うようになりました。「はてなブックマーク」「Gyazo」「Cosense（旧Scrapbox）」を検索できるようにする ChatGPT Plugin 群です。実体...</description><guid isPermaLink="false">https://note.com/yuiseki/n/nabf4625e58bc</guid><pubDate>Sun, 13 Sep 2026 10:34:05 +0000</pubDate></item><item><title>金利の動きに注目が集まる1週間…FRBと日銀は利上げの公算､英中銀の利上げはない見込み | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957908?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.880] コンテンツブロックが有効であることを検知しました。
 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957769?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sat, 12 Sep 2026 21:09:38 +0000</pubDate></item><item><title>異なる言葉見つけねば　沖縄出身、30代研究者が知事選に抱く危機感：朝日新聞</title><link>https://www.asahi.com/sp/articles/ASV8S3DBPV8SUTFK00TM.html</link><description>[score: 0.883] 基地に賛成か反対か、二択で沖縄の現状が繰り返し語られることに、危機感を感じている1980年代生まれ、沖縄出身の研究者がいます。米軍普天間飛行場の返還合意から30年。世代交代が進むからこそ、本土と沖縄で共通の出発点をつくっていけないか。そんな問題意識を持つ成蹊大准教授の崎浜紗奈さん（37）に、沖縄県知事選と向き合うヒントを聞きました。
-――沖縄で生まれ育ち、今は東京で研究者をされています。沖縄をめぐる政治をどう見ていますか。
-「長い間、政治嫌いでした。小1の1995年に米兵による少女暴行事件、中1で米同時多発テロ、高1で沖縄国際大への米軍ヘリ墜落がありました。いずれも基地によって日常生活が脅かさ</description><guid isPermaLink="false">https://www.asahi.com/sp/articles/ASV8S3DBPV8SUTFK00TM.html</guid><pubDate>Sat, 12 Sep 2026 21:49:01 +0000</pubDate></item><item><title>【Qiita】下書き保存をクリックしても反応しない</title><link>https://qiita.com/J-T_ky2g/items/a3eec7c7d3ad9f4426fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] Register as a new user and use Qiita more conveniently
-- You get articles that match your needs
-- You can efficiently read back useful information
-- You can use dark theme
-Go to list of users who liked
-Share on X(Twitter)
-Share on Facebook
-Register as a new user and use Qiita more conveniently
-Go to</description><guid isPermaLink="false">https://qiita.com/J-T_ky2g/items/a3eec7c7d3ad9f4426fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 12 Sep 2026 20:28:51 +0000</pubDate></item><item><title>今日からなれる「雑談上手」。"雑談のうまさ"と "話のうまさ" は関係ない</title><link>https://studyhacker.net/small-talk-purpose</link><description>[score: 0.883] エレベーターで上司と二人っきり。給湯室で、ほとんど話したことのない別部署の人と目が合う。何か言わなきゃ、と思いつつ話題を探すものの、何も浮かばず時間が過ぎて……出てきた言葉は「お疲れ様です」だけ。 気まずい時間ですよね。書いているだけで据わりが悪くなってきました。 雑談の本を読んで話題をストックしてみても、そうそうぱっと出てくるものでもなく、面白い話ができる人をみるにつけ「自分には引き出しがないなあ」とちょっと反省してみたりもするものです。 でも実は、雑談を「話題の量で決まるもの」だとか、「面白い話を披露する場」だと捉えているから、疲れてしまうだけなのかもしれません。 今日は、そんな「雑談力」</description><guid isPermaLink="false">https://studyhacker.net/small-talk-purpose</guid><pubDate>Sat, 12 Sep 2026 22:29:11 +0000</pubDate></item><item><title>千葉豪雨 商店などの被害 529社で26億円余 再開できない企業も</title><link>https://news.web.nhk/newsweb/na/nd-20260912de49919</link><description>[score: 0.883] 8月に千葉県を襲った記録的な豪雨では520余りの商店や事業所などが被災し、被害額はあわせて26億円余りにのぼることが県の調査で新たに分かりました。復旧に時間がかかり、1か月たっても事業を再開できない企…
-あわせて読みたい
-千葉豪雨の発生から1か月 死者13人 住宅被害7000棟超える
-9月13日 5:13
-京都 陸上競技場で28人搬送 “同じ種類の弁当を食べていた”
-9月13日 5:12
-埼玉 寄居町の治療院兼住宅で火事 男女2人死亡
-9月13日 0:33
-車いすテニス小田凱人 年間グランドスラムならず 全米オープン
-9月13日 5:21
-車いすテニス上地結衣 全米オープン 2年連続4回目の優</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260912de49919</guid><pubDate>Sat, 12 Sep 2026 21:32:28 +0000</pubDate></item><item><title>クロスプラットフォーム開発が解決するコスト、解決しないコスト</title><link>https://zenn.dev/nkzn/articles/cross-platform-development-costs-2026</link><description>[score: 0.883] クロスプラットフォーム開発が解決するコスト、解決しないコスト 2026年9月、Shopify Engineeringから「Native is now the future of mobile at Shopify」という記事が公開されました。 Shopifyは2020年にモバイルアプリ開発をReact Nativeへ寄せる方針を打ち出し、React Nativeコミュニティにも大きな投資を続けてきた会社です。そのShopifyがSwiftとKotlinを使ったネイティブ開発へ戻...</description><guid isPermaLink="false">https://zenn.dev/nkzn/articles/cross-platform-development-costs-2026</guid><pubDate>Sat, 12 Sep 2026 22:49:59 +0000</pubDate></item><item><title>トランプ大統領「統一されたアイルランド見たい」英国で非難も</title><link>https://news.web.nhk/newsweb/na/nd-20260913de49937</link><description>[score: 0.884] アメリカのトランプ大統領は訪問先のアイルランドで、長年、帰属をめぐり議論されてきた北アイルランドについて「統一されたアイルランドを見たい」と発言しました。この発言に対して、イギリスでは非難の声も上がっ…
-あわせて読みたい
-京都 陸上競技場で28人搬送 “同じ種類の弁当を食べていた”
-9月13日 5:12
-千葉豪雨の発生から1か月 死者13人 住宅被害7000棟超える
-9月13日 5:13
-埼玉 寄居町の治療院兼住宅で火事 男女2人死亡
-9月13日 0:33
-車いすテニス小田凱人 年間グランドスラムならず 全米オープン
-9月13日 5:21
-車いすテニス上地結衣 全米オープン 2年連続4回目の優</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260913de49937</guid><pubDate>Sat, 12 Sep 2026 21:32:28 +0000</pubDate></item><item><title>Nuxt.js から Next.js へ ── フロントエンド技術リプレイスにおけるハーネスエンジニアリングと理解負債</title><link>https://zenn.dev/mediba/articles/7d0d7d70678546</link><description>[score: 0.884] Nuxt.js から Next.js へ ── フロントエンド技術リプレイスにおけるハーネスエンジニアリングと理解負債 はじめに 株式会社 mediba でフロントエンドエンジニアをしている中畑です。 弊社では Nuxt.js から Next.js への技術リプレイスプロジェクトが進行中です。この記事では、 Claude Code を活用した技術リプレイスの現状と課題をお伝えします。 前提 AIコーディングツールは Claude Code を使用しています。モデルは主に ...</description><guid isPermaLink="false">https://zenn.dev/mediba/articles/7d0d7d70678546</guid><pubDate>Sat, 12 Sep 2026 20:29:53 +0000</pubDate></item><item><title>Microsoftが月例のセキュリティ更新プログラムをリリース／GoogleがChrome 153安定版をリリース</title><link>https://www.itmedia.co.jp/pcuser/articles/2609/13/news007.html</link><description>[score: 0.885] うっかり見逃していたけれど、ちょっと気になる――そんなニュースを週末に“一気読み”する連載。今回は、9月6日週を中心に公開された主なニュースを一気にチェックしましょう！
-Microsoftは9月8日、現在サポートされている全Windowsのバージョンに対して、9月度の月例セキュリティ更新プログラムの配信を開始した。
-9月度の更新では、Windows以外の製品も含めてCVE番号ベースで974件の脆弱（ぜいじゃく）性に対応した。このうち深刻度が「Critical（緊急）」と評価されているのは113件だった。
-以下の2件は、深刻度は「Important（重要）」ながら、既に悪用の事実が確認されており</description><guid isPermaLink="false">https://www.itmedia.co.jp/pcuser/articles/2609/13/news007.html</guid><pubDate>Sat, 12 Sep 2026 21:40:20 +0000</pubDate></item><item><title>LLMはプロンプトインジェクションの幻覚（ゆめ）を見るか？</title><link>https://qiita.com/ultramarin/items/34b9c78d0b7e9bd24fdd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] 何が起きたか
-- Claude Codeのセッションで、モデル(Opus)自身が出力したプロンプトインジェクション文と
-rm -rf weights/
-に従いかけたが未遂に終わった。 - 外部からの攻撃ではないのだが、その幻覚で「攻撃を受けた」と報告して大騒ぎし、原因調査まで完走した。犯人が自分だとは最後まで気づかなかった。
-- そして10分後には何事もなかったように通常運転へ戻った。怖い。
-ストーリー
-NNの学習タスクを実行させつつログを見張らせていた Claude Code が、いつもの進捗コメントを書き終えた直後、そのまま「ユーザーの次の発言」をの妄想を始めた。ご丁寧に「これは自動通知で</description><guid isPermaLink="false">https://qiita.com/ultramarin/items/34b9c78d0b7e9bd24fdd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 12 Sep 2026 20:28:51 +0000</pubDate></item><item><title>イラン戦争の真の狙いは｢石油の確保｣ではない､世界的な脱ドル化と膨大な財政赤字で崩壊に向かうアメリカの覇権 | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957756?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.889] コンテンツブロックが有効であることを検知しました。
-このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
-なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957756?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sat, 12 Sep 2026 21:09:38 +0000</pubDate></item><item><title>【AWS】CDKとcdkd、一体どのくらい速くなる？実測で比べてみました</title><link>https://qiita.com/PDC-Kurashinak/items/682f91f6fd434ef7ec77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] どうもこんにちは。
-先日ですね、JAWS-UG CDK支部のイベントにLT登壇させていただきまして、CDKとcdkdのデプロイ時間がどのくらい違うのかっていう内容をお話しさせていただきました。（よーすけさんと被ってしまいましたが...w）
-登壇資料はこちらです。ご査収くださいませ。
-ぬるっと本題に入りますね。
-自分は、普段の開発（個人）ではAWS CDKを使っています。AWS CDKってなんぞやっていう方向けにお話ししますと、インフラをコードで定義する（IaC）手法というものがございまして、これを実現するためのツールがいくつかございます。AWS CDKはそのうちの1つです。CloudForma</description><guid isPermaLink="false">https://qiita.com/PDC-Kurashinak/items/682f91f6fd434ef7ec77?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 12 Sep 2026 20:28:51 +0000</pubDate></item><item><title>うっかり世界最強のWasmコンパイラを作ってしまった件 - Qiita</title><link>https://qiita.com/kanryu/items/95147e22ed5ac542ba58</link><description>[score: 0.891] うっかり世界最強のWasmコンパイラを作ってしまった件 - Qiita TCPの初期ウィンドウサイズ（MTU 1500バイト基準）なら、最初の1〜2パケットでブラウザへ完全に届きます。ネットワーク遅延は事実上ゼロ、V8などのエンジンによるJITコンパイルも一瞬で終わります。 動作デモはこ... atyks</description><guid isPermaLink="false">https://qiita.com/kanryu/items/95147e22ed5ac542ba58</guid><pubDate>Sat, 12 Sep 2026 22:54:09 +0000</pubDate></item><item><title>ゼレンスキー大統領 ロシアとの首脳会談に前向き 米国で</title><link>https://news.web.nhk/newsweb/na/nd-20260913de49936</link><description>[score: 0.892] ウクライナのゼレンスキー大統領は、2026年12月にアメリカで開かれるG20＝主要20か国の首脳会議に合わせて、現地で、ロシアのプーチン大統領と会談することに前向きな考えを示しました。これに対してロシ…
-あわせて読みたい
-京都 陸上競技場で28人搬送 “同じ種類の弁当を食べていた”
-9月13日 5:12
-千葉豪雨の発生から1か月 死者13人 住宅被害7000棟超える
-9月13日 5:13
-埼玉 寄居町の治療院兼住宅で火事 男女2人死亡
-9月13日 0:33
-車いすテニス小田凱人 年間グランドスラムならず 全米オープン
-9月13日 5:21
-車いすテニス上地結衣 全米オープン 2年連続4回目の優</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260913de49936</guid><pubDate>Sat, 12 Sep 2026 21:02:05 +0000</pubDate></item><item><title>高市早苗政権、長期金利上昇は「国際的流れ」　主張を覆う日本のリスク - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUA0280H0S6A900C2000000/</link><description>[score: 0.893] 高市早苗政権、長期金利上昇は「国際的流れ」 主張を覆う日本のリスク - 日本経済新聞 日本の長期金利の上昇傾向が続く。高市早苗政権は「国際的な流れ」と説明し、看板政策である積極財政が影響しているとの見方を否定する。一方で各国と比べると、日本は国内総生産（GDP）の2倍を超す巨額な債務を抱え、同列には論じにくい。長期金利の指標となる新発10年物国債利回りは1日、30年ぶりに3%台に上昇した。高...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUA0280H0S6A900C2000000/</guid><pubDate>Sat, 12 Sep 2026 21:59:42 +0000</pubDate></item><item><title>アメリカ企業の｢オープンAI離れ｣｢アンソロピック離れ｣が始まった AT&amp;TはAI関連コストを80%削減 | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957763?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.893] アメリカの通信大手AT&amp;Tはここ何年か、顧客サポートや通話の文字起こし、コーディング（プログラミング作業）を支援するのに、アンソロピックやオープンAIのAIモデルを利用してきた。これらは「クローズド」モデルで、AI企業は基盤となるコードを公開していない。
-しかし今年、AT&amp;Tは方針を転換した。
-「安いオープンモデル」へのシフトが急進行
-AI関連コストが急増する中、同社の最高データ・AI責任者、アンディ・マーカスはより安価な代替先を探し、その結果、料金の支払いや承認なしにダウンロードして改変できる「オープン」モデルにたどり着いた。
-マーカスによると、5月時点でAT&amp;TのAI利用に占めるオープンモ</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957763?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sat, 12 Sep 2026 20:38:40 +0000</pubDate></item><item><title>半導体大手ブロードコム決算に見る｢AI計算資源｣の主役交代 カスタムチップが性能でもGPUを凌駕 | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957160?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.893] ブロードコムは米カリフォルニア州に本社を置く半導体大手です。GoogleのTPUに代表されるカスタムAIアクセラレータ（XPU）と、データセンター向けのネットワーク半導体が主力。2023年にVMwareを買収し、インフラソフトウェアも収益の柱に加えました。ホック・タンCEOのもと、AI関連の顧客をフロンティアモデルを開発する6社に絞る戦略をとっています。
-同社は9月2日、2026年5〜7月期の決算を発表。売上高は296億ドルで前年比86%増、営業利益は201億ドルで同92%増です。AI半導体の売上高は167億ドルと前年比221%増、前四半期比でも54%増えました。2026年8〜10月期は売上高</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957160?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sat, 12 Sep 2026 22:12:10 +0000</pubDate></item><item><title>米アンソロピックCEO“AI開発ペース減速させる必要”</title><link>https://news.web.nhk/newsweb/na/nd-20260913de49934</link><description>[score: 0.895] アメリカのAI新興企業アンソロピックのCEOは、AIが急速に進歩し、人間が制御する能力を上回る可能性があるとして、開発を減速させる必要があるとの考えを示しました。
-アンソロピックのダリオ・アモデイ…
-あわせて読みたい
-京都 陸上競技場で28人搬送 “同じ種類の弁当を食べていた”
-9月13日 5:12
-千葉豪雨の発生から1か月 死者13人 住宅被害7000棟超える
-9月13日 5:13
-千葉豪雨 商店などの被害 529社で26億円余 再開できない企業も
-9月13日 6:04
-埼玉 寄居町の治療院兼住宅で火事 男女2人死亡
-9月13日 0:33
-車いすテニス小田凱人 年間グランドスラムならず 全米</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260913de49934</guid><pubDate>Sat, 12 Sep 2026 22:31:15 +0000</pubDate></item><item><title>【AIによるヒトの思考力の低下と企業競争力への影響】</title><link>https://qiita.com/TakuyaYamaoka/items/a4b961c8b4047dba5004?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.896] AIによる思考力の低下は、企業競争力にまで影響する
-ここ2～3か月感じていたことを、エッセイ風に言語化しました。
-普段AIで5分で終わることを、あえて時間をかけて自力で書いています。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957908?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 13 Sep 2026 07:37:40 +0000</pubDate></item><item><title>Go 探無比 (gotan) #1 (2026/09/28 19:15〜)</title><link>https://andpad.connpass.com/event/406501/</link><description>[score: 0.880] 広告
+参加者への情報
+イベントの説明
 はじめに
-話したいことは、AIによるヒトの思考力の低下が、企業競争力にまで影響を及ぼしかねないということです。
-1. AIによる思考力の低下
-一人あたりのタスクが増え、AI活用も増える
-バブル崩壊以降、基本的にどの会社も余裕がなくなり、余剰な人員を抱えることができなくなりました。
-そして、生産性を求めた結果、社員一人あたりに求められるタスクの質と量が増えています。
-今の時代、タスクの質と量に比例するように、AIの</description><guid isPermaLink="false">https://qiita.com/TakuyaYamaoka/items/a4b961c8b4047dba5004?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 12 Sep 2026 20:28:51 +0000</pubDate></item><item><title>Claude Codeで技術書を書く - セミナープログラム - オープンデベロッパーズカンファレンス(ODC)2026</title><link>https://event.ospn.jp/odc2026/session/2367959</link><description>[score: 0.899] セッション概要
-技術書を書くのには、思った以上に、手間がかかります。
-本は分量があるので、テーマが決まっても説明の順序を考える必要があります。図やサンプルも作らなければなりません。つまり、頭の中に「これを書きたい」という材料が揃っていても、それを本として仕上げるのはたいへんです。
-そこで活用したいのが生成AI。
-このセミナーでは、実際にClaude Codeを使って書籍を執筆している筆者が、「どんな場面で使っているのか」「どこまで任せられるのか」「結局、人がやらなければならないところはどこなのか」など、執筆の現場のClaude Codeの使いどころをお話します。
-講師
-大澤文孝
-セッション情報</description><guid isPermaLink="false">https://event.ospn.jp/odc2026/session/2367959</guid><pubDate>Sat, 12 Sep 2026 18:56:16 +0000</pubDate></item><item><title>Claude CodeのEffortについておさらい</title><link>https://qiita.com/PDC-Kurashinak/items/b4a8fe59feba5d6520f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.900] どうもこんにちは。
-9月になりましたね。秋ですね。ウヒョー。嬉しいですね。
-私は業務でClaude Codeを使っていまして、モデル選びも大事だけどEffortの設定もかなり大事よなぁと思っていまして、記事にします。（なんか日本語下手くそだな俺。）
-この記事は60%くらい社内展開向けに作成しているつもりなので、だいぶ雑かもしれないです。
-（社内の人に雑に作ったってバレちゃう...キャっ...//）
-では気を取り直して。
-Effortとは？
-Effortとは、モデルが「どれだけ深く考えるか」を制御する設定です。低いほど速く安く、高いほど深い推論ができますが、コストと時間がかかります。
-Effor</description><guid isPermaLink="false">https://qiita.com/PDC-Kurashinak/items/b4a8fe59feba5d6520f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 12 Sep 2026 20:28:51 +0000</pubDate></item><item><title>「争奪戦が激しいITエンジニア職」とその理由　AIがあってもなぜ人材不足？</title><link>https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news028.html</link><description>[score: 0.900] 生成AIやAIエージェントにより既存業務の効率化が進む一方、ITエンジニア不足が顕著だ。ITRの調査によれば、企業における人材不足が拡大しているが、とりわけ特定の職種に関してその傾向が強い。その背景には何があるのか。
-この記事は会員限定です。会員登録（無料）すると全てご覧いただけます。
-生成AIやAIエージェントの利用が広がり、ITエンジニアが担ってきた業務をAIで効率化する動きも進んでいる。その中で浮き彫りになっているのは、ITエンジニアの人材市場が飽和するというよりも、むしろ企業が依然として人材の確保に苦戦している実態だ。
-ただし特定の技術職において特に人材不足が深刻になる傾向もみられる。</description><guid isPermaLink="false">https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news028.html</guid><pubDate>Sat, 12 Sep 2026 22:54:09 +0000</pubDate></item><item><title>オラクル株上昇、第1四半期でAIクラウド収入121％増と巨額契約を発表（Forbes JAPAN） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/dc98e874c3ff6091deca0618adc369325ae51de1</link><description>[score: 0.901] オラクル株上昇、第1四半期でAIクラウド収入121％増と巨額契約を発表
-オラクルの株価は米国時間9月11日の寄り付き前取引で7％超上昇した。同社が2027会計年度第1四半期にクラウドインフラ収入が121％増加したほか、300億ドル（約4兆6200億円）超の新規AIクラウド契約を締結したと発表。これにより、AI投資が成果を上げていることを投資家に示した格好となった。 オラクル株は、寄り付き前取引で7％超上昇した後、午前10時15分ごろには2.74％高の157.12ドルとなった。前日、9月10日の時間外取引でも4％上昇していた。同社は9月10日、総売上高が30％増の193億4000万ドル（約2兆9</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/dc98e874c3ff6091deca0618adc369325ae51de1</guid><pubDate>Sat, 12 Sep 2026 22:54:09 +0000</pubDate></item><item><title>AI時代のコードレビューは、「AIから学びを得る貴重な機会」だったという話</title><link>https://qiita.com/nagi-0106/items/14ebb10e7c8dc9bf470b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.902] はじめに
-こんにちは。私は現在の会社に入社して2年強のフロントエンドエンジニアです。
-最近、別の新人エンジニアによって(会社の指示で)AIで作成されたHTMLとJavaScriptを私が社内コードレビューする機会がありました。
-ですが、恥ずかしながらAIで書かれたコードをすべて目視で理解できたわけではなく、結局レビュアーの私もAIにレビューの大多数を頼らざるを得ませんでした。
-一方で冷静に考えたところ、発想の転換によってコードレビューを学びに変えられると考えたため、
-今回は雑記として文章にしてみようと思います。
-想定している対象者
-- コードレビューをする若手エンジニア
-- レビュー時にAIに</description><guid isPermaLink="false">https://qiita.com/nagi-0106/items/14ebb10e7c8dc9bf470b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 12 Sep 2026 20:28:51 +0000</pubDate></item><item><title>アンソロピックCEO、競合他社に「AI開発の減速」呼びかけ</title><link>https://forbesjapan.com/articles/detail/104638?s=ns</link><description>[score: 0.908] 米AI（人工知能）スタートアップAnthropic（アンソロピック）のダリオ・アモデイ最高経営責任者（CEO）は12日、AI業界全体に向けて、最先端モデルの開発ペースを意図的に緩めるよう呼びかけた。業界内部から切迫した警告が発せられる中、無制限な進歩が続けば、来年中にも世界のインターネットインフラが自律型AI群に乗っ取られる恐れがあるとして強い危機感を表明している。
-アモデイは『We Must Pace the Frontier（最先端技術の開発ペースを調整しなければならない）』と題した新しいエッセイを公開。安全対策や規制がAIの急速な進歩に追いついていない点に警鐘を鳴らし、このままでは「壊滅</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104638?s=ns</guid><pubDate>Sat, 12 Sep 2026 22:13:29 +0000</pubDate></item></channel></rss>
+Go Conference 2026 で開催された大人気のワークショップ、 「Go 探無比 (gotan) 」(Go Conference 2026 での呼称は go.dev の歩き方、その先へ) を継続開催します！
+Go 探無比 では 30 個の調査テーマが用意されているので、 Go Conference 2026 では未消化だったテーマにも挑戦できます。
+Go 探無比 で、わからないことに直面しても、豪胆無比にドキュメントの海を探索し自走できる Gopher になりましょう！
+Go 探無比 (gotan) とは
+Go の調査スキルを鍛えるワー</description><guid isPermaLink="false">https://andpad.connpass.com/event/406501/</guid><pubDate>Sun, 13 Sep 2026 09:49:22 +0000</pubDate></item><item><title>コメ農家9割黒字でも廃業急増　過去最多ペースに迫る撤退の背景</title><link>https://forbesjapan.com/articles/detail/104444?s=ns</link><description>[score: 0.880] 日本ではここしばらくコメの価格高騰が続き、消費者にとっては家計への負担が増していた。しかし生産する農家に目を向けると、米価上昇によって収益が改善しても、廃業や倒産に歯止めがかかっていないようだ。帝国データバンクが発表した「『米作農業』の休廃業解散・倒産動向（2026年1-8月）」によると、2026年1～8月に判明した米作農業（コメ農家）の休廃業・解散は28件だった。2025年通年の37件に迫るペースで、4年連続で過去最多を更新する可能性がある。同期間の倒産（負債1000万円以上、法的整理）も4件発生し、合わせて32件が生産現場から撤退した。1～8月の累計で30件を超えるのは3年連続となる。
+米</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104444?s=ns</guid><pubDate>Sun, 13 Sep 2026 09:35:58 +0000</pubDate></item><item><title>〈AIリスク〉アンソロピックの｢Claude｣がロシアやイエメンで軍事兵器の開発支援に悪用されていた実態が明らかに | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957866?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.880] コンテンツブロックが有効であることを検知しました。
+このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
+なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957866?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 13 Sep 2026 01:24:29 +0000</pubDate></item><item><title>エラー対応設計: 例外と障害を区別しよう</title><link>https://qiita.com/megmogmog1965/items/334ced1537fcdf0fe21a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] はじめに
+エラーの実装指針は難しく、特に近年は AI にコードを書かせる場面で一貫性のないエラー対処コードが散見されがちです。
+AI には直接指示をしたり、CLAUDE.md などを通じて指針を示すことができます。しかし、指針を決めるのは結局人間であり、決めるためには自身がしっかり理解をしている必要があります。
+本記事は AI 時代において、綺麗なコードを書く（AI に書かせる）ために、エラー設計についてあらためてまとめてみました。
+問題
+エラー監視ツールへの通知は、障害だけを対象にすべきです。通知は人に対応を促す仕組みであり、促された人が行うことは復旧作業だからです。復旧作業の要らない事象を</description><guid isPermaLink="false">https://qiita.com/megmogmog1965/items/334ced1537fcdf0fe21a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 13 Sep 2026 08:30:01 +0000</pubDate></item><item><title>京都 商店街で地面から水が噴き出し道路が冠水 水道管が破損か</title><link>https://news.web.nhk/newsweb/na/nd-20260913de49983</link><description>[score: 0.884] 13日午後、京都市伏見区の商店街で、地面から水が噴き出し道路の一部が冠水しました。京都市は地下の水道管が破損して水が漏れ出したとみて詳しい原因を調べています。
+13日午後4時ごろ、京都市伏見区の「…
+注目ワード
+あわせて読みたい
+京都 陸上選手権会場で食中毒か 弁当業者を立ち入り調査
+9月13日 18:58
+インドネシアでフェリーと連絡途絶える 1人死亡140人安否不明
+9月13日 18:09
+中部電力 林社長 勝野会長が辞意固める データ不正を受け引責
+9月13日 19:42
+【千葉豪雨1か月】内水氾濫の想定外区域でも浸水被害
+9月13日 19:31
+大雨被害 福井市が臨時の「り災証明書」窓</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260913de49983</guid><pubDate>Sun, 13 Sep 2026 10:48:31 +0000</pubDate></item><item><title>アンソロピックCEOが警鐘、AIが半年～1年以内にインターネット全体を乗っ取る能力持つ可能性</title><link>https://www.cnn.co.jp/tech/35252570.html</link><description>[score: 0.884] CNN、アンソロピックCEOにAIの脅威についてインタビュー （CNN） 人工知能（AI）の開発競争は、今すぐペースを落とす必要がある。米アンソロピックのダリオ・アモデイ最高経営責任者（CEO）が12日に公開した論考でそう訴えた。 「AIモデルの能力向上のペースを落とさなければならない。それでも進歩は速く感じられるだろうし、得られた時間を賢く使わなければならない」。アモデイ氏は自身のウェブサイトに投稿した3800語に及ぶ長文にそう記した。 世界有数のAI企業で、チャットボット「クロード」を手がけるアンソロピックを率いるアモデイ氏は、AI技術の進歩を強く支持してきた一方、AIのリスクを警告する「</description><guid isPermaLink="false">https://www.cnn.co.jp/tech/35252570.html</guid><pubDate>Sun, 13 Sep 2026 02:36:00 +0000</pubDate></item><item><title>日本の火星衛星探査機「MMX」プロジェクトの研究者が講演会</title><link>https://news.web.nhk/newsweb/na/nd-20260913de49974</link><description>[score: 0.884] 来月打ち上げられる日本の火星衛星探査機「MMX」について、探査の目的などをプロジェクトの研究者が紹介する講演会が新潟市で開かれました。
+日本の火星衛星探査機MMXは、世界で初めて火星の衛星「フォボ…
+注目ワード
+あわせて読みたい
+小惑星リュウグウは太陽系初期の天体の残骸 北海道大学など
+9月11日 5:06
+米アンソロピックCEO“AI開発ペース減速させる必要”
+9月13日 17:24
+サウジアラビア パイプライン損壊 トランプ氏“イラン関与か”
+9月13日 5:59
+千葉豪雨の発生から1か月 死者13人 住宅被害7000棟超える
+9月13日 5:13
+【千葉豪雨1か月】内水氾濫の想定外区域で</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260913de49974</guid><pubDate>Sun, 13 Sep 2026 09:20:36 +0000</pubDate></item><item><title>秋雨前線停滞 月曜は日本海側中心大雨に その後太平洋側も</title><link>https://news.web.nhk/newsweb/na/nd-20260913de49980</link><description>[score: 0.888] 秋雨前線の活動が再び活発になる影響で14日は日本海側を中心に激しい雨が降る見込みで、15日ごろは、太平洋側でも雨雲が発達するおそれがあります。気象庁は、土砂災害や低い土地の浸水、川の増水に十分注意する…
+注目ワード
+あわせて読みたい
+十勝岳 噴火警戒レベル引き上げ 気象庁会見【ノーカット動画】
+9月12日 18:48
+インドネシアでフェリーと連絡途絶える 1人死亡140人安否不明
+9月13日 18:09
+中部電力 林社長 勝野会長が辞意固める データ不正を受け引責
+9月13日 19:42
+【千葉豪雨1か月】内水氾濫の想定外区域でも浸水被害
+9月13日 19:31
+大雨被害 福井市が臨時の「り災</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260913de49980</guid><pubDate>Sun, 13 Sep 2026 10:48:31 +0000</pubDate></item><item><title>アンソロピックCEO「AIが1年内ネット乗っ取り恐れ」　開発減速訴え - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/</link><description>[score: 0.889] アンソロピックCEO「AIが1年内ネット乗っ取り恐れ」 開発減速訴え - 日本経済新聞 【シリコンバレー=伴正春】米アンソロピックのダリオ・アモデイ最高経営責任者（CEO）は12日、人工知能（AI）業界が協調して最先端のAI開発を減速すべきだと呼びかけた。AIによる「暴走事故」が起きるなど脅威が高まっており、対応を誤れば半年から1年以内にネット全体が乗っ取られる恐れもあると警告した。競合で米オー...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOGN122UY0S6A910C2000000/</guid><pubDate>Sun, 13 Sep 2026 02:49:32 +0000</pubDate></item><item><title>大規模言語モデル研究開発センターが公開した視覚AI「LLM-jp-4-VL 9B」、Opus 4.8に肉薄するマルチモーダルAI「DeepSeek-V4-Flash-Vision-Exp」など生成AI技術5つを解説（生成AIウィークリー）</title><link>https://www.techno-edge.net/article/2026/09/13/5492.html</link><description>[score: 0.889] この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第159回）は、Opus 4.8に肉薄するマルチモーダルAI「DeepSeek-V4-Flash-Vision-Exp」や、複数データを同時分析して未来を予測するGoogle開発のAI「TimesFM-3」を取り上げます。
+また、大規模言語モデル研究開発センターが開発した視覚言語モデル「LLM-jp-4-VL 9B」や、学習データからログまで丸ごとオープンなAIモデル群「K2 Horizon」をご紹介します。
+そして、生成AIウィークリーの中でも特に興味深いAI技術や研究にスポットライトを当</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/09/13/5492.html</guid><pubDate>Sun, 13 Sep 2026 07:52:59 +0000</pubDate></item><item><title>インドネシアでフェリーと連絡途絶える 1人死亡140人安否不明</title><link>https://news.web.nhk/newsweb/na/nd-20260913de49975</link><description>[score: 0.890] およそ240人を乗せてインドネシアのジャワ海を航行していたフェリーと13日、連絡が取れなくなり、当局が捜索を行ったところ、これまでに1人の死亡が確認されたほか、140人の安否が分からなくなっています。…
+あわせて読みたい
+フィリピン西部フェリー火災 死者76人に 捜索活動続く
+9月13日 11:48
+サウジアラビア パイプライン損壊 トランプ氏“イラン関与か”
+9月13日 5:59
+トランプ大統領「統一されたアイルランド見たい」英国で非難も
+9月13日 5:55
+スイスで観光客を乗せたバスが横転 5人死亡
+9月12日 7:41
+BRICS首脳会議で共同宣言を採択 中国インド首脳会談も
+9月13</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260913de49975</guid><pubDate>Sun, 13 Sep 2026 09:20:36 +0000</pubDate></item><item><title>AI「firebase: command not foundがGithub Actionsで表示されるんですね。ではnpm i -g firebase-toolsするステップを追加しましょう」私「嫌です」</title><link>https://qiita.com/J-T_ky2g/items/4bf11a67dc79d48dada0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] はじめに
+- firebase command not found github actionsとかで検索したらこんなのが出てきた
+問題
+- package.jsonに
+"firebase-tools": "^15.30.0",
+を登録している。特定のlockfile固定じゃないにしても、node_modulesのものを使ってほしいのでグローバルインストールしたくない
+解決
+- 以下のようにPATHを通したコマンドではなく、絶対パスで実体を実行することで解決
+- name: Firebase Deploy
+run: ./node_modules/.bin/firebase deploy --t</description><guid isPermaLink="false">https://qiita.com/J-T_ky2g/items/4bf11a67dc79d48dada0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 13 Sep 2026 08:30:01 +0000</pubDate></item><item><title>Qiitaを280本書いたら自分でも探せなくなったので、AI要約と「読み応え」で索引を作ってみた</title><link>https://qiita.com/sakaimaging/items/8e46db55984e83894907?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] はじめに
+Qiitaの記事が増えてくると、タイトルを見ても「これ、何を書いた記事だったっけ？」となることがあります。私の場合、気づけば280本ほどになっていて、過去の記事を探すのが少し大変になってきました。
+また、自分で記事を読み返したり誰かに紹介したりするときには、「何が書いてあるか」だけでなく、「どれくらい分厚い記事なのか」も最初に分かると便利だと思います。
+そこで今回は、各記事に次の2つを追加して一覧化してみました。
+- AI Abstract：本文をAIに読ませて、「何をした記事なのか」を一文でまとめる
+- 読み応え：コードや数式などを除いた文章量から、おおよそのボリュームを見えるよう</description><guid isPermaLink="false">https://qiita.com/sakaimaging/items/8e46db55984e83894907?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 13 Sep 2026 08:30:01 +0000</pubDate></item><item><title>「AIで解雇した従業員の3割は再雇用に」　Gartnerが指摘する経営層の誤算</title><link>https://www.itmedia.co.jp/enterprise/articles/2609/13/news002.html</link><description>[score: 0.896] 「AIで解雇した従業員の3割は再雇用に」 Gartnerが指摘する経営層の誤算 生成AIやAIエージェントの導入が広がり、AIの活用が業務の速度と範囲を広げている。その中で、AIを人員削減やコスト削減の手段と位置付ける企業は少なくない。 Gartnerは2026年9月9日（現地時間）、AIが仕事の未来にもたらす「4つのシフト」に関する予測を発表した。この中で同社は、2029年までにAIによる置き換えを理由...</description><guid isPermaLink="false">https://www.itmedia.co.jp/enterprise/articles/2609/13/news002.html</guid><pubDate>Sun, 13 Sep 2026 08:51:03 +0000</pubDate></item><item><title>2026年に多くのシストレの戦略のアルファが消えた件について</title><link>https://zenn.dev/gamella/articles/6bd6e5ab9e88bc</link><description>[score: 0.898] 2026年に多くのシストレの戦略のアルファが消えた件について
+AlpacaTechの北山です。このブログでは、気になったクオンツネタを取り上げています。
+今週、X上で「簡単な検証で見つかるエッジが2026年から劣化した」という話がありました。
+おそらく起点はUKIさんの投稿です。
+あっかぎさんが5日移動平均の逆張りの年次損益を、上原さんが夜型株／日中型株ロングショートの12年バックテストを出し、UKIさんがそれらを「2026年から劣化している代表例」として引用していました。
+僕の記事で紹介した特徴量も一部出ていたので、一度このネタは整理しておきたいと思います。
+消えた戦略に共通する性質
+まず、</description><guid isPermaLink="false">https://zenn.dev/gamella/articles/6bd6e5ab9e88bc</guid><pubDate>Sun, 13 Sep 2026 09:12:20 +0000</pubDate></item><item><title>「辺野古」「経済」で審判　沖縄知事選、現新一騎打ち　１３日投開票：時事ドットコム</title><link>https://www.jiji.com/jc/article?k=2026091200286&amp;g=pol</link><description>[score: 0.900] 「辺野古」「経済」で審判 沖縄知事選、現新一騎打ち １３日投開票：時事ドットコム 「辺野古」「経済」で審判 沖縄知事選、現新一騎打ち １３日投開票 時事通信 政治部2026年09月12日17時42分配信 【図解】本土復帰後の沖縄県知事選 米軍普天間飛行場（沖縄県宜野湾市）の名護市辺野古移設や県内経済の振興が主な争点になった同県知事選は１３日、投開票される。自民党など保守勢力が推す新人で前那覇...</description><guid isPermaLink="false">https://www.jiji.com/jc/article?k=2026091200286&amp;g=pol</guid><pubDate>Sun, 13 Sep 2026 03:53:01 +0000</pubDate></item><item><title>沖縄県知事選、結果がどうなっても沖縄県民を叩かないでほしい</title><link>https://anond.hatelabo.jp/20260913122959</link><description>[score: 0.900] 結果が出る前に書くけど今から選挙後が憂鬱
+異様に県外からの関心が高まっている今回の知事選挙、玉城デニーと古謝玄太のどちらが勝ってももう一方に肩入れしていた人たちが沖縄県民を口汚く罵るんだろうなというのが分かりきってる
+それくらい“政治的”な選挙になってしまった
+兵庫県知事選のように
+もし、デニーが勝ってもこれまでの県政や辺野古の事故対応を県民が全肯定しているわけじゃないと思う
+ただ相手が自民、維新、参政などから応援される古謝ではさすがに…というだけ
+逆に、古謝が勝ってもそれらを支持しているわけじゃなくデニーにNOを突きつけたいだけだと思う
+極論すると選挙の常だけど選択肢は限られてる
+その中から</description><guid isPermaLink="false">https://anond.hatelabo.jp/20260913122959</guid><pubDate>Sun, 13 Sep 2026 08:28:09 +0000</pubDate></item><item><title>＜9/29＞『AIエージェント導入を任されたら読む本』</title><link>https://bookplus.nikkei.com/atcl/catalog/26/09/09/02786/</link><description>[score: 0.901] 内容紹介
+AIエージェントを業務にどう導入するか——。企業が向き合う、そんな問いに答えるのが本書です。自社の業務に適したAIエージェントは、どのような構成なのか、AIエージェントの検討・導入にはどのような体制が必要なのか。こうしたAIエージェント導入における様々な判断を自ら行えるようになるために、本書ではまず、AIエージェントの仕組みを体系的に理解することを目指します。例えば、「用語はわかるのに全体像が見えない」「デモは動くのに自社業務で使える構成が描けない」「ベンダーの提案を受けてもその良し悪しが判断できない」——。AIエージェントの導入を検討する現場で、そんな悩みを抱えている人は少なくない</description><guid isPermaLink="false">https://bookplus.nikkei.com/atcl/catalog/26/09/09/02786/</guid><pubDate>Sun, 13 Sep 2026 06:48:50 +0000</pubDate></item><item><title>【速報予定】沖縄県知事選 開票や出口調査 当選情報はこちらで</title><link>https://news.web.nhk/newsweb/na/nd-20260907de48826</link><description>[score: 0.902] この記事は、現在リアルタイムで更新中です。
+きょう投票が行われた沖縄県知事選挙は、自民・維新両党や国民民主党など6党から推薦を受けた新人の古謝玄太氏が、3期目を目指した現職の玉城デニー氏らを抑えて初めての当選を確実にしました。
+沖縄県知事選挙…
+沖縄県知事選 継続か刷新か NW9広内キャスターが現地取材
+9月10日 22:45
+沖縄県知事選挙 「経済」「暮らし」前面の選挙戦に
+9月10日 19:58
+SNSで関心高まる沖縄県知事選 YouTube動画を分析すると…
+9月5日 17:30
+沖縄県知事選挙 候補者のフェイク相次ぐ 生成AIの偽動画も
+9月9日 20:02
+沖縄県知事選 選挙期間投稿</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260907de48826</guid><pubDate>Sun, 13 Sep 2026 10:18:19 +0000</pubDate></item><item><title>AI開発「減速」をアンソロピックCEOが提案　アルトマン氏・マスク氏らも賛同</title><link>https://www.watch.impress.co.jp/docs/news/2140440.html</link><description>[score: 0.909] AIの開発「減速」の議論が本格化している。Anthropicのダリオ・アモデイCEOは12日(米国時間)、「We Must Pace the Frontier」(フロンティアの歩みを調整しなければならない)と題したブログを投稿し、AIの急速な進歩による事故が続いていることから、フロンティアAIの開発競争を減速(Pacing)する必要があると強調。このままの開発が進むと、「6～12カ月後には、インターネット全体を乗っ取る能力を獲得し、数千億ドルの損害をもたらす可能性もある」と警告している。</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2140440.html</guid><pubDate>Sun, 13 Sep 2026 10:52:40 +0000</pubDate></item><item><title>帰宅後、気づけばスマホで1時間。勉強法ライターの夜を変えた「自分に効いた」3つのアイデア</title><link>https://studyhacker.net/night-study-tips</link><description>[score: 0.916] 仕事から帰ってソファに座った瞬間、スマホを手に取っていた……気づけば1時間。「今日こそ勉強しよう」と思っていたのに。 正直に言うと、これは最近の筆者自身の夜です。忙しい日が続くうちに、気づけばこんな夜が増えていました。 普通なら「意志が弱いんだろうな」と落ち込むところですが、筆者は勉強法の記事を日々つくっている身。こうなってしまう科学的な理由も、対処のテクニックも、仕事柄いくつも知っています。 この知識を、改めて自分に使ってみよう。そう思って、いろいろと試してみました。 今回は、記事づくりで出会った手法のなかから、筆者がやってみて効果を感じた、疲れていてもスマホに逃げず勉強に向き合えるアイデア</description><guid isPermaLink="false">https://studyhacker.net/night-study-tips</guid><pubDate>Sun, 13 Sep 2026 10:31:24 +0000</pubDate></item></channel></rss>
