@@ -1,69 +1,34 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 13 Sep 2026 21:21:29 +0000</lastBuildDate><item><title>技術書同人誌博覧会に行ってきました!!</title><link>https://qiita.com/skill_toy/items/87f55cd5376a89d27802?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] はじめに
-本日(2026/09/13)にタイトルのイベントに一般参加者として参加したので
-簡単に感想を書こうと思います。
-どういうイベントか？
-概要は以下のイメージです。
-「技術に関する同人誌の即売会」
-感想
-ここからは感想を書こうと思います。
-良い意味でオタク感があった。
-多種多様なジャンルの本があったので
-自分の好きなジャンルの本があれば
-つい手を伸ばしてしまうことが何度もありました。
-著者と読者が直接交流できる
-このイベントの一番の醍醐味かと思うのですが
-ブースに立ち寄った際、著者と交流する機会があり
-「どういう理由でこの本を作成したのか」を伺うことができました。
-その思いを聞いて、購入</description><guid isPermaLink="false">https://qiita.com/skill_toy/items/87f55cd5376a89d27802?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 13 Sep 2026 20:28:31 +0000</pubDate></item><item><title>アンソロピックＣＥＯ、ＡＩ開発の減速訴え　ネット乗っ取りの可能性警告 - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3BibjdNdWx3NlF6dlBjRElQcUZHY3M3QlE2aFBVR1otSzdfSEV0ZGJ1OFMyMFlQVzJ6V1YtSEh0UmdQYjNiMHI3VEI1Zm9NNEp3NTNCYlBqWjMydEsyMHppNTEtMmpxUE1henBFYkpIMG15ZDZYelZIc1d3UXZBTEZ30gGHAUFVX3lxTE8xN1pMSl9IZWFBZXlPcUdSZWJ0dnFRNTRKM2ttNjdUemlsbWJiOTFLQXpzckZ6LVBVYXBMWnZDR3BRMTJqRVVKZzFJbzFJTVFwaHNxbG5uMUpObF9uZjJPZ0dlVGFueW9ZaGRZZmtWT29rU3RBTGJQUGZ5UzMwUThISjZtTUdGMA?oc=5</link><description>[score: 0.877] アンソロピックＣＥＯ、ＡＩ開発の減速訴え ネット乗っ取りの可能性警告 ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxPR3BibjdNdWx3NlF6dlBjRElQcUZHY3M3QlE2aFBVR1otSzdfSEV0ZGJ1OFMyMFlQVzJ6V1YtSEh0UmdQYjNiMHI3VEI1Zm9NNEp3NTNCYlBqWjMydEsyMHppNTEtMmpxUE1henBFYkpIMG15ZDZYelZIc1d3UXZBTEZ30gGHAUFVX3lxTE8xN1pMSl9IZWFBZXlPcUdSZWJ0dnFRNTRKM2ttNjdUemlsbWJiOTFLQXpzckZ6LVBVYXBMWnZDR3BRMTJqRVVKZzFJbzFJTVFwaHNxbG5uMUpObF9uZjJPZ0dlVGFueW9ZaGRZZmtWT29rU3RBTGJQUGZ5UzMwUThISjZtTUdGMA?oc=5</guid><pubDate>Sun, 13 Sep 2026 13:28:07 +0000</pubDate></item><item><title>幼児が「頭の中だけで言葉を使う」ようになる時期の目安が日本の研究で判明</title><link>https://gigazine.net/news/20260914-children-inner-speech-development/</link><description>[score: 0.878] 幼児が「頭の中だけで言葉を使う」ようになる時期の目安が日本の研究で判明
-声に出さずに頭の中で言葉を使って考え事をしたり自分に語りかけたりすることを「内言」と言います。筑波大学の研究員である大谷康太氏や助教の桑水隆多氏、京都大学大学院の教授である森口佑介氏らの研究チームが、幼児期にこうした内言がどのように発達するのかを「頭の中で数字を数える課題」を使って調べました。
-The developmental origin of inner speech: Evidence from a mental counting task in 3- to 6-year-old children - Scienc</description><guid isPermaLink="false">https://gigazine.net/news/20260914-children-inner-speech-development/</guid><pubDate>Sun, 13 Sep 2026 21:07:07 +0000</pubDate></item><item><title>42日でバックエンドエンジニアの基礎を完全に理解する #32 - Webアプリの3層アーキテクチャ</title><link>https://qiita.com/iketani45664566/items/898986475ce74e7b52ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] この記事で学ぶこと
-#25 から #31 まで、認証認可を土台から作り込みました。Part 5 はこれで完結です。今日から Part 6、Webアプリ全体を設計する編に入ります。
-ここまでの回は「アプリの中身」を見てきました。SQL の書き方、層の分け方、トークンの検証。今回は視点をぐっと引いて、Webアプリというシステム全体が、どんな部品の組み合わせでできているのかを見ます。テーマは3層アーキテクチャです。Webサーバー、アプリケーションサーバー、データベースという分け方は、世の中のWebサービスのほとんどが採用している定番中の定番で、この後の AWS 編（#34〜#38）はすべてこの構図の</description><guid isPermaLink="false">https://qiita.com/iketani45664566/items/898986475ce74e7b52ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 13 Sep 2026 20:28:31 +0000</pubDate></item><item><title>送電網の蓄電池から中国製を締め出し、米国が払う「自立」の代償は</title><link>https://www.technologyreview.jp/s/390500/can-the-us-battery-market-untangle-from-china/</link><description>[score: 0.881] 送電網の蓄電池から中国製を締め出し、米国が払う「自立」の代償は
-トランプ政権は8月下旬、国家非常事態を宣言する大統領令で、中国製バッテリーを送電網規模の蓄電システムに使うことを事実上禁じた。だが現在、こうした施設のほとんどは中国製セルを使っている。国内生産が需要を満たすのは2030年代後半になる可能性もある。 by Casey Crownhart2026.09.14
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 13 Sep 2026 22:56:59 +0000</lastBuildDate><item><title>ほとんどの男がマトモなせいで男女論が終わらない</title><link>https://anond.hatelabo.jp/20260913235819</link><description>[score: 0.880] …なんて書くと「わけがわからない」と思う人も多いだろうが、割とマジである。
+三十路にさしかかり、「若い女」特有の苦労もよほど少なくなった今、マトモな男が想像以上に多くて心底驚いているのだ。
+「今までのアレは何だったんだ！？」と思い、愕然とするのである。
+「今までのアレ」というのは、ヤリチン男に騙された！みたいな話ではない。
+加齢に伴い、イケメン強者男性に見向きされなくなった結果、マトモでマジメな男の良さに気づき、今さら昔の話を蒸し返している、とかでもない。
+しかし、たいていの男性はマトモなので、全体のおそらく1%〜5%にも満たないであろうヤバい個体の、生殖戦略における生態を知らないのではないか</description><guid isPermaLink="false">https://anond.hatelabo.jp/20260913235819</guid><pubDate>Sun, 13 Sep 2026 22:16:06 +0000</pubDate></item><item><title>濃縮ウランの国内生産を急ぐ米国、ロシアからの輸入禁止に向け　日本との協力も</title><link>https://forbesjapan.com/articles/detail/104585?s=ns</link><description>[score: 0.880] 米国のドナルド・トランプ政権は、2028年に発効するロシア産ウランの全面輸入禁止措置に向け、国内での濃縮ウラン生産を促進する取り組みを進めている。
+米国のジョー・バイデン前大統領は2024年、「ロシア産ウラン輸入禁止法」に署名し、同法を成立させた。これにより、ロシアで生産された天然ウランと低濃縮ウランの輸入は、米エネルギー長官が同法の適用除外を認める場合を除き、米国では違法となる。原子力の燃料供給上、不可欠な場合など特定の状況下を除き、米企業には適用除外が認められる可能性があるが、この免除措置も2028年1月1日に終了する。
+民生用原子力発電所は現在、米国の年間エネルギー供給量の20％を賄って</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104585?s=ns</guid><pubDate>Sun, 13 Sep 2026 22:11:27 +0000</pubDate></item><item><title>イベントに参加したユーザーは、本当に熱量が上がったのか　存在しないデータと比較する「反実仮想機械学習」 | ログミーBusiness</title><link>https://logmi.jp/brandtopics/328208</link><description>[score: 0.881] イベントに参加したユーザーは、本当に熱量が上がったのか 存在しないデータと比較する「反実仮想機械学習」 | ログミーBusiness バンダイナムコネクサスは、バンダイナムコグループの中でも最大規模のデータ分析チームを抱えている会社で、ゲーム分析を始めとしたバンダイナムコグループのエンタメ領域全般のデータ分析を幅広く手掛けていま... yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://logmi.jp/brandtopics/328208</guid><pubDate>Sun, 13 Sep 2026 22:51:36 +0000</pubDate></item><item><title>因果推論の先へ―機械学習で因果効果を予測する『反実仮想機械学習（Counterfactual Machine Learning）』入門</title><link>https://www.ariseanalytics.com/tech-info/20220304</link><description>[score: 0.881] 因果推論の先へ―機械学習で因果効果を予測する『反実仮想機械学習（Counterfactual Machine Learning）』入門 はじめに ARISE analytics の近藤です。本記事では、次世代の意思決定技術として注目されている反実仮想機械学習（Counterfactual Machine Learning：CFML）を紹介します。 本記事は、CFMLを日本語で体系的に整理... yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://www.ariseanalytics.com/tech-info/20220304</guid><pubDate>Sun, 13 Sep 2026 22:51:36 +0000</pubDate></item><item><title>電通グループ4社がAI時代の購買行動モデル「AIJES」を提唱、マーケティング活動の高度化を支援</title><link>https://webtan.impress.co.jp/n/2026/09/14/53291</link><description>[score: 0.882] 電通グループ4社がAI時代の購買行動モデル「AIJES」を提唱、マーケティング活動の高度化を支援 生活者がAIとの協働で情報蓄積・意思決定・評価する購買プロセスを定義、情報接触の変化に対応 yamakawa 2026年9月14日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 電通、電通デジタル、シンクタンク・コンサルティングの電通総研、マーケティングリサーチ事業の電通マクロミルインサイトの電通グループ4社は、AI時代の新たな購買行動モデル「AIJES(アイジェス)」を提唱する、と9月10日発表した。生活者がAIとの協働で情報の蓄積、意思決定、評価を行う購買プロセスを定義</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/09/14/53291</guid><pubDate>Sun, 13 Sep 2026 22:01:03 +0000</pubDate></item><item><title>トランプ氏、ＦＯＭＣ控え「米国は世界最低金利であるべき」 - Reuters</title><link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHU5VWY5QUxWRlRNV0dwUmVaX0ExU3BBN2xMQXRYMnJKenpuSTFNR1drTEVOZWp1NWNyWVlRZm1objZaU2w0aWNBY0dId0ktOGFDXzVHQmJEZGktQmZLMVRxN3BGenJ3X0NpLVZZYkZTVkNTNFNUYVV0M1FRbHM0VFJXWW4?oc=5</link><description>[score: 0.884] トランプ氏、ＦＯＭＣ控え「米国は世界最低金利であるべき」 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxQTHU5VWY5QUxWRlRNV0dwUmVaX0ExU3BBN2xMQXRYMnJKenpuSTFNR1drTEVOZWp1NWNyWVlRZm1objZaU2w0aWNBY0dId0ktOGFDXzVHQmJEZGktQmZLMVRxN3BGenJ3X0NpLVZZYkZTVkNTNFNUYVV0M1FRbHM0VFJXWW4?oc=5</guid><pubDate>Sun, 13 Sep 2026 22:34:42 +0000</pubDate></item><item><title>失明マウスの視力回復に成功、若返りブームの震源となった研究者</title><link>https://www.technologyreview.jp/s/390334/this-geneticists-age-reversal-tech-could-help-restore-sight/</link><description>[score: 0.884] 失明マウスの視力回復に成功、若返りブームの震源となった研究者
+視神経を傷つけて失明させたマウスに、細胞を若い状態に戻す遺伝子治療を注射する。16日後、神経は再生し、マウスは再び見えるようになった。2020年に発表されたこの成果は、抗老化への巨額投資を呼び込んだ。開発したユアンチェン（ライアン）・ルー博士の治療は2026年、緑内障患者への臨床試験に入っている。 by Antonio Regalado2026.09.14
 - この記事の3つのポイント
 -
-- 米トランプ政権が国家非常事態を宣言し、中国製バッテリーを送電網規模の貯蔵システムから事実上禁止した
-- IRAの税額控除制限や関税引き上げに続く今回の禁止令は、短期的なプロジェクト遅延やコスト</description><guid isPermaLink="false">https://www.technologyreview.jp/s/390500/can-the-us-battery-market-untangle-from-china/</guid><pubDate>Sun, 13 Sep 2026 20:50:56 +0000</pubDate></item><item><title>【解説】沖縄県知事選挙 古謝氏の勝因は? 高市政権への影響は?</title><link>https://news.web.nhk/newsweb/na/nd-20260913de49962</link><description>[score: 0.882] 沖縄県知事選挙は、自民・維新両党や国民民主党など6党から推薦を受けた新人の古謝玄太氏が、3期目を目指した現職の玉城デニー氏らを抑えて初めての当選を確実にしました。古謝氏の勝因や高市政権への影響をQA形…
-沖縄県知事選挙 出口調査の結果は
-9月13日 20:01
-沖縄県知事選挙 新人の古謝玄太氏が初当選 現職ら抑える
-9月14日 3:13
-沖縄県知事選 選挙期間投稿100万件超 ひぼう中傷 批判の偏りも
-9月12日 9:04
-沖縄県知事選 継続か刷新か NW9広内キャスターが現地取材
-9月10日 22:45
-沖縄県知事選挙 「経済」「暮らし」前面の選挙戦に
-9月10日 19:58
-沖縄県知事選挙</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260913de49962</guid><pubDate>Sun, 13 Sep 2026 12:43:50 +0000</pubDate></item><item><title>｢トランプ対カナダ｣のバトル､中堅国が取るべき選択…欧州､豪州､日本も｢カナダの正道｣に続け | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957577?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.882] カナダのマーク・カーニー首相が今年1月にダボス会議（世界経済フォーラム年次総会）で行った演説は広く称賛され、世界の外交の場で今も話題にのぼり続けている。
-カーニーは、横暴な超大国の餌食にされるのを避けるため中堅国は団結しなくてはならないと訴えた。彼はその言葉通りに行動し、アメリカのドナルド・トランプ大統領がデンマークの領土であるグリーンランドを侵略すると脅迫する中で欧州の同盟国の側に立ち、筋を通した。
-沈黙する欧州には「闘魂」が欠けている
-ところが、アメリカの最も緊密な貿易相手国であるカナダを相手にトランプが新たに仕掛け、激しく過熱させている貿易戦争（編集注：自動車などへの50％の追加関税や酒</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957577?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 13 Sep 2026 21:00:50 +0000</pubDate></item><item><title>【読書感想】禅脳思考</title><link>https://qiita.com/t2murata/items/ab0c0b1f996a8bfa9f90?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] ランニングしながらAudibleで聴いた本について、自分の心に残ったことを3つだけ書いてます。
-とりあえず思ったことをメモするのが大切と思い、なるべく30分以内で書き上げています。
-聴いた本
-禅脳思考
-辻 秀一 (著)
-スポーツのメンタルコーチをしている筆者が、結果を出すためには結果に注目しすぎないという瞑想のような内容を説いた本です。
-仕事など、結果を求めて色々と考える機会が多く、脳みそがキャパオーバーになりがちな現代社会には、必須の概念だなと感じました。
-（個人的満足度２．５／３、一般的なおすすめ度２／３）
-心に残ったこと
-ネタバレを含みます
-禅脳と認知脳
-我々の脳の機能には認知脳と禅脳が</description><guid isPermaLink="false">https://qiita.com/t2murata/items/ab0c0b1f996a8bfa9f90?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 13 Sep 2026 20:28:31 +0000</pubDate></item><item><title>【AWS】Bedrock Knowledge BasesにExcelの前処理パイプラインを作ってみた</title><link>https://qiita.com/yakumo_09/items/f6fa632ce28ad701182e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] はじめに
-RAGを社内で使おうとすると、だいたい「資料はExcelで管理してます」と言われます。でもこのExcelはそのままRAGに入れるとあまり精度が出ないというのはあるあるです。（私だけ？）
-AWSのナレッジベースはExcelだけマネージドな処理から見事に外れています。
-なので「どんなに汚いExcelが来てもRAGに載る形に変換する」パイプラインを自作してみました。途中で検算そのものが嘘をついていたりして、なかなか学びが多かったです。
-Bedrock Knowledge Bases は Excel をどこまで読めるのか
-まず前提の確認からです。Knowledge Bases は .xls/</description><guid isPermaLink="false">https://qiita.com/yakumo_09/items/f6fa632ce28ad701182e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 13 Sep 2026 20:28:31 +0000</pubDate></item><item><title>｢地政学リスク｣は数字で測れるか…世界で定着し､経済分析に活用される｢GPR指数｣とは何か | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957429?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.884] コンテンツブロックが有効であることを検知しました。
+- ルー博士が開発したOSKリプログラミング遺伝子治療が2026年に緑内障患者への臨床試験へと進んだ
+- マウスの失明回復実験で証明された細胞若</description><guid isPermaLink="false">https://www.technologyreview.jp/s/390334/this-geneticists-age-reversal-tech-could-help-restore-sight/</guid><pubDate>Sun, 13 Sep 2026 21:29:11 +0000</pubDate></item><item><title>【記事更新】私のブックマーク「反実仮想機械学習」（Counterfactual Machine Learning, CFML） | 人工知能学会 (The Japanese Society for Artificial Intelligence)</title><link>https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol35-no4/</link><description>[score: 0.884] 【記事更新】私のブックマーク「反実仮想機械学習」（Counterfactual Machine Learning, CFML） | 人工知能学会 (The Japanese Society for Artificial Intelligence) Home » リソース » 私のブックマーク » 【記事更新】私のブックマーク「反実仮想機械学習」（Counterfactual Machine Learning, CFML） 反実仮想機械学習（Counterfactual Machine Learning, CFML）齋藤 優太（... yuiseki %E3%81%82%E3%81%A8%E3%</description><guid isPermaLink="false">https://www.ai-gakkai.or.jp/resource/my-bookmark/my-bookmark_vol35-no4/</guid><pubDate>Sun, 13 Sep 2026 22:51:36 +0000</pubDate></item><item><title>トランプ氏、ＦＯＭＣ控え「米国は世界最低金利であるべき」（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9lZWFOZVlZbi1XRnpPOXc5QkxYM2pxejVvRkpnWU9DRXRoeWJ1ejZMVFJfUzJVMl9icFotU05KalRXT2p5STRMYzREeWN1bkZTRVZ4ZXZQNnNER3hidE1jZmZzc1UyTWFQclhscjJqVTY2cTE5anhqOWYyZEViV0E?oc=5</link><description>[score: 0.884] トランプ氏、ＦＯＭＣ控え「米国は世界最低金利であるべき」（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9lZWFOZVlZbi1XRnpPOXc5QkxYM2pxejVvRkpnWU9DRXRoeWJ1ejZMVFJfUzJVMl9icFotU05KalRXT2p5STRMYzREeWN1bkZTRVZ4ZXZQNnNER3hidE1jZmZzc1UyTWFQclhscjJqVTY2cTE5anhqOWYyZEViV0E?oc=5</guid><pubDate>Sun, 13 Sep 2026 22:34:42 +0000</pubDate></item><item><title>NEAのアーロン・ジェイコブソン氏、すべてのAIタスクに最先端の知能は必要ないと語る</title><link>https://www.businessinsider.jp/article/2609nea-partner-aaron-jacobson-weighs-in-on-open-versus-closed/</link><description>[score: 0.886] - NEAのパートナーであるアーロン・ジェイコブソン氏は、企業はフロンティアモデルに固執する必要はないと考えている。
+- 同氏は、増えつつある多くのタスクでは、オープンウェイトモデルで「十分だ」と述べている。
+- 「次の10年は、モデルの効率的な利用によって特徴づけられると思う」と、同氏はBusiness Insiderに語った。
+AI競争は、ますます複雑になっている。
+最新かつ最大のフロンティアモデルをめぐる熱狂にもかかわらず、企業は、すべてのタスクで最も強力なモデルや手法が必要なわけではないと気づきつつある。オープンウェイトモデルがより高性能で、安価になり、カスタマイズしやすくなるにつれ、</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609nea-partner-aaron-jacobson-weighs-in-on-open-versus-closed/</guid><pubDate>Sun, 13 Sep 2026 22:00:03 +0000</pubDate></item><item><title>女オタクの愚痴(すごく長い)</title><link>https://anond.hatelabo.jp/20260913200114</link><description>[score: 0.886] ※この話にはフェイクが入っている※
+インターネットで知り合って、リアルでも遊ぶようになる、最近特別語ることでもない、よくある話だと思う。
+私はもう良い年齢のオタクだ。
+私を含め、登場人物たちを25-50歳程度。
+好きな年齢で解釈してくれて構わない。
+今回必要なのは年齢というよりも『良い大人』が思春期みたいなことしてて付き合えないなっていうだけの話なので、細かい年齢はさして重要だとは思っていない。
+長い文を読みたくない人はここまででいい。
+□
+突き落とされたようだった。
+グッズも買ったし、何年ぶりかわからないほど夢中でシナリオもクリアしたし、課金して重ねて育成して……と湯水のように金を入れた、若</description><guid isPermaLink="false">https://anond.hatelabo.jp/20260913200114</guid><pubDate>Sun, 13 Sep 2026 21:57:43 +0000</pubDate></item><item><title>｢原油高｣｢金利高｣｢AI･半導体株調整｣の｢三重苦｣でも､日本株が年末高になると見る確かな理由 | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957927?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.886] コンテンツブロックが有効であることを検知しました。
 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957429?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 13 Sep 2026 21:00:50 +0000</pubDate></item><item><title>そのプロジェクト、本当にNext.js必要？ | ashunar0</title><link>https://ashunar0.dev/posts/does-your-project-need-nextjs/</link><description>[score: 0.884] そのプロジェクト、本当にNext.js必要？ | ashunar0 はじめに AIにプロダクトのコードを書かせると、ほぼほぼ脳死でNext.jsを提案してきます。これはおそらく、学習データにNext.jsのコードやチュートリアルが圧倒的に多いから、と推測されます。その割に、欠かせたコードを見てみると全部use clientついてる… AIは「このプロジェクトに最適だから」ではなく「一番よく見た...</description><guid isPermaLink="false">https://ashunar0.dev/posts/does-your-project-need-nextjs/</guid><pubDate>Sun, 13 Sep 2026 17:55:16 +0000</pubDate></item><item><title>｢頼まれると断れない人｣が抱える二重の消耗…190万人のデータが示す《いい人が評価されない》職場構造の正体 | ライフ | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/956992?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.885] コンテンツブロックが有効であることを検知しました。
-このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
-なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/956992?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 13 Sep 2026 20:39:42 +0000</pubDate></item><item><title>県知事選挙と細かすぎて伝わらない沖縄の特殊事情</title><link>https://anond.hatelabo.jp/20260913201326</link><description>[score: 0.885] 県知事選の当日に書いている。
-県内外を問わず注目を集めていて歴史的な選挙になりそうな気配である。SNSのデマ、辺野古沖の転覆事故、基地問題、県民所得といった話題が取り上げられているが、今回の知事選を歴史的なものにしているのはそのいずれでもない。
-今回の選挙における最大のトピック、それは「1972年をまたいだ世代間で初めて知事選を戦うこと」である。
-沖縄が本土に復帰したのは1972年、つまり復帰した年に生まれた人は54歳だ。古謝氏は42歳だからちょうど一回り下の世代ということになる。玉城氏はおおよそ復帰した年からだいたい一回り上の世代にあたる。この差は本土の人々が、（あるいは沖縄県民自身ですら）</description><guid isPermaLink="false">https://anond.hatelabo.jp/20260913201326</guid><pubDate>Sun, 13 Sep 2026 15:53:49 +0000</pubDate></item><item><title>千葉豪雨“屋外での移動危険”避難所開設しない判断の自治体も</title><link>https://news.web.nhk/newsweb/na/nd-20260913de50000</link><description>[score: 0.887] 8月の千葉豪雨では、避難の目安となるレベル4危険警報が発表される中、一部の自治体は屋外での移動が危険だとして避難指示を出さなかったり、避難所を開設しなかったりした対応をとったことがNHKの取材で分かり…
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957927?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 13 Sep 2026 22:39:21 +0000</pubDate></item><item><title>前線停滞 日本海側中心に激しい雨のおそれ 土砂災害など警戒</title><link>https://news.web.nhk/newsweb/na/nd-20260914de50014</link><description>[score: 0.887] 秋雨前線が停滞する影響で、日本海側を中心に激しい雨が降るおそれがあります。土砂災害や低い土地の浸水、川の増水に警戒が必要です。
+気象庁によりますと西日本の日本海側から東北にのびる秋雨前線に向かって…
 あわせて読みたい
 沖縄県知事選挙 新人の古謝玄太氏が初当選 現職ら抑える
 9月14日 3:13
@@ -74,83 +39,44 @@ https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isP
 高市首相 村井英樹氏を国対委員長に起用調整 自民党役員人事
 9月13日 22:08
 米アンソロピックCEO“AI開発ペース減速させる必要”
-9</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260913de50000</guid><pubDate>Sun, 13 Sep 2026 21:03:27 +0000</pubDate></item><item><title>【令和のAccess】「脱・Access」の決定打をモダン技術で作った。SQLiteコンテナ型デスクトップフレームワーク「Knuckle」</title><link>https://qiita.com/kanryu/items/bd952d8866f2ebdfebf2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] おっす。おら、MS Accessを現代Hackすっぞ。
-日本では長年にわたり、社内の小規模業務システムや departmental apps（部門アプリ）の裏方として Microsoft Access が稼働し続けてきました。
-しかし令和の今、サポートの不透明感やアーキテクチャの老朽化により、現場は頭を抱えています。
-「Web アプリに全面移行」と一口に言っても、サーバー構築、インフラ運用コスト、ネットワーク遅延、専門のフロントエンド部隊が必要となり、Access が持っていた「1ファイル渡せば誰の PC でも動く」という手軽さは完全に失われてしまいます。
-そこで、「枯れた本命技術」を組み合わ</description><guid isPermaLink="false">https://qiita.com/kanryu/items/bd952d8866f2ebdfebf2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 13 Sep 2026 20:28:31 +0000</pubDate></item><item><title>[GSA: Internet] ”シャドウ AI 検出”の正体は アプリケーション使用状況分析（シャドウ IT の検出）のフィルタだった</title><link>https://qiita.com/carol0226/items/834816cf1653e358ea5a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] はじめに
-GSA の公開情報を読んでいると、「シャドウ AI 検出」という専用機能が存在するように見えます。
-公開情報：グローバル セキュリティで保護されたアクセスでのシャドウ AI 検出
-https://learn.microsoft.com/ja-jp/entra/global-secure-access/concept-shadow-ai-discovery?wt.mc_id=MVP_407731
-しかし実際に画面を確認すると、シャドウ AI 検出専用のメニューは存在せず、以下の階層からアクセスします。
-グローバルセキュアアクセス
-└ アプリケーション
-└ Insights &amp; Anal</description><guid isPermaLink="false">https://qiita.com/carol0226/items/834816cf1653e358ea5a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 13 Sep 2026 20:28:31 +0000</pubDate></item><item><title>SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは? | au Webポータル</title><link>https://article.auone.jp/090465f4-bbd4-4e07-8236-ac82cebd9552</link><description>[score: 0.889] SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは? | au Webポータル
-SpotifyのエンジニアがClaude Codeのトークン消費を約90％削減した方法とは?
-GIGAZINE
-1日前
-出典元: GIGAZINE
-この記事を深掘り
-気になるテーマを検索して、関連情報を探せます
-AIモデル費用 最新動向
-を検索
-AIコスト削減 技術詳細
-を検索
-AI利用料 賢い削減法
-を検索
-関連記事
-AIエージェントが実際にどのように動いてトークンを使っているかが後から見てわかるようにできる「Langfuse」、オープンソースでセルフホスト可能
-Claud</description><guid isPermaLink="false">https://article.auone.jp/090465f4-bbd4-4e07-8236-ac82cebd9552</guid><pubDate>Sun, 13 Sep 2026 14:44:13 +0000</pubDate></item><item><title>中部電力きょう会見へ 林社長 勝野会長が辞意固める</title><link>https://news.web.nhk/newsweb/na/nd-20260913de49991</link><description>[score: 0.889] 中部電力は浜岡原子力発電所3号機と4号機の審査で地震の想定に関するデータを改ざんしていた問題で14日、記者会見を開きます。関係者によりますと林欣吾社長と勝野哲会長の経営トップ2人は辞任する意向を固めて…
+9月1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260914de50014</guid><pubDate>Sun, 13 Sep 2026 22:02:26 +0000</pubDate></item><item><title>Shopifyがスマホアプリ開発でReact NativeからSwiftとKotlinに回帰、コーディングAIの性能向上が理由</title><link>https://gigazine.net/news/20260914-shopify-back-to-native-mobile-ai/</link><description>[score: 0.887] Shopifyがスマホアプリ開発でReact NativeからSwiftとKotlinに回帰、コーディングAIの性能向上が理由
+eコマースプラットフォームのShopifyは過去数年間にわたり、スマートフォンアプリの開発にモバイルアプリケーションフレームワークのReact Nativeを使用してきました。ところがShopifyが2026年9月10日に公開したブログでは、React Nativeに注力するとしていた方針を撤回し、かつて使用していたSwiftとKotlinに回帰することを表明しています。
+Native is now the future of mobile at Shopify (2</description><guid isPermaLink="false">https://gigazine.net/news/20260914-shopify-back-to-native-mobile-ai/</guid><pubDate>Sun, 13 Sep 2026 22:07:46 +0000</pubDate></item><item><title>AIが書いた日本語に頻出する単語を指摘するtextlintプリセットを作った - ぷらすのブログ</title><link>https://blog.p1ass.com/posts/textlint-rule-preset-ai-words-ja/</link><description>[score: 0.889] AIが書いた日本語に頻出する単語を指摘するtextlintプリセットを作った - ぷらすのブログ 目次AI に書かせた文章で試すtextlint のプリセットを作った背景使い方Claude Code の hooks でチェックする一部の単語を検出から除外したい場合辞書をカスタマイズしたい場合文章の一部分だけ指摘を無効にしたい場合検出の仕組み活用形をまとめて判定する辞書の作り方おわりにこんにちは、ぷらす(@p1ass)です。 AI が書...</description><guid isPermaLink="false">https://blog.p1ass.com/posts/textlint-rule-preset-ai-words-ja/</guid><pubDate>Sun, 13 Sep 2026 22:42:07 +0000</pubDate></item><item><title>反実仮想機械学習とは何か</title><link>https://speakerdeck.com/usaito/fan-shi-jia-xiang-ji-jie-xue-xi-tohahe-ka</link><description>[score: 0.889] 反実仮想機械学習とは何か @『反実仮想機械学習』出版記念イベント#1 https://cfml.connpass.com/event/313112/ Amazon: https://www.amazon.co.jp/dp/4297140292 質疑応答: https://docs.google.com/documen… yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://speakerdeck.com/usaito/fan-shi-jia-xiang-ji-jie-xue-xi-tohahe-ka</guid><pubDate>Sun, 13 Sep 2026 22:51:36 +0000</pubDate></item><item><title>トランプ氏、ＡＩ開発で米の主導権維持必要と強調 過度な懸念否定 - Reuters</title><link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVpQcTVHTmJKOUQ0VER2TDBteDFZTmZMMG9PTVdDQUp3NHd6YUJpZGh3VmF4THpHNFFnajVabE1ZeDkzdEhDNloxTUFLelNTWXpzNWxRcUF6ZnJOYkhaWUZsSmRJOTgwQmdhakUxZ0JYZzVJZmh1ZW1rdTBzam1LdjhycWY?oc=5</link><description>[score: 0.890] トランプ氏、ＡＩ開発で米の主導権維持必要と強調 過度な懸念否定 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxOUVpQcTVHTmJKOUQ0VER2TDBteDFZTmZMMG9PTVdDQUp3NHd6YUJpZGh3VmF4THpHNFFnajVabE1ZeDkzdEhDNloxTUFLelNTWXpzNWxRcUF6ZnJOYkhaWUZsSmRJOTgwQmdhakUxZ0JYZzVJZmh1ZW1rdTBzam1LdjhycWY?oc=5</guid><pubDate>Sun, 13 Sep 2026 22:34:42 +0000</pubDate></item><item><title>約3人に2人が「70歳まで働く」と予想！ 老後の働き方を年収別に調査 【リスクモンスター調べ】</title><link>https://webtan.impress.co.jp/n/2026/09/14/53276</link><description>[score: 0.890] 約3人に2人が「70歳まで働く」と予想！ 老後の働き方を年収別に調査 【リスクモンスター調べ】 何歳まで働く？ シニアが働く理由は「生活費・老後資金の確保」のため。 imai-f 2026年9月14日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 リスクモンスターは、「何歳まで働くと思う？ 現役世代の老後就労予測」調査を実施した。40歳～59歳のビジネスパーソン800人を対象に、60歳以降の就労予想や働く理由を聞いている。 関連記事 人生100年時代、何歳まで働く？ 65歳以降も「働きたい」が7割超【朝日新聞Reライフ調べ】 シニア世代が続々と“タイミーさん”デビュー？</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/09/14/53276</guid><pubDate>Sun, 13 Sep 2026 21:30:07 +0000</pubDate></item><item><title>スポティファイ、「反実仮想」で因果関係を推論するAIを開発</title><link>https://www.technologyreview.jp/s/303141/the-complex-math-of-counterfactuals-could-help-spotify-pick-your-next-favorite-song/</link><description>[score: 0.890] スポティファイ、「反実仮想」で因果関係を推論するAIを開発
+スポティファイの研究チームが、「反実仮想分析」の手法をベースにして、物事の因果関係を推論する新たな種類の機械学習モデルを構築した。意思決定の精度向上に役立つ可能性がある。 by Will Douglas Heaven2023.04.10
+音楽ストリーミング配信会社であるスポティファイ（Spotify）の研究チームが、「反実仮想分析」という精密な手法の背景にある複雑な数学を初めて取り入れた新たな機械学習モデルを構築した。このモデルは、過去の事象の原因を特定し、将来の事象への影響を予測するのに用いることができる。
+この機械学習モデルは20</description><guid isPermaLink="false">https://www.technologyreview.jp/s/303141/the-complex-math-of-counterfactuals-could-help-spotify-pick-your-next-favorite-song/</guid><pubDate>Sun, 13 Sep 2026 22:51:36 +0000</pubDate></item><item><title>「聞き上手」はいいことだとは言うけれど……。聞かされすぎて疲れるあなたに知ってほしい、「共感の種類」の話</title><link>https://studyhacker.net/active-listening</link><description>[score: 0.890] 「ちょっと聞いてよ、また部長に書類を差し戻されちゃってさ」。仕事中、そう話しかけてくる同僚が、職場に一人はいるかもしれません。 相槌を打って共感しているうちに、自分の作業は進まず、気持ちまで少しずつすり減っていく。聞き上手って、じつは損な役回りなのかもしれない。そう感じたことがあるなら、続きを読んでみてください。 聞き方そのものを変える必要はない 消耗の正体は「共感の種類」にある 相手の感情を引き受けすぎていませんか？ すり減らずに聞くための3つの境界線 時間の境界線 責任の境界線 感情の境界線 よくある質問（FAQ） 聞き方そのものを変える必要はない 「話してよかった」「少し楽になった」と相</description><guid isPermaLink="false">https://studyhacker.net/active-listening</guid><pubDate>Sun, 13 Sep 2026 22:39:14 +0000</pubDate></item><item><title>トランプ氏、ＡＩ開発で米の主導権維持必要と強調 過度な懸念否定（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1FSUc4Y0NwMlgxd0hVUDRtU2JNeFZzQkg1Q3pPQ1hyWmhiNnJ4eTE0akoyT0xKZ0N4bFhDdXNwYkgtYVdqYm1nWGJaR2FvelpwdFJBTTFDc3dVaE9NSFdrWWJ1dWFoLXZpOE1MZDNaVngyRnlCSjdvdGRhTmp1T2M?oc=5</link><description>[score: 0.890] トランプ氏、ＡＩ開発で米の主導権維持必要と強調 過度な懸念否定（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE1FSUc4Y0NwMlgxd0hVUDRtU2JNeFZzQkg1Q3pPQ1hyWmhiNnJ4eTE0akoyT0xKZ0N4bFhDdXNwYkgtYVdqYm1nWGJaR2FvelpwdFJBTTFDc3dVaE9NSFdrWWJ1dWFoLXZpOE1MZDNaVngyRnlCSjdvdGRhTmp1T2M?oc=5</guid><pubDate>Sun, 13 Sep 2026 22:34:42 +0000</pubDate></item><item><title>セミナー満足度 ランキングTop10【生成AI × マーケティング フォーラム 2026】</title><link>https://webtan.impress.co.jp/e/2026/09/14/53285</link><description>[score: 0.891] セミナー満足度 ランキングTop10【生成AI × マーケティング フォーラム 2026】 webtan 2026年9月14日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 8/27に開催した「生成AI × マーケティング フォーラム 2026」の全19講演の中から、満足度の高い講演Top10を紹介します。アンケートにご協力いただいた皆さま・登壇者の皆さま、本当にありがとうございました！ 1位これだけでOK！ AIトレンドとAIツールの使い分け最低限ガイド（2026年版） 講師：AICX協会 小澤 健祐（おざけん）氏 2位 AI検索で「おすすめ」されるSEOの現在地 講</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/09/14/53285</guid><pubDate>Sun, 13 Sep 2026 22:31:21 +0000</pubDate></item><item><title>Z世代の“地元愛”ランキング、北海道が首位！ 愛知・大阪が同率2位、最下位は？【日本インフォメーション調べ】</title><link>https://webtan.impress.co.jp/n/2026/09/14/53278</link><description>[score: 0.892] Z世代の“地元愛”ランキング、北海道が首位！ 愛知・大阪が同率2位、最下位は？【日本インフォメーション調べ】 地元への好感度には「買い物や遊ぶ場所の充実」や「SNS映え」が影響？ imai-f 2026年9月14日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 日本インフォメーションは、「都道府県別10代ランキング調査」を実施した。全国の13～19歳の男女2,533人を対象に、地元への愛着やSNSの利用実態、購買行動などを聞いている。 関連記事 SNSやアプリの通知に疲れた？ 情報過多の時代を生き抜く「剪択行動」とは【博報堂調べ】 SNSの利用時間、シニア層で3割増！ </description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/09/14/53278</guid><pubDate>Sun, 13 Sep 2026 21:30:07 +0000</pubDate></item><item><title>自ら、問いに向かい合うことの有難さについて - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing</title><link>https://kaz-ataka.hatenablog.com/entry/2026/09/13/175045</link><description>[score: 0.892] 自ら、問いに向かい合うことの有難さについて - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing 1.4/50 Summilux, Leica M (typ240), RAW Wakayama-castle, Japan (2017) 先日、ナビエ・ストークス方程式をめぐる数学の超難問について、OpenAIが解決したとする発表を行った。9月8日のことだ。 使われたのは、GPT-6 Astraを大きく上回るという開発中の内部モデルと、それを動かす約1万のAIエージェントだ。Navier–Stok...</description><guid isPermaLink="false">https://kaz-ataka.hatenablog.com/entry/2026/09/13/175045</guid><pubDate>Sun, 13 Sep 2026 22:42:07 +0000</pubDate></item><item><title>AI時代でも被リンクが2位――2026年Googleランキング要因TOP3【SEO Weekly Update】</title><link>https://www.suzukikenichi.com/blog/seo-weekly-update-september-2026-week2/</link><description>[score: 0.894] 毎週の注目 SEO ニュースをピックアップして、YouTube ミエルカチャンネルで動画解説しています。
+2026 年 9 月第 2 週の注目 SEO ニュースに選んだのはこちらの 3 つのトピックです。
+- SEO 専門家 131 人が挙げた 2026 年 Google 検索ランキング要因トップ3
+- Google、SEO ページの大量自動生成に再び警鐘
+- Google「従来の検索順位 1 〜 10 位は把握しにくい」
+内容は動画でサクッとチェック！⬇️
+毎週の注目 SEO ニュースをピックアップして、YouTube ミエルカチャンネルで動画解説しています。
+2026 年 9 月第 2 週</description><guid isPermaLink="false">https://www.suzukikenichi.com/blog/seo-weekly-update-september-2026-week2/</guid><pubDate>Sun, 13 Sep 2026 22:30:27 +0000</pubDate></item><item><title>テスラ「サイバーキャブ」の“常識外れ”は、見た目だけじゃない</title><link>https://wired.jp/article/tesla-cybercab-unboxed-manufacturing/</link><description>[score: 0.894] ハンドルもペダルもないクルマ
+アプリで呼び出した無人の電気自動車（EV）が目の前に静かに停車し、ドアが自動で開く。乗り込むと、そこにはハンドルもペダルもない。ただ座っているだけでクルマが自動で走り出し、目的地まで連れていってくれる──。
+こうした自動運転タクシー（ロボタクシー）に特化したEVが、この夏から米国で有料の商用サービスとして走り始めている。アマゾン子会社のZooxが8月にラスベガスで、テスラが9月にテキサス州オースティンで相次いで運行を始めたのだ。
+すでにロボタクシーそのものは、米国や中国など世界各国で走り始めている。だが、基本的に既存の車両をタクシーに転用したもので、運転席そのもの</description><guid isPermaLink="false">https://wired.jp/article/tesla-cybercab-unboxed-manufacturing/</guid><pubDate>Sun, 13 Sep 2026 22:30:32 +0000</pubDate></item><item><title>ホルムズ海峡めぐるイランと湾岸諸国の会合延期に</title><link>https://news.web.nhk/newsweb/na/nd-20260914de50008</link><description>[score: 0.899] ホルムズ海峡の開放をめぐり状況がこう着するなか、イラン外務省は14日に湾岸諸国との外相会合を開催するとしていましたが、イランの国営メディアは会合が延期になったと伝えました。
+イラン外務省は11日、…
 あわせて読みたい
-沖縄県知事選挙 新人の古謝玄太氏が初当選 現職ら抑える
-9月14日 3:13
-京都 陸上選手権会場で食中毒か 弁当業者を立ち入り調査
-9月13日 18:58
 インドネシアでフェリー転覆 6人死亡130人行方不明
 9月13日 20:45
-高市首相 村井英樹氏を国対委員長に起用調整 自民党役員人事
-9月13日 22:08
 米アンソロピックCEO“AI開発ペース減速させる必要”
-9</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260913de49991</guid><pubDate>Sun, 13 Sep 2026 20:05:54 +0000</pubDate></item><item><title>沖縄知事選、古謝玄太氏が初当選し現職をゼロ打ちで負かす、デニー陣営は「SNSのデマや誹謗中傷で妨害」と他責敗戦の弁</title><link>https://posfie.com/@cu6gane/p/TJtBBwe</link><description>[score: 0.889] 沖縄知事選、古謝玄太氏が初当選し現職をゼロ打ちで負かす、デニー陣営は「SNSのデマや誹謗中傷で妨害」と他責敗戦の弁 NHKニュース @nhk_news 【沖縄県知事選挙】出口調査で詳しく 新人・古謝玄太氏の初当選が確実です NHKの事前の情勢取材や有権者を対象に行った出口調査では新人の古謝氏が、現職の玉城氏やほかの新人4人を大きく引き離して優勢です 出口調査の詳しい結果はこちらから↓ news.web.nhk/newsweb/na/nd-… 2026-09-13 20:05:15...</description><guid isPermaLink="false">https://posfie.com/@cu6gane/p/TJtBBwe</guid><pubDate>Sun, 13 Sep 2026 15:05:43 +0000</pubDate></item><item><title>👍を押したらバレる？「学習させない」設定をしてもダメ？｜AIツール個人版ユーザーの防衛策🛡5手と、やっても残る3つ</title><link>https://qiita.com/songchong/items/9dc9ee419d2764d2aa06?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] 法人契約が今すぐ通らないとき、個人版のまま打てる手は 5 つあります。まずは全体の流れを図解します。
-1. 👍 を押したら、何が起きるのか
-「学習に使わない」の学習OFFに設定していても、評価ボタンを押した会話だけは例外になります。
-Claude の規約は、2 つのことを定めています。ひとつは、オプトアウトしていても、フィードバックを送ったときと、安全レビューのためにフラグが立ったときは学習に使うこと。もうひとつは、👍／👎 で評価すると、関連する会話をフィードバックの一部として保存することです。
-| 規約の定め | 効果 |
-|---|---|
-| オプトアウト後も例外になる 2 つ（フィード</description><guid isPermaLink="false">https://qiita.com/songchong/items/9dc9ee419d2764d2aa06?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 13 Sep 2026 20:28:31 +0000</pubDate></item><item><title>維新 中司幹事長の入閣調整 今週にも自民党役員人事 内閣改造</title><link>https://news.web.nhk/newsweb/na/nd-20260914de50001</link><description>[score: 0.891] 高市総理大臣は、今週にも、自民党の役員人事と内閣改造を行う方針で、新たに連立を組む日本維新の会から中司幹事長を入閣させる方向で調整に入りました。
-政権の発足からまもなく1年となるのを前に、高市総理…
+9月13日 17:24
+日中友好議連 超党派若手が北京訪問 交流再開の糸口探る
+9月13日 12:12
+ベネチア国際映画祭 日本の2作品は最優秀賞ならず
+9月13日 6:56
+BRICS首脳会議閉幕 習主席はグローバルサウスとの団結訴え
+9月13日</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260914de50008</guid><pubDate>Sun, 13 Sep 2026 21:33:23 +0000</pubDate></item><item><title>ウクライナとポーランド結ぶ旅客列車にロシアが無人機攻撃</title><link>https://news.web.nhk/newsweb/na/nd-20260914de50007</link><description>[score: 0.901] ウクライナ国営の鉄道会社は13日、隣国のポーランドを結ぶ旅客列車がロシアの無人機による攻撃を受けたと発表しました。けが人はいませんでしたが、現場近くには攻撃の直前まで、イギリスのジョンソン元首相など外…
 あわせて読みたい
-沖縄県知事選挙 新人の古謝玄太氏が初当選 現職ら抑える
-9月14日 3:13
-京都 陸上選手権会場で食中毒か 弁当業者を立ち入り調査
-9月13日 18:58
 インドネシアでフェリー転覆 6人死亡130人行方不明
 9月13日 20:45
-高市首相 村井英樹氏を国対委員長に起用調整 自民党役員人事
-9月13日 22:08
 米アンソロピックCEO“AI開発ペース減速させる必要”
-9月1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260914de50001</guid><pubDate>Sun, 13 Sep 2026 20:35:07 +0000</pubDate></item><item><title>AIハーネスはAIで作る。実仕事を任せ続けたらYAMATOがこの形になった</title><link>https://qiita.com/sakumori/items/2a687664d04c80264e0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] 最近、「AIハーネス」という言葉を知りました。
-最初は「また新しいAI用語が出てきたな」くらいに思っていたのですが、調べているうちに、だんだん見覚えのある話になってきました。
-これ、YAMATOでやっていることでは？
-YAMATOを作り始めたころ、AIハーネスという言葉は知りませんでした。やりたかったのは、iPhoneからChatGPTに頼んだ仕事を、そのままMac miniで進めることです。
-ところが実際にAIへ開発を任せてみると、作業場所を分けたくなり、GitHubに仕事を残したくなり、最後には本当に動いたのか確認する仕組みまで必要になりました。
-困るたびに一つずつ直していったら、いつの間</description><guid isPermaLink="false">https://qiita.com/sakumori/items/2a687664d04c80264e0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 13 Sep 2026 20:28:31 +0000</pubDate></item><item><title>沖縄県知事選、保守系新人の古謝玄太氏の初当選確実　現職の玉城デニー氏ら破る</title><link>https://www.sankei.com/article/20260913-2VWWXJZE6ZK5PMYJ6JI2UEHWL4/</link><description>[score: 0.893] 任期満了に伴う沖縄県知事選は13日投開票され、保守系の元那覇市副市長の新人、古謝玄太氏（42）＝自民、維新、国民、参政、保守推薦＝が、3選を目指した現職の玉城デニー氏（66）ら5人を破り、初当選を確実にした。古謝氏は、米軍普天間飛行場（宜野湾市）の名護市辺野古移設容認の立場。移設反対を貫き政府と対立してきた県政から大きく転換することになる。
-県経済の振興が主な争点。過去3回の選挙と異なり、「辺野古」は最大争点にならなかった。
-地元経済界や首長らに擁立された古謝氏は、自民、日本維新の会の国政与党だけでなく、国民民主、参政、日本保守の各党と公明党県本部の推薦を得て組織戦を展開。経済政策を主軸に据え</description><guid isPermaLink="false">https://www.sankei.com/article/20260913-2VWWXJZE6ZK5PMYJ6JI2UEHWL4/</guid><pubDate>Sun, 13 Sep 2026 11:59:39 +0000</pubDate></item><item><title>沖縄県知事選挙、古謝玄太氏の初当選確実　現職ら5人破る - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOJC011YC0R00C26A9000000/</link><description>[score: 0.896] 沖縄県知事選挙、古謝玄太氏が初当選 現職ら5人に大差で勝利
-任期満了に伴う沖縄県知事選が13日投開票され、無所属の新人・古謝玄太氏（42）=自民、維新、国民、参政、保守推薦=が初当選を決めた。現職の玉城デニー氏（66）ら5人を破った。
-2014年以降、米軍普天間基地（同県宜野湾市）の名護市辺野古移設に反対する知事が当選してきた。古謝氏は移設を容認する立場で、12年ぶりの保守県政となる。沖縄県で、1972年の本土復帰以降に生まれた知事の誕生は初めて。
-古謝氏の得票数は過去最多の42万3000票に達し、玉城氏とは14万7000票もの差をつけた。投票率は61.57%と前回から3.65ポイント上昇した</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOJC011YC0R00C26A9000000/</guid><pubDate>Sun, 13 Sep 2026 11:40:19 +0000</pubDate></item><item><title>Qiitaの約7万記事を分析してAIで書かれた記事に見られる特徴の変化を調べた記事が興味深い「こんな変化があるのか」「テキスト分析の勉強になる」</title><link>https://togetter.com/li/2745057</link><description>[score: 0.899] Qiitaの約7万記事を分析してAIで書かれた記事に見られる特徴の変化を調べた記事が興味深い「こんな変化があるのか」「テキスト分析の勉強になる」 逆瀬川 @gyakuse ひさびさに記事書きました！ Coding Agentを使った記事執筆が増えているなか、Qiitaを対象に詳細に分析しました。記事の文字数が倍近くになっていることや、「効く」「正本」などのさいきんよく見るワードをうまく検出することができました。 nyosegawa.com/posts/qiita-wr… 2026-09-11 19:37:36 生成AI...</description><guid isPermaLink="false">https://togetter.com/li/2745057</guid><pubDate>Sun, 13 Sep 2026 16:54:47 +0000</pubDate></item><item><title>写真📷録音🎙PDF📄コード💻いいね👍｜私の情報はどこへ漏れていくのか？ AI製品36件の規約とプライバシーポリシーを形式別に調べてみた</title><link>https://qiita.com/songchong/items/e630bf05f4adf0c16ce5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.905] 「会議の録音を AI に入れていいか」と聞かれたとき、規約のどこを読めば答えられるのか。 形式ごとに数えました。
-1. どの製品が、どの形式について書いているのか
-形式ごとの記述をいちばん多く持つのは Gemini で、6 形式のうち 4 つに記述があります。 しかもエディション（個人版か Workspace 版か）で書いてあることが逆です — 個人版は音声と画面共有を学習に使うとし、Workspace 版はアップロードしたファイルを使わないとしています。
-ただし全体としては、埋まっているマスは 84 のうち 21 だけです。 空欄は「使わない」ではなく、その形式について何も書いていないという</description><guid isPermaLink="false">https://qiita.com/songchong/items/e630bf05f4adf0c16ce5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 13 Sep 2026 20:28:31 +0000</pubDate></item><item><title>沖縄知事選2026：玉城氏は「基地問題」ばかり?　沖縄知事選、県民が刷新求めた背景 | 毎日新聞</title><link>https://mainichi.jp/articles/20260913/k00/00m/010/095000c</link><description>[score: 0.908] 沖縄知事選2026：玉城氏は「基地問題」ばかり? 沖縄知事選、県民が刷新求めた背景 | 毎日新聞 当選確実となり、支持者とともに万歳をする古謝玄太氏（中央左）＝那覇市で2026年9月13日午後8時5分、金澤稔撮影 沖縄県で2014年から3期続いた非自民系県政は、終わりを迎えることになった。13日の知事選で、高市早苗政権が支援した新人の古謝玄太氏は、3選を目指した現職の玉城デニー氏を破った。有権者が県政の刷新を...</description><guid isPermaLink="false">https://mainichi.jp/articles/20260913/k00/00m/010/095000c</guid><pubDate>Sun, 13 Sep 2026 14:35:34 +0000</pubDate></item><item><title>【速報】沖縄知事選、42歳の古謝玄太氏が初当選確実　経済前面・辺野古容認　現職の玉城デニー氏破る | 沖縄タイムス＋プラス</title><link>https://www.okinawatimes.co.jp/articles/-/1923086</link><description>[score: 0.908] 【速報】沖縄知事選、42歳の古謝玄太氏が初当選確実 経済前面・辺野古容認 現職の玉城デニー氏破る | 沖縄タイムス＋プラス 第１５回沖縄県知事選は１３日投開票され、新人で元那覇市副市長の古謝玄太氏（４２）＝自民、維新、国民、参政、保守、公明県本推薦＝が当選を確実にした。３期目を目指した現職の玉城デニー氏（６６）は及ばなかった。 古謝氏は沖縄県政史上最年少、１９７２年の沖縄の日本復帰後の生まれで初めての知事となる。 自民...</description><guid isPermaLink="false">https://www.okinawatimes.co.jp/articles/-/1923086</guid><pubDate>Sun, 13 Sep 2026 11:59:39 +0000</pubDate></item><item><title>政府・与党 沖縄県知事選 古謝氏当選で辺野古移設推進</title><link>https://news.web.nhk/newsweb/na/nd-20260914de50006</link><description>[score: 0.909] 13日、投票が行われた沖縄県知事選挙で新人の古謝玄太氏が当選したことを受けて、政府・与党は、アメリカ軍普天間基地の名護市辺野古への移設計画を着実に進めるとともに、沖縄経済の振興に向けて県政を後押しして…
-あわせて読みたい
-沖縄県知事選挙 新人の古謝玄太氏が初当選 現職ら抑える
-9月14日 3:13
-京都 陸上選手権会場で食中毒か 弁当業者を立ち入り調査
-9月13日 18:58
-インドネシアでフェリー転覆 6人死亡130人行方不明
-9月13日 20:45
-高市首相 村井英樹氏を国対委員長に起用調整 自民党役員人事
-9月13日 22:08
-米アンソロピックCEO“AI開発ペース減速させる必要”
-9</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260914de50006</guid><pubDate>Sun, 13 Sep 2026 21:03:27 +0000</pubDate></item><item><title>自民が「最後の砦」を攻略…沖縄県知事選挙「勝利」の意味は　古謝玄太氏が玉城デニー氏らを破る：東京新聞デジタル</title><link>https://www.tokyo-np.co.jp/article/515004</link><description>[score: 0.924] 自民が「最後の砦」を攻略…沖縄県知事選挙「勝利」の意味は 古謝玄太氏が玉城デニー氏らを破る：東京新聞デジタル ﻿ 前那覇市副市長の古謝玄太氏が初当選を確実にした沖縄県知事選は、高市早苗政権にとって「各級選挙の中でも最重要」（鈴木俊一自民党幹事長）の位置付けだった。「オール沖縄」の最後の砦（とりで）である玉城デニー知事を引きずり降ろすことが、県との長い対立に終止符を打つ象徴的意味を持つからだ。主要争点となら...</description><guid isPermaLink="false">https://www.tokyo-np.co.jp/article/515004</guid><pubDate>Sun, 13 Sep 2026 20:47:25 +0000</pubDate></item></channel></rss>
+9月13日 17:24
+日中友好議連 超党派若手が北京訪問 交流再開の糸口探る
+9月13日 12:12
+ベネチア国際映画祭 日本の2作品は最優秀賞ならず
+9月13日 6:56
+BRICS首脳会議閉幕 習主席はグローバルサウスとの団結訴え
+9月1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260914de50007</guid><pubDate>Sun, 13 Sep 2026 22:32:38 +0000</pubDate></item><item><title>財務処理AI「ChatGPT for Financial Services」が登場</title><link>https://gigazine.net/news/20260911-chatgpt-for-financial-services/</link><description>[score: 0.901] 財務処理AI「ChatGPT for Financial Services」が登場 OpenAIが、自社でホストする金融データと「GPT-6 Astra」の推論能力を組み合わせた財務処理AI「ChatGPT for Financial Services」を発表しました。 Introducing ChatGPT for Financial Services | OpenAI https:/... kozai</description><guid isPermaLink="false">https://gigazine.net/news/20260911-chatgpt-for-financial-services/</guid><pubDate>Sun, 13 Sep 2026 21:51:21 +0000</pubDate></item><item><title>沖縄知事に初当選の古謝氏「沖縄を前に進めていく」　本土復帰後に生まれた初の知事に</title><link>https://www.sankei.com/article/20260913-YTRNG6GMHZJVDOMLXCFGRMFYPI/</link><description>[score: 0.916] 沖縄県知事選は13日に投開票され、保守系の元那覇市副市長の新人、古謝玄太氏（42）＝自民、維新、国民、参政、保守推薦＝が、3選を目指した現職の玉城デニー氏（66）ら5人を破り、初当選を果たした。
+午後8時ごろ、那覇市内の古謝氏の事務所に当選確実の一報が流れると、支持者から「おめでとう」と歓声が上がった。古謝氏は「県民一人一人に寄り添う県政を必ず実現し、沖縄を前に進めていく」と述べ、支持者らと万歳三唱をして喜びを分かち合った。
+沖縄の本土復帰（昭和47年）後に生まれた世代で初の知事となる古謝氏。初当選が確実となった後、報道陣の取材に「沖縄の歴史や苦悩もしっかりと受け止めながら、平和に関する発信も</description><guid isPermaLink="false">https://www.sankei.com/article/20260913-YTRNG6GMHZJVDOMLXCFGRMFYPI/</guid><pubDate>Sun, 13 Sep 2026 21:37:23 +0000</pubDate></item></channel></rss>
