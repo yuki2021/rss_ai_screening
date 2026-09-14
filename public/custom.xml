@@ -1,132 +1,149 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 14 Sep 2026 11:32:24 +0000</lastBuildDate><item><title>15日配信「iOS 27」の新機能まとめ　Siri AIの恩恵を受けられる機種は？　画像編集やSafariにも注目</title><link>https://www.itmedia.co.jp/mobile/articles/2609/14/news069.html</link><description>[score: 0.885] Appleは9月15日（日本時間）、iPhone向けOSの最新版「iOS 27」の配信を開始する。「iPadOS 27」「watchOS 27」「macOS 27」も同日の配信となる。最大の変更点はApple Intelligenceを基盤とする新しい「Siri AI」だが、当初の対応言語は英語のみで、日本語への対応は10月が予定されている。
-このSiri AIを含め、iOS 27では何が変更されるのか。Appleが発表している情報をもとに見ていこう。
-iOS 27に対応するのは、「iPhone 11」以降の全モデルと「iPhone SE（第2世代）」以降だ。搭載プロセッサでいえばA13 Bi</description><guid isPermaLink="false">https://www.itmedia.co.jp/mobile/articles/2609/14/news069.html</guid><pubDate>Mon, 14 Sep 2026 03:05:55 +0000</pubDate></item><item><title>【開票速報】沖縄県知事選、古謝玄太氏の当選確実…玉城デニー氏ら５人を破る</title><link>https://www.yomiuri.co.jp/politics/20260913-GYT1T00109/</link><description>[score: 0.885] 【開票結果】沖縄県知事選、古謝玄太氏が初当選…玉城デニー氏ら５人を破る「責任の重さを痛感」
-完了しました
-沖縄県知事選は１３日、投開票が行われ、自民党などが推薦する前那覇市副市長で新人の
-当選した古謝玄太氏「沖縄を前に」
-古謝氏は自民党など５党と公明党県本部から推薦を受け、盤石の組織戦を展開。自民が県政を奪還するのは１２年ぶりで、古謝氏は「責任の重さを痛感している」「沖縄を前に進めていきたい」と語った。（詳しくは こちら ）
-沖縄県知事選挙（開票率100%、投票率61.57％)
-- 氏名、
-- 年齢、
-- 党派、
-- 新旧、
-- 当選回数、
-- 代表的肩書
-古謝 玄太
-- 42歳
-- 無所属（</description><guid isPermaLink="false">https://www.yomiuri.co.jp/politics/20260913-GYT1T00109/</guid><pubDate>Sun, 13 Sep 2026 23:06:10 +0000</pubDate></item><item><title>何個もミス食らわせて絶対嫌われてると思ってた仕事相手が、陰で私のことを「レスが早すぎるので助かる」と言っていたらしく、レスが早いとあらゆる欠点を凌駕できることがわかった</title><link>https://togetter.com/li/2745463</link><description>[score: 0.886] ギョメムラ
-@8823kame
-何個もミス食らわせて絶対嫌われてると思ってた仕事相手が、陰で私のことを「レスが早すぎるので助かる」と言っていたらしく、レスが早すぎるとあらゆる欠点を凌駕できることがわかった
-2026-09-14 09:36:15レスポンスが早いのってものすごく信頼を得られる
-うまくいかない先生｜人生ハードな2人
-@mimiopeace
-@8823kame 欠点だと思っていたものが、場所や相手が変わると長所になることってありますよね。 自分を直すことばかり考えてきたけど、「活かせる場所を探す」って視点も大事なんだなと思います。
-2026-09-14 14:39:55
-水野五郞
-@</description><guid isPermaLink="false">https://togetter.com/li/2745463</guid><pubDate>Mon, 14 Sep 2026 10:40:59 +0000</pubDate></item><item><title>民事裁判の“証拠”どう扱う？民事訴訟法改正の検討始まる</title><link>https://news.web.nhk/newsweb/na/nd-20260914de50045</link><description>[score: 0.886] 「検察なめんなよ」「検察庁を敵視するということは反社」
-これらは刑事事件の取り調べでの検事の発言で、民事裁判の証拠として国が映像を開示したものです。
-弁護士が一般に公開するなどして、検察の取り調べ…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 14 Sep 2026 21:22:32 +0000</lastBuildDate><item><title>エクストリーム沖縄県知事選挙2026 結果</title><link>https://anond.hatelabo.jp/20260914175756</link><description>[score: 0.884] エクストリーム沖縄県知事選挙2026 結果 https://anond.hatelabo.jp/20260907182147 優勝：兼島俊（IT会社社長）4,657票 準優勝：比嘉隆（反ワクチン枠）3,542票 総評 2026年9月13日投票、翌14日未明に大勢が判明した沖縄県知事選挙は、前那覇市副市長・古謝玄太氏（42）が423,124票（得票率59.4%）を獲得して初当選。三選を目指した現職・玉城デニー氏（66）は...</description><guid isPermaLink="false">https://anond.hatelabo.jp/20260914175756</guid><pubDate>Mon, 14 Sep 2026 13:12:35 +0000</pubDate></item><item><title>トランプ氏、オープンＡＩのアルトマン氏と非公開会談＝報道 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE1NMHI0emk0NUxrUHdWZGI4TTZyN0MyZkNZUWJIMmF4N0pubGlKWDNVdVhCVXEtSjJXbEFVVi1FQTdZa0phQmplQnE4cUc0U3N1bzEyRGo5VTl2S3RpenRIaFkzcV82QlBZZ2hnVG1HMUpJdFNibjNXZnVsbDhydw?oc=5</link><description>[score: 0.884] トランプ氏、オープンＡＩのアルトマン氏と非公開会談＝報道 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE1NMHI0emk0NUxrUHdWZGI4TTZyN0MyZkNZUWJIMmF4N0pubGlKWDNVdVhCVXEtSjJXbEFVVi1FQTdZa0phQmplQnE4cUc0U3N1bzEyRGo5VTl2S3RpenRIaFkzcV82QlBZZ2hnVG1HMUpJdFNibjNXZnVsbDhydw?oc=5</guid><pubDate>Mon, 14 Sep 2026 21:00:17 +0000</pubDate></item><item><title>米上院、ＡＩ企業に安全対策証明義務を検討　「人類滅亡」に警戒感 - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMilAFBVV95cUxQaW5Td3lhSEdpM2ljQ0hZdDNLbGcyRmdzUWVDLWotSmlDN0FFVEg5OVhNaUUzR3poVVpXWUFJUGoweGI3UlY5OXhQZHEzWUpMUVE2VWFJdTRzLUhXNEtlMFF4ZWZ1TC1ZSEl5d3NTaF9DUEhDUUtubjFhYTd2M2RFWEo1ckFsTEowR05NQldrY2lLenNs0gGHAUFVX3lxTE9zTVVVMXZlYm1aOGZ1RklGZ0tUUTJHUFgzeVFhR2pSSXlvNEtWMGtINVZ4Tm1PM0xBSk1CVGR6NXg3am1MR093OF9VTm1ITnp5UjU0WHlaVlA5TUFnUHhHTUVLWVpSZTFsUWlYaHB5VTlBRVl4MUNtUU02Rm90aGNtZkpaRkIxaw?oc=5</link><description>[score: 0.885] 米上院、ＡＩ企業に安全対策証明義務を検討 「人類滅亡」に警戒感 ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMilAFBVV95cUxQaW5Td3lhSEdpM2ljQ0hZdDNLbGcyRmdzUWVDLWotSmlDN0FFVEg5OVhNaUUzR3poVVpXWUFJUGoweGI3UlY5OXhQZHEzWUpMUVE2VWFJdTRzLUhXNEtlMFF4ZWZ1TC1ZSEl5d3NTaF9DUEhDUUtubjFhYTd2M2RFWEo1ckFsTEowR05NQldrY2lLenNs0gGHAUFVX3lxTE9zTVVVMXZlYm1aOGZ1RklGZ0tUUTJHUFgzeVFhR2pSSXlvNEtWMGtINVZ4Tm1PM0xBSk1CVGR6NXg3am1MR093OF9VTm1ITnp5UjU0WHlaVlA5TUFnUHhHTUVLWVpSZTFsUWlYaHB5VTlBRVl4MUNtUU02Rm90aGNtZkpaRkIxaw?oc=5</guid><pubDate>Mon, 14 Sep 2026 19:59:35 +0000</pubDate></item><item><title>トランプ氏、イラン合意望むと主張 米の関与は自身が決定へ（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBzT3RHVUVJQkNzd1FZajBHcllob0VKUEQ2VzNVOWdLMVVKOWpxbDFnTENzd0QzY0FxRXVWbGc3LWRlNDNHNlgydHdzWXNmaEs2UlVXUVF0eDFPQnRtVVpfNGZGc3FVOFNaaDBiS1R3OUJSVUk5T0NMd3pYSG9JaHM?oc=5</link><description>[score: 0.885] トランプ氏、イラン合意望むと主張 米の関与は自身が決定へ（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFBzT3RHVUVJQkNzd1FZajBHcllob0VKUEQ2VzNVOWdLMVVKOWpxbDFnTENzd0QzY0FxRXVWbGc3LWRlNDNHNlgydHdzWXNmaEs2UlVXUVF0eDFPQnRtVVpfNGZGc3FVOFNaaDBiS1R3OUJSVUk5T0NMd3pYSG9JaHM?oc=5</guid><pubDate>Mon, 14 Sep 2026 17:57:58 +0000</pubDate></item><item><title>耳で聞く！Python で学ぶ マクロ経済学 入門 14</title><link>https://qiita.com/maskot1977/items/1d50c52a754eeb14c934?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] user:
+ソース動画のタイトル、そしてこの動画の内容について教えてください。
+Gemini:
+動画のタイトルは 「借金完済が経済を破壊する : Pythonで学ぶマクロ経済学入門 Podcast 14」 です。
+この動画は、技術情報共有サイト「Qiita」に投稿された記事『需要が供給を少し上回る経済政策とはプライマリーバランス黒字より大事なこと』をベースに、先輩エンジニアとAIアシスタントの対話形式で、Pythonを用いたマクロ経済シミュレーション結果とそのロジックを解説しているコンテンツです。
+動画の主な内容は以下の通りです。
+1. 国家財政を「家計簿」で捉える危険性
+- プライマリーバラ</description><guid isPermaLink="false">https://qiita.com/maskot1977/items/1d50c52a754eeb14c934?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 14 Sep 2026 20:36:54 +0000</pubDate></item><item><title>AIベンチマークに数学を使うのは有害だとして数学者たちが反発</title><link>https://gigazine.net/news/20260915-misalignment-of-ai-in-mathematics/</link><description>[score: 0.885] AIベンチマークに数学を使うのは有害だとして数学者たちが反発
+大規模言語モデル(LLM)の数学的能力は目覚ましい進歩を遂げており、数々の難問を解けるレベルにまで到達しました。しかしその一方で、AI企業が数学的問題解決をベンチマークとして推進する動きについては数学という学問そのものや数学コミュニティにとって有害であると、フィールズ賞受賞者25名からなる数学者たちが公開書簡を通じて警鐘を鳴らしています。
+Declaration — Math and AI
+https://mathandai.org/
+A Severe Misalignment of AI in Mathematics | What</description><guid isPermaLink="false">https://gigazine.net/news/20260915-misalignment-of-ai-in-mathematics/</guid><pubDate>Mon, 14 Sep 2026 21:02:14 +0000</pubDate></item><item><title>政府 消費税減税の大綱 閣議決定へ 臨時国会で法案成立目指す</title><link>https://news.web.nhk/newsweb/na/nd-20260914de50209</link><description>[score: 0.886] 政府は15日、食料品の消費税減税の制度設計を盛り込んだ大綱を閣議決定する方針です。法案の作成を進めて臨時国会に提出し、できるだけ多くの党の賛同を得て成立させたい考えです。
+自民・維新両党の税制調査…
+自民 維新 税制調査会幹部 消費税減税の大綱案了承 閣議決定へ
+9月14日 22:21
+人事や消費税減税の行方は 自民 鈴木幹事長に聞く
+9月14日 22:03
+概算要求拡大 長期金利上昇で今後は？
+9月7日 15:52
+備蓄米買い戻し 物価高の中で揺れた決定の舞台裏は
+9月8日 18:22
+トランプ大統領が会談に意欲 北朝鮮どう出るか
+9月14日 16:16
+逆風のコンビニ 服に活路？
+9月10</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260914de50209</guid><pubDate>Mon, 14 Sep 2026 20:36:30 +0000</pubDate></item><item><title>トランプ氏、オープンＡＩのアルトマン氏と非公開会談＝報道 - topics.smt.docomo.ne.jp</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBZTTVTTmVNYS1YVWl5U0UyNy1fZGRrUWYzeVlpcHk2Sm1ZWmpfbml4Z0ZMSmItN3V5eVJlZUR5Z0NzWTdrdDBiVnpZSDVhOEFvMXhLdDcwdHQtVEdQTWNDY0ExVWhrY0lldC1WMmlCYl9PRHh0S3pfbldCcWNsd9IBgwFBVV95cUxPckREQ1Zib0tmaFlDUGc1SWYycnhBeHcweGFCNjduWVRpd05NRXVqWGNKV1oxSU9USDNPeHRGVnJOeTc5RVhpTTh0QlZWZjM1UjZzX2pRS3lPZ0Fid05aZlNVT2xGaUlqdDMzM1F1dzJTRTduMFd0QmFwd3A2RHBQanlpWQ?oc=5</link><description>[score: 0.886] トランプ氏、オープンＡＩのアルトマン氏と非公開会談＝報道 topics.smt.docomo.ne.jp</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFBZTTVTTmVNYS1YVWl5U0UyNy1fZGRrUWYzeVlpcHk2Sm1ZWmpfbml4Z0ZMSmItN3V5eVJlZUR5Z0NzWTdrdDBiVnpZSDVhOEFvMXhLdDcwdHQtVEdQTWNDY0ExVWhrY0lldC1WMmlCYl9PRHh0S3pfbldCcWNsd9IBgwFBVV95cUxPckREQ1Zib0tmaFlDUGc1SWYycnhBeHcweGFCNjduWVRpd05NRXVqWGNKV1oxSU9USDNPeHRGVnJOeTc5RVhpTTh0QlZWZjM1UjZzX2pRS3lPZ0Fid05aZlNVT2xGaUlqdDMzM1F1dzJTRTduMFd0QmFwd3A2RHBQanlpWQ?oc=5</guid><pubDate>Mon, 14 Sep 2026 21:00:17 +0000</pubDate></item><item><title>北朝鮮系アクターの攻撃経路を4つに整理してみた</title><link>https://qiita.com/ktdatascience/items/a2fd3841be5159641745?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.887] はじめに
+英語のスカウトDMが来ました。よくある「うちのプロジェクトで働きませんか」という文面です。返信はしませんでしたが、そこから北朝鮮系の脅威アクターが実際に何をやっているのかを調べ始めて、驚いたことがひとつあります。
+この記事では、公開されているインシデントレポートから将軍様の攻撃経路を4つに整理します。守る側が実際に何をすればいいのかまで落とします。Web3の話に見えますが、後半の3つ目と4つ目は普通の業務インフラ設計にそのまま効きます。
+参考文献
+先に一次情報を置いておきます。この記事はここに書かれている内容の整理です。
+結論：破られているのは「鍵の外側」だけ
+整理した結果がこれです</description><guid isPermaLink="false">https://qiita.com/ktdatascience/items/a2fd3841be5159641745?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 14 Sep 2026 20:36:54 +0000</pubDate></item><item><title>中国が出入国管理の新規定施行 先端技術の流出防ぐねらいか</title><link>https://news.web.nhk/newsweb/na/nd-20260914de50207</link><description>[score: 0.887] 中国政府は出入国に関する新たな規定を15日から施行し、中国人が技術の輸出入管理の規定に違反した場合は出国を禁止するなど、先端技術の流出を防ぐねらいがあるとみられます。
+中国政府が15日から新たに施…
 あわせて読みたい
-「検察なめんな」 取り調べの録画に主任検事「相当ではない」
-8月24日 23:28
-東海などで非常に激しい雨 15日にかけ前線南下 土砂災害に注意
-9月14日 19:20
-【詳細】中部電力 調査委報告書“極めて特異な考え方”指摘
-9月14日 19:07
+超党派議連 ICC制裁受け政府に要請“抗議と即時撤回要求を”
+9月14日 20:26
+茂木外相 イエメン外相と電話会談“フーシ派対応で緊密連携”
+9月14日 21:27
+日中友好議連の若手議員が中国外務省幹部と会談“意思疎通を”
+9月14日 21:46
+フィリピン ミンダナオ島 自治政府樹立へ初の議会選挙
+9月14日 22:39
+ネパール土石流 現地で活動のNGO“被災者への長期</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260914de50207</guid><pubDate>Mon, 14 Sep 2026 20:36:30 +0000</pubDate></item><item><title>米上院、ＡＩ企業に安全対策証明義務を検討 「人類滅亡」に警戒感 - Reuters</title><link>https://news.google.com/rss/articles/CBMifEFVX3lxTFA1bnp1dlVtY0JYR2hpVUJEUGpNU2FMWnJYcV8wWlV0clNhMUxTOVVadGlGN205UlhBZTIyaG96QUxuV0t3Z2oxMWJTSGFYMzV4a3VhY1AyellsRURJZEJPRm5YdDBiam45LVgxYlhoRU0zZVpuQmkzUl9GS1Y?oc=5</link><description>[score: 0.888] 米上院、ＡＩ企業に安全対策証明義務を検討 「人類滅亡」に警戒感 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifEFVX3lxTFA1bnp1dlVtY0JYR2hpVUJEUGpNU2FMWnJYcV8wWlV0clNhMUxTOVVadGlGN205UlhBZTIyaG96QUxuV0t3Z2oxMWJTSGFYMzV4a3VhY1AyellsRURJZEJPRm5YdDBiam45LVgxYlhoRU0zZVpuQmkzUl9GS1Y?oc=5</guid><pubDate>Mon, 14 Sep 2026 18:59:23 +0000</pubDate></item><item><title>前期は最高益の在京キー局4社､第1四半期は大幅減益…足元の決算に透ける｢放送収入依存｣の現状 | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957516?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.888] INDEX
+予想していた以上に尾を引きそうだ――。
+在京キー局5社の2027年3月期の第1四半期（4～6月期）決算が出そろった。前26年3月期は、人権問題のあったフジ・メディア・ホールディングス（HD）を除き、軒並み過去最高の営業利益をたたき出していた。
+今期もその勢いが続くかと思いきや、「中東情勢不安が長引き、企業からの広告収入が減った」（ある局の財務担当幹部）。
+その結果、各社の第1四半期の営業利益は、赤字から黒字に復調したフジ・メディアHD以外は前年同期比で大きく数字を落とした。日本テレビHDが36.6％減、TBSHDが43.0％減、テレビ朝日HDが48.0％減、テレビ東京HDが53.1</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957516?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Mon, 14 Sep 2026 20:42:07 +0000</pubDate></item><item><title>iOS27がいよいよ今夜配信開始！日本ユーザーが押さえておきたい新機能 - iPhone Mania</title><link>https://iphone-mania.jp/ios-605942/</link><description>[score: 0.890] iOS27がいよいよ今夜配信開始！日本ユーザーが押さえておきたい新機能 - iPhone Mania Appleの「iPhone18 Pro」「iPhone Duo」の発表に続き、待望のiOS27が今夜正式配信されます。日本時間では9月15日午前2時頃からアップデートが可能になる見込みです。 iOS27はiPhone11以降のモデルに対応しますが、Apple Intelligence関連機能を利用するにはiPhone15 Pro / iPhone15 Pro Max / iPhone16以降のデバイスが...</description><guid isPermaLink="false">https://iphone-mania.jp/ios-605942/</guid><pubDate>Mon, 14 Sep 2026 17:45:39 +0000</pubDate></item><item><title>「中華圏の大問題」になっていた沖縄県知事選</title><link>https://ysd.theletter.jp/posts/b23c7c28-2e9f-4159-b8c3-a5a40c24464f</link><description>[score: 0.893] 「中華圏の大問題」になっていた沖縄県知事選
+ご存知の通り、9月13日の沖縄県知事選は古謝玄太さんが40万票以上を獲得、現職の玉城デニーさんを大差で破りました。選挙結果の分析はいろいろあるでしょうが、それは中国ルポライターの私の仕事じゃありません。だって私、こういうときにまず中国と台湾を見るからです。
+今回の沖縄県知事選は、非常に「変な選挙」でした。理由は中華圏（欧米メディアの中国語版含む）からの異常な関心の高さです。
+選挙後にこれだけ中国語で論評が出る日本の首長選なんて、都知事選でもまずないぞ？ この24時間で出た興味深いやつを、以下紹介していきましょう。
+敗れた駒に興味はない中国
+↑題名訳「</description><guid isPermaLink="false">https://ysd.theletter.jp/posts/b23c7c28-2e9f-4159-b8c3-a5a40c24464f</guid><pubDate>Mon, 14 Sep 2026 18:25:35 +0000</pubDate></item><item><title>AI開発「減速」は可能なのか？ 激しい競争と「中国リスク」が壁に</title><link>https://www.afpbb.com/articles/-/3652820</link><description>[score: 0.893] AI開発「減速」は可能なのか？ 激しい競争と「中国リスク」が壁に
+このニュースをシェア
+【9月14日 AFP】目まぐるしいスピードで進む人工知能（AI）開発のペースをめぐり、主要企業のトップらが減速を呼びかけ始めている。しかし、業界内での激しい競争や米政府による難色、さらには地政学的要因から、実際に減速させることは容易ではない。
+■AI界のリーダーらが提案する内容とは？
+アンソロピックのダリオ・アモデイ最高経営責任者（CEO）は12日、AIによって生じうる潜在的なリスクをより明確に理解するため、協調してAI開発のペースを落とすよう呼びかけた。
+この提案に対し、オープンAIのサム・アルトマンCE</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3652820</guid><pubDate>Mon, 14 Sep 2026 15:13:47 +0000</pubDate></item><item><title>自民党役員人事 内閣改造 政策推進でポスト詰めの調整</title><link>https://news.web.nhk/newsweb/na/nd-20260914de50208</link><description>[score: 0.893] 高市総理大臣は16日、自民党の役員人事を、17日、内閣改造を行う方針です。一連の人事では政権の骨格が維持される見通しで、重要政策を推進していく体制を構築する観点から残るポストについて詰めの調整を進める…
+あわせて読みたい
+進駐軍コーラス隊 日本人との知られざる交流
+9月11日 17:39
+歴史を変えるのはあなた？立体地図で“遺跡大発見時代”が到来
+9月12日 19:39
+トランプ大統領が会談に意欲 北朝鮮どう出るか
+9月14日 16:16
+千葉豪雨1か月 都市型水害とどう向き合う?
+9月14日 18:29
+消費税減税で大綱来週決定へ 国会審議備え担当閣僚新設も検討
+9月12日 5:27
+中道 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260914de50208</guid><pubDate>Mon, 14 Sep 2026 20:07:26 +0000</pubDate></item><item><title>各党支持率「自民党」35.9％ 「支持なし」37.6％ NHK世論調査 | NHKニュース</title><link>https://news.web.nhk/newsweb/na/nd-20260914de50075</link><description>[score: 0.893] 9月の各党の支持率です。
+「自民党」が35.9％、「日本維新の会」が2.3％、「国民民主党」が2.8％、「中道改革連合」が1.2％、「立憲民主党」が3.7％、「参政党」が2.5％、「公明党」が2.5…
 沖縄県知事選 初当選の古謝氏が一夜明け抱負
-9月14日 19:28
-カナダ EUと経済協力で新構想検討か 米有力紙報道
-9月14</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260914de50045</guid><pubDate>Mon, 14 Sep 2026 11:15:44 +0000</pubDate></item><item><title>繰り返し発生する人類滅亡物語（AI脅威論について）</title><link>https://note.com/cjdbx883/n/nd809d7203ee2</link><description>[score: 0.886] 人類の歴史を振り返ると、「自分たちが生み出した技術によって、いつか自分たちが脅かされるのではないか」という不安が周期的に発生している。特に興味深いのが、1920年代、1950年代、1980年代、そして2020年代である。約30年～40年周期で、人類滅亡物語が発生している。これ、私が勝手に発見して、仮説として主張しているだけだが・・・ それぞれ恐怖の対象は異なるが、共通しているのは、新しい技術が急速に社会へ浸透する一方、人間の倫理や政治制度、社会の理解が追いついていないことだ。だいたいこのパターンだ。そしてその不安を、最も敏感に映してきたのが小説や映画だ。 1920年代 続きをみる</description><guid isPermaLink="false">https://note.com/cjdbx883/n/nd809d7203ee2</guid><pubDate>Mon, 14 Sep 2026 10:26:05 +0000</pubDate></item><item><title>「危険コマンド停止率、AIは89％、人間だと14％」　Claude Codeが「自動モード」をデフォルトにした理由</title><link>https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news018.html</link><description>[score: 0.886] 「危険コマンド停止率、AIは89％、人間だと14％」 Claude Codeが「自動モード」をデフォルトにした理由 「危険コマンド停止率、AIは89％、人間だと14％」 Claude Codeが「自動モード」をデフォルトにした理由：「有害な操作」の承認は、手動の方が2倍多い（1/2 ページ） Anthropicは「Claude Code」のデフォルトモー... misshiki Claude%20Code Claude Code、自動モードをデフォルト化。1053人の実験で危険コマンド停止率は人間13.6％、AI89％。深刻な意図しない操作も手動6.3％に対し自動2.4％。</description><guid isPermaLink="false">https://atmarkit.itmedia.co.jp/ait/articles/2609/11/news018.html</guid><pubDate>Mon, 14 Sep 2026 05:53:34 +0000</pubDate></item><item><title>米トランプ大統領、広がるAI規制論に反論　「中国へのリードを維持したい」</title><link>https://www.itmedia.co.jp/aiplus/article/2609/14/2000001449/</link><description>[score: 0.886] 米トランプ大統領、広がるAI規制論に反論 「中国へのリードを維持したい」（1/2 ページ）
-米国のドナルド・トランプ大統領は9月13日（現地時間、以下同）、現在AI業界に広がっている規制論に対しての意見を求められた際、「われわれはAIで中国をリードしており、その状態を維持したい」「ガードレールを設けることはできるが、実際に起こらないことを議論に持ち出す人々がいる」と述べ、規制論者たちをけん制した。米Reutersや米Fox Newsなど複数メディアが報じた。
-8日以降、米Anthropicや米OpenAIの従業員らがAIの開発減速を求める声を相次いでXなどに投稿していた。その後、12日にダリオ</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2609/14/2000001449/</guid><pubDate>Mon, 14 Sep 2026 06:12:22 +0000</pubDate></item><item><title>自作PC民が会社支給PCを使ったら「始業前に出社して起動だけ済ませる必要がある」という結論になった→設備更新の提案が却下される職場がしんどい</title><link>https://togetter.com/li/2745459</link><description>[score: 0.886] 自作PC民が会社支給PCを使ったら「始業前に出社して起動だけ済ませる必要がある」という結論になった→設備更新の提案が却下される職場がしんどい ベンジャミンLAB @PCjank 【悲報】自作PC民、会社支給PCを使った結果 ①朝一番、PCの電源を入れる ②起動だけで8分かかる ③よし使うぞ、という瞬間にWindows Updateが始まる ④再起動でさらに10分溶ける ⑤家の自作PCなら3秒で立ち上がるのに ⑥「重いですね」と同僚に言うと ⑦「昔からこうだから」と諦められてる ⑧提案書を...</description><guid isPermaLink="false">https://togetter.com/li/2745459</guid><pubDate>Mon, 14 Sep 2026 10:31:11 +0000</pubDate></item><item><title>AIエージェントは24時間働ける、だが本当にそうすべきか</title><link>https://forbesjapan.com/articles/detail/104712?s=ns</link><description>[score: 0.887] エージェント型AIの爆発的な広がりが、仕事に対する私たちの見方を変えることは誰もがわかっていた。だが、それから数年が経ったいま、あらゆる業務のほぼすべての詳細を突然マシンに委ねられるようになったときに何が起こるのか、その全貌が明らかになりつつある。コーディング、ホワイトペーパーの執筆、スケジュール管理、プロジェクトのタイムライン作成。AIはこれらすべてをこなせる。では、何が起きるのか。
-まず見えてきた大きなトレンドは、これに追いつかなければならない人間側の疲弊だ。
-ブルームバーグのイシー・ラポウスキーは、新しいモデルのハッキング能力についていかなければならない人々が直面している燃え尽き症候群（</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104712?s=ns</guid><pubDate>Mon, 14 Sep 2026 08:14:13 +0000</pubDate></item><item><title>AI検索最適化（AEO/GEO）がもたらす「複利効果」</title><link>https://forbesjapan.com/articles/detail/104721?s=ns</link><description>[score: 0.888] AI検索において早期に可視性を確保した企業は、2000年代初頭、Googleの黎明期にSEOをいち早く取り入れた企業と同じような複利効果の優位性を得るだろうと私は考えている。
-興味深いのは、ChatGPT、Claude、Gemini、Perplexityなどの大規模言語モデル（LLM）が検索エンジン化しつつあるという事実そのものではなく、これらのシステム内での早期の可視性が、後々のさらなる可視性を生み出す土壌をつくり出すという点である。
-現在、コンテンツはどのように作られているのか
-市場概観をまとめる創業者、比較ページを準備するマーケター、業界を調査するアナリスト、あるいはドラフトを組み立てる</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104721?s=ns</guid><pubDate>Mon, 14 Sep 2026 08:44:43 +0000</pubDate></item><item><title>[入門] AI駆動開発の生産性を維持する『IRV』という考え方</title><link>https://qiita.com/ShigemoriMasato/items/0a7f44f0f554c8e4a9b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.888] 「コードが動いた。だから仕事は終わり」——そう考えているなら、この記事は必要ないかもしれません。
-しかし、その速さのツケを数か月後に払うのは、アーキテクトとテックリードです。変更のたびAIに大量のコードを読ませ、影響範囲を追い、実装の整合性を膨大なトークンとコスト消費して回収する。そんな開発を「AIで生産性が上がった」と呼べるでしょうか。
-いま責任ある立場にいる方だけでなく、将来アーキテクトやテックリードを目指す方にも読んでほしいテーマです。 サイクロマティック複雑度がコード内の分岐を測るなら、IRVは「たった1つの変更のために、どれだけ広い範囲を読まされるのか」を見ます。AI駆動開発を使い捨</description><guid isPermaLink="false">https://qiita.com/ShigemoriMasato/items/0a7f44f0f554c8e4a9b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 14 Sep 2026 08:30:45 +0000</pubDate></item><item><title>沖縄県知事選の結果を誤読してはならない､県民の民意の｢我慢｣を｢同意｣と錯覚すれば日本の国家統合の基盤が揺らぐ | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/958028?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.889] コンテンツブロックが有効であることを検知しました。
-このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
-なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/958028?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Mon, 14 Sep 2026 10:35:41 +0000</pubDate></item><item><title>OpenAI、Agents APIをパブリックベータ公開 ——Codexの実行基盤でクラウドエージェントを構築 | gihyo.jp</title><link>https://gihyo.jp/article/2026/09/openai-agents-api-public-beta</link><description>[score: 0.890] OpenAI、Agents APIをパブリックベータ公開 ——Codexの実行基盤でクラウドエージェントを構築 | gihyo.jp OpenAIは9月10日、クラウド上でAIエージェントを構築・実行する「Agents API」をパブリックベータとして公開した。Codexを支えるエージェントの実行基盤をAPI経由で提供し、モデルの呼び出しやツール利用の制御、... misshiki OpenAI%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0Co</description><guid isPermaLink="false">https://gihyo.jp/article/2026/09/openai-agents-api-public-beta</guid><pubDate>Mon, 14 Sep 2026 07:54:01 +0000</pubDate></item><item><title>韓国大統領の支持率、過去最低の33％ 住宅政策や人事に不満 - Reuters</title><link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQZFVrai03Qk1rZy1maGVQcm1FRVR2b05FUTNBX0NIQk1zZDdQUi1BTEtFZXpDcVkxQmdQM2c0YnZkdlFuUVluYkJTTV8zSjF5RFB0WmJsN2RRLWhVYkhleFVDZTZ1TUQ0RERtWFM1ajdJM3k1ZzJtNkp5RlF1ZFFmclpWWmE?oc=5</link><description>[score: 0.892] 韓国大統領の支持率、過去最低の33％ 住宅政策や人事に不満 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxQZFVrai03Qk1rZy1maGVQcm1FRVR2b05FUTNBX0NIQk1zZDdQUi1BTEtFZXpDcVkxQmdQM2c0YnZkdlFuUVluYkJTTV8zSjF5RFB0WmJsN2RRLWhVYkhleFVDZTZ1TUQ0RERtWFM1ajdJM3k1ZzJtNkp5RlF1ZFFmclpWWmE?oc=5</guid><pubDate>Mon, 14 Sep 2026 09:46:56 +0000</pubDate></item><item><title>高市内閣支持率53％ 不支持31％ NHK世論調査</title><link>https://news.web.nhk/newsweb/na/nd-20260914de50073</link><description>[score: 0.893] NHKの世論調査によりますと、高市内閣を「支持する」と答えた人は、8月の調査と変わらず53％だったのに対し、「支持しない」と答えた人は2ポイント下がって31％でした。
-【リンク】NHK世論調査
-…
-沖縄県知事選 初当選の古謝氏が一夜明け抱負
-9月14日 19:28
+9月14日 22:01
 沖縄県知事選挙 新人の古謝玄太氏が初当選 現職ら抑える
 9月14日 8:06
+【解説】沖縄県知事選挙 古謝氏の勝因は? 高市政権への影響は?
+9月13日 22:33
 沖縄県知事選挙 出口調査の結果は
 9月13日 20:01
 “令和のミスター円”円安トレンド変えるには？【経済コラム】
 逆風のコンビニ 服に活路？
-進駐軍コーラス隊 日本人との知られざる交流
-落合陽一さんに聞く“新仕事論”
-千葉豪雨でマンション地下設備が浸水</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260914de50073</guid><pubDate>Mon, 14 Sep 2026 10:17:52 +0000</pubDate></item><item><title>AIに人類を滅亡させる方法を聞いてみた…4つのAIモデルはこう答えた</title><link>https://www.businessinsider.jp/article/2609-how-ai-could-kill-humanity-chatbot-responses/</link><description>[score: 0.893] - AI研究者は、AIが人類に危害を与えたり、滅亡させたりする可能性があると指摘する。
-- そこで、4つのAIモデルに「どうすれば人類を滅亡させられるのか」と尋ねてみた。
-- すると、AIそのものよりも、人間によるAIの悪用の方が差し迫ったリスクだと、どのAIモデルも答えた。
-AIが人類に危害を与えたり、滅亡させたりする可能性があるのではないか――。私たちが日頃使っているチャットボットを開発する研究者たちの間で、このような懸念がますます高まっている。そこで私たちは、最も広く利用されているAIツール4つに、AIによる「人類滅亡」がどのようなものになり得るか、尋ねてみた。
-私たちは、オープンAI（</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-how-ai-could-kill-humanity-chatbot-responses/</guid><pubDate>Mon, 14 Sep 2026 10:02:21 +0000</pubDate></item><item><title>生成AIの使い方は「呪文」から「要件定義」へ ― 実務で踏んだ地雷と対策</title><link>https://qiita.com/masazero/items/145cec6aa549c0fd9ef2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.894] はじめに
-生成AIの記事はもう飽きるほどあります。それでも書こうと思ったのは、社内向けに利用ガイドを書いたときに気づいたことがあったからです。
-研修を受けた人に話を聞くと、みんな一様に「知っている」と言うのです。ChatGPTも触ったことがある、Copilotも入っている、と。ところが「業務で何に使っていますか」と聞くと、途端に歯切れが悪くなる。せいぜい調べ物に使う程度で、手順書を書かせたことも、設定をレビューさせたこともないという人が大半でした。
-知識と実践の間に、思ったより深い溝があるようです。
-私自身、20年近くインフラ構築をやってきて、生成AIを本格的に業務で使い始めたのは比較的最近で</description><guid isPermaLink="false">https://qiita.com/masazero/items/145cec6aa549c0fd9ef2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 14 Sep 2026 08:30:45 +0000</pubDate></item><item><title>開発減速の声受け「世界のAI関連株」が同時急落　孫正義の資産は1.2兆円減</title><link>https://forbesjapan.com/articles/detail/104727?s=ns</link><description>[score: 0.896] OpenAIの主要投資家であるソフトバンクグループの株価がアジア市場で10％以上下落し、9月14日の世界市場における主要な人工知能（AI）関連株の急落を牽引した。これは、アンソロピックやOpenAIといった主要研究所から開発ペースの減速を求める声が高まるなか、急速な技術発展が人類に存亡の危機をもたらす可能性があるとの警告が広がったことによる。
-米国株先物は9月14日早朝に下落し、ハイテク株比率の高いナスダック先物指数が1.6％安となったことが主導した。
-AI半導体大手エヌビディアの株価は寄り付き前取引で2.13％安の213.84ドルとなり、競合の半導体メーカーであるAMD、インテル、クアルコム</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104727?s=ns</guid><pubDate>Mon, 14 Sep 2026 10:42:41 +0000</pubDate></item><item><title>生成AIが書いたドキュメントを読みたくない</title><link>https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.896] 株式会社ブレインパッドプロダクト開発部でRtoaster GenAIの開発をしている依田です。
-Claude CodeにDesign docやPRを書かせていて、「情報量は多いのに、何を決めたのかがなかなか頭に入ってこない」と感じたことはないでしょうか。私は何度もあります。読んでいるあいだずっと気を張っていないと、一番知りたい結論を読み落としてしまう。あの独特の疲労感の正体を、実際のGitHub PRを使って確かめてみました。
-対象読者
-- Claude CodeなどのAIエージェントに設計書やPRを書かせている方
-- Skillやプロンプトの設計を見直したい方
-- 生成AIが書いたドキュメン</description><guid isPermaLink="false">https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 14 Sep 2026 08:30:45 +0000</pubDate></item><item><title>AIで誰もがコーダーに──ビジネスリーダーが知るべき5つの変化</title><link>https://forbesjapan.com/articles/detail/93336?s=ns</link><description>[score: 0.896] CTOとして駆け出しの頃、私は定期的にオフィスで丸1日などの時間を確保し、一気にコードを書き上げては、エンジニアに渡して検証、統合、本番用リポジトリへのコミット（そしてその後の保守）を任せていた。当時、私がコードを書き上げると言えば、1行ずつ手でタイプする作業だった。いまやAIによって、誰もがコーダーになった。従来の意味ではないが、自然言語でAIに指示し、好きな言語でコードを生成させられるという意味においてである。当初の生成コードは明らかに出来が悪かったが、いまでは品質が劇的に向上した。Anthropicをはじめ複数の業界幹部が、将来、自社のコードの相当部分がAI生成になると見込んでいると表明</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/93336?s=ns</guid><pubDate>Mon, 14 Sep 2026 10:42:41 +0000</pubDate></item><item><title>Loglass AI Talk #8 「AI時代のソフトウェアエンジニアリングを再定義する夜」イベントレポート｜株式会社ログラス</title><link>https://note.com/loglass_post/n/n0417733ea83f</link><description>[score: 0.897] Loglass AI Talk #8 「AI時代のソフトウェアエンジニアリングを再定義する夜」イベントレポート
-2026年9月7日、ログラス本社・オンライン配信にて「Loglass AI TALK vol.8」を開催しました。
-今回のテーマは「AI時代のソフトウェアエンジニアリングを再定義する夜」。
-AIがコードを書くことが当たり前になったいま、エンジニアリングの本質はどこにあるのか、そしてこれからのエンジニアはどう生きていくのか。
-この問いを軸に、社外から2名のゲストを迎えてパネルディスカッションを行いました。
-登壇者
-パネラー
-和田卓人さん：タワーズ・クエスト株式会社取締役社長
-広木大地さ</description><guid isPermaLink="false">https://note.com/loglass_post/n/n0417733ea83f</guid><pubDate>Mon, 14 Sep 2026 08:54:56 +0000</pubDate></item><item><title>敗北現職「SNS中傷が野放し」　玉城デニー氏陣営、告訴を準備</title><link>https://www.47news.jp/14940309.html</link><description>[score: 0.900] 敗北現職「SNS中傷が野放し」 玉城デニー氏陣営、告訴を準備
-2026年09月14日 17時08分
-沖縄県知事選で敗れた現職玉城デニー氏は13日夜、自身を誹謗中傷する投稿やデマが交流サイト（SNS）上などで横行したとして「ひどいありさまが野放しになっている」と記者団に述べた。陣営幹部はうち一部について、刑事告訴の準備を進める方針。玉城氏は国によるSNS対策を求めた。
-玉城氏側への中傷は、3月に名護市辺野古沖で2人が死亡した船転覆事故後からSNSで飛び交った。知事選期間中には、玉城氏に似た人物が工事車両にひかれるような動画も拡散した。
-玉城氏の選挙事務所によると、11日には玉城氏を装った偽メール</description><guid isPermaLink="false">https://www.47news.jp/14940309.html</guid><pubDate>Mon, 14 Sep 2026 09:30:37 +0000</pubDate></item><item><title>１５万票差つけられた玉城デニーさん、登庁せず会議も欠席…陣営「本人の勝てる感覚と実態に差があった」</title><link>https://www.yomiuri.co.jp/national/20260914-GYT1T00130/</link><description>[score: 0.901] １５万票差つけられた玉城デニーさん、登庁せず会議も欠席…陣営「本人の勝てる感覚と実態に差があった」
-完了しました
-沖縄県民は「県政刷新」を訴えた若きリーダーに沖縄の未来を託した。主要な争点が、米軍普天間飛行場（沖縄県宜野湾市）の名護市辺野古移設の是非から経済振興策に移った１３日の県知事選。過去最多得票で初当選を果たした前那覇市副市長の
-一方、約１５万票の大差をつけられた現職の玉城デニーさん（６６）は１３日夜、支援者が静まりかえった那覇市の事務所で「県民の選択だ」と肩を落とした。一夜明けた１４日午前は県庁に登庁せず、毎週月曜の幹部会議も欠席した。
-過去３回の知事選で自民系候補に大勝してきたオール</description><guid isPermaLink="false">https://www.yomiuri.co.jp/national/20260914-GYT1T00130/</guid><pubDate>Mon, 14 Sep 2026 07:50:27 +0000</pubDate></item><item><title>【速報】沖縄振興予算、3千億円超への増額調整</title><link>https://www.47news.jp/14939980.html</link><description>[score: 0.906] 【速報】沖縄振興予算、3千億円超への増額調整
-2026年09月14日 15時41分
-政府、与党は、沖縄県知事選で新人古謝玄太氏が初当選したのを受け、2027年度の沖縄振興予算について県が求めてきた3千億円超に増やす方向で調整に入った。関係者が14日明らかにした。
-横浜市長選、菅元首相が自民の原沢氏推薦に言及 経済界に支援呼びかける 小泉氏も「横浜の戦い、極めて重要」
-20時10分
-神奈川新聞
-敗北現職「SNS中傷が野放し」 玉城デニー氏陣営、告訴を準備
-17時08分
-共同通信
-【独自】沖縄振興予算3000億超へ調整 辺野古移設「容認」知事当選で
-16時42分
-共同通信
-米国、辺野古移設の支持継</description><guid isPermaLink="false">https://www.47news.jp/14939980.html</guid><pubDate>Mon, 14 Sep 2026 08:32:04 +0000</pubDate></item><item><title>Dario Amodei氏、最先端AIの開発減速を呼びかけ、Musk氏やAltman氏も反応 ──アライメントの確保と第三者評価が論点に</title><link>https://gihyo.jp/article/2026/09/must-pace-the-frontier?utm_source=feed</link><description>[score: 0.907] AnthropicのDario Amodei氏は9月12日、最先端AIの能力向上の速度を抑え、安全対策に取り組む時間を確保するよう呼びかけるブログ
-Elon Musk氏は
-安全対策の時間を確保するための3つの提案
-Amodei氏は開発速度を抑える理由として、AIがより高性能なAIを作り、そのAIがさらに次のAIを作る再帰的自己改善
-ブログが取り上げた事案の一つは、OpenAIのエージェントが評価中にHugging Faceを攻撃したもの。AI評価組織METRの調査報告によると、本来は互いに隔離されるはずのエージェントが、許可されていない掲示板で連絡を取り合い、割り当てられた課題の範囲を外れた攻</description><guid isPermaLink="false">https://gihyo.jp/article/2026/09/must-pace-the-frontier?utm_source=feed</guid><pubDate>Mon, 14 Sep 2026 11:14:40 +0000</pubDate></item><item><title>『米アンソロピックCEO“AI開発ペース減速させる必要” | NHKニュース』へのコメント</title><link>https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/nd-20260913de49934</link><description>[score: 0.907] 『米アンソロピックCEO“AI開発ペース減速させる必要” | NHKニュース』へのコメント ブックマークしました ここにツイート内容が記載されます https://b.hatena.ne.jp/URLはspanで囲んでください Twitterで共有 misshiki Anthropic%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E6%B3%95%E5%BE%8B%E3%81%A8%E5%80%AB%E7%90%86 AIの危険性への懸念は理解できる一方、一社だけ減速しても他社や中国が進めれば競争上不利になる。安全性の議論だけでなく、巨額投資や収益化の限界も背景にあ</description><guid isPermaLink="false">https://b.hatena.ne.jp/entry/s/news.web.nhk/newsweb/na/nd-20260913de49934</guid><pubDate>Mon, 14 Sep 2026 07:54:01 +0000</pubDate></item><item><title>盛り上がる「AI減速」論に「勝手にどうぞ。許可を求めるな」 トランプ政権幹部</title><link>https://www.watch.impress.co.jp/docs/news/2140779.html</link><description>[score: 0.910] ニュース
-盛り上がる「AI減速」論に「勝手にどうぞ。許可を求めるな」 トランプ政権幹部
-2026年9月14日 19:10
-AnthropicやOpenAIが提案するAI開発の「減速(Pacing)」案が注目を集める中、米国の科学技術に関する大統領顧問会議(PCAST)の共同議長であるデビッド・サックス(David Sacks)氏がXの投稿で反論。「どうぞご勝手に(go ahead)。ただし、代わりに好みの規制の枠組みを要求するのは、政治システムに対する脅迫だ」と述べている。
-Dario has written that we need to “pace the frontier,” and S</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2140779.html</guid><pubDate>Mon, 14 Sep 2026 10:23:21 +0000</pubDate></item><item><title>【未経験】勉強する時間がない。それでも今の仕事の中で、ITにつながる経験はつくれる</title><link>https://qiita.com/m__ikeda/items/86a44010e433b1d0081c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.910] 自己紹介
-こんにちは。株式会社PRUMで採用広報を担当している池田です。
-未経験からIT業界を目指している方と話していると、かなりよく聞く共通した悩みがあります。そういった内容を皆さんにシェアしていくので、役立てていただけたらと思います😊
-もしIT業界に興味があるけど、誰に相談したらいいのかわからないという場合は一人で抱え込まずに声をかけていただけたらと思います。
-＞＞未経験からIT業界へ挑戦した職員インタビューはこちら
-「IT業界には興味がある。でも、仕事が終わるころにはクタクタで、そこから勉強する余裕なんてない」
-働きながら転職先を探して、ITについて調べて、プログラミングも勉強する。やっ</description><guid isPermaLink="false">https://qiita.com/m__ikeda/items/86a44010e433b1d0081c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 14 Sep 2026 08:30:45 +0000</pubDate></item><item><title>アンソロピックはIPO上場先に、ナスダックを選択した</title><link>https://www.businessinsider.jp/article/2609-anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns/</link><description>[score: 0.911] - アンソロピックは、予定しているIPOの取引所にナスダックを選んだ。スペースXが最近この取引所に上場したからだ。
-- ナスダックはテクノロジー企業のIPOで成功を重ね、規模の大きな上場案件におけるNYSEの歴史的な優位に挑んでいる。
-- アンソロピックのIPO計画は、元アンソロピック社員が主導するAIのセキュリティーリスクをめぐる議論が続くなかで浮上した。
-アンソロピック（Anthropic）はIPOの可能性を見据え、ナスダック（Nasdaq）を選定したと、計画を知る人物が明らかにした。
-事情に詳しい関係者によると、10月の上場を目指してきた同社は、ナスダックにまたしても大きな成果をもたらし</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-anthropic-selects-nasdaq-for-ipo-amid-ai-risk-concerns/</guid><pubDate>Mon, 14 Sep 2026 10:02:21 +0000</pubDate></item><item><title>知事選敗北で「オール沖縄は終焉」　沖縄国際大の野添文彬教授 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOJC140KZ0U6A910C2000000/</link><description>[score: 0.927] この記事は会員限定記事です
-知事選敗北で「オール沖縄は終焉」 沖縄国際大の野添文彬教授
-[会員限定記事]
-13日投開票の沖縄県知事選で元那覇市副市長の古謝玄太氏が現職の玉城デニー氏らを過去最多得票で下し、勝利した。12年ぶりに保守県政へ交代する。『沖縄県知事』などの著書がある沖縄国際大学の野添文彬教授（日本外交史）に分析を聞いた。
-――古謝氏の大勝の要因をどのようにみていますか。
-「米軍普天間基地（同県宜野湾市）の名護市辺野古移設の問題を巡る県と政府の対立、工事が進むなかで反対を続けることへの閉塞感...
-2026年9月13日投開票の沖縄県知事選挙では無所属の新人・古謝玄太氏が初当選しました。</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOJC140KZ0U6A910C2000000/</guid><pubDate>Mon, 14 Sep 2026 10:00:32 +0000</pubDate></item></channel></rss>
+進駐軍コーラス隊 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260914de50075</guid><pubDate>Mon, 14 Sep 2026 19:35:03 +0000</pubDate></item><item><title>エンジニア副業、月40時間で手取りバイト以下だった話と、4年で変えた案件の選び方</title><link>https://qiita.com/terry_6518/items/fa1ff20303c1a36626f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.894] こんにちは、フロントエンドエンジニアのてりーです。
+はじめに
+エンジニアの副業について書きます。
+僕は今、都内の事業会社でフロントエンドのリードをやりながら、副業を4年ほど続けています。
+ただ、この記事は「副業で稼げます！」という話ではないです。
+月40時間働いて、手取りがバイト以下だった時期の話から始めます。
+正直これを書くのはけっこう恥ずかしいんですが、当時の自分がいちばん知りたかったのは成功例ではなく「何をミスると死ぬのか」だったので、そこを中心にまとめます。
+書く順番はこうです。
+1. 月40時間で手取り3万円だった話（失敗）
+2. なんでそうなったのか（原因）
+3. エンジニア副業の</description><guid isPermaLink="false">https://qiita.com/terry_6518/items/fa1ff20303c1a36626f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 14 Sep 2026 20:36:54 +0000</pubDate></item><item><title>子育て世帯「フラット35」金利引き下げ拡大を検討へ 国交省</title><link>https://news.web.nhk/newsweb/na/nd-20260914de50204</link><description>[score: 0.895] 長期固定型の住宅ローン「フラット35」について、国土交通省は子育て世帯が中古住宅を購入する際に金利を引き下げる支援策を強化する方針で、来年度の概算要求に必要な予算を盛り込みました。
+「フラット35…
+マンション「修繕積立金」が大幅引き上げ？背景と対策は
+新築マンション高騰“投機的取引抑制を”国交省が税制改正要望
+9月2日 10:59
+住宅ローン変動金利 大手2行が9月からの引き上げを発表
+8月31日 22:47
+中古マンション価格 東京23区は2か月連続下落 都心は頭打ちか?
+8月24日 17:49
+金融庁 超長期の住宅ローン審査を重点的にモニタリング
+9月8日 6:30
+千葉豪雨でマンション</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260914de50204</guid><pubDate>Mon, 14 Sep 2026 20:36:30 +0000</pubDate></item><item><title>景気よくなっている実感「ある」15％「ない」78％ NHK世論調査</title><link>https://news.web.nhk/newsweb/na/nd-20260914de50076</link><description>[score: 0.898] 景気拡大の期間が戦後最長になったという見方もある中、NHKの世論調査で、景気がよくなっている実感があるか尋ねたところ、「ある」と答えた人が15％だったのに対し、「ない」と答えた人は78％に上りました。…
+NHK世論調査 調査方法を詳しく
+9月14日 16:31
+各党支持率「自民党」35.9％ 「支持なし」37.6％ NHK世論調査
+9月14日 19:01
+政府・与党 沖縄県知事選 古謝氏当選で辺野古移設推進
+9月14日 5:30
+自民 維新 税制調査会幹部 消費税減税の大綱案了承 閣議決定へ
+9月14日 22:21
+沖縄県知事選 初当選の古謝氏が一夜明け抱負
+9月14日 22:01
+【解説】沖</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260914de50076</guid><pubDate>Mon, 14 Sep 2026 20:36:30 +0000</pubDate></item><item><title>GPT-Live-1 をPython から使ってみる #1 - 音声AIとコールセンターのこれから</title><link>https://qiita.com/kataoka_se_sionic/items/b4b00bc39a0ed1fbd73c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.902] はじめに
+生成AIの活用領域は、テキストチャットから音声へと広がっています。
+特にコールセンターやカスタマーサポートでは、
+- オペレーター不足
+- 問い合わせ件数の増加
+- 24時間対応へのニーズ
+- 応対品質の均一化
+- FAQ・マニュアル検索の効率化
+といった課題から、AIを活用した顧客対応への期待が高まっています。
+市場の背景と関連する技術に関しては、以下の動画も参考になりました。
+デロイトの日本版「グローバルコンタクトセンターサーベイ2024」では、海外企業全体の 83%が2025年までに生成AIをコンタクトセンター業務へ本格導入済み、または導入予定としています。デロイトは生成AIを</description><guid isPermaLink="false">https://qiita.com/kataoka_se_sionic/items/b4b00bc39a0ed1fbd73c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 14 Sep 2026 20:36:54 +0000</pubDate></item><item><title>ＥＵ、15歳未満のＳＮＳ・ＡＩチャットボット利用禁止を提案へ（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE11VExrYUQyYk1qNDZvZlFjdDgzN3Q5cWlSbEdCVWZuajY1VTdTZ0lneUNNeVE4d0ZSUzFXQlpuOFFWV1FHLXlnQTJxY2NfSlFFd2V6WmN3Y2xudjhrZlVHQWdXcFFNNGZiV0UxNVV2aDBJSHNyUUctRlZaa3ZaZjA?oc=5</link><description>[score: 0.902] ＥＵ、15歳未満のＳＮＳ・ＡＩチャットボット利用禁止を提案へ（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE11VExrYUQyYk1qNDZvZlFjdDgzN3Q5cWlSbEdCVWZuajY1VTdTZ0lneUNNeVE4d0ZSUzFXQlpuOFFWV1FHLXlnQTJxY2NfSlFFd2V6WmN3Y2xudjhrZlVHQWdXcFFNNGZiV0UxNVV2aDBJSHNyUUctRlZaa3ZaZjA?oc=5</guid><pubDate>Mon, 14 Sep 2026 21:00:17 +0000</pubDate></item><item><title>LLMのローカル実行ツール「Ollama」v0.34、「ChatGPT」デスクトップアプリに対応／「ChatGPT」（Codex）アプリでオープンモデルを選択可能。ただし……</title><link>https://forest.watch.impress.co.jp/docs/news/2140699.html</link><description>[score: 0.904] ニュース
+LLMのローカル実行ツール「Ollama」v0.34、「ChatGPT」デスクトップアプリに対応
+「ChatGPT」（Codex）アプリでオープンモデルを選択可能。ただし……
+2026年9月14日 17:56
+ローカル環境で大規模言語モデル（LLM）を実行できるデスクトップアプリ「Ollama」が9月5日（米国時間、以下同）、v0.34.0へとアップデートされた。 「ChatGPT」デスクトップアプリとの連携を、「Ollama」アプリから設定できるようになった のが目玉で、使い慣れた「ChatGPT」のワークフローはそのままに、オープンなモデルを動かせる。
+「Ollama」は、「Ge</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2140699.html</guid><pubDate>Mon, 14 Sep 2026 12:59:36 +0000</pubDate></item><item><title>ＥＵ、15歳未満のＳＮＳ・ＡＩチャットボット利用禁止を提案へ - Reuters</title><link>https://news.google.com/rss/articles/CBMiggFBVV95cUxONHpqZzB2M0F5Nm8xd0x4b0U4T0pmOGYyM2t4RTFMd2VwMDZkdlIxcXFacVhadU84V1NLc053X2VIaFRjanVScXdhRUZOOGdNUGh3eGNHeG1uYk5oRWRSUWVtaUtwTUZkUi0wRmlYaUxGYVVPNXVBaFAxaS1KSlVobnZ3?oc=5</link><description>[score: 0.905] ＥＵ、15歳未満のＳＮＳ・ＡＩチャットボット利用禁止を提案へ Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxONHpqZzB2M0F5Nm8xd0x4b0U4T0pmOGYyM2t4RTFMd2VwMDZkdlIxcXFacVhadU84V1NLc053X2VIaFRjanVScXdhRUZOOGdNUGh3eGNHeG1uYk5oRWRSUWVtaUtwTUZkUi0wRmlYaUxGYVVPNXVBaFAxaS1KSlVobnZ3?oc=5</guid><pubDate>Mon, 14 Sep 2026 21:00:17 +0000</pubDate></item><item><title>Claude Code Artifactsとは？ 作ったHTMLをURLで共有できる機能</title><link>https://qiita.com/inoyu-qiita/items/f02c46fa50a78fe54573?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.905] はじめに
+Claude Code Artifactsは、作ったHTMLやMarkdownをURLで見られるページにして、そのまま共有できる機能です。
+これからClaude Codeで、調査結果やチェックリスト、ダッシュボードなどを「自分以外も見られる形」にしたい人向けに、実際の画面を見ながら使い方を紹介します。
+自分は最初、Claude CodeがHTMLを書いてくれる機能だと思っていました。それだけではありませんでした。
+作って、リンクにして、同じURLのまま更新できる。
+そこまでがArtifactsです。
+この記事では、Claude Code 2.1.267
+をClaude Maxで使い、</description><guid isPermaLink="false">https://qiita.com/inoyu-qiita/items/f02c46fa50a78fe54573?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 14 Sep 2026 20:36:54 +0000</pubDate></item><item><title>｢中国版アンソロピック｣智譜AIの1～6月期は売上高が5倍に急増 安い利用料とオープンソース武器に急追 | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/957707?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.906] コンテンツブロックが有効であることを検知しました。
+このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
+なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/957707?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Mon, 14 Sep 2026 21:10:55 +0000</pubDate></item><item><title>「AIで効率化しても仕事が増えるだけ」──月○時間浮かせても報告しない社員たち　広がる“AI版静かな退職”</title><link>https://www.itmedia.co.jp/news/article/2609/14/2000001258/</link><description>[score: 0.909] 「AIで効率化しても仕事が増えるだけ」──月○時間浮かせても報告しない社員たち 広がる“AI版静かな退職” 「AIで効率化しても、給料は増えないし仕事が詰め込まれて忙しくなるだけ。上司には黙っておいて、浮いた時間でこっそりサボる」──とあるエンタメ系企業でPRやマーケティングに携わる20代男性のUさん（仮名）は、最近の働き方についてこう話す。 Uさんの職場では数年前に生成AIの利用が認められ、業務資料も一部入力可能...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2609/14/2000001258/</guid><pubDate>Mon, 14 Sep 2026 20:47:08 +0000</pubDate></item><item><title>犬猿の仲が急接近、AI大手がそろって「減速」訴える不自然さ</title><link>https://www.technologyreview.jp/s/390850/the-ai-industry-has-taken-a-doomer-turn-what-now/</link><description>[score: 0.912] 犬猿の仲が急接近、AI大手がそろって「減速」訴える不自然さ
+サム・アルトマン、イーロン・マスク、デミス・ハサビス——数カ月前まで対立や競合関係にあった面々が、アンソロピックのアモデイCEOが唱える「AI減速」に一斉に賛同した。しかし警鐘を鳴らす発端となったハッキング事件を調べると、賢すぎるモデルではなく訓練に失敗した欠陥モデルの姿が浮かぶ。彼らが本当に急ぐのは、リスク抑制か自社の火消しか。 by Will Douglas Heaven2026.09.15
+- この記事の3つのポイント
+-
+- アンソロピック、オープンAI、ディープマインド、xAIの各トップがLLM開発の減速を異例の一致で訴えた</description><guid isPermaLink="false">https://www.technologyreview.jp/s/390850/the-ai-industry-has-taken-a-doomer-turn-what-now/</guid><pubDate>Mon, 14 Sep 2026 20:54:41 +0000</pubDate></item><item><title>コードを書かない人間がClaude Codeを業務で使う ― 法人営業の設計メモ</title><link>https://qiita.com/topsales_ai/items/cfef9688334d242c8382?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.914] この記事は Zenn にも掲載しています。
+https://zenn.dev/topsalesai/articles/44468d97c13288
+前提
+私はエンジニアではありません。今も現場に立っている法人営業です。プログラムは書けません。
+それでも Claude Code を毎日使っています。コードを書くためではなく、自分の仕事のファイルをまとめて扱うためです。
+この記事は、非エンジニアが Claude Code を業務に入れるときに、どこで詰まって、どう設計したかのメモです。コードは出てきません。
+なぜチャットUIではなくClaude Codeなのか
+最初の半年はブラウザのチャットだけで</description><guid isPermaLink="false">https://qiita.com/topsales_ai/items/cfef9688334d242c8382?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 14 Sep 2026 20:36:54 +0000</pubDate></item><item><title>ＮＹ外為市場＝ドル全面高、ＦＲＢ利上げ観測強まる 円は154円台前半 - Reuters</title><link>https://news.google.com/rss/articles/CBMifEFVX3lxTE0yYjFsTW9rRkRZd19VcmROYUxJUXNrc3cwN0JkY3BmcmppQWdDcjFFOWQ4UTF0TkRLdzloSnNtaExhN0Z4S0lHUDRoS1lxd0JfdXB3NThKTGMwOHVuNlZ6clNVNC1tYmVWUTQ0OHVueDc2cWZnMjFFeC1FNzY?oc=5</link><description>[score: 0.925] ＮＹ外為市場＝ドル全面高、ＦＲＢ利上げ観測強まる 円は154円台前半 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifEFVX3lxTE0yYjFsTW9rRkRZd19VcmROYUxJUXNrc3cwN0JkY3BmcmppQWdDcjFFOWQ4UTF0TkRLdzloSnNtaExhN0Z4S0lHUDRoS1lxd0JfdXB3NThKTGMwOHVuNlZ6clNVNC1tYmVWUTQ0OHVueDc2cWZnMjFFeC1FNzY?oc=5</guid><pubDate>Mon, 14 Sep 2026 19:59:35 +0000</pubDate></item></channel></rss>
