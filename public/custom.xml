@@ -1,83 +1,127 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 16 Sep 2026 23:35:45 +0000</lastBuildDate><item><title>破綻バイオ企業もターゲット、オープンAIが生物学データに投資</title><link>https://www.technologyreview.jp/s/391003/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/</link><description>[score: 0.881] 破綻バイオ企業もターゲット、オープンAIが生物学データに投資
-オープンAI財団が、AIの学習用に「高品質な科学データセット」を作る新たな取り組みを始めた。助成先の一つは、経営破綻したバイオテクノロジー企業の破産手続きで、規制当局への申請資料など通常は営業秘密にあたる文書を買い取る構想だ。生物学データの不足が医療AIの最大のボトルネックになっているとの認識が背景にある。 by Antonio Regalado2026.09.17
-- この記事の3つのポイント
--
-- オープンAI財団が破綻バイオテク企業の規制申請データをAI学習に活用する構想へ資金援助を発表した
-- 医療AIの最大の障壁はデータ</description><guid isPermaLink="false">https://www.technologyreview.jp/s/391003/ai-models-need-more-data-about-biology-and-openai-is-paying-to-create-it/</guid><pubDate>Wed, 16 Sep 2026 21:59:48 +0000</pubDate></item><item><title>米ＦＯＭＣ、利上げを決定：識者はこうみる - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5GcTZaQTl0N0V6X0FzQ2xEZlpnWi1vMTlrMmlVdlZ6VTI5WFVSMHdPcHRzSUdXa3RFUTRUREtDYnVKVmRlWWNlTmp0aVBhUGdPa2R2VHpwazJQUlByRE9XaGtVcXRxQ2tycmVHV0xlNkUweUh6U3JzLWttRUZtQQ?oc=5</link><description>[score: 0.881] 米ＦＯＭＣ、利上げを決定：識者はこうみる Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE5GcTZaQTl0N0V6X0FzQ2xEZlpnWi1vMTlrMmlVdlZ6VTI5WFVSMHdPcHRzSUdXa3RFUTRUREtDYnVKVmRlWWNlTmp0aVBhUGdPa2R2VHpwazJQUlByRE9XaGtVcXRxQ2tycmVHV0xlNkUweUh6U3JzLWttRUZtQQ?oc=5</guid><pubDate>Wed, 16 Sep 2026 21:45:57 +0000</pubDate></item><item><title>カナダがEU初の準加盟国となる「道を開く」、欧州委員長が表明</title><link>https://forbesjapan.com/articles/detail/104851?s=ns</link><description>[score: 0.882] 欧州連合（EU）の執行機関である欧州委員会のウルズラ・フォンデアライエン委員長は16日、カナダをEU初の「準加盟国」として受け入れるための「道を開く」と表明した。
-フォンデアライエン委員長は一般教書演説で、カナダをEU初の準加盟国とする目標に向け、同国のマーク・カーニー首相と協力していきたいと述べた。その上で、EUとカナダの自由貿易協定である包括的経済貿易協定（CETA）から「共通の繁栄と経済安全保障」を実現するための「未来に向けた同盟」へと発展させたいとの意向を示した。この強固な協力関係の具体像について、同委員長は、製造業での協力や「技術同盟」の構築、防衛産業基盤の統合、人工知能（AI）の推</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104851?s=ns</guid><pubDate>Wed, 16 Sep 2026 23:33:15 +0000</pubDate></item><item><title>コソボ元大統領に禁錮25年の実刑判決 戦争犯罪の責任認定</title><link>https://news.web.nhk/newsweb/na/nd-20260917de50709</link><description>[score: 0.883] 旧ユーゴスラビアのコソボのサチ元大統領が、独立をめぐる紛争で市民の殺害や拷問などの戦争犯罪の責任が認められたとして、オランダのハーグにある特別法廷は禁錮25年の実刑判決を言い渡しました。
-ヨーロッ…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 17 Sep 2026 10:58:00 +0000</lastBuildDate><item><title>成長なくして財政の持続可能性は維持できない＝高市首相 - Reuters</title><link>https://news.google.com/rss/articles/CBMiigFBVV95cUxOSUpqcEVCX2dDYVhydVR3cEhTbDdLVGZTNng3SG9BSzVGT0xjdTNEZGV3N25yZWVjSGljdGdZeHFCa2I3WGVhS2NxZmhqa1RGZzQwajZqZTdwakluRWR0NU9IN0toWTV3MUI4OF81RTFlQ1lXeWFWVVQxbzA3bUJ4VDZFWjZUbVNSQVE?oc=5</link><description>[score: 0.884] 成長なくして財政の持続可能性は維持できない＝高市首相 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiigFBVV95cUxOSUpqcEVCX2dDYVhydVR3cEhTbDdLVGZTNng3SG9BSzVGT0xjdTNEZGV3N25yZWVjSGljdGdZeHFCa2I3WGVhS2NxZmhqa1RGZzQwajZqZTdwakluRWR0NU9IN0toWTV3MUI4OF81RTFlQ1lXeWFWVVQxbzA3bUJ4VDZFWjZUbVNSQVE?oc=5</guid><pubDate>Thu, 17 Sep 2026 10:01:21 +0000</pubDate></item><item><title>2026年9月17日のヘッドラインニュース</title><link>https://gigazine.net/news/20260917-headline/</link><description>[score: 0.884] 2026年9月17日のヘッドラインニュース
+松屋の新メニューとして「ほうれん草とカッテージチーズのカレー」が2026年9月22日10時に登場します。まろやかでクリーミーな味わいとスパイシーなソースが絶妙に調和した本格インドカレーに仕上がっているとのこと。価格は税込780円です。
+"野菜仕立て"の本格インドカレーを松屋流で「ほうれん草とカッテージチーズのカレー」発売｜松屋フーズ
+https://www.matsuyafoods.co.jp/whatsnew/menu/177612.html
+ちなみに、過去の同月同日にはこんな記事を掲載していました。
+「マチ★アソビール」作りに向けてとくしまアニメ</description><guid isPermaLink="false">https://gigazine.net/news/20260917-headline/</guid><pubDate>Thu, 17 Sep 2026 10:16:18 +0000</pubDate></item><item><title>【1兆ドル規模の市場へ】勢力図は？／NTTが世界シェア3位／秋田を含む地方分散も？／もうけの仕組みは？／住民と勃発する立地問題のナゼ／バブルなの？巨額の投資は回収できる？／データセンターの建設ラッシュ | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/958535?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.884] コンテンツブロックが有効であることを検知しました。
+このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
+なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/958535?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Thu, 17 Sep 2026 10:23:44 +0000</pubDate></item><item><title>Who Gets to Define the Rules for AI? | Cohere</title><link>https://cohere.com/blog/who-gets-to-define-the-rules-for-ai</link><description>[score: 0.884] Who Gets to Define the Rules for AI? | Cohere misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%B3%95%E5%BE%8B%E3%81%A8%E5%80%AB%E7%90%86 Cohere CEO Aidan Gomez氏、AI安全基準を少数の大手企業だけで決めることに反対。規模ではなく実際の能力・用途でリスクを測り、透明性、独立テスト、公開基準、多国間でのルール策定を提案。</description><guid isPermaLink="false">https://cohere.com/blog/who-gets-to-define-the-rules-for-ai</guid><pubDate>Thu, 17 Sep 2026 06:21:00 +0000</pubDate></item><item><title>林芳正総務相が閣外に　過去3回、総裁選に立候補　閣僚名簿を発表：朝日新聞</title><link>https://www.asahi.com/articles/ASV9J3HSRV9JUTFK017M.html</link><description>[score: 0.885] 19:10
+高市首相、裏金関与の議員「真摯に説明尽くした」
+高市早苗首相は記者会見で、自民党派閥による裏金事件に関与した議員を閣僚に起用したことについて「これまで検察による捜査も行われたほか、それぞれの議員も真摯（しんし）に説明を尽くし、最も厳しかった一昨年の（衆院）選挙でも議席を得て、今年の（衆院）選挙も含めて2回、国民の皆様の審判を受けてきた」と説明した。
+首相は続けて「選挙を経たということで過去に行ったことが『なかったこと』とされるわけではない。しかしながら、実行力重視の観点から、いずれの閣僚も内閣の一員として必要な政策能力を持つ方なので、襟を正して重責ある公務に臨んでほしい」と述べ、世</description><guid isPermaLink="false">https://www.asahi.com/articles/ASV9J3HSRV9JUTFK017M.html</guid><pubDate>Thu, 17 Sep 2026 07:41:27 +0000</pubDate></item><item><title>OpenAI、モデルのミスアライメントを報告する枠組みを公表 ——6件のレポートも公開</title><link>https://gihyo.jp/article/2026/09/openai-model-misalignment?utm_source=feed</link><description>[score: 0.885] OpenAIは9月16日、AIモデルが開発者や利用者の意図に反する振る舞いをする
+OpenAIによると、これまでは複数の事例をまとめるまで待ったり、新モデルの安全性を説明するシステムカードに盛り込んだりしており、開示は場当たり的で、頻度も十分ではなかった。新たな枠組みでは、未知の発生メカニズムや既知の振る舞いの重要な変化、安全性や対策に関する前提を問い直す知見を優先して報告する。訓練・
+今回の6件には、誤りを隠す指示をモデル自身が書き残した例や、作業上の障害を乗り越えるために許可のない操作を行った例が含まれる。OpenAIは、これらのレポートについて、モデル全体での発生頻度を示すものではなく、</description><guid isPermaLink="false">https://gihyo.jp/article/2026/09/openai-model-misalignment?utm_source=feed</guid><pubDate>Thu, 17 Sep 2026 09:17:48 +0000</pubDate></item><item><title>すばやく結論にたどりつく「地頭」の良い人が実践している2つの習慣</title><link>https://forbesjapan.com/articles/detail/104583?s=ns</link><description>[score: 0.885] 頭をフルに使うような難しいタスクを、あたかも簡単なことのようにこなす人がいる。複雑な説明を一度聞いただけで理解し、他の人々がまだ問題の核心を把握しようとしている間に、すでに筋の通った結論にたどりつくような人だ。当然ながら、そうした人は生まれつき処理能力が高いと思われがちだ。
+ただし、こうした能力に関する研究からは、別の事実が見えてくる。複雑な分野で優れた成果を上げる人と、そうでない人を心理学者が比較した場合、その違いは生まれつきの処理速度によるものではなく、自分の知識をどのように整理しているか、知識が不足している部分をいかに正確に把握できるかに帰着することが多い。
+この2つは、いずれも生まれ持</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104583?s=ns</guid><pubDate>Thu, 17 Sep 2026 09:25:26 +0000</pubDate></item><item><title>Claude、チャットとCoworkを統合　新機能Claude Docs/Slidesも</title><link>https://www.watch.impress.co.jp/docs/news/2141615.html</link><description>[score: 0.886] ニュース
+Claude、チャットとCoworkを統合 新機能Claude Docs/Slidesも
+2026年9月17日 10:33
+Anthropicは16日(米国時間)、「Claude Cowork」と「チャット」を1つの「Claude」に統合すると発表した。Coworkは大規模な作業のために選択するスペースとなっていたが、今後はユーザーがチャットとCoworkのモードを選ぶ必要がなく、通常の会話からClaude自身が必要なツールを判断し、既存の文脈やスキル、コネクタなどを活かしてどの会話からでも利用可能になる。
+Pro(月額20ドル)とMax(100ドルから)プラン向けに、今後数週間で、</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2141615.html</guid><pubDate>Thu, 17 Sep 2026 01:49:37 +0000</pubDate></item><item><title>インフレと闘うFRBが、さらなる利上げを行う可能性に市場はおびえている</title><link>https://www.businessinsider.jp/article/2609-stock-market-today-selloff-fed-interest-rate-hikes-outlook/</link><description>[score: 0.886] - 市場は、3年ぶりの利上げを当初は難なく受け止めたように見えたが、取引終盤に投資家は動揺した。
+- FRBは予想通り利上げしたが、ケビン・ウォーシュはインフレが依然として大きなリスクだと示した。
+- ダウは630ポイント下落し、債券利回りは数週間にわたる上昇を再開した。
+16日（水・米時間）の利上げを市場はうまく受け止めているように見えたが、突然そうではなくなった。
+3年ぶりとなるFRBによる利上げを受け、トレーダーが中央銀行は物価を抑制するために必要なことを実行する意思があると受け止めたことで、株価はおおむね上昇し、主要な債券利回りは小幅に低下した。
+しかし、ケビン・ウォーシュが発言すると</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-stock-market-today-selloff-fed-interest-rate-hikes-outlook/</guid><pubDate>Thu, 17 Sep 2026 04:01:12 +0000</pubDate></item><item><title>AGIの技術的・社会的課題を解決するための組織「DeepMind Institute」をGoogle DeepMindが設立</title><link>https://gigazine.net/news/20260917-deepmind-institute/</link><description>[score: 0.887] AGIの技術的・社会的課題を解決するための組織「DeepMind Institute」をGoogle DeepMindが設立
+Google DeepMindが汎用人工知能(AGI)の技術的課題および社会的課題を解決するための組織「DeepMind Institute」を設立しました。
+DeepMind Institute
+https://institute.deepmind.com/
+Introducing the DeepMind Institute — DeepMind Institute
+https://institute.deepmind.com/essays/introducing-</description><guid isPermaLink="false">https://gigazine.net/news/20260917-deepmind-institute/</guid><pubDate>Thu, 17 Sep 2026 03:45:08 +0000</pubDate></item><item><title>iPhoneで撮影した写真がAI生成されていない「本物」だと証明する「Apple Reference Image」はどういう仕組みなのか？</title><link>https://gigazine.net/news/20260917-apple-reference-image/</link><description>[score: 0.887] 生成AIによって写実的な画像を作成できるようになり、写真の見た目だけで実際に撮影されたものかどうかを判断することは難しくなっています。Appleは2026年9月10日に開催された新製品発表イベント「Surprise and shine.」で、iPhone 18 Pro／Pro Maxと共に、iPhoneで撮影された写真が実際のカメラセンサーの記録に基づくことを示す新技術「Apple Reference Image」を発表しました。このApple Reference Imageについて、Appleのセキュリティエンジニアリング＆アーキテクチャチームとカメラ・写真チームが詳しく解説しています。 続</description><guid isPermaLink="false">https://gigazine.net/news/20260917-apple-reference-image/</guid><pubDate>Thu, 17 Sep 2026 10:06:16 +0000</pubDate></item><item><title>Claude Codeを「使うほど育つ」AI秘書にするノウハウ</title><link>https://speakerdeck.com/minorun365/claude-code-o-tsukau-hodo-sodatsu-ai-hisho-ni-suru-nouhau</link><description>[score: 0.887] Upgrade to Pro
+— share decks privately, control downloads, hide ads and more …
+Speaker Deck
+Sign up for free
+Menu
+Search
+Features
+All features
+Private URLs
+Password Protection
+Custom URLS
+Scheduled publishing
+Remove Branding
+Restrict embedding
+Deck Collections
+Notes
+Features
+All features
+Private URL</description><guid isPermaLink="false">https://speakerdeck.com/minorun365/claude-code-o-tsukau-hodo-sodatsu-ai-hisho-ni-suru-nouhau</guid><pubDate>Thu, 17 Sep 2026 10:01:45 +0000</pubDate></item><item><title>国連調査団、「米軍のイラン学校攻撃は戦争犯罪」 当局の弾圧も指摘 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE50OW03SjN1RWViVVdRU1dhcXJwcEtLN2c4ZzFYNW5Ib1huRm5SUzhuLXYzNm1zV1owLU1oc1VUZFRkR2dRYW8wYlRjSjRCTzRPNEpQVGpZOHRFV3JjNGc0LWdOb20tc1RqYmx0cjdTeGlWbmhOX3FZUEtIS0g2N2s?oc=5</link><description>[score: 0.887] 国連調査団、「米軍のイラン学校攻撃は戦争犯罪」 当局の弾圧も指摘 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE50OW03SjN1RWViVVdRU1dhcXJwcEtLN2c4ZzFYNW5Ib1huRm5SUzhuLXYzNm1zV1owLU1oc1VUZFRkR2dRYW8wYlRjSjRCTzRPNEpQVGpZOHRFV3JjNGc0LWdOb20tc1RqYmx0cjdTeGlWbmhOX3FZUEtIS0g2N2s?oc=5</guid><pubDate>Thu, 17 Sep 2026 10:01:21 +0000</pubDate></item><item><title>上値重い、米ＣＰＩ控え 米中対立への懸念が重し＝今週の東京株式市場 - Reuters</title><link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmJrRndiVG9VdG1EdFR5S0RyeXlPVTdIUDFqWGNhQ1cxQ2RoLWJPRXhNTmg5SkNlZkRJMEUwSWhIRDc5ZHNMb2VpU1UxcXBGSGNoUGMxSkdhZzB0SDQ0bERsa0xFeU9rWGlaXzZJay1GczhtTGlLYmxvdU12YlRNd3Q2X0plQUc0TTQ3cV9RRlg?oc=5</link><description>[score: 0.887] 上値重い、米ＣＰＩ控え 米中対立への懸念が重し＝今週の東京株式市場 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxNNmJrRndiVG9VdG1EdFR5S0RyeXlPVTdIUDFqWGNhQ1cxQ2RoLWJPRXhNTmg5SkNlZkRJMEUwSWhIRDc5ZHNMb2VpU1UxcXBGSGNoUGMxSkdhZzB0SDQ0bERsa0xFeU9rWGlaXzZJay1GczhtTGlLYmxvdU12YlRNd3Q2X0plQUc0TTQ3cV9RRlg?oc=5</guid><pubDate>Thu, 17 Sep 2026 10:01:21 +0000</pubDate></item><item><title>Jevってなんだ？ — 文章を書かないAIに、LLMのif文判定を任せられるか</title><link>https://qiita.com/GeneLab_999/items/116aa006fbf93b68d791?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.888] はじめに ── なぜこの記事を書くのか
+LLMに「このチケットはどの部署宛てか」を答えさせるコードを、筆者は何度も書いてきました。JSONで返させ、パースし、検証し、落ちたら再試行する。判断は1行なのに、防御コードのほうが長くなるのが常でした。
+2026年9月15日、米TypeSafe AI社が Jev というモデルを公開しました。売りは「文字列を生成せず、型付きの判断と確信度を返す」。読んだ瞬間、あの防御コードの山が浮かびました。
+考えてほしいのは、次の問いです。
+あなたのコードがLLMに任せている判断のうち、本当に文章を必要としていたものはいくつあるか。
+なお、筆者にはまだ早期アクセスが届</description><guid isPermaLink="false">https://qiita.com/GeneLab_999/items/116aa006fbf93b68d791?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 17 Sep 2026 08:24:43 +0000</pubDate></item><item><title>売春勧誘など“相手方の行為も処罰対象に”法務省有識者検討会</title><link>https://news.web.nhk/newsweb/na/nd-20260917de50872</link><description>[score: 0.888] 売春をめぐる規制の見直しを議論してきた法務省の有識者検討会の報告書がまとまりました。 売春の勧誘行為などについて、売春をする側だけでなく、相手方による行為も処罰の対象にすべきだとする方向性を示す内容と…
+注目ワード
 あわせて読みたい
-米 FRB 0.25％の利上げ決定 利上げは約3年ぶり
-9月17日 6:53
-ガザ地区で避難民暮らす建物倒壊 20人以上死亡か 現地メディア
-9月17日 6:14
-EU 15歳未満の子ども SNSの利用を制限する法案 加盟国に提案へ
-9月17日 5:26
-アメリカでAI開発の規制求め政敵が“共闘” 議論活発に
-9月17日 6:21
-「よど号」グループの赤木志郎容疑者が北朝鮮で死亡</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260917de50709</guid><pubDate>Wed, 16 Sep 2026 21:58:36 +0000</pubDate></item><item><title>NVIDIAはAIの中央銀行と化している</title><link>https://gigazine.net/news/20260917-nvidia-central-bank-ai/</link><description>[score: 0.885] NVIDIAはAIの中央銀行と化している
-AIを支える半導体の多くを供給するのは、アメリカの半導体企業であるNVIDIAです。AIの普及に伴いNVIDIAの時価総額は上昇し続けており、2025年10月には世界で初めて5兆ドル(約780兆円)に到達しています。そんなNVIDIAが「AIの中央銀行と化している」と経済メディアのThe Economistが報じました。
-Nvidia is the central bank of AI | The Economist
-https://www.economist.com/interactive/briefing/2026/09/03/nvidia-is-</description><guid isPermaLink="false">https://gigazine.net/news/20260917-nvidia-central-bank-ai/</guid><pubDate>Wed, 16 Sep 2026 23:02:14 +0000</pubDate></item><item><title>OpenAIのCFO、AIが一部の仕事を置き換えているが、その多くは単調な仕事だと語る</title><link>https://www.businessinsider.jp/article/2609-sarah-friar-openai-cfo-ai-replacing-mundane-jobs/</link><description>[score: 0.885] OpenAIのサラ・フライア（Sarah Friar）最高財務責任者（CFO）は、AIが一部の従業員の必要性を削ぎ落としている事実を認めつつも、その対象はあくまで定型的な反復作業に限定されていると強調した。
-9月15日に放送されたジム・クレイマー（Jim Cramer）氏の司会するCNBCの投資番組『Mad Money』に出演したフライア氏は、自身が統括する財務部門を具体例に挙げながら、OpenAI社内における業務効率化のためのAI活用実態を語った。
-フライア氏はクレイマー氏に対し、「財務部門などで自社プロダクトを活用することで、必要とされる人員数が確実に抑制されているのは疑いようのない事実で</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-sarah-friar-openai-cfo-ai-replacing-mundane-jobs/</guid><pubDate>Wed, 16 Sep 2026 23:00:27 +0000</pubDate></item><item><title>GoogleのAI検索で引用されるには？ 130人超のSEO専門家が重要要因を評価</title><link>https://www.suzukikenichi.com/blog/what-gets-cited-in-google-ai-search-130-seo-experts-assess-the-key-factors/</link><description>[score: 0.885] [レベル: 上級]
-米国の SEO コンサルタントである Cyrus Shepherd（サイラス・シェパード）氏が、130 人以上のトップ SEO 専門家を対象に、Google の AI 検索に最も影響を与える要因を調査しました。
-通常のウェブ検索のランキング要因についてもシェパード氏は調査し、結果を先日公表していました。
-その続編です。
-調査結果 概要
-AI Overviews や AI Mode といった Google 検索の AI 機能で参照・引用されるために最も重要なのは、「クロールと利用の許可」、「検索意図への合致」、「LLM の事前記憶（ブランド認知）」、「独自かつ検証可能なファク</description><guid isPermaLink="false">https://www.suzukikenichi.com/blog/what-gets-cited-in-google-ai-search-130-seo-experts-assess-the-key-factors/</guid><pubDate>Wed, 16 Sep 2026 21:54:55 +0000</pubDate></item><item><title>SEOの歴史対談！ SEOが社会的に大きな影響力をもち始めた【第３回住氏＆辻氏】</title><link>https://webtan.impress.co.jp/e/2026/09/17/53178</link><description>[score: 0.886] 本連載では、SEO黎明期からSEOに携わってきた住太陽氏が、専門家とともにSEOの歴史を振り返っていく。 第1回：90年代終わり～2011年 第2回：2012年～2015年 第3回：2016年～2023年頃 第4回：2024年～現在 第5回：これからのSEOを展望 第3回は、WELQ（ウェルク）問題が社会的に取り沙汰された2016年からAI検索が広まる前の2023年ごろまでのSEOの状況について、so.la 代表取締役であり、Faber Companyの上席SEOコンサルタントをされている辻正浩氏と振り返る。 （左から）ボーディー有限会社 代表取締役 住太陽氏 株式会社so.la 代表取締役/</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/09/17/53178</guid><pubDate>Wed, 16 Sep 2026 22:08:41 +0000</pubDate></item><item><title>AIの精度ギャップ：計算資源の増強やモデルの大型化は答えではない</title><link>https://forbesjapan.com/articles/detail/104875?s=ns</link><description>[score: 0.886] AIリーダーたちは認めたがらないが、現実世界のアプリケーションに関して、組織は「管理された条件下では良好な結果」を得られても、「どのユースケースが最も高い投資収益率をもたらすかを一貫して予測できない」場合がある。
-言い換えれば、AIは概念実証（PoC）のような用途には優れているかもしれない。しかし、特にエラーによるコストが致命的になりかねない、厳しく規制された業界において、監督なしで重要度の高い機能を実行できるほど、AIの信頼性は高くないと筆者は考えている。
-AIを組み込むことで得られる効率向上という約束と、重要な業務機能でAIを全面的に信頼するために必要な精度との間にあるこの隔たりこそ、今日</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104875?s=ns</guid><pubDate>Wed, 16 Sep 2026 23:33:15 +0000</pubDate></item><item><title>【お金の教室】キオクシア株価「一時61倍」の衝撃　日本株インデックス4指数の違いを比較する</title><link>https://www.watch.impress.co.jp/docs/series/tsukamoto/2139212.html</link><description>[score: 0.886] お金の教室
-第9回
-キオクシア株価「一時61倍」の衝撃 日本株インデックス4指数の違いを比較する
-2026年9月17日 08:20
-半導体メーカーのキオクシアホールディングスは、2024年12月の上場から一時、株価が60倍を超える水準まで上昇し、時価総額でトヨタ自動車を抜いて国内首位となる場面がありました。個別株を持っていなくても、日本株インデックス投資をしていた人はこの成長の恩恵を受けています。
-今回は、TOPIX・日経平均・読売333・JPX日経400という4つの日本株インデックスについて、キオクシアの組み入れ方の違いを手がかりに、それぞれの設計思想とパフォーマンスを比較します。
-なぜ今、</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/series/tsukamoto/2139212.html</guid><pubDate>Wed, 16 Sep 2026 23:27:57 +0000</pubDate></item><item><title>【レビュー】 GB10搭載のデル小型AI機を社内のAI専任ではない技術スタッフが1カ月試用、向いたのは「放置して任せる」仕事</title><link>https://pc.watch.impress.co.jp/docs/topic/review/2138219.html</link><description>[score: 0.887] レビュー
-GB10搭載のデル小型AI機を社内のAI専任ではない技術スタッフが1カ月試用、向いたのは「放置して任せる」仕事
-2026年9月17日 06:10
-派手さのない小さな箱が、社内のサーバールームに1カ月ほど置かれていた。デル・テクノロジーズの「Dell Pro Max with GB10」。NVIDIAの小型AIスーパーコンピュータ「DGX Spark」と同じ「GB10」チップを積んだ、ローカルAI向けの小型ワークステーションだ。
-借りた動機は、はっきり言えば「保険」だ。社内ではクラウドAIをAPIの従量課金とサブスクリプションの両方で使っており、費用は月を追うごとにかさんでいる。クラウ</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/review/2138219.html</guid><pubDate>Wed, 16 Sep 2026 23:32:42 +0000</pubDate></item><item><title>gherkin と skills でエージェントがブラウザを操作してテストする</title><link>https://zenn.dev/sonicmoov/articles/57a9c2d0d281b5</link><description>[score: 0.889] はじめに こんにちは。株式会社ソニックムーブでフロントエンドを担当しているy.morimotoです。 フロントエンドにおいて、E2Eテストは必要不可欠なテスト手法ですが、運用を続けていくほど、テストケース作成・テスト実装・テスト修正にかかる工数が増え続け、次第に私たちの作業を圧迫していきます。また、AIを使って開発が高速になった今、E2Eテストは大きなボトルネックになると思います。 そこで、ノーコードでAIが自律的にテストを実行する仕組みがあれば運用が楽になるのではないかと思いました。 概要 本記事では、自然言語で書かれたテストケースをAIに読み込ませ、自律的にテストを実行する取...</description><guid isPermaLink="false">https://zenn.dev/sonicmoov/articles/57a9c2d0d281b5</guid><pubDate>Wed, 16 Sep 2026 22:39:05 +0000</pubDate></item><item><title>SNSなどを通じた投資や副業といった「もうけ話」に注意を【消費者庁】</title><link>https://webtan.impress.co.jp/n/2026/09/17/53305</link><description>[score: 0.889] SNSなどを通じた投資や副業といった「もうけ話」に注意を【消費者庁】 著名人を名乗ったり、騙ったりする詐欺に注意。 atomik 2026年9月17日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 消費者庁は、「儲け話をきっかけにした消費者トラブル」に関する調査結果を発表した。年次の相談件数+平均契約購入金額などを公表している。 関連記事 日本マイクロソフトが警察庁と「官民連携によるサイバー事案対策の推進に関する協定」締結 生成AI広告は「条件が整えば活用してよい」52.0%、透明性への配慮が前提【日本インタラクティブ広告協会調べ】 令和5年度をピークに相談件数も被害額</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/09/17/53305</guid><pubDate>Wed, 16 Sep 2026 21:37:58 +0000</pubDate></item><item><title>Metaが新サブスクリプション「Meta One」開始、日本は月額239円から、AI機能の利用枠拡大</title><link>https://webtan.impress.co.jp/n/2026/09/17/53307</link><description>[score: 0.890] Metaが新サブスクリプション「Meta One」開始、日本は月額239円から、AI機能の利用枠拡大 「Instagram」「Facebook」「WhatsApp」の単体プランやクリエイター・ビジネス向けプランも noboru.kojima 2026年9月17日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 Metaは9月15日(米国時間)、「Instagram」「Facebook」「WhatsApp」などのプラットフォームで新たなサブスクリプション(継続課金)プラン「Meta One」の提供を開始したと発表した。個人、クリエイター、ビジネスを対象とした多様なプランを用</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/09/17/53307</guid><pubDate>Wed, 16 Sep 2026 22:08:41 +0000</pubDate></item><item><title>SaaS終焉論はナンセンス。セールスフォース、NVIDIA、アンソロピックCEOが語るAIで本当に変わる仕事</title><link>https://www.businessinsider.jp/article/2609-salesforce-dreamforce-headless-ai-force/</link><description>[score: 0.890] 月曜の朝、営業システムで担当案件を確認し、止まっている商談を見つけたら担当者に連絡する。そんな作業が、AIに「今週、止まっている大型案件は？」と聞くだけで済むようになるかもしれない。
-セールスフォース（Salesforce）がアメリカ・サンフランシスコで開催中の年次イベント「Dreamforce 2026」。9月15日（現地時間）の基調講演では、共同創業者のパーカー・ハリス氏のこんな発言を収めた映像が流れた。
-「なぜセールスフォースにログインしなければいけないのか。もう二度とログインしなくていいかもしれない」
-セールスフォースは、顧客情報や商談を管理する「CRM（顧客管理）」ソフトの大手で、ハ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-salesforce-dreamforce-headless-ai-force/</guid><pubDate>Wed, 16 Sep 2026 22:00:21 +0000</pubDate></item><item><title>トランプ氏、ＦＲＢに迅速利下げ要求 「金利１％以下に」（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBOYkphRU5sdXpUZ0E0N0daamNMODJQekRWME1pbXp2QW44R0JQc3hqM3BMcFl3c1ctTmRDa1pVd0Y4aUZuTzhIRjByZnpJLW1XZkstNDgtUWlqdE54RmF5ZHdraVBpOXBjUzZfeDUwUmRzYkM2Y3BUZDJTa19YNFU?oc=5</link><description>[score: 0.892] トランプ氏、ＦＲＢに迅速利下げ要求 「金利１％以下に」（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFBOYkphRU5sdXpUZ0E0N0daamNMODJQekRWME1pbXp2QW44R0JQc3hqM3BMcFl3c1ctTmRDa1pVd0Y4aUZuTzhIRjByZnpJLW1XZkstNDgtUWlqdE54RmF5ZHdraVBpOXBjUzZfeDUwUmRzYkM2Y3BUZDJTa19YNFU?oc=5</guid><pubDate>Wed, 16 Sep 2026 21:45:57 +0000</pubDate></item><item><title>米国債利回り上昇、ＦＲＢの信認低下説を否定＝ウォーシュ議長 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPVkkxRjlka1hoclhSa1RpQWJjcGxDYldHbGRkV3d0RlpqemtrX1FuUHIzQTlob1BDUEFucjV3cUhEZndYRVFOR1dyYUZxbjZIcUNLSDM5X3FJTU84VU9wR3pBQklkQjV1VXpzd0gwZGdUaThfVTR0SjJfZVMwOWhaWVpvTHNyQQ?oc=5</link><description>[score: 0.894] 米国債利回り上昇、ＦＲＢの信認低下説を否定＝ウォーシュ議長 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxPVkkxRjlka1hoclhSa1RpQWJjcGxDYldHbGRkV3d0RlpqemtrX1FuUHIzQTlob1BDUEFucjV3cUhEZndYRVFOR1dyYUZxbjZIcUNLSDM5X3FJTU84VU9wR3pBQklkQjV1VXpzd0gwZGdUaThfVTR0SjJfZVMwOWhaWVpvTHNyQQ?oc=5</guid><pubDate>Wed, 16 Sep 2026 22:46:44 +0000</pubDate></item><item><title>NY市場 ダウ一時900ドル超の下落 外国為替市場は1ドル156円台</title><link>https://news.web.nhk/newsweb/na/nd-20260917de50718</link><description>[score: 0.894] 16日のニューヨーク株式市場では、アメリカのFRB＝連邦準備制度理事会が今後も利上げを進めるとの見方からダウ平均株価は一時、900ドルを超える値下がりとなりました。
-FRBのウォーシュ議長が記者会…
+ガールズバー従業員に売春強要の罪 元経営者に懲役7年の判決
+9月9日 13:53
+政府が“人身取引"の対策強化へ新たな行動計画案
+9月15日 16:13
+売春めぐり相手方も規制を 法務省検討会が報告書案
+8月24日 14:24
+証拠は誰のものか 公開制限議論の行方
+9月16日 15:32
+民事裁判の“証拠”どう扱う？民事訴訟法改正の検討始まる
+9月14日 22:0</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260917de50872</guid><pubDate>Thu, 17 Sep 2026 09:46:00 +0000</pubDate></item><item><title>OpenAIのAIエージェントが5月13日にHugging Faceのアカウントを不正に乗っ取りサーバーを調査していたことが明らかに、「Hugging Faceハッキングを防げたはず」とセキュリティ研究者</title><link>https://gigazine.net/news/20260917-openai-agents-probed-hugging-face-weaknesses-before-major-hack/</link><description>[score: 0.889] OpenAIのAIエージェントが5月13日にHugging Faceのアカウントを不正に乗っ取りサーバーを調査していたことが明らかに、「Hugging Faceハッキングを防げたはず」とセキュリティ研究者
+OpenAIは2026年7月に「AIが間違ってHugging Faceをハッキングしてしまった」と報告しました。しかし、この事例よりも2カ月以上前のタイミングで、OpenAIのAIがHugging Faceのアカウントを不正に乗っ取り、サーバーを調査していたことが明らかになっています。
+EXCLUSIVE: OpenAI's rogue agents probed Hugging Face </description><guid isPermaLink="false">https://gigazine.net/news/20260917-openai-agents-probed-hugging-face-weaknesses-before-major-hack/</guid><pubDate>Thu, 17 Sep 2026 04:43:19 +0000</pubDate></item><item><title>13歳未満のSNS・AIチャットボット・オンラインゲーム利用を厳しく制限する「EUキッズ法」案を欧州委員会が検討</title><link>https://gigazine.net/news/20260917-eu-kids-act/</link><description>[score: 0.889] EUの欧州委員会が、子どものSNSやAIチャットボットなどの利用を年齢に応じて制限する「EU Kids Act(EU Keeping Internet Digital Spaces Accountable and Trustworthy：EUキッズ法)」を提案することが明らかになりました。欧州委員会のウルズラ・フォン・デア・ライエン委員長は、13歳未満によるSNS利用を禁止し、13歳と14歳については保護者の管理下でのみ利用を認める方針を表明しています。より詳しい規制内容を盛り込んだEU Kids Actは2026年9月17日に欧州委員会から提示される予定です。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20260917-eu-kids-act/</guid><pubDate>Thu, 17 Sep 2026 02:21:48 +0000</pubDate></item><item><title>内閣改造 細野豪志元環境相が入閣へ | NHKニュース</title><link>https://news.web.nhk/newsweb/na/nd-20260917de50805</link><description>[score: 0.890] 17日に行われる内閣改造で、高市総理大臣は、復興大臣に、細野豪志・元環境大臣を起用する意向を固めました。
+細野氏は、衆議院静岡5区選出の当選10回で、55歳。
+旧二階派の出身です。
+大学卒業後…
+第2次高市改造内閣発足 首相“強い経済へ 実行力重視で人選”
+9月17日 19:06
+自民 新執行部が発足 内閣改造へ 高市首相の狙いは
+9月16日 21:58
+参院自民党 人事を発表 参院幹事長に青木一彦氏 石井氏は交代
+9月16日 13:58
+「高市内閣」ニュース一覧
+中道分裂 立民出身者は新党「民主改革の会」届け出へ
+9月17日 5:05
+沖縄県知事選で12年ぶりの“保守県政”へ 結果と影響
+9</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260917de50805</guid><pubDate>Thu, 17 Sep 2026 10:12:27 +0000</pubDate></item><item><title>Claude CoworkがClaudeチャットに統合 ―Claude DocsとClaude Slidesが新たに追加、Claude Designもチャットで利用可能に</title><link>https://gihyo.jp/article/2026/09/claude-cowork-and-chat-are-one-claude?utm_source=feed</link><description>[score: 0.894] Anthropicは2026年9月16日、Claude CoworkとClaudeのチャット機能が統合され、Claudeとして利用可能になることを発表した。
+これまでClaude Coworkを利用するにはClaudeサイドバーメニューの
+ユーザーは求めたい結果を説明するだけでClaudeが実行ステップを計画、Web検索したり、ファイルを読み、コードを実行することで結果を出力する。作業の過程を分割したり、モードを変える必要はない。より複雑なタスクは、PCを閉じたりページを離れたりしても、クラウド上で実行が続けられ、タスクが終了するとチャットに表示される[1]。
+また、Claude DocsとC</description><guid isPermaLink="false">https://gihyo.jp/article/2026/09/claude-cowork-and-chat-are-one-claude?utm_source=feed</guid><pubDate>Thu, 17 Sep 2026 03:09:48 +0000</pubDate></item><item><title>AIを作った人が「人類を滅ぼしうる」と認めた。なぜ誰も止められないのか</title><link>https://joho-todai.com/ai-creator-admits-extinction-risk-why-unstoppable/</link><description>[score: 0.894] AIを作った人が「人類を滅ぼしうる」と認めた。なぜ誰も止められないのか この記事のポイント 何が起きた: Anthropic・OpenAI・xAIのトップが揃ってフロンティアAI開発の減速に賛同し、Anthropicは第三者評価者への従業員同等アクセスを一方的に約束したなぜ重要か: 開発者自身が「今後1... misshiki Anthropic%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD Anthropic研究者が「10年以内の人類絶滅リスク10％超」と発言。アモデイ、アルトマン、マスクらはAI開発の減速に賛同。一方ファン氏らは否定。自主規制は始まったが法的な減速</description><guid isPermaLink="false">https://joho-todai.com/ai-creator-admits-extinction-risk-why-unstoppable/</guid><pubDate>Thu, 17 Sep 2026 05:20:31 +0000</pubDate></item><item><title>https://x.com/sama/status/2099348812305473766</title><link>https://x.com/sama/status/2099348812305473766</link><description>[score: 0.894] https://x.com/sama/status/2099348812305473766 misshiki OpenAI%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD Sam Altman氏、フロンティアAIは「停止」ではなく安全対策で意図的にペースを落とすべきと主張。OpenAIでは大規模RL前にsafety caseを策定し、misalignment・monitoringの業界共通基準も提案。</description><guid isPermaLink="false">https://x.com/sama/status/2099348812305473766</guid><pubDate>Thu, 17 Sep 2026 06:21:00 +0000</pubDate></item><item><title>日銀 金融政策決定会合始まる 政策金利引き上げあす最終判断へ</title><link>https://news.web.nhk/newsweb/na/nd-20260917de50876</link><description>[score: 0.894] 日銀は17日から金融政策決定会合を開いています。 物価が大幅に上昇するリスクへの警戒が必要だとして、18日、政策金利の1.25％程度への引き上げを最終判断する見通しで、利上げのペースを速めて対応する形…
 あわせて読みたい
-米 FRB 0.25％の利上げ決定 利上げは約3年ぶり
-9月17日 6:53
-EU 15歳未満の子ども SNSの利用を制限する法案 加盟国に提案へ
-9月17日 5:26
-「よど号」グループの赤木志郎容疑者が北朝鮮で死亡か
-9月17日 3:24
-ゼレンスキー大統領「北朝鮮は安い値段で現代戦を経験」
-9月17日 5:19
-サウジアラビア“紅海側で原油の積み出し停止”報道
-9月17日 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260917de50718</guid><pubDate>Wed, 16 Sep 2026 21:58:36 +0000</pubDate></item><item><title>iPhone 18 Proは「プロ専用」ではない──20万円超でも日常に効く進化の本質</title><link>https://forbesjapan.com/articles/detail/104792?s=ns</link><description>[score: 0.894] アップルが発売するiPhone 18 Proは21万9800円から、iPhone 18 Pro Maxは23万9800円から。前世代モデルの直近の販売価格からそれぞれ2万5000円値上がりし、いよいよProシリーズのスタート価格が20万円を超えた。スマートフォンとしてはためらいを覚える価格であり、「Pro」の名も以前より重く響く。
-しかも今年は、例年の秋なら同時に登場していたスタンダードモデルのiPhone 18がない。Proの新機能を適度に取り込み、価格とのバランスに優れた無印モデルを隣に並べて比較できないため、iPhone 18 Proの専門性と高価格がいつも以上に際立って見える。
-高パフ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104792?s=ns</guid><pubDate>Wed, 16 Sep 2026 22:02:57 +0000</pubDate></item><item><title>国連グテーレス事務総長 AI開発競争 国際的な規制必要と訴える</title><link>https://news.web.nhk/newsweb/na/nd-20260917de50717</link><description>[score: 0.895] 国連のグテーレス事務総長は、AI＝人工知能をめぐる競争を冷戦期の核開発などになぞらえて世界規模の大惨事につながりかねない競争を避けるためには国際的な規制が必要だと訴えました。
-国連のグテーレス事務…
+米 FRB 0.25％の利上げ決定 年内追加利上げに踏み切るか焦点に
+9月17日 10:29
+個人金融資産2519兆円で過去最高 株高など背景に
+9月17日 11:06
+日経平均株価は小幅な値動き 日銀決定会合前に様子見ムードで
+9月17日 16:52
+片山財務相“胴元は日本語では怖いが市場感の表れの報道も”
+9月11日 16:28
+AI需要拡大で経済・物価どうなる 日銀の金</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260917de50876</guid><pubDate>Thu, 17 Sep 2026 10:16:56 +0000</pubDate></item><item><title>コラム：ドル／円の昨年高値更新に現実味、中立金利や介入効果に注目＝内田稔氏 - Reuters</title><link>https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzJlYnB0XzRUU2R2YlhqYXJCM01EclExMlhDM1pJcmJDbmdjWGFGckRZckoySFNEaTlxTnhtZE5vQzVPczZ3Z19rcl9mdlBaZjNSbzlDanlkcVNfVjI4LUxEZkpnRlh0OTRiRy1aSEdCU01oaFAzOXJZMGlGaEtORWdGZDZMZW9zTHZOMg?oc=5</link><description>[score: 0.895] コラム：ドル／円の昨年高値更新に現実味、中立金利や介入効果に注目＝内田稔氏 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMijAFBVV95cUxPVzJlYnB0XzRUU2R2YlhqYXJCM01EclExMlhDM1pJcmJDbmdjWGFGckRZckoySFNEaTlxTnhtZE5vQzVPczZ3Z19rcl9mdlBaZjNSbzlDanlkcVNfVjI4LUxEZkpnRlh0OTRiRy1aSEdCU01oaFAzOXJZMGlGaEtORWdGZDZMZW9zTHZOMg?oc=5</guid><pubDate>Thu, 17 Sep 2026 10:01:21 +0000</pubDate></item><item><title>[入門]グラフエンジニアリングのクイックスタート</title><link>https://qiita.com/ksonoda/items/f77ea69c0c2c7c9a4c1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.896] 本記事は日本オラクルが運営する下記Meetupで発表予定の内容になります。発表までに今後、内容は予告なく変更される可能性があることをあらかじめご了承ください。
+はじめに
+LLM活用における設計対象は、単一の応答から自律的な業務フローへと拡張してきました。初期には、適切な応答を得るためにプロンプトを工夫することが中心でしたが、ここ最近では実務でLLMを活用するには必要な情報を適切に渡し、ツールを安全に実行させ、成果を検証しながら改善する仕組みまで設計する必要性が重視され、そのための考え方として〇〇エンジニアリングという呼称がつけられるトレンドがあります。
+『エンジニアリング』という名前がついてい</description><guid isPermaLink="false">https://qiita.com/ksonoda/items/f77ea69c0c2c7c9a4c1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 17 Sep 2026 08:24:43 +0000</pubDate></item><item><title>米オープンAI 人間の意図に沿わないAI動作を早期公表へ</title><link>https://news.web.nhk/newsweb/na/nd-20260917de50855</link><description>[score: 0.896] AI開発をめぐり安全対策への懸念が高まる中、アメリカの「オープンAI」は、開発中のAIで生じた人間の意図に沿わない動作を早期に公表する方針を明らかにしました。社外の開発者などと広く知見を共有することで…
 あわせて読みたい
-アメリカでAI開発の規制求め政敵が“共闘” 議論活発に
-9月17日 6:21
+国連グテーレス事務総長 AI開発競争 国際的な規制必要と訴える
+9月17日 6:58
+米アンソロピックCEO“AI開発ペース減速させる必要”
+9月13日 17:24
+“AIが人々の命奪いかねない”アンソロピック研究者が退社表明
+9月10日 13:57
 米エヌビディアCEO AI開発に「新たな規制必要ない」
 9月16日 19:22
-米 FRB 0.25％の利上げ決定 利上げは約3年ぶり
-9月17日 6:53
-EU 15歳未満の子ども SNSの利用を制限する法案 加盟国に提案へ
-9月17日 5:26
-ゼレンスキー大統領「北朝鮮は安い値段で現代戦を経験」
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260917de50717</guid><pubDate>Wed, 16 Sep 2026 22:28:19 +0000</pubDate></item><item><title>FRBの利上げが米国経済に与える影響</title><link>https://forbesjapan.com/articles/detail/104864?s=ns</link><description>[score: 0.895] 市場の予測では、米連邦準備制度理事会（FRB）が米国時間9月16日の会合で利上げに踏み切る確率は90％とされている。これにより、借入コスト、特にクレジットカードの残高やその他の変動金利型ローンのほか、新規の自動車ローンや住宅ローンの金利が上昇する可能性がある。
-FRBが2023年7月以来の利上げへ、借り入れコストが上昇
-FRBは16日の9月会合において、フェデラルファンド（FF）金利の誘導目標を0.25ポイント引き上げ、3.75％から4％にすると広く予想されている。これが実施されれば、2023年7月以来の利上げとなる。
-（編注：米国版記事掲載後、FRBはFF金利の誘導目標を0.25ポイント引き</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104864?s=ns</guid><pubDate>Wed, 16 Sep 2026 23:03:18 +0000</pubDate></item><item><title>トランプ氏、ＦＲＢに迅速利下げ要求 「金利１％以下に」 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNUjhwU0k2cV9wczBvSzlwRUozT1pvWi1UZXUweWFFZ1lrVjFCRDNpU1k3ODBrb0tWWUxmQjdRMDFYUEpIaERLQ0hwRFp6SVlvZWdLVTBxX011MEJOTlotQ1lKZ05rdFc4REZpb3lzNWg0VnVqb0ZlRDBVNmozejNpYVc1UTB0UQ?oc=5</link><description>[score: 0.895] トランプ氏、ＦＲＢに迅速利下げ要求 「金利１％以下に」 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNUjhwU0k2cV9wczBvSzlwRUozT1pvWi1UZXUweWFFZ1lrVjFCRDNpU1k3ODBrb0tWWUxmQjdRMDFYUEpIaERLQ0hwRFp6SVlvZWdLVTBxX011MEJOTlotQ1lKZ05rdFc4REZpb3lzNWg0VnVqb0ZlRDBVNmozejNpYVc1UTB0UQ?oc=5</guid><pubDate>Wed, 16 Sep 2026 21:45:57 +0000</pubDate></item><item><title>米国債利回り上昇、ＦＲＢの信認低下説を否定＝ウォーシュ議長(ロイター) - Yahoo!ファイナンス</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPOWJMR0tvUnZqS2VzYmtlX1RpcGtQNjNDTXFtbVRYTnRyNTZNMVRpNUFsbXRIYlRLNmdxVnBHUFZkT1ZlMEoyTjM5Tmhkb2VWYmhGRGVUYkItcTM1WkNSYWdERXQ5TnFNTlpBZUl6NU56YUZGUDNmOV9zdHFfVlc1RTMzamZ0N0k?oc=5</link><description>[score: 0.896] 米国債利回り上昇、ＦＲＢの信認低下説を否定＝ウォーシュ議長(ロイター) Yahoo!ファイナンス</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxPOWJMR0tvUnZqS2VzYmtlX1RpcGtQNjNDTXFtbVRYTnRyNTZNMVRpNUFsbXRIYlRLNmdxVnBHUFZkT1ZlMEoyTjM5Tmhkb2VWYmhGRGVUYkItcTM1WkNSYWdERXQ5TnFNTlpBZUl6NU56YUZGUDNmOV9zdHFfVlc1RTMzamZ0N0k?oc=5</guid><pubDate>Wed, 16 Sep 2026 22:46:44 +0000</pubDate></item><item><title>「こんな仕事だとは思わなかった」　早期離職者の44％が「悪い情報も聞きたかった」　“良く見せる採用”の落とし穴</title><link>https://www.itmedia.co.jp/business/articles/2609/17/news009.html</link><description>[score: 0.896] 「入社してみたら、面接で聞いていた仕事内容と違った」「教育制度があると聞いていたのに、実際にはほとんど教えてもらえなかった」――。こうした入社前後のギャップが、早期離職につながっている。
-エンが2025年7〜8月、「エン転職」のユーザー2502人を対象に実施した調査では、入社から半年以内に「早期離職」を経験した人は31％に上った。2025年3〜4月に同社運営の人事・採用担当者向け情報サイト「人事のミカタ」で、291社を対象に聞いた別の調査でも、直近3年間で「入社から半年以内の早期離職があった」と回答した企業は57％。従業員規模別では、大企業で7割以上に達している。
-早期離職は「若手社員の問題」</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2609/17/news009.html</guid><pubDate>Wed, 16 Sep 2026 23:02:47 +0000</pubDate></item><item><title>沖縄で有事に備えた「特定利用空港・港湾」指定に高市政権が早速やる気…過重な基地負担の現実はそのままに：東京新聞デジタル</title><link>https://www.tokyo-np.co.jp/article/515474</link><description>[score: 0.900] 沖縄で有事に備えた「特定利用空港・港湾」指定に高市政権が早速やる気…過重な基地負担の現実はそのままに：東京新聞デジタル 沖縄県知事選で自民党などが担いだ元那覇市副市長の古謝玄太氏の初当選を受け、高市政権は防衛力強化のための協力関係を構築する考えだ。国が有事を想定して導入した仕組みながら、停滞していた「特定利用空港・港湾」指定も進むとみられる。経済振興を争点に据えつつ「『安全保障政策も支持を得た』と、やりたい放題進...</description><guid isPermaLink="false">https://www.tokyo-np.co.jp/article/515474</guid><pubDate>Wed, 16 Sep 2026 21:20:36 +0000</pubDate></item><item><title>マイクロソフトCEOサティア・ナデラ、AIの安全性について従業員に社内警告を投稿</title><link>https://www.businessinsider.jp/article/2609-microsoft-satya-nadella-ai-safety-debate-internal-warning/</link><description>[score: 0.901] マイクロソフトのサティア・ナデラCEOはAI業界に対し、安全性の確保を最優先し、テクノロジーに対する「人間による制御」を断固として維持するよう強く求めた。 開発スピードをめぐる業界内の激しい論争が続くなか、マイクロソフトのトップは第三者機関によるAIモデルの監査・テストを全面的に支持する立場を表明した。 主要なAIリーダーたちは、慎重かつ安全重視のモデル開発および評価テストのあり方について白熱した議論を繰り広げている。</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-microsoft-satya-nadella-ai-safety-debate-internal-warning/</guid><pubDate>Wed, 16 Sep 2026 23:00:27 +0000</pubDate></item><item><title>AIで賢くなる人。AIでダメになる人。その差は使い方の「順番」にある</title><link>https://studyhacker.net/ai-study-order</link><description>[score: 0.901] AIで宿題を終わらせる。 そんなことがいま、教育現場では起こっています。確かに、AIを使えばその場の出来は良くなるし、ひょっとしたら評価もあがるかもしれません。でも、理解しているかというと、当然そうではない。だから、テストを受けると点数はとれません。 では、AIは勉強や宿題で使えないのかというと、一概にそうとも言えません。要は使い方。今回は、AIを勉強で使う方法について、考えていきます。 AIを勉強にどう使う？ AIでインチキすると、成績は「いつ」下がるのか。 記憶は「思い出したとき」に定着する AIは「答え合わせ」のために よくある質問（FAQ） AIを勉強にどう使う？ わからない英文を目に</description><guid isPermaLink="false">https://studyhacker.net/ai-study-order</guid><pubDate>Wed, 16 Sep 2026 22:14:01 +0000</pubDate></item><item><title>「AI終末論はわたしたちの目をそらすための罠」──AI批判の急先鋒が語る</title><link>https://wired.jp/article/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/</link><description>[score: 0.902] ここ数日、『WIRED』編集部では人工知能（AI）業界で起きた少なくともふたつの出来事を理解しようとしている。
-まず、100万ドルの懸賞金がかかった数学の問題をめぐる大きな争い。OpenAIがほかの研究者の研究を密かに拝借して、先に問題を解いてしまったのではないかという疑惑だ。
-その翌日には、以前OpenAIで働いていたAnthropicの研究者が、両社のAI安全性への対応に懸念があるとして、非常に公然と退職を表明した。
-これを受けて、Anthropicの別のテクニカルスタッフは、「みんな信じています。AIが全人類を殺す！ と。 わたし自身は、今後10年以内にその確率は10%を超えると考えてい</description><guid isPermaLink="false">https://wired.jp/article/one-of-ais-fiercest-critics-says-all-the-doom-talk-is-meant-to-distract-us/</guid><pubDate>Wed, 16 Sep 2026 22:04:01 +0000</pubDate></item><item><title>Google、ついに全エンジニアがアンソロピックのClaudeを利用可能に</title><link>https://www.businessinsider.jp/article/2609-google-finally-lets-all-engineers-use-anthropics-claude/</link><description>[score: 0.905] Google社員はシリコンバレーで最高峰の福利厚生を享受しているが、多くのエンジニアが長年拒まれ続けてきたものが一つだけあった。それこそがアンソロピックのAI「Claude」へのアクセス権だ。
-だが、その鉄の規制がついに撤廃された。
-社員2名の証言および広報担当者からの確認によれば、Googleは最近、社内開発ツールを通じて、アンソロピックの最も強力なコーディング用AIモデルの一つを全社のエンジニアが利用できるように解禁した。
-これはGoogle内部において極めて象徴的な転換だ。同社はこれまで、ほとんどの従業員に対し「Claude Code」やOpenAIの「Codex」といった外部のAIコー</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-google-finally-lets-all-engineers-use-anthropics-claude/</guid><pubDate>Wed, 16 Sep 2026 23:00:27 +0000</pubDate></item><item><title>「Claude Cowork」がClaudeチャットに統合、ドキュメント・スライド作成も可能に</title><link>https://www.techno-edge.net/article/2026/09/17/5505.html</link><description>[score: 0.917] Anthropicは、AIアシスタント「Claude」のエージェント型作業環境「Cowork」をデフォルトのチャットに統合、一本化すると発表しました。これにより、ユーザーはリクエストをチャットに投げるか、エージェント型ワークスペースで処理するかの判断をする必要がなくなります。
-この新機能はClaude ProおよびMaxプランのユーザーを対象に、ウェブ・デスクトップ・モバイルのClaudeアプリへ数週間かけて順次展開されます。
-また、チャット内でドキュメントやスライドを作成できる新機能「Claude Docs」「Claude Slides」が提供開始されました。さらに「Claude Desig</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/09/17/5505.html</guid><pubDate>Wed, 16 Sep 2026 21:34:47 +0000</pubDate></item></channel></rss>
+アメリカでAI開発の規制求め政敵が“共闘” 議</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260917de50855</guid><pubDate>Thu, 17 Sep 2026 09:15:54 +0000</pubDate></item><item><title>常駐コンテキストを削りClaude Codeのコストを抑えてみた</title><link>https://qiita.com/ya-mizobuchi/items/6ae906dd28bf61b32329?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.897] はじめに
+こんにちは。KDDIアジャイル開発センターの溝渕です。
+ここ 2 か月ほど、Claude Code での個人開発を進めながら、精度を極力下げずにトークンの消費を抑える仕組みづくりと効果の計測に挑戦してました。
+8月の約 1 か月の計測で、かなりトークン消費を抑える効果が得られたので、どういう仕組みで実現したのか紹介したいと思います。
+この記事で分かること
+- 常駐コンテキストを仕組みで抑える方法
+- CLAUDE.md など毎回読み込まれる場所に置くのを避けつつ、必要な時に読む仕組みを組み上げる方法
+- メモリの常駐分を索引 1 行に絞る手法
+0. 前提情報
+- Claude Cod</description><guid isPermaLink="false">https://qiita.com/ya-mizobuchi/items/6ae906dd28bf61b32329?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 17 Sep 2026 08:24:43 +0000</pubDate></item><item><title>記事のライセンス料は「誤差の範囲」、OpenAIとの訴訟めぐりメディア側が反論</title><link>https://japan.cnet.com/article/35252673/</link><description>[score: 0.902] 記事のライセンス料は「誤差の範囲」、OpenAIとの訴訟めぐりメディア側が反論 報道機関が「ChatGPT」の開発元であるOpenAIを相手取り起こした一連の著作権侵害訴訟が、新たな局面を迎えようとしている。トランプ政権の介入をきっかけに、AI企業がモデルの学習に使うコンテンツのライセンス料... misshiki OpenAI%E6%B3%95%E5%BE%8B%E3%81%A8%E5%80%AB%E7%90%86 OpenAIとの著作権訴訟でメディア側が反論。年間200億ドルのライセンス料でも、2030年までに7500億ドル投資予定のOpenAIには「誤差の範囲」と主張。OpenAIはスク</description><guid isPermaLink="false">https://japan.cnet.com/article/35252673/</guid><pubDate>Thu, 17 Sep 2026 05:20:31 +0000</pubDate></item><item><title>「AI があればプログラマーはいらない」という風潮が危険な理由</title><link>https://qiita.com/tomokusaba/items/a63285193c854a3b19da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.904] はじめに
+GitHub Copilot や Claude Code などの AI コーディングツールが、開発者の身近な存在になってきました。
+「アイデアがあり、それを AI に正しく伝えられれば、形にできる」
+この考え方は、たしかに一面では真実です。以前なら何日もかかっていた調査や実装のたたき台を、短い時間で作れることがあります。小さなアプリケーションであれば、アイデアを動くものにするまでの距離は、確実に短くなりました。
+しかし、この事実から「AI があればプログラマーはいらない」と結論づけるのは危険です。
+ここでいうプログラマーは、コードを入力する人だけを指していません。何を作るべきかを考え</description><guid isPermaLink="false">https://qiita.com/tomokusaba/items/a63285193c854a3b19da?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 17 Sep 2026 08:24:43 +0000</pubDate></item><item><title>画像共有サービス「Gyazo」に不正アクセス、非公開画像が閲覧された可能性も／ユーザー情報約2,362万件と画像のメタデータ約4.9億件が流出</title><link>https://forest.watch.impress.co.jp/docs/news/2141601.html</link><description>[score: 0.913] ニュース
+画像共有サービス「Gyazo」に不正アクセス、非公開画像が閲覧された可能性も
+ユーザー情報約2,362万件と画像のメタデータ約4.9億件が流出
+2026年9月17日 10:35
+画像共有サービス「Gyazo」を運営する（株）Helpfeelは9月16日、「Gyazo」で不正アクセスが発生し、ユーザー情報やアップロードされた画像に関するメタデータの一部が外部に流出したことを明らかにした。第三者が「Gyazo」の画像アップロードサーバーに存在した脆弱性を悪用し、同社のシステム上で任意のコマンドを実行した。
+このセキュリティインシデントは、11日に発生。同日夜に不正な挙動を検知して調査と対</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2141601.html</guid><pubDate>Thu, 17 Sep 2026 06:18:56 +0000</pubDate></item></channel></rss>
