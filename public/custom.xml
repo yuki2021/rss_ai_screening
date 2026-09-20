@@ -1,152 +1,168 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 19 Sep 2026 22:50:17 +0000</lastBuildDate><item><title>高速化手法 重要度別まとめ - Qiita</title><link>https://qiita.com/kilohii/items/20d7eb39b4a82fa614c3</link><description>[score: 0.874] プログラムの高速化をする手法はいろいろありますが（個人的）重要度別でまとめてみました。
-この記事では各手法について細かくは述べず、概要にだけ触れます。
-（適宜更新予定）
-はじめに
-高速化に取り掛かるにあたって下記2点が重要だと思います。
-- 始めから高速化しようとしない。
-- テストを整備する。
-高速化の解説記事で言うのも何ですが、高速化は手法によっては可読性を下げたりデバッグの難易度を高めたりすることがあります。
-基本的にはある程度仕様通りに動くようになるまでは、高速化を考えすぎるよりも可読性を重視して書くのがセオリーだと思います。
-ただし手法によっては設計段階から検討すべきものもある（並列</description><guid isPermaLink="false">https://qiita.com/kilohii/items/20d7eb39b4a82fa614c3</guid><pubDate>Sat, 19 Sep 2026 21:39:24 +0000</pubDate></item><item><title>jev-lint: コード中の命名やコメントが嘘になってないかを高速に確認</title><link>https://zenn.dev/mizchi/articles/jev-lint-intro</link><description>[score: 0.874] jev-lint: コード中の命名やコメントが嘘になってないかを高速に確認 jev-lint とは 気づいたら関数名が実態とズレていたり、昔書いたテストケース名やコメントが嘘になっていた、という問題に遭遇したことはありませんか？ それに対して、jev-lint というツールを作りました。 詳細はリポジトリ内の skill を AI に読ませればわかると思いますが、 npx -y jev-lint で動きます。 jev-lint ...</description><guid isPermaLink="false">https://zenn.dev/mizchi/articles/jev-lint-intro</guid><pubDate>Sat, 19 Sep 2026 21:34:54 +0000</pubDate></item><item><title>「聞き上手」とは？ 6つの共通点——取材カメラマン時代にみた、「プロの聞き手」の技術</title><link>https://studyhacker.net/howto_interview</link><description>[score: 0.874] 筆者はカメラマン時代にインタビュー現場を後ろから見ていて、やっぱりインタビュー上手な人っているよなーとつくづく感じたものでした。そして、ライターになってからは、その真似をしてなんとかいっぱしのインタビュアーを気取ることもできるようにもなりました。 そこで今回は、現場で見たそんな「聞き上手」「インタビュー上手」な人の特徴をまとめてみます。皆さんの仕事や職場での会話のヒントにしてください。 聞き上手の人には、共通する特徴がある 1～3はノンバーバルコミュニケーションの基本中の基本 敬語を少しくずすだけで、場の空気は変わる 聞き上手なのに、なぜかよく喋っている 用意した質問を、そのまま読み上げない </description><guid isPermaLink="false">https://studyhacker.net/howto_interview</guid><pubDate>Sat, 19 Sep 2026 22:21:18 +0000</pubDate></item><item><title>ｽﾀｯｸﾁｬﾝの会話の判断を Jev に任せてみた</title><link>https://qiita.com/kamo-shika/items/99b9a1e6213857126c66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.874] はじめに
-最近ｽﾀｯｸﾁｬﾝと Fitbit Air を買いました。Databricks も合わせて、自分の健康データをいろいろ収集・集計して遊んでいます。
-いま実装しているのは、以下の機能です。
-- 朝・昼・晩に、健康データをもとにｽﾀｯｸﾁｬﾝから報告させる
-- 本体を軽く叩くか、「ｽﾀｯｸﾁｬﾝ」と呼びかけると会話モードに入る
-- 健康（睡眠・歩数・心拍など）や天気の質問に答える
-- 返事の内容に合わせて表情が変わる
-実際に動かした様子がこちらです。
-今回の構成
-今回使っているアーキテクチャの紹介です。
-ｽﾀｯｸﾁｬﾝ（M5Stack CoreS3）
-発話と表情の担当で、マイクもここに乗</description><guid isPermaLink="false">https://qiita.com/kamo-shika/items/99b9a1e6213857126c66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 19 Sep 2026 20:13:50 +0000</pubDate></item><item><title>これこそ〈投機家ケインズ〉が本当に伝えたかったこと…落ちるナイフを誰もつかまない市場を一変させるショック療法 | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/958533?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.875] コンテンツブロックが有効であることを検知しました。
-このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
-なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/958533?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sat, 19 Sep 2026 21:10:12 +0000</pubDate></item><item><title>ドイツ 世界最大のビールの祭典「オクトーバーフェスト」開幕</title><link>https://news.web.nhk/newsweb/na/nd-20260920de51288</link><description>[score: 0.875] 世界最大のビールの祭り、「オクトーバーフェスト」がドイツ南部の都市、ミュンヘンで始まりました。
-オクトーバーフェストは600万人以上が訪れるビールの祭典で、1810年、当時のバイエルン王国の王子の…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 20 Sep 2026 10:33:13 +0000</lastBuildDate><item><title>5分でJev入門（すぐ使う）</title><link>https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] やること
+Jevをちょっと触ってみます。
+Jevは超短い回答だけを超速で返してくれるAIです。
+その他の凄さや可能性などはプロ驚き屋さんの動画などでどうぞ。
+ここでは本当にちょっと使うところだけやります。
+(※2026年09月19日現在の状況をベースとした記事です。)
+TypeSafe ai にアクセス
+まず↑のサイトにアクセスします。
+実はすぐには使えず、ウィッシュリストへの登録が必要です。
+サイトを少しだけスクロールしたところに現れる 「Join Waitlist」 を押します。
+少し懐かしい感じのデザインの小窓が開きますので、
+メアドやアンケート回答を入力していきます。↓
+入力が完了して</description><guid isPermaLink="false">https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 08:42:52 +0000</pubDate></item><item><title>初心者向けJava学習サイトを作りました。～作ったきっかけとコンセプト編～</title><link>https://qiita.com/masaki-engineer/items/5b5c56e7e5a8289b61a1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] 今回、ずっと作りたかった初心者向けのJava学習サイトを、AIにサポートしてもらいながらリリースしました。
+この記事では、作った感想や開発を通して感じたことなどを3部に分けて書いていきたいと思います。
+- 作ったきっかけとコンセプト
+- AI開発の過程
+- 感想とリリース後について
+なぜJava学習サイトを作ったのか
+Javaを使ってWebアプリケーションを開発するようになって、気づけば7年ほど経ちました。
+これまで仕事では、JavaやSpring Bootを使った開発を中心に、認証まわりの実装やAPI開発など、さまざまな経験をしてきました。
+そんな中で、ずっともやもやしていたことがあります。</description><guid isPermaLink="false">https://qiita.com/masaki-engineer/items/5b5c56e7e5a8289b61a1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 08:42:52 +0000</pubDate></item><item><title>東国原氏を書類送検、X投稿で　名誉毀損容疑、元参院議員が告訴 | NEWSjp</title><link>https://news.jp/i/1474294514452185265</link><description>[score: 0.880] 元参院議員の外山斎氏が、自身の名誉をX（旧ツイッター）の投稿で傷つけられたとして、名誉毀損の疑いで、宮崎県の元知事、東国原英夫氏を刑事告訴していたことが20日、分かった。県警は18日、東国原氏を同容疑で書類送検した。外山氏が明らかにした。東国原氏側は取材に「弁護士に任せているので回答できない」とした。東国原氏は来年1月の任期満了に伴う県知事選への出馬を表明している。
+外山氏や告訴状によると、東国原氏は2024年6月、Xで外山氏に関し「暴力団と付き合いがあると言うことか？」と投稿。26年4月に「おわび申し上げます。（投稿を）削除しました」などと書いた。</description><guid isPermaLink="false">https://news.jp/i/1474294514452185265</guid><pubDate>Sun, 20 Sep 2026 08:31:25 +0000</pubDate></item><item><title>【インフラエンジニアによるGreptile入門】コードレビューの負担、AIに任せてみませんか？ (2026/09/29 19:00〜)</title><link>https://asiaquest.connpass.com/event/406914/</link><description>[score: 0.881] 広告
+| 募集内容 |
+一般 無料
+参加者数
+|
+|---|---|
+| 申込者 | 申込者一覧を見る |
+| 開催日時 |
+2026/09/29(火) 19:00 ～ 20:00
+|
+| 募集期間 |
+2026/09/17(木) 16:28
+〜 |
+| 会場 |
+オンライン オンライン |
+| 出席登録 |
+(イベント開始時間の2時間前から終了時間まで、参加者のみに公開されます)
+|
+参加者への情報
+イベントの説明
+【インフラエンジニアによるGreptile入門】コードレビューの負担、AIに任せてみませんか？
+イベント概要
+アジアクエスト クラウドインテグレーション部は、AWS、Azure、</description><guid isPermaLink="false">https://asiaquest.connpass.com/event/406914/</guid><pubDate>Sun, 20 Sep 2026 09:47:36 +0000</pubDate></item><item><title>Jevはサイコロを振らない｜「較正された確率」の意外な落とし穴｜林寛太 Kanta Hayashi</title><link>https://note.com/kantahayashiai/n/n4c54eed30787</link><description>[score: 0.881] Jevはサイコロを振らない｜「較正された確率」の意外な落とし穴
+Jevは、文章を生成せずに、選択や真偽判定などの「判断」を確率とともに返す、TypeSafe AIの判断特化型モデルだ。速度とコストが魅力的で、人々の発想を刺激した点で、優れたプロダクトだと思う。
+ただ、最近の熱狂を見ていると、何でもJevでいけるかのような話になっている。Jevは「システム1（直感的・即時の判断）」に特化した製品で、熟考を省くことで速さと安さを得ている。使える場面はある程度限定的なはずだ。システム1の範囲でも、判断を確率つきで返すだけならLLMのlogitを見れば足りるのでは、という指摘がある。
+これに対する擁護</description><guid isPermaLink="false">https://note.com/kantahayashiai/n/n4c54eed30787</guid><pubDate>Sun, 20 Sep 2026 07:44:04 +0000</pubDate></item><item><title>Autonomous AI Database から Jev を呼んでみた</title><link>https://qiita.com/asahide/items/7fb4c44ebb4b7097c873?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] 1. はじめに
+TypeSafe AI の Jev は、文章を生成しない AI モデルです。入力（state）と型付きの質問（questions）を JSON で渡すと、Noul（真偽を 0〜1 で）、Choice（最大 255 択から 1 つ）、Score（段階）の答えを確率つきで返します1。公式ドキュメントによれば、1 回のリクエストに複数の質問を入れても並列に評価され、質問を増やしても応答時間はほとんど変わりません2。
+Oracle Autonomous AI Database（以下 ADB）の Select AI は、プロバイダとして OpenAI や OCI Generative A</description><guid isPermaLink="false">https://qiita.com/asahide/items/7fb4c44ebb4b7097c873?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 08:42:52 +0000</pubDate></item><item><title>「Jev」とは　“文章を書かないAI”がなぜ話題に？　元OpenAI研究者が開発、「“スマートなif文”と考えてみて」</title><link>https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/</link><description>[score: 0.881] 「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」（1/2 ページ）
+米スタートアップのTypeSafe AIが9月15日（現地時間）に発表したAIモデル「Jev」（ジェヴ）が、海外や日本のAIコミュニティで大きな注目を集めている。創業者であるディオゴ・アルメイダ氏の発表はX上で3700万回以上表示されている（9月20日時点）。
+JevはChatGPTのように「会話するAI」ではない。その代わり、ユーザーが決めた質問や選択肢に対して「判断」だけを構造化データ（JSON）として出力するのが特徴だ。同社はこれを「System On</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/</guid><pubDate>Sun, 20 Sep 2026 07:58:52 +0000</pubDate></item><item><title>日本生命、データセンターに2兆円融資　日本マネーが米AI開発の軸に - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUB076LF0X00C26A9000000/</link><description>[score: 0.882] この記事は会員限定記事です
+日本生命、データセンターに2兆円融資 日本マネーが米AI開発の軸に
+[会員限定記事]
+日本生命保険は人工知能（AI）向けのデータセンター建設などインフラ融資に2兆円を投じる。三菱UFJ銀行は4兆円超のAIインフラ投資ファンドに出資を決めた。AI覇権にまい進する米国で、日本の金融機関が資金供給の軸になりつつある。
+日生は事業が生み出す収益を返済原資とするプロジェクトファイナンス（事業融資）に資金を投じる。国内向けも検討するが、主な融資先は世界最大のデータセンター立地数を誇る米国だ。...
+人工知能（AI）のデータ処理を担うデータセンター投資が空前の規模で膨らんでいます</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUB076LF0X00C26A9000000/</guid><pubDate>Sun, 20 Sep 2026 05:42:14 +0000</pubDate></item><item><title>JevのオープンウェイトモデルOpenJevを開発した話</title><link>https://qiita.com/xeje/items/48c9835a3e5c7b3d5489?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.882] TL;DR
+- TypeSafe AI が発表した「System One モデル」Jev は、テキストを生成せずに 型付きの質問 (Yes/No・選択・スコア) へ校正された確率分布を返す モデルです。ただし重みも学習法の詳細も非公開です。
+- そこで、Hugging Face 上の任意の instruct モデル (Qwen, Llama, Gemma など) を使って同じ振る舞いを再現する OpenJev を作りました。
+- 公式 API
+POST /v1/systemone
+とワイヤ互換なので、公式typesafe-sdk
+が無改造で動きます。 - リポジトリ: https://gith</description><guid isPermaLink="false">https://qiita.com/xeje/items/48c9835a3e5c7b3d5489?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 08:42:52 +0000</pubDate></item><item><title>北朝鮮から弾道ミサイルの可能性あるもの発射と防衛省、きょう2回目 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPMnMtWXJySmNPTC1NWURCeGlGWmpkWnNOd3g1WTFISFRLNXF2UFd1eG5RM3hGUXpibkYxZGwweGRwVE1SSkJjRVlYNE9ib051LVB0Q2YzTnExQV9TeGE3ZkhhZmE5eEtqTUJ1Q3NSbDlOQjhwck5oVkhxSTZrZGpxRlhYOTBCWms?oc=5</link><description>[score: 0.884] 北朝鮮から弾道ミサイルの可能性あるもの発射と防衛省、きょう2回目 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxPMnMtWXJySmNPTC1NWURCeGlGWmpkWnNOd3g1WTFISFRLNXF2UFd1eG5RM3hGUXpibkYxZGwweGRwVE1SSkJjRVlYNE9ib051LVB0Q2YzTnExQV9TeGE3ZkhhZmE5eEtqTUJ1Q3NSbDlOQjhwck5oVkhxSTZrZGpxRlhYOTBCWms?oc=5</guid><pubDate>Sun, 20 Sep 2026 10:11:44 +0000</pubDate></item><item><title>Jevで水平思考クイズのWebアプリを作ったよ【ウミガメのスープ】</title><link>https://qiita.com/tetsuro731/items/daa5c5938d874af3a335?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] Jevを使ったWebアプリを作ったよ
+ここ最近自分のTLでは、新しいAIモデルである Jev が盛り上がっている。
+このJevを使って、「ウミガメのスープ」でお馴染み、水平思考クイズができるWebアプリを作ってみた。
+以下から自由にプレイできる。
+- X (Twitter)にもツイートしました。
+この記事では、このアプリを作った経緯や実装について詳しく説明する。
+Jevとは？
+Jev自体の説明は、すでにいろんな場所でされているのでざっくり。
+JevはTypeSafe AIという企業が公開したAIモデル。
+この企業の創業者であるDiogo Almeida氏は、元OpenAIの人である。
+Jevは</description><guid isPermaLink="false">https://qiita.com/tetsuro731/items/daa5c5938d874af3a335?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 08:42:52 +0000</pubDate></item><item><title>北朝鮮から弾道ミサイルの可能性あるもの発射と防衛省、きょう2回目（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9EZGhLb28xZXc3RC1JU3ZzS1dMYXVYYTdacENoWHl5V2ZMNVJZdVU0X3dSbGprYnlRYzRwLXdXVVFRSTU1RFd2VzVoeUMzSE04OW80U2JTTzVFTzdYN243U3BhSElvR0VGSWRIQkt3ZHFkUWo5eGhYcGk4WW1teEk?oc=5</link><description>[score: 0.884] 北朝鮮から弾道ミサイルの可能性あるもの発射と防衛省、きょう2回目（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9EZGhLb28xZXc3RC1JU3ZzS1dMYXVYYTdacENoWHl5V2ZMNVJZdVU0X3dSbGprYnlRYzRwLXdXVVFRSTU1RFd2VzVoeUMzSE04OW80U2JTTzVFTzdYN243U3BhSElvR0VGSWRIQkt3ZHFkUWo5eGhYcGk4WW1teEk?oc=5</guid><pubDate>Sun, 20 Sep 2026 10:11:44 +0000</pubDate></item><item><title>判断特化AI「Jev」はUX検証に使える？ 正解手順なしでWebサイトを探索させてみた</title><link>https://qiita.com/Aochan0604/items/a5bf7fc1a41e138b0a16?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] Jev は、文章の生成ではなく判断に特化した AI モデルです。
+現在の状態と選択肢を渡して、その中から一つを選ばせることができます。
+Jev の公式ドキュメント
+これを知って、Web サイトの UX 検証と相性がよさそうだと思いました。
+サイトを使う人も「どこを押せばいいか」「これで手続きが終わったか」を判断しているからです。
+UX のすべてではありませんが、この判断のしやすさなら検証できそうです。
+そこで、Jev に目的と画面情報を渡し、正解手順を教えずにサイトを操作させてみました。
+自作ページで 24 回試したところ、素直な導線では 12 回すべて成功し、分かりにくくした導線では途中停止</description><guid isPermaLink="false">https://qiita.com/Aochan0604/items/a5bf7fc1a41e138b0a16?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 08:42:52 +0000</pubDate></item><item><title>ChatGPTのMac向け新機能に「データ丸見え」のリスク？ 　セキュリティベンダーが指摘</title><link>https://www.itmedia.co.jp/enterprise/articles/2609/19/news004.html</link><description>[score: 0.886] ChatGPTのMac向け新機能に「データ丸見え」のリスク？ セキュリティベンダーが指摘 OpenAIは2026年8月中旬、生成AIツール「ChatGPT」のmacOS向けアプリに新機能「Computer History」を追加した。ユーザーがPCで実行した操作を記録し、AIが作業の文脈を把握できるようにする機能だ。「先週、配送に... misshiki MacOpenAI%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3 ChatGPTのMac版「Computer</description><guid isPermaLink="false">https://www.itmedia.co.jp/enterprise/articles/2609/19/news004.html</guid><pubDate>Sun, 20 Sep 2026 06:43:10 +0000</pubDate></item><item><title>ViteでReact x TypeScriptで立ち上げたプロジェクトからcss関連の記述を消す</title><link>https://qiita.com/J-T_ky2g/items/5e2bf2bf02e589e225d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] はじめに
+- 何度も検証用、練習用にviteプロジェクトを立ち上げている
+問題
+- 不要な記述は触りたいファイル内から消すなら手動でいいけど、cssはあっちこっちいくから面倒
+解決
+- 以下のコマンドで解決
+rm src/App.css
+rm src/index.css
+grep -v 'import.*\.css' src/App.tsx &gt; src/App.tsx.tmp &amp;&amp; mv src/App.tsx.tmp src/App.tsx
+grep -v 'import.*\.css' src/main.tsx &gt; src/main.tsx.tmp &amp;&amp; mv src/main.tsx.t</description><guid isPermaLink="false">https://qiita.com/J-T_ky2g/items/5e2bf2bf02e589e225d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 08:42:52 +0000</pubDate></item><item><title>高速判断AI Jevのユースケースとオープン実装を雑にまとめる</title><link>https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations</link><description>[score: 0.886] 高速判断AI Jevのユースケースとオープン実装を雑にまとめる 最近、文章を書かずに判断だけを返すAIモデル「Jev」が話題になっています。 私もJevにマリオやVampire Survivorsを操作させて遊んでいたのですが、発表から数日で解説記事、実用例、オープンな類似実装が一気に増えてきました。情報を追いかけるのが大変になってきたので、2026年9月20日時点の情報を雑にまとめておきま...</description><guid isPermaLink="false">https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations</guid><pubDate>Sun, 20 Sep 2026 10:20:51 +0000</pubDate></item><item><title>MCP × Claude Code × BedrockでPlaywrightの自動化フローを構築</title><link>https://zenn.dev/hirata_infosys/articles/598068e56ae342</link><description>[score: 0.889] はじめに 既存のシステムに対し、AIエージェントを導入しようとする場合、更新系は制約事項が多々あります。基本的にエージェントなどからデータを直接更新することは、禁止されているシステムが多いのではないでしょうか？ そこで、Playwrightを使用することでインターフェースは既存の画面を使用し、人の判断をLLMで代替する一つのAIエージェントの実現手段として、Playwrightの検証を行ってみました。 今回の検証では、社内のWEBシステム（勤怠管理）をPlaywrightで操作しています。 本記事ではPlaywrightの自動化フローを作成するにあたり、MCP × Claude Co...</description><guid isPermaLink="false">https://zenn.dev/hirata_infosys/articles/598068e56ae342</guid><pubDate>Sun, 20 Sep 2026 03:48:55 +0000</pubDate></item><item><title>AI時代の障害対応訓練 ～インシデントに「強いチーム」をつくる～ (2026/10/22 19:15〜)</title><link>https://levtechlab.connpass.com/event/406941/</link><description>[score: 0.890] 10月
+22
+AI時代の障害対応訓練 ～インシデントに「強いチーム」をつくる～
+Tebiki、コインチェック、freeeの3社がご登壇！
+主催 : レバテックLAB
+広告
+| 募集内容 |
+オンライン参加枠 無料
+参加者数
+登壇者・運営枠（招待された方のみ） 無料
+先着順
+|
+|---|---|
+| 申込者 | 申込者一覧を見る |
+| 開催日時 |
+2026/10/22(木) 19:15 ～ 20:30
+|
+| 募集期間 |
+2026/09/15(火) 11:31
+〜 |
+| 会場 |
+オンライン オンライン |
+| 出席登録 |
+(イベント開始時間の2時間前から終了時間まで、参加者のみに公</description><guid isPermaLink="false">https://levtechlab.connpass.com/event/406941/</guid><pubDate>Sun, 20 Sep 2026 08:45:55 +0000</pubDate></item><item><title>アンソロピックCEOがAI開発の減速を要求、「再帰的自己改善と命令なき攻撃」を転機に挙げる</title><link>https://forbesjapan.com/articles/detail/104983?s=ns</link><description>[score: 0.891] AIの開発を減速せよという声があちこちで上がっている現在、Anthropic（アンソロピック）共同創業者のダリオ・アモデイがオンラインで公開したエッセイを読み、それが今後の研究にどんな基調を与えるのかを考えてみたい。
+この問題をめぐっては、まさに今週になって激しい議論が巻き起こった。大手各社で独立した立場から評価を担っていた人々が相次いで辞任し、破滅的な事態が起こりうると警告する一方で、米国の大統領をはじめ、何の問題もないと言い切る人々もいる。ビル・ゲイツのような人物までもが、この件は慎重に見ていくべきだと注意を促している。AIの進歩にこれほど深く関わってきたアモデイは、このタイミングで何を語</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104983?s=ns</guid><pubDate>Sun, 20 Sep 2026 02:08:36 +0000</pubDate></item><item><title>生成AIが書いたドキュメントを読みたくない - Qiita</title><link>https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5</link><description>[score: 0.893] 生成AIが書いたドキュメントを読みたくない - Qiita 株式会社ブレインパッドプロダクト開発部でRtoaster GenAIの開発をしている依田です。 Claude CodeにDesign docやPRを書かせていて、「情報量は多いのに、何を決めたのかがなかなか頭に入ってこない」と感じたこ... atyks</description><guid isPermaLink="false">https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5</guid><pubDate>Sun, 20 Sep 2026 08:45:55 +0000</pubDate></item><item><title>AI コーディング エージェント向け Google Cloud Developer プラグインのご紹介 | Google Cloud 公式ブログ</title><link>https://cloud.google.com/blog/ja/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/</link><description>[score: 0.893] AI コーディング エージェント向け Google Cloud Developer プラグインのご紹介 | Google Cloud 公式ブログ ※この投稿は米国時間 2026 年 9 月 11 日に、Google Cloud blog に投稿されたものの抄訳です。 エージェント スキルをドキュメントやリモート MCP サーバーと組み合わせて使用することは、AI ワークフローを成功... tmatsuu Antigravity CLI、Claude Code、Codex CLIでのインストール手順つき。Claude CodeとCodexの手順も載せてるのえらい。</description><guid isPermaLink="false">https://cloud.google.com/blog/ja/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/</guid><pubDate>Sun, 20 Sep 2026 05:42:14 +0000</pubDate></item><item><title>AIバブルはこうして終わる　金利高と収穫逓減「死の交差」 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUB164ZN0W6A910C2000000/</link><description>[score: 0.893] この記事は会員限定記事です
+AIバブルはこうして終わる 金利高と収穫逓減「死の交差」
+日経QUICKニュース編集委員 永井洋一
+[会員限定記事]
+米国のアンソロピックやオープンAIが人工知能（AI）開発の減速を呼びかけるのは暴走への歯止めだけが理由ではないはずだ。いずれAIが資本を食い潰してしまうディストピアが脳裏をよぎるからだろう。
+AI産業は難問に直面している。追加投資に比べ追加収益はそれほど大きくならないという「収穫逓減の法則」だ。先人が、農地にまく肥料を増やしても思うほど収穫量は増えないとして頭を抱えた古くて新しい問題といえる。...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUB164ZN0W6A910C2000000/</guid><pubDate>Sun, 20 Sep 2026 09:20:01 +0000</pubDate></item><item><title>【分析】トランプ氏のAI規制反対は「中国に勝つ」ため　中国の脅威はどれほどなのか(1/2)</title><link>https://www.cnn.co.jp/tech/35252818.html</link><description>[score: 0.893] インド・ニューデリーで開かれたBRICS首脳会議に出席した中国の習近平（シーチンピン）国家主席＝12日/Alexander Kazakov/Sputnik/Reuters 香港（CNN） 野放しの人工知能（AI）が人類を滅亡させる危険性に世界がおののくなか、米国と中国の首脳が先ごろ、この画期的な技術に対するそれぞれのビジョンを明確に述べた。 両首脳の発言はほぼ対極に位置していた。 トランプ米大統領は米アンソロピック、オープンAI、グーグルのAI研究者や幹部らが開発を遅らせるよう呼びかける声をよそに、最も重要なのは、激化するAI覇権争いで米国が中国に対する優位を維持することだと述べた。 トランプ</description><guid isPermaLink="false">https://www.cnn.co.jp/tech/35252818.html</guid><pubDate>Sun, 20 Sep 2026 06:44:59 +0000</pubDate></item><item><title>好きでやっていたはずなのに、やる気が出ない。やる気を回復させる3つのチェックポイント</title><link>https://studyhacker.net/yaruki-brake-breakout</link><description>[score: 0.894] 本当にやりたくて始めたことなのに、なぜか最近やる気が出ない。最初の頃は、あんなに夢中になれていたのに……。 好きで始めた趣味や学びで、こんなふうに停滞期に陥り、悩んだ経験はありませんか？ じつは、ある程度続けていくと、人は「やる気のブレーキ」を無意識につくってしまうことがあるのです。 求めるレベルが上がっていないか？ やりたいことが広がりすぎていないか？ 義務感にすり替わっていないか？ よくある質問（FAQ） 求めるレベルが上がっていないか？ いつの間にか、自分に求めるレベルが上がっていませんか？ 自分では気づいていなくても、続けるうちにスキルや知識が身につき、目が肥えてきます。すると、以前は</description><guid isPermaLink="false">https://studyhacker.net/yaruki-brake-breakout</guid><pubDate>Sun, 20 Sep 2026 10:01:42 +0000</pubDate></item><item><title>AIが殺人ウイルスをを作り出す心配はない？… 研究者が指摘する、「AI終末論」が現実になりにくい理由</title><link>https://www.businessinsider.jp/article/2609-researchers-ai-apocalypse-skepticism-lethal-virus-real-world-barriers/</link><description>[score: 0.894] - アンソロピックのある研究者が2026年9月に退職して以降、AIによる人類滅亡への警告が一気に広がっている。
+- アンソロピックとOpenAIでAI研究に携わったジェイコブ・コクソンは、世界的なAI開発競争の中で、OpenAIとアンソロピックが「私たちの命を賭けている」と述べた。
+- 研究者らは、致死性ウイルスのような最悪のシナリオについては、現実世界の物理的な制約があるため、実際に起きる可能性は低くなると指摘している。
+AIによる人類滅亡が心配だろうか。研究者の中には、そうしたシナリオのうち最も極端なものについて、懸念が誇張されすぎていると指摘する人もいる。
+この議論は、この1週間で一気に</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-researchers-ai-apocalypse-skepticism-lethal-virus-real-world-barriers/</guid><pubDate>Sat, 19 Sep 2026 23:54:17 +0000</pubDate></item><item><title>台風25号接近 神奈川 三浦 市内全域に高齢者等避難の情報</title><link>https://news.web.nhk/newsweb/na/nd-20260920de51369</link><description>[score: 0.896] 1 / 1
+神奈川県三浦市は、台風の接近に伴い大雨や強風などで災害の危険性が高まるおそれがあるとして、午後5時、市内全域に高齢者等避難の情報を出しました。
+5段階の警戒レベルのうち警戒レベル3にあたる情報で、…
 あわせて読みたい
-ドイツ 首都と北東部の州で議会選挙へ「極右」が支持伸ばすか
-9月20日 4:56
-フーシ派“サウジ首都攻撃に成功”主張 空港近くで火災
-9月20日 6:42
-上方漫才「中田カウス・ボタン」の中田ボタンさん死去 78歳
-9月20日 0:26
-愛知・名古屋アジア大会開幕 天皇陛下が開会を宣言
-9月19日 23:17
-ラグビー 日本がフィジーに勝ち国際大会優勝 W杯へ成長示す
-9月20</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260920de51288</guid><pubDate>Sat, 19 Sep 2026 20:29:38 +0000</pubDate></item><item><title>ServerlessDays Tokyo 2026 「AIエージェントが再発見したサーバーレス」 書き起こし - めもおきば</title><link>https://d.nekoruri.jp/entry/2026/09/19/serverlessdays</link><description>[score: 0.875] ServerlessDays Tokyo 2026 「AIエージェントが再発見したサーバーレス」 書き起こし - めもおきば 💡 この記事は録音データを元にAIで文字起こししたものです。 2026年9月19日のServerlessDays Tokyo 2026で、「AIエージェントが再発見したサーバーレス」というタイトルで話してきました。 AIエージェントの周辺... nekoruri serverlessserverlessjp</description><guid isPermaLink="false">https://d.nekoruri.jp/entry/2026/09/19/serverlessdays</guid><pubDate>Sat, 19 Sep 2026 19:38:27 +0000</pubDate></item><item><title>犬猫用「ケーキ・おせち」が6年で売上1.9倍　ペット市場で進む「エサ→食事」の背景</title><link>https://www.itmedia.co.jp/business/articles/2609/20/news003.html</link><description>[score: 0.877] 丂乽僄僒乿偐傜乽怘帠乿傊丅
-丂嬤擭丄儁僢僩偺怘帠傗僿儖僗働傾偑曄壔偟偰偄傞丅儁僢僩偺寬峃庻柦傪墑偽偟偨偄偲偄偆帞偄庡偺堄岦偐傜乽僾儗儈傾儉僼乕僪乿偲屇偽傟傞崅晅壛壙抣偺儁僢僩梡怘昳偺廀梫偑憹壛丅將梡偱偼擭楊傗將庬丄寬峃忬懺偵墳偠偰彜昳偺嵶暘壔丒懡條壔偑恑傒丄擫梡偱偼寬峃働傾傗崅昳幙側慺嵽傪慽媮偟偨彜昳側偳偑恖婥偩偲偄偆丅
-丂摿暿側婡夛傪堦弿偵妝偟傔傞丄將擫梡偺僋儕僗儅僗働乕僉傗偍偣偪傕岲挷偩丅儁僢僩梡昳揦傗僌儖乕儈儞僌僒儘儞側偳傪塣塩偡傞僀僆儞儁僢僩乮愮梩導巗愳巗乯偱偼丄2025擭偺將擫梡偺椻搥働乕僉丒偍偣偪偺攧忋崅偑2019擭斾偱1.9攞偵怢挿偟偨丅
-丂儁僢僩偺寬峃娗棟傕恑壔偟偰偄傞丅儁僢僩</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2609/20/news003.html</guid><pubDate>Sat, 19 Sep 2026 22:44:17 +0000</pubDate></item><item><title>病への挑戦 がんが消えた！？克服のカギは免疫 | NHKニュース</title><link>https://news.web.nhk/newsweb/na/nd-20260914de50101</link><description>[score: 0.877] 手術や放射線治療なしで患者49人のがんが消えた。
-アメリカトップクラスのがん専門病院が2025年に発表した治験の結果が世界に衝撃を与えました。
-使われたのは、私たちの体に備わる免疫の力を活性化する…
-あわせて読みたい
-梅宮アンナさん 乳がんの経験 共有し乗り越えたい
-8月29日 16:26
-25歳で乳がんに 子どもが欲しい、だから…
-だいたひかるさん 乳がんになったけど…治療と出産を経験して
-頼りにしていた病院が… ステージ4がん患者は
-がんのAI相談 4割にリスク？“致命的な誤情報”を避ける注意点
-脱毛や肌の変色 がんの副作用で私が壊れていく…
-がん患者が歌う「第九」 歓喜の歌に込めた思い
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260914de50101</guid><pubDate>Sat, 19 Sep 2026 22:24:05 +0000</pubDate></item><item><title>“世界最悪”の仕事をAIが引き受け始めた</title><link>https://wired.jp/article/sz-ai-takes-over-debt-collection/</link><description>[score: 0.877] 彼女はイヴと名乗ったが、ベンは電話の向こうの声がボットだということにすぐ気づいた。イヴは彼の名前を知っていた。さらに、彼がかつて滞納していた元大家への未払い金（266ドル）まで把握していた。ただし、その借金が5カ月前に債権回収会社を通して清算済みだということは知らないようだった。
-イヴは自分をProCollect社のAIエージェントだと言い、借金の回収のために電話をかけていると告げた。「本日中にカードか銀行振込でお支払いされますか？」と彼女は尋ねた。
-4月の暖かい午後、オレゴン州ポートランドでベンはその電話に出るため外に出た（金銭問題について具体的に話すために、本記事では仮名を希望した）。日差</description><guid isPermaLink="false">https://wired.jp/article/sz-ai-takes-over-debt-collection/</guid><pubDate>Sat, 19 Sep 2026 22:11:58 +0000</pubDate></item><item><title>中国｢一帯一路｣がヨーロッパで暗礁､インドもなびかず…米中首脳会談を前に外交マラソンを始めた習近平の次の一手は | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/958574?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.878] コンテンツブロックが有効であることを検知しました。
-このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
-なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/958574?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sat, 19 Sep 2026 21:10:12 +0000</pubDate></item><item><title>【2026/9/17最新アプデ】Claude Docs が登場！Slides・Design と合わせて触ってみた</title><link>https://zenn.dev/canly/articles/7ac8cea14c20e8</link><description>[score: 0.880] 本記事は 2026/9/17〜18(日本時間)に実際に触って確かめた内容です。Claude Docs / Claude Slides / Claude Design はいずれも beta 提供中で、公式ドキュメントの記述と実際の挙動が一致しない箇所も確認しています。仕様が変わった箇所は追記で更新します はじめに 2026/9/17(日本時間)、Anthropic が Claude Docs と Claude Slides を公開し、Claude Design も会話の中から使えるようになりました[1]。3 つとも有料プランでの beta 提供です。 なかでも Claude Doc...</description><guid isPermaLink="false">https://zenn.dev/canly/articles/7ac8cea14c20e8</guid><pubDate>Sat, 19 Sep 2026 11:37:02 +0000</pubDate></item><item><title>【RHELハンズオン Day01】httpdは動いている。でも自動起動する？ 状態確認から学んだこと</title><link>https://qiita.com/kentyo0813/items/9a5b001c96c8e4497c34?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] こんにちは
-10月1日から再び働きはじめるにあたり、ITのカンを失わないように毎日RHELでハンズオンしております。
-自分なりにAIからの指示を噛み砕きながらやってますが、忘れっぽいので後で見返せるようにここに残しておきます。
-Codexを使って当時のスクショ整理しつつ良い感じに記事を書いてもらってるので、長いし読みづらいかもしれません（泣）
-やったこと
-RHELサーバの現在の状態を、OS・CPU・メモリ・ディスクから、サービス・ログ・ネットワークまで一通り確認した。
-httpdについては、稼働状態や自動起動設定を確認する操作が残っている。当時の入力を見ると、status
-と enabled
-</description><guid isPermaLink="false">https://qiita.com/kentyo0813/items/9a5b001c96c8e4497c34?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 19 Sep 2026 20:13:50 +0000</pubDate></item><item><title>電動車いす 転落などで死亡事故10年間で34件 NITE注意呼びかけ</title><link>https://news.web.nhk/newsweb/na/nd-20260920de51291</link><description>[score: 0.881] 電動車いすが用水路や側溝に転落するなどして乗っていた高齢者が死亡する事故が過去10年間で34件起きているとして、NITE＝製品評価技術基盤機構が注意を呼びかけています。
-NITEは21日の敬老の日…
-あわせて読みたい
-台風25号 21日から22日ごろ関東など接近へ 大雨など厳重警戒を
-9月20日 7:33
-トランプ大統領「AIフォース」創設と発表 安全性懸念の中
-9月20日 6:28
-フーシ派“サウジ首都攻撃に成功”主張 空港近くで火災
-9月20日 6:42
-上方漫才「中田カウス・ボタン」の中田ボタンさん死去 78歳
-9月20日 0:26
-愛知・名古屋アジア大会開幕 天皇陛下が開会を宣言
-9月</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260920de51291</guid><pubDate>Sat, 19 Sep 2026 20:29:38 +0000</pubDate></item><item><title>Jevで要件定義書をレビューするアプリを作った</title><link>https://qiita.com/miso_taku/items/b5e2150055933b51fba3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.882] はじめに
-2026年9月にリリースされた TypeSafe の Jev という「文章を生成しないAIモデル」で要求定義書をレビューするアプリを作成しました。19の観点から要件定義書を一括評価し、不足している項目と改善ガイダンスを表示する Streamlit アプリです。
-この記事では、Jev とは何か（なぜ普通のLLMじゃないのか）、APIキーの取得方法、そして作ったアプリの中身と設計を順に説明します。
-Jev とは何か
-「System One モデル」という新しいカテゴリ
-Jev は TypeSafe AI が2026年9月に公開したモデルで、System One モデルという新しいカテゴリ</description><guid isPermaLink="false">https://qiita.com/miso_taku/items/b5e2150055933b51fba3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 19 Sep 2026 20:13:50 +0000</pubDate></item><item><title>米国債の保有構造の変化（10年間で大きく変化した内訳を読む）</title><link>https://note.com/cjdbx883/n/n8a640ab43b5d</link><description>[score: 0.883] １．はじめに 市場でいま何が起きているのか。 注目ニュース、重要な経済指標、政策発言、企業決算、相場の値動きなどを、1000文字程度でコンパクトに解説します。 このメンバーシップは、投資判断のプロセスを深く学ぶ「投資思考の再現性」を目的としたものではありません。むしろ、日々のマーケットで見逃せない材料を、できるだけ速報性を持って整理し、「なぜ市場が反応しているのか」「何に注目すべきか」を短時間でつかむためのコンテンツです。 忙しい中でも、重要なニュースやデータの意味を素早く確認したい方、相場の流れを日々キャッチアップしたい方に向けて、マーケットの注目点をわかりやすくお届けします。 続きをみる</description><guid isPermaLink="false">https://note.com/cjdbx883/n/n8a640ab43b5d</guid><pubDate>Sat, 19 Sep 2026 21:39:20 +0000</pubDate></item><item><title>ハーネス（OpenCode）＋ローカルLLM ７モデル比較で Qwen3.8-Flash-Next が満点！</title><link>https://qiita.com/nabe2030/items/ad2b6c223e5992ba78e4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] TL;DR：概略まとめ
-- 自宅ラボの実案件（ファイルサーバのカタログDB設計）を ３つの課題に分け、同じハーネス（OpenCode）・同じ指示書で 7 つのローカルLLM に解かせた。課題は「SSHアクセスで対象サーバを調べ、既存の運用スクリプトを読み解き、制約付きで設計書を書く」で、コードを書く課題ではない
-- Qwen3.8-Flash-Next が 45 点満点。 ３つの課題すべてで、評価者を含む全員が共有していた前提の誤りを実測で訂正した。SELinux のポリシーをソースまで読んで「このまま構築すると失敗する地点」を先回りし、既存サービスのコードを読んで「頻繁な書き込みは存在しない</description><guid isPermaLink="false">https://qiita.com/nabe2030/items/ad2b6c223e5992ba78e4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 19 Sep 2026 20:13:50 +0000</pubDate></item><item><title>AWS AI-DLC Unicorn Gymに参加して感じた、AI時代に開発者の仕事はどう変わるのか</title><link>https://qiita.com/hacchi_no_donburi/items/d651b20b18bfd4695069?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] はじめに
-今回、AWS AI-DLC Unicorn Gymに参加し、システムへの機能追加を題材にAI-DLCを体験しました。
-参加前は「AIがコードを書くことで開発が速くなる」というイメージを持っていました。しかし実際に体験してみると、変化していたのはコーディング速度そのものではなく、開発者が担う役割や意思決定のあり方でした。
-AI-DLCでは、AIが不足している前提や未決事項を問いかけ、人が判断します。そして、その判断をもとにAIが計画、実装、検証を進めていきます。
-本記事では、AI-DLCの概要だけでなく、実際に体験して感じた開発スタイルの変化について紹介します。
-AI-DLCとは
-AI</description><guid isPermaLink="false">https://qiita.com/hacchi_no_donburi/items/d651b20b18bfd4695069?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 19 Sep 2026 20:13:50 +0000</pubDate></item><item><title>FASTをやめて1年が経ったので取り組みを振り返る｜Yoshiki Iida</title><link>https://note.com/ysk_118/n/n826b7b51604b</link><description>[score: 0.886] FASTをやめて1年が経ったので取り組みを振り返る
-はじめに
-こんにちは、ログラスの飯田です。
-ログラスの経営管理プロダクトの組織では2024年8月からFASTというアジャイルフレームワークを用い開発を行っていました。
-当時、国内の事例はほとんどなく、ログラスからは国内初の事例としてFASTに関する記事を積極的に発信していたのでご存じの方もいるかもしれません。
-さて、そんなFASTですが実は2025年の10月ごろに取り組みを終了しています。
-公式な発信として取り組みを終了したことを発信するのはこの記事が初になるため、その後どうなったのか？と気になっていた方はぜひお読みいただければ幸いです。
-時</description><guid isPermaLink="false">https://note.com/ysk_118/n/n826b7b51604b</guid><pubDate>Sat, 19 Sep 2026 22:04:42 +0000</pubDate></item><item><title>動物園で相次いだリスザル･ミーアキャットの突然死…｢10月なのに熱中症｣｢7月なのに熱中症じゃない｣に潜む"季節の罠" | ライフ | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/958133?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.886] コンテンツブロックが有効であることを検知しました。
-このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
-なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/958133?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sat, 19 Sep 2026 22:36:44 +0000</pubDate></item><item><title>ドイツ 首都と北東部の州で議会選挙へ「極右」が支持伸ばすか</title><link>https://news.web.nhk/newsweb/na/nd-20260920de51287</link><description>[score: 0.887] ドイツの首都ベルリンと北東部の州で20日、議会選挙が行われます。
-一部の州で極右団体に認定されている政党「ドイツのための選択肢」がどこまで支持を伸ばすのか注目されます。
-ドイツの首都ベルリンと北…
-あわせて読みたい
-ドイツ州議選で躍進の「極右」党首と首相が議会で舌戦
-9月10日 4:26
-フーシ派“サウジ首都攻撃に成功”主張 空港近くで火災
-9月20日 6:42
-米政府高官“日米首脳会談は22日 米中首脳会談はAIなど議論”
-9月19日 12:09
-グーグルの生成AI サイバー能力試験中に他社のシステムに侵入
-9月19日 12:55
-米カリフォルニア州 AIに「キルスイッチ」導入義務化検討へ
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260920de51287</guid><pubDate>Sat, 19 Sep 2026 20:29:38 +0000</pubDate></item><item><title>平均年齢86歳｢夕食だけ一緒｣の超快適シニアライフ…老人ホームとも違う､食事でつながる《ゆるい共同生活》の醍醐味 | ライフ | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/958604?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.889] コンテンツブロックが有効であることを検知しました。
-このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
-なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/958604?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sat, 19 Sep 2026 20:40:24 +0000</pubDate></item><item><title>来週の相場見通し（9/21～9/25）③『来週のイベント関連（政治的に重要週）』</title><link>https://note.com/cjdbx883/n/n0bc5c0522c85</link><description>[score: 0.889] 来週の相場見通し（9/21～9/25）③『来週のイベント関連（政治的に重要週）』
-１．はじめに
-来週は経済指標よりも、政治・外交と金利が相場を動かす一週間となりそうだ。最大のイベントは24日の米中首脳会談であるが、その前に国連総会、日米首脳会談、世界各国の中央銀行会合、欧米PMI、米国債入札が集中する。日本市場は21～23日が3連休となる。
-２．来週のイベント・経済指標
-9月21日（月）
-21日は敬老の日で東京市場が休場。翌22日は「国民の休日」、23日は秋分の日であり、日本株の現物市場は3営業日連続で休場する。一方、為替、海外市場、日経平均先物は通常通り動く。
-10時には中国の1年物と5年物</description><guid isPermaLink="false">https://note.com/cjdbx883/n/n0bc5c0522c85</guid><pubDate>Sat, 19 Sep 2026 20:38:50 +0000</pubDate></item><item><title>トランプ大統領「AIフォース」創設と発表 安全性懸念の中</title><link>https://news.web.nhk/newsweb/na/nd-20260920de51300</link><description>[score: 0.890] AI＝人工知能の開発と安全性をめぐる議論が活発になるなか、アメリカのトランプ大統領は「AIの悪を探すため」として「AIフォース」を創設すると明らかにしました。
-アメリカのAI企業のトップや開発担当…
-「かあちゃん 見捨てんどってくれてありがとう」
-都心のマンション販売にかげり？ 価格は「天井」に届いたか
-100メートル8秒台が続出！中国人型ロボットどこに向かう？
-AI需要拡大で経済・物価どうなる 日銀の金融政策にも影響？
-トランプ大統領が会談に意欲 北朝鮮どう出るか
-歴史を変えるのはあなた？立体地図で“遺跡大発見時代”が到来
-“令和のミスター円”円安トレンド変えるには？【経済コラム】
-進駐軍コ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260920de51300</guid><pubDate>Sat, 19 Sep 2026 21:59:59 +0000</pubDate></item><item><title>台風25号 21日から関東など接近へ 大雨や暴風に備えを</title><link>https://news.web.nhk/newsweb/na/nd-20260919de51282</link><description>[score: 0.891] 大型で強い台風25号は、21日から22日ごろにかけて関東など東日本の太平洋側に強い勢力で接近する見込みで、東海から東北の太平洋側では平年の9月1か月分の雨量が1日で降るような大雨も予想されています。大…
-台風25号に備える 八丈島の酒蔵で雨風対策 静岡県の漁港でも
-9月19日 19:14
-台風接近 連休中どう過ごす？観光地では中止になるイベントも
-9月18日 17:39
-【最新の台風情報】予想進路や勢力などを詳しく
+【ライブ配信】台風25号 関東など接近へ 各地の様子
+9月20日 11:36
+台風25号 あすから関東などに接近へ 連休中の交通機関に影響も
+9月20日 16:21
+【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー
+9月20日 18:35
+鉄道運行情報
 台風マップ 予想進路や勢力をリアルタイム表示
-新たな防災気象情報と避難 いつ避難する？
 台風接近前にやっておきたい備え「タイムライン」で
-台風や低気圧による「暴風」注意点と対策は
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260919de51282</guid><pubDate>Sat, 19 Sep 2026 20:29:38 +0000</pubDate></item><item><title>生成AIセキュリティを学んで変わった「AIを安全に使う」という考え方</title><link>https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] はじめに
-現在、Webエンジニアを目指して学習を進める中で、AI駆動開発についても学んでいます。今回は、Happiness Chainのカリキュラムで生成AIセキュリティについて学ぶ機会があり、Prompt InjectionやJailbreak、情報漏洩、RAGのセキュリティ、企業でAIを利用する際のガードレールなどについて学びました。
-受講前は、生成AIのセキュリティというと「個人情報や機密情報を入力しない」「AIの回答を鵜呑みにしない」といったイメージを持っていました。しかし学習を進めるうちに、「そもそも、この情報をAIに渡してよいのか」「読み込ませるデータに悪意のある指示が含まれていた</description><guid isPermaLink="false">https://qiita.com/kf_webdev/items/cbd1d7bb724676a3b686?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 19 Sep 2026 20:13:50 +0000</pubDate></item><item><title>AWSが中国製オープンAI「Kimi K3」提供開始、2.8兆パラメータで100万トークン対応（ビジネス＋IT） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/bd7a8898e4fd290fe8e8eb6d02ff74f1be545faa</link><description>[score: 0.893] AWSが中国製オープンAI「Kimi K3」提供開始、2.8兆パラメータで100万トークン対応
-米アマゾン・ウェブ・サービス（AWS）が、中国ムーンショットAIのAIモデル「Kimi K3」をAmazon Bedrockで提供開始した。オープンモデルとして初めて2.8兆パラメータに到達したとされ、100万トークンの文脈と画像認識を備える。Bedrock上のオープンウェイトモデルでは初めて明示的プロンプトキャッシュに対応した。
-米アマゾン・ウェブ・サービス（AWS）は9月18日（米国時間）、中国のムーンショットAIが開発したAIモデル「Kimi K3」を、生成AI基盤「Amazon Bedroc</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/bd7a8898e4fd290fe8e8eb6d02ff74f1be545faa</guid><pubDate>Sat, 19 Sep 2026 21:39:24 +0000</pubDate></item><item><title>「月58万円を自由に使う」若年富裕層は何を買う？　世帯年収「3000万円超」のお金の使い方とは</title><link>https://www.itmedia.co.jp/business/articles/2609/20/news005.html</link><description>[score: 0.895] 博報堂が運営する「博報堂富裕層マーケティングラボ」は富裕層の価値観、生活行動、消費意識、情報接点を分析した「新富裕層調査2026」を発表した。
-世帯年収3000万円以上の富裕層にはどのような消費の傾向があるのか。調査から、若年富裕層、シニア富裕層それぞれで特徴的な傾向が見えてきた。
-今回の調査では中でも世帯年収3000万円以上の富裕層世帯を「新富裕層」としてフォーカスして分析した。
-調査は20〜69歳の男女計3709人を対象に実施した。内、世帯年収3000万円以上は547人で、全体値は実際の人口構成に基づきウェイトバック集計を実施している。
-新富裕層では、51％が「モノよりも体験や経験にお金を</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2609/20/news005.html</guid><pubDate>Sat, 19 Sep 2026 21:45:29 +0000</pubDate></item><item><title>米オラクル決算から見えた｢AIインフラの現在地｣ 4年以上前のGPUが20%高い価格で再契約 | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/958314?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.899] オラクルは1977年創業の米ソフトウェア企業。主力のデータベースに加え、クラウドインフラ「OCI」、業務アプリケーション「Fusion」「NetSuite」、医療分野の「Oracle Health」を手がけています。共同CEO体制をとっており、マイク・シシリアCEOがアプリケーション事業、クレイ・マグワークCEOがインフラ事業を主に担当しています。
-2026年6〜8月期の売上高は過去最高の193億ドルで、前年比30%増。6〜8月期の売上高が直前の3〜5月期を上回ったのは初めてです。クラウドインフラ売上高は74億ドルで前年比121%増となり、直前四半期の93%増からさらに加速しています。2027</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/958314?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sat, 19 Sep 2026 22:07:03 +0000</pubDate></item><item><title>Gemini搭載PC「Googlebook」ついに予約開始へ／Anthropic CEOのAI開発減速提言</title><link>https://www.itmedia.co.jp/pcuser/articles/2609/20/news008.html</link><description>[score: 0.905] うっかり見逃していたけれど、ちょっと気になる――そんなニュースを週末に“一気読み”する連載。今回は、9月13日週を中心に公開された主なニュースを一気にチェックしましょう！
-Googleが、Gemini搭載のノートPC「Googlebook」の予約受付を9月21日に開始する。同社の公式Webサイトに「Pre-order September 21」の表記が追加された。
-Googlebookは、5月の「The Android Show：I/O Edition」で発表された新カテゴリーのノートPCだ。ChromeOSとAndroidの技術を組み合わせたフラッグシップ機という位置付けで、Googleは既</description><guid isPermaLink="false">https://www.itmedia.co.jp/pcuser/articles/2609/20/news008.html</guid><pubDate>Sat, 19 Sep 2026 21:45:29 +0000</pubDate></item></channel></rss>
+天気防災サ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260920de51369</guid><pubDate>Sun, 20 Sep 2026 09:24:26 +0000</pubDate></item><item><title>AIがテストを書ける時代、「何をテストしないか」をどう決めるか</title><link>https://qiita.com/y0us91/items/61edde2960bd6cdbdfa9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.896] Coding Agentに実装を任せていると、テストも簡単に増えていきます。
+コードを変更する。
+AIが変更に合わせてテストを書く。
+テストを実行してGreenになる。
+便利です。
+ただ、最近少し気になることがあります。
+そのテスト、本当に必要だったのだろうか。
+「変更したからテストを追加する」でいいのか
+例えば、あるAPIで次の状態を扱っていたとします。
+draft
+active
+paused
+archived
+仕様変更によって paused
+がなくなりました。
+変更後は、
+draft
+active
+archived
+だけを受け付けます。
+この変更をCoding Agentへ任せたところ、次</description><guid isPermaLink="false">https://qiita.com/y0us91/items/61edde2960bd6cdbdfa9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 08:42:52 +0000</pubDate></item><item><title>システム設計視点の行動経済学 全30回 総復習</title><link>https://qiita.com/maskot1977/items/d57c6c1913cb8e1fd833?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.897] このシリーズ第1〜20回の詳細は全20回総復習記事を参照してください。本記事では第21〜30回（Arc IV）を重点的に取り上げ、全30回を統合的に振り返ります。
+user:
+「システム設計視点の行動経済学」シリーズが第30回まで完結しました。以前の全20回総復習記事を踏まえ、第21〜30回の内容を加えた全30回総復習記事を作成してください。
+Claude Code:
+承知しました。全30回の一覧表と構造整理から始めます。
+全30回 一覧表
+| # | Arc | タイトル | 主要概念 |
+|---|---|---|---|
+| 1 | Arc I 🟠 | 認知バイアスとフレーミング | 損</description><guid isPermaLink="false">https://qiita.com/maskot1977/items/d57c6c1913cb8e1fd833?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 08:42:52 +0000</pubDate></item><item><title>このシルバーウィークに「非エンジニアでも自分のサービスをAIで作ってみたい」人のための記事ガイド｜梶谷健人</title><link>https://note.com/kajiken0630/n/n91a5a9e00bc3</link><description>[score: 0.909] このシルバーウィークに「非エンジニアでも自分のサービスをAIで作ってみたい」人のための記事ガイド｜梶谷健人 このシルバーウィークに「AIを使って自分のサービスを作ってみたい」と思っている人向けに、「これを上から順番に読み切ったら、非エンジニアでも自分のサービスを作ってリリースするまでの流れやポイントをバッチリ押さえられる」という記事ガイドを作りました。 ぼく自身も、非エンジニアながらClaude CodeとCodexを使...</description><guid isPermaLink="false">https://note.com/kajiken0630/n/n91a5a9e00bc3</guid><pubDate>Sun, 20 Sep 2026 09:20:01 +0000</pubDate></item><item><title>手を動かして学ぶ Claude Code入門 | SBクリエイティブ</title><link>https://www.sbcr.jp/product/4815646813/</link><description>[score: 0.911] 手を動かして学ぶ Claude Code入門
+AIエージェントを思い通りに動かす、CLAUDE.mdとルール群の育て方
+Claude CodeでAI開発力を飛躍！基礎から実践まで、作りながら学べる必読入門書
+Claude Codeを使った駆動開発の基本から応用まで、丁寧な解説で確実に身につく！
+本書は、AIコーディング支援ツールClaude Codeおよびそれを利用したAI開発の入門解説書です。
+Claude Codeを使って簡単なアプリ以上のものを作ろうとしたときに陥りがちな課題も取り上げながら、陳腐化しづらいAIへの指示の文脈や構成ファイルの設計などを、仮想プロジェクトの開発を通して体系的</description><guid isPermaLink="false">https://www.sbcr.jp/product/4815646813/</guid><pubDate>Sun, 20 Sep 2026 06:43:10 +0000</pubDate></item></channel></rss>
