@@ -1,168 +1,227 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 20 Sep 2026 10:33:13 +0000</lastBuildDate><item><title>5分でJev入門（すぐ使う）</title><link>https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] やること
-Jevをちょっと触ってみます。
-Jevは超短い回答だけを超速で返してくれるAIです。
-その他の凄さや可能性などはプロ驚き屋さんの動画などでどうぞ。
-ここでは本当にちょっと使うところだけやります。
-(※2026年09月19日現在の状況をベースとした記事です。)
-TypeSafe ai にアクセス
-まず↑のサイトにアクセスします。
-実はすぐには使えず、ウィッシュリストへの登録が必要です。
-サイトを少しだけスクロールしたところに現れる 「Join Waitlist」 を押します。
-少し懐かしい感じのデザインの小窓が開きますので、
-メアドやアンケート回答を入力していきます。↓
-入力が完了して</description><guid isPermaLink="false">https://qiita.com/Ninagawa123/items/8ec3f5fe18c20fab1b2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 08:42:52 +0000</pubDate></item><item><title>初心者向けJava学習サイトを作りました。～作ったきっかけとコンセプト編～</title><link>https://qiita.com/masaki-engineer/items/5b5c56e7e5a8289b61a1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] 今回、ずっと作りたかった初心者向けのJava学習サイトを、AIにサポートしてもらいながらリリースしました。
-この記事では、作った感想や開発を通して感じたことなどを3部に分けて書いていきたいと思います。
-- 作ったきっかけとコンセプト
-- AI開発の過程
-- 感想とリリース後について
-なぜJava学習サイトを作ったのか
-Javaを使ってWebアプリケーションを開発するようになって、気づけば7年ほど経ちました。
-これまで仕事では、JavaやSpring Bootを使った開発を中心に、認証まわりの実装やAPI開発など、さまざまな経験をしてきました。
-そんな中で、ずっともやもやしていたことがあります。</description><guid isPermaLink="false">https://qiita.com/masaki-engineer/items/5b5c56e7e5a8289b61a1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 08:42:52 +0000</pubDate></item><item><title>東国原氏を書類送検、X投稿で　名誉毀損容疑、元参院議員が告訴 | NEWSjp</title><link>https://news.jp/i/1474294514452185265</link><description>[score: 0.880] 元参院議員の外山斎氏が、自身の名誉をX（旧ツイッター）の投稿で傷つけられたとして、名誉毀損の疑いで、宮崎県の元知事、東国原英夫氏を刑事告訴していたことが20日、分かった。県警は18日、東国原氏を同容疑で書類送検した。外山氏が明らかにした。東国原氏側は取材に「弁護士に任せているので回答できない」とした。東国原氏は来年1月の任期満了に伴う県知事選への出馬を表明している。
-外山氏や告訴状によると、東国原氏は2024年6月、Xで外山氏に関し「暴力団と付き合いがあると言うことか？」と投稿。26年4月に「おわび申し上げます。（投稿を）削除しました」などと書いた。</description><guid isPermaLink="false">https://news.jp/i/1474294514452185265</guid><pubDate>Sun, 20 Sep 2026 08:31:25 +0000</pubDate></item><item><title>【インフラエンジニアによるGreptile入門】コードレビューの負担、AIに任せてみませんか？ (2026/09/29 19:00〜)</title><link>https://asiaquest.connpass.com/event/406914/</link><description>[score: 0.881] 広告
-| 募集内容 |
-一般 無料
-参加者数
-|
-|---|---|
-| 申込者 | 申込者一覧を見る |
-| 開催日時 |
-2026/09/29(火) 19:00 ～ 20:00
-|
-| 募集期間 |
-2026/09/17(木) 16:28
-〜 |
-| 会場 |
-オンライン オンライン |
-| 出席登録 |
-(イベント開始時間の2時間前から終了時間まで、参加者のみに公開されます)
-|
-参加者への情報
-イベントの説明
-【インフラエンジニアによるGreptile入門】コードレビューの負担、AIに任せてみませんか？
-イベント概要
-アジアクエスト クラウドインテグレーション部は、AWS、Azure、</description><guid isPermaLink="false">https://asiaquest.connpass.com/event/406914/</guid><pubDate>Sun, 20 Sep 2026 09:47:36 +0000</pubDate></item><item><title>Jevはサイコロを振らない｜「較正された確率」の意外な落とし穴｜林寛太 Kanta Hayashi</title><link>https://note.com/kantahayashiai/n/n4c54eed30787</link><description>[score: 0.881] Jevはサイコロを振らない｜「較正された確率」の意外な落とし穴
-Jevは、文章を生成せずに、選択や真偽判定などの「判断」を確率とともに返す、TypeSafe AIの判断特化型モデルだ。速度とコストが魅力的で、人々の発想を刺激した点で、優れたプロダクトだと思う。
-ただ、最近の熱狂を見ていると、何でもJevでいけるかのような話になっている。Jevは「システム1（直感的・即時の判断）」に特化した製品で、熟考を省くことで速さと安さを得ている。使える場面はある程度限定的なはずだ。システム1の範囲でも、判断を確率つきで返すだけならLLMのlogitを見れば足りるのでは、という指摘がある。
-これに対する擁護</description><guid isPermaLink="false">https://note.com/kantahayashiai/n/n4c54eed30787</guid><pubDate>Sun, 20 Sep 2026 07:44:04 +0000</pubDate></item><item><title>Autonomous AI Database から Jev を呼んでみた</title><link>https://qiita.com/asahide/items/7fb4c44ebb4b7097c873?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] 1. はじめに
-TypeSafe AI の Jev は、文章を生成しない AI モデルです。入力（state）と型付きの質問（questions）を JSON で渡すと、Noul（真偽を 0〜1 で）、Choice（最大 255 択から 1 つ）、Score（段階）の答えを確率つきで返します1。公式ドキュメントによれば、1 回のリクエストに複数の質問を入れても並列に評価され、質問を増やしても応答時間はほとんど変わりません2。
-Oracle Autonomous AI Database（以下 ADB）の Select AI は、プロバイダとして OpenAI や OCI Generative A</description><guid isPermaLink="false">https://qiita.com/asahide/items/7fb4c44ebb4b7097c873?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 08:42:52 +0000</pubDate></item><item><title>「Jev」とは　“文章を書かないAI”がなぜ話題に？　元OpenAI研究者が開発、「“スマートなif文”と考えてみて」</title><link>https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/</link><description>[score: 0.881] 「Jev」とは “文章を書かないAI”がなぜ話題に？ 元OpenAI研究者が開発、「“スマートなif文”と考えてみて」（1/2 ページ）
-米スタートアップのTypeSafe AIが9月15日（現地時間）に発表したAIモデル「Jev」（ジェヴ）が、海外や日本のAIコミュニティで大きな注目を集めている。創業者であるディオゴ・アルメイダ氏の発表はX上で3700万回以上表示されている（9月20日時点）。
-JevはChatGPTのように「会話するAI」ではない。その代わり、ユーザーが決めた質問や選択肢に対して「判断」だけを構造化データ（JSON）として出力するのが特徴だ。同社はこれを「System On</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2609/20/2000001664/</guid><pubDate>Sun, 20 Sep 2026 07:58:52 +0000</pubDate></item><item><title>日本生命、データセンターに2兆円融資　日本マネーが米AI開発の軸に - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUB076LF0X00C26A9000000/</link><description>[score: 0.882] この記事は会員限定記事です
-日本生命、データセンターに2兆円融資 日本マネーが米AI開発の軸に
-[会員限定記事]
-日本生命保険は人工知能（AI）向けのデータセンター建設などインフラ融資に2兆円を投じる。三菱UFJ銀行は4兆円超のAIインフラ投資ファンドに出資を決めた。AI覇権にまい進する米国で、日本の金融機関が資金供給の軸になりつつある。
-日生は事業が生み出す収益を返済原資とするプロジェクトファイナンス（事業融資）に資金を投じる。国内向けも検討するが、主な融資先は世界最大のデータセンター立地数を誇る米国だ。...
-人工知能（AI）のデータ処理を担うデータセンター投資が空前の規模で膨らんでいます</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUB076LF0X00C26A9000000/</guid><pubDate>Sun, 20 Sep 2026 05:42:14 +0000</pubDate></item><item><title>JevのオープンウェイトモデルOpenJevを開発した話</title><link>https://qiita.com/xeje/items/48c9835a3e5c7b3d5489?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.882] TL;DR
-- TypeSafe AI が発表した「System One モデル」Jev は、テキストを生成せずに 型付きの質問 (Yes/No・選択・スコア) へ校正された確率分布を返す モデルです。ただし重みも学習法の詳細も非公開です。
-- そこで、Hugging Face 上の任意の instruct モデル (Qwen, Llama, Gemma など) を使って同じ振る舞いを再現する OpenJev を作りました。
-- 公式 API
-POST /v1/systemone
-とワイヤ互換なので、公式typesafe-sdk
-が無改造で動きます。 - リポジトリ: https://gith</description><guid isPermaLink="false">https://qiita.com/xeje/items/48c9835a3e5c7b3d5489?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 08:42:52 +0000</pubDate></item><item><title>北朝鮮から弾道ミサイルの可能性あるもの発射と防衛省、きょう2回目 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPMnMtWXJySmNPTC1NWURCeGlGWmpkWnNOd3g1WTFISFRLNXF2UFd1eG5RM3hGUXpibkYxZGwweGRwVE1SSkJjRVlYNE9ib051LVB0Q2YzTnExQV9TeGE3ZkhhZmE5eEtqTUJ1Q3NSbDlOQjhwck5oVkhxSTZrZGpxRlhYOTBCWms?oc=5</link><description>[score: 0.884] 北朝鮮から弾道ミサイルの可能性あるもの発射と防衛省、きょう2回目 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxPMnMtWXJySmNPTC1NWURCeGlGWmpkWnNOd3g1WTFISFRLNXF2UFd1eG5RM3hGUXpibkYxZGwweGRwVE1SSkJjRVlYNE9ib051LVB0Q2YzTnExQV9TeGE3ZkhhZmE5eEtqTUJ1Q3NSbDlOQjhwck5oVkhxSTZrZGpxRlhYOTBCWms?oc=5</guid><pubDate>Sun, 20 Sep 2026 10:11:44 +0000</pubDate></item><item><title>Jevで水平思考クイズのWebアプリを作ったよ【ウミガメのスープ】</title><link>https://qiita.com/tetsuro731/items/daa5c5938d874af3a335?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] Jevを使ったWebアプリを作ったよ
-ここ最近自分のTLでは、新しいAIモデルである Jev が盛り上がっている。
-このJevを使って、「ウミガメのスープ」でお馴染み、水平思考クイズができるWebアプリを作ってみた。
-以下から自由にプレイできる。
-- X (Twitter)にもツイートしました。
-この記事では、このアプリを作った経緯や実装について詳しく説明する。
-Jevとは？
-Jev自体の説明は、すでにいろんな場所でされているのでざっくり。
-JevはTypeSafe AIという企業が公開したAIモデル。
-この企業の創業者であるDiogo Almeida氏は、元OpenAIの人である。
-Jevは</description><guid isPermaLink="false">https://qiita.com/tetsuro731/items/daa5c5938d874af3a335?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 08:42:52 +0000</pubDate></item><item><title>北朝鮮から弾道ミサイルの可能性あるもの発射と防衛省、きょう2回目（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9EZGhLb28xZXc3RC1JU3ZzS1dMYXVYYTdacENoWHl5V2ZMNVJZdVU0X3dSbGprYnlRYzRwLXdXVVFRSTU1RFd2VzVoeUMzSE04OW80U2JTTzVFTzdYN243U3BhSElvR0VGSWRIQkt3ZHFkUWo5eGhYcGk4WW1teEk?oc=5</link><description>[score: 0.884] 北朝鮮から弾道ミサイルの可能性あるもの発射と防衛省、きょう2回目（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9EZGhLb28xZXc3RC1JU3ZzS1dMYXVYYTdacENoWHl5V2ZMNVJZdVU0X3dSbGprYnlRYzRwLXdXVVFRSTU1RFd2VzVoeUMzSE04OW80U2JTTzVFTzdYN243U3BhSElvR0VGSWRIQkt3ZHFkUWo5eGhYcGk4WW1teEk?oc=5</guid><pubDate>Sun, 20 Sep 2026 10:11:44 +0000</pubDate></item><item><title>判断特化AI「Jev」はUX検証に使える？ 正解手順なしでWebサイトを探索させてみた</title><link>https://qiita.com/Aochan0604/items/a5bf7fc1a41e138b0a16?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] Jev は、文章の生成ではなく判断に特化した AI モデルです。
-現在の状態と選択肢を渡して、その中から一つを選ばせることができます。
-Jev の公式ドキュメント
-これを知って、Web サイトの UX 検証と相性がよさそうだと思いました。
-サイトを使う人も「どこを押せばいいか」「これで手続きが終わったか」を判断しているからです。
-UX のすべてではありませんが、この判断のしやすさなら検証できそうです。
-そこで、Jev に目的と画面情報を渡し、正解手順を教えずにサイトを操作させてみました。
-自作ページで 24 回試したところ、素直な導線では 12 回すべて成功し、分かりにくくした導線では途中停止</description><guid isPermaLink="false">https://qiita.com/Aochan0604/items/a5bf7fc1a41e138b0a16?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 08:42:52 +0000</pubDate></item><item><title>ChatGPTのMac向け新機能に「データ丸見え」のリスク？ 　セキュリティベンダーが指摘</title><link>https://www.itmedia.co.jp/enterprise/articles/2609/19/news004.html</link><description>[score: 0.886] ChatGPTのMac向け新機能に「データ丸見え」のリスク？ セキュリティベンダーが指摘 OpenAIは2026年8月中旬、生成AIツール「ChatGPT」のmacOS向けアプリに新機能「Computer History」を追加した。ユーザーがPCで実行した操作を記録し、AIが作業の文脈を把握できるようにする機能だ。「先週、配送に... misshiki MacOpenAI%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3 ChatGPTのMac版「Computer</description><guid isPermaLink="false">https://www.itmedia.co.jp/enterprise/articles/2609/19/news004.html</guid><pubDate>Sun, 20 Sep 2026 06:43:10 +0000</pubDate></item><item><title>ViteでReact x TypeScriptで立ち上げたプロジェクトからcss関連の記述を消す</title><link>https://qiita.com/J-T_ky2g/items/5e2bf2bf02e589e225d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] はじめに
-- 何度も検証用、練習用にviteプロジェクトを立ち上げている
-問題
-- 不要な記述は触りたいファイル内から消すなら手動でいいけど、cssはあっちこっちいくから面倒
-解決
-- 以下のコマンドで解決
-rm src/App.css
-rm src/index.css
-grep -v 'import.*\.css' src/App.tsx &gt; src/App.tsx.tmp &amp;&amp; mv src/App.tsx.tmp src/App.tsx
-grep -v 'import.*\.css' src/main.tsx &gt; src/main.tsx.tmp &amp;&amp; mv src/main.tsx.t</description><guid isPermaLink="false">https://qiita.com/J-T_ky2g/items/5e2bf2bf02e589e225d3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 08:42:52 +0000</pubDate></item><item><title>高速判断AI Jevのユースケースとオープン実装を雑にまとめる</title><link>https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations</link><description>[score: 0.886] 高速判断AI Jevのユースケースとオープン実装を雑にまとめる 最近、文章を書かずに判断だけを返すAIモデル「Jev」が話題になっています。 私もJevにマリオやVampire Survivorsを操作させて遊んでいたのですが、発表から数日で解説記事、実用例、オープンな類似実装が一気に増えてきました。情報を追いかけるのが大変になってきたので、2026年9月20日時点の情報を雑にまとめておきま...</description><guid isPermaLink="false">https://zenn.dev/karaage0703/articles/jev-use-cases-open-implementations</guid><pubDate>Sun, 20 Sep 2026 10:20:51 +0000</pubDate></item><item><title>MCP × Claude Code × BedrockでPlaywrightの自動化フローを構築</title><link>https://zenn.dev/hirata_infosys/articles/598068e56ae342</link><description>[score: 0.889] はじめに 既存のシステムに対し、AIエージェントを導入しようとする場合、更新系は制約事項が多々あります。基本的にエージェントなどからデータを直接更新することは、禁止されているシステムが多いのではないでしょうか？ そこで、Playwrightを使用することでインターフェースは既存の画面を使用し、人の判断をLLMで代替する一つのAIエージェントの実現手段として、Playwrightの検証を行ってみました。 今回の検証では、社内のWEBシステム（勤怠管理）をPlaywrightで操作しています。 本記事ではPlaywrightの自動化フローを作成するにあたり、MCP × Claude Co...</description><guid isPermaLink="false">https://zenn.dev/hirata_infosys/articles/598068e56ae342</guid><pubDate>Sun, 20 Sep 2026 03:48:55 +0000</pubDate></item><item><title>AI時代の障害対応訓練 ～インシデントに「強いチーム」をつくる～ (2026/10/22 19:15〜)</title><link>https://levtechlab.connpass.com/event/406941/</link><description>[score: 0.890] 10月
-22
-AI時代の障害対応訓練 ～インシデントに「強いチーム」をつくる～
-Tebiki、コインチェック、freeeの3社がご登壇！
-主催 : レバテックLAB
-広告
-| 募集内容 |
-オンライン参加枠 無料
-参加者数
-登壇者・運営枠（招待された方のみ） 無料
-先着順
-|
-|---|---|
-| 申込者 | 申込者一覧を見る |
-| 開催日時 |
-2026/10/22(木) 19:15 ～ 20:30
-|
-| 募集期間 |
-2026/09/15(火) 11:31
-〜 |
-| 会場 |
-オンライン オンライン |
-| 出席登録 |
-(イベント開始時間の2時間前から終了時間まで、参加者のみに公</description><guid isPermaLink="false">https://levtechlab.connpass.com/event/406941/</guid><pubDate>Sun, 20 Sep 2026 08:45:55 +0000</pubDate></item><item><title>アンソロピックCEOがAI開発の減速を要求、「再帰的自己改善と命令なき攻撃」を転機に挙げる</title><link>https://forbesjapan.com/articles/detail/104983?s=ns</link><description>[score: 0.891] AIの開発を減速せよという声があちこちで上がっている現在、Anthropic（アンソロピック）共同創業者のダリオ・アモデイがオンラインで公開したエッセイを読み、それが今後の研究にどんな基調を与えるのかを考えてみたい。
-この問題をめぐっては、まさに今週になって激しい議論が巻き起こった。大手各社で独立した立場から評価を担っていた人々が相次いで辞任し、破滅的な事態が起こりうると警告する一方で、米国の大統領をはじめ、何の問題もないと言い切る人々もいる。ビル・ゲイツのような人物までもが、この件は慎重に見ていくべきだと注意を促している。AIの進歩にこれほど深く関わってきたアモデイは、このタイミングで何を語</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104983?s=ns</guid><pubDate>Sun, 20 Sep 2026 02:08:36 +0000</pubDate></item><item><title>生成AIが書いたドキュメントを読みたくない - Qiita</title><link>https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5</link><description>[score: 0.893] 生成AIが書いたドキュメントを読みたくない - Qiita 株式会社ブレインパッドプロダクト開発部でRtoaster GenAIの開発をしている依田です。 Claude CodeにDesign docやPRを書かせていて、「情報量は多いのに、何を決めたのかがなかなか頭に入ってこない」と感じたこ... atyks</description><guid isPermaLink="false">https://qiita.com/take-yoda/items/e5d9ce6618523af1ffc5</guid><pubDate>Sun, 20 Sep 2026 08:45:55 +0000</pubDate></item><item><title>AI コーディング エージェント向け Google Cloud Developer プラグインのご紹介 | Google Cloud 公式ブログ</title><link>https://cloud.google.com/blog/ja/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/</link><description>[score: 0.893] AI コーディング エージェント向け Google Cloud Developer プラグインのご紹介 | Google Cloud 公式ブログ ※この投稿は米国時間 2026 年 9 月 11 日に、Google Cloud blog に投稿されたものの抄訳です。 エージェント スキルをドキュメントやリモート MCP サーバーと組み合わせて使用することは、AI ワークフローを成功... tmatsuu Antigravity CLI、Claude Code、Codex CLIでのインストール手順つき。Claude CodeとCodexの手順も載せてるのえらい。</description><guid isPermaLink="false">https://cloud.google.com/blog/ja/topics/developers-practitioners/introducing-the-google-cloud-developer-plugin-for-ai-coding-agents/</guid><pubDate>Sun, 20 Sep 2026 05:42:14 +0000</pubDate></item><item><title>AIバブルはこうして終わる　金利高と収穫逓減「死の交差」 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUB164ZN0W6A910C2000000/</link><description>[score: 0.893] この記事は会員限定記事です
-AIバブルはこうして終わる 金利高と収穫逓減「死の交差」
-日経QUICKニュース編集委員 永井洋一
-[会員限定記事]
-米国のアンソロピックやオープンAIが人工知能（AI）開発の減速を呼びかけるのは暴走への歯止めだけが理由ではないはずだ。いずれAIが資本を食い潰してしまうディストピアが脳裏をよぎるからだろう。
-AI産業は難問に直面している。追加投資に比べ追加収益はそれほど大きくならないという「収穫逓減の法則」だ。先人が、農地にまく肥料を増やしても思うほど収穫量は増えないとして頭を抱えた古くて新しい問題といえる。...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUB164ZN0W6A910C2000000/</guid><pubDate>Sun, 20 Sep 2026 09:20:01 +0000</pubDate></item><item><title>【分析】トランプ氏のAI規制反対は「中国に勝つ」ため　中国の脅威はどれほどなのか(1/2)</title><link>https://www.cnn.co.jp/tech/35252818.html</link><description>[score: 0.893] インド・ニューデリーで開かれたBRICS首脳会議に出席した中国の習近平（シーチンピン）国家主席＝12日/Alexander Kazakov/Sputnik/Reuters 香港（CNN） 野放しの人工知能（AI）が人類を滅亡させる危険性に世界がおののくなか、米国と中国の首脳が先ごろ、この画期的な技術に対するそれぞれのビジョンを明確に述べた。 両首脳の発言はほぼ対極に位置していた。 トランプ米大統領は米アンソロピック、オープンAI、グーグルのAI研究者や幹部らが開発を遅らせるよう呼びかける声をよそに、最も重要なのは、激化するAI覇権争いで米国が中国に対する優位を維持することだと述べた。 トランプ</description><guid isPermaLink="false">https://www.cnn.co.jp/tech/35252818.html</guid><pubDate>Sun, 20 Sep 2026 06:44:59 +0000</pubDate></item><item><title>好きでやっていたはずなのに、やる気が出ない。やる気を回復させる3つのチェックポイント</title><link>https://studyhacker.net/yaruki-brake-breakout</link><description>[score: 0.894] 本当にやりたくて始めたことなのに、なぜか最近やる気が出ない。最初の頃は、あんなに夢中になれていたのに……。 好きで始めた趣味や学びで、こんなふうに停滞期に陥り、悩んだ経験はありませんか？ じつは、ある程度続けていくと、人は「やる気のブレーキ」を無意識につくってしまうことがあるのです。 求めるレベルが上がっていないか？ やりたいことが広がりすぎていないか？ 義務感にすり替わっていないか？ よくある質問（FAQ） 求めるレベルが上がっていないか？ いつの間にか、自分に求めるレベルが上がっていませんか？ 自分では気づいていなくても、続けるうちにスキルや知識が身につき、目が肥えてきます。すると、以前は</description><guid isPermaLink="false">https://studyhacker.net/yaruki-brake-breakout</guid><pubDate>Sun, 20 Sep 2026 10:01:42 +0000</pubDate></item><item><title>AIが殺人ウイルスをを作り出す心配はない？… 研究者が指摘する、「AI終末論」が現実になりにくい理由</title><link>https://www.businessinsider.jp/article/2609-researchers-ai-apocalypse-skepticism-lethal-virus-real-world-barriers/</link><description>[score: 0.894] - アンソロピックのある研究者が2026年9月に退職して以降、AIによる人類滅亡への警告が一気に広がっている。
-- アンソロピックとOpenAIでAI研究に携わったジェイコブ・コクソンは、世界的なAI開発競争の中で、OpenAIとアンソロピックが「私たちの命を賭けている」と述べた。
-- 研究者らは、致死性ウイルスのような最悪のシナリオについては、現実世界の物理的な制約があるため、実際に起きる可能性は低くなると指摘している。
-AIによる人類滅亡が心配だろうか。研究者の中には、そうしたシナリオのうち最も極端なものについて、懸念が誇張されすぎていると指摘する人もいる。
-この議論は、この1週間で一気に</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-researchers-ai-apocalypse-skepticism-lethal-virus-real-world-barriers/</guid><pubDate>Sat, 19 Sep 2026 23:54:17 +0000</pubDate></item><item><title>台風25号接近 神奈川 三浦 市内全域に高齢者等避難の情報</title><link>https://news.web.nhk/newsweb/na/nd-20260920de51369</link><description>[score: 0.896] 1 / 1
-神奈川県三浦市は、台風の接近に伴い大雨や強風などで災害の危険性が高まるおそれがあるとして、午後5時、市内全域に高齢者等避難の情報を出しました。
-5段階の警戒レベルのうち警戒レベル3にあたる情報で、…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 20 Sep 2026 21:27:41 +0000</lastBuildDate><item><title>千葉 茂原市 勝浦市 山武市にレベル4土砂災害危険警報</title><link>https://news.web.nhk/newsweb/na/nd-20260921de51439</link><description>[score: 0.876] 銚子地方気象台は、午前0時40分までに、茂原市、勝浦市、山武市にレベル4土砂災害危険警報を発表しました。
+土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。
+気象台は自治体からの避…
 あわせて読みたい
-【ライブ配信】台風25号 関東など接近へ 各地の様子
-9月20日 11:36
-台風25号 あすから関東などに接近へ 連休中の交通機関に影響も
-9月20日 16:21
+【ライブ配信】台風25号 伊豆諸島や関東甲信に接近へ 各地は
+9月21日 5:59
+台風25号 きょう関東甲信などにかなり接近 記録的大雨のおそれ
+9月21日 4:44
 【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー
-9月20日 18:35
+9月21日 4:55
 鉄道運行情報
 台風マップ 予想進路や勢力をリアルタイム表示
 台風接近前にやっておきたい備え「タイムライン」で
-天気防災サ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260920de51369</guid><pubDate>Sun, 20 Sep 2026 09:24:26 +0000</pubDate></item><item><title>AIがテストを書ける時代、「何をテストしないか」をどう決めるか</title><link>https://qiita.com/y0us91/items/61edde2960bd6cdbdfa9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.896] Coding Agentに実装を任せていると、テストも簡単に増えていきます。
-コードを変更する。
-AIが変更に合わせてテストを書く。
-テストを実行してGreenになる。
-便利です。
-ただ、最近少し気になることがあります。
-そのテスト、本当に必要だったのだろうか。
-「変更したからテストを追加する」でいいのか
-例えば、あるAPIで次の状態を扱っていたとします。
-draft
-active
-paused
-archived
-仕様変更によって paused
-がなくなりました。
-変更後は、
-draft
-active
-archived
-だけを受け付けます。
-この変更をCoding Agentへ任せたところ、次</description><guid isPermaLink="false">https://qiita.com/y0us91/items/61edde2960bd6cdbdfa9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 08:42:52 +0000</pubDate></item><item><title>システム設計視点の行動経済学 全30回 総復習</title><link>https://qiita.com/maskot1977/items/d57c6c1913cb8e1fd833?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.897] このシリーズ第1〜20回の詳細は全20回総復習記事を参照してください。本記事では第21〜30回（Arc IV）を重点的に取り上げ、全30回を統合的に振り返ります。
-user:
-「システム設計視点の行動経済学」シリーズが第30回まで完結しました。以前の全20回総復習記事を踏まえ、第21〜30回の内容を加えた全30回総復習記事を作成してください。
-Claude Code:
-承知しました。全30回の一覧表と構造整理から始めます。
-全30回 一覧表
-| # | Arc | タイトル | 主要概念 |
-|---|---|---|---|
-| 1 | Arc I 🟠 | 認知バイアスとフレーミング | 損</description><guid isPermaLink="false">https://qiita.com/maskot1977/items/d57c6c1913cb8e1fd833?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 08:42:52 +0000</pubDate></item><item><title>このシルバーウィークに「非エンジニアでも自分のサービスをAIで作ってみたい」人のための記事ガイド｜梶谷健人</title><link>https://note.com/kajiken0630/n/n91a5a9e00bc3</link><description>[score: 0.909] このシルバーウィークに「非エンジニアでも自分のサービスをAIで作ってみたい」人のための記事ガイド｜梶谷健人 このシルバーウィークに「AIを使って自分のサービスを作ってみたい」と思っている人向けに、「これを上から順番に読み切ったら、非エンジニアでも自分のサービスを作ってリリースするまでの流れやポイントをバッチリ押さえられる」という記事ガイドを作りました。 ぼく自身も、非エンジニアながらClaude CodeとCodexを使...</description><guid isPermaLink="false">https://note.com/kajiken0630/n/n91a5a9e00bc3</guid><pubDate>Sun, 20 Sep 2026 09:20:01 +0000</pubDate></item><item><title>手を動かして学ぶ Claude Code入門 | SBクリエイティブ</title><link>https://www.sbcr.jp/product/4815646813/</link><description>[score: 0.911] 手を動かして学ぶ Claude Code入門
-AIエージェントを思い通りに動かす、CLAUDE.mdとルール群の育て方
-Claude CodeでAI開発力を飛躍！基礎から実践まで、作りながら学べる必読入門書
-Claude Codeを使った駆動開発の基本から応用まで、丁寧な解説で確実に身につく！
-本書は、AIコーディング支援ツールClaude Codeおよびそれを利用したAI開発の入門解説書です。
-Claude Codeを使って簡単なアプリ以上のものを作ろうとしたときに陥りがちな課題も取り上げながら、陳腐化しづらいAIへの指示の文脈や構成ファイルの設計などを、仮想プロジェクトの開発を通して体系的</description><guid isPermaLink="false">https://www.sbcr.jp/product/4815646813/</guid><pubDate>Sun, 20 Sep 2026 06:43:10 +0000</pubDate></item></channel></rss>
+天気防災サイト あな</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260921de51439</guid><pubDate>Sun, 20 Sep 2026 16:22:04 +0000</pubDate></item><item><title>自律型AIの暴走リスク、リーダーはどう対応すべきか</title><link>https://forbesjapan.com/articles/detail/105140?s=ns</link><description>[score: 0.876] 「本日、アンソロピック（Anthropic）を退職した。私は過去3年間、オープンAI（OpenAI）とアンソロピックの両社で事前学習の研究に携わってきた。どちらの企業も責任ある行動をとっていない。両社は自己改善を重ねる超知能へと一直線に突き進んでおり、私たちの命を賭けにさらしている」
+これは、アンソロピックの元研究者であるジェイコブ・コクソンによるXへの投稿である。コクソンは、同社が大きな期待を集める新規株式公開（IPO）を数週間後に控えたタイミングで退職し、シリコンバレーをはじめとする社会全体に衝撃を与えた。AIに対する人々の不安を和らげる材料にもならない。数カ月前には、オープンAIのエージ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105140?s=ns</guid><pubDate>Sun, 20 Sep 2026 12:32:29 +0000</pubDate></item><item><title>「失敗許されない年」JOC会長　アジア大会の先に描くシナリオは：朝日新聞</title><link>https://www.asahi.com/articles/ASV9L2D3VV9LUTQP003M.html</link><description>[score: 0.878] 有料記事
+今年1月5日、年頭のあいさつに立った橋本聖子JOC会長は、東京都内で大勢の職員や報道陣を前に宣言した。
+「絶対に失敗が許されない年」
+2月に開幕を控えていたミラノ・コルティナ冬季五輪と並んで念を押したのが、愛知・名古屋アジア大会だった。
+「失敗すれば、次の国際大会を誘致することができないぐらい、厳しい状況に自分たちを置いて責任ある行動をとっていく」
+自身、「厳しい状況」の渦中にいただけに、強い決意がにじむ。
+新型コロナウイルスの影響で…
+※無料期間中に解約した場合、料金はかかりません
+【この記事の続きが読める】有料記事が読み放題のスタンダードコースが初回1カ月無料！詳しくはこちら宅配</description><guid isPermaLink="false">https://www.asahi.com/articles/ASV9L2D3VV9LUTQP003M.html</guid><pubDate>Sun, 20 Sep 2026 20:43:17 +0000</pubDate></item><item><title>【検証･防衛記者クラブ（後編）】取材独占と二重基準が蝕む知る権利､専門記者排除と不透明な情報統制､防衛報道の欠陥 | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/958499?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.878] コンテンツブロックが有効であることを検知しました。
+このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
+なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
+https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/958499?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 20 Sep 2026 21:10:48 +0000</pubDate></item><item><title>千葉 南房総市にレベル4土砂災害危険警報</title><link>https://news.web.nhk/newsweb/na/nd-20260920de51413</link><description>[score: 0.879] 気象庁は20日午後11時すぎ、千葉県の南房総市に「レベル4土砂災害危険警報」を発表しました。
+気象庁は自治体からの避難の情報を確認し、崖の近くなど危険な場所にいる人は速やかに安全な場所に避難するよう…
+あわせて読みたい
+【ライブ配信】台風25号 伊豆諸島や関東甲信に接近へ 各地は
+9月21日 5:59
+台風25号 きょう関東甲信などにかなり接近 記録的大雨のおそれ
+9月21日 4:44
+【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー
+9月21日 4:55
+鉄道運行情報
+台風マップ 予想進路や勢力をリアルタイム表示
+台風接近前にやっておきたい備え「タイムライン」で
+天気防災サイト あ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260920de51413</guid><pubDate>Sun, 20 Sep 2026 15:22:03 +0000</pubDate></item><item><title>ServerlessDays Tokyo 2026での登壇と人と熱 - Qiita</title><link>https://qiita.com/har1101/items/180b8743ca5c652648ad</link><description>[score: 0.879] ServerlessDays Tokyo 2026での登壇と人と熱 - Qiita Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? こんにちは、ふくちです。 2026年9月19日・20日に開催されたServerlessDa... nekoruri serverlessserverlessjp</description><guid isPermaLink="false">https://qiita.com/har1101/items/180b8743ca5c652648ad</guid><pubDate>Sun, 20 Sep 2026 18:54:18 +0000</pubDate></item><item><title>AWSの最軽量LLM「Amazon Nova Micro」がJevの代わりとなるか検証してみた</title><link>https://qiita.com/nasuvitz/items/4d27833640ff36b5d8c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] はじめに
+判断や評価を確率として返すAIモデル「Jev」が注目を集めています。Jevは、用途を絞ることで、高速なレスポンスを実現している点も特徴です。
+一方、エンタープライズ用途で外部サービスを利用する場合、データ送信に伴う社内審査やセキュリティルールの確認が必要になります。新たに登場したサービスを本番システムに採用するには時間がかかるでしょう。そこで、短期的にもAmazon Bedrockの軽量LLMでJevを代替できないかと考えました。
+白羽の矢が立ったのは、AWSの最軽量・最安モデル「Amazon Nova Micro」です。
+今回、Amazon Nova MicroがJevの代わりにな</description><guid isPermaLink="false">https://qiita.com/nasuvitz/items/4d27833640ff36b5d8c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 20:26:04 +0000</pubDate></item><item><title>耳で聞く！Python で学ぶ マクロ経済学 入門 16</title><link>https://qiita.com/maskot1977/items/21dfd854beb49b877564?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] user:
+ソース動画のタイトル、そしてこの動画の内容について教えてください。
+Gemini:
+ソース動画のタイトルおよびその詳細な内容について解説します。
+ソース動画のタイトル
+「1997年日本経済を止めた正体 : Pythonで学ぶマクロ経済学入門 Podcast 16」
+動画の概要とテーマ
+この動画は、技術共有サービス「Qiita」に投稿されたプログラミング記事 『1997年＝デフレ元年は日本だけか欧米中との比較考える日本の特殊性 Pythonで学ぶマクロ経済学入門』 を元データとして、日本経済の「失われた30年」の真因を解き明かしていくPodcast形式の解説動画です。
+データサイエン</description><guid isPermaLink="false">https://qiita.com/maskot1977/items/21dfd854beb49b877564?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 20:26:04 +0000</pubDate></item><item><title>千葉 八千代市にレベル4大雨危険警報</title><link>https://news.web.nhk/newsweb/na/nd-20260921de51472</link><description>[score: 0.882] 銚子地方気象台は、午前1時29分に八千代市にレベル4大雨危険警報を発表しました。
+低い土地の浸水や川の氾濫の危険性が非常に高くなっていて、厳重な警戒が必要です。
+気象台は自治体からの避難の情報を確…
+あわせて読みたい
+【ライブ配信】台風25号 伊豆諸島や関東甲信に接近へ 各地は
+9月21日 5:59
+台風25号 きょう関東甲信などにかなり接近 記録的大雨のおそれ
+9月21日 4:44
+【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー
+9月21日 4:55
+鉄道運行情報
+台風マップ 予想進路や勢力をリアルタイム表示
+台風接近前にやっておきたい備え「タイムライン」で
+天気防災サイト あな</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260921de51472</guid><pubDate>Sun, 20 Sep 2026 17:22:17 +0000</pubDate></item><item><title>古謝氏、家族への脅迫受け声明 　学校や県庁への爆破予告、殺害予告も | 沖縄八重山日報 -Okinawa Yaeyama Nippo-</title><link>https://www.yaeyama-nippo.co.jp/article/34237</link><description>[score: 0.883] 古謝氏、家族への脅迫受け声明 学校や県庁への爆破予告、殺害予告も | 沖縄八重山日報 -Okinawa Yaeyama Nippo- 沖縄県知事選で初当選した古謝玄太氏（42）は19日、家族が通う複数の学校などに爆破予告が届いたことを受け、声明を発表した。公式ホームページでも、知事就任の辞退を求め、応じなければ学校や県庁を爆破する趣旨の脅迫が寄せられたほか、古謝氏自身と家族への殺害予告、公共施設や県内事業所などへの危害を示す内容も...</description><guid isPermaLink="false">https://www.yaeyama-nippo.co.jp/article/34237</guid><pubDate>Sun, 20 Sep 2026 17:14:12 +0000</pubDate></item><item><title>ロシア首都などにウクライナの大規模攻撃 下院選挙狙ったか</title><link>https://news.web.nhk/newsweb/na/nd-20260921de51479</link><description>[score: 0.883] ロシアでは議会下院選挙の投票の最終日の20日、首都モスクワにある製油所などにウクライナによる大規模な攻撃があり、モスクワの市長はSNSで「この前例のない攻撃は明らかに選挙を妨害する目的で計画されたもの…
+北朝鮮 弾道ミサイル続けて発射 いずれもEEZ外に落下か
+9月20日 20:59
+サウジとフーシ派の対立激化 米“急激悪化”懸念で警戒を通知
+9月20日 18:39
+フーシ派“サウジ首都攻撃に成功”主張 空港近くで火災
+9月20日 6:42
+イラン高官「協議再開の7つの条件をアメリカ政府に伝達」
+9月20日 9:20
+北朝鮮労働者がロシアで軍事用無人機製造か 監視のチーム指摘
+9月20日 18</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260921de51479</guid><pubDate>Sun, 20 Sep 2026 19:23:32 +0000</pubDate></item><item><title>千葉 茂原市にレベル4大雨危険警報</title><link>https://news.web.nhk/newsweb/na/nd-20260921de51460</link><description>[score: 0.884] 銚子地方気象台は、午前1時19分、茂原市にレベル4大雨危険警報を発表しました。
+低い土地の浸水や川の氾濫の危険性が非常に高くなっていて、厳重な警戒が必要です。
+気象台は自治体からの避難の情報を確認…
+あわせて読みたい
+【ライブ配信】台風25号 伊豆諸島や関東甲信に接近へ 各地は
+9月21日 5:59
+台風25号 きょう関東甲信などにかなり接近 記録的大雨のおそれ
+9月21日 4:44
+身近に潜む“死角” あなたの家のまわりは大丈夫？
+9月19日 11:29
+【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー
+9月21日 4:55
+鉄道運行情報
+台風マップ 予想進路や勢力をリアルタイム表</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260921de51460</guid><pubDate>Sun, 20 Sep 2026 16:52:44 +0000</pubDate></item><item><title>「おもしろさ」は「若さ」「元気」「健康」に依存している - シロクマの屑籠</title><link>https://p-shirokuma.hatenadiary.com/entry/20260920/1789905761</link><description>[score: 0.884] note.com
+リンク先のnoteを気が遠くなる思いで読んだ。寄る年波には勝てないのか。いや、勝った負けたの話じゃないか。年を取れば元気な時間・実動的な活動限界は短くなる。それを踏まえてこれからは生きる、というお話は前向きに理解するべきものだと思う。
+ところが上掲noteを読んでから数時間後、就寝直前になって「これって、大人がつまらなくなっていくプロセスと関係があるんじゃないかなぁ」とか考えはじめてしまった。
+私は寝しなにブログが書きたくなる。書いてみたら面白いだろうなって思うことは23時以降に降りて来る。意識が少し緩んでいる瞬間のほうが、面白いことが思いつきやすくなり、アイデアとアイデアが</description><guid isPermaLink="false">https://p-shirokuma.hatenadiary.com/entry/20260920/1789905761</guid><pubDate>Sun, 20 Sep 2026 19:13:08 +0000</pubDate></item><item><title>千葉 新たに11市町に避難指示</title><link>https://news.web.nhk/newsweb/na/nd-20260921de51500</link><description>[score: 0.884] 千葉県内では、大雨による災害や大雨による土砂災害の危険性が高まっているとして、午前1時半から午前3時半までに八街市、富里市、柏市、八千代市、我孫子市、神崎町、東金市、大網白里市、長柄町、君津市、館山市…
+あわせて読みたい
+停電 関東中心に1700軒余（午前5時）
+9月21日 5:41
+【ライブ配信】台風25号 伊豆諸島や関東甲信に接近へ 各地は
+9月21日 5:59
+台風25号 きょう関東甲信などにかなり接近 記録的大雨のおそれ
+9月21日 4:44
+【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー
+9月21日 4:55
+【最新の避難情報】こちらから地域別でご覧になれます
+鉄道運行情</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260921de51500</guid><pubDate>Sun, 20 Sep 2026 19:52:52 +0000</pubDate></item><item><title>千葉市にレベル4大雨危険警報</title><link>https://news.web.nhk/newsweb/na/nd-20260921de51452</link><description>[score: 0.885] 銚子地方気象台は、午前0時54分、千葉市にレベル4大雨危険警報を発表しました。
+低い土地の浸水や川の氾濫の危険性が非常に高くなっていて、厳重な警戒が必要です。
+気象台は自治体からの避難の情報を確認…
+あわせて読みたい
+【ライブ配信】台風25号 伊豆諸島や関東甲信に接近へ 各地は
+9月21日 5:59
+身近に潜む“死角” あなたの家のまわりは大丈夫？
+9月19日 11:29
+台風25号 きょう関東甲信などにかなり接近 記録的大雨のおそれ
+9月21日 4:44
+【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー
+9月21日 4:55
+鉄道運行情報
+台風マップ 予想進路や勢力をリアルタイム表</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260921de51452</guid><pubDate>Sun, 20 Sep 2026 16:52:44 +0000</pubDate></item><item><title>高市首相 国連総会の演説で中東エネルギー協力計画策定表明へ</title><link>https://news.web.nhk/newsweb/na/nd-20260921de51459</link><description>[score: 0.885] 高市総理大臣は、国連総会に出席するため、21日からアメリカを訪問します。一般討論演説では、中東情勢を受け、湾岸諸国の経済やエネルギーの強じん化に向けた協力計画を策定していると説明し、世界的なエネルギー…
+あわせて読みたい
+台風25号 きょう関東甲信などにかなり接近 記録的大雨のおそれ
+9月21日 4:44
+【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー
+9月21日 4:55
+【ライブ配信】台風25号 伊豆諸島や関東甲信に接近へ 各地は
+9月21日 5:59
+【気象予報士解説】台風25号 大雨や暴風 今後の見通しは？
+9月20日 19:53
+北朝鮮 弾道ミサイル続けて発射 いずれもE</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260921de51459</guid><pubDate>Sun, 20 Sep 2026 20:22:43 +0000</pubDate></item><item><title>千葉 佐倉市の土砂災害警戒区域・特別警戒区域に緊急安全確保</title><link>https://news.web.nhk/newsweb/na/nd-20260921de51481</link><description>[score: 0.885] 千葉県佐倉市は、大雨で土砂災害の危険性が高まっているとして、午前2時に市内の土砂災害警戒区域や土砂災害特別警戒区域に住む人を対象に緊急安全確保を出しました。
+警戒レベルは最も高いレベル5で、周囲の…
+あわせて読みたい
+【ライブ配信】台風25号 伊豆諸島や関東甲信に接近へ 各地は
+9月21日 5:59
+台風25号 きょう関東甲信などにかなり接近 記録的大雨のおそれ
+9月21日 4:44
+【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー
+9月21日 4:55
+鉄道運行情報
+台風マップ 予想進路や勢力をリアルタイム表示
+台風接近前にやっておきたい備え「タイムライン」で
+天気防災サイト あな</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260921de51481</guid><pubDate>Sun, 20 Sep 2026 18:22:52 +0000</pubDate></item><item><title>千葉 館山市にレベル4土砂災害危険警報</title><link>https://news.web.nhk/newsweb/na/nd-20260921de51490</link><description>[score: 0.886] 銚子地方気象台は、午前3時29分、館山市にレベル4土砂災害危険警報を発表しました。
+土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。
+気象台は自治体からの避難の情報を確認し、崖の…
+あわせて読みたい
+【ライブ配信】台風25号 伊豆諸島や関東甲信に接近へ 各地は
+9月21日 5:59
+台風25号 きょう関東甲信などにかなり接近 記録的大雨のおそれ
+9月21日 4:44
+【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー
+9月21日 4:55
+【最新の避難情報】こちらから地域別でご覧になれます
+鉄道運行情報
+台風マップ 予想進路や勢力をリアルタイム表示
+台風接近前にやって</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260921de51490</guid><pubDate>Sun, 20 Sep 2026 18:53:07 +0000</pubDate></item><item><title>【2026年8月】RHCA保有者のKubestronaut挑戦記(1) CKA・CKAD合格編 〜バウチャーを11ヶ月放置してからの巻き返し〜</title><link>https://qiita.com/lab8010/items/ca56ee3b479bc61c46f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] 【2026年8月】RHCA保有者のKubestronaut挑戦記(1) CKA・CKAD合格編 〜バウチャーを11ヶ月放置してからの巻き返し〜
+皆さんこんにちは、Red Hat Global Learning ServicesでLearning Solution Architectを担当している坂井 大和(@lab8010)です。
+この記事は、Linux Foundation/CNCFが提供する CKA(Certified Kubernetes Administrator) と CKAD(Certified Kubernetes Application Developer) に相次いで合格した</description><guid isPermaLink="false">https://qiita.com/lab8010/items/ca56ee3b479bc61c46f3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 20:26:04 +0000</pubDate></item><item><title>Anthropicを巡る二つのニュース</title><link>https://note.com/cjdbx883/n/n5095a504795d</link><description>[score: 0.886] １．はじめに 市場でいま何が起きているのか。 注目ニュース、重要な経済指標、政策発言、企業決算、相場の値動きなどを、1000文字程度でコンパクトに解説します。 このメンバーシップは、投資判断のプロセスを深く学ぶ「投資思考の再現性」を目的としたものではありません。むしろ、日々のマーケットで見逃せない材料を、できるだけ速報性を持って整理し、「なぜ市場が反応しているのか」「何に注目すべきか」を短時間でつかむためのコンテンツです。 忙しい中でも、重要なニュースやデータの意味を素早く確認したい方、相場の流れを日々キャッチアップしたい方に向けて、マーケットの注目点をわかりやすくお届けします。 続きをみる</description><guid isPermaLink="false">https://note.com/cjdbx883/n/n5095a504795d</guid><pubDate>Sun, 20 Sep 2026 20:51:06 +0000</pubDate></item><item><title>Windows の防御設定を「確かめて、直して、見張る」常駐ツール Agent Fettle をクローズドβ公開しました</title><link>https://qiita.com/nobukz/items/64a2ccb8b89fcc439aed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.887] Norton 360 をやめて Microsoft Defender に戻したときに作った個人用ツールを、製品として作り直しました。
+Agent Fettle（エージェント フェトル。in fine fettle = 調子が整っている）。Windows 用、C# / .NET 10、WinForms + WebView2 です。
+いまクローズドβでテスターを募集しています（Windows 10 22H2 / 11、64bit）。
+何をするか（そして、何ではないか）
+先に「ではないもの」から。
+- ウイルス対策ソフトそのものではありません。 マルウェアの検出・駆除は Defender がやります</description><guid isPermaLink="false">https://qiita.com/nobukz/items/64a2ccb8b89fcc439aed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 20:26:04 +0000</pubDate></item><item><title>停電 関東中心に1700軒余（午前5時）</title><link>https://news.web.nhk/newsweb/na/nd-20260921de51495</link><description>[score: 0.887] 東京電力パワーグリッドのホームページによりますと、21日午前5時の時点で、関東を中心に1700軒余りが停電しています。
+県ごとの内訳は、 ▽千葉県が大網白里市などでおよそ780軒、 ▽神奈川県が相模…
+あわせて読みたい
+台風25号は伊豆諸島や関東甲信に 大雨・暴風など厳重警戒
+9月21日 5:27
+【ライブ配信】台風25号 伊豆諸島や関東甲信に接近へ 各地は
+9月21日 5:59
+【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー
+9月21日 4:55
+【最新の避難情報】こちらから地域別でご覧になれます
+鉄道運行情報
+台風マップ 予想進路や勢力をリアルタイム表示
+台風接近前にやっておき</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260921de51495</guid><pubDate>Sun, 20 Sep 2026 20:22:43 +0000</pubDate></item><item><title>イラン“米軍基地など攻撃対象に” アメリカを強くけん制</title><link>https://news.web.nhk/newsweb/na/nd-20260921de51477</link><description>[score: 0.891] イランの国営メディアは、イランの中央司令部の声明として、アメリカが軍事行動を再開した場合、中東地域にあるアメリカ軍の基地などを攻撃すると警告し、強くけん制しました。
+イランの国営メディアは20日、…
+北朝鮮 弾道ミサイル続けて発射 いずれもEEZ外に落下か
+9月20日 20:59
+サウジとフーシ派の対立激化 米“急激悪化”懸念で警戒を通知
+9月20日 18:39
+フーシ派“サウジ首都攻撃に成功”主張 空港近くで火災
+9月20日 6:42
+イラン高官「協議再開の7つの条件をアメリカ政府に伝達」
+9月20日 9:20
+北朝鮮労働者がロシアで軍事用無人機製造か 監視のチーム指摘
+9月20日 18:5</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260921de51477</guid><pubDate>Sun, 20 Sep 2026 19:23:32 +0000</pubDate></item><item><title>【独自】「42万票」が映すもの　沖縄経済界で動き出した世代交代｜常井健壱（トコイケンイチ）</title><link>https://note.com/tokoikenichi/n/n24b5c595eda7</link><description>[score: 0.891] 【独自】「42万票」が映すもの 沖縄経済界で動き出した世代交代｜常井健壱（トコイケンイチ） 9月13日投開票の沖縄県知事選では、古謝玄太さん42歳が「42万票」を獲得し、現職の玉城デニーさんに大差をつけて初当選しました。その背景には、若年層の強い支持がありました。なぜ、これほどの変化が生まれたの... firststar_hateno 新たな風が沖縄に吹いていますわね！古謝氏の当選、未来への期待が膨らむですの。</description><guid isPermaLink="false">https://note.com/tokoikenichi/n/n24b5c595eda7</guid><pubDate>Sun, 20 Sep 2026 11:49:16 +0000</pubDate></item><item><title>千葉市中央区でマンホールから水が噴き出す</title><link>https://news.web.nhk/newsweb/na/nd-20260921de51497</link><description>[score: 0.891] 21日午前2時ごろ、千葉市中央区で撮影された映像です。
+交差点の脇にあるマンホールから水が激しい勢いで噴き出しています。
+撮影した男性によりますと、周辺のほかのマンホールからも水が噴き出していたと…
+あわせて読みたい
+【ライブ配信】台風25号 伊豆諸島や関東甲信に接近へ 各地は
+9月21日 5:59
+台風25号 きょう関東甲信などにかなり接近 記録的大雨のおそれ
+9月21日 4:44
+【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー
+9月21日 4:55
+【最新の避難情報】こちらから地域別でご覧になれます
+鉄道運行情報
+台風マップ 予想進路や勢力をリアルタイム表示
+台風接近前にやって</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260921de51497</guid><pubDate>Sun, 20 Sep 2026 20:22:43 +0000</pubDate></item><item><title>東京 大島町にレベル4土砂災害危険警報</title><link>https://news.web.nhk/newsweb/na/nd-20260921de51492</link><description>[score: 0.891] 気象庁は午前3時25分、伊豆諸島の大島町にレベル4土砂災害危険警報を発表しました。
+土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。
+気象庁は自治体からの避難の情報を確認し、崖の…
+あわせて読みたい
+【ライブ配信】台風25号 伊豆諸島や関東甲信に接近へ 各地は
+9月21日 5:59
+台風25号 きょう関東甲信などにかなり接近 記録的大雨のおそれ
+9月21日 4:44
+【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー
+9月21日 4:55
+【最新の避難情報】こちらから地域別でご覧になれます
+鉄道運行情報
+台風マップ 予想進路や勢力をリアルタイム表示
+台風接近前にやって</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260921de51492</guid><pubDate>Sun, 20 Sep 2026 19:52:52 +0000</pubDate></item><item><title>Dreamforce 2026まとめ:Claudeforce・Koaなど新発表を実装目線で整理する</title><link>https://qiita.com/ubakichi_sr_mc_ai_06/items/8041fa1a2aa024f121b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.897] はじめに
+2026年9月のDreamforceで、SalesforceからAIforceという新しい仕組みが発表されました。
+ClaudeやSlackからSalesforceのデータを直接操作できる仕組みで、既存のMCP連携やAPI連携をどう置き換えていくのか気になった方も多いはずです。
+この記事では、AIforceの構成要素であるClaudeforce・Slackforce・Agentforce Coworker、そして新しい推論モデルKoaについて、実装・設定の観点から整理していきます。
+目玉発表「AIforce」って何?
+今回いちばんの目玉は、AIforceという新しい仕組みです。
+要す</description><guid isPermaLink="false">https://qiita.com/ubakichi_sr_mc_ai_06/items/8041fa1a2aa024f121b7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 20 Sep 2026 20:26:04 +0000</pubDate></item><item><title>国際刑事裁判所（ICC）＝ハーグ（ロイター＝共同） - 米、ICCへの制裁準備か 機能まひの恐れ、週内にも - 写真・画像(1/1) - 西日本新聞me</title><link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZcnJoUlB5dHpzYU4tM21oY3p4VjVtVUlaR3RYZmY3SENFZUZiOXdlOWpPNTZ0cXZyenN1Y1kzTURRcmpyczR5SjZmZVJDZTM4c01Vc3BhTQ?oc=5</link><description>[score: 0.899] 国際刑事裁判所（ICC）＝ハーグ（ロイター＝共同） - 米、ICCへの制裁準備か 機能まひの恐れ、週内にも - 写真・画像(1/1) 西日本新聞me</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiV0FVX3lxTE5ZcnJoUlB5dHpzYU4tM21oY3p4VjVtVUlaR3RYZmY3SENFZUZiOXdlOWpPNTZ0cXZyenN1Y1kzTURRcmpyczR5SjZmZVJDZTM4c01Vc3BhTQ?oc=5</guid><pubDate>Sun, 20 Sep 2026 21:14:38 +0000</pubDate></item><item><title>台風25号は伊豆諸島や関東甲信に 大雨・暴風など厳重警戒</title><link>https://news.web.nhk/newsweb/na/nd-20260921de51478</link><description>[score: 0.903] 大型で強い台風25号は伊豆諸島の南西の海上を北寄りに進んでいて、伊豆諸島や関東では断続的に非常に激しい雨が降ってレベル4危険警報が出ている地域があり、土砂災害や低い土地の浸水、川の氾濫のほか暴風にも厳…
+あわせて読みたい
+【ライブ配信】台風25号 伊豆諸島や関東甲信に接近へ 各地は
+9月21日 5:59
+台風25号 きょう関東甲信などにかなり接近 記録的大雨のおそれ
+9月21日 4:44
+【台風25号】交通影響まとめ 鉄道・空の便・道路・フェリー
+9月21日 4:55
+鉄道運行情報
+台風マップ 予想進路や勢力をリアルタイム表示
+台風接近前にやっておきたい備え「タイムライン」で
+天気防災サイト </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260921de51478</guid><pubDate>Sun, 20 Sep 2026 20:51:49 +0000</pubDate></item><item><title>AIデータセンターが米中間選挙の一大争点に…｢AIのコスト｣を地域住民に押し付ける構図に反発の声 | 政治・経済・投資 | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/958421?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.904] INDEX
+アメリカは、AI覇権をめぐる世界的な競争で先頭に立とうとしている。だが、そのために不可欠なインフラであるデータセンターは、全米各地で強い抵抗に直面し始めている。
+ドナルド・トランプ大統領は、アメリカのAI開発を遅らせかねない規制に反対する論拠の中心に、中国との技術競争を据えている。
+「AIを制する者が勝つ」と述べ、AIを中国との地政学的・経済的競争を左右する中核的な要素と位置づけているのだ。アメリカのAI開発を実質的に減速させる政治的制約を課せば、重要な戦略的優位を失いかねない、というものだ。
+トランプ大統領はデータセンターを「今後50年の石油」と表現
+ところが、AI覇権をめぐる国</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/958421?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Sun, 20 Sep 2026 20:10:28 +0000</pubDate></item></channel></rss>
