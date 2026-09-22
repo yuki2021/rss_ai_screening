@@ -1,95 +1,125 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 22 Sep 2026 00:01:20 +0000</lastBuildDate><item><title>高市政権が「ウケ狙いのバラマキ」に走る根本原因</title><link>https://gendai.media/articles/-/171056</link><description>[score: 0.876] 歴代首相には必ずその政策を支える参謀が存在した。高市首相にもいるが、どうもこれまでと様子が異なる。官邸でいったい何が起きているのか。
-【前編を読む】ベッセント米財務長官の怒りも仕方なし…？「高市政権の経済ブレーン」が危なっかしすぎて
-「責任ある積極財政」を推し進める背景
-高市官邸は彼らを総結集させ、財務省が長年命綱にしてきたプライマリーバランス単年度黒字化目標を撤廃し、代わりに政府債務残高の対GDP比を安定的に低下させることを目標に据えた。借金を恐れずに国費を投じる「責任ある積極財政」を前面に打ち出したのである。
-だが、このリフレ政策により、ベッセント財務長官の怒りを買ったうえ、物価高騰で国民</description><guid isPermaLink="false">https://gendai.media/articles/-/171056</guid><pubDate>Mon, 21 Sep 2026 21:39:11 +0000</pubDate></item><item><title>Netflixで仕事するようなエリートたちが日本向けに何を作ればバズるか考えた結果、反社の恋愛リアリティショーや美容整形ドラマに行き着くのがなんだか虚しく感じた話</title><link>https://togetter.com/li/2748648</link><description>[score: 0.876] ネットフリックスに勤めるようなスーパーエリートたちが、日本で何を作ればバズるのかと知恵を巡らせた結果、反社の恋愛リアリティショーと美容整形ドラマに行き着くのなんだか虚しいな。
-2026-09-20 18:54:36行き着いた結果がそれなのか…
-@NaturalBornBuy ナンシー関氏の名言、日本人がどんなにオシャレになろうがヤンキーとファンシーからは逃れられない。をちゃと踏襲してますね。
-2026-09-21 11:31:35@NaturalBornBuy @Kiyosuke0418 でも、実際それがウケている。（私は嫌いですよ） 日本人の民度が全体的に落ちてるんでしょう。
-2026-09</description><guid isPermaLink="false">https://togetter.com/li/2748648</guid><pubDate>Mon, 21 Sep 2026 22:48:31 +0000</pubDate></item><item><title>韓国の輸出急増と台湾の先端実装クラスター投資加速</title><link>https://note.com/cjdbx883/n/nd96fbdbbfbec</link><description>[score: 0.877] １．はじめに 市場でいま何が起きているのか。 注目ニュース、重要な経済指標、政策発言、企業決算、相場の値動きなどを、1000文字程度でコンパクトに解説します。（今回はちょっと長いです） このメンバーシップは、投資判断のプロセスを深く学ぶ「投資思考の再現性」を目的としたものではありません。むしろ、日々のマーケットで見逃せない材料を、できるだけ速報性を持って整理し、「なぜ市場が反応しているのか」「何に注目すべきか」を短時間でつかむためのコンテンツです。 忙しい中でも、重要なニュースやデータの意味を素早く確認したい方、相場の流れを日々キャッチアップしたい方に向けて、マーケットの注目点をわかりやすくお</description><guid isPermaLink="false">https://note.com/cjdbx883/n/nd96fbdbbfbec</guid><pubDate>Mon, 21 Sep 2026 22:57:23 +0000</pubDate></item><item><title>日米韓外相 北朝鮮の完全な非核化へ協力の方針 改めて確認</title><link>https://news.web.nhk/newsweb/na/nd-20260922de51790</link><description>[score: 0.880] 日米韓3か国の外相がアメリカ・ニューヨークで会談し、北朝鮮の完全な非核化に協力して取り組んでいく方針を改めて確認しました。また、中国を念頭に、一方的な現状変更の試みが続く地域情勢への対応を協議し、3か…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 22 Sep 2026 10:48:32 +0000</lastBuildDate><item><title>JevでAIエージェントのハーネスはどう変わるのか｜npaka</title><link>https://note.com/npaka/n/ne4547ea3c6f5</link><description>[score: 0.877] JevでAIエージェントのハーネスはどう変わるのか｜npaka Jevの登場によって、AIエージェントを支えるハーネスの設計がどう変わるのかについてまとめました。 1. はじめに2026年、AIエージェントの設計に新しい選択肢が登場しました。 その一つが、TypeSafe AIの「Jev」です。 Jevは、文章やコードを長く生成するLLMではなく、ソフトウェアの中で発生する判断を高速に処理するた...</description><guid isPermaLink="false">https://note.com/npaka/n/ne4547ea3c6f5</guid><pubDate>Tue, 22 Sep 2026 07:17:01 +0000</pubDate></item><item><title>AI企業の勝敗を分けるのは成長スピードではなく「資本効率」</title><link>https://forbesjapan.com/articles/detail/105247?s=ns</link><description>[score: 0.877] AI業界にはある問題が存在する。それは、大半のAI創業者が自社をSaaSビジネスのように運営していることだ。
+しかし、AIの経済性はSaaSの経済性とはまったく異なる。従来のSaaS企業が歴史的に75〜85%の粗利益率で運営されてきたのに対し、AIネイティブ企業の粗利益率は50〜65%である。アーリーステージの企業に至っては、利用量の増加に伴ってインフラコストや推論コストが拡大するため、これよりも大幅に低い水準で運営しているところもある。これは完全に異なるビジネスモデルなのだ。
+現在、AI企業のコントロールを失う最も手っ取り早い方法は、収益と利益率が2000年代初頭のSaaSと同じように推移す</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105247?s=ns</guid><pubDate>Tue, 22 Sep 2026 07:47:18 +0000</pubDate></item><item><title>秋の大型連休 各地でUターンラッシュピーク</title><link>https://news.web.nhk/newsweb/na/nd-20260922de51870</link><description>[score: 0.878] 11年ぶりの5連休となった秋の連休。各地の駅はふるさとや行楽地で過ごした人たちのUターンラッシュで混雑しています。
+東北地方の新幹線 上りは22日が予約ピーク
+JR東日本によりますと、東北地方の…
 あわせて読みたい
-【上空映像】台風25号 記録的大雨 きょうも土砂災害に厳重警戒
-9月22日 8:08
-【動画】台風25号 千葉 神奈川 一夜明けた各地の被害は
-9月22日 7:51
+日米首脳会談 日本時間23日開催を発表 日本政府
+9月22日 14:45
+【台風被害】 神奈川と千葉で4人死亡6人不明 住宅被害470棟余
+9月22日 18:01
 【台風25号】交通影響続く 首都圏の鉄道 運転見合わせ【22日】
-9月22日 6:46
-【台風25号 被害】神奈川と千葉で2人死亡4人不明 捜索続く
-9月22日 3:34
-国連総会 きょうから各国首脳の一般討論演</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260922de51790</guid><pubDate>Mon, 21 Sep 2026 21:33:52 +0000</pubDate></item><item><title>米国株式市場＝ナスダック史上最高値、ＡＩ・半導体株高がけん引 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOR2liZE14X3dlWVhwWWo5MmlqSU5SLTBvaXBXWlZ2LUZnV240N2dJdHFpQUZxUUxXaDNtTjhITW82UHdQTHFveDNvblpLVEVJWGtWZ3hPVFRPWVBpQmIxdjlVTW8wZDJVOTQ1YXdIWUJoX3pyNmk1WGlKUEdCZ25kdzRjYlZGQQ?oc=5</link><description>[score: 0.880] 米国株式市場＝ナスダック史上最高値、ＡＩ・半導体株高がけん引 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxOR2liZE14X3dlWVhwWWo5MmlqSU5SLTBvaXBXWlZ2LUZnV240N2dJdHFpQUZxUUxXaDNtTjhITW82UHdQTHFveDNvblpLVEVJWGtWZ3hPVFRPWVBpQmIxdjlVTW8wZDJVOTQ1YXdIWUJoX3pyNmk1WGlKUEdCZ25kdzRjYlZGQQ?oc=5</guid><pubDate>Mon, 21 Sep 2026 22:14:06 +0000</pubDate></item><item><title>教皇のAI顧問、テクノロジーは子どもたちにとってコカインよりも有害になり得ると語る</title><link>https://www.businessinsider.jp/article/2609-pope-advisor-ai-can-be-worse-for-kids-than-cocaine/</link><description>[score: 0.882] AIが若者の精神に及ぼす心理的・感情的な打撃は、ニコチンやコカイン中毒よりも有害である可能性があると、ローマ教皇の顧問を務める道徳神学者は指摘する。
-9月16日に放送されたBBCの報道番組『Newsnight』とのインタビューにおいて、パオロ・ベナンティ（Paolo Benanti）神父は、AI技術が「超強力な感情操作・洗脳ツール」になり得ると警告した。
-同氏は「この種の機械（※AI）が若者や子供たちの精神にもたらす感情の歪曲は、ニコチンや砂糖、コカインへの依存症など比較にならないほど、はるかに凄惨な結果を招く可能性がある」と付け加えた。
-ベナンティ氏はテクノロジーの倫理学を専門として教皇庁立</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-pope-advisor-ai-can-be-worse-for-kids-than-cocaine/</guid><pubDate>Mon, 21 Sep 2026 22:55:46 +0000</pubDate></item><item><title>【動画】台風25号 千葉 神奈川 一夜明けた各地の被害は</title><link>https://news.web.nhk/newsweb/na/nd-20260922de51808</link><description>[score: 0.882] 強い台風25号の影響で関東や伊豆諸島では記録的な大雨となり、土砂災害や川の氾濫が相次ぎました。22日の各地の被害の映像を動画でお伝えします。
-千葉 佐倉 住宅街が水につかる（午前6時半ごろ撮影） …
+9月22日 18:12
+台風25号 関東や伊豆諸島で記録的大雨 土砂災害に引き続き注意
+9月22日 19:26
+【動画】 道路崩れ 各地で冠水 台風25号</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260922de51870</guid><pubDate>Tue, 22 Sep 2026 08:54:09 +0000</pubDate></item><item><title>【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（日テレNEWS NNN） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/b5bf35aac135601dde27ef7d43cbf5d7fe95e671</link><description>[score: 0.878] 【独自】古書店で「謎の大量注文」相次ぐ……AI学習か 米国向け「日本の本 50トン」の輸出記録も（日テレNEWS NNN） - Yahoo!ニュース 日本各地のオンライン古書店に対して、今年8月ごろから書籍の大量注文が相次いでいることがわかった。古書店を取材すると「1日100冊売れる」「売上が5倍になった日もある」と話しており、業界内では「生成AI（人工知能）の学習データを集める目的ではないか」という見方が広がっている。さらに追跡取材を続けると、日本...</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/b5bf35aac135601dde27ef7d43cbf5d7fe95e671</guid><pubDate>Tue, 22 Sep 2026 07:27:59 +0000</pubDate></item><item><title>G7外相 ウクライナ対応などで緊密連携 フーシ派非難の共同声明</title><link>https://news.web.nhk/newsweb/na/nd-20260922de51851</link><description>[score: 0.878] G7＝主要7か国の外相会合がニューヨークで開かれ、ウクライナやインド太平洋などの地域情勢をめぐる対応で連携していくことで一致しました。また、中東情勢をめぐりサウジアラビアへの攻撃を強めるイエメンの反政…
 あわせて読みたい
-【上空映像】台風25号 記録的大雨 きょうも土砂災害に厳重警戒
-9月22日 8:08
-【台風25号】交通影響続く 首都圏の鉄道 運転見合わせ【22日】
-9月22日 6:46
-【台風25号 被害】神奈川と千葉で2人死亡4人不明 捜索続く
-9月22日 3:34
-国連総会 きょうから各国首脳の一般討論演説 気候変動やAIも
-9月22日 5:28
-日米首脳会談へ トランプ大統領と中国への</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260922de51808</guid><pubDate>Mon, 21 Sep 2026 23:01:34 +0000</pubDate></item><item><title>大英図書館の再開発事業で着工式 日本の不動産会社が参画</title><link>https://news.web.nhk/newsweb/na/nd-20260922de51804</link><description>[score: 0.883] 日本の不動産会社が参画してイギリスの大英図書館の敷地内で進められる大規模な再開発で、図書館の拡張スペースのほか、研究環境などを備えた複合ビルの建設が始まり、着工式が行われました。
-この再開発事業は…
+NY株式市場 ナスダック株価指数 約3か月半ぶりに最高値を更新
+9月22日 9:25
+ホワイトハウスでの取材禁止 CNNなど3社が差し止め求め提訴
+9月22日 9:23
+日米韓外相 北朝鮮の完全な非核化へ協力の方針 改めて確認
+9月22日 10:15
+オープンAI “安全なAI開発進めるため 世界的な取り組み必要”
+9月22日 12:12
+アメリカと中国 AI重大事案で意思疎</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260922de51851</guid><pubDate>Tue, 22 Sep 2026 07:25:54 +0000</pubDate></item><item><title>大ピンチ！！熟練のパートさんが長期間来れなくなってしまった！？</title><link>https://qiita.com/adu-dev0519/items/b5eab1786dabefe53d5e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.879] 農産担当者でなくても発注できる仕組みを作りたい——スプレッドシートとGASで作る農産発注支援ツール
+ちょっと自慢
+9月16日に着任し、現場の課題を把握。19日にはプロトタイプを完成させました。わずか4日で、現場入力から発注判断までを支援するツールの運用を開始。手前味噌ですが、このスピード感はちょっと自慢です😎
+※本記事は完成したシステムの紹介ではなく、現場で使える形を探しながら作っている試作過程の記録です。
+現場で起きていたこと、課題
+異動先の店舗では、欠員の影響で、農産出身の店長が発注判断を行い、私や応援者が売場作業を担当する場面がありました。応援者は皆、担当部門は様々です。
+発注者と、実際</description><guid isPermaLink="false">https://qiita.com/adu-dev0519/items/b5eab1786dabefe53d5e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 22 Sep 2026 08:28:38 +0000</pubDate></item><item><title>Claude Status – Elevated errors for multiple models</title><link>https://status.claude.com/incidents/7g1qpkyz5gxh</link><description>[score: 0.879] This issue has been resolved. Impact occurred from 5:50pm PT / 00:50 UTC to 7:10pm PT / 02:10 UTC.
+Posted Sep 22, 2026 - 02:35 UTC
+Monitoring
+We have seen success rates return to normal across affected models, and are monitoring closely to ensure no further issues.
+Posted Sep 22, 2026 - 02:11 UTC
+Up</description><guid isPermaLink="false">https://status.claude.com/incidents/7g1qpkyz5gxh</guid><pubDate>Tue, 22 Sep 2026 08:46:36 +0000</pubDate></item><item><title>AI用語の基礎知識 【第23回】「エージェントワークフロー」とは――AIにPDCAさせる仕事の進め方</title><link>https://ai.watch.impress.co.jp/docs/serial/glossary/2142000.html</link><description>[score: 0.880] AI用語の基礎知識
+【第23回】「エージェントワークフロー」とは――AIにPDCAさせる仕事の進め方
+2026年9月21日 08:00
+ChatGPTなどの生成AIを使って何かを作らせてみたら、もっともらしい成果物ができてきた。でも、よく読むと「指示したはずの内容が一部抜け落ちている」「最初の前提が間違ったまま回答が最後まで進んでいる」。そこで「ここを直して」と何度も指示して直す――。生成AIを使っていると割とありがちな経験ですよね。
+これまでの生成AIの使い方は、プロンプトを投げて一発で完璧な答えを返してもらう「一問一答形式」が主流でした。しかし、複雑な調査や長文の資料作成といった実務を丸ご</description><guid isPermaLink="false">https://ai.watch.impress.co.jp/docs/serial/glossary/2142000.html</guid><pubDate>Tue, 22 Sep 2026 05:22:45 +0000</pubDate></item><item><title>アジア大会 国歌取り違えで組織委が韓国選手団に謝罪</title><link>https://news.web.nhk/newsweb/na/nd-20260922de51872</link><description>[score: 0.881] 愛知・名古屋アジア大会のホッケー男子の試合前に、会場で韓国の国歌を流す際に北朝鮮の国歌が流れたミスについて、大会の組織委員会は韓国選手団に文書で謝罪したことを明らかにしました。
+今月18日に岐阜県…
 あわせて読みたい
-【上空映像】台風25号 記録的大雨 きょうも土砂災害に厳重警戒
-9月22日 8:08
+【台風被害】 神奈川と千葉で4人死亡6人不明 住宅被害470棟余
+9月22日 18:01
+アジア大会ホッケー男子 韓国国歌でなく北朝鮮国歌流れるミス
+9月18日 20:41
+プロ野球 広島 新井監督続投の方針 来季は就任5年目へ
+9月22日 16:49
+ブルージェイズ 岡本和真 1安打も逆転負け
+9月22日 12:23
+ホワイトハウスでの取材禁止 CNNなど3社が差し止め求め提訴</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260922de51872</guid><pubDate>Tue, 22 Sep 2026 08:54:09 +0000</pubDate></item><item><title>文字より音声の方が「賢く」感じる場面がある？ 心理学が明かした "テキストの弱点" とは</title><link>https://studyhacker.net/effect_of_voice</link><description>[score: 0.881] AIのおかげでテキストユーザーインターフェイスが再び主役になりつつあります。社内でもSlackやTeamsなどのツールでテキストコミュニケーションが当たり前になっていますよね。 直接会うことはおろか、電話で話すことさえ少なくなりました。ところがじつは、テキストで済ませるところをあえて声にすると、同じ内容でも「頭の回転が速そう」に見えるという研究結果があるのです。 声にすればいい。電話でも、Zoomの音声でも、ボイスメッセージでも なぜ声にするだけで「頭がいい」と思われるのか テキストで済ませず、あえて声にしたい場面 よくある質問（FAQ） 声にすればいい。電話でも、Zoomの音声でも、ボイスメ</description><guid isPermaLink="false">https://studyhacker.net/effect_of_voice</guid><pubDate>Tue, 22 Sep 2026 10:06:53 +0000</pubDate></item><item><title>シャンプー売り場でP&amp;Gと花王を抜いたのは、創業17年の大阪の会社だった。BOTANISTとYOLUを作ったI-neの話【新人さんのためのマーケティング講座 Season9 vol.13】</title><link>https://studyhacker.net/ine-botanist</link><description>[score: 0.881] 📘 新人さんのためのマーケティング講座 Season9 Season8では「機能から情緒へのドメイン再定義」を20社の事例で深掘りしました。 Season9でも引き続き、現代のマーケティングの本質を事例で解き明かしていきます。 まだ過去のSeasonを読んでいない方は、そちらからどうぞ。 ▶ Season 1【全14回まとめ】｜▶ Season 2【全15回まとめ】｜▶ Season 3【全20回まとめ】｜▶ Season 4【全20回まとめ】｜▶ Season 5【全20回まとめ】｜▶ Season 6【全20回まとめ】｜▶ Season 7【全20回まとめ】｜▶ Season 8【全20回</description><guid isPermaLink="false">https://studyhacker.net/ine-botanist</guid><pubDate>Tue, 22 Sep 2026 10:06:53 +0000</pubDate></item><item><title>トランプ氏によるメディア締め出し、発表前に側近ハープ氏が切り抜き映像を見せていた</title><link>https://www.cnn.co.jp/usa/35252843.html</link><description>[score: 0.882] トランプ大統領の補佐官を務めるナタリー・ハープ氏/Evan Vucci/Reuters （CNN） トランプ米大統領が先週、ポリティコとCNN、MS NOWの3メディアによるホワイトハウス取材の禁止を発表する前、側近のナタリー・ハープ氏がメディア映像の切り抜きを見せていたことが分かった。事情に詳しい関係者が明らかにした。 情報筋の1人によると、ポリティコに掲載された図表などがトランプ氏の怒りを買い、3メディアをホワイトハウスから締め出す決定を下すきっかけになったとみられている。別の情報筋によると、トランプ氏はテレビ映像の切り抜きも視聴したという。 トランプ氏は法廷や議会でのつまずきが相次いだ後</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35252843.html</guid><pubDate>Tue, 22 Sep 2026 09:03:33 +0000</pubDate></item><item><title>ヘッジファンドの生命線であるデータ品質が、AIのせいで低下している</title><link>https://www.businessinsider.jp/article/2609-hedge-fund-data-alternative-quality-declined-ai/</link><description>[score: 0.883] - ヘッジファンドは、外部ベンダーから購入するデータの品質が近年低下したと話している。
+- 劣化の理由の一つとして、人工知能（AI）の利用が挙げられている。
+- 「データ自体はあるのかもしれないが、大規模言語モデル（LLM）がゴミかもしれない」
+データの質が低下している。
+データを購入する投資家の3分の1が、ここ数年でデータ品質が低下したと回答している。コンサルティング会社ニューデータ（Neudata）の調査によるもので、一部の投資家はその原因がAIにあると言う。
+データはあらゆる投資ビジネスの生命線であり、ヘッジファンドは長年、投資判断に役立てようと、いわゆるオルタナティブデータへの依存度を</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-hedge-fund-data-alternative-quality-declined-ai/</guid><pubDate>Tue, 22 Sep 2026 08:55:56 +0000</pubDate></item><item><title>北海道 矢臼別演習場で陸自と米陸軍が共同射撃訓練</title><link>https://news.web.nhk/newsweb/na/nd-20260922de51887</link><description>[score: 0.883] 北海道の東部にある陸上自衛隊の矢臼別演習場で、アメリカ陸軍との実弾を使った共同訓練が行われました。
+訓練は、陸上自衛隊とアメリカ陸軍などが今月、北海道などで行っている共同訓練「オリエント・シールド…
+あわせて読みたい
+日米首脳会談 日本時間23日開催を発表 日本政府
+9月22日 14:45
+【台風被害】 神奈川と千葉で4人死亡6人不明 住宅被害470棟余
+9月22日 18:01
 【台風25号】交通影響続く 首都圏の鉄道 運転見合わせ【22日】
-9月22日 6:46
-【台風25号 被害】神奈川と千葉で2人死亡4人不明 捜索続く
-9月22日 3:34
-国連総会 きょうから各国首脳の一般討論演説 気候変動やAIも
-9月22日 5:28
-日米首脳会談へ トランプ大統領と中国への</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260922de51804</guid><pubDate>Mon, 21 Sep 2026 22:32:41 +0000</pubDate></item><item><title>米議会が対ロシア追加制裁法案を可決、ウクライナ支援が再び重要課題へ</title><link>https://forbesjapan.com/articles/detail/105220?s=ns</link><description>[score: 0.883] 米議会はこのほど、ロシアに対する追加制裁法案を可決した。これにより、ウクライナ問題が依然として米政治の重要な課題であることが示された。
-米下院は16日、262対159の賛成多数で「2026年リンゼー・グラム・ロシア・イラン制裁法」を可決した。上院は先月、同法案を86対11で可決していた。ドナルド・トランプ米大統領はこれに署名するものとみられる。
-同法案は、7月に死去した米共和党のリンゼー・グラム上院議員にちなんで名付けられており、ウクライナ侵攻の継続に関与しているロシアの政府高官や企業、金融機関を制裁の対象としている。グラム議員はウクライナを支持し、1年以上にわたり同法案の作成に取り組んでいた</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105220?s=ns</guid><pubDate>Mon, 21 Sep 2026 23:21:39 +0000</pubDate></item><item><title>macOS 27にはローカルLLMが入っている - Qiita</title><link>https://qiita.com/chibicco/items/ef1a9e40c4cdf15d8e21</link><description>[score: 0.883] macOS 27にはローカルLLMが入っている - Qiita macOS 27にはローカルLLMが入っている macOS 27には、Appleの言語モデルをTerminalから直接使える fm コマンドが入っています。 追加のアプリをインストールする必要はなく、APIキーもいりません。対応するMacなら、Terminalを開いて次の1行を入力するだけで会話を始められます。 いわゆる「ローカルLLM」がOSに最初から...</description><guid isPermaLink="false">https://qiita.com/chibicco/items/ef1a9e40c4cdf15d8e21</guid><pubDate>Mon, 21 Sep 2026 23:48:35 +0000</pubDate></item><item><title>「高市政権の経済ブレーン」が危なっかしすぎる</title><link>https://gendai.media/articles/-/171055</link><description>[score: 0.884] 歴代首相には必ずその政策を支える参謀が存在した。高市首相にもいるが、どうもこれまでと様子が異なる。官邸でいったい何が起きているのか。
-トランプ大統領も怒り出しかねない
-米・ニューヨークで9月22日から行われる国連総会での一般討論演説。その準備を進める高市官邸には、重苦しい緊張感が漂っていた。
-官邸は何としても、トランプ大統領との首脳会談を成功させたい意向だ。
-同24日、トランプ大統領と中国の習近平国家主席によるワシントンでの首脳会談が予定されている。11月の中間選挙に向け「目に見える実利」を焦るトランプ氏が、台湾問題などで中国側に大幅な譲歩を見せるのではないか―官邸内にはそんな危機感が渦巻く。</description><guid isPermaLink="false">https://gendai.media/articles/-/171055</guid><pubDate>Mon, 21 Sep 2026 22:38:50 +0000</pubDate></item><item><title>AIに頼って登山計画を立てた登山者たちが救助される</title><link>https://gigazine.net/news/20260922-ai-climber-rescued/</link><description>[score: 0.884] AIに頼って登山計画を立てた登山者たちが救助される
-カリフォルニア州の大学生3人が、カリフォルニア州北部に位置する標高4321.8mのシャスタ山を登山中に救助されました。この大学生はAIで登頂計画を立てていて、ルートから外れてしまったとのことです。
-Climbers rescued on Mount Shasta after using AI chatbot to plan trip
-https://www.sfchronicle.com/outdoors/article/shasta-climbers-rescued-chatgpt-22414629.php
-地元メディアのサンフランシスコ・</description><guid isPermaLink="false">https://gigazine.net/news/20260922-ai-climber-rescued/</guid><pubDate>Mon, 21 Sep 2026 23:06:13 +0000</pubDate></item><item><title>｢子どもが漫画やラノベしか読まない｣→バカな子に育つ？読書させたい親がやりがち"逆効果"なNG行動とは | ライフ | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/958026?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.886] コンテンツブロックが有効であることを検知しました。
-このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
-なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/958026?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Mon, 21 Sep 2026 22:03:16 +0000</pubDate></item><item><title>映画史に残る最も恐ろしい「暴走するAI」10選</title><link>https://www.businessinsider.jp/article/2609-scariest-ai-robots-movie-history/</link><description>[score: 0.886] - アンソロピックのある従業員によれば、AIは「私たちの命を賭けてギャンブルをしている」という。
-- それがまるでSF映画の話のように聞こえるなら、まさにその通りだ。
-- 暴走するAIは、何十年にわたりポップカルチャーの中心であり続けている。
-近頃は、どこを向いてもAIの情報が目に入ってくる。OpenAIのChatGPTの広告や、グーグル（Google）のGeminiによる自動生成回答、ソーシャルメディアにあふれるAI生成画像など、至るところでAIが使われている。
-さらに、アンソロピック（Anthropic）の研究者が辞任したことも報じられた。本人の言葉によれば、「AI開発者たちは、2030年</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-scariest-ai-robots-movie-history/</guid><pubDate>Mon, 21 Sep 2026 23:55:34 +0000</pubDate></item><item><title>AIでMVを作るのは想像以上に大変だった　制作34時間、繰り返した“ダメ出し”でわかったこと (1/6)</title><link>https://ascii.jp/elem/000/004/436/4436544/</link><description>[score: 0.886] AIでMVを作るのは想像以上に大変だった 制作34時間、繰り返した“ダメ出し”でわかったこと (1/6) GPT-6 Astraで作ったMVの話です。 9月3日に公開されたGPT-6 Astraは、アートに対する理解力も表現力も、これまでと比べて劇的に向上しています。特定の楽曲に合わせて、方針の設計も含め、ミュージックビデオ（MV）を作らせたらどうなるのか実験しました。そのまま任せると意図と違う方向へ進むこともあるため、人間が適...</description><guid isPermaLink="false">https://ascii.jp/elem/000/004/436/4436544/</guid><pubDate>Mon, 21 Sep 2026 23:09:51 +0000</pubDate></item><item><title>数十万ドルの株式を捨てて辞めた人たち。ビッグテックの「ゴールデンハンドカフス」が効かなくなった理由</title><link>https://www.businessinsider.jp/article/2609-big-tech-stock-compensation-golden-handcuffs-equity-google-apple-microsoft/</link><description>[score: 0.888] ロブ・ウォーターズ（Rob Waters）氏が2025年にグーグルからのレイオフを知らされた翌日、彼はAI営業スペシャリストとしてグーグルの新しい職に応募するよう勧められた。
-グーグルは間もなく、6桁（10万ドル台＝約1600万円以上）の給与を伴うその職を彼に提示した。
-ウォーターズ氏は、戻りたいのかどうか確信が持てなかった。彼はグーグルの官僚主義と、自分のチームをなくした組織再編の進め方に不満を募らせていた。
-しかし、立ち去るということは、権利確定前の株式およそ数十万ドル（約数千万円）分を手放すことを意味した。
-「私は死に物狂いで働き、身をささげた。それなのに、その証として残ったのは、解雇さ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-big-tech-stock-compensation-golden-handcuffs-equity-google-apple-microsoft/</guid><pubDate>Mon, 21 Sep 2026 21:55:27 +0000</pubDate></item><item><title>MetaのパーソナルAIエージェントMuseがApp Storeの首位に躍り出る</title><link>https://www.businessinsider.jp/article/2609-meta-muse-personal-ai-agent-top-app-store-charts/</link><description>[score: 0.889] マーク・ザッカーバーグが掲げる「すべての人にパーソナル・スーパーインテリジェンスを届ける」という野心的な構想は、ダウンロード数を確実に重ねながら現実の形をなしつつあるのかもしれない。
-Metaの新たなパーソナルAIエージェントである「Muse」が、ChatGPTを抑えて米国のApple App Storeの無料アプリランキングで1位に浮上した。
-Museの台頭は、消費者が「AIエージェント」を本格的に受け入れ始めた最新の証左と言える。単に質問に答えるだけの従来の対話型チャットボットとは異なり、エージェントは利用者に代わって実際のタスクを自律的に遂行するよう設計されている。
-Metaによれば、M</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-meta-muse-personal-ai-agent-top-app-store-charts/</guid><pubDate>Mon, 21 Sep 2026 22:55:46 +0000</pubDate></item><item><title>AIに関する話題の論考</title><link>https://note.com/cjdbx883/n/n2f55dcb71e30</link><description>[score: 0.890] 9月17日、哲学・思想系メディアAeonに、Liam Spradlinによる「Who will taste the cherries?」という興味深い論考が掲載された。Spradlinはデザイナー、作家、システム設計者で、デジタル・インターフェースを形づくる構造的な力と、それが人間の主体性に与える影響を考察している。今回の論考は約3000語、読むのに20分ほどの文章であるが、AI時代を考えるうえで非常に示唆に富んでいる。面白いので、チェックしてみてほしい。If computers count all the petals, who tastes the cherries? | Aeon Ess</description><guid isPermaLink="false">https://note.com/cjdbx883/n/n2f55dcb71e30</guid><pubDate>Mon, 21 Sep 2026 22:57:23 +0000</pubDate></item><item><title>「AIのゴッドファーザー」がOpenAIとアンソロピックのAIリスクを内部から追跡する新たな監視計画を支持</title><link>https://www.businessinsider.jp/article/2609-geoffrey-hinton-ai-watchdogs-openai-anthropic-safety/</link><description>[score: 0.890] OpenAIとアンソロピックはAIリスクの「第三者監視機関」の必要性を訴えてきたが、今回それに対する明確な回答が届いた形だ。
-複数の監視団体が参画する「AI Evaluator Forum（AI評価者フォーラム）」は9月18日、アンソロピックやOpenAIといった最先端AI研究所が自社技術のリスクを評価する外部専門家と効果的に連携するために満たすべき「最低条件」をまとめた公開書簡を発表した。
-AIエコシステムに関わる数十名のアカデミア・業界関係者がこの書簡に連名で署名しており、その中には「AIのゴッドファーザー」として知られるジェフリー・ヒントン（Geoffrey Hinton）氏やスチュアー</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-geoffrey-hinton-ai-watchdogs-openai-anthropic-safety/</guid><pubDate>Mon, 21 Sep 2026 22:55:46 +0000</pubDate></item><item><title>イノトランス2026開幕､中国新型車両が放つ異彩　SF超えた鉄道？未来志向デザインとAI技術の衝撃 | ビジネス | 東洋経済オンライン</title><link>https://toyokeizai.net/articles/-/958837?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</link><description>[score: 0.890] コンテンツブロックが有効であることを検知しました。
-このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。
-なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を「バランス（推奨）」にしてご利用をお願いいたします。詳細は下記のFAQページをご参照ください。
-https://help.toyokeizai.net/hc/ja/articles/33846290888345</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/958837?utm_source=rss&amp;utm_medium=http&amp;utm_campaign=link_back</guid><pubDate>Mon, 21 Sep 2026 23:44:16 +0000</pubDate></item><item><title>エヌビディアのフアンCEO「AI減速を叫ぶ経営者には別の意図がある」。トランプ大統領と同調</title><link>https://www.businessinsider.jp/article/2609-nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump/</link><description>[score: 0.900] 黒い革ジャンに惑わされてはいけない。ジェンスン・フアンは悲観論者ではない。NVIDIAのCEOは、9月20日に放送されたCBSニュースのインタビューでそう語った。
-フアンは、AIへの監督を強化しなければ自分たちが開発している製品が多様な形で人類に害を及ぼしかねないと警告するフロンティアAI研究所のリーダーたちを、誠実さを欠いていると非難した。
-「行間を読んでみてください」とフアンは、業界への政府規制を求めるAIリーダーたちに言及しながら述べた。
-「彼らは実際には、法律を増やしてほしいと言っているのではありません。すでにある法律の適用を免除してほしいと言っているのです」
-「彼らがそうするのには、</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-nvidia-jensen-huang-ai-regulation-anthropic-amodei-openai-altman-trump/</guid><pubDate>Mon, 21 Sep 2026 21:55:27 +0000</pubDate></item><item><title>グーグル、新カテゴリーノートPC「Googlebook」発売　899ドルから</title><link>https://www.watch.impress.co.jp/docs/news/2142583.html</link><description>[score: 0.901] ニュース
-グーグル、新カテゴリーノートPC「Googlebook」発売 899ドルから
-2026年9月22日 08:00
-Googleは21日(米国時間)、新しいノートPCプラットフォーム「Googlebook」を米国で販売開始した。Acer、ASUS、Dell、HP、Lenovoらから対応機種が発売され、価格は899ドルから。
-同社のノートPC型のデバイスは、クラウドサービスを前提とした「Chromebook」を展開しており、文教市場など高いシェアを獲得している。「Googlebook」は、Googleが推進する「Gemini Intelligence」を前提に再設計された新カテゴリーで、特</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2142583.html</guid><pubDate>Mon, 21 Sep 2026 23:09:55 +0000</pubDate></item><item><title>マイクロソフトAIのCEO「制御できないものを、私たちは生み出すべきではない」</title><link>https://www.businessinsider.jp/article/2609-microsoft-ai-ceo-controlling-alignment-mustafa-suleyman/</link><description>[score: 0.901] マイクロソフトAI（Microsoft AI）のCEO、ムスタファ・スレイマン（Mustafa Suleyman）氏は、AIは人類と足並みをそろえる必要があると自分が言わなければならないこと自体が「現実離れしている」と語っている。
-「私たちは制御できないものを生み出すべきではありません」と、スレイマン氏は9月18日、CNBCの『Squawk Box』で述べた。
-「そして、私たち全員を合わせたよりも強力なだけでなく、その結果として私たちには制御できないものを生み出す道を進んでいるように見えるなら、それは根本的な目的において失敗することになります」
-成功は容易には訪れないだろうと、スレイマン氏は述</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-microsoft-ai-ceo-controlling-alignment-mustafa-suleyman/</guid><pubDate>Mon, 21 Sep 2026 22:55:46 +0000</pubDate></item><item><title>Google、「Googlebook」の予約受付開始　899ドル（約14万円）から</title><link>https://www.itmedia.co.jp/news/article/2609/22/2000001667/</link><description>[score: 0.903] Google、「Googlebook」の予約受付開始 899ドル（約14万円）から
-米Googleは9月21日（現地時間）、5月に発表したノートPC「Googlebook」の予約受付を始めた。価格は899ドル（約14万円）から。米国では10月4日に、カナダ、英国、アイルランド、フランス、ドイツ、オーストラリアでは10月5日に店頭での販売を始める。予約はGoogle Storeや米家電量販店Best Buyなどで受け付けている。日本は発売地域に含まれていない。
-Googlebookは、AndroidをベースにChromeOSのデスクトップ向けの仕組みを組み合わせた新カテゴリのノートPCだ。「Ge</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2609/22/2000001667/</guid><pubDate>Mon, 21 Sep 2026 23:11:26 +0000</pubDate></item><item><title>中国AIのKimi、米Claudeに｢代理回答｣させる　アンソロピックが指摘 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOGN15BV70V10C26A9000000/</link><description>[score: 0.914] 中国AIのKimi、米Claudeに｢代理回答｣させる アンソロピックが指摘 - 日本経済新聞 【シリコンバレー=山田遼太郎】米アンソロピックが中国企業による人工知能（AI）の新たな不正使用を指摘している。利用者の質問をアンソロピックの高性能AI「クロード」に転送し、その回答を自社AIの回答だと装って示すケースが確認されたという。やり取りのデータを自社AIに学習させ、性能を高めようとしたとみられる。...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOGN15BV70V10C26A9000000/</guid><pubDate>Mon, 21 Sep 2026 23:28:35 +0000</pubDate></item><item><title>Google、GeminiとAndroid連携を深めた新PC「Googlebook」正式発表</title><link>https://k-tai.watch.impress.co.jp/docs/news/2142578.html</link><description>[score: 0.917] ニュース
-Google、GeminiとAndroid連携を深めた新PC「Googlebook」正式発表
-2026年9月21日 23:13
-グーグル（Google）は21日（現地時間）、生成AIである「Gemini」のネイティブ動作とAndroidスマートフォンとの連携機能に特化した、新たなノートパソコンのプラットフォーム「Googlebook」を発表した。
-米国をはじめとする一部市場では同日から予約受付を開始しており、10月に発売する。日本での展開は明らかにされていない。
-AIとAndroidが統合された新プラットフォーム
-「Googlebook」は、従来のノートパソコンの枠組みを超え、Gem</description><guid isPermaLink="false">https://k-tai.watch.impress.co.jp/docs/news/2142578.html</guid><pubDate>Mon, 21 Sep 2026 23:28:35 +0000</pubDate></item><item><title>トランプ氏支持32％、過去最低 物価高への評価2割弱 ロイター調査（時事通信） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFB1VUFhVzRkZ2pXV3hLMjBlcGxpWXZCRGMweWFxdWJETDQwOVJfWFBjMXNwS01MSHp3Z0t3RFlmYjA3U2Nrd2MzRzJBRGhuV3ZXNGcxZUY4US1mcXh6QnRGaHlPa2c3R0pMSVFxamY2eVZtdWVkVXhueUtsVFlGMVE?oc=5</link><description>[score: 0.920] トランプ氏支持32％、過去最低 物価高への評価2割弱 ロイター調査（時事通信） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFB1VUFhVzRkZ2pXV3hLMjBlcGxpWXZCRGMweWFxdWJETDQwOVJfWFBjMXNwS01MSHp3Z0t3RFlmYjA3U2Nrd2MzRzJBRGhuV3ZXNGcxZUY4US1mcXh6QnRGaHlPa2c3R0pMSVFxamY2eVZtdWVkVXhueUtsVFlGMVE?oc=5</guid><pubDate>Mon, 21 Sep 2026 23:14:18 +0000</pubDate></item><item><title>アンソロピック、Claudeが現在AI研究の4分の1以上を主導していると発表</title><link>https://www.businessinsider.jp/article/2609-claude-leading-quarter-of-ai-research-to-replace-itself/</link><description>[score: 0.921] アンソロピックの次世代AI開発の裏側において、Claude自身が担う作業の分担率が急速に拡大している。
-アンソロピックは9月18日に公開した公式ブログ記事で、自社のAI研究開発業務において、Claudeが実質的に主導する割合が26%に達したと発表した。これは人間の監督下で、大まかな指示からタスクの大部分をAIが自律的に完了できるレベルを意味し、2026年3月時点では1%未満に過ぎなかったという。
-アンソロピックは「『AIが人間と協働する』以上の水準で行われている業務の割合は全体の90%を超えている」と明かした上で、「ただし、測定対象となったAI研究開発業務のいかなる領域においても、Claude</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-claude-leading-quarter-of-ai-research-to-replace-itself/</guid><pubDate>Mon, 21 Sep 2026 22:55:46 +0000</pubDate></item><item><title>ロイター「トランプ氏の支持率32％…1・2期目を通じて最低」 - Infoseek</title><link>https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12RlZuY2VZM01yRm0tU0JmNVRjWnExQUI2QnpOQTZmY3ZmSHNFQXFIdzRMYWRKakZCSVNMQmlmR24xNFJYcDdER3dIUUtWVHpXRFhhRmRBMi1WUENmcGJjS2JRTnlVWDTSAWxBVV95cUxONHduc19TS29JbVZjaGdrZ0JOaUVLMjI3RHZUazZNOWszQXprUmxVZ29FNThkdlhWS0ZtSFJzRC1ESmhEN0wtbFBUdF9TWGFtV3FPRXZyelRveFdPaFNtNHp3ckk0YzJzUjItbW0?oc=5</link><description>[score: 0.921] ロイター「トランプ氏の支持率32％…1・2期目を通じて最低」 Infoseek</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiZ0FVX3lxTE12RlZuY2VZM01yRm0tU0JmNVRjWnExQUI2QnpOQTZmY3ZmSHNFQXFIdzRMYWRKakZCSVNMQmlmR24xNFJYcDdER3dIUUtWVHpXRFhhRmRBMi1WUENmcGJjS2JRTnlVWDTSAWxBVV95cUxONHduc19TS29JbVZjaGdrZ0JOaUVLMjI3RHZUazZNOWszQXprUmxVZ29FNThkdlhWS0ZtSFJzRC1ESmhEN0wtbFBUdF9TWGFtV3FPRXZyelRveFdPaFNtNHp3ckk0YzJzUjItbW0?oc=5</guid><pubDate>Mon, 21 Sep 2026 22:14:06 +0000</pubDate></item><item><title>EXCLUSIVE-トランプ氏支持率32％で過去最低、共和支持層も生活費高騰に不満＝調査 - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE84dXdhckdCZFE0aVI4OVZsYzRYVUt3OUZiNmZlRlZhU2p3QjlkZm5CRGJkd3VTU3k3YVNSUHZZZmVheXVMSmhsdHRZTHEwTkI2b0tTMGVud2JpWFloYTZHRkUzUHNpdWc0TzdVREhubWc4WEY4Z21kS3FaWjBMQdIBgwFBVV95cUxQeGdMZGdiNVBlNlBOSGMtWnJ1UGc5Y0VnQlI0VDZ0UmZPbUFvd3pyeEkzOXdoekNtRUQwYnZZc2tSY1UybFRhdjZpT1VZQnlXQU9qV1hHRmJOd3NfZ1J2aVc1T2JmRkxsTWFsYndMT1dtTWZYbzd1SFdCbXpHdHluTmRNOA?oc=5</link><description>[score: 0.934] EXCLUSIVE-トランプ氏支持率32％で過去最低、共和支持層も生活費高騰に不満＝調査 ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE84dXdhckdCZFE0aVI4OVZsYzRYVUt3OUZiNmZlRlZhU2p3QjlkZm5CRGJkd3VTU3k3YVNSUHZZZmVheXVMSmhsdHRZTHEwTkI2b0tTMGVud2JpWFloYTZHRkUzUHNpdWc0TzdVREhubWc4WEY4Z21kS3FaWjBMQdIBgwFBVV95cUxQeGdMZGdiNVBlNlBOSGMtWnJ1UGc5Y0VnQlI0VDZ0UmZPbUFvd3pyeEkzOXdoekNtRUQwYnZZc2tSY1UybFRhdjZpT1VZQnlXQU9qV1hHRmJOd3NfZ1J2aVc1T2JmRkxsTWFsYndMT1dtTWZYbzd1SFdCbXpHdHluTmRNOA?oc=5</guid><pubDate>Mon, 21 Sep 2026 23:14:18 +0000</pubDate></item></channel></rss>
+9月22日 18:12
+台風25号 関東や伊豆諸島で記録的大雨 土砂災害に引き続き注意
+9月22日 19:26
+【動画】 道路崩れ 各地で冠水 台風25</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260922de51887</guid><pubDate>Tue, 22 Sep 2026 10:20:19 +0000</pubDate></item><item><title>心理学者が教える、3種類の喜びを引き出す「万能特効薬」的な習慣</title><link>https://forbesjapan.com/articles/detail/104805?s=ns</link><description>[score: 0.884] 心理学は「万能な特効薬」に慎重だ。それにはもっともな理由がある。幅広い効果を約束する習慣は、結局は限られた効果しかもたらさないことが多い。あるいは他の研究で再現を試みると効果が薄れてしまう。そして多くの場合、「万能な特効薬」とされる習慣には強い意志が要求されることが多く、その効果を実感できるほど長く続けられる人は少ない。
+そのため気分を上向かせるには、いくつかの取り組みが必要だと考えるのが妥当だ。対象としては睡眠や身体のケア、人間関係の維持が挙げられ、それぞれに独自のルーティンと時間が必要とされる。
+しかし、ウォーキングは、今もなおその有効性が証明され続けている例外的な存在だ。効果が劇的だから</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104805?s=ns</guid><pubDate>Tue, 22 Sep 2026 09:16:50 +0000</pubDate></item><item><title>無料でひとりでは無く複数人のチームで使うことができるAIエージェント「OneCLI」、オープンソースでセルフホスト可能</title><link>https://gigazine.net/news/20260922-onecli/</link><description>[score: 0.884] 無料でひとりでは無く複数人のチームで使うことができるAIエージェント「OneCLI」、オープンソースでセルフホスト可能
+AIエージェントを社員ごとに導入すると、それぞれの実行環境やAPIキー・利用できるサービス・権限などを個別に管理する必要があります。各メンバーに専用のAIエージェントを割り当てながら、認証情報やアクセスルールをチーム単位でまとめて管理できるオープンソースの「OneCLI」が公開されています。
+OneCLI - A Personal Assistant for Every Employee
+https://onecli.sh/
+onecli/onecli: Open-sourc</description><guid isPermaLink="false">https://gigazine.net/news/20260922-onecli/</guid><pubDate>Tue, 22 Sep 2026 09:10:04 +0000</pubDate></item><item><title>トランプ氏支持３２％、過去最低 物価高への評価２割弱―ロイター調査 - 時事ドットコム</title><link>https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xbHJ5dUpoOC1JdlN4U1BVMjFkZFY3RzNpNnRIb3UwSWJjTzhiclVtNlR0YU1ocUVGODlfd0JsUWVMYTBNVngwSnVTZlpmb3hFc0U1dVF0R09RWjcxc2JVejJBTQ?oc=5</link><description>[score: 0.885] トランプ氏支持３２％、過去最低 物価高への評価２割弱―ロイター調査 時事ドットコム</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiY0FVX3lxTE0xbHJ5dUpoOC1JdlN4U1BVMjFkZFY3RzNpNnRIb3UwSWJjTzhiclVtNlR0YU1ocUVGODlfd0JsUWVMYTBNVngwSnVTZlpmb3hFc0U1dVF0R09RWjcxc2JVejJBTQ?oc=5</guid><pubDate>Tue, 22 Sep 2026 00:14:43 +0000</pubDate></item><item><title>【投資教育】金利と経済の関係、金利と株式の関係（重要）</title><link>https://note.com/cjdbx883/n/n3c5818508df6</link><description>[score: 0.885] 【投資教育】金利と経済の関係、金利と株式の関係（重要）
+１．はじめに
+世界的に金利が上昇しています。金利と経済の関係、金利と株式の関係をマトリックスで整理して考えましょう。マーケットは色々と複雑ですが、こうした基本的な考え方を理解しておくことは、とても重要ですよ。
+２．動画リンク
+約18分の動画です。
+ここから先は
+154字
+この記事が気に入ったらチップで応援してみませんか？
+世界的に金利が上昇しています。金利と経済の関係、金利と株式の関係をマトリックスで整理して考えましょう。マーケットは色々と複雑ですが、こうした基本的な考え方を理解しておくことは、とても重要ですよ。
+約18分の動画です。
+こ</description><guid isPermaLink="false">https://note.com/cjdbx883/n/n3c5818508df6</guid><pubDate>Tue, 22 Sep 2026 08:59:47 +0000</pubDate></item><item><title>バスケBプレミア開幕戦 アルバルク東京が勝利</title><link>https://news.web.nhk/newsweb/na/nd-20260922de51883</link><description>[score: 0.885] バスケットボール男子のBリーグはリーグの構造を大きく変えた新しいシーズンが始まり、トップのカテゴリーとなるBプレミアの開幕戦はアルバルク東京が琉球ゴールデンキングスに84対73で勝ちました。
+Bリ…
+あわせて読みたい
+【台風被害】 神奈川と千葉で4人死亡6人不明 住宅被害470棟余
+9月22日 18:01
+【動画】 道路崩れ 各地で冠水 台風25号の被害状況
+9月22日 18:39
+【台風25号】交通影響続く 首都圏の鉄道 運転見合わせ【22日】
+9月22日 18:12
+アジア大会 国歌取り違えで組織委が韓国選手団に謝罪
+9月22日 17:32
+プロ野球 広島 新井監督続投の方針 来季は就任5</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260922de51883</guid><pubDate>Tue, 22 Sep 2026 10:20:19 +0000</pubDate></item><item><title>高市早苗首相　“私的X”での「皇位継承は既に確定」投稿に皇室研究者が反論「直系の重視が当然」 | 女性自身</title><link>https://jisin.jp/domestic/2601240/</link><description>[score: 0.887] 高市早苗首相 “私的X”での「皇位継承は既に確定」投稿に皇室研究者が反論「直系の重視が当然」 | 女性自身 《秋篠宮皇嗣殿下、次世代の悠仁親王殿下までの皇位継承は、これまでの儀式（立皇嗣の礼）や『皇室典範』により、既に確定しているということです》 9月5日、自身のXにこんなポストをしたのは高市早苗首相（65）だ。先の国会で成立した「皇室典範改正法」について「女性天皇への道を閉ざした」などの批判の声が高まって...</description><guid isPermaLink="false">https://jisin.jp/domestic/2601240/</guid><pubDate>Tue, 22 Sep 2026 10:27:24 +0000</pubDate></item><item><title>Codexで作ったアプリの仕様漏れを「状態×利用者」の画面比較で見つける</title><link>https://qiita.com/TOSHIMITSU_MIYACHI/items/bbca261f4db9eb9f6a4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] AIとアプリを作っていると、「この画面では動くけれど、別の利用者が開くとどうなるんだろう」という場面が出てきます。
+私は、教材やマニュアルをもとに答えるAIを作って共有するアプリを、Codexと開発しています。その中で役に立ったのが、同じ対象を、違う利用者・違う状態で開いた画面を並べることでした。
+この記事では、開発中に行った確認を、別のアプリでも使える手順に整理します。スクリーンショットの差分だけで動作を保証する方法ではなく、画面比較を使って仕様の抜けを見つけ、操作確認につなぐ方法です。
+1. 比べる対象を一つに固定する
+まず、対象を「同じAIの会話画面」のように絞ります。片方は一覧、もう片</description><guid isPermaLink="false">https://qiita.com/TOSHIMITSU_MIYACHI/items/bbca261f4db9eb9f6a4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 22 Sep 2026 08:28:38 +0000</pubDate></item><item><title>「1人で10億ドル（約1580億円）企業」時代は目前か　AIが変える起業の常識</title><link>https://forbesjapan.com/articles/detail/105235?s=ns</link><description>[score: 0.890] たった1人で評価額10億ドル（約1580億円）、あるいはそれに近い企業を立ち上げることは可能なのだろうか。ソロプレナー（個人起業家）という観点からはまだ遠いかもしれないが、小規模なチームが極めて高い評価額を築き上げるという意味では、その現実に近づきつつある。
+「1人による10億ドル（約1580億円）企業」というコンセプトは、ティム・コルティノヴィスが著書『Single-Handed Unicorn: How to Solo Build a Billion-Dollar Company』で初めて提唱したものだ。彼はその中で、AIエージェントやAIツール、フリーランサーを活用することで、そのような</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105235?s=ns</guid><pubDate>Tue, 22 Sep 2026 05:49:01 +0000</pubDate></item><item><title>日本語プログラミング言語Mind９でAI仕様駆動開発を行ってみた（ステップ１）～環境準備・コード生成ルール.md～</title><link>https://qiita.com/mylifewithviolin/items/5736ac540c052b409e7a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] はじめに
+日本語プログラミング言語Mindのバージョン９でAI仕様駆動開発（っぽいこと）を行ってみます。本記事はその最初のステップで、この記事でAI仕様駆動開発ができているわけではありません。
+生成AI
+Microsoft Copilot
+Windows11アプリケーションのMicrosoft Copilot。昨年末から日本語プログラミング言語あおい（Re:Mind）の原型を作成してもらった生成AI123。モードは「無料プラン」。GitHub Copilotの使い方アドバイザーとして利用。
+GitHub Copilot
+GitHub CopilotのPro版を導入。あおいの検証で検証改修再検証</description><guid isPermaLink="false">https://qiita.com/mylifewithviolin/items/5736ac540c052b409e7a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 22 Sep 2026 08:28:38 +0000</pubDate></item><item><title>それでもワイはWasmをデバッグしたいんや！ エラーすら吐かず沈黙するブラウザと3日3晩格闘して和解した話</title><link>https://qiita.com/kanryu/items/14c0e34a55c7adec2d13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] はじめに：大反響への感謝
+前回の記事「うっかり世界最強のWasmコンパイラを作ってしまった件」では、予想を遥かに超える反響をいただき、なんとQiitaの週間お気に入りランキングで2位を達成しました！
+累計PVも45,000PVを突破し、GitHubリポジトリ（hike-lang）のスター数もあっという間に50を超えました。記事を読んでくださった皆様、温かいフィードバックをくださった皆様に心より感謝申し上げます。
+これほど多くの方に注目していただけるプロジェクトになった以上、生半可なものは出せません。
+ここ1週間ほどは開発の手を一切緩めず、コンパイラの全貌を見直す徹底的なリファクタリングを敢行し</description><guid isPermaLink="false">https://qiita.com/kanryu/items/14c0e34a55c7adec2d13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 22 Sep 2026 08:28:38 +0000</pubDate></item><item><title>トランプ氏支持３２％、過去最低＝物価高への評価２割弱―ロイター調査 - news.infoseek.co.jp</title><link>https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WWDJRNFBwUkdLbWVIeXNmcEdEN2FEV0ZCTm9kV2NkQzRYZG1SNmpPbmthY2RIQzNQc1p5Rk5zbV84Q0ZYU05DRXZWdUR1ZTl1UWYxc1JITnlUNTF0TjZwajVuV3k?oc=5</link><description>[score: 0.894] トランプ氏支持３２％、過去最低＝物価高への評価２割弱―ロイター調査 news.infoseek.co.jp</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiZEFVX3lxTE9WWDJRNFBwUkdLbWVIeXNmcEdEN2FEV0ZCTm9kV2NkQzRYZG1SNmpPbmthY2RIQzNQc1p5Rk5zbV84Q0ZYU05DRXZWdUR1ZTl1UWYxc1JITnlUNTF0TjZwajVuV3k?oc=5</guid><pubDate>Tue, 22 Sep 2026 02:15:48 +0000</pubDate></item><item><title>【全文】ウクライナ ゼレンスキー大統領インタビュー | NHKニュース</title><link>https://news.web.nhk/newsweb/na/nd-20260917de50749</link><description>[score: 0.897] ゼレンスキー大統領が語る、停戦の「譲れない条件」、プーチンの思惑、日本にのぞむ支援。北朝鮮軍は「東アジアの脅威」と訴え
+あわせて読みたい
+単独インタビューで語ったことは？
+ウクライナ 深まる苦境 ゼレンスキー大統領の試練
+9月9日 15:02
+いま知っておきたい「アメリカ中間選挙」 注目される理由は？
+9月2日 21:21
+トランプファミリー関わるリゾート計画で噴き出す怒り
+8月17日 19:40
+米ケロッグ元特使が語る停戦のジレンマ
+ロシア ウクライナ侵攻4年 停戦の道筋は見いだせるか
+疲弊 不満 失望…ロシア「Zブロガー」がつづる“戦地の異変”
+「捕虜は最大の恥」？北朝鮮兵士の実態に迫る
+</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260917de50749</guid><pubDate>Tue, 22 Sep 2026 07:02:03 +0000</pubDate></item><item><title>米テック企業の「AI開発減速」提案に、中国が懐疑的な理由</title><link>https://wired.jp/article/china-isnt-buying-silicon-valley-call-for-ai-slowdown/</link><description>[score: 0.898] シリコンバレーで絶大な影響力をもつ多くの経営者たちは長年、米国は中国との「AI軍拡競争」の渦中にあり、敗北すれば壊滅的な結果を招くと主張してきた。ところが、ここ1週間ほどで、同じ面々が異なるメッセージを発信し始めている。人工知能（AI）は極めて危険な存在になりうるため、米中両国は早急に協力し、競争のペースを落とす必要があるというのだ。
+「世界全体でAI開発のペースを調整するには、権威主義国家のなかで群を抜いて高度なAI能力をもつ中国との協力が欠かせません」と、Anthropicの最高経営責任者（CEO）ダリオ・アモデイは9月12日（米国時間）に公開した「We Must Pace the Fro</description><guid isPermaLink="false">https://wired.jp/article/china-isnt-buying-silicon-valley-call-for-ai-slowdown/</guid><pubDate>Tue, 22 Sep 2026 08:14:59 +0000</pubDate></item><item><title>https://x.com/tmiyatake1/status/2101824478212669521</title><link>https://x.com/tmiyatake1/status/2101824478212669521</link><description>[score: 0.901] Tetsuro Miyatake@tmiyatake1手抜き作業は概念が変わったとShopifyのTobi Lütkeが語る。 昔はアウトプットを全然出さない人だったのが、AI時代ではアウトプットを出しすぎて周りの人に確認作業を増やすのが手抜き作業であると主張。00:0012:03 AM · Sep 21, 2026·61.6KViews282525243
+Tetsuro Miyatake@tmiyatake1手抜き作業は概念が変わったとShopifyのTobi Lütkeが語る。 昔はアウトプットを全然出さない人だったのが、AI時代ではアウトプットを出しすぎて周りの人に確認作業を増やすのが手</description><guid isPermaLink="false">https://x.com/tmiyatake1/status/2101824478212669521</guid><pubDate>Tue, 22 Sep 2026 08:26:25 +0000</pubDate></item><item><title>トランプ氏支持率32％ 過去最低とロイター通信、イラン攻撃による燃料高騰に不満 - 産経ニュース</title><link>https://news.google.com/rss/articles/CBMidkFVX3lxTFB1eExOS3RjUXlRQXUxRnk4UFVERjNZZV9aVXNnUnNTemp2allDX3JCUDZKekZ0eWNNeGFyZVgwclpRekI3YXktenlWUkhnYnE0eXRtUG9rc2NjcFdXMXNleG5lbmNCcEF4Q1RDeWpuRVJSYXJiWFE?oc=5</link><description>[score: 0.904] トランプ氏支持率32％ 過去最低とロイター通信、イラン攻撃による燃料高騰に不満 産経ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMidkFVX3lxTFB1eExOS3RjUXlRQXUxRnk4UFVERjNZZV9aVXNnUnNTemp2allDX3JCUDZKekZ0eWNNeGFyZVgwclpRekI3YXktenlWUkhnYnE0eXRtUG9rc2NjcFdXMXNleG5lbmNCcEF4Q1RDeWpuRVJSYXJiWFE?oc=5</guid><pubDate>Tue, 22 Sep 2026 03:17:00 +0000</pubDate></item><item><title>EXCLUSIVE-トランプ氏支持率32％で過去最低、共和支持層も生活費高騰に不満＝調査 (ロイター) - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMijgFBVV95cUxOQWZJV3Y4WjA1S1dOQWtJdjd6RkNKVUlCN1EtZjR3OTNmeGptMHdRLUY5QU42eW5pZWFDcUFud09sREpsd1BCOVI3azdCZDRWTVlNUWxCUmc2ZDJfS3gyc205QUtfOGhMdjlXbllEbHFGQ2hDWFVCSldXWDRKczVGNGVlWkdsdXZ2Rk5sX0VB?oc=5</link><description>[score: 0.939] EXCLUSIVE-トランプ氏支持率32％で過去最低、共和支持層も生活費高騰に不満＝調査 (ロイター) Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMijgFBVV95cUxOQWZJV3Y4WjA1S1dOQWtJdjd6RkNKVUlCN1EtZjR3OTNmeGptMHdRLUY5QU42eW5pZWFDcUFud09sREpsd1BCOVI3azdCZDRWTVlNUWxCUmc2ZDJfS3gyc205QUtfOGhMdjlXbllEbHFGQ2hDWFVCSldXWDRKczVGNGVlWkdsdXZ2Rk5sX0VB?oc=5</guid><pubDate>Tue, 22 Sep 2026 09:15:33 +0000</pubDate></item></channel></rss>
