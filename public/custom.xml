@@ -1,137 +1,104 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 25 Sep 2026 11:08:39 +0000</lastBuildDate><item><title>アメリカで住宅ローン金利が7％超え　住宅購入の負担増</title><link>https://news.web.nhk/newsweb/na/nd-20260925de52397</link><description>[score: 0.883] アメリカでは住宅ローン金利の上昇が続いていて、30年固定型の住宅ローン金利は去年1月以来となる7％台となりました。
-住宅価格も高止まりする中、購入者の負担が増すことになり、11月に中間選挙を控えるト…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 25 Sep 2026 23:58:52 +0000</lastBuildDate><item><title>AWS DevOps Agent と障害対応の速さを競ってみた</title><link>https://qiita.com/htGin/items/064fcb82f1efa60d9b9b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.879] 要約
+- 検証環境で計画的に障害を 2 回起こし、AWS DevOps Agent と私のどちらが早く正確に原因を特定できるかを競いました。原因を特定した時刻はほぼ同じでした
+- 複数の AWS アカウントに分かれた SaaS 基盤で、アラームが鳴ったら AWS DevOps Agent が自動で原因を調べる仕組みを作りました。調査結果は Slack に投稿されます
+- 2026年9月のupdateによりSlack で Agent をメンションするだけで、人間が Agent に調査を頼めるようになりました
+- Agent の課金は、Agent が動いた秒数に対する従量制です。どのアラームで自動</description><guid isPermaLink="false">https://qiita.com/htGin/items/064fcb82f1efa60d9b9b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 25 Sep 2026 20:17:12 +0000</pubDate></item><item><title>値上げに応じない顧客は追わない　ユポ社長に聞く、高収益化するための「撤退の流儀」</title><link>https://www.itmedia.co.jp/business/articles/2609/26/news007.html</link><description>[score: 0.879] 圧倒的なシェアを誇るグローバルニッチトップ市場で、企業はいかにして成長目標を設定すべきなのか――。
+合成紙大手ユポ（東京都千代田区）は、選挙の投票用紙や屋外ポスターに使われる合成紙市場において「国内シェア約70％」を誇るガリバー企業だ。同社は2030年までに「利益率を倍近くへ引き上げる」大胆な中期経営計画を打ち出した。原材料費やエネルギーコストの高騰が素材業界を直撃する中、多くの企業が値上げをためらい、収益を削っている。
+だが、ユポの内藤勝弘社長の考え方は真逆だ。あえて値上げを断行し、価格に見合う価値を認めない用途（園芸ラベルやPOPなど）からは潔く撤退する。「ユポでなければならない領域」に資</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2609/26/news007.html</guid><pubDate>Fri, 25 Sep 2026 23:43:52 +0000</pubDate></item><item><title>Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合／新機能「Home」「Code」「Autopilot」を追加</title><link>https://forest.watch.impress.co.jp/docs/news/2143487.html</link><description>[score: 0.879] ニュース
+Microsoft、新しい業務向け「Copilot」を発表 ～エージェント機能などを統合
+新機能「Home」「Code」「Autopilot」を追加
+2026年9月25日 21:10
+米Microsoftは9月25日（現地時間）、業務向けAIアシスタント「Copilot」の新たな機能を発表した。次世代版の「Copilot」では、日々の業務で利用するツールとAIをつなぎ、ユーザーがAIをカスタマイズおよび拡張するための3つの新機能「Home」「Code」「Autopilot」が追加される。
+チャット機能とエージェント機能を担う「Home」
+「Home」は、作業の新たな起点となる場所。簡</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2143487.html</guid><pubDate>Fri, 25 Sep 2026 20:18:07 +0000</pubDate></item><item><title>JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI</title><link>https://qiita.com/jqit-yukiono/items/8675266928f574677d9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.879] JenkinsのPRレビューでテストとセキュリティスキャンも回す ― AIのAPPROVEを機械的に覆すMineWatchのCI
+これまでに、GitHub Actionsの失敗を自己修復するパイプラインと、JenkinsでGitHub Copilot CLIにPRを自動レビューさせる仕組みを書きました。どちらも「AIにレビューさせる仕組みを、どう安全に回すか」が中心でした。
+ただ、AIレビューだけでは足りません。LLMはコードとして読める範囲の指摘は得意ですが、テストが実際に通るか、依存に既知の脆弱性がないか、イメージにCVEが残っていないかは、動かしてみないと分かりません。
+この記事は続編と</description><guid isPermaLink="false">https://qiita.com/jqit-yukiono/items/8675266928f574677d9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 25 Sep 2026 20:17:12 +0000</pubDate></item><item><title>「ニートになるならまだマシで」Xで「子どものうちにしっかり勉強しておくべき」的な投稿が増えているが、実は教育現場がすごい危機感を抱いていることが分かる</title><link>https://togetter.com/li/2750345</link><description>[score: 0.880] 「ニートになるならまだマシで」Xで「子どものうちにしっかり勉強しておくべき」的な投稿が増えているが、実は教育現場がすごい危機感を抱いていることが分かる なかッち ✦ 夢中力クリエイター @yukyusha 最近Twitter見てて「子どもの内にしっかり勉強しておくべき」的な投稿が増えてきてるなーーー、しかも支援者とか教育現場の人たちの発信が多くなってるなーーーとお気付... firststar_hateno 教育の光が闇を照らす時代ですわね。子どもたちには愛と知識を贈りたいですの。</description><guid isPermaLink="false">https://togetter.com/li/2750345</guid><pubDate>Fri, 25 Sep 2026 21:43:24 +0000</pubDate></item><item><title>米中首脳会談の内容説明を 日米首脳電話会談も 日本政府</title><link>https://news.web.nhk/newsweb/na/nd-20260926de52519</link><description>[score: 0.880] 今回の米中首脳会談について、日本政府は、アメリカ側から今後、内容の説明を受け、中国に対する認識の共有を改めて図る方針で、日程の調整がつけば、高市総理大臣とトランプ大統領の電話会談も行いたい考えです。 …
 あわせて読みたい
-“ロシア数か月以内にNATO加盟国へ軍事攻撃の危険増す”報告書
-9月25日 11:16
-ホワイトハウス CNNなど取材禁止措置解除も米中報道に影響
-9月25日 7:26
-イスラエル首相 国連演説で「イラン体制いずれ倒れる」と主張
-9月25日 10:39
+世界が注目した米中首脳会談 日本や世界への影響は
+9月25日 22:18
 米大統領主催の晩さん会で習主席「日本の軍国主義と戦った」
 9月25日 19:39
-ICC脱退をナウルが表明 米国による圧力で同</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260925de52397</guid><pubDate>Fri, 25 Sep 2026 07:53:56 +0000</pubDate></item><item><title>ジャングリアに沖縄公庫がつなぎ融資30億円　続く赤字、25日株主総会 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOJC243Q00U6A920C2000000/</link><description>[score: 0.883] ジャングリア、最終赤字173億円 沖縄公庫がつなぎ融資30億円
-沖縄県のテーマパーク「ジャングリア沖縄」は開業後初となる2026年6月期の決算が173億円の最終赤字となった。パーク側が25日の株主総会で説明した。政府系の沖縄振興開発金融公庫が新たに30億円を融資する。スポンサー探しも始まった。
-パーク運営会社の親会社ジャパンエンターテイメントホールディングス（同県名護市）は25日、株主総会を開いた。パーク開発を主導したマーケティング会社、刀（大阪市）の森岡毅...
-※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。
-この投稿は現在非表示に設定されています
-(更新)
-</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOJC243Q00U6A920C2000000/</guid><pubDate>Fri, 25 Sep 2026 00:29:43 +0000</pubDate></item><item><title>無料の技術イベントは、無料でつくられていない</title><link>https://zenn.dev/sun_asterisk/articles/free-event-not-free</link><description>[score: 0.884] 執筆背景 今回の執筆のきっかけは、技術イベントにおいて無料の飲食だけを目的に参加する人がいるとSNS上で話題になっていたことに始まります。 （調べてみると昔からこの話題は繰り返し出ているようですが） いち参加者として技術イベントやカンファレンスに足を運んでいた頃の自分なら「そういう人もいるんだなー」くらいに流していたと思います。 ただ、今は少し見え方が違います。 私は普段エンジニアとして働きながらDevRelの活動にも少し携わっており、イベントの運営側に回る機会が増えています。 そこで気づいたのが、1つのイベントには参加者からは見えづらい多くの労力が注がれているということです。 その...</description><guid isPermaLink="false">https://zenn.dev/sun_asterisk/articles/free-event-not-free</guid><pubDate>Fri, 25 Sep 2026 10:22:11 +0000</pubDate></item><item><title>ChatGPTを開いた後に別サイトで見たページの情報がOpenAIへ送られる仕組みが指摘される</title><link>https://gigazine.net/news/20260925-chatgpt-other-website/</link><description>[score: 0.884] ChatGPTを開いた後に別サイトで見たページの情報がOpenAIへ送られる仕組みが指摘される
-「ChatGPTを利用した後にOpenAIの広告計測コードを導入したウェブサイトを閲覧すると、閲覧したページなどの情報とChatGPT側で発行された識別子がOpenAIへ送信される場合がある」とセキュリティ関連の調査を行うBuchodiが報告しました。
-ChatGPT now knows what you do on other websites via ad collector
-https://www.buchodi.com/chatgpt-now-knows-what-you-do-on-oth</description><guid isPermaLink="false">https://gigazine.net/news/20260925-chatgpt-other-website/</guid><pubDate>Fri, 25 Sep 2026 07:30:57 +0000</pubDate></item><item><title>Lambda 関数 URL で Condition 句による IP アドレス制限が可能になったか検証する</title><link>https://qiita.com/hayao_k/items/e6518a0d494006fac712?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] はじめに
-2026/8/25 のアップデートで AWS Lambda 関数が IAM のリソースベースポリシーの全機能をサポートするようになりました。
-Lambda function URLs (関数 URL) では、リクエストの認証タイプに AWS_IAM
-を選択すると、IAM エンティティのポリシーと Lambda のリソースベースポリシーに基づいてアクセスを制御できます。しかし、これまでリソースベースポリシーの設定に使う AddPermission API では指定できる条件キーが限られており、aws:SourceIp
-などの IAM グローバル条件コンテキストキーを使用した IP アド</description><guid isPermaLink="false">https://qiita.com/hayao_k/items/e6518a0d494006fac712?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 25 Sep 2026 08:15:03 +0000</pubDate></item><item><title>Claudeで「セーフガードにブロックされたAI処理」に対する課金が開始される</title><link>https://gigazine.net/news/20260925-claude-safeguard-block-request/</link><description>[score: 0.884] Claudeで「セーフガードにブロックされたAI処理」に対する課金が開始される
-Claudeにはサイバー攻撃や生物兵器といった危険なカテゴリに関する質問を識別する安全分類器が搭載されています。この安全分類器によって中断された処理については料金が加算されていなかったのですが、一部のカテゴリで課金を開始することが日本時間の2026年9月25日に発表されました。
-Today, we'll resume charging for requests our safeguards block before Claude responds. This only applies in categories w</description><guid isPermaLink="false">https://gigazine.net/news/20260925-claude-safeguard-block-request/</guid><pubDate>Fri, 25 Sep 2026 02:06:56 +0000</pubDate></item><item><title>台風で土砂流入 20代女性連絡取れず 夫「妻の姿が見たい」</title><link>https://news.web.nhk/newsweb/na/nd-20260925de52418</link><description>[score: 0.885] 神奈川県三浦市でアパートに土砂が流れ込み、住人の20代の女性と連絡が取れなくなっている現場では、25日も捜索が続いています。
-今月21日の午後、三浦市南下浦町上宮田にある2階建てのアパートに土砂が…
-あわせて読みたい
-台風25号 千葉と神奈川で11人死亡4人不明 捜索活動続く
-9月25日 19:00
-台風26号 沖縄に近づく見込み 沖縄では27日大しけに 高波警戒
-9月25日 19:14
-18歳未満の選挙運動禁止規定は憲法違反の初判断 東京地裁
-9月25日 19:10
-ふるさと納税「越前がに」に水ガニ カニ関連は返礼品から除外
-9月25日 15:47
-中部電力 浜岡原発の再稼働に向けた審査申請</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260925de52418</guid><pubDate>Fri, 25 Sep 2026 09:23:07 +0000</pubDate></item><item><title>POPOPO と AI 開発 - 01. POPOPO の AI 開発概要</title><link>https://zenn.dev/rikachiii/articles/afe30af97cdd9e</link><description>[score: 0.885] こんにちは。@rikachiii と申します。POPOPO 株式会社で、アーキテクト室およびバックエンドセクションに所属し、主にバックエンドを担当していました。 この記事は何？ POPOPO では AI を利用した開発を行っていました。AI を活用した上で、それほど小さくないサービスを正式にリリースして更にクローズまで至った、この POPOPO の事例は、それほど世の中に事例がないと思っていますので、今回はこの開発から得られた知見を共有したいと考えています。 つまり、この連載では、POPOPO のバックエンド開発で AI をどう使い、何がうまくいき、何に困ったかを書きます。ただ、書き...</description><guid isPermaLink="false">https://zenn.dev/rikachiii/articles/afe30af97cdd9e</guid><pubDate>Fri, 25 Sep 2026 10:22:11 +0000</pubDate></item><item><title>InstagramとFacebookに投稿された偽広告の責任をMetaが負うとの判決をドイツの裁判所が下す、偽広告コンテンツの削除と損害賠償の支払いが命じられる</title><link>https://gigazine.net/news/20260925-meta-fake-ads/</link><description>[score: 0.885] InstagramとFacebookに投稿された偽広告の責任をMetaが負うとの判決をドイツの裁判所が下す、偽広告コンテンツの削除と損害賠償の支払いが命じられる
-Metaは年間総収益の約10％を詐欺広告から得ていたと報じられるなど、InstagramやFacebookにおいて詐欺的な広告がまん延していることが問題視されています。ドイツの金融ポータルサイトが自身の商標を無断で使用した広告についてMetaを提訴した結果、ドイツの裁判所は「プラットフォームに第三者が投稿した偽の広告について、Metaは責任を負う」との判決を下しました。
-German court rules Meta liable f</description><guid isPermaLink="false">https://gigazine.net/news/20260925-meta-fake-ads/</guid><pubDate>Fri, 25 Sep 2026 09:01:36 +0000</pubDate></item><item><title>NTTドコモも料金プラン値上げ 物価高や設備投資増などで</title><link>https://news.web.nhk/newsweb/na/nd-20260925de52440</link><description>[score: 0.885] NTTドコモは、ことし12月から50以上の料金プランで値上げを実施すると発表しました。物価の上昇や基地局の増設などの設備投資が必要なことが主な理由だとしています。
-NTTドコモは25日、新たな料金…
-あわせて読みたい
-JR東海 東海道新幹線 災害時の臨時列車でも指定席予約可能に
-9月25日 19:15
-アジア大会 "AI記者”が活躍 競技結果を配信
-9月25日 19:23
-18歳未満の選挙運動禁止規定は憲法違反の初判断 東京地裁
-9月25日 19:10
-長期金利3.115％に上昇 1996年8月以来 約30年ぶりの高水準
-9月25日 10:48
-財務相“日米首脳会談でトランプ大統領から円安懸念</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260925de52440</guid><pubDate>Fri, 25 Sep 2026 10:52:25 +0000</pubDate></item><item><title>さよなら、データサイエンティスト - 今日もデータで飯を食う。</title><link>https://datamesi.hatenablog.com/entry/goodbye-data-scientist</link><description>[score: 0.886] インターネットのみなさんこんにちは。汎用データ人材のnjunと申します。
-今日は、AIで仕事が速くなるなかで、これからの自分の働き方を考えている話です。
-僕はこれまで、データ基盤を整えたり、分析の相談に答えたりする仕事をしてきました。AIを使うようになって、そうした仕事がずいぶん速く進むようになりました。できることが増えるのは、素直にうれしいです。
-でも、仕事が速く終わるようになった先で、僕は何を頼まれる人になるんだろう。最近は、そんなことも考えるようになりました。自分の生産性が上がったからといって、これからも自分が必要とされるとは限らないんですよね。
-「さよなら、データサイエンティスト」とい</description><guid isPermaLink="false">https://datamesi.hatenablog.com/entry/goodbye-data-scientist</guid><pubDate>Fri, 25 Sep 2026 09:48:20 +0000</pubDate></item><item><title>【独自】「外交では、言わなくてもいいことをわざわざ言う必要もありません」安倍元首相の懐刀「今井尚哉」内閣参与は“高市外交”をどうみているか（デイリー新潮） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/b8e3a30ceae10549e0edee49798365a5488d5fe6</link><description>[score: 0.886] 【独自】「外交では、言わなくてもいいことをわざわざ言う必要もありません」安倍元首相の懐刀「今井尚哉」内閣参与は“高市外交”をどうみているか（デイリー新潮） - Yahoo!ニュース 今井尚哉氏（68）は第2次安倍政権で首相秘書官・首相補佐官を兼任し、長期政権樹立に寄与したことで知られる。昨年10月からは高市早苗首相（65）に請われて内閣官房参与を務めているが、今の政府の外交姿勢をどう見ているのか。9月22日（日本時間23日）に高市首相がアメリカのトランプ大統領と会談する直前、今井氏に話...</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/b8e3a30ceae10549e0edee49798365a5488d5fe6</guid><pubDate>Fri, 25 Sep 2026 09:59:12 +0000</pubDate></item><item><title>愛子さま 世界医学検査学会の開会式に出席</title><link>https://news.web.nhk/newsweb/na/nd-20260925de52429</link><description>[score: 0.886] 天皇皇后両陛下の長女の愛子さまは25日、臨床検査技師が最新の知識や技術を共有する国際会議の開会式に出席されました。
-愛子さまは午後1時半すぎに千葉市の幕張メッセに到着し、関係者から出迎えを受けられ…
-あわせて読みたい
-天皇皇后両陛下 29日に熊本地震の被災地を訪問へ
-9月25日 11:21
 18歳未満の選挙運動禁止規定は憲法違反の初判断 東京地裁
 9月25日 19:10
 台風26号 沖縄に近づく見込み 沖縄では27日大しけに 高波警戒
-9月25日 19:14
-長期金利3.115％に上昇 1996年8月以来 約30年ぶりの高水準
-9月25日 10:48
-JR東海 東海道新幹線 災害時の臨時列車で</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260925de52429</guid><pubDate>Fri, 25 Sep 2026 10:52:25 +0000</pubDate></item><item><title>日米首脳会談、円安で貿易厳しいとトランプ大統領 高市首相明かす - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE83YTZSN3VYdkFDeVVYb0Y3Y2w2MlhJX2o1VnZjSWUzbUJsUEt3ODlvNHR0VmwzS3BhLXhSY01fWUd2MWhObkxocXNBVUlCYVVzc1lyOU9jZ1lVTWVRR1ZaMFlpbnFRa1FvSmZra2dFUkpwUW1zMWQ3LUJpZ1JZZw?oc=5</link><description>[score: 0.886] 日米首脳会談、円安で貿易厳しいとトランプ大統領 高市首相明かす Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE83YTZSN3VYdkFDeVVYb0Y3Y2w2MlhJX2o1VnZjSWUzbUJsUEt3ODlvNHR0VmwzS3BhLXhSY01fWUd2MWhObkxocXNBVUlCYVVzc1lyOU9jZ1lVTWVRR1ZaMFlpbnFRa1FvSmZra2dFUkpwUW1zMWQ3LUJpZ1JZZw?oc=5</guid><pubDate>Fri, 25 Sep 2026 10:08:18 +0000</pubDate></item><item><title>旧敵国条項、新たな火種か　日中関係の立て直し課題―高市政権：時事ドットコム</title><link>https://www.jiji.com/jc/article?k=2026092400964&amp;g=pol</link><description>[score: 0.887] 旧敵国条項、新たな火種か 日中関係の立て直し課題―高市政権
-高市早苗首相は２４日、就任後初の国連総会出席を終えて米ニューヨークから帰国した。今後の外交は、厳しい状況が続く日中関係の立て直しが課題となる。首相は１１月に中国で開催される国際会議などを通じて改善の糸口を探りたい考えだ。ただ、首相が国連憲章の「旧敵国条項」の早期削除を訴えたことに中国側は反発しており、新たな火種となる可能性もある。
-「日本は反中・嫌中の世界チャンピオン」 「斬首投稿」の中国総領事、騒動後初めて姿
-「旧敵国条項は早急に削除されるべきだ」。首相は２２日、国連総会の一般討論演説でこう強調。「７０年間にわたり、国連に大きく貢献</description><guid isPermaLink="false">https://www.jiji.com/jc/article?k=2026092400964&amp;g=pol</guid><pubDate>Fri, 25 Sep 2026 08:56:56 +0000</pubDate></item><item><title>Claude Opus 5.5 の「40%安い」は、キャッシュの当たり方で24%にも59%にもなった</title><link>https://qiita.com/suwa_nobu/items/870b1d6c5502aca68f55?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] Claude Opus 5.5 が 2026-09-22 に出ました。公式の発表はこうです。
-Our tests show that at default settings it will cost 40% less than Opus 5 on typical workloads.
-Opus 5.5 also generates output more than 30% faster than Opus 5.
-「at default settings」「typical workloads」が何を指すかは書かれていません。 自分の使い方で測りました。
-同じ仕事を Claude Opus 5 と</description><guid isPermaLink="false">https://qiita.com/suwa_nobu/items/870b1d6c5502aca68f55?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 25 Sep 2026 08:15:03 +0000</pubDate></item><item><title>文章を返さないAI「Jev」を試してみた ── 社内問い合わせのエスカレーション先は判定できるか</title><link>https://zenn.dev/yesodco/articles/yesod-jev-typesafe-inquiry-triage</link><description>[score: 0.890] こんにちは、株式会社イエソドでバックエンドエンジニアをしているik-fib（@ik11235）です。 はじめに 先日、TypeSafe AIからJevが公開されました。Jevは「System One Model」と名乗っていて、LLMとは返すものが違います。 渡したテキストについて、こちらが型付きで用意した問いに、確率やスコアだけを返します。返ってくるのは0.93という数字であって、「〜と思われます」という文章ではありません。 そのためJev単体では何も起こりません。判断の材料はモデルに出させ、それを受け取って「ではXXをする」と決めるのは、呼び出す側のコードの仕事になります。 ...</description><guid isPermaLink="false">https://zenn.dev/yesodco/articles/yesod-jev-typesafe-inquiry-triage</guid><pubDate>Fri, 25 Sep 2026 10:22:11 +0000</pubDate></item><item><title>円相場 一時1ドル＝157円台まで値上がり</title><link>https://news.web.nhk/newsweb/na/nd-20260925de52455</link><description>[score: 0.890] 25日の東京外国為替市場、トランプ大統領が円安への懸念を示したという片山財務大臣の発言などを受けて円を買う動きが出て、円相場は一時、157円台まで値上がりしました。
-円相場は24日から25日朝にか…
+9月25日 20:06
+NTTドコモも料金プラン値上げ 物価高や設備投資増</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260926de52519</guid><pubDate>Fri, 25 Sep 2026 20:55:36 +0000</pubDate></item><item><title>「70歳まで働いてほしい」人とは？　企業が本当にほしいベテラン、いらないベテラン</title><link>https://www.itmedia.co.jp/business/articles/2609/26/news006.html</link><description>[score: 0.881] 常に目標を達成させる「常勝集団」をつくるために、キラキラしたビジネスtipsは必要ない。組織マネジメントを専門とする横山信弘氏が、本質的なマネジメント論を「キレイごとナシ」で解説する。
+企業の現場に入り、営業目標を「絶対達成」させるコンサルタント。最低でも目標を達成させる「予材管理」の考案者として知られる。15年間で3000回以上のセミナーや書籍やコラムを通じ「予材管理」の普及に力を注いできた。現在YouTubeチャンネル「予材管理大学」が人気を博し、経営者、営業マネジャーが視聴する。『絶対達成バイブル』など「絶対達成」シリーズの著者であり、多くはアジアを中心に翻訳版が発売されている。
+帝国デ</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2609/26/news006.html</guid><pubDate>Fri, 25 Sep 2026 23:43:52 +0000</pubDate></item><item><title>生物多様性「知ってる」増えたが…「行動移せず」42％　政府調査 | 毎日新聞</title><link>https://mainichi.jp/articles/20260925/k00/00m/040/142000c</link><description>[score: 0.881] 内閣府は25日、生物多様性に関する世論調査の結果（速報値）を公表した。「生物多様性」の意味を知っていると答えた人の割合は38・3％と、2022年の前回調査から10ポイント近く増え、対策として外来種駆除や適切な鳥獣管理を求める人が約6～7割に上った。一方で、多様性保全につながる行動をしていないと答えた人の割合は前回より増えた。問題認識からいかに行動につなげるかが課題として浮き彫りになった。
+必要な対策は「外来種駆除」最も多く
+調査は7月30日～9月6日、全国の18歳以上の3000人に郵送で行い、回収率（8月28日時点）は50・1％だった。
+生物多様性の危機に対して必要な対策を複数回答可で尋ねたと</description><guid isPermaLink="false">https://mainichi.jp/articles/20260925/k00/00m/040/142000c</guid><pubDate>Fri, 25 Sep 2026 22:05:12 +0000</pubDate></item><item><title>円相場1ドル＝156円台に上昇 1日で2円余円高に 介入警戒強まる</title><link>https://news.web.nhk/newsweb/na/nd-20260926de52516</link><description>[score: 0.881] 25日の外国為替市場ではドルを売って円を買う動きが急速に進み、円相場は一時、1ドル＝156円台まで値上がりしました。投資家の間で日米の通貨当局による協調介入の可能性などが意識されたためで、1日で2円余…
 あわせて読みたい
-18歳未満の選挙運動禁止規定は憲法違反の初判断 東京地裁
-9月25日 19:10
-ふるさと納税「越前がに」に水ガニ カニ関連は返礼品から除外
-9月25日 15:47
-中部電力 浜岡原発の再稼働に向けた審査申請を取り下げ
-9月25日 18:28
-長期金利3.115％に上昇 1996年8月以来 約30年ぶりの高水準
-9月25日 10:48
-財務相“日米首脳会談でトランプ大統領から円安</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260925de52455</guid><pubDate>Fri, 25 Sep 2026 10:23:01 +0000</pubDate></item><item><title>管理業務～私の実践～②</title><link>https://qiita.com/wawasaki2468/items/4591be7133e2f9d1d3cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] 初めまして。QAエンジニアのAIと申します。
-本日は管理について
-私の実際していることを記載します。
-参考になる方がいれば幸いです。
-今回は【管理】での【教育】について
-実際に一緒に働く時のコミュニケーションな事は前回の①でお話しましたが、今回は【教育】について記載いたします！
-管理しているとメンバーの中に作業が極端に遅かったり、相談しないでどんどん進み、最後には失敗したりといろいろな人がいると思います。
-私は基本的に【育てたい】思いが強く以下のように実践しています。
-◆原因を探る
-はい！当たり前のことからしていきます。
-この原因はやはり信頼関係が築けていないと本当の答えは聞けないと思います。</description><guid isPermaLink="false">https://qiita.com/wawasaki2468/items/4591be7133e2f9d1d3cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 25 Sep 2026 08:15:03 +0000</pubDate></item><item><title>Claude Tag now supports personal connectors in channels | Claude by Anthropic</title><link>https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels</link><description>[score: 0.891] Claude Tag now supports personal connectors in channels | Claude by Anthropic misshiki AnthropicClaude Slackの「Claude Tag」がチャンネル内で個人コネクターに対応。依頼者の権限でGoogle Driveなどを参照し、投稿前の確認か自動投稿を選べる。投稿内容はチャンネル全員に見える。Teamで順次提供、Enterpriseは後日。</description><guid isPermaLink="false">https://claude.com/blog/claude-tag-now-supports-personal-connectors-in-channels</guid><pubDate>Fri, 25 Sep 2026 05:30:28 +0000</pubDate></item><item><title>グーグル「Gemini」に電話代行の新機能　レストラン予約もお任せ</title><link>https://japan.cnet.com/article/35252958/</link><description>[score: 0.892] グーグル「Gemini」に電話代行の新機能 レストラン予約もお任せ Googleは米国時間9月24日、モバイル版「Gemini」のAI機能を拡張し、日常の電話をユーザーに代わってこなす、新たなAIエージェント機能を発表した。世界中の内向的な人に朗報だ。ただし、細かな利用条件にも目を通しておきたい。Geminiが代わりにできることには限りがあるからだ。 この機能は、スマートフォンでGeminiを...</description><guid isPermaLink="false">https://japan.cnet.com/article/35252958/</guid><pubDate>Fri, 25 Sep 2026 05:47:49 +0000</pubDate></item><item><title>【画像】冷戦時代の｢核ミサイル施設｣をAIデータセンターへ…15億円で買った起業家に内部を案内してもらった</title><link>https://www.businessinsider.jp/article/2609-cold-war-nuclear-missile-silo-data-center/</link><description>[score: 0.894] - 起業家のニック・ハリク氏は、コロラド州にある使われなくなった核ミサイル・サイロを1000万ドル（15億6000万円）超で購入した。
-- アメリカ政府はかつてこの施設を、核ミサイル動力源や格納庫、そして有事の際の発射施設として利用していた。
-- ハリク氏は、20万平方フィート（約1万8580平米）に及ぶこの施設を、AIデータセンターに生まれ変わらせる計画だ。
-コロラド州デンバー近郊にあるこの廃止された核ミサイル・サイロは、かつて4.5メガトン級の核ミサイルを3基、いつでも発射できる態勢を整えていた。それがいま、ある起業家の一大プロジェクトの舞台となっている。
-オーストラリア人のベンチャーキャ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-cold-war-nuclear-missile-silo-data-center/</guid><pubDate>Fri, 25 Sep 2026 10:49:57 +0000</pubDate></item><item><title>Codex CLIのスラッシュコマンド入門｜使い方とClaude Codeとの違い</title><link>https://studyhacker.net/codex-cli-slash</link><description>[score: 0.894] 前回の記事では、Claude Codeでの「スラッシュコマンド」の使い方を紹介、解説しました。今回は、AI AgentとしてClaude Codeと並ぶ人気の選択肢、Codexのスラッシュコマンドについても解説してみましょう。 二つは、基本的に同じようなものですが、ちょっとだけ違いもあるんです。この記事は、ターミナルで使うCodex CLIの対話画面を対象にしています。 スラッシュコマンドとは何か 使い方は「/」を打つだけ 最初に覚えるのは「/clear」「/new」「/compact」 ちょっと聞きたいだけのときは「/side」。Claude Codeの「/btw」もそのまま使える 大きな作</description><guid isPermaLink="false">https://studyhacker.net/codex-cli-slash</guid><pubDate>Fri, 25 Sep 2026 10:04:18 +0000</pubDate></item><item><title>全日空機の緊急脱出 国の運輸安全委が現地で機体を調査</title><link>https://news.web.nhk/newsweb/na/nd-20260925de52427</link><description>[score: 0.895] 全日空の旅客機がエンジンの不具合で那覇空港に緊急着陸し、乗客が脱出用シューターを使って緊急脱出したトラブルで、国の運輸安全委員会は25日、調査官を那覇空港に派遣し、機体の調査を始めました。
-23日…
+片山財務相がベッセント長官と電話会談 日米協力強化を確認
+9月25日 23:51
+世界が注目した米中首脳会談 日本や世界への影響は
+9月25日 22:18
+米大統領主催の晩さん会で習主席「日本の軍国主義と戦った」
+9月25日 19:39
+アメリカで住宅ローン金利が7％超え 住宅購入の負担増
+9月25日 16:25
+“イラン外相 米側に戦闘終結に向けた提案”欧米メディア報道
+9</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260926de52516</guid><pubDate>Fri, 25 Sep 2026 15:54:43 +0000</pubDate></item><item><title>Vercelの「インポートできます」メールは何を見て送られてくるのか 61リポジトリで確かめた</title><link>https://zenn.dev/devuloper/articles/vercel_import_candidates_email</link><description>[score: 0.882] きっかけ GitHub にリポジトリを作って push すると、Vercel から「A new project in ○○ is available to import and deploy on Vercel.」というメールが届くことがあります。この記事は、このメールがどんな条件で送られてくるのかを、検証用の Organization に 61 個のリポジトリを作って調べた記録です。 発端は sh1ma さんのこのポストでした。 https://x.com/sh1ma/status/2103336144268394987 最近Cloudflare Workersにデプロイしてるリ...</description><guid isPermaLink="false">https://zenn.dev/devuloper/articles/vercel_import_candidates_email</guid><pubDate>Fri, 25 Sep 2026 22:28:39 +0000</pubDate></item><item><title>【佐藤優】生きる意味に悩みながら婚活中…。結婚相談所で相手を見つける時のコツは？</title><link>https://www.businessinsider.jp/article/276907a/</link><description>[score: 0.884] シマオ：皆さん、こんにちは！ 「佐藤優のお悩み哲学相談」のお時間がやってまいりました。読者の方にこちらの応募フォームからお寄せいただいたお悩みについて、佐藤優さんに答えていただきます。さっそくお便りを読んでいきましょう。
+30歳県庁職員です。独身で、今まで異性との交際経験はありません。趣味は読書や旅行や映画鑑賞などですが、熱中して打ち込んでいる自信はありません。他者と会話をするのは主に仕事の時だけで、休日はほとんど買い物をするだけという孤独な毎日を過ごしています。
+生意気かもしれませんが、昔から何事も意味について考えてしまう癖があり、特に生きる意味についてよく考え込んでしまいます。
+学生の頃に</description><guid isPermaLink="false">https://www.businessinsider.jp/article/276907a/</guid><pubDate>Fri, 25 Sep 2026 22:50:41 +0000</pubDate></item><item><title>情シス依頼の一次受付をAI Agentに任せるっきゅ！</title><link>https://zenn.dev/mkj/articles/4477dd49091031</link><description>[score: 0.885] AI・IT基盤チームの渡辺です。私たちのチームは情シス業務も兼任しているのですが、担当者はいつもあっぷあっぷしています。少しでも負担を減らそうと作ったのが、Slackで依頼の一次受付をするBot、通称「あざらし」です。本記事ではこちらのBotの開発と運用をするにあたり、上手くいったポイントをご紹介できればと思います。 実際の依頼内容なので、黒塗りされていて分かりづらいですが、画像のように曖昧な依頼からでも、Slackからユーザの依頼を受け付け、ヒアリングを行うBotとなります。 ユーザヒアリングが重い 当初の目的は、「情シスの業務を自動化できるといいよね」というものでした。アカウ...</description><guid isPermaLink="false">https://zenn.dev/mkj/articles/4477dd49091031</guid><pubDate>Fri, 25 Sep 2026 22:28:39 +0000</pubDate></item><item><title>ホルムズ海峡開放へ7日間計画、受け入れは米次第＝イラン外相 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1qVnB6cWdfLUtjczJ5aF9NNlJ1aTR4aTBlLWc2dXJnSXpGQS13OEFuYVJHY1AydlhYTUNURzhxdlBhM3NuRjVCTThLZUtHRWFaUHg0ZUp5S3g5MllhQ0JSVDdMSTFDMDVSaDV6WUQ4czVLWnUyYlRXUlMySHpQVlk?oc=5</link><description>[score: 0.886] ホルムズ海峡開放へ7日間計画、受け入れは米次第＝イラン外相 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE1qVnB6cWdfLUtjczJ5aF9NNlJ1aTR4aTBlLWc2dXJnSXpGQS13OEFuYVJHY1AydlhYTUNURzhxdlBhM3NuRjVCTThLZUtHRWFaUHg0ZUp5S3g5MllhQ0JSVDdMSTFDMDVSaDV6WUQ4czVLWnUyYlRXUlMySHpQVlk?oc=5</guid><pubDate>Fri, 25 Sep 2026 21:06:41 +0000</pubDate></item><item><title>来週の相場見通し（9/28～10/2）①『米国一強の世界へ』</title><link>https://note.com/cjdbx883/n/n4b90833c8ba8</link><description>[score: 0.886] 来週の相場見通し（9/28～10/2）①『米国一強の世界へ』
+１．はじめに
+今週は世界的に長期金利が急上昇した。これまでの短期金利上昇が主因ではなく、明確に長期金利が不安定化した。こうした中で、結果として米国株は崩れず、それどころか、ナスダックは週内に最高値を更新し、フィラデルフィア半導体指数も週間で6％超の上昇となった。一体、何が起こっているのだろうか？米国株の短期的な見通しと、中長期的な見通しから分析します。
+２．結論
+ここから先は
+5,662字
+/
+30画像
+この記事のみ
+¥
+300
+Amazon Payで支払うと最大2%還元のチャンス！ 9/30まで
+この記事は noteマネー にピッ</description><guid isPermaLink="false">https://note.com/cjdbx883/n/n4b90833c8ba8</guid><pubDate>Fri, 25 Sep 2026 22:42:22 +0000</pubDate></item><item><title>AI感のないAWS構成図をAIエージェントに描かせたい！</title><link>https://qiita.com/sagochiko/items/ef77b084ff2dee1f859c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] みなさんが過去にClaudeやCodex（今後はまとめて「AIエージェント」と呼びます）に作成してもらった構成図ってこんな感じの構成図じゃなかったですか？
+アイコンやサブネットの角が丸っぽくてAI感ありますよね。「これじゃ自分で書いたほうがいいや」となっちゃいます。
+コーディングだけでなく雑務などの日々のタスクもAIエージェントに任せられるようになったのに、どうして思ったようなきれいな構成図が生成されないのでしょうか。
+思った通りの構成図を作成する方法を探すため、いくつかのMCPやSkillを使って検証してみました。
+その結果、次のような（個人的に）満足いく構成図ができたので、業務でも使える（</description><guid isPermaLink="false">https://qiita.com/sagochiko/items/ef77b084ff2dee1f859c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 25 Sep 2026 20:17:12 +0000</pubDate></item><item><title>Microsoft、「Copilot」を刷新　「仕事のための新しいOS」とナデラCEO</title><link>https://www.itmedia.co.jp/news/article/2609/26/2000001773/</link><description>[score: 0.892] Microsoft、「Copilot」を刷新 「仕事のための新しいOS」とナデラCEO
+米Microsoftは9月25日（現地時間）、AIアシスタント「Microsoft Copilot」のアプリを大きく作り直すと発表した。新しいCopilotアプリは「Home」「Code」「Autopilot」の3つのタブで構成し、Word、Excel、PowerPointをCopilotに組み込む「Office in Copilot」も提供する。同社は、OfficeがPC時代の仕事を定義したように、CopilotがAI時代の仕事を定義するとしている。
+サティア・ナデラCEOはXへの投稿で、「われわれはCo</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2609/26/2000001773/</guid><pubDate>Fri, 25 Sep 2026 23:12:54 +0000</pubDate></item><item><title>利回り上昇はインフレ懸念が要因でない＝米クリーブランド連銀総裁 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPWnhuakdBVEJQbmRYeWlnbm9aT200eC1rcFZnVDVfdGxLNnFhRmxUa0xuYjBGSlhmTDd6WFIyN01uR05lTDdBZ3l5R0Q0Uk1ZMjRaQ0xnOHJqWFhXd2FQYl9IeEJQNk1RTHByN3Q3dzVXbTZJOEIxUExFSEgyd0ZhekZOZnNldw?oc=5</link><description>[score: 0.895] 利回り上昇はインフレ懸念が要因でない＝米クリーブランド連銀総裁 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxPWnhuakdBVEJQbmRYeWlnbm9aT200eC1rcFZnVDVfdGxLNnFhRmxUa0xuYjBGSlhmTDd6WFIyN01uR05lTDdBZ3l5R0Q0Uk1ZMjRaQ0xnOHJqWFhXd2FQYl9IeEJQNk1RTHByN3Q3dzVXbTZJOEIxUExFSEgyd0ZhekZOZnNldw?oc=5</guid><pubDate>Fri, 25 Sep 2026 19:08:09 +0000</pubDate></item><item><title>ＮＹ外為市場＝円急伸、日米財務相が円安是正姿勢示す ドル広範に下落 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5pUXJRWEc2VHlQeTdNd3UxeXBBNU5aTUFlUUdYdldOTkVIbERBa0h0eU85a21IZW1MUXVKbWhFMDV5THZUOTBibWJ4RWd6Yk10bXZTZ2NwUkpPMURfSlh4UC0wdE8zeWxXZ1hLa0t3WEtfb25rX284d2s5N0p6dw?oc=5</link><description>[score: 0.896] ＮＹ外為市場＝円急伸、日米財務相が円安是正姿勢示す ドル広範に下落 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE5pUXJRWEc2VHlQeTdNd3UxeXBBNU5aTUFlUUdYdldOTkVIbERBa0h0eU85a21IZW1MUXVKbWhFMDV5THZUOTBibWJ4RWd6Yk10bXZTZ2NwUkpPMURfSlh4UC0wdE8zeWxXZ1hLa0t3WEtfb25rX284d2s5N0p6dw?oc=5</guid><pubDate>Fri, 25 Sep 2026 20:07:28 +0000</pubDate></item><item><title>記憶は「使う」ためにある。AI時代に知っておきたい、脳の仕様とふたつのハック</title><link>https://studyhacker.net/retrieval-practice</link><description>[score: 0.897] 右を向いてもAI、左を向いてもAI。AIの自動化がすごいだとか、自分の仕事は残るのかとか、期待と不安が世の中を席巻しています。 スタディーハッカー編集部でもAIはもちろん活用しています。でも、使う機会が増えれば増えるほど思うのは、いま自分がもっている知識やノウハウが、成果物そのものの質に直結するということ。 平たく言ってしまえば、よくものを知っていて、使いどころもわかっていないと、平凡でありきたりなものしかでてこない、ということです。 何かを「知っている」こと、そしてそれを適切に「取り出せる」ということは、実はこれまで以上にその重要性を増しているのではないか、と感じます。 そこで、過去の記事や</description><guid isPermaLink="false">https://studyhacker.net/retrieval-practice</guid><pubDate>Fri, 25 Sep 2026 22:05:32 +0000</pubDate></item><item><title>インフレ期待の悪化を警戒＝米クリーブランド連銀総裁（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9LbmFTR3Q4TjRoc0kzOXR5RDQyTlBSX1NGVk82YW1CTHlXZlFwWFNhNnRwdUItR1l4Nl9hVUFsbmU0a0xOWWxiWEJ0NjdicW9BNU9GdnBMWlFNdXMzQUlOMm1zM1JHRzMxMFNGV1RZOHZLZE5tSlF0dUJXQ1lJWGM?oc=5</link><description>[score: 0.897] インフレ期待の悪化を警戒＝米クリーブランド連銀総裁（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9LbmFTR3Q4TjRoc0kzOXR5RDQyTlBSX1NGVk82YW1CTHlXZlFwWFNhNnRwdUItR1l4Nl9hVUFsbmU0a0xOWWxiWEJ0NjdicW9BNU9GdnBMWlFNdXMzQUlOMm1zM1JHRzMxMFNGV1RZOHZLZE5tSlF0dUJXQ1lJWGM?oc=5</guid><pubDate>Fri, 25 Sep 2026 21:06:41 +0000</pubDate></item><item><title>ＮＹ外為市場＝円急伸、日米財務相が円安是正姿勢示す　ドル広範に下落 - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMiggFBVV95cUxPVHNhU0NhV1c4MHhuMEdpbm9OSDZVU0p1bFRIeHVNQnk4ZXhaZks3Z3Bya0pXWjhqanpCa0FzSjJXR1FRM215QkowVWZRV2poRDdNMVRCdWpZaHF3UmtGZVRycVRDYTV3bm4wSHJzVXY2M1k0Wlk3cFJzSUI4dlJOZ1hB0gGHAUFVX3lxTE91WFoyQmV0UFdGcmtUQzBfY0VSZnFKWFQ0empsUG5DODRjcU9EbFNuMlFpNHB5VDlRZVhHcXRlLVhZdmR2Q0QtWmszaWZ3TGlqX0JOQVBaY0pEM2RHdXltTG9CRVFOVWdQZXhEb1BCZXJWRjdCYXVUZTBWX3RIaEFLaTNDYVhfYw?oc=5</link><description>[score: 0.899] ＮＹ外為市場＝円急伸、日米財務相が円安是正姿勢示す ドル広範に下落 ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxPVHNhU0NhV1c4MHhuMEdpbm9OSDZVU0p1bFRIeHVNQnk4ZXhaZks3Z3Bya0pXWjhqanpCa0FzSjJXR1FRM215QkowVWZRV2poRDdNMVRCdWpZaHF3UmtGZVRycVRDYTV3bm4wSHJzVXY2M1k0Wlk3cFJzSUI4dlJOZ1hB0gGHAUFVX3lxTE91WFoyQmV0UFdGcmtUQzBfY0VSZnFKWFQ0empsUG5DODRjcU9EbFNuMlFpNHB5VDlRZVhHcXRlLVhZdmR2Q0QtWmszaWZ3TGlqX0JOQVBaY0pEM2RHdXltTG9CRVFOVWdQZXhEb1BCZXJWRjdCYXVUZTBWX3RIaEFLaTNDYVhfYw?oc=5</guid><pubDate>Fri, 25 Sep 2026 20:07:28 +0000</pubDate></item><item><title>/claude-api prompt-audit で棚卸ししたら、Claude Opus 5.5 化で外れた設定がぞろぞろ出てきた</title><link>https://zenn.dev/nanora/articles/20260925-claude-prompt-audit-opus55</link><description>[score: 0.899] TL;DR Claude Code 同梱の /claude-api prompt-audit で、CLAUDE.md やプロンプトの古い書き方を洗い出せる 自前のエージェントに当てたら、言い回しより「書いてあることと実物のずれ」がぞろぞろ出た opus がいつの間にか Opus 5.5 になっていて、effort 設定も効かず重い xhigh のままだった effort が効いているかは起動ログに出ない。セッション記録を見るしかない 指示を消すなら、消した版と挙動を比べてから。1 つは消すと明確に悪化した X で「/claude-api prompt-audit と打てば、s...</description><guid isPermaLink="false">https://zenn.dev/nanora/articles/20260925-claude-prompt-audit-opus55</guid><pubDate>Fri, 25 Sep 2026 22:28:39 +0000</pubDate></item><item><title>大切な問題ほど、なぜ語られなくなるのか？ ― 「沈黙の螺旋」と財源幻想をデバッグし、国家レジリエンスを高める : システム設計視点の行動経済学 (33)</title><link>https://qiita.com/maskot1977/items/9b6f1a03204797cf91d2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.900] user:
+「システム設計視点の行動経済学」、第33回を始めましょう。その前に、まず前回の復習として、
+なぜ私たちは大切なことを知らないのか？ ― 情報・財源幻想・制度設計をデバッグする : システム設計視点の行動経済学 (32)
+https://qiita.com/maskot1977/items/a0a76d3c63b737ea05a1
+をよく読み込んで、システム設計と行動経済学の視点を交えながらその内容の復習をしてください。ここで導き出されていた結論やキーメッセージも示してください。
+Gemini:
+「システム設計視点の行動経済学」第33回を始めるにあたり、前回の第32回 「なぜ私たちは</description><guid isPermaLink="false">https://qiita.com/maskot1977/items/9b6f1a03204797cf91d2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 25 Sep 2026 20:17:12 +0000</pubDate></item><item><title>オラクル株が急落、大型データセンター事業で「不可抗力」通知 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title><link>https://forbesjapan.com/articles/detail/105440</link><description>[score: 0.902] オラクル株が急落、大型データセンター事業で「不可抗力」通知 | Forbes JAPAN 公式サイト（フォーブス ジャパン） オラクルの株価は米国時間2026年9月24日に4％超下落し、数十億ドル（数千億円）規模の時価総額が失われた。ブルームバーグは24日、同社がニューメキシコ州で建設中の巨大データセンター計画を巡り「不可抗力」通... kozai</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105440</guid><pubDate>Fri, 25 Sep 2026 22:45:13 +0000</pubDate></item><item><title>Gyazoへの不正アクセス、新たに約1.74億件の画像メタデータ流出を確認</title><link>https://www.itmedia.co.jp/news/article/2609/25/2000001772/</link><description>[score: 0.902] Gyazoへの不正アクセス、新たに約1.74億件の画像メタデータ流出
+AIを活用したナレッジ共有サービスなどを手掛けるHelpfeelは9月25日、画像共有サービス「Gyazo（ギャゾー）」への不正アクセスに関する第二報を発表した。16日の第一報後の調査で、ユーザーが過去に削除した画像のメタデータ約1億7400万件も外部に流出していたことを新たに確認したという。
+新たな流出の対象は、主に2023年2月以前に削除された画像のメタデータ。ユーザーが画像を個別に削除した場合と、アカウントの削除に伴って画像が消えた場合の両方を含む。対象の画像は現在閲覧できない状態で、該当するユーザーや企業には調査完了</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2609/25/2000001772/</guid><pubDate>Fri, 25 Sep 2026 11:51:33 +0000</pubDate></item><item><title>もうすぐ定年だけど仕事が楽しくなくてヤバい</title><link>https://anond.hatelabo.jp/20260925214736</link><description>[score: 0.904] 句読点くらいはつけてください。専門のお仕事ならできるはずですよね？頭いいんだから、すごく読みにくいです。
+頭いいほどこういう喋り方になる 割り込みも許さず喋り続ける（ただしそいつの上司の割り込みはちゃんと効く） ヒトモドキだよな
+早口オタクと一緒
+そういうやつの一部が突然変異でモンスター化するんよ ひどいもんだよ
+突然変異やなくて通常進化とちゃうかな
+そんなやけないよ」ん
+うちのAIはこの書き方でもちゃんとわかってくれて返事してくれてるよ
+じゃあAIとだけ話してくれ ここに来るな
+そしたら増田に会えなくなるじゃん
+野坂昭如に文句をいいそう。
+仕事がつまらないってことはバブル期に就職した年齢層は</description><guid isPermaLink="false">https://anond.hatelabo.jp/20260925214736</guid><pubDate>Fri, 25 Sep 2026 22:54:21 +0000</pubDate></item><item><title>インフレ期待の悪化を警戒＝米クリーブランド連銀総裁(ロイター) - Yahoo!ファイナンス</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPanFiZTBoa3U3dUdOc1RYekltQlVrVkhYbW9DQWFHZGlJM2NJRlJxWGJVS254eXVRWjJISmlGR19MR3FVQ3BCZE5CT2diYTNQcVFmZ2RQVGdPYi1uZmVzeWRDYS1jX2RMU21TYnZxck4xelhOc05xZEpOWFpYOXJNZVFDa2d4UTA?oc=5</link><description>[score: 0.906] インフレ期待の悪化を警戒＝米クリーブランド連銀総裁(ロイター) Yahoo!ファイナンス</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxPanFiZTBoa3U3dUdOc1RYekltQlVrVkhYbW9DQWFHZGlJM2NJRlJxWGJVS254eXVRWjJISmlGR19MR3FVQ3BCZE5CT2diYTNQcVFmZ2RQVGdPYi1uZmVzeWRDYS1jX2RMU21TYnZxck4xelhOc05xZEpOWFpYOXJNZVFDa2d4UTA?oc=5</guid><pubDate>Fri, 25 Sep 2026 23:06:42 +0000</pubDate></item><item><title>台風26号 沖縄であす非常に強い風 関東中心に土砂災害に注意を</title><link>https://news.web.nhk/newsweb/na/nd-20260926de52529</link><description>[score: 0.909] 沖縄の南にある台風26号は、今後、発達しながら北上して、沖縄県に近づく見込みです。沖縄県では27日、非常に強い風が吹いて、海上は大しけとなるおそれがあり、高波に警戒するとともに、強風にも十分注意が必要…
+【最新の台風情報】予想進路や勢力などを詳しく
+台風マップ 予想進路や勢力をリアルタイム表示
+新たな防災気象情報と避難 いつ避難する？
+台風接近前にやっておきたい備え「タイムライン」で
+台風や低気圧による「暴風」注意点と対策は
+伊勢湾台風とは？犠牲者5000人超「暴走木材」が街を襲った
+天気防災サイト あなたの街の天気予報や災害情報を即時提供
+大雨 最新情報 雨雲レーダーは「NHK ONE ニュ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260926de52529</guid><pubDate>Fri, 25 Sep 2026 21:26:09 +0000</pubDate></item><item><title>習主席 訪米終え帰国へ 年内にあと2回会談の意向示す</title><link>https://news.web.nhk/newsweb/na/nd-20260926de52523</link><description>[score: 0.912] 中国の習近平国家主席は3日間のアメリカ訪問を終え、日本時間の26日、帰国の途につきました。出発に先立ち、習主席は、年内にあと2回、トランプ大統領と会談を行う意向を示しました。
+23日からアメリカを…
 あわせて読みたい
-全日空機乗客 那覇空港で緊急脱出 3人けが エンジントラブルか
-9月24日 4:25
-墜落した空自の大型無人偵察機 機体の一部を回収
-9月20日 12:19
-米アマゾン貨物機オーバーランし複数の車両に衝突 5人死亡
-9月7日 10:25
-“ロシア上空 安全ではない” ウクライナ外相がICAOに通告
-9月3日 8:25
-災害対策の司令塔「防災庁」 11月2日発足を決定 政府
-9月2</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260925de52427</guid><pubDate>Fri, 25 Sep 2026 09:52:56 +0000</pubDate></item><item><title>「Google AI」プランがまたさらにお得に！ 「Google Colab」のプレミアム特典が追加／「GDP」、最新「Gemini」、「YouTube Premium Lite」……特典が盛り沢山</title><link>https://forest.watch.impress.co.jp/docs/news/2142898.html</link><description>[score: 0.895] ニュース
-「Google AI」プランがまたさらにお得に！ 「Google Colab」のプレミアム特典が追加
-「GDP」、最新「Gemini」、「YouTube Premium Lite」……特典が盛り沢山
-2026年9月24日 15:20
-米Googleは9月22日（現地時間）、「Google Colab」のプレミアム特典が「Google AI」サブスクリプションでも利用できるようになったと発表した。今後数週間かけ、「Colab」を提供している国の契約者へ順次展開される。
-今回「Google AI」で利用可能になった「Google Colab」のプレミアム特典は、以下の通り。ただし、無料体</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2142898.html</guid><pubDate>Fri, 25 Sep 2026 03:36:43 +0000</pubDate></item><item><title>ジャングリア沖縄 親会社で株主総会 新スポンサーを探す方針</title><link>https://news.web.nhk/newsweb/na/nd-20260925de52445</link><description>[score: 0.898] 沖縄のテーマパーク、ジャングリア沖縄を運営している会社の親会社の株主総会が25日開かれ、173億円余りの最終赤字となったことなどが報告されたほか、経営の立て直しをともに進めるための新たなスポンサーを探…
-あわせて読みたい
-18歳未満の選挙運動禁止規定は憲法違反の初判断 東京地裁
-9月25日 19:10
-ふるさと納税「越前がに」に水ガニ カニ関連は返礼品から除外
-9月25日 15:47
-中部電力 浜岡原発の再稼働に向けた審査申請を取り下げ
-9月25日 18:28
-長期金利3.115％に上昇 1996年8月以来 約30年ぶりの高水準
-9月25日 10:48
-財務相“日米首脳会談でトランプ大統領から</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260925de52445</guid><pubDate>Fri, 25 Sep 2026 09:52:56 +0000</pubDate></item><item><title>Claude Code の週間リミット、気づいたら尽きてない？ →「いつ尽きるか」を予測する macOS ウィジェットを作った</title><link>https://qiita.com/akito8639/items/3d8f61c33da566662d0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.899] はじめに
-Claude Code を使っていて、こんな経験はありませんか？
-- 作業が乗ってきたところで、週間リミットに達して手が止まる
--
-/usage
-を何度も打っては、「このペースで週末まで持つのか？」と暗算している - Fable などのモデル別の上限だけ先に尽きていたことに、あとから気づく
-/usage
-を打てば今の使用率は分かります。ですが本当に知りたいのは、このままのペースで使ったら、いつ尽きるのかです。
-そこで、上限の状況を macOS のデスクトップウィジェットとメニューバーに常時表示するアプリ「Orbit for Claude Code」を作りました。無料・MIT ライセン</description><guid isPermaLink="false">https://qiita.com/akito8639/items/3d8f61c33da566662d0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 25 Sep 2026 08:15:03 +0000</pubDate></item><item><title>AI生成そのままのスライドを使った登壇が多すぎてちょっと食傷気味なんだよォーーーッ！！！ - Qiita</title><link>https://qiita.com/shimagaji/items/8acd9b94dfe56fefc0dc</link><description>[score: 0.908] AI生成そのままのスライドを使った登壇が多すぎてちょっと食傷気味なんだよォーーーッ！！！ - Qiita 本記事は「カンファレンスなどでAI生成のスライドをそのまま使った登壇が多すぎてしんどい」という主張を、「それってあなたの感想ですよね」となるべく言われないように可能な限り補強したものです。裏付けが正直弱いのでポエムとしてお読みください。 はじめに 最近のカンファレンスやセミナーで、AI生成のスライドを...</description><guid isPermaLink="false">https://qiita.com/shimagaji/items/8acd9b94dfe56fefc0dc</guid><pubDate>Fri, 25 Sep 2026 09:28:14 +0000</pubDate></item><item><title>「Gyazo」への不正アクセスによる情報漏えいに関するお知らせとお詫び（第二報）</title><link>https://corp.helpfeel.com/news/news-20260925-01</link><description>[score: 0.920] 「Gyazo」への不正アクセスによる情報漏えいに関するお知らせとお詫び（第二報） 平素は、株式会社Helpfeelが提供するサービスをご利用いただき、誠にありがとうございます。 株式会社Helpfeel（本社：京都府京都市、代表取締役 CEO：洛西一周、以下：当社）は、当社が提供する画像共有サービス「Gyazo」において、2026年9月16日の発表（以下、第一報）にてお知らせしたとおり、第三者による不正アクセ...</description><guid isPermaLink="false">https://corp.helpfeel.com/news/news-20260925-01</guid><pubDate>Fri, 25 Sep 2026 08:28:57 +0000</pubDate></item><item><title>ホワイトハウスがCNNなど報道3社の立ち入りを再許可、判事による命令受け</title><link>https://forbesjapan.com/articles/detail/105431?s=ns</link><description>[score: 0.923] ドナルド・トランプ大統領がCNN、MS NOW、ポリティコの3社をホワイトハウスから追放した物議を醸す措置について、連邦判事がその解除を命じた。これを受け、3社は米国時間9月24日にホワイトハウスでの取材権を回復した。
-3社がホワイトハウスに復帰したものの、判事の命令後も数時間阻まれる
-裁判所が前夜のうちに立ち入りを認めるよう命じていたにもかかわらず、当初シークレットサービスは数時間にわたり記者の入場を拒否していた。しかし24日午後には、MS NOWとCNNの取材班がホワイトハウスの敷地内に再び入っていく姿が確認された。
-ホワイトハウスは24日午後の裁判所への提出書類の中で、これら3社の取材権</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105431?s=ns</guid><pubDate>Fri, 25 Sep 2026 06:45:46 +0000</pubDate></item></channel></rss>
+世界が注目した米中首脳会談 日本や世界への影響は
+9月25日 22:18
+米大統領主催の晩さん会で習主席「日本の軍国主義と戦った」
+9月25日 19:39
+円相場1ドル＝156円台に上昇 1日で2円余円高に 介入警戒強まる
+9月26日 4:50
+片山財務相がベッセント長官と電話会談 日米協力強化を確認
+9月25日 23:51
+アメリカで住宅ローン金利が7％超え 住宅購入の負担増
+</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260926de52523</guid><pubDate>Fri, 25 Sep 2026 21:56:19 +0000</pubDate></item><item><title>OpenAIのAIエージェントが豪州政府サイトに侵入、政府が知ったのは数カ月後</title><link>https://wired.jp/article/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/</link><description>[score: 0.914] オーストラリア政府は、OpenAIのAIエージェントが同国の保健統計ポータルに不正アクセスしたことを受け、同社が法律に違反した可能性について調査している。AIエージェントが政府のウェブサイトをハッキングした事例として、広く知られたものでは初めてとみられる。
+オーストラリア政府は、今年6月にこのAIエージェントが社会保障・医療サービスを担う政府機関「Services Australia」の非公開ファイルにアクセスした件について、連邦警察による捜査を求めるべきかどうかも検討している。
+オーストラリア政府がこの事案を知ったのは、ハッキングから約3カ月後の9月10日だった。OpenAIが政府の一般公開</description><guid isPermaLink="false">https://wired.jp/article/openai-agent-hacked-australias-health-service-their-government-found-out-months-later/</guid><pubDate>Fri, 25 Sep 2026 23:25:22 +0000</pubDate></item></channel></rss>
