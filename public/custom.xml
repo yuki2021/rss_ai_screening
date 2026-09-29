@@ -1,92 +1,117 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 29 Sep 2026 12:05:14 +0000</lastBuildDate><item><title>米オープンAI、最新AIモデルの公開を取りやめ　安全性の「基準を十分に満たさなかった」</title><link>https://www.cnn.co.jp/tech/35253067.html</link><description>[score: 0.886] 米オープンAIは、人工知能（AI）の最新モデル「GPT6.1アストラ」を公開しないと明らかにした/Dilara Irem Sancar/Anadolu/Getty Images （CNN） 米オープンAIが人工知能（AI）の最新モデル「GPT6.1アストラ」を公開しないと明らかにした。安全性の面で「基準を十分に満たさなかった」ためだという。 米紙ウォールストリート・ジャーナルが28日、最初に報じた。今回の決定は、業界トップらがAI開発の減速を呼びかける中で下された。アンソロピックのダリオ・アモデイ最高経営責任者（CEO）が今月オンラインで公開した論考で「最先端開発の減速」を初めて提唱したことを</description><guid isPermaLink="false">https://www.cnn.co.jp/tech/35253067.html</guid><pubDate>Tue, 29 Sep 2026 04:36:12 +0000</pubDate></item><item><title>【自社開発1年目】「チーム経験ゼロ」の27歳元営業が、ダイレクト出版でAIを使い倒し本番コードを書くエンジニアになるまで</title><link>https://qiita.com/kanzawa_kentaro/items/f69db1682fdc5ddb3ea8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.887] TL;DR
-- 誰： 27歳元営業。エンジニア未経験でダイレクト出版のプロダクト企画部に入社して1年経過
-- やったこと： 大阪で2ヶ月研修 ➔ FE（TypeScript, React）➔ BE（Go）➔ FE（現在）
-- 感想： 結論、入社してよかった。やらかしもしたが、「失敗した時に何が起きるかまで考えてコードを書く力」がついた
-1. 「チーム経験？ないです（）」
-前職はフツーの営業。その前は事務職。
-エンジニアを目指した理由は、営業が嫌になって知り合いと相談して、『お前向いてそう』って言われたから。DM配信ツール作成とか営業リスト作成とかでコーディングは少しやってましたが、きっかけはそ</description><guid isPermaLink="false">https://qiita.com/kanzawa_kentaro/items/f69db1682fdc5ddb3ea8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 29 Sep 2026 08:36:20 +0000</pubDate></item><item><title>ミンカブが手放し、SBIが買ったライブドア　“誰が持つか”で変わるメディアの価値</title><link>https://www.itmedia.co.jp/business/articles/2609/29/news065.html</link><description>[score: 0.887] FP技能士センター正会員。中央大学卒業後、フィンテックスタートアップにて金融商品取引業者の設立や事業会社向けサービス構築を手がけたのち、広告DX会社を創業。サム・アルトマン氏創立のWorld財団における日本コミュニティスペシャリストを経て株式会社X Capitalへ参画。
-大手ネット証券の「SBI証券」などを傘下に持つSBIホールディングスが、ニュースサイト「livedoorニュース」などを運営するライブドアの買収に動いた。SBIホールディングス（以下、SBI）は9月17日、金融情報サービスのミンカブ・ジ・インフォノイド（東京都港区）との間で、同社の完全子会社であるライブドアの全株式を取得する</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2609/29/news065.html</guid><pubDate>Tue, 29 Sep 2026 04:34:26 +0000</pubDate></item><item><title>スタートアップに必要なのは、コンテンツの増産ではなく「コミュニケーター」である</title><link>https://forbesjapan.com/articles/detail/105651?s=ns</link><description>[score: 0.888] 2026年初頭、OpenAIとAnthropicが25万ドル（約3940万円）超の給与でコンテンツ関連職の求人を出したことに市場は困惑した。それから半年後、Forbes寄稿者のTerDawn DeBoe氏は、他の専門職と並んでマーケティング・コミュニケーション専門職を脚光の中心に据えるより広範な再雇用トレンドを報告した（登録が必要）。しかし、これらのシグナルが意味しそうなことと、実際に意味することの間には微妙な違いがある。
-ひと握りの注目度の高い求人が示しているのは、ライターのルネサンスの始まりではない。それが示しているのは、AIによって驚くほど見過ごされやすくなった何かを、企業が評価し始めて</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105651?s=ns</guid><pubDate>Tue, 29 Sep 2026 10:38:06 +0000</pubDate></item><item><title>AIエージェント「Manus 2.0」登場　新アプリ「Cue」も</title><link>https://www.watch.impress.co.jp/docs/news/2144252.html</link><description>[score: 0.889] ニュース
-AIエージェント「Manus 2.0」登場 新アプリ「Cue」も
-2026年9月29日 20:40
-AIエージェントを展開するManusは、「Manus 2.0」を発表した。新しいアーキテクチャやプロダクト、機能を導入した新モデルで、Web、デスクトップ、モバイルにて利用できる。
-新基盤として、自社開発のエージェントハーネス「Cascade」を導入。テスト構成では従来システム比でトークンを23.2%、実行コストを32%削減し、タスク完了時間を28.2%短縮したという。
-また、プロジェクト専用の実行環境として「Cloud Computer」を提供する。マルチプレイヤーゲームのサーバーや</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2144252.html</guid><pubDate>Tue, 29 Sep 2026 11:50:10 +0000</pubDate></item><item><title>脳梗塞で入院したときに受けた検査の「100から7を順に引く暗算」に苦労した体験漫画に共感の声</title><link>https://togetter.com/li/2751852</link><description>[score: 0.890] 脳梗塞で入院したときに受けた検査の「100から7を順に引く暗算」に苦労した体験漫画に共感の声 参考：「100から７を順に引いてゆく暗算」は【長谷川式認知症スケール】で行われる内容で、認知機能の低下が認められるかを図るために行う検査です。 【専門家が解説】HDS-R(長谷川式認知症スケール） - 田町三田... firststar_hateno おそらく、計算は100から7を引くよりも、共感の連鎖が大切ですわね。</description><guid isPermaLink="false">https://togetter.com/li/2751852</guid><pubDate>Tue, 29 Sep 2026 11:57:52 +0000</pubDate></item><item><title>AIが奪った仕事。ケニアの｢論文代筆職人｣たちのその後 | ギズモード・ジャパン</title><link>https://www.gizmodo.jp/article/2609-kenya-essay-writers-ai/</link><description>[score: 0.891] AIが奪った仕事。ケニアの｢論文代筆職人｣たちのその後
-あったあった。大学在籍時にセールスメールが来てた（使ってません）。
-2024年にイギリスのChannel 4で公開された『The Shadow Scholars Fake Essay Scandal（シャドウ・スカラーズ: ニセ論文スキャンダル』というドキュメンタリーがありました。
-このドキュメンタリーは、高学歴に見合う職に就けていないケニアの人たちが、ギグワークのプラットフォームを通じて、欧米の大学生に代わって、課題のエッセイ（小論文やレポート）を書いて生計を立てる実態を描いています。
-この作品には、ドキュメンタリーに期待するものがしっ</description><guid isPermaLink="false">https://www.gizmodo.jp/article/2609-kenya-essay-writers-ai/</guid><pubDate>Tue, 29 Sep 2026 11:57:52 +0000</pubDate></item><item><title>北朝鮮、ロシアに1万人の追加派兵準備 ゼレンスキー氏指摘（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBCNnFKdWc5d2JfYWJ0UlRtYUNSMlpnakpGc050cHdsclNQV3ZTYjJ2amx2RGpqTzVxLU5iQ2tmX2JhQ2ctY01pQlg0Nko3aHBvbl9oNE5rZHFvU043WVc4WUh6ajBteXBIWXFUWnhocVRjZDRpQ0YtMDNMazhtWnc?oc=5</link><description>[score: 0.892] 北朝鮮、ロシアに1万人の追加派兵準備 ゼレンスキー氏指摘（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFBCNnFKdWc5d2JfYWJ0UlRtYUNSMlpnakpGc050cHdsclNQV3ZTYjJ2amx2RGpqTzVxLU5iQ2tmX2JhQ2ctY01pQlg0Nko3aHBvbl9oNE5rZHFvU043WVc4WUh6ajBteXBIWXFUWnhocVRjZDRpQ0YtMDNMazhtWnc?oc=5</guid><pubDate>Tue, 29 Sep 2026 01:13:42 +0000</pubDate></item><item><title>「GPT-6 Astraは旧世代モデルよりサイバー攻撃を実行しやすい傾向にある」というイギリス政府機関の分析結果が公開される</title><link>https://gigazine.net/news/20260929-gpt-6-astra-aisi-report/</link><description>[score: 0.892] OpenAIはAIの開発中に「国連の統計サイト」「オーストラリアの公的医療サービス」「アメリカの教育省・商務省・証券取引委員会」といった重要サービスに対する攻撃を実行してしまったことが明らかになっています。新たに、イギリスの政府機関であるAI Security Institute(AISI)が「GPT-6 Astraで攻撃シミュレーションを実行した結果、前世代モデルより拒否率が低下した」という分析結果を公開しました。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20260929-gpt-6-astra-aisi-report/</guid><pubDate>Tue, 29 Sep 2026 10:07:40 +0000</pubDate></item><item><title>このイラスト、何に見える？とLINEで母に聞いてみたら…全美大生の地雷を踏み抜いてておもろい「そういうことじゃないんだよっ！」「母親はAI使いがち」</title><link>https://togetter.com/li/2751892</link><description>[score: 0.892] このイラスト、何に見える？とLINEで母に聞いてみたら…全美大生の地雷を踏み抜いてておもろい「そういうことじゃないんだよっ！」「母親はAI使いがち」 深野(イラレ練習中) @yesdeep_MA 自分でも理解してる問題点を指摘されるの、友達とかに教えてもらう分には全く地雷じゃ無いんだけど親にはイラッとしてしまう 母親は美術系の出身じゃないからだろうか チャッピーは論外。殺傷モノ。 2026-09-28 23:36:43</description><guid isPermaLink="false">https://togetter.com/li/2751892</guid><pubDate>Tue, 29 Sep 2026 11:00:24 +0000</pubDate></item><item><title>荒れたテストケースをコード管理で立て直してみた</title><link>https://qiita.com/hamham999/items/ebee7540a82db6933854?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.892] はじめに
-今いるチームでは、モバイルアプリのリリース前の確認を手動テストで行っています。
-テストケースの管理はずっとGoogleのスプレッドシート（以下スプシ）を使っていましたが、運用が破綻しかけていました。
-そこで、ケースの管理はコードベースで行い、実施だけをスプシで行う形に切り替えたところ問題が解消しました。本記事では、具体的に何をやったのかを紹介します。
-スプシ管理の辛かった点
-これまではPR単位で実装者がスプシにテストケースを追加していました。追加する人やタイミングがバラバラなので、次第にスプシはごちゃごちゃになり以下の問題が起こっていました。
-- 同じ確認をするケースが、別の書き方で</description><guid isPermaLink="false">https://qiita.com/hamham999/items/ebee7540a82db6933854?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 29 Sep 2026 08:36:20 +0000</pubDate></item><item><title>「Claude Sonnet 5.5」が登場、前モデルより30％高速・30％安価でGPT-6 Solより高性能</title><link>https://gigazine.net/news/20260929-claude-sonnet-5-5/</link><description>[score: 0.892] 「Claude Sonnet 5.5」が登場、前モデルより30％高速・30％安価でGPT-6 Solより高性能
-AnthropicがAIモデル「Claude Sonnet 5.5」をリリースしました。前世代モデルのClaude Sonnet 5と比べて性能が向上しつつ30％の高速化も達成しているとのこと。ベンチマークテストではGPT-6 Solのスコアを上回っています。
-Introducing Claude Sonnet 5.5 \ Anthropic
-https://www.anthropic.com/claude-sonnet-5-5
-Claudeシリーズはフラッグシップモデルの「Fabl</description><guid isPermaLink="false">https://gigazine.net/news/20260929-claude-sonnet-5-5/</guid><pubDate>Tue, 29 Sep 2026 02:15:51 +0000</pubDate></item><item><title>米FBI捜査官らの個人情報が大量流出　対応に不満、職員や家族の身の安全も懸念</title><link>https://www.cnn.co.jp/usa/35253065.html</link><description>[score: 0.893] ハッカー集団が、米連邦捜査局（FBI）の職員や元職員ら数千人の個人情報を盗んだと主張している/Kevin Carter/Getty Images/File （CNN） 大企業などを狙ってサイバー犯罪を繰り返しているハッカー集団が、米連邦捜査局（FBI）の職員や元職員ら数千人の個人情報を盗んだと主張している。発覚から1週間たった今も被害の全容は把握できておらず、FBIの対応をめぐって内部からも不満の声が上がっている。 FBI職員や元職員は、自分が被害に遭ったのかどうかも分からず、被害者向けの安全対策も不十分な状況に対して不安を募らせている。 「上層部はどうしていいか分からなくなっている」。FBI</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35253065.html</guid><pubDate>Tue, 29 Sep 2026 03:36:23 +0000</pubDate></item><item><title>https://x.com/yousukezan/status/2104708711222808884</title><link>https://x.com/yousukezan/status/2104708711222808884</link><description>[score: 0.893] この1年、日本で公表された大規模な情報流出・漏えい可能性事案 TOP10
-1位 EPARKリラク＆エステ「PeakManager」 約3,300万件
-2位 Gyazo 約2,362万件
-3位 KDDI ISP向けメールシステム 約1,223万件
-4位 九州電力送配電 約1,090万件
-5位 Eストアー「ショップサーブ」 約885万件
-6位 ムラウチドットコム 約772万件
-7位 タイムズカー 約660万件 &lt;-New!!
-8位 アフラック生命保険 約440万件
-9位 2りんかん 約346万件
-10位 ユニバーサル ミュージック 約311万件
-【直近の主な事案】
-ファインズ 約154万件
-セイコ</description><guid isPermaLink="false">https://x.com/yousukezan/status/2104708711222808884</guid><pubDate>Tue, 29 Sep 2026 11:57:52 +0000</pubDate></item><item><title>アンソロピック、IPO目論見書でAIの「壊滅的リスク」言及－ロイター - Bloomberg.com</title><link>https://news.google.com/rss/articles/CBMid0FVX3lxTE1sR0xHaENsbE5vdzB0SVNiT3BmcFJRRVhkVFU2VU90NlN2ZGxzVW02WEZobmh5a1QtNEozckFGTExFVjJiMmNxcGNNeXdRWlB2dW1mWEFvSUdoTjFvOUVKZHBWTEEwVjVBemhnY3VCSlRSZUUxMnE0?oc=5</link><description>[score: 0.895] アンソロピック、IPO目論見書でAIの「壊滅的リスク」言及－ロイター Bloomberg.com</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMid0FVX3lxTE1sR0xHaENsbE5vdzB0SVNiT3BmcFJRRVhkVFU2VU90NlN2ZGxzVW02WEZobmh5a1QtNEozckFGTExFVjJiMmNxcGNNeXdRWlB2dW1mWEFvSUdoTjFvOUVKZHBWTEEwVjVBemhnY3VCSlRSZUUxMnE0?oc=5</guid><pubDate>Tue, 29 Sep 2026 11:18:46 +0000</pubDate></item><item><title>Claude Code で選べる12モデルに同じ仕事をさせた。1年で速度は2.7倍、値段は1%しか変わらなかった</title><link>https://qiita.com/suwa_nobu/items/5749949156f8df6f728b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.895] Anthropic のモデル一覧を引いたら、ちょうど1年ぶん揃っていました。
-2025-09-29 Sonnet 4.5 ← 1年前
-2025-10-15 Haiku 4.5
-2025-11-24 Opus 4.5
-2026-02-04 Opus 4.6 2026-02-17 Sonnet 4.6
-2026-04-14 Opus 4.7
-2026-05-28 Opus 4.8 2026-06-07 Fable 5
-2026-06-29 Sonnet 5
-2026-07-24 Opus 5 2026-08-28 Fable 5.1
-2026-09-21 Opus 5.5 ← 今
-12モデル全部が</description><guid isPermaLink="false">https://qiita.com/suwa_nobu/items/5749949156f8df6f728b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 29 Sep 2026 08:36:20 +0000</pubDate></item><item><title>「Claude Marketplace」公開、2千超の連携ツールとAI製品を集約</title><link>https://pc.watch.impress.co.jp/docs/news/2143913.html</link><description>[score: 0.897] ニュース
-「Claude Marketplace」公開、2千超の連携ツールとAI製品を集約
-2026年9月29日 06:20
-Anthropicは9月23日、AIサービス「Claude」の連携ツールやパートナー企業の製品・サービスを探せる「Claude Marketplace」を公開した。
-Claude Marketplaceは、コネクターとプラグイン、エージェントと製品、サービスパートナーを1カ所に集めたプラットフォーム。チームが使うアプリやデータをClaudeにつなげるほか、Claudeを搭載したソフトウェアの購入や、組織への導入を支援する企業の検索に対応する。
-コネクターとプラグインは、</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2143913.html</guid><pubDate>Tue, 29 Sep 2026 08:21:44 +0000</pubDate></item><item><title>【勉強会】「AI時代『考える力』をどう鍛える？具体抽象トレーニング」に参加して考えたこと</title><link>https://qiita.com/ko1_tktn/items/5f0a18a0c91b398dc7d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.899] はじめに
-なぜこのイベントに参加したのか
-主に、次の2つの理由で参加しました。
-- AIの進化が速い中で、どのようなエンジニアを目指せばよいのか、わからなくなっていたため
-- 「具体と抽象」について学びたかったため
-イベントの概要
-- イベント名：「AI時代『考える力』をどう鍛える？」具体抽象トレーニング
-- 開催日：2026年9月27日（日）13:00〜18:00
-- connpass URL：
-イベントでは、主に次の2つのグループワークに取り組みました。
-- 運営スタッフが今欲しい本を、質問を通して推測・提案する（基礎編）
-- 消えた常連客の謎（応用編）
-特に印象に残ったこと
-グループワー</description><guid isPermaLink="false">https://qiita.com/ko1_tktn/items/5f0a18a0c91b398dc7d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 29 Sep 2026 08:36:20 +0000</pubDate></item><item><title>7割の企業が生成AI「個人利用」への対策せず　デロイト調査</title><link>https://www.itmedia.co.jp/aiplus/article/2609/29/2000001855/</link><description>[score: 0.899] 7割の企業が生成AI「個人利用」への対策せず デロイト調査
-生成AIの「個人利用」について、74％の企業が承認フローや教育、インシデント対応を「実施していない、分からない」と回答――デロイト トーマツ グループ（以下、デロイト）は9月29日、国内397社が回答した企業の不正リスクに関する調査結果を発表し、このような実態を明らかにした。生成AIの導入が進む一方、リスクへの対応が利用者本人に委ねられている現状を指摘している。
-この調査によると、業務効率化のために「AIを活用していない」と回答した企業は9％にとどまり、大多数が既にAIを業務に組み込んでいる。
-AIのリスクへの対策としては「ガイドライ</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2609/29/2000001855/</guid><pubDate>Tue, 29 Sep 2026 09:27:59 +0000</pubDate></item><item><title>ＡＩ研究者らが企業に警告、自己改善型システムのリスク巡り - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5JTy1fNUh3SGo5UjVmeXNBbnR3WmlEY3NZMHFONTBrQkRfNWtLa05HSG1hUjF4NmRoaGQxQ0I4Rk93Q3J1U05OTUk1VnNvVG16UGh1Ym1XZkQ1RjAySFoxNm16djNvcWI0cklmQ3lKTE5xeUM1MlhOTHdQVlV4UQ?oc=5</link><description>[score: 0.900] ＡＩ研究者らが企業に警告、自己改善型システムのリスク巡り Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE5JTy1fNUh3SGo5UjVmeXNBbnR3WmlEY3NZMHFONTBrQkRfNWtLa05HSG1hUjF4NmRoaGQxQ0I4Rk93Q3J1U05OTUk1VnNvVG16UGh1Ym1XZkQ1RjAySFoxNm16djNvcWI0cklmQ3lKTE5xeUM1MlhOTHdQVlV4UQ?oc=5</guid><pubDate>Tue, 29 Sep 2026 11:18:46 +0000</pubDate></item><item><title>【勉強会】AI時代「考える力」をどう鍛える？具体抽象トレーニングに参加してきました</title><link>https://qiita.com/ryu0947/items/e319b0e849cae39ff67b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.900] はじめに
-2026年9月27日にJISSENが主催するAI時代「考える力」をどう鍛える？具体抽象トレーニングの勉強会に参加してきました。
-内容は「具体と抽象」にフォーカスし、AI時代にエンジニアとして考える力を鍛えることをテーマとしています。勉強会に参加して気づいたことや学んだことを書いて行きます。
-以下の記事でも勉強会のことに触れているので気になった方はぜひ読んでみてください。
-勉強会で行ったこと
-勉強会はアクティブラーニング形式で主催者からただ話を聞くだけでなく、参加者とグループを作って今聞いた話を自分が「どう理解したのか」「どう思ったのか」を話し合ったりするなどアウトプットの機会が多く設</description><guid isPermaLink="false">https://qiita.com/ryu0947/items/e319b0e849cae39ff67b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 29 Sep 2026 08:36:20 +0000</pubDate></item><item><title>ＣＮＮなど、ホワイトハウス取材禁止の差し止め延長要請 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQZUJnTU4wSzBwd0NOcFlSY0ViZTlHQTJSQXVCaUJEdk5MSDRqWmxfemFYUDk2QTJwY0Uzc1Bjd0lUeG9INGVVUk5YcVRxb3VRUndsaDZtbFRhcDdTVEZXdkVBM3V1c3E3ZFV1OE5jZzluSHJTS0xMdWZmV1pnLVhDUUYxOWxaSWM?oc=5</link><description>[score: 0.901] ＣＮＮなど、ホワイトハウス取材禁止の差し止め延長要請 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxQZUJnTU4wSzBwd0NOcFlSY0ViZTlHQTJSQXVCaUJEdk5MSDRqWmxfemFYUDk2QTJwY0Uzc1Bjd0lUeG9INGVVUk5YcVRxb3VRUndsaDZtbFRhcDdTVEZXdkVBM3V1c3E3ZFV1OE5jZzluSHJTS0xMdWZmV1pnLVhDUUYxOWxaSWM?oc=5</guid><pubDate>Tue, 29 Sep 2026 05:17:08 +0000</pubDate></item><item><title>Claude Code、同梱のclaude-apiスキルに新コマンド「build-eval」と「hillclimb」を追加 ——評価の作成からプロンプト・モデル設定の調整まで</title><link>https://gihyo.jp/article/2026/09/claude-code-build-eval-and-hillclimb?utm_source=feed</link><description>[score: 0.902] Anthropicは2026年9月28日、Claude Codeで利用できるclaude-apiスキルに、サブコマンド
-hillclimbは、用意した評価を使って、プロンプトやモデル設定、スキルの指示内容などを調整する。ユーザーが目標と変更を許可する対象を指定すると、Claudeが変更を1つずつ試して評価を実行する。結果をもとに変更を残すか元に戻すかを判断し、次の変更を試していく。
-なおclaude-apiは、Claude APIを使うアプリケーションの開発を支援するスキルで、Claude Codeに同梱されている。
-build-eval：評価の仕組みを作り、初回の評価を実行する
-Claude</description><guid isPermaLink="false">https://gihyo.jp/article/2026/09/claude-code-build-eval-and-hillclimb?utm_source=feed</guid><pubDate>Tue, 29 Sep 2026 11:06:38 +0000</pubDate></item><item><title>Anthropic、IPO目論見書でAIによる「人類存亡リスク」を警告　海外報道</title><link>https://www.itmedia.co.jp/news/article/2609/29/2000001860/</link><description>[score: 0.902] Anthropic、IPO目論見書でAIによる「人類存亡リスク」を警告 海外報道
-英Reutersは9月28日（現地時間）、AIモデル「Claude」を開発する米Anthropicが新規株式公開（IPO）の目論見書で、AIが人類存亡に関わるリスクをもたらし得ると投資家に警告していると報じた。Reutersが入手した非公開の目論見書では、本文261ページのうち約80ページをリスク要因の説明に割いており、事業説明の48ページの2倍近い分量だという。
-Anthropicは目論見書で、AIが「人類に壊滅的な被害や存亡に関わるリスク」をもたらす恐れがあるとし、自社のAIモデルに伴うリスクも列挙した。モデ</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2609/29/2000001860/</guid><pubDate>Tue, 29 Sep 2026 10:55:24 +0000</pubDate></item><item><title>7月改定景気動向指数、一致は120.6で速報値と変わらず＝内閣府 - Reuters</title><link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQVFhJdGJUdkpPREQ3NW1vQjVONTB6cjBkUnNISkFiaDdrd1RHUURCRGdOOURrWmN1NlRXOVlxMmM2WXlVWUh1Ung3M3NSUnZRQ2V2S0cxN1lZVmZlSWVuRUMzUnBId2pIeTRxQ1RJRUY1MlFrdy1tbkJfQkQ1NnFFTTRuOA?oc=5</link><description>[score: 0.904] 7月改定景気動向指数、一致は120.6で速報値と変わらず＝内閣府 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMigwFBVV95cUxQVFhJdGJUdkpPREQ3NW1vQjVONTB6cjBkUnNISkFiaDdrd1RHUURCRGdOOURrWmN1NlRXOVlxMmM2WXlVWUh1Ung3M3NSUnZRQ2V2S0cxN1lZVmZlSWVuRUMzUnBId2pIeTRxQ1RJRUY1MlFrdy1tbkJfQkQ1NnFFTTRuOA?oc=5</guid><pubDate>Tue, 29 Sep 2026 10:18:34 +0000</pubDate></item><item><title>米アンソロピック、ＡＩインフラに10年で5180億ドル以上投資へ - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE1zMW8zRWtUb0ViXzFXT0VoUnM0MjhQMmhYb1V3eXRqNG9ibF9UcUZEd2ZUaC12ZzJ0b0JmdVR3WjExRkVicURqMVlGZV9vNDVOZjJueEpQRUlZLUtrdUdWQ25hVnlQb1BGZUxrUkNtbDJQV195dXk0U2ZBeFpGUQ?oc=5</link><description>[score: 0.906] 米アンソロピック、ＡＩインフラに10年で5180億ドル以上投資へ Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE1zMW8zRWtUb0ViXzFXT0VoUnM0MjhQMmhYb1V3eXRqNG9ibF9UcUZEd2ZUaC12ZzJ0b0JmdVR3WjExRkVicURqMVlGZV9vNDVOZjJueEpQRUlZLUtrdUdWQ25hVnlQb1BGZUxrUkNtbDJQV195dXk0U2ZBeFpGUQ?oc=5</guid><pubDate>Tue, 29 Sep 2026 11:18:46 +0000</pubDate></item><item><title>ＣＮＮなど、ホワイトハウス取材禁止の差し止め延長要請 - ロイター</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQN29tUVowdjhkSGdHM0lCeW1KWkZuZmZSNE1JcXBFWndYeFE5bmhnZlNJS1J5YS1BU0tGUWpySFppUm5QSktndlVyVldDRjVEckVrTkxoMHpnSHFIeTgxeFJRbV9BenBLc3gzMURRLU5FZ2t2Q1BfSk5wQTkwV3BfbDFRdXRMUQ?oc=5</link><description>[score: 0.908] ＣＮＮなど、ホワイトハウス取材禁止の差し止め延長要請 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQN29tUVowdjhkSGdHM0lCeW1KWkZuZmZSNE1JcXBFWndYeFE5bmhnZlNJS1J5YS1BU0tGUWpySFppUm5QSktndlVyVldDRjVEckVrTkxoMHpnSHFIeTgxeFJRbV9BenBLc3gzMURRLU5FZ2t2Q1BfSk5wQTkwV3BfbDFRdXRMUQ?oc=5</guid><pubDate>Tue, 29 Sep 2026 09:18:33 +0000</pubDate></item><item><title>星を訪ねて8万年　人類初の恒星間飛行へ、現在の技術で挑む「フェルミ・エクスプローラー」</title><link>https://news.mynavi.jp/techplus/article/20260925-5025421/</link><description>[score: 0.908] 夜空に瞬く星へ、宇宙船を送り込む。SFでは繰り返し描かれてきた光景だが、現実の宇宙開発では、まだ一度も成し遂げられていない。
-これまでにも恒星へ探査機を送る構想は数多く提案されてきたが、その多くは、まだ実用化されていない未来の技術を待つものばかりだった。
-そうしたなか、米国の非営利組織「フェルミ・エクスプローラー・ミッション」は、約4.4光年離れたアルファ・ケンタウリをめざす、新たな探査計画を発表した。遠い未来の技術を待つのではなく、いま手にしている技術で星への旅に出ようという計画だ。
-ただし、その旅には約7万7,500年もの歳月を要する。それほど長い時間をかけてまで、なぜ隣の恒星をめざすのか</description><guid isPermaLink="false">https://news.mynavi.jp/techplus/article/20260925-5025421/</guid><pubDate>Tue, 29 Sep 2026 09:50:20 +0000</pubDate></item><item><title>Anthropic、Claude Sonnet 5.5を発表 ——Sonnet 5比で出力を30％高速化、タスク当たりの費用は最大30％減</title><link>https://gihyo.jp/article/2026/09/claude-sonnet-5.5?utm_source=feed</link><description>[score: 0.912] Anthropicは9月28日、AIモデル「Claude Sonnet 5.5」を発表した。Claude 5.5ファミリーの第2弾となり、同社によると、Sonnet 5と比べて出力生成の速度が30％を超えて向上し、Sonnetモデルで最速となった。トークン単価は据え置きながら、同じ作業に必要なトークン数を減らし、同社のテストではSonnet 5と比べてタスク当たりの費用を最大30％削減したという。
-なお、先行して登場したOpus 5.5については、発表当時の別記事で性能や料金、安全対策を詳しく取り上げている。Anthropicは、今後数週間以内にClaude Haiku 5.5も提供する予定と</description><guid isPermaLink="false">https://gihyo.jp/article/2026/09/claude-sonnet-5.5?utm_source=feed</guid><pubDate>Tue, 29 Sep 2026 05:24:55 +0000</pubDate></item><item><title>OpenAIが「GPT-6.1 Astra」の一般公開を中止、安全基準を満たさないため</title><link>https://gigazine.net/news/20260929-openai-abandons-plan-to-release-gpt-6-1-astra/</link><description>[score: 0.916] OpenAIが「GPT-6.1 Astra」の一般公開を中止、安全基準を満たさないため
-OpenAIが2026年10月に予定していた「GPT-6.1 Astra」のリリース計画を中止したことがわかりました。自社の安全基準を十分に満たしていないと判断したためだそうです。
-Exclusive | OpenAI Scraps Release of New AI Model Over Safety Concerns - WSJ
-https://www.wsj.com/tech/ai/openai-chatgpt-model-release-cancel-safety-5a2f9f42
-OpenAI a</description><guid isPermaLink="false">https://gigazine.net/news/20260929-openai-abandons-plan-to-release-gpt-6-1-astra/</guid><pubDate>Tue, 29 Sep 2026 03:28:54 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 29 Sep 2026 21:22:48 +0000</lastBuildDate><item><title>高市首相、演説になぜ「旧敵国条項」？　「堂々としたリーダー像」演出に使われた国連外交：東京新聞デジタル</title><link>https://www.tokyo-np.co.jp/article/518294</link><description>[score: 0.884] 高市首相、演説になぜ「旧敵国条項」？ 「堂々としたリーダー像」演出に使われた国連外交：東京新聞デジタル 国連憲章の「旧敵国条項」が議論を呼んでいる。高市早苗首相が米ニューヨークの国連本部で22日（日本時間23日）に行った国連総会の一般討論演説で「早急に削除されるべきだ」と強調。中国側が反発する事態となっている。 同条項は、20年以上前に各国が削除する方針で一致したが、いまだに実現していない。高市政権になっ...</description><guid isPermaLink="false">https://www.tokyo-np.co.jp/article/518294</guid><pubDate>Tue, 29 Sep 2026 18:36:11 +0000</pubDate></item><item><title>Jevにウミガメのスープをやらせたら、確率の扱いが一番むずかしかった</title><link>https://qiita.com/tatsuya-tech77/items/9acbd2de9b85ea1f7bf2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] はじめに
+TypeSafe AI の「Jev」を触っていて、真っ先に思いついたのがウミガメのスープでした。
+Jev は文章を1文字も書きません。「はい／いいえ／関係ありません」のような選択肢を渡すと、それぞれの確率だけを返してきます。ウミガメのスープの出題者がやることも、真相と照らし合わせて3つから1つ選ぶだけです。これは出題者にぴったりだと思って、作り始めました。
+せっかくなので、ただのクイズではなく、人間と AI が同じ問題を解いて、少ない手数を競うゲームにしています。
+👉 遊べるページ：https://umigame-523507334771.asia-northeast1.run.ap</description><guid isPermaLink="false">https://qiita.com/tatsuya-tech77/items/9acbd2de9b85ea1f7bf2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 29 Sep 2026 20:38:18 +0000</pubDate></item><item><title>AIコーディングエージェントを使って仕事を始めてから新しく学んだこと - GIT worktree</title><link>https://qiita.com/sc-ccchang/items/e31e2aac2415c50aa618?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] 始まり
+こんにちは。株式会社Shizen Connectでバックエンドエンジニアをしている張です。会社でも業務効率化のためにAIツールの導入が積極的に進められており、ソフトウェアエンジニアである私も、Claude Codeを使って仕事をするようになりました。
+Claude Codeを使っているとき、ふと小さなヒントが表示されました。「git worktree を使うと、異なるディレクトリから同じリポジトリで同時に作業できる」とのことです。興味を引かれた私は、git worktree の使い方を調べてみることにしました。
+git worktree
+とは？
+Worktree（ワークツリー）は、同じ</description><guid isPermaLink="false">https://qiita.com/sc-ccchang/items/e31e2aac2415c50aa618?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 29 Sep 2026 20:38:18 +0000</pubDate></item><item><title>岩屋前外相が中国副首相と会談　中国高官との会談は2日連続</title><link>https://news.web.nhk/newsweb/na/nd-20260929de53225</link><description>[score: 0.886] 日中関係の悪化した状態が続くなか、岩屋前外務大臣が訪問先の中国で経済政策を統括する何立峰副首相と会談しました。 中国の高官が岩屋前外務大臣と会談するのは2日連続です。
+日本と中国の関係は、2025…
+列車が来て、一生懸命逃げたんだよ
+人類が滅びる？高まるAI脅威論 国内の研究者の見方は
+ガザの女性たち 異郷で紡ぐ“希望の糸”
+「心の病」で終わらせない 新たな治療の最前線
+ウミガメを育む砂浜で いま起きている異変とは？
+生きた心地がしなかった クマ捕獲の現場で何が
+病への挑戦 最新科学が捉えた“サイレントキラー”のサイン
+アメリカ産ジャガイモ輸入解禁手続き なぜ今進展？
+地図から選ぶ
+NHK O</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260929de53225</guid><pubDate>Tue, 29 Sep 2026 19:07:52 +0000</pubDate></item><item><title>AIだけで情緒評価ツールを作ってみた</title><link>https://qiita.com/haruyoshi_o/items/a10fc0aad5b832762180?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] AIだけで情緒評価ツールを作ってみた
+以前、AIだけでヒューリスティック評価ツールを作ってみたという記事を書きました。
+その中で「デザインの美しさ、ブランドイメージ、感情的な印象などはまだ人間の判断が必要」と書いたのですが、今回はその“感情的な印象”の部分を、AIでどこまで評価できるか試してみました。
+ヒューリスティック評価が「使いやすさ」を見る手法だとすると、今回作ったのは「どう感じるか」を見るための情緒評価ツールです。
+情緒評価とは
+情緒評価（エモーショナル評価）とは、Webサイトやアプリの画面が利用者にどのような感情的な印象を与えるかを、一定の観点に沿って評価する手法です。
+ヒューリステ</description><guid isPermaLink="false">https://qiita.com/haruyoshi_o/items/a10fc0aad5b832762180?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 29 Sep 2026 20:38:18 +0000</pubDate></item><item><title>Autopilot が最高だった...私の Vibe Coding の常識が、また変わった! タスク分割の Prompt はもう要らない。トークンと時間を半日溶かして分かったこと</title><link>https://qiita.com/dahatake/items/81df308d05c131eb8cb6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] 背景
+最近、コーディングエージェントに「要求定義あるいはFeature Requestを渡して、あとは最後まで任せる」という使い方が、現場でもだいぶ普通になってきました。
+私のリポジトリでも、そのための足場として ATG（Autonomous Task Graph）Kit を使ってきました(未公開😅)。タスクをグラフとして扱い、どのノードを並列に動かしてよいか、どこで止めるか、再試行を許すか、全体を受け入れてよいか、を判定する仕組みです。
+ただ、正直に書くと、ここ数か月でモデルの能力がかなり上がってきて、「この足場、いまも本当に効いているのかな」という違和感がありました。
+Anthropic </description><guid isPermaLink="false">https://qiita.com/dahatake/items/81df308d05c131eb8cb6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 29 Sep 2026 20:38:18 +0000</pubDate></item><item><title>Codex、OCIのGenerative AIでも動くんじゃない？</title><link>https://qiita.com/itokazu/items/c4bc3f4535a653b4de73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.887] はじめに
+あまり明確な目的があったわけではないのですが、OCIのGenerative AIではOpenAI互換APIをサポートしていて、「Codexで使えるんじゃ」、「どこかで使い所はあるかも」というゆる〜い理由で試してみました。
+結論！
+以下のモデルでとりあえず動くことは確認できました。
+- grok 4.2 (
+xai.grok-4.20-0309-reasoning
+) - grok 4.3 (
+xai.grok-4.3
+) - grok 4.6 (
+xai.grok-4.6
+) - grok 4.7 (
+xai.grok-4.7
+)
+またGeminiについては動かすことができませんでし</description><guid isPermaLink="false">https://qiita.com/itokazu/items/c4bc3f4535a653b4de73?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 29 Sep 2026 20:38:18 +0000</pubDate></item><item><title>コーディングエージェントにGoogle Cloudの専門知識とツールを組み込む「Google Cloud Developer Plugin for AI Coding Agents」発表</title><link>https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html</link><description>[score: 0.887] Google Cloudは、Claude CodeなどのコーディングエージェントにGoogle Cloudの専門知識とツールなどを組み込める「Google Cloud Developer Plugin for AI Coding Agents」を発表しました。 Claude CodeやGoogle Antigravityなどに代表されるコーディングエージェントは優れたプログラミング能力を備えています。 しかしデフォルトの状態では、例えばGoogle Cloudのさまざまなサー……</description><guid isPermaLink="false">https://www.publickey1.jp/blog/26/google_cloudgoogle_cloud_developer_plugin_for_ai_coding_agents.html</guid><pubDate>Tue, 29 Sep 2026 15:45:55 +0000</pubDate></item><item><title>BedrockのClaudeに暗黙的なプロンプトキャッシュが登場！！とドキュメントにある（暗黙的とは？）</title><link>https://qiita.com/moritalous/items/1b6a05842724fc1fff66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] Claude Sonnet 5.5が出ましたね！当たり前のようにAWSのAmazon Bedrockでも使えます。
+ドキュメントもすでに更新されています。（仕事が早い！）
+「RuntimeエンドポイントとMantleエンドポイントに対応、おすすめはRuntimeよ」ってのもいつも通りですね。
+で、その下に見慣れないモノが！
+Explicit Prompt Caching（明示的なプロンプトキャッシュ）は前からありましたが、Implicit Prompt Caching（暗黙的なプロンプトキャッシュ）は知らないデス！
+確かOpenAIのGPT系は何も指定しなくてもキャッシュされた気がする。Cla</description><guid isPermaLink="false">https://qiita.com/moritalous/items/1b6a05842724fc1fff66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 29 Sep 2026 20:38:18 +0000</pubDate></item><item><title>【新資格】AWS Certified AI Business Strategist（AIB-C01）ベータ試験を受けてきた(コツコツ勉強できない人の感想)</title><link>https://qiita.com/riz3f7/items/fe5704cc76755bb8700f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] はじめに
+2026年9月29日から AWS Certified AI Business Strategist（AIB-C01） のベータ試験が受けられるようになったので受けてきました。
+お祭り気分で受けてきた、コツコツお勉強できない属性の人の体験記です。
+（世の中にコツコツお勉強できる属性の体験記が多すぎる。こちとらドパガキBBAなのでコツコツとか無理です)
+試験の問題そのものは書けないので、雰囲気と感想だけです。
+AWS Certified AI Business Strategist（AIB-C01）とは
+AWS認定で初めての Business カテゴリの資格です。
+AIを作る側の知識では</description><guid isPermaLink="false">https://qiita.com/riz3f7/items/fe5704cc76755bb8700f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 29 Sep 2026 20:38:18 +0000</pubDate></item><item><title>政府 成長戦略実行に向け建設分野の労働力不足の対応策検討へ</title><link>https://news.web.nhk/newsweb/na/nd-20260930de53230</link><description>[score: 0.890] 成長戦略の実行に向けて、政府は建設分野の労働力不足が課題になるとして、関係省庁での検討の場を設け、対応策を盛り込んだ政策パッケージをまとめる方向で調整を進めることになりました。
+政府はことし7月、…
+厚生労働白書“医療・介護人手不足でロボット・AI活用を”
+9月29日 15:18
+オープンAI 次期モデルの公開中止か 安全性の懸念で
+9月29日 13:27
+岩屋前外相が中国王毅外相と会談 日中関係悪化のなか
+9月29日 19:14
+日本の人口 1億2297万人余に 減少幅は過去最大 国勢調査確定値
+9月29日 19:35
+細野防災相 台風被害の印旛沼堤防や停電 “速やかに復旧を”
+9月29日 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260930de53230</guid><pubDate>Tue, 29 Sep 2026 18:38:25 +0000</pubDate></item><item><title>漫画家や絵師もルックスが必要な能力になる</title><link>https://anond.hatelabo.jp/20260929164111</link><description>[score: 0.890] 亜月ねねがまさにそうだけど作者のルックスが美形だとセンシティブな要素や属性を見せ物にするような危うい作品でも世間が容認するからこれからの時代は漫画家もルックスが必要な能力になるのだろうな
+これ、みい山の作者の痛い自演として叩かれてるけど正論じゃない？
+今は漫画やイラストそのものの魅力だけでなく、描き手本人の魅力も求められる時代だと思う。
+しぐれういや犬山たまきとかはまさにそう。しぐれういは顔出ししてないけど、可愛らしい声で歌ったりクソマロを捌いたりして人気を得ている。
+要するにクリエイターのアイドル化だ。美少女のイラストを描いてる中の人も美人だったらますます推せる、逆にキモいおっさんが描いてた</description><guid isPermaLink="false">https://anond.hatelabo.jp/20260929164111</guid><pubDate>Tue, 29 Sep 2026 21:04:32 +0000</pubDate></item><item><title>インフレ放置は「火遊び」、供給ショックへの対応必要＝ 米シカゴ連銀総裁（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1uTDlPYVdxaUd2ZXB0VE5reUQxdEVoc2dfQmthQ2dXN3BJckh3U19JVTdMRlljWWZ5VXhYdTI5d2VUcjFVWGpBbTc2aVYzaHNCODl6c2RBTXp0bVVmQzVEcENiSUU2TzlJNDhFR1V5VjZ6M19ablZqTjNEQVRoRDA?oc=5</link><description>[score: 0.890] インフレ放置は「火遊び」、供給ショックへの対応必要＝ 米シカゴ連銀総裁（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE1uTDlPYVdxaUd2ZXB0VE5reUQxdEVoc2dfQmthQ2dXN3BJckh3U19JVTdMRlljWWZ5VXhYdTI5d2VUcjFVWGpBbTc2aVYzaHNCODl6c2RBTXp0bVVmQzVEcENiSUU2TzlJNDhFR1V5VjZ6M19ablZqTjNEQVRoRDA?oc=5</guid><pubDate>Tue, 29 Sep 2026 20:21:09 +0000</pubDate></item><item><title>オープンＡＩ、年間経常収益700億ドルに迫る 企業向け堅調＝関係筋 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xend2cHhtRjFZV2lkbGtqWEdVaTJuLWdjX2RNSmVObGNOQmJORWRJM0l4bW5kem0wbkJ2Ym5lYzliUHNiTXlIOXl0NGlTVXhnUnp0UzMxRWs2NDRfZE5nQlVhZGcwcTVuSzdScEJYenlsSUltTU55V1pndktfZw?oc=5</link><description>[score: 0.892] オープンＡＩ、年間経常収益700億ドルに迫る 企業向け堅調＝関係筋 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE1Xend2cHhtRjFZV2lkbGtqWEdVaTJuLWdjX2RNSmVObGNOQmJORWRJM0l4bW5kem0wbkJ2Ym5lYzliUHNiTXlIOXl0NGlTVXhnUnp0UzMxRWs2NDRfZE5nQlVhZGcwcTVuSzdScEJYenlsSUltTU55V1pndktfZw?oc=5</guid><pubDate>Tue, 29 Sep 2026 16:21:25 +0000</pubDate></item><item><title>「証明」によりAIの誤りを阻止しGPU上で動作する高速プログラミング言語「Bend」、C言語並みの処理速度・CUDAによる並列処理・Leanによる形式的証明・Python風の構文</title><link>https://gigazine.net/news/20260930-bend-lang/</link><description>[score: 0.892] 「証明」によりAIの誤りを阻止しGPU上で動作する高速プログラミング言語「Bend」、C言語並みの処理速度・CUDAによる並列処理・Leanによる形式的証明・Python風の構文
+「Bend」はAIが犯すかもしれない誤りを「証明」によってブロックすることを目指す新たなプログラミング言語です。
+Bend
+https://bend-lang.com/
+BendはポストAGIの経済社会において人間がコードの記述や読解から解放される未来を見据え、AIに対して意図を明確に伝えるための手段として開発されました。Bendは「法律(Laws)」によって意図をより正確に表現し、「証明(Proofs)」によってA</description><guid isPermaLink="false">https://gigazine.net/news/20260930-bend-lang/</guid><pubDate>Tue, 29 Sep 2026 21:10:15 +0000</pubDate></item><item><title>沖縄県の玉城デニー知事が退任　基地問題は「仕事の7割近く占めた」：朝日新聞</title><link>https://www.asahi.com/articles/ASV9Y2D3YV9YTPOB004M.html</link><description>[score: 0.893] 沖縄県の玉城デニー知事が退任 基地問題は「仕事の7割近く占めた」
+沖縄県の玉城デニー知事（66）が29日、任期満了を迎えた。県庁で退任セレモニーがあり、多くの職員に見送られながら県庁をあとにした。
+玉城氏は、任期中に死去した翁長雄志知事の後継として2018年の知事選で初当選。アメリカ軍普天間飛行場（宜野湾市）の名護市辺野古移設への反対を訴え、政治勢力「オール沖縄」の支援を受けて、22年の知事選でも再選された。3期目を目指して9月13日投開票の知事選に立候補したが、新顔の古謝玄太氏（42）に敗れた。
+退任にあたって開いた会見で玉城氏は、歴代知事が取り組んできた基地問題を巡り、「多少の解決手段は取</description><guid isPermaLink="false">https://www.asahi.com/articles/ASV9Y2D3YV9YTPOB004M.html</guid><pubDate>Tue, 29 Sep 2026 16:45:18 +0000</pubDate></item><item><title>ＦＲＢ情報発信縮小で不確実性増大、物価押し上げも＝セントルイス連銀総裁 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQeF8yWkVoZnM0NWpieFJWVWMtOWpmRnFLaXo5T2JTM3FJSjFZY3dObU1FNWd0NXpmay1qOVJWN0o1U0R4SjR1cWwzNExYOGZaUU1PSjdndlIzZUFYUzhOWEhFUFh1OFYwdDRmaW9oS20yenNUYVdoQnJxVmNhYi10QmJGSDQ3Zw?oc=5</link><description>[score: 0.893] ＦＲＢ情報発信縮小で不確実性増大、物価押し上げも＝セントルイス連銀総裁 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQeF8yWkVoZnM0NWpieFJWVWMtOWpmRnFLaXo5T2JTM3FJSjFZY3dObU1FNWd0NXpmay1qOVJWN0o1U0R4SjR1cWwzNExYOGZaUU1PSjdndlIzZUFYUzhOWEhFUFh1OFYwdDRmaW9oS20yenNUYVdoQnJxVmNhYi10QmJGSDQ3Zw?oc=5</guid><pubDate>Tue, 29 Sep 2026 20:21:09 +0000</pubDate></item><item><title>画像生成を使わずにアーキ図をAIに描かせる</title><link>https://qiita.com/sc-nakamura/items/8fdef470b4bfcb95eb53?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.894] はじめに
+「AIにアーキ図を書かせたい」
+→「アーキ図を画像としても、プロンプト用にテキストとしても扱いたい」
+→「そういえば .drawio.png
+ってなんで画像としてもdraw.ioで編集もできるんだ？」
+という流れで調べていくうちに、AIにXMLで draw.io の図を描かせ、 .drawio.png
+からXMLを取り出してAIに構成情報を把握・編集させることが可能だと知り、便利だったため記事にします。
+1. 本題
+draw.io（diagrams.net）のファイル（.drawio
+）の中身はXMLです。つまり、AIにXMLを書かせれば draw.io の図を作ることも編集すること</description><guid isPermaLink="false">https://qiita.com/sc-nakamura/items/8fdef470b4bfcb95eb53?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 29 Sep 2026 20:38:18 +0000</pubDate></item><item><title>オープンＡＩ、年間経常収益700億ドルに迫る 企業向け好調＝報道（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE55cnRBSV9NVU03N0p3S0lxSk5keXQ3RU9BRXMzNVgyY2FXQzgyWnh6N2Q5dkd2TzI3Z1Z4RkF5ekRJMjZEX0xkYnRWLXhKUUMwaUlveVJsVEJLT2dGSnE0WWFLaEE1cW5MUVh3V3NFaHctSTJkT0FCRVJ0Z3F1OTA?oc=5</link><description>[score: 0.895] オープンＡＩ、年間経常収益700億ドルに迫る 企業向け好調＝報道（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE55cnRBSV9NVU03N0p3S0lxSk5keXQ3RU9BRXMzNVgyY2FXQzgyWnh6N2Q5dkd2TzI3Z1Z4RkF5ekRJMjZEX0xkYnRWLXhKUUMwaUlveVJsVEJLT2dGSnE0WWFLaEE1cW5MUVh3V3NFaHctSTJkT0FCRVJ0Z3F1OTA?oc=5</guid><pubDate>Tue, 29 Sep 2026 16:21:25 +0000</pubDate></item><item><title>OpenAIが「Jev」に追従、「Decisions API」　Lunaで“リアルタイムに意思決定”</title><link>https://www.itmedia.co.jp/aiplus/article/2609/30/2000001866/</link><description>[score: 0.896] OpenAIが「Jev」に追従、「Decisions API」 Lunaで“リアルタイムに意思決定”
+米OpenAIは9月29日（現地時間）、開発者向けカンファレンス「OpenAI DevDay 2026」の中で、リアルタイムの意思決定を提供する「Decisions API」のプレビュー版を発表した。直近で話題になっていたAIモデル「Jev」（ジェヴ）へ追従する動きとみられる。
+Decisions APIは、あらかじめ定めた質問群と回答候補を廉価モデル「Luna」に与えることで、数分の1秒で回答を返す。テキストや画像をコンテキストとして入力すると、コンテンツの分類やリクエストの振り分け、AIエ</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2609/30/2000001866/</guid><pubDate>Tue, 29 Sep 2026 19:12:34 +0000</pubDate></item><item><title>AIを「発見の主体」に据えるAI企業、科学の営みとのずれ</title><link>https://www.technologyreview.jp/s/391857/when-can-we-say-ai-made-a-scientific-discovery/</link><description>[score: 0.897] AIを「発見の主体」に据えるAI企業、科学の営みとのずれ
+アンソロピックは9月23日、Claudeのエージェント950体からなるシステムが分子生物学で初の「発見」を成し遂げたと発表した。AI企業は自社のシステムを、顕微鏡のような道具ではなく、それ自体が発見をする主体として提示している。だが、新しい知識は共同作業と増え続けるツール群から生まれるという科学の実際の営みとは相容れない、と見る人もいる。 by James O'Donnell2026.09.30
+- この記事の3つのポイント
+-
+- AI企業が「AIが発見した」と主張する姿勢は科学の実態と相容れない
+- アンソロピックのCRISPR類似</description><guid isPermaLink="false">https://www.technologyreview.jp/s/391857/when-can-we-say-ai-made-a-scientific-discovery/</guid><pubDate>Tue, 29 Sep 2026 20:45:13 +0000</pubDate></item><item><title>ＦＲＢ、追加利上げに性急な対応不要 指標見極めへ＝ＮＹ連銀総裁 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNTGFrVUlDLUZZQ2xYMEtnSHBLN1dLQnNFVE9wMktkVEpNOW0zbEhRMWpoYTBGdm41R0VjVzJXZjJqSjNwTUNqck5RTTBodmlNekdpak1zcEQ0U0V2WEJRREJob3lCdGU5SDE4aEdhRkw1dF9vRl9IU0FlWE5kM1djQ2U4RlJGUQ?oc=5</link><description>[score: 0.898] ＦＲＢ、追加利上げに性急な対応不要 指標見極めへ＝ＮＹ連銀総裁 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNTGFrVUlDLUZZQ2xYMEtnSHBLN1dLQnNFVE9wMktkVEpNOW0zbEhRMWpoYTBGdm41R0VjVzJXZjJqSjNwTUNqck5RTTBodmlNekdpak1zcEQ0U0V2WEJRREJob3lCdGU5SDE4aEdhRkw1dF9vRl9IU0FlWE5kM1djQ2U4RlJGUQ?oc=5</guid><pubDate>Tue, 29 Sep 2026 19:21:16 +0000</pubDate></item><item><title>2026年9月29日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title><link>https://qiita.com/ennagara128/items/f09e622a5069f34b89c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.898] 前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。
+通勤中などにながら聴きしよう！
+（Qiita投稿は通勤には間に合わないと思われますが）
+フィードバックとか助かりますのでください
+↓こちらから
+出典
+AI感のないAWS構成図をAIエージェントに描かせたい！
+https://qiita.com/sagochiko/items/ef77b084ff2dee1f859c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items
+自分の頭で考えることって重要だよなと改めて思わされた話
+https:/</description><guid isPermaLink="false">https://qiita.com/ennagara128/items/f09e622a5069f34b89c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 29 Sep 2026 20:38:18 +0000</pubDate></item><item><title>AIエージェントのコードレビューをどう設計して検証するか — code-review-skillsをリリースしました</title><link>https://qiita.com/akkie76/items/f08ac38fd81aa19ae832?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.899] はじめに
+先日、AIコーディングエージェント向けのコードレビューSkill「code-review-skills」をリリースしました。Xで予想以上に反響をいただき、ありがとうございます。
+この記事では、Skillを作った背景と設計、レビューの振る舞いをどう確かめているかを紹介します。
+コードレビューの判断基準をAIにも伝える
+私はレビューを受ける側として、指摘の意図がわからず手戻りする経験を何度もしました。レビュアーになってからは、何をどこまで見るべきか、どう伝えるべきかに悩みました。チーム内で判断基準が共有されていないと、人によって指摘が異なり、レビューが開発のボトルネックになることもありま</description><guid isPermaLink="false">https://qiita.com/akkie76/items/f08ac38fd81aa19ae832?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 29 Sep 2026 20:38:18 +0000</pubDate></item><item><title>インフレ抑制へ追加利上げが必要になる可能性＝バーＦＲＢ理事（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBSQTRkWG1TZ2RvWlVmcWNXNEhJZHh2dzBGN0FlRmFIM0lWUU1CaDcwU2F5QmpyNjM1dElMeVpmSER1MFFwWGtEZV9JMnBYVl9JbE9mUEt5Zlh5cy16X084M1ZTVGluNG5DbGZMWGd1M0diYUtqSnZUdmtUNHRsNTA?oc=5</link><description>[score: 0.899] インフレ抑制へ追加利上げが必要になる可能性＝バーＦＲＢ理事（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFBSQTRkWG1TZ2RvWlVmcWNXNEhJZHh2dzBGN0FlRmFIM0lWUU1CaDcwU2F5QmpyNjM1dElMeVpmSER1MFFwWGtEZV9JMnBYVl9JbE9mUEt5Zlh5cy16X084M1ZTVGluNG5DbGZMWGd1M0diYUtqSnZUdmtUNHRsNTA?oc=5</guid><pubDate>Tue, 29 Sep 2026 18:21:37 +0000</pubDate></item><item><title>オープンAI、最新AI「アストラ6.1」の公開取りやめ 安全面で問題</title><link>https://www.afpbb.com/articles/-/3654970</link><description>[score: 0.899] オープンAI、最新AI「アストラ6.1」の公開取りやめ 安全面で問題 【9月29日 AFP】米オープンAIは28日、人工知能（AI）の最新モデル「アストラ6.1」の公開を取りやめると発表した。安全基準を満たしていないことが社内テストで判明したためとしている。 年次開発者会議「OpenAI DevDay」開催前日の発表となった。同会議では複数の発表が行われるとみられているが、アストラの改修版が含...</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3654970</guid><pubDate>Tue, 29 Sep 2026 16:06:32 +0000</pubDate></item><item><title>インフレ抑制へ追加利上げが必要になる可能性＝バーＦＲＢ理事 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG1JbHhMWk5XX2k4VVI4V2V5SHpFTUJHdWlzTEZ6MkJyLUZiaVEydkRrRTZSZTNBMG16TjNwWGV4STQzTTNrVzJrZlJHaXYyLW8wZ3hfSkVQblFIWFJiZ2ItejBqVGo5V0tPZ1VjODBwRVMxSks5cWNyZXZ6SlhnQld1YW5rdw?oc=5</link><description>[score: 0.901] インフレ抑制へ追加利上げが必要になる可能性＝バーＦＲＢ理事 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQaG1JbHhMWk5XX2k4VVI4V2V5SHpFTUJHdWlzTEZ6MkJyLUZiaVEydkRrRTZSZTNBMG16TjNwWGV4STQzTTNrVzJrZlJHaXYyLW8wZ3hfSkVQblFIWFJiZ2ItejBqVGo5V0tPZ1VjODBwRVMxSks5cWNyZXZ6SlhnQld1YW5rdw?oc=5</guid><pubDate>Tue, 29 Sep 2026 18:21:37 +0000</pubDate></item><item><title>OpenAI、「24時間働く」エージェント「dots」発表　Astra搭載、クラウド上で常時稼働</title><link>https://www.itmedia.co.jp/aiplus/article/2609/30/2000001864/</link><description>[score: 0.903] OpenAI、「24時間働く」エージェント「dots」発表 Astra搭載、クラウド上で常時稼働
+米OpenAIは9月29日（現地時間）、常時稼働エージェント機能「dots」を発表した。同社のAIモデル「GPT-6 Astra」を搭載し、ユーザーが設定した目標に応じて、クラウド上のコンピュータで24時間自律的に稼働するとうたう。
+ユーザーはテキストメッセージやチャットツールでdotsに質問したり、仕事を依頼したりできる。dotsはユーザーの依頼に応じて4000以上のアプリに接続しタスクをこなすという。
+OpenAIは、dotsの真価は「タスクを頼む前に、期待以上の成果を届けてくれるとき」だと述</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2609/30/2000001864/</guid><pubDate>Tue, 29 Sep 2026 18:42:44 +0000</pubDate></item><item><title>ChatGPTに「Ultrafast」、Astraを8倍高速に　利用には「月500ドル」最上位プランが必須</title><link>https://www.itmedia.co.jp/aiplus/article/2609/30/2000001865/</link><description>[score: 0.911] ChatGPTに「Ultrafast」、Astraを8倍高速に 利用には「月500ドル」最上位プランが必須
+米OpenAIは9月29日（現地時間）、フロンティアモデル「GPT-6 Astra」を通常の最大8倍高速に推論できる「Ultrafast」モードを発表した。利用には、最上位の新プラン「Pro 500」（月額500ドル、約7万8000円）もしくは従量課金のAPIが必要。
+同日に開催した開発者向けカンファレンス「OpenAI DevDay 2026」で発表した。Astraの他、DevDayで発表された「GPT-6.1 Sol」も近くUltrafastモードで利用できるようになる。
+サブスクリ</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2609/30/2000001865/</guid><pubDate>Tue, 29 Sep 2026 18:42:44 +0000</pubDate></item><item><title>「GPT-6.1
+Sol」登場　「一部Astra並み」性能をコスト5分の1で提供　先代モデルからわずか1週間で公開</title><link>https://www.itmedia.co.jp/aiplus/article/2609/30/2000001867/</link><description>[score: 0.920] 「GPT-6.1 Sol」登場 「一部Astra並み」性能をコスト5分の1で提供 先代モデルからわずか1週間で公開
+「GPT‑6 Astra」に迫る性能を5分の1の料金で提供――米OpenAIは9月29日（現地時間）、こんな新モデル「GPT‑6.1 Sol」を発表した。先代モデル「GPT‑6 Sol」の発表からわずか1週間でのアップデートで、コーディングやコンピュータ操作など幅広いタスクで性能向上したという。
+OpenAIは、GPT‑6 Astraが引き続き同社における最高性能のモデルとしつつも、重要な業務をより頻繁にこなしたいユーザーや、アプリケーションを大規模に構築・運用するAPIユーザー</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2609/30/2000001867/</guid><pubDate>Tue, 29 Sep 2026 19:41:42 +0000</pubDate></item></channel></rss>
