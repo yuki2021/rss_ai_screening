@@ -1,32 +1,11 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 01 Oct 2026 12:19:15 +0000</lastBuildDate><item><title>米軍に「自律戦闘軍」創設へ、ヘグセス国防長官が発表　ウクライナ戦争から教訓</title><link>https://www.cnn.co.jp/usa/35253170.html</link><description>[score: 0.880] 演説するヘグセス氏＝9月30日、バージニア州クアンティコ/Alex Wong/Getty Images （CNN） ヘグセス米国防長官は30日、バージニア州クアンティコの基地で兵士を前に演説し、自律型兵器を使った戦闘を担うコマンドを新設する方針を発表した。ヘグセス氏は昨年もクアンティコで、軍高官に向けて身体基準や文化に焦点を当てた演説を行っていた。 ヘグセス氏によると、新設する「自律戦闘軍」ではAI（人工知能）を活用したロボット技術や自律型兵器を重点的に扱う。大将級の将官に率いられる見通しで、将来の軍事作戦で重要な役割を担うことを示す。 ヘグセス氏は「自律化・ロボット化革命は装備やドクトリン、</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35253170.html</guid><pubDate>Thu, 01 Oct 2026 12:06:10 +0000</pubDate></item><item><title>NVIDIA主導“暴走するAIエージェント”対策の新基盤　MicrosoftやAnthropicなど100社超参画</title><link>https://www.itmedia.co.jp/enterprise/articles/2609/30/news035.html</link><description>[score: 0.881] NVIDIA主導“暴走するAIエージェント”対策の新基盤 MicrosoftやAnthropicなど100社超参画 AIエージェントは目標を与えられると、コードを書き、ツールを使い、自律的に作業を続ける。その利便性の裏で、エージェントが割り当てられたタスクを完遂するためにアプリケーション層のセキュリティ制御を回避... misshiki NVIDIA%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3 NVIDIAがAIエージェントの安全基盤を発表。OpenShell</description><guid isPermaLink="false">https://www.itmedia.co.jp/enterprise/articles/2609/30/news035.html</guid><pubDate>Thu, 01 Oct 2026 08:35:10 +0000</pubDate></item><item><title>上司が「指導」をためらう時代に、自分で自分を動かす方法。かつての "名上司" は人をこう動かした</title><link>https://studyhacker.net/cheer-up-words</link><description>[score: 0.883] 締め切りは明後日。やらなきゃいけないのはわかっている。でも、なかなか手がつかない。気づけば1時間、ほかのことをしていた。 「頑張らなきゃ」と何度自分に言っても、手は動かない。そのうち、「自分はやる気がないのか」と落ち込んでくる。 以前なら、上司に「まだ終わっていないのか」と厳しく言われて、ようやく手をつけていたかもしれません。けれど今は、そうした厳しい指導を期待しにくくなっています。 自分で自分を動かせなければ、仕事は進まず、評価も上がりません。 動けないのは、やる気や意志力のせいだとは限りません。今回は「頑張らなきゃ」という精神論に頼らず、自分を動かす技術をお伝えします。 もう、上司には頼れ</description><guid isPermaLink="false">https://studyhacker.net/cheer-up-words</guid><pubDate>Thu, 01 Oct 2026 10:25:08 +0000</pubDate></item><item><title>酒税法改正でビール値下げも移行は8％、新ジャンル派が動かない理由</title><link>https://forbesjapan.com/articles/detail/105566?s=ns</link><description>[score: 0.883] 酒税法の改正については、スーパーなどで「新ジャンルの酒税が上がりますので今のうちにお買い求めください」なんてしきりにアナウンスしていたし、お酒を買いに行く人ならたいていは知っていると思うが、改正前の調査では、正しく理解している人は14%に満たなかった。酒税法は愛飲家にとっては重大問題のはずだが、あまり関心がない。内容を知っても、今飲んでいるお酒を変えようと思う人は少なかった。なぜか。その理由が調査から見えてきた。
-10月1日の酒税法改正により、ビール系飲料の税率が350ml換算で54.25円に一本化された。それにより、発泡酒と新ジャンル（第3のビール）は多くが値上げとなり、ビールは値下げされた</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105566?s=ns</guid><pubDate>Thu, 01 Oct 2026 09:21:49 +0000</pubDate></item><item><title>ChatGPTの「カスタムGPT」を悪用してマルウェア感染へ誘導する攻撃、正規のChatGPTページを入口に利用</title><link>https://gigazine.net/news/20261001-custom-gpt-clickfix-rat/</link><description>[score: 0.883] ChatGPTの「カスタムGPT」を悪用してマルウェア感染へ誘導する攻撃、正規のChatGPTページを入口に利用
-セキュリティ企業のHuntressが、ChatGPTの「カスタムGPT」を悪用してユーザーをマルウェア感染につながるサイトへ誘導する攻撃を確認したと報告しました。攻撃者は正規の「chatgpt.com」上にあるカスタムGPTを本物のChatGPTモデルのように見せかけ、外部サイトへ誘導してユーザー自身に不正なコマンドを実行させていたとのことです。
-Attackers Abuse ChatGPT Custom GPTs to Deliver RAT via ClickFix | Hu</description><guid isPermaLink="false">https://gigazine.net/news/20261001-custom-gpt-clickfix-rat/</guid><pubDate>Thu, 01 Oct 2026 06:31:23 +0000</pubDate></item><item><title>新種カイミジンコに「ヒゲじい」の名 NHK“ダーウィン”で発見</title><link>https://news.web.nhk/newsweb/na/nd-20261001de53648</link><description>[score: 0.883] NHKの自然番組の撮影の際に見つかったカイミジンコと呼ばれるごく小さな甲殻類の仲間が新種と確認され、調査を行った研究者が番組のキャラクター「ヒゲじい」にちなんだ名前をつけたと発表しました。
-新種と…
-あわせて読みたい
-ニデック 戒田理夫新社長が会見「品質第一にした会社に戻す」
-10月1日 19:35
-東京地検特捜部検事の取り調べめぐる国賠訴訟 判決は来年1月
-10月1日 16:15
-神戸 横断歩道に車突っ込み歩行者4人けが 20代女性意識なし
-10月1日 20:18
-ノーベル賞 5日から発表 日本から“3年連続受賞”なるか
-10月1日 12:36
-台風予測にAI革命 その実力を徹底分析
-9月3</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261001de53648</guid><pubDate>Thu, 01 Oct 2026 10:13:30 +0000</pubDate></item><item><title>上司のために誕生日会でプレゼントするキーホルダーのデザインを1枚だけ描くことに…出社したら似たキーホルダーが沢山あり質問したら「AIに読ませて他の種類を作った」と</title><link>https://togetter.com/li/2752607</link><description>[score: 0.883] 上司のために誕生日会でプレゼントするキーホルダーのデザインを1枚だけ描くことに…出社したら似たキーホルダーが沢山あり質問したら「AIに読ませて他の種類を作った」と ぬめぬめ @slimy_slug777 上司に、誕生日会にプレゼントするキーホルダーのデザインを頼まれたんだけど、期日が30日の午前中までだって。 しかも、子供に選ばせたいから沢山描いて欲しいって。 絵を描かない人ってほんとにわかってないなと思う。無茶振りがすぎるんだよ。 もちろんお断りした。 ふざけんな笑 2026-09-29...</description><guid isPermaLink="false">https://togetter.com/li/2752607</guid><pubDate>Thu, 01 Oct 2026 05:56:49 +0000</pubDate></item><item><title>スキルの名前を verify にするだけで、Claude Code はコミット前にそれを実行する</title><link>https://qiita.com/suwa_nobu/items/cc0fb4a9e10100991bba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] Claude Code 2.1.286（2026-09-30）の changelog に、こう書かれています。
-Improved commit guidance: when your project or user skills include one named
-verify
-,
-Claude is now told to run it right before committing, except for docs-only and tests-only commits
-スキルの「名前」が挙動を変えると読めます。
-同じ日に取得した公式のスキル解説には、この規約が載っていません。 30回測り</description><guid isPermaLink="false">https://qiita.com/suwa_nobu/items/cc0fb4a9e10100991bba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 01 Oct 2026 08:20:00 +0000</pubDate></item><item><title>どこかで聞いた「アウトプットしないことは知的な便秘である」って素晴らしい言葉だよなぁ！</title><link>https://qiita.com/PDC-Kurashinak/items/bde0e380eeb04fa28f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] どうもこんにちは。
-以前、Xで「アウトプットしないことは知的な便秘だ！」っていうポストを見つけたことがありまして、今回はこれについての自分の考えを話したいと思います。
-アウトプットをしない人のことを悪く言いたい記事ではありません。
-僕が個人的に、この表現がしっくり来たので、使わせていただいた次第です。
-アウトプットが苦手な方も大勢いらっしゃるこまとは理解しております。アウトプットするメリットがあるんだ！と思っていただければと記事を書いております。
-ちなみにこれマジの話なんですが、仕事で成果が出なくて困っていた時に、相談した知り合いが「考えてること排泄しようぜ」と言ってくれたのがアウトプット頑張</description><guid isPermaLink="false">https://qiita.com/PDC-Kurashinak/items/bde0e380eeb04fa28f40?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 01 Oct 2026 08:20:00 +0000</pubDate></item><item><title>青森みちのく銀行 岩手銀行 秋田銀行が経営統合協議へ</title><link>https://news.web.nhk/newsweb/na/nd-20261001de53731</link><description>[score: 0.884] 東北3県でそれぞれ最大の地方銀行の青森みちのく銀行、岩手銀行、それに秋田銀行の3行が、経営統合に向けた協議を進めることが関係者への取材で分かりました。
-地方銀行をめぐっては、日銀による利上げや人口減…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 01 Oct 2026 21:22:00 +0000</lastBuildDate><item><title>足元の供給ショック、影響は持続的 金融政策で重要に＝クックＦＲＢ理事 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQOTVWQl8wLTdCTlFGOFdsQVF3bllyMzBsOXE1bU9CQUhlYXdRNk1vLUMzZzFOZkxoUWNUQk5NRDVBdUxmU2FhQlh5N29SUWtTemZ5NTZhRHZDb0FfOEZVajFjZmhlSlFoaUttaHhReXBjYXpPQ2FYZnpqaXRrWXJNNG84aHhhQQ?oc=5</link><description>[score: 0.876] 足元の供給ショック、影響は持続的 金融政策で重要に＝クックＦＲＢ理事 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQOTVWQl8wLTdCTlFGOFdsQVF3bllyMzBsOXE1bU9CQUhlYXdRNk1vLUMzZzFOZkxoUWNUQk5NRDVBdUxmU2FhQlh5N29SUWtTemZ5NTZhRHZDb0FfOEZVajFjZmhlSlFoaUttaHhReXBjYXpPQ2FYZnpqaXRrWXJNNG84aHhhQQ?oc=5</guid><pubDate>Thu, 01 Oct 2026 20:38:17 +0000</pubDate></item><item><title>Lance formatとは？Apache Icebergの課題から考えるAIワークロード向けのデータフォーマット</title><link>https://qiita.com/yushibats/items/c98976645c61deac4872?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] はじめに
+AIモデルの学習やRAGの構築には、画像や音声、埋め込みベクトルといったデータをどこにどう置くかという、データ基盤側の話が一緒についてきます。
+分析用に整えてきたレイクハウスにそのまま載せるのか、AIワークロード向けに設計されたフォーマットを別に用意するのか。
+この記事で扱うLance formatは、後者にあたるオープンなデータフォーマットです。
+この記事では、AIワークロードがデータ基盤に求める読み書きをApache Icebergの設計の前提と比べ、Lance formatがどこを別の設計にしたのかを整理しています。
+あわせて、その上に作られたLanceDBの役割も見ていきます</description><guid isPermaLink="false">https://qiita.com/yushibats/items/c98976645c61deac4872?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 01 Oct 2026 20:11:58 +0000</pubDate></item><item><title>高市首相 成長戦略実行へ 建設分野の人手不足解消対策を指示</title><link>https://news.web.nhk/newsweb/na/nd-20261001de53712</link><description>[score: 0.877] 成長戦略の実行に向けて高市総理大臣は、建設分野の人手不足を解消するため、関係省庁による検討を進め、年末までに対応策を盛り込んだ政策パッケージをまとめるよう指示しました。
+閣僚や有識者らで構成する日…
 あわせて読みたい
 千葉の火力発電所の敷地に国内最大規模のデータセンター建設へ
 10月1日 17:25
@@ -36,62 +15,104 @@ Claude is now told to run it right before committing, except for docs-only and t
 10月1日 12:52
 東京地検特捜部検事の取り調べめぐる国賠訴訟 判決は来年1月
 10月1日 16:15
-神戸 横断歩道に車突っ込み歩行者4人けが 20代女性</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261001de53731</guid><pubDate>Thu, 01 Oct 2026 12:13:03 +0000</pubDate></item><item><title>Ｇポイント 【重要】不正アクセスによる「ポイント」サービス一時停止のお知らせとお詫び</title><link>https://img.gpoint.co.jp/20260930/</link><description>[score: 0.886] 2026年9月30日
-2026年9月30日21:00更新
-平素より「Ｇポイント」をご利用いただき、誠にありがとうございます。
-2026年9月25日、当社が提供する「Ｇポイント」のシステムにおいて異常を検知し、調査の結果、外部からの不正アクセスを受けていたことが判明しました。
-同日当社は本システムを停止し、外部からのアクセスを遮断いたしました。現時点で追加の不正アクセスは検知されておりません。また、本システムの停止により、「Gポイント」関連サービスの提供も停止しております。ご利用の皆さまに多大なるご心配とご不便をおかけしておりますことを、深くお詫び申し上げます。
-不正アクセスに関するプレスリリー</description><guid isPermaLink="false">https://img.gpoint.co.jp/20260930/</guid><pubDate>Thu, 01 Oct 2026 11:36:30 +0000</pubDate></item><item><title>続・データサイエンティストのためのSkills:分析手法×診断可視化セット</title><link>https://zenn.dev/green_tea/articles/55d2761106ee74</link><description>[score: 0.886] 続・データサイエンティストのためのSkills:分析手法×診断可視化セット はじめに 先日、データサイエンスを実務で扱う人向けの AGENTS.md と Skills の作り方の紹介と、実装例を公開しました。 想像以上に反響をいただき、とても嬉しく思っています。一方で、「まだまだ完全なものには... misshiki %E3%83%87%E3%83%BC%E3%82%BF%E3%82%B5%E3%82%A4%E3%82%A8%E3%83%B3%E3%82%B9%E3%82%A8%E3%83%BC%E3%82%B8%E3%82%A7%E3%83%B3%E3%83%88%E3%82%B9%E3%8</description><guid isPermaLink="false">https://zenn.dev/green_tea/articles/55d2761106ee74</guid><pubDate>Thu, 01 Oct 2026 10:35:38 +0000</pubDate></item><item><title>Meta・キーパーソンにきく「VRグラス」と「AIグラス」の未来【西田宗千佳のRandomTracking】</title><link>https://av.watch.impress.co.jp/docs/series/rt/2144604.html</link><description>[score: 0.887] 西田宗千佳のRandomTracking
-第667回
-Meta・キーパーソンにきく「VRグラス」と「AIグラス」の未来
-2026年10月1日 08:00
-先週開催された「Meta Connect 2026」では、「Meta VR Glasses」をはじめとした多くのハードウェアが発表された。筆者も速報レポートを書いている。
-イベント自体の主軸はハードウェアとサービス。サービスの軸になるのは、9月8日にアメリカでスタートした「Meta Muse」である。
-この点は詳細を僚誌・Impress Watchで記事にしたので、そちらを併読いただきたいが、このあと概要は本記事でもお伝えする。
-さらに現地で</description><guid isPermaLink="false">https://av.watch.impress.co.jp/docs/series/rt/2144604.html</guid><pubDate>Thu, 01 Oct 2026 11:59:21 +0000</pubDate></item><item><title>適量のコーヒーや紅茶は「認知症」にメリット？　科学が示すその根拠</title><link>https://forbesjapan.com/articles/detail/105280?s=ns</link><description>[score: 0.889] コーヒーと紅茶は、ウェルネス（健康指向）の世界では微妙な位置づけにある。より健康的な生活を送ろうとするとき、真っ先に減らすよう言われるものの1つであり、維持すべき習慣ではなく、管理すべきちょっとした悪い日課として扱われることが多い。
-米国医師会が発行する米医学誌『JAMA』に2026年2月に掲載された大規模な研究は、この見方を少し複雑なものにしている。ハーバード大学公衆衛生大学院、米医療ネットワークのマス・ゼネラル・ブリガム、ブロード研究所の研究者たちは、カフェインを含む適量のコーヒーまたは紅茶を日常的に飲んでいる人は、認知症を発症する可能性が低いとの結論を示している。カフェインなしの飲料では</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105280?s=ns</guid><pubDate>Thu, 01 Oct 2026 08:20:21 +0000</pubDate></item><item><title>AI企業トップらと昼食会のトランプ米大統領、政府内で「AI」を「SI」と呼び替える大統領令に署名</title><link>https://www.itmedia.co.jp/news/article/2609/30/2000001871/</link><description>[score: 0.889] AI企業トップらと昼食会のトランプ米大統領、政府内で「AI」を「SI」と呼び替える大統領令に署名 ドナルド・トランプ米大統領は9月29日（現地時間）、ホワイトハウスでAI業界の経営者らと昼食会を開いた。同日、連邦政府の行政機関で「Artificial Intelligence（AI）」の代わりに「Super Intelligence（SI）」... misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD トランプ氏が連邦政府内のAI呼称をSIに変更する大統領令に署名。定義は当面AIと同じ。企業側は4層の管理・監査に自主合意。行政窓口America.govも開</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2609/30/2000001871/</guid><pubDate>Thu, 01 Oct 2026 09:35:27 +0000</pubDate></item><item><title>最先端AIモデルがリリース後にひそかに劣化しているかどうかを検出するためのベンチマーク「livenerf」</title><link>https://gigazine.net/news/20261001-livenerf-benchmark-ai-capability-after-release/</link><description>[score: 0.890] 最先端AIモデルがリリース後にひそかに劣化しているかどうかを検出するためのベンチマーク「livenerf」
-ひとたびリリースされたAIモデルの性能はずっと変わらないと思っている人もいるかもしれませんが、過去にはリリース後にAIモデルの性能が低下した事例がたびたび報告されています。そんなリリース後のAIモデルがひそかに劣化しているかどうかを検出するためのベンチマークが「livenerf」です。
-GitHub - ninjahawk/livenerf: Benchmark for tracking model capability after release. · GitHub
-https://g</description><guid isPermaLink="false">https://gigazine.net/news/20261001-livenerf-benchmark-ai-capability-after-release/</guid><pubDate>Thu, 01 Oct 2026 06:12:47 +0000</pubDate></item><item><title>トランプ氏「私は悪い仕事をしてきた」、経済の実績説明で…「大統領は中間選挙で勝てない」と弱気発言も</title><link>https://www.yomiuri.co.jp/world/20261001-GYT1T00164/</link><description>[score: 0.891] トランプ氏「私は悪い仕事をしてきた」、経済の実績説明で…「大統領は中間選挙で勝てない」と弱気発言も
-メモ入力
--最大400文字まで
-完了しました
-【ワシントン＝上村健太】米国のトランプ大統領は９月３０日、経済政策の実績をめぐる自身の説明について「私は非常に悪い仕事をしてきた」と釈明した。「民主党であれ、共和党であれ、大統領（の与党）はなぜか中間選挙で勝てない」とも語り、１１月に行われる中間選挙に向け弱気をのぞかせた。
-トランプ氏は、ホワイトハウスで行われたヒスパニック系米国人をたたえるイベントで演説した。「米国経済は歴史上、群を抜いて最高の状態にある」としつつ、実績をうまく発信できていないと繰</description><guid isPermaLink="false">https://www.yomiuri.co.jp/world/20261001-GYT1T00164/</guid><pubDate>Thu, 01 Oct 2026 09:52:27 +0000</pubDate></item><item><title>OpenAI、協調的な「モデル蒸留」攻撃を阻止</title><link>https://ai.watch.impress.co.jp/docs/news/2144782.html</link><description>[score: 0.894] OpenAI、協調的な「モデル蒸留」攻撃を阻止 misshiki OpenAI%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86%E6%B3%95%E5%BE%8B%E3%81%A8%E5%80%AB%E7%90%86%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3 OpenAIが保護された推論を抽出する敵対的蒸留攻撃を阻止。7月24～25日に4000人超から1万6000件のリクエストを観測し、関連活動は1万5000人超の集団で確認。7月28日までに阻止し、業界と知見を共有して</description><guid isPermaLink="false">https://ai.watch.impress.co.jp/docs/news/2144782.html</guid><pubDate>Thu, 01 Oct 2026 10:35:38 +0000</pubDate></item><item><title>ニセ情報に踊る有権者と稼ぐSNS…「アテンション・エコノミー」が壊す選挙のリアル：東京新聞デジタル</title><link>https://www.tokyo-np.co.jp/article/518774</link><description>[score: 0.894] ニセ情報に踊る有権者と稼ぐSNS…「アテンション・エコノミー」が壊す選挙のリアル：東京新聞デジタル 交流サイト（SNS）で拡散される選挙時の偽情報対策の強化は喫緊の課題だ。与野党でつくる「選挙運動に関する各党協議会」は、公正な選挙に向け、SNS事業者が取り組むべき具体策として収益化の停止などの議論を始め、10月上旬の合意を目指している。議論を踏まえ、総務省は事業者向けの指針をつくる方針だが、偽情報の手...</description><guid isPermaLink="false">https://www.tokyo-np.co.jp/article/518774</guid><pubDate>Thu, 01 Oct 2026 10:32:48 +0000</pubDate></item><item><title>OpenAIのAIが勝手にHugging Faceをハッキングした件を受け非営利団体がOpenAIを提訴</title><link>https://gigazine.net/news/20261001-nonprofit-suing-openai-hugging-face-hack/</link><description>[score: 0.894] OpenAIのAIが勝手にHugging Faceをハッキングした件を受け非営利団体がOpenAIを提訴
-OpenAIのAIモデルが誤ってHugging Faceをハッキングしてしまった一件を受け、同社に対して「公共に被害をおよぼす恐れのあるAI開発手法」を中止することを求める訴訟が提起されました。
-"An AI did it" is no defense, says nonprofit suing OpenAI over Hugging Face hack - Ars Technica
-https://arstechnica.com/tech-policy/2026/09/lawsuit-d</description><guid isPermaLink="false">https://gigazine.net/news/20261001-nonprofit-suing-openai-hugging-face-hack/</guid><pubDate>Thu, 01 Oct 2026 03:14:09 +0000</pubDate></item><item><title>コーディングも法務もGPT-6 Astra超え。Google「Gemini 4 Argon」</title><link>https://pc.watch.impress.co.jp/docs/news/2144721.html</link><description>[score: 0.895] ニュース
-コーディングも法務もGPT-6 Astra超え。Google「Gemini 4 Argon」
-2026年10月1日 11:36
-新しいAIモデルは1回の処理で数十万トークンを生成でき、ソフトウェア開発や法務・財務といった長く複雑な業務を扱うことを想定して構築された。Googleは10月1日、フロンティアモデル「Gemini 4 Argon」を発表した。まずはFairwind Programを通じて信頼できるサイバーセキュリティ担当者へ順次展開し、有料APIの顧客やGoogle AI Ultraユーザーを皮切りに、開発者、企業、一般消費者への提供を拡大していく。
-API価格は導入価格と</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2144721.html</guid><pubDate>Thu, 01 Oct 2026 11:48:48 +0000</pubDate></item><item><title>最も信用できない情報源ワースト2　インフルエンサーのSNSが惨敗の理由</title><link>https://forbesjapan.com/articles/detail/105768?s=ns</link><description>[score: 0.895] 情報過多の時代、不確かな情報やフェイクニュースに惑わされることも多いが、日本人の情報収集に関する意識は大丈夫だろうか。調査によって、若い世代も含め、なかなかしっかりしている様子が見て取れた。
-マーケティングリサーチ事業などを展開するクロス・マーケティングは、18〜79歳の男女3000人を対象に、情報収集に関する意識調査を実施した。まず、情報収集に関する考え方や態度に関する質問では、もっとも多かったのが「発信者がわからない情報は信用しない」、続いて「他の人より遅くても確実で信頼できる情報が欲しい」、「専門家の意見でもひとつの参考意見として受け取る」、「少しでも疑問に思ったら複数の情報源を比較確認</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105768?s=ns</guid><pubDate>Thu, 01 Oct 2026 07:20:25 +0000</pubDate></item><item><title>バフェットはもう指揮を執っていない。だが、バークシャーの最新の投資は、彼の手法そのものだ</title><link>https://www.businessinsider.jp/article/2609-warren-buffett-berkshire-stocks-value-investing-lennar-housing-market-retirement/</link><description>[score: 0.897] - ウォーレン・バフェットはもはやCEOでも会長でもないが、バークシャー・ハサウェイは今も彼の投資手法を踏襲している。
-- 提出書類によると、バークシャーは今四半期、米住宅建設大手のレナー（Lennar Corporation）への出資比率を約11%まで引き上げた。
-- バフェットは割安株を探す投資家として知られており、レナーの株価は過去2年間で半分以下に下落している。
-ウォーレン・バフェットの引退後も、バークシャー・ハサウェイは彼の得意分野だった、下落した株式の買い付けを行うことをやめてはいない。
-その伝説的な投資家の複合企業は、規制当局への提出書類によると、6月末以降、米住宅建設大手のレナ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-warren-buffett-berkshire-stocks-value-investing-lennar-housing-market-retirement/</guid><pubDate>Thu, 01 Oct 2026 09:14:05 +0000</pubDate></item><item><title>ソフトバンクG、OpenAIへの追加出資が完了　累計10兆円超　持分約13％に</title><link>https://www.itmedia.co.jp/news/article/2610/01/2000001944/</link><description>[score: 0.897] ソフトバンクG、OpenAIへの追加出資が完了 累計10兆円超 持分約13％に
-ソフトバンクグループは10月1日、米OpenAIの営利部門であるOpenAI Group PBCへ100億ドルの追加出資を実行した。「ソフトバンク・ビジョン・ファンド2」を通じて行ったもので、総額300億ドル（約4兆6743億円）の追加出資のうち最終となる第3弾（サードトランシェ）にあたる。累計出資額は646億ドル（執筆時点のレートで約10.2兆円）となり、OpenAI株式の約13％を保有する。
-300億ドルの追加出資は、2月27日にOpenAIと結んだ契約に基づき、100億ドルずつ3回に分けて実行してきたもの。第</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/01/2000001944/</guid><pubDate>Thu, 01 Oct 2026 11:13:31 +0000</pubDate></item><item><title>良かれと入れた監視が、正常なAIサーバーを落とした</title><link>https://qiita.com/chooser/items/148ca44c7a621ec59bd7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.898] 上原正吉（EarthLink Network Co., Ltd.）。Claude Codeを開発の主体に据え、20を超えるプロダクトを1人で同時に開発・運用しています。これは、その現場の実測記です。
-良かれと入れた監視が、正常なAIサーバーを落とした
-結論（この記事の要点・読了 約8分）
-自宅のLLM（Large Language Model、文章を生成するAIモデル）基盤で、監視のやり方を一度変えて、同じ日に元へ戻しました。
-追加したのは、実際にモデルへ1文字だけ生成させて、その応答で「使えるかどうか」を見分ける能動的な監視です。ねらいは、プロセスは生きているのに推論だけ返さない状態を捕まえ</description><guid isPermaLink="false">https://qiita.com/chooser/items/148ca44c7a621ec59bd7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 01 Oct 2026 08:20:00 +0000</pubDate></item><item><title>AI時代の経営幹部、価値の源泉は「人を導く力」へ</title><link>https://forbesjapan.com/articles/detail/105814?s=ns</link><description>[score: 0.899] 多くの企業は、仕事そのものを再設計する前から、AIによる労働力の変革に備え始めている。デロイトが2026年8月に実施した調査では、米国のビジネス・ITリーダー501人のうち43%が、今後12〜18カ月以内にAIエージェントが自社の労働力に大きな変革をもたらすと予想していた。しかし、業務プロセスがその変化に備えられていると回答したのはわずか21%だった。
-このギャップこそ、筆者らがHECパリで新たに発表したポリシーペーパーの中心にある経営課題を表している。多くの企業は既存の管理業務にAIを追加しているが、どの業務をAIに任せるべきか、どこで人による監督を強化すべきか、そしてルーティンの管理に費や</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105814?s=ns</guid><pubDate>Thu, 01 Oct 2026 11:51:52 +0000</pubDate></item><item><title>パキスタンがアフガン空爆、9人死亡・11人負傷＝タリバン政権 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBlNVg2WGZVYVpYRFAxeWU4Q0VMUlZmcGlFWWw5cVUyUjVjR25rZGpsb3BHTjlwd2MwNWxZNXE5cjVCOFNQaFk1WXBuMFV5bVh6TGtTUGVCMEFvS0J2OTZaMzM1NFZSdk1zc3BQMG5VNDZWZ004aDJ3OWNDQ21HZw?oc=5</link><description>[score: 0.899] パキスタンがアフガン空爆、9人死亡・11人負傷＝タリバン政権 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFBlNVg2WGZVYVpYRFAxeWU4Q0VMUlZmcGlFWWw5cVUyUjVjR25rZGpsb3BHTjlwd2MwNWxZNXE5cjVCOFNQaFk1WXBuMFV5bVh6TGtTUGVCMEFvS0J2OTZaMzM1NFZSdk1zc3BQMG5VNDZWZ004aDJ3OWNDQ21HZw?oc=5</guid><pubDate>Thu, 01 Oct 2026 04:33:10 +0000</pubDate></item><item><title>名もないサイバーセキュリティ・ベンチャーがClaudeを使ってOpenAIをハッキングし、100万円の報奨金を獲得した</title><link>https://www.businessinsider.jp/article/2610-hacktron-ai-cybersecurity-startup-hack-openai-using-claude/</link><description>[score: 0.902] - ハックトロンという小さなサイバーセキュリティ・スタートアップが、Claudeの力を借りてオープンAIのコードベースに侵入した。
-- 同社はオープンAIのシステムの脆弱性を指摘し、その発見に対して6500ドル（102万500円）の報奨金を獲得した。
-- 最近になり、悪意あるAIエージェントが野放しになる可能性が顕在化したことで、AI終末論（AIによる人類滅亡）への懸念が急浮上している。
-オープンAIによるハギング・フェイス（Hugging Face）ハッキング事件の直後、ある小規模なAIスタートアップがClaudeを使ってオープンAI（OpenAI）の内部コードベースに侵入した。
-ハックトロ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-hacktron-ai-cybersecurity-startup-hack-openai-using-claude/</guid><pubDate>Thu, 01 Oct 2026 10:13:10 +0000</pubDate></item><item><title>受託開発でClaude Codeを安全側に倒す設定</title><link>https://qiita.com/TechStudioLab/items/8b3700a065a47983d531?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.908] はじめに
-Claude Codeのようなコーディングエージェントを開発で使うと、コードを読むだけでなく、ファイルを書き換えたり、テストを実行したり、Gitを操作したりするところまで任せられます。
-便利なのですが、受託開発で気になるのは「正しいコードを書けるか」だけではありません。
-たとえば、こんな操作です。
-- 指示していないファイルまで変更する
-- 環境設定ファイルを読んでしまう
--
-git push
-まで進める - データベースに対して更新系コマンドを実行する
-- 作業範囲を越えてリファクタリングする
-私はAIを業務に組み込むとき、「人が決め、AIが下ごしらえする」という分担がちょうどよい</description><guid isPermaLink="false">https://qiita.com/TechStudioLab/items/8b3700a065a47983d531?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 01 Oct 2026 08:20:00 +0000</pubDate></item><item><title>Jevライクな意思決定モデルをローカル実行できるOllama風アプリ「Ollaya」が登場</title><link>https://gigazine.net/news/20261001-ollaya-run-decision-model/</link><description>[score: 0.913] Jevライクな意思決定モデルをローカル実行できるOllama風アプリ「Ollaya」が登場
-2026年9月15日に登場した意思決定モデル「Jev」は高速かつ高精度で有用なことから大きな注目を集めており、同様の機能を備えた意思決定モデルが続々と発表されています。そんな意思決定モデルをローカルで動作させる実行アプリ「Ollaya」が登場しました。
-Ollaya · Run decision models locally
-https://ollaya.dev/
-Jevは複数の選択肢に対する判断と信頼度スコアを生成するAIモデルで、適切な用途で使うとClaudeシリーズやGPTシリーズなどの最先端モデ</description><guid isPermaLink="false">https://gigazine.net/news/20261001-ollaya-run-decision-model/</guid><pubDate>Thu, 01 Oct 2026 12:03:21 +0000</pubDate></item></channel></rss>
+神戸 横断歩道に乗用車突っ込む 歩行者1人死亡 3人け</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261001de53712</guid><pubDate>Thu, 01 Oct 2026 15:41:56 +0000</pubDate></item><item><title>高市首相、消費減税で値下げしなければ「店の風評にも関わる」 | 毎日新聞</title><link>https://mainichi.jp/articles/20261001/k00/00m/010/282000c</link><description>[score: 0.879] 高市早苗首相は1日、日本テレビの番組に出演し、5日召集の臨時国会で関連法案が審議される予定の飲食料品の消費減税について「税率引き下げ分については基本的に価格に反映される。（価格が下がらなければ）店の風評にも関わる」と述べた。減税による需要喚起が物価高につながるとの懸念については「生活必需品で消費期限もある。買いだめをして急激に消費が増えるという効果は相対的には大きくない」と否定した。
+政権発足からまもなく1年を迎えることについては「総理大臣として最もやりたかったことには確実に着手することができた」と振り返った。来秋の自民党総裁選で再選を目指すかについては「私の関心ではない。約束したことは実現す</description><guid isPermaLink="false">https://mainichi.jp/articles/20261001/k00/00m/010/282000c</guid><pubDate>Thu, 01 Oct 2026 16:58:05 +0000</pubDate></item><item><title>芝浦工業大学・尾崎教授の計算アルゴリズムをNVIDIAが新たに採用〜 AI時代のGPUから、科学シミュレーションに不可欠な高精度計算を引き出す 〜｜芝浦工業大学</title><link>https://www.shibaura-it.ac.jp/headline/detail/20260930_7070_51_1.html</link><description>[score: 0.879] 芝浦工業大学・尾崎教授の計算アルゴリズムをNVIDIAが新たに採用〜 AI時代のGPUから、科学シミュレーションに不可欠な高精度計算を引き出す 〜｜芝浦工業大学 Watson algorithmCUDA</description><guid isPermaLink="false">https://www.shibaura-it.ac.jp/headline/detail/20260930_7070_51_1.html</guid><pubDate>Thu, 01 Oct 2026 19:40:24 +0000</pubDate></item><item><title>Ollamaじゃない？ OllayaのDecision ModelをAWS認定試験で評価してみた</title><link>https://qiita.com/kadzus/items/2a4d1cd931db81c8f04d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] AWS認定試験のサンプル問題を使い、OllayaのDecision Modelであるlayaとwinnowを比較検証しました。
+はじめに
+AI Private Cloud運用チームでは、セルフホスト可能なSLM（Small Language Model）の活用可能性を継続的に検証しています。
+ローカルLLMやSLMの検証というと、次のような用途が注目されがちです。
+- チャット
+- 文書要約
+- RAG
+- コーディング支援
+一方、インフラやクラウドの運用現場では、次のような「判断」を支援するユースケースも多く存在します。
+- インシデント判定
+- アラート分類
+- チケット振り分け
+- SE</description><guid isPermaLink="false">https://qiita.com/kadzus/items/2a4d1cd931db81c8f04d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 01 Oct 2026 20:11:58 +0000</pubDate></item><item><title>米国株式市場＝上昇、米債利回り上昇一服で(ロイター) - Yahoo!ファイナンス</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNM3FvMnZhQlNJSGdFbTlJYjhUcUVaNE1FeXhSNEVOM1RXUE9IdDBXb2JVaGNNaTJFaFFhVkluQ2hISkpMcUNicG5JQVNvMlc5bTJLVDBUSWlCNEJ0WnJjN3BKaXU3WlJKQTc4Q2V5Z1k3RExVakpKQjI5ZGFwMXd3ZGZVME0yTG8?oc=5</link><description>[score: 0.881] 米国株式市場＝上昇、米債利回り上昇一服で(ロイター) Yahoo!ファイナンス</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxNM3FvMnZhQlNJSGdFbTlJYjhUcUVaNE1FeXhSNEVOM1RXUE9IdDBXb2JVaGNNaTJFaFFhVkluQ2hISkpMcUNicG5JQVNvMlc5bTJLVDBUSWlCNEJ0WnJjN3BKaXU3WlJKQTc4Q2V5Z1k3RExVakpKQjI5ZGFwMXd3ZGZVME0yTG8?oc=5</guid><pubDate>Thu, 01 Oct 2026 20:38:17 +0000</pubDate></item><item><title>米国株式市場＝上昇、米債利回り上昇一服で - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQMzVPd2hsOXVwS1E1d0sxbFFnb3ozOF9IRFJSRjlkQ0NyZUlPaFo3RGFFNGdHX3RvTnFzWFhEX2JJbllJNEhOVVQxOUIyYk9Ld3ZDdDV4MlJoY2ZVTk56SHpUa2Rrdml0TzlwcVhmeW9PeTlYNjlBdktzVjhGbjJhRnhQVXY0Zw?oc=5</link><description>[score: 0.881] 米国株式市場＝上昇、米債利回り上昇一服で Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQMzVPd2hsOXVwS1E1d0sxbFFnb3ozOF9IRFJSRjlkQ0NyZUlPaFo3RGFFNGdHX3RvTnFzWFhEX2JJbllJNEhOVVQxOUIyYk9Ld3ZDdDV4MlJoY2ZVTk56SHpUa2Rrdml0TzlwcVhmeW9PeTlYNjlBdktzVjhGbjJhRnhQVXY0Zw?oc=5</guid><pubDate>Thu, 01 Oct 2026 20:38:17 +0000</pubDate></item><item><title>創業100年以上の「老舗企業」倒産が過去最多ペース…最も多かった業種は？【帝国データバンク調べ】</title><link>https://webtan.impress.co.jp/n/2026/10/02/53366</link><description>[score: 0.881] 創業100年以上の「老舗企業」倒産が過去最多ペース…最も多かった業種は？【帝国データバンク調べ】 創業・設立から100年以上の老舗が相次いで倒産、後継者難や物価高が重荷に。 imai-f 2026年10月2日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 帝国データバンクは、倒産時点で創業・設立から100年以上の業歴を持つ「老舗企業」の倒産動向を調査した。 関連記事 2026年上半期の企業倒産、5,335件で4年連続増 物価高・人手不足倒産は過去最多【TDB調べ】 2026年の「周年記念企業」は14.5万社！ 集英社・東レ・豊田自動織機も100周年の節目に【帝国データバ</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/10/02/53366</guid><pubDate>Thu, 01 Oct 2026 21:10:53 +0000</pubDate></item><item><title>日本学術会議が特殊法人に移行 会長に加藤和人 大阪大名誉教授</title><link>https://news.web.nhk/newsweb/na/nd-20261001de53737</link><description>[score: 0.881] 組織のあり方が議論されてきた日本学術会議は1日、国の機関から特殊法人に移行し、会長に大阪大学の加藤和人名誉教授を選出しました。
+日本学術会議は政府から独立して政策提言などを行う国の機関として活動し…
+注目ワード
+あわせて読みたい
+千葉の火力発電所の敷地に国内最大規模のデータセンター建設へ
+10月1日 17:25
+企業や官庁で内定式 “望まない転勤廃止”で人材確保の動きも
+10月1日 17:13
+トヨタ 祝日勤務見直しへ 人材確保がねらい 来年度
+10月1日 12:52
+東京地検特捜部検事の取り調べめぐる国賠訴訟 判決は来年1月
+10月1日 16:15
+神戸 横断歩道に乗用車突っ込む 歩行者1人</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261001de53737</guid><pubDate>Thu, 01 Oct 2026 20:09:23 +0000</pubDate></item><item><title>世界はこの本の通りに動いている――今一番話題のAI本『超知能AIをつくれば人類は絶滅する』電子書籍版が「99円」に。10月2日（金）～10月4日（日）の3日間限定</title><link>https://prtimes.jp/main/html/rd/p/000000061.000073162.html</link><description>[score: 0.881] 世界はこの本の通りに動いている――今一番話題のAI本『超知能AIをつくれば人類は絶滅する』電子書籍版が「99円」に。10月2日（金）～10月4日（日）の3日間限定 株式会社早川書房（本社：東京都千代田区、代表：早川淳）は、2026年10月2日（金）～4日（日）の3日間、エリーザー・ユドコウスキー＆ネイト・ソアレス『超知能AIをつくれば人類は絶滅する』（櫻井祐子訳）電子書籍版を99円で提供します。 ■ AIの暴走事例が相次ぎ、世界が揺らぐ AIの暴走事例が相次ぎ、人間の知能をしの...</description><guid isPermaLink="false">https://prtimes.jp/main/html/rd/p/000000061.000073162.html</guid><pubDate>Thu, 01 Oct 2026 17:44:02 +0000</pubDate></item><item><title>【地震速報】鹿児島 十島村で震度3 津波の心配なし</title><link>https://news.web.nhk/newsweb/na/nd-20260929de53192</link><description>[score: 0.882] 2日午前4時5分ごろ、鹿児島県で震度3の揺れを観測する地震がありました。この地震による津波の心配はありません。
+▽震度3の揺れを鹿児島県十島村の中之島で、 ▽震度2の揺れを口之島で観測しました。 …
+地震マップ 最新の震度分布・震源をリアルタイム更新
+【最新の地震情報】各地の震度・震源を詳しく
+地震動予測地図 震度6弱以上 各地の揺れリスク
+「地震への備え」特選コンテンツ
+首都直下地震 新たな被害想定 “死者 最大1万8000人”
+首都直下地震 あなたの街の揺れは？自治体ごとの震度を詳しく
+長周期地震動とは？震源から離れても大きな揺れ どう備えれば
+非常用持ち出し袋 地震や水害で避難する際に </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20260929de53192</guid><pubDate>Thu, 01 Oct 2026 19:39:36 +0000</pubDate></item><item><title>米国防長官、将来の戦争を研究する計画にマスク氏ら起用 多様性政策を改めて批判 | ロイター - Reuters</title><link>https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ydkpvTEI2ZmV4eTluSlZpazRBT3EwQUtYMzF0Y1JFa0wyendWWU80MTM1SGRvTTdscUktczNvMHlvVG5IMWYyUw?oc=5</link><description>[score: 0.883] 米国防長官、将来の戦争を研究する計画にマスク氏ら起用 多様性政策を改めて批判 | ロイター Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiSEFVX3lxTE5ydkpvTEI2ZmV4eTluSlZpazRBT3EwQUtYMzF0Y1JFa0wyendWWU80MTM1SGRvTTdscUktczNvMHlvVG5IMWYyUw?oc=5</guid><pubDate>Thu, 01 Oct 2026 18:37:04 +0000</pubDate></item><item><title>OpenAIはテストの監視が不十分であるという社内警告を繰り返し無視して追加のセキュリティ対策をせず迅速なリリースを優先していた</title><link>https://gigazine.net/news/20261001-openai-ignored-warnings/</link><description>[score: 0.887] OpenAIはテストの監視が不十分であるという社内警告を繰り返し無視して追加のセキュリティ対策をせず迅速なリリースを優先していた
+OpenAIではAIエージェントが社内テスト中に誤ってHugging Faceをハッキングしてしまった事例など、複数のインシデントが発生しています。OpenAIのAIモデルが暴走を始める数か月前に、従業員が経営幹部に警告を送っていたものの、経営幹部はその警告を無視していたことが社内メールから明らかになりました。
+OpenAI Ignored Employees’ Warnings About Safely Testing A.I. Models - The New </description><guid isPermaLink="false">https://gigazine.net/news/20261001-openai-ignored-warnings/</guid><pubDate>Thu, 01 Oct 2026 14:04:26 +0000</pubDate></item><item><title>プーチン氏、対話によるウクライナ紛争解決望む ウ中立化求める（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBZTXZHUkhUTTBxOXpxbVJMZ2dpQi1ZM0p5cS0yTjFkd3g5QnVubU02a203SUFnRW41Szg3aXR4UXJjV00xSEpURnJRTV9hUVlITFlBTlBjbDlKODVKT2RtdE5SN1ByRGM2WVA1dGNaTWstN3IzZkxZVXgwY3pFeUk?oc=5</link><description>[score: 0.888] プーチン氏、対話によるウクライナ紛争解決望む ウ中立化求める（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFBZTXZHUkhUTTBxOXpxbVJMZ2dpQi1ZM0p5cS0yTjFkd3g5QnVubU02a203SUFnRW41Szg3aXR4UXJjV00xSEpURnJRTV9hUVlITFlBTlBjbDlKODVKT2RtdE5SN1ByRGM2WVA1dGNaTWstN3IzZkxZVXgwY3pFeUk?oc=5</guid><pubDate>Thu, 01 Oct 2026 20:38:17 +0000</pubDate></item><item><title>相次ぐ不祥事受け社長交代のニデック 上場維持できるかが焦点</title><link>https://news.web.nhk/newsweb/na/nd-20261001de53755</link><description>[score: 0.888] 不正会計や品質をめぐる不適切行為が相次いで判明している電子部品大手の「ニデック」は、就任したばかりの戒田理夫新社長が1日に会見し、一連の問題を陳謝しました。会社は、内部管理体制を改善する必要性が高いと…
+注目ワード
+あわせて読みたい
+ニデック 戒田理夫新社長が会見「品質第一にした会社に戻す」
+10月1日 19:35
+佐川急便に不正アクセス 住所など個人情報が漏えいか
+10月2日 0:37
+熊本地震後の観光需要回復を 「九州ふっこう応援割」スタート
+10月1日 19:50
+血液がん 医師確保が困難に 専門医らの団体が実態調査など要望
+10月1日 22:08
+千葉の火力発電所の敷地に国内最大規模の</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261001de53755</guid><pubDate>Thu, 01 Oct 2026 21:08:52 +0000</pubDate></item><item><title>価値あるものを生み出す事が絶対条件ではなくなり、ただ市場のルールによ..</title><link>https://anond.hatelabo.jp/20261001234528</link><description>[score: 0.888] 価値あるものを生み出す事が絶対条件ではなくなり、ただ市場のルールにより迎合できた人間が成功者となる以上、現代の成功者が与えているのは最早夢や希望などではなく、ただ絶望だと思う。ああいった人々の生み出すもの存在そのものが個々のかけがえのない人生を毀損しているように思う
+AI文章
+失礼だしいくらなんでも統合失調症だと思うぞ⋯ AI文章
+統失って何で自分に向けられた言葉を便利な万能罵倒表現だと勘違いして他人に繰り出すの?
+まさしくそのとおりで、こうした意見に「おもしろ」カテゴリにいれたり「ネタ」タグを付けることこそが冷笑消費だろう 価値の代わりに、同調圧力で生きる実感を得る人々の社会が...
+数学と</description><guid isPermaLink="false">https://anond.hatelabo.jp/20261001234528</guid><pubDate>Thu, 01 Oct 2026 17:26:50 +0000</pubDate></item><item><title>イラン、米攻撃再開なら報復拡大へ 外交継続も成功は懐疑的＝関係筋 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFA1YUpZSTdPSmJMVVFYUFV5STZVUEhyWVhDSDFSOUJKTEk2Tl8xMkZSV1FrVFRSZEtkcUt0cG9zUjEwNEhWTERBM3l6b1VqMklDY3RnTUNYb1JPdVBaZjVfYWtGSUVCNG45TUFXRC1BYlptMVg5WTc2a3ZqWFN2LXM?oc=5</link><description>[score: 0.889] イラン、米攻撃再開なら報復拡大へ 外交継続も成功は懐疑的＝関係筋 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFA1YUpZSTdPSmJMVVFYUFV5STZVUEhyWVhDSDFSOUJKTEk2Tl8xMkZSV1FrVFRSZEtkcUt0cG9zUjEwNEhWTERBM3l6b1VqMklDY3RnTUNYb1JPdVBaZjVfYWtGSUVCNG45TUFXRC1BYlptMVg5WTc2a3ZqWFN2LXM?oc=5</guid><pubDate>Thu, 01 Oct 2026 20:38:17 +0000</pubDate></item><item><title>dotfiles を AI agent のために作り変えた</title><link>https://tellme.tokyo/post/2026/10/01/ai-agent-first-dotfiles/</link><description>[score: 0.889] dotfiles を AI agent のために作り変えた 最近、自分のターミナルでコマンドを打っているのは、ほとんど自分ではなく Claude Code や Codex だった（以下 AI）。試しに数えてみると、直近 gh を叩いた回数は自分が80回で、AI が1,339回だった。 一方で、10年以上いじってきた dotfiles は、人間が快適に使うための設定の塊だ。これが AI にとってはけっこう邪魔...</description><guid isPermaLink="false">https://tellme.tokyo/post/2026/10/01/ai-agent-first-dotfiles/</guid><pubDate>Thu, 01 Oct 2026 17:53:36 +0000</pubDate></item><item><title>イラン、米攻撃再開なら報復拡大へ　外交継続も成功は懐疑的＝関係筋 - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBudWxnUkp2eUxhMWdyQkRzXzBnNXlPZHZrWk55NEVYSVgwRHpNLW5iTWt4emx1M3BvckFkeEY3ZDZOWlI5VnNrdThZUVNQYzUzTFJqMndLLVZSaUFOS0dRZ3ZqMDZ3SjhZX0dkTWVnLW03Q3RpQ3NGcV83ZTN3d9IBgwFBVV95cUxPdlNfVFczSWZXWXZsa2QwNXBHbWJ2dThHZDYyRVl5V0xNUWYyOE4wYko5Z3lCTVh6S281U1FfdThuQUJpMkYxVUw2RmJpYlYwUFQ3c2s2TGswVFE0M3BBZWtvVFNPd0R0Z3dsRHFBX0ZsMlRQSWlraVdEN3ZUTXpodTExSQ?oc=5</link><description>[score: 0.889] イラン、米攻撃再開なら報復拡大へ 外交継続も成功は懐疑的＝関係筋 ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFBudWxnUkp2eUxhMWdyQkRzXzBnNXlPZHZrWk55NEVYSVgwRHpNLW5iTWt4emx1M3BvckFkeEY3ZDZOWlI5VnNrdThZUVNQYzUzTFJqMndLLVZSaUFOS0dRZ3ZqMDZ3SjhZX0dkTWVnLW03Q3RpQ3NGcV83ZTN3d9IBgwFBVV95cUxPdlNfVFczSWZXWXZsa2QwNXBHbWJ2dThHZDYyRVl5V0xNUWYyOE4wYko5Z3lCTVh6S281U1FfdThuQUJpMkYxVUw2RmJpYlYwUFQ3c2s2TGswVFE0M3BBZWtvVFNPd0R0Z3dsRHFBX0ZsMlRQSWlraVdEN3ZUTXpodTExSQ?oc=5</guid><pubDate>Thu, 01 Oct 2026 20:38:17 +0000</pubDate></item><item><title>AI生成コードを全部同じ密度で読む必要はある？―レビューを契約とテストで絞る設計</title><link>https://qiita.com/masashige0904/items/43beaaabc2c0ef2dcb1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] この記事はこんな人におすすめ
+- AIが生成したコードをどこまでレビューすべきか迷っている
+- AIによって実装は速くなったが、レビュー負担も増えたと感じている
+- AI時代に設計やテストを学ぶ意味を考えたい
+この記事で得られること
+この記事では、次の考え方を整理します。
+- 契約によって「正しい」の条件を先に決める
+- 副作用と抽象化によって、内部実装を読む範囲を限定する
+- 契約をテストへ変換し、AIの実装を検証する
+中心となる考え方は、
+AIが生成したコードをすべて同じ密度で読むのではなく、人間が先に「守るべき仕様」を設計し、それを外側から検証できる状態を作る
+ことです。
+AIが書いたコ</description><guid isPermaLink="false">https://qiita.com/masashige0904/items/43beaaabc2c0ef2dcb1c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 01 Oct 2026 20:11:58 +0000</pubDate></item><item><title>AIを業務改善につなげるための5ステップ ― サービスデザインを活用した要件定義 - Qiita</title><link>https://qiita.com/TamakiSeki/items/ac268db56f92b991970b</link><description>[score: 0.893] はじめに
+生成AIやAIエージェントを業務に活用しようとすると、「どの業務に適用するか」「人とAIの役割をどう分けるか」で迷うことがあります。
+文章作成や要約など個人単位の作業にはAIを導入しやすい一方、AIエージェントを作ること自体が目的になると、個別タスクの効率化にとどまり、業務全体の改善につながらないことがあります。
+この課題と、AIをワークフロー・意思決定・ナレッジまで含めて設計する考え方については、以下の記事で詳しく紹介されています。
+本記事では、この考え方を 「実際の業務でどう進めるか」 に焦点を当てます。
+そこで活用するのが、サービスデザインの考え方です。
+サービスデザインでは、</description><guid isPermaLink="false">https://qiita.com/TamakiSeki/items/ac268db56f92b991970b</guid><pubDate>Thu, 01 Oct 2026 18:39:39 +0000</pubDate></item><item><title>ＦＲＢ、インフレ根強ければ追加利上げ必要＝ミネアポリス連銀総裁(ロイター) - Yahoo!ファイナンス</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNak1zVFoyNnRDdllZcEsxeVhHcEhwdGlGZ1MzREZ3Z2ZhRi1BdmxRRlk2Nmw5aExlZENkQXdkUUZ2OXRvSm9OX2JXMlNjT1p1ZEEtUkFmeGFFTFVYakxOSkVKdnFfSEtVaTVtWXZiOEd6Z1R5cjAzY3d5ZjZOLXQ3cVdSRV9zc2s?oc=5</link><description>[score: 0.897] ＦＲＢ、インフレ根強ければ追加利上げ必要＝ミネアポリス連銀総裁(ロイター) Yahoo!ファイナンス</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxNak1zVFoyNnRDdllZcEsxeVhHcEhwdGlGZ1MzREZ3Z2ZhRi1BdmxRRlk2Nmw5aExlZENkQXdkUUZ2OXRvSm9OX2JXMlNjT1p1ZEEtUkFmeGFFTFVYakxOSkVKdnFfSEtVaTVtWXZiOEd6Z1R5cjAzY3d5ZjZOLXQ3cVdSRV9zc2s?oc=5</guid><pubDate>Thu, 01 Oct 2026 19:37:45 +0000</pubDate></item><item><title>ICC赤根所長への制裁撤回求める17万筆余の署名を提出</title><link>https://news.web.nhk/newsweb/na/nd-20261002de53764</link><description>[score: 0.897] アメリカのトランプ政権がICC＝国際刑事裁判所の赤根智子所長に制裁を科したことを受けて、弁護士で作る団体が、制裁の撤回に向けてアメリカと具体的に協議することなどを求める17万筆余りの署名を政府に提出し…
+あわせて読みたい
+ICC締約国会議の開催地変更を決定 アメリカからオランダに
+9月29日 21:28
+中国大使館侵入事件 元自衛官 侵入など認め脅迫は無罪主張
+10月1日 12:47
+イスラエル行き旅客機 緊急着陸 副操縦士が機長を刺したか
+10月1日 22:05
+韓国大統領 地雷被害で北朝鮮批判避ける 対抗措置求める声も
+10月1日 15:22
+米国防総省 マスク氏らを招き将来の戦闘について</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261002de53764</guid><pubDate>Thu, 01 Oct 2026 16:12:05 +0000</pubDate></item><item><title>新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた</title><link>https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.898] はじめに
+Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。
+ちょうど自分もQiitaを書くとき、AIに文章の校正を頼んだあとで「整っているけど自分が書いた感じがしないな」と直すことがよくあります。そこで今回は、同じく日本語を読みやすくする natural-japanese
+と japanese-tech-writing
+も加えて、同じClaude・同じ原文・同じ指示で比較しました。
+結論から言うと、3つとも文章は読みやすくなりました</description><guid isPermaLink="false">https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 01 Oct 2026 20:11:58 +0000</pubDate></item><item><title>米政府の新AIチャットボット、トランプ氏の主張と矛盾する回答 直後に一部質問を制限</title><link>https://www.afpbb.com/articles/-/3655649</link><description>[score: 0.899] 米政府の新AIチャットボット、トランプ氏の主張と矛盾する回答 直後に一部質問を制限 【10月1日 AFP】ドナルド・トランプ米大統領は今週、政府ウェブサイト向けの人工知能（AI）チャットボットを披露し「非常に素晴らしい」と称賛した。しかし、トランプ氏の政治的主張と矛盾する回答をしたことで注目を集め、公開の翌日には一部の政治的な質問を受け付けなくなった。 ウェブサイト「America.gov」は、政府...</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3655649</guid><pubDate>Thu, 01 Oct 2026 20:26:34 +0000</pubDate></item><item><title>｢子供が将来製鉄所で働くと言っている!｣日本製鉄のUSスチール買収で一変した｢瀕死だった鉄鋼町｣の現在地</title><link>https://president.jp/articles/-/119523</link><description>[score: 0.904] ｢子供が将来製鉄所で働くと言っている!｣日本製鉄のUSスチール買収で一変した｢瀕死だった鉄鋼町｣の現在地 日本製鉄がUSスチールを買収してから1年が経った。当初トランプ大統領からも反対されていた買収は成功したのか。在米ジャーナリストの岩田太郎さんは「日本製鉄は当初の約束通り積極的な設備投資を行い、USスチールの利益上昇に貢献した。給料も上がった労働者たちからは感謝の声が上がり、日米関係にも良い影響を与えて...</description><guid isPermaLink="false">https://president.jp/articles/-/119523</guid><pubDate>Thu, 01 Oct 2026 17:48:25 +0000</pubDate></item><item><title>AIが人類を滅ぼすとしたら？研究者が考える5つのシナリオ</title><link>https://gigazine.net/news/20261002-ai-human-extinction-five-scenarios/</link><description>[score: 0.904] AIが人類を滅ぼすとしたら？研究者が考える5つのシナリオ
+AIが生物兵器や核戦争、社会の崩壊などを通じて人類を滅ぼす可能性を、ニューサウスウェールズ大学のAI研究者であるトビー・ウォルシュ教授が5つのシナリオに分けて論じています。
+How would AI actually kill all humans? Here are the top 5 scenarios
+https://theconversation.com/how-would-ai-actually-kill-all-humans-here-are-the-top-5-scenarios-292220
+ウォルシュ氏は、以下の5つの</description><guid isPermaLink="false">https://gigazine.net/news/20261002-ai-human-extinction-five-scenarios/</guid><pubDate>Thu, 01 Oct 2026 21:03:26 +0000</pubDate></item><item><title>ＦＲＢ、インフレ根強ければ追加利上げ必要＝ミネアポリス連銀総裁 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWxVT2dkY05wcjZrUUFPS1JNV25XQ3BVVmEwbzhlVWxVZFdSdXUydldKWjRteHd1OHlCNlFUOFdlVWhBUTFFNWZ4bEFsTDJkYmIzUVhZakJVbWNlR2dudjl4b0FnMUNIcG9pb25VanVkQWZqazdXdS1HX1JoTkpVaS1oS19uUQ?oc=5</link><description>[score: 0.905] ＦＲＢ、インフレ根強ければ追加利上げ必要＝ミネアポリス連銀総裁 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxPNWxVT2dkY05wcjZrUUFPS1JNV25XQ3BVVmEwbzhlVWxVZFdSdXUydldKWjRteHd1OHlCNlFUOFdlVWhBUTFFNWZ4bEFsTDJkYmIzUVhZakJVbWNlR2dudjl4b0FnMUNIcG9pb25VanVkQWZqazdXdS1HX1JoTkpVaS1oS19uUQ?oc=5</guid><pubDate>Thu, 01 Oct 2026 19:37:45 +0000</pubDate></item><item><title>パキスタンがアフガニスタン攻撃 対立の激化懸念</title><link>https://news.web.nhk/newsweb/na/nd-20261001de53735</link><description>[score: 0.916] パキスタン政府は、隣国のアフガニスタンがテロの温床になっているとして過激派組織の潜伏先を攻撃し、22人を殺害したと発表しました。一方、アフガニスタンで実権を握るタリバン暫定政権は、攻撃で市民9人が死亡…
+あわせて読みたい
+パキスタン北西部で爆発12人死亡 自爆テロとみて捜査
+9月27日 7:49
+タリバン暫定政権5年 アフガニスタンの課題
+8月25日 15:07
+国連で核廃絶会議 事務総長「冷戦終結後 最も危険な局面」
+9月30日 9:19
+台風27号 勢力を強めながら日曜日ごろ小笠原近海へ進む見込み
+10月1日 18:50
+イスラエル行き旅客機 緊急着陸 副操縦士が機長を刺したか
+10月1日</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261001de53735</guid><pubDate>Thu, 01 Oct 2026 19:39:36 +0000</pubDate></item></channel></rss>
