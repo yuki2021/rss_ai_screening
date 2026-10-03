@@ -1,129 +1,84 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 02 Oct 2026 11:50:48 +0000</lastBuildDate><item><title>知的な人が無意識に実践している「リセット反射」の習慣</title><link>https://forbesjapan.com/articles/detail/105664?s=ns</link><description>[score: 0.880] 知的な人が成功するのは、最初から良い選択をするからだと思いがちだ。実際、そういう場合もある。だが多くの場合、知的な人が他の人と異なるのは自分の選択が間違っていたと気づいた後の対応の仕方だ。
-プロジェクト、計画、キャリアの方向性など、自分が注力してきたことがうまくいかなくなり始めたとき、知的な人はたいてい、ためらうことなく一歩引いて、最初からやり直すことができる。決断について長い時間思い悩んだり、その失敗を自分の価値を示すものとして受け止めたりすることもない。
-私はこの習慣を「リセット反射」と呼んでいる。簡単に言うとこれは失敗しつつある取り組みを断念し、その決断によって個人的な損失を感じることな</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105664?s=ns</guid><pubDate>Fri, 02 Oct 2026 09:11:24 +0000</pubDate></item><item><title>大阪府 吉村知事“大阪は副首都ふさわしい”指定に向け意欲</title><link>https://news.web.nhk/newsweb/na/nd-20261002de53925</link><description>[score: 0.881] 大規模災害の際に首都の代替機能を担う「副首都」をめぐり、大阪府の吉村知事は「大阪は『副首都』にふさわしくその役割と責任を担うべきだと思っている」と述べ、指定を目指して検討を進める考えを示しました。
-…
-注目ワード
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 03 Oct 2026 00:19:44 +0000</lastBuildDate><item><title>社会主義の東ドイツで育った高齢者は西ドイツ育ちよりも認知機能が良好との研究結果</title><link>https://gigazine.net/news/20261003-growing-up-east-germany-cognitive-health/</link><description>[score: 0.880] 社会主義の東ドイツで育った高齢者は西ドイツ育ちよりも認知機能が良好との研究結果
+ドイツは第二次世界大戦後、ドイツ民主共和国(東ドイツ)とドイツ連邦共和国(西ドイツ)に分裂しており、1990年に東ドイツが西ドイツに編入される形で再統一されました。新たな研究では、ドイツ再統一前の社会主義時代に東ドイツで生まれ育った高齢者は、西ドイツ育ちの高齢者より認知機能が良好で、精神機能の低下が遅いことがわかりました。
+Is There a Cognitive Footprint of Political Systems? The Case of Separation and Reunification of </description><guid isPermaLink="false">https://gigazine.net/news/20261003-growing-up-east-germany-cognitive-health/</guid><pubDate>Sat, 03 Oct 2026 00:08:12 +0000</pubDate></item><item><title>グーグル、最先端AI「ジェミニ4アルゴン」の一般公開見送り 安全上の懸念</title><link>https://www.afpbb.com/articles/-/3655570</link><description>[score: 0.881] グーグル、最先端AI「ジェミニ4アルゴン」の一般公開見送り 安全上の懸念
+このニュースをシェア
+【10月1日 AFP】米グーグルは9月30日、同社で最も強力な人工知能（AI）モデル「ジェミニ4アルゴン」の一般公開を当面見送る方針を明らかにした。ハッカーによる悪用が懸念されるためとしている。一般公開までは、特定のサイバーセキュリティー専門家チームにのみアクセス権限が付与されるという。
+一般公開の見送りについて、グーグルの人工知能（AI）開発部門を率いるコーレイ・カブクチュオール上級副社長は「このレベルの最先端機能を安全に公開するには、段階的なアプローチが必要だ」と説明した。
+グーグルは米政府に対</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3655570</guid><pubDate>Fri, 02 Oct 2026 17:00:04 +0000</pubDate></item><item><title>Claude Code ModsとJevでモデルルーターを構築（サブスクで使えるゾ！！）</title><link>https://qiita.com/moritalous/items/8b663db633dde3c49d62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] Claude CodeにModsというものが追加されました。
+公式ドキュメントはこちら
+何やらいろんなことができそうです。
+頼んでみた
+ドキュメントもろくに読まず、Claude Codeに聞いてみました。
+Claude Code Mods（ https://code.claude.com/docs/en/plugins/mods/overview ）でモデルルーターって作れる？プロンプトによってSonnet/Opus/Haikuを切り替えるようなもの。
+少し考えた後に回答がありました。
+作れます。今動いているビルドのMods API の型定義を確認したところ、必要なフックは揃っていました。
+C</description><guid isPermaLink="false">https://qiita.com/moritalous/items/8b663db633dde3c49d62?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 02 Oct 2026 20:17:17 +0000</pubDate></item><item><title>アツアツのお茶やコーヒーを飲むと食道がんの発症リスクが3倍高まる</title><link>https://gigazine.net/news/20261003-very-hot-tea-coffee-cancer-risk/</link><description>[score: 0.882] アツアツのお茶やコーヒーを飲むと食道がんの発症リスクが3倍高まる
+飲み物にこだわりがあって、しっかり熱くなっていないと飲んだ気がしないと考える人は少なくないはず。紅茶とコーヒーの愛飲者を調べた研究で、熱い飲み物を飲むと食道がんのリスクが増加することが示されました。
+Hot Drinks and Oesophageal Cancer: Prospective Analyses in Around 1 Million UK Adults - Papier - International Journal of Cancer - Wiley Online Library
+https://onlinel</description><guid isPermaLink="false">https://gigazine.net/news/20261003-very-hot-tea-coffee-cancer-risk/</guid><pubDate>Fri, 02 Oct 2026 23:07:25 +0000</pubDate></item><item><title>アメリカ中間選挙まで1か月 共和党と民主党の選挙戦激化</title><link>https://news.web.nhk/newsweb/na/nd-20261003de54002</link><description>[score: 0.882] トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙まで3日で1か月となります。
+与党・共和党はトランプ大統領や閣僚らが各地で演説を重ねる一方、野党・民主党はイラン情勢や物価高をめぐ…
 あわせて読みたい
-インフルエンザ患者数 前週から減少も依然として多い状況続く
-10月2日 15:53
-青森みちのく銀 岩手銀 秋田銀 経営統合の検討開始を表明
-10月2日 18:35
-飲酒乗務問題の東海汽船に20日間の船舶使用停止命令 国交省
-10月2日 19:53
-「副首都」要件案判明 人口全国の1.2％以上など 4市満たす
-10月2日 2:30
-福岡県議会 自民県議が議長就任前の</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261002de53925</guid><pubDate>Fri, 02 Oct 2026 09:27:34 +0000</pubDate></item><item><title>無料＆オープンソースのAIコーディングツール「Pi 1.0」が正式リリース、MCP対応や複数のAIモデルを切り替える機能を追加</title><link>https://gigazine.net/news/20261002-pi-1-0/</link><description>[score: 0.882] 無料＆オープンソースのAIコーディングツール「Pi 1.0」が正式リリース、MCP対応や複数のAIモデルを切り替える機能を追加
-機能を必要最小限に絞ったオープンソースのAIコーディングツール「Pi」が、正式版となる「Pi 1.0」を2026年10月1日にリリースしました。Pi 1.0では従来のシンプルな設計を維持しながら、外部ツールと連携するMCPへの標準対応や必要なツールだけを読み込む機能、複数のAIモデルを組み合わせる仕組みなどが追加されています。
-Pi 1.0 | Earendil
-https://earendil.com/posts/pi-1-0/
-Pi
-https://pi.dev/</description><guid isPermaLink="false">https://gigazine.net/news/20261002-pi-1-0/</guid><pubDate>Fri, 02 Oct 2026 08:52:53 +0000</pubDate></item><item><title>TVアニメ「新世紀エヴァンゲリオン」ABEMAで無料一挙配信、初回放送日に合わせて</title><link>https://natalie.mu/comic/news/692152</link><description>[score: 0.882] 庵野秀明が監督を務めたTVアニメ「新世紀エヴァンゲリオン」全26話無料一挙配信が、10月4日12時よりABEMAで行われる。</description><guid isPermaLink="false">https://natalie.mu/comic/news/692152</guid><pubDate>Fri, 02 Oct 2026 11:13:58 +0000</pubDate></item><item><title>台風25号 千葉 盛り土崩落 少なくとも5件 過去に危険性指摘も</title><link>https://news.web.nhk/newsweb/na/nd-20261002de53849</link><description>[score: 0.883] 台風25号による大雨で、千葉県内では建設残土などを積み上げた盛り土が少なくとも5か所で崩れ、住宅や道路などに被害が出ました。5か所はいずれも行政が事前に危険性を把握していて、過去に崩落したケースや無許…
+【アメリカ中間選挙2026 特集ページ】
+北朝鮮キム・ヨジョン氏「地雷爆発は言いがかり」新たな談話
+10月2日 23:42
+イスラエル 一部メディア報道「単独犯の可能性」フライドバイ
+10月3日 5:03
+ユーロ圏 消費者物価9月は3.8％上昇 3年ぶりの高水準
+10月2日 22:56
+ロシアへの追加制裁を発表 「影の船団」も制裁対象に 日本政府
+10月2日 20:53
+米国が</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261003de54002</guid><pubDate>Fri, 02 Oct 2026 20:19:05 +0000</pubDate></item><item><title>とあるアンガーマネジメントの本に書かれていた「怒りを皮肉で表現する人」の問題点の指摘が丁寧なオーバーキルで喀血しかけた話</title><link>https://togetter.com/li/2753348</link><description>[score: 0.883] とあるアンガーマネジメントの本に書かれていた「怒りを皮肉で表現する人」の問題点の指摘が丁寧なオーバーキルで喀血しかけた話 芽茶子 @mechacor アンガーマネジメントの本読んだら、大要「怒りを皮肉で表現する人は、直接怒りを伝える度胸も交渉能力も無いばかりか、皮肉＝知性と勘違いし勝手に優越感に浸り、歯止めもきかないので、かえって相手を深く傷つけてしまい余計なトラブルをひきおこす」って書いててニコニコしながら喀血するとこだった...</description><guid isPermaLink="false">https://togetter.com/li/2753348</guid><pubDate>Fri, 02 Oct 2026 22:20:46 +0000</pubDate></item><item><title>国会改革は「高市首相隠し」なのか　国会嫌い+抜擢人事で焦点に浮上：朝日新聞</title><link>https://www.asahi.com/articles/ASVB22HKPVB2UTFK016M.html</link><description>[score: 0.883] 与野党は2日、週明けの臨時国会の召集を控え、衆院の小委員会で国会改革の協議をすることで合意した。ただし、改革の中身は、自民党が「首相出席の削減」を志向しているのに対し、野党側は「首相の質疑の充実」を主張している。消費減税や衆院議員定数削減で与野党は対立しているが、それらの舞台となる国会審議そのもののあり方も大きな焦点に浮上してきた。
+各野党の衆参の国会対策委員長は2日、国会内で会談し、①消費減税に関する丁寧な審議と説明を要求②比例区のみの定数削減の阻止③DX（デジタル化）といった国会改革――の3点で合意。衆院で与党側に申し入れ、衆院議院運営委員会の小委員会で国会改革の議論を進めることで一致した</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVB22HKPVB2UTFK016M.html</guid><pubDate>Fri, 02 Oct 2026 22:00:58 +0000</pubDate></item><item><title>「たった7分」の夜の習慣。世界の一流は、平日夜をどう設計しているのか</title><link>https://studyhacker.net/shinji-koshikawa-interview602</link><description>[score: 0.883] 帰宅して、夕食を済ませて、気づけばスマホでYouTubeを見ている。もう寝なければと思いながら、あと1本だけ。ベッドに入ると、今日の仕事の続きや、上司に言われた一言が頭の中をぐるぐる回って、なかなか眠れない……。 前回、世界の一流は平日の夜を「仕事の余り」ではなく、翌日の成果のために設計している、という話を聞きました。では、彼らは帰宅してから寝るまでのあいだに、具体的に何をしているのでしょうか。 日本企業129社428名の検証で最も効果が大きかった習慣と、越川さん自身が続けている寝る前7分の「ブレインダンプ」を中心に、『世界の一流は「平日」の夜に何をしているのか』（クロスメディア・パブリッシン</description><guid isPermaLink="false">https://studyhacker.net/shinji-koshikawa-interview602</guid><pubDate>Fri, 02 Oct 2026 22:38:40 +0000</pubDate></item><item><title>北朝鮮、弾道ミサイル発射か すでに落下したもようと日本の防衛省（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1BdUZlMmpRV0dTc2RlbjVmSmVsdjg2MFNGTkZISGl4bEIyMTd2V0t1N3RRM3B0cnIyNXlqY3gteExJX1ZIejg4ZnNmV3NTeURydWdrVlVqQjVXdC1kSFhGRHBiSnFqWXpVTFQ5VHpjVXFiRmVvWmFnTDRPWE00bm8?oc=5</link><description>[score: 0.883] 北朝鮮、弾道ミサイル発射か すでに落下したもようと日本の防衛省（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE1BdUZlMmpRV0dTc2RlbjVmSmVsdjg2MFNGTkZISGl4bEIyMTd2V0t1N3RRM3B0cnIyNXlqY3gteExJX1ZIejg4ZnNmV3NTeURydWdrVlVqQjVXdC1kSFhGRHBiSnFqWXpVTFQ5VHpjVXFiRmVvWmFnTDRPWE00bm8?oc=5</guid><pubDate>Fri, 02 Oct 2026 22:41:45 +0000</pubDate></item><item><title>テスラ 世界の新車販売台数減少“去年の駆け込み需要の反動”</title><link>https://news.web.nhk/newsweb/na/nd-20261003de54014</link><description>[score: 0.883] アメリカのEV＝電気自動車メーカー「テスラ」の、先月までの3か月間の新車販売台数は前の年の同じ時期と比べて2.1％減少しました。去年、アメリカでEV購入の税制優遇の廃止を前に駆け込み需要があり、その反…
 あわせて読みたい
-千葉 印旛沼の決壊“避難の呼びかけ”自治体によって対応に差
-10月2日 19:55
-インフルエンザ患者数 前週から減少も依然として多い状況続く
-10月2日 15:53
-青森みちのく銀 岩手銀 秋田銀 経営統合の検討開始を表明
-10月2日 18:35
-飲酒乗務問題の東海汽船に20日間の船舶使用停止命令 国交省
-10月2日 19:53
-「副首都」要件案判明 人口全国の1.2％以上</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261002de53849</guid><pubDate>Fri, 02 Oct 2026 10:57:29 +0000</pubDate></item><item><title>「タイムズカー」免許画像など漏えい 集団訴訟の登録者1万人超</title><link>https://news.web.nhk/newsweb/na/nd-20261002de53951</link><description>[score: 0.883] カーシェアリングサービス「タイムズカー」のシステムが不正アクセスを受け、運転免許証の画像などが漏えいした問題で、集団訴訟に向けて弁護士が開設したサイトに登録した人が1万人以上にのぼることが分かりました…
-注目ワード
+アメリカ中間選挙まで1か月 共和党と民主党の選挙戦激化
+10月3日 4:50
+アメリカ就業者数 市場予想大幅に下回る FRB利上げ観測が後退
+10月3日 1:19
+タイとミャンマー国境付近で日本人2人を保護 詐欺拠点滞在か
+10月3日 2:07
+北朝鮮キム・ヨジョン氏「地雷爆発は言いがかり」新たな談話
+10月2日 23:42
+イスラエル 一部メディア報道「単独犯の可能性」フラ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261003de54014</guid><pubDate>Fri, 02 Oct 2026 23:19:55 +0000</pubDate></item><item><title>来週の相場見通し（10/5～10/9）①『米国雇用統計とハロウイーン商戦』</title><link>https://note.com/cjdbx883/n/n73f9a6ec78b7</link><description>[score: 0.885] １．はじめに 昨日の米国雇用統計は、8月の統計とは一転して、マイルドな内容だった。但し、ヘッドラインほど米国労働市場が悪化しているわけではない。また、賃金インフレの鈍化が確認されたことから、Fedにとっては、急いで利上げを継続するというより、少し様子を見ることができる安心の内容であったことだろう。今回は、まず米国雇用統計について解説する。また、米国のハロウイーン商戦に向けた動向も取り上げる。 続きをみる</description><guid isPermaLink="false">https://note.com/cjdbx883/n/n73f9a6ec78b7</guid><pubDate>Fri, 02 Oct 2026 21:30:40 +0000</pubDate></item><item><title>激務だと50代くらいで本当に死ぬ…超人的だった教授も死んだ…休息を軽視しないほうがいい「マジで仕事が原因で死ぬのだけは嫌」</title><link>https://togetter.com/li/2753337</link><description>[score: 0.885] 激務の人は50代くらいで命を落とす可能性が高い？
+@er_gary_er 50代ぐらいから周りで亡くなる人ぼちぼち出てきますよね。もともと血管疾患や代謝異常、がんの罹患率も跳ね上がってくる年頃なので、健康は大事
+2026-10-02 21:22:30@guerrier331 @er_gary_er 癌や心筋梗塞など疾患です。 年齢が上がるほど罹患率高くなるのがわかると思います。 心筋梗塞などは自分で調べて知識の足しにしてください ganjoho.jp/public/qa_link…
+2026-10-02 23:03:59医者の不養生というか、医者の激務っぷりを見るとそりゃあそうだよなってなる </description><guid isPermaLink="false">https://togetter.com/li/2753337</guid><pubDate>Fri, 02 Oct 2026 23:14:05 +0000</pubDate></item><item><title>政府・与党 消費税法案成立を 野党 充実審議 農相発言もただす</title><link>https://news.web.nhk/newsweb/na/nd-20261003de53997</link><description>[score: 0.885] 政府・与党は、5日召集される臨時国会で食料品の消費税減税に関する法案などを成立させるため、野党に協力を呼びかけています。
+これに対し野党側は充実した審議を求めているほか、簗農林水産大臣の地元の道路に…
 あわせて読みたい
-タイムズカー 運転免許画像などの漏えいは160万件 どうすれば
-9月29日 22:54
-佐川急便に不正アクセス 住所など個人情報が漏えいか
-10月2日 0:37
-インフルエンザ患者数 前週から減少も依然として多い状況続く
-10月2日 15:53
-青森みちのく銀 岩手銀 秋田銀 経営統合の検討開始を表明
-10月2日 18:35
-飲酒乗務問題の東海汽船に20日間の船舶</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261002de53951</guid><pubDate>Fri, 02 Oct 2026 10:57:29 +0000</pubDate></item><item><title>AI変革を阻むのは従業員の抵抗ではない、リーダーの「静かな慣性」だ</title><link>https://forbesjapan.com/articles/detail/105888?s=ns</link><description>[score: 0.883] AIのチェンジマネジメント戦略では、従業員が抵抗することを前提としがちである。そのため、トレーニングやコミュニケーション計画、導入ダッシュボードなどを用いて、従業員を巻き込むことが実際の業務となる。しかし、その前提は本末転倒である。
-職場のAIに関するマッキンゼーの調査では、「拡大への最大の障壁は従業員（彼らは準備ができている）ではなく、舵取りのスピードが遅すぎるリーダーである」ことが明らかになった。従業員の47%が1年以内に日常業務の3分の1以上でAIを使用するようになると考えているのに対し、そう考えるリーダーはわずか20%にとどまった。ボストン コンサルティング グループ（BCG）の調査も</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105888?s=ns</guid><pubDate>Fri, 02 Oct 2026 08:41:54 +0000</pubDate></item><item><title>AI時代に問われる「判断力」：なぜ変革にはより良い意思決定が必要なのか</title><link>https://forbesjapan.com/articles/detail/105892?s=ns</link><description>[score: 0.883] シニアリーダーたちと対話する中で、私はAI変革をめぐるある緊張感に気づいた。組織は本格的な投資を行い、より多くのシグナルやパターンが表面化している。しかし、そうしたあらゆる情報をめぐる意思決定の質は、情報の量に伴って向上しているとは言えない。情報はより速く届くようになっているが、届いた情報をどう解釈するかという能力は、同じペースでは発達していないのだ。このギャップこそが、多くのAI投資が組織の期待していたような優位性に結びついていない原因である。
-これは、テクノロジー自体の問題ではない。現在、大企業に導入されているAIシステムは極めて有能であり、驚くべき実力を発揮することも珍しくないからだ。し</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105892?s=ns</guid><pubDate>Fri, 02 Oct 2026 11:11:31 +0000</pubDate></item><item><title>ホルムズ海峡のＬＮＧ船通過、9月はイラン戦争開始後最多 - Reuters</title><link>https://news.google.com/rss/articles/CBMie0FVX3lxTE1XeU4zV2hZYUZaTFRGd0hDY1FHRXVPU096VS1abEVGaHh3U2ZyaFF6ZGR1dkJmdno0M20tQ0NEWjgzMkZnQ1RqOHJkQW9xMlJYaHp2eXZ0VUFMckw1SGhZRTdkQVVBd2lUUHYzeV83enphdVluamtmRWY0UQ?oc=5</link><description>[score: 0.884] ホルムズ海峡のＬＮＧ船通過、9月はイラン戦争開始後最多 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMie0FVX3lxTE1XeU4zV2hZYUZaTFRGd0hDY1FHRXVPU096VS1abEVGaHh3U2ZyaFF6ZGR1dkJmdno0M20tQ0NEWjgzMkZnQ1RqOHJkQW9xMlJYaHp2eXZ0VUFMckw1SGhZRTdkQVVBd2lUUHYzeV83enphdVluamtmRWY0UQ?oc=5</guid><pubDate>Fri, 02 Oct 2026 09:40:43 +0000</pubDate></item><item><title>業務知識やデータを AI に対して安全に取り込める Microsoft Work IQ</title><link>https://qiita.com/yoshioterada/items/3ac3c05be12e51ea05b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] 1. はじめに
-最近、X(ex-Twitter)で、@super_bonochin さんが WorkIQ を理解しるための、とても素晴らしい動画を作成してくださいました。とてもわかりやすい動画ですので、ぜひご覧ください。
-Work IQ のさらに深掘り
-今日は、Work IQ についてさらに深掘りしていきたいと思います。
-これから深掘りをしていくため、ストーリーに沿って説明をしていきたいと思います。
-ところで
-AI エージェントやアプリケーションを開発するとき、必要な情報は最初から仕様書にまとまっているとは限りません。実際の業務では、仕様書としてまだ綺麗にまとまっていなかったり、次のような場所</description><guid isPermaLink="false">https://qiita.com/yoshioterada/items/3ac3c05be12e51ea05b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 02 Oct 2026 08:37:10 +0000</pubDate></item><item><title>Claude Code の mod を1本書いて測った。公式が言う対応版は、実際には1つ前から動く</title><link>https://qiita.com/suwa_nobu/items/981419874758372f65eb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] Claude Code 2.1.287（2026-10-01）で mod が入りました。changelog の1行目はこれです。
-Added Claude Mods: plugins may now modify deeper behavior
-mod はプラグインの中で動く JavaScript の関数です。設定ファイルの hook と違って
-Claude Code のプロセスの中で動き、ツール呼び出し・プロンプト送信・画面描画に割り込めます。
-1本書いて、21回測りました。
-mod は何を捕まえたか ツール呼び出し・プロンプト送信・スピナー描画
-どれも1行のフックで取れて、ファイルに書き出</description><guid isPermaLink="false">https://qiita.com/suwa_nobu/items/981419874758372f65eb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 02 Oct 2026 08:37:10 +0000</pubDate></item><item><title>GitHub Copilot SDK のランタイムとエージェントループについて</title><link>https://qiita.com/chomado/items/8830d0e9f4b75a7ea2a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] これは、『Let's Learn GitHub Copilot SDK (English)』(2026/09/25) の配信アーカイブを見ながら、
-GitHub Copilot SDK (自分のアプリに Copilot の機能を組み込める SDK) について学ぶ記事です。
-スピーカーは、
-Microsoft Cloud Advocate の Matt さんと
-GitHub Copilot SDK のプロダクトマネージャーの Patrick さんです。
-以前は CLI SDK と呼ばれていたこのツールの進化や、今後導入される機能、そして SDK の背後にあるランタイムの仕組みについて詳しく解説し</description><guid isPermaLink="false">https://qiita.com/chomado/items/8830d0e9f4b75a7ea2a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 02 Oct 2026 08:37:10 +0000</pubDate></item><item><title>【AI・YouTube】最新の勉強ツールの落とし穴！　知識を確実に身につける「ちょっとしたコツ」3選</title><link>https://studyhacker.net/reference-book-input</link><description>[score: 0.886] オンライン講座や語学アプリ、AIの解説。YouTube、ポッドキャスト、Kindleなど、いつでもどこでも手軽に学べるツールがあふれています。 しかし、こうしたツールを活用しているわりに、「思ったほど身についていない」と感じる場面はないでしょうか。 じつは、こうした便利なツールは、使い方を間違えているとインプットの質が下がってしまうのです。ツールに振り回されず、知識を頭にしっかり焼き付けるには「ちょっとしたコツ」が必要。あなたはそのコツを使えているでしょうか？ 倍速再生は知識が身につかない！ AIのまとめをみるだけはNG！ ブックマークしただけで「勉強した気」になってしまう！ よくある質問（F</description><guid isPermaLink="false">https://studyhacker.net/reference-book-input</guid><pubDate>Fri, 02 Oct 2026 10:28:53 +0000</pubDate></item><item><title>米30年住宅ローン金利7.28％、3年ぶり高水準 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPWGhOSHkzTnNRcWFBaFZDSDZyNkFNazJJcklES0RxUzB6cjUzRm5GeTVXbjB6bzA4U2lCcTBRYlU4V2lLeVV1WVZnYTl5WVVQd2E0dGVaWHNOMjNEMExodjV2MG5xX3JweWo4T3FyN1U1NHJlWkpGanlYQUM4M2x3NjJOaVhFQQ?oc=5</link><description>[score: 0.886] 米30年住宅ローン金利7.28％、3年ぶり高水準 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxPWGhOSHkzTnNRcWFBaFZDSDZyNkFNazJJcklES0RxUzB6cjUzRm5GeTVXbjB6bzA4U2lCcTBRYlU4V2lLeVV1WVZnYTl5WVVQd2E0dGVaWHNOMjNEMExodjV2MG5xX3JweWo4T3FyN1U1NHJlWkpGanlYQUM4M2x3NjJOaVhFQQ?oc=5</guid><pubDate>Fri, 02 Oct 2026 02:39:22 +0000</pubDate></item><item><title>eムック 『テクノロジーが問い直す 新しい「自然」』特集号</title><link>https://www.technologyreview.jp/s/391534/emook-vol-89-has-just-arrived/</link><description>[score: 0.887] eムック 『テクノロジーが問い直す 新しい「自然」』特集号
-MITテクノロジーレビュー［日本版］はeムック Vol.89 / 2026.09をリリースした。特集は『テクノロジーが問い直す 新しい「自然」』。 by MIT Technology Review Japan2026.10.02
-人間がテクノロジーで自然をどう改変し、その上にどんな生活を築いてきたか——本誌はずっとそれを記録してきた。だが、記録が積み上がるほど、問いは足元に返ってくる。絶滅した種を復元し、気候にまで介入しようとしている現代において、「自然」とは何を指すのか。手つかずの自然を守るという発想は、守るべきものがもう残っていな</description><guid isPermaLink="false">https://www.technologyreview.jp/s/391534/emook-vol-89-has-just-arrived/</guid><pubDate>Fri, 02 Oct 2026 10:21:34 +0000</pubDate></item><item><title>熱狂の生成AIより手近な果実、予測AIが企業にもたらす実利</title><link>https://forbesjapan.com/articles/detail/105886?s=ns</link><description>[score: 0.888] 2種類のAIが、全面的な競争に突入しているように見える。だが、産業界で最も大きな意味を持つ争いは、そのすぐ水面下にある。
-この競争の一方に立つのは、流暢な文章や即座に生成されるコード、人間のような対話で人々を魅了する生成AIだ。もう一方に立つのは、派手さはないものの、融資の可否や機械の故障予測、顧客の離脱予測などを数十年間にわたり担ってきた実力派の予測AIである。現在、生成AIがスポットライトを浴びている。しかし、舞台上の華やかさと実質的な価値を混同してはならない。企業活動において実用的な価値をもたらすという点において、予測AIはこの戦いに敗れておらず、確固たる地位を維持している。
-異なる2つ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105886?s=ns</guid><pubDate>Fri, 02 Oct 2026 08:41:54 +0000</pubDate></item><item><title>Claude Codeが拡張機能「mod」対応、UIや動作をカスタマイズ。Claude書かせて作成も</title><link>https://www.techno-edge.net/article/2026/10/02/5550.html</link><description>[score: 0.889] Anthropicが、AIコーディングツール「Claude Code」の外観や動作をユーザーの好みで拡張できる新機能「mod」を公開しました。
-CLI版とデスクトップアプリで、Claude Code v2.1.287以降ならば設定不要で使えます。
-■ プロンプトもツール呼び出しも画面も書き換え可能
-modでできることの例として挙げられたのは、
-・Blast Radius (影響範囲)：消去やリセットといったコマンドの実行前に、影響を受けるファイル一覧を表示して確認を求める。
-・Token Weather (トークン天気予報)：残りコンテキストウィンドウを天気に見立てて直感的に表示。余裕があれば</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/10/02/5550.html</guid><pubDate>Fri, 02 Oct 2026 06:55:07 +0000</pubDate></item><item><title>GoogleのAIが学校教育に浸透する中で子どもの認知機能や成績に悪影響が出ていると保護者や教師の反発が強まる</title><link>https://gigazine.net/news/20261002-google-push-ai-gemini-education-schools/</link><description>[score: 0.890] GoogleのAIが学校教育に浸透する中で子どもの認知機能や成績に悪影響が出ていると保護者や教師の反発が強まる
-近年は学校に通う子どもたちに学習用のノートPCやChromebookが配布されることが一般的となっており、調べ物や学習のサポートなどに広く利用されています。ところが、ノートPCやスマートフォンを通じてGoogle製AIに依存する子どもが増加し、保護者や教師の反発が強まっていると経済紙のウォール・ストリート・ジャーナルが報じました。
-Google Pushed Gemini AI Into Schools—and Even Students Say It’s Gone Too Far </description><guid isPermaLink="false">https://gigazine.net/news/20261002-google-push-ai-gemini-education-schools/</guid><pubDate>Fri, 02 Oct 2026 10:01:52 +0000</pubDate></item><item><title>1万800円の「Xiaomi Smart Band 10 Pro」レビュー。薄型・軽量で一日中着けやすい</title><link>https://www.businessinsider.jp/article/2610-xiaomi-smart-band-10-pro-review/</link><description>[score: 0.890] スマートウォッチの健康管理機能には興味がある。でも、毎日充電するのは面倒で、腕にはできるだけ軽いものを着けたい。そんな人にとって、スマートバンドはちょうどいい選択肢だ。
-シャオミが5月に発売した「Xiaomi Smart Band 10 Pro」の直販価格は1万800円（税込）。それでいて、心拍数や睡眠のモニタリング、150種類以上のスポーツモード、GPSを使った運動記録などを備える。前モデルより薄くなり、睡眠中も含めて一日中着けやすくなったのも特徴だ。
-高価なスマートウォッチほどの機能はいらないが、健康管理や運動の記録はしっかり残したい。そんな人に向くスマートバンドなのか、実際に使って確かめ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-xiaomi-smart-band-10-pro-review/</guid><pubDate>Fri, 02 Oct 2026 10:16:41 +0000</pubDate></item><item><title>AIエージェントに自社データを触らせる前に問うべき4つの質問</title><link>https://forbesjapan.com/articles/detail/105891?s=ns</link><description>[score: 0.890] プロダクト、データ、プライバシーが交差する領域で20年にわたり仕事をしてきて、経営幹部が同じ意味で使いがちな3つの言葉が、実はまったく同じ結果を求めているわけではないことを学んだ。プライバシー。インテグリティ。信頼である。
-これらは同じではない。そしてその違いこそ、多くのAIガバナンスがつまずく場所である。
-インテグリティは開示によって成り立つ。ある数字を信頼できるのは、それがどこから来たのか、誰が触れたのか、誰かが変更したのかを確認できる場合だけである。監査証跡、来歴、記録である。プライバシーはその反対の本能によって動く。厳重に閉じ、見せるものを減らし、不要なものは忘れるということだ。
-すべ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105891?s=ns</guid><pubDate>Fri, 02 Oct 2026 11:11:31 +0000</pubDate></item><item><title>米30年住宅ローン金利7.28％、3年ぶり高水準 - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNVktNSGV6Q0tZa3J0R2FYNzMzMHRhYWNmRlp0MkRUcl9uNjB6dUdqelVBWGhxSzRocjdwd0hQUmdYZExuUFI1cFkzN1dJQUJUV1NQYmFwcnMyb3JITHJrMkpLV2NRRVNJYmdwLV9keXdEd0hkOW52Wk9sWkR3MWNPQlFR0gGHAUFVX3lxTFB6Q2xXdlRCZWFoRnRhU1MwMk16ajJYNEd2eTJOOHJQQjF5QWhtTW5sMi04UzdsaTQzcVVkZzdYZVhXdTRSYjBraXNZaG44WFdkajN4N05ZeVRFN2hsNlZXZFk1MjlFd1ZvUXFnaGVFQ3k4eWFwZzZsdHBOSmZWTG56d0JhMUFiOA?oc=5</link><description>[score: 0.891] 米30年住宅ローン金利7.28％、3年ぶり高水準 ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxNVktNSGV6Q0tZa3J0R2FYNzMzMHRhYWNmRlp0MkRUcl9uNjB6dUdqelVBWGhxSzRocjdwd0hQUmdYZExuUFI1cFkzN1dJQUJUV1NQYmFwcnMyb3JITHJrMkpLV2NRRVNJYmdwLV9keXdEd0hkOW52Wk9sWkR3MWNPQlFR0gGHAUFVX3lxTFB6Q2xXdlRCZWFoRnRhU1MwMk16ajJYNEd2eTJOOHJQQjF5QWhtTW5sMi04UzdsaTQzcVVkZzdYZVhXdTRSYjBraXNZaG44WFdkajN4N05ZeVRFN2hsNlZXZFk1MjlFd1ZvUXFnaGVFQ3k4eWFwZzZsdHBOSmZWTG56d0JhMUFiOA?oc=5</guid><pubDate>Fri, 02 Oct 2026 02:39:22 +0000</pubDate></item><item><title>主要銀行の「住宅ローン」、2026年10月の金利はどうなった？ フラット35は半年で+1.34％を記録</title><link>https://www.businessinsider.jp/article/2610-major-bank-mortgage-rates-what-happened-in-october-2026/</link><description>[score: 0.891] - 日銀は9月18日、政策金利を3カ月ぶりに0.25%引き上げ、1.25%とした。
-- この状況を受け、住宅ローン金利は予想もできなかったほどの上昇局面に入っている。
-- 現時点の主要銀行の住宅ローン金利を一覧で紹介し、この半年での変化も示す。
-「上がるかどうか」ではなく「どれだけ上がったか」の時代に。
-かつての超低金利時代は遠い過去となり、半年あるいは3カ月刻みで政策金利が引き上げられるようになった2026年。前年12月に0.75％となった政策金利は、2026年6月には1％に突入。そして9月には1.25％への追加利上げが行われた。
-こうした状況を受け、毎年4月と10月に見直しが実施される住宅</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-major-bank-mortgage-rates-what-happened-in-october-2026/</guid><pubDate>Fri, 02 Oct 2026 09:15:37 +0000</pubDate></item><item><title>スピードより信頼：AI創業者がコアプラットフォームをリリース前に検証すべき理由</title><link>https://forbesjapan.com/articles/detail/105889?s=ns</link><description>[score: 0.891] AI創業者はいずれ、同じ難問に直面する。自分たちはただ速く動いているだけなのか、それとも肝心な場面で人々が信頼できるものを築いているのか。その違いは見落としやすい。
-切れ味の鋭いデモは進展のように見える。迅速なローンチは規律のように感じられる。投資家の熱狂は証明のように映ることもある。しかし、中核となるAIプラットフォームは単なる製品リリースではない。それは、人々が意思決定を行い、リスクを管理し、その企業が信頼に足るかどうかを判断する際の基盤になる。
-チームがその基盤を本当に理解し、テストし、適切なガードレールを設ける前に提供してしまえば、問題は当初、表面化しないかもしれない。だが後になって、</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105889?s=ns</guid><pubDate>Fri, 02 Oct 2026 11:11:31 +0000</pubDate></item><item><title>AIを業務改善につなげるための5ステップ ― サービスデザインを活用した要件定義</title><link>https://qiita.com/TamakiSeki/items/ac268db56f92b991970b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.892] はじめに
-生成AIやAIエージェントを業務に活用しようとすると、「どの業務に適用するか」「人とAIの役割をどう分けるか」で迷うことがあります。
-文章作成や要約など個人単位の作業にはAIを導入しやすい一方、AIエージェントを作ること自体が目的になると、個別タスクの効率化にとどまり、業務全体の改善につながらないことがあります。
-この課題と、AIをワークフロー・意思決定・ナレッジまで含めて設計する考え方については、以下の記事で詳しく紹介されています。
-本記事では、この考え方を 「実際の業務でどう進めるか」 に焦点を当てます。
-そこで活用するのが、サービスデザインの考え方です。
-サービスデザインでは、</description><guid isPermaLink="false">https://qiita.com/TamakiSeki/items/ac268db56f92b991970b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 02 Oct 2026 08:37:10 +0000</pubDate></item><item><title>千葉 印旛沼の決壊“避難の呼びかけ”自治体によって対応に差</title><link>https://news.web.nhk/newsweb/na/nd-20261002de53805</link><description>[score: 0.892] 堤防が決壊した千葉県印旛沼周辺の浸水被害についてNHKが取材したところ、避難情報の発表基準が明確に定まっておらず、避難の呼びかけ方が自治体ごとに異なっていたことがわかりました。
-千葉県では今後、対応…
-あわせて読みたい
-インフルエンザ患者数 前週から減少も依然として多い状況続く
-10月2日 15:53
-青森みちのく銀 岩手銀 秋田銀 経営統合の検討開始を表明
-10月2日 18:35
-飲酒乗務問題の東海汽船に20日間の船舶使用停止命令 国交省
-10月2日 19:53
-「副首都」要件案判明 人口全国の1.2％以上など 4市満たす
-10月2日 2:30
-福岡県議会 自民県議が議長就任前のゴルフ会費用</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261002de53805</guid><pubDate>Fri, 02 Oct 2026 10:57:29 +0000</pubDate></item><item><title>消費税減税法案 自民合同会議で了承 支援金対象明示求める声も</title><link>https://news.web.nhk/newsweb/na/nd-20261002de53932</link><description>[score: 0.893] 食料品の消費税減税に関する法案について、自民党の合同会議が開かれ、出席者から、所得に応じた支援金の対象範囲や金額を具体的に示すべきだといった指摘が出されましたが、法案自体は了承されました。
-政府は…
-あわせて読みたい
-消費税減税と所得に応じた給付の法案 概要判明
-10月1日 5:08
-臨時国会 消費税減税法案など21の法案提出予定 政府
-10月1日 15:42
-高市首相 "確実に財源確保 国民生活にマイナスの影響なし”
-10月1日 20:36
-与党“法案審議協力を” 野党“丁寧な審議を” 国対委員長会談
-10月2日 15:37
-衆参 野党国会対策委員長ら“消費税減税法案 丁寧な審議を”
-10月</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261002de53932</guid><pubDate>Fri, 02 Oct 2026 09:57:03 +0000</pubDate></item><item><title>高市首相 カタール首相と会談 中東情勢早期沈静化など緊密連携</title><link>https://news.web.nhk/newsweb/na/nd-20261002de53926</link><description>[score: 0.896] 高市総理大臣は、カタールのムハンマド首相と会談し、中東情勢をめぐる事態の早期沈静化とホルムズ海峡の航行の自由の回復に向けて緊密に連携していくことを確認しました。
-高市総理大臣とカタールの外相を兼務…
-あわせて読みたい
-インフルエンザ患者数 前週から減少も依然として多い状況続く
-10月2日 15:53
-青森みちのく銀 岩手銀 秋田銀 経営統合の検討開始を表明
-10月2日 18:35
-飲酒乗務問題の東海汽船に20日間の船舶使用停止命令 国交省
-10月2日 19:53
-「副首都」要件案判明 人口全国の1.2％以上など 4市満たす
-10月2日 2:30
-福岡県議会 自民県議が議長就任前のゴルフ会費用負</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261002de53926</guid><pubDate>Fri, 02 Oct 2026 09:27:34 +0000</pubDate></item><item><title>Claude CodeのUIや動作をTypeScriptでカスタマイズできる「Mods」正式リリース</title><link>https://gihyo.jp/article/2026/10/claude-code-mods?utm_source=feed</link><description>[score: 0.897] Anthropicは2026年10月1日、TypeScriptの記述でClaude Codeの動作をカスタマイズできる「Mods」の機能が正式に追加されたことを発表した。
-Mods機能ではTypeScriptで書かれたコードである「mod」を使って、Claude Codeのプロンプトの書き換えやUIの追加/変更、組み込み機能の置き換え、さらに全く新しい機能を追加することができる。modはプラグインとして提供され、通常のプラグインと同様にインストール・共有が可能。Claude Code 2.1.287以降のバージョンでデフォルトで有効となっており、使用するための設定は必要ない。CLIとデスクトッ</description><guid isPermaLink="false">https://gihyo.jp/article/2026/10/claude-code-mods?utm_source=feed</guid><pubDate>Fri, 02 Oct 2026 09:15:26 +0000</pubDate></item><item><title>テキストを生成しない爆速AI「意思決定モデル」が続々。Clefなど3本まとめ</title><link>https://pc.watch.impress.co.jp/docs/news/2145211.html</link><description>[score: 0.899] ニュース
-テキストを生成しない爆速AI「意思決定モデル」が続々。Clefなど3本まとめ
-2026年10月2日 15:18
-テキストを1トークンも生成せず、分類やルーティングといった判断だけを高速に返す「意思決定モデル」が、にわかに盛り上がりを見せている。Typesafe AIの「Jev」が火付け役となったこのジャンルに、互換モデルや対応実装が相次いで登場した。
-意思決定モデルは、状況と型付きの質問を入力すると、選択肢ごとの確率を1回の推論で返すモデル。LLMのような自由なテキスト生成を行なわないが、代わりに高速で、出力の解析も不要なことから、エージェントの分岐処理やガードレール、チケットの振り</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145211.html</guid><pubDate>Fri, 02 Oct 2026 11:35:03 +0000</pubDate></item><item><title>Claude CodeのUIや動作をTypeScriptでカスタマイズできる「Mods」正式リリース | gihyo.jp</title><link>https://gihyo.jp/article/2026/10/claude-code-mods</link><description>[score: 0.899] Claude CodeのUIや動作をTypeScriptでカスタマイズできる「Mods」正式リリース | gihyo.jp Anthropicは2026年10月1日、TypeScriptの記述でClaude Codeの動作をカスタマイズできる「Mods」の機能が正式に追加されたことを発表した。 Customize Claude Code with mods in TypeScript | Claude by Anthropic... t-wada</description><guid isPermaLink="false">https://gihyo.jp/article/2026/10/claude-code-mods</guid><pubDate>Fri, 02 Oct 2026 07:48:24 +0000</pubDate></item></channel></rss>
+金融庁 プルデンシャル生命に業務停止命令を検討
+10月2日 21:20
+サッカー日本代表 久保建英選手と俳優 福原遥さんが結婚を発表
+10月2日 23:28
+津市で住宅火災 4人の遺体見つかる 子ども4人と連絡取れず
+10月2日 20:18
+台風27号 4日に小笠原近海へ進む見込み 今後の情報に注意
+10月2日 19:19
+簗農相が会見「国交省に問い合わせ 党支部会合で報告」
+</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261003de53997</guid><pubDate>Fri, 02 Oct 2026 22:50:17 +0000</pubDate></item><item><title>タイムズカーの会員情報漏えいのニュース→TOPPAN「タイムズがデカいのやらかしたぞ！！今のうちにリリースしろ！！」企業が続々「俺も！！！」</title><link>https://togetter.com/li/2752131</link><description>[score: 0.886] タイムズカーの会員情報漏えいのニュース→TOPPAN「タイムズがデカいのやらかしたぞ！！今のうちにリリースしろ！！」企業が続々「俺も！！！」 AIと人事に苦しむマーモット @Duetousandyou トッパン「タイムズがデカいのやらかしたぞ！！ 今のうちにリリースしろ！！」 レゴランド「俺も！」 日本郵便「俺も！」 京王グループ「俺も！」 東京メトロ「俺も！... maname おれもおれも</description><guid isPermaLink="false">https://togetter.com/li/2752131</guid><pubDate>Fri, 02 Oct 2026 23:59:43 +0000</pubDate></item><item><title>アマゾンとマイクロンの興味深いニュース</title><link>https://note.com/cjdbx883/n/n7dfb4f5f5ed1</link><description>[score: 0.887] １．はじめに 市場でいま何が起きているのか。 注目ニュース、重要な経済指標、政策発言、企業決算、相場の値動きなどを、1000文字程度でコンパクトに解説します。（今回はちょっと長いです） このメンバーシップは、投資判断のプロセスを深く学ぶ「投資思考の再現性」を目的としたものではありません。むしろ、日々のマーケットで見逃せない材料を、できるだけ速報性を持って整理し、「なぜ市場が反応しているのか」「何に注目すべきか」を短時間でつかむためのコンテンツです。 忙しい中でも、重要なニュースやデータの意味を素早く確認したい方、相場の流れを日々キャッチアップしたい方に向けて、マーケットの注目点をわかりやすくお</description><guid isPermaLink="false">https://note.com/cjdbx883/n/n7dfb4f5f5ed1</guid><pubDate>Fri, 02 Oct 2026 22:30:11 +0000</pubDate></item><item><title>ユニットテストは不要なのか?</title><link>https://qiita.com/aganesy/items/fac4efe52b9f5b34fb33?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.888] 「ユニットテスト不要論」は、AI時代にはユニットテストの価値が低くなる、という意見です。
+英語圏のXでの投稿が日本語圏にも広まり、XやZennで議論されています。
+テスト全体をなくすというより、AIが作る意味のないテストを減らし、E2Eで利用者から見た動作を確かめようという主張です。
+私は、AIを使う開発でもユニットテストは絶対に必要だと考えています。
+AIへの期待が高すぎる
+AIがバグのあるコードや質の低いテストを書くと、失敗が目につきます。でも、ミスの割合と件数は分けて考える必要があります。
+ミス率が低くても、書く量が多ければミスの数は増えます。人間とAIのミス率は仕事の内容によって変わる</description><guid isPermaLink="false">https://qiita.com/aganesy/items/fac4efe52b9f5b34fb33?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 02 Oct 2026 20:17:17 +0000</pubDate></item><item><title>AI時代のコンテンツマーケ！ 現場の「一次情報」「独自の経験」から最高のコンテンツを作る方法【海外＆国内SEO情報ウォッチ】</title><link>https://www.suzukikenichi.com/blog/seowatch20261002/</link><description>[score: 0.889] Web担当者Forum の連載コラム、「海外&amp;国内SEO情報ウォッチ」を更新しました。
+今週のピックアップはこちらです。
+- AI時代のコンテンツマーケ！ 現場の「一次情報」「独自の経験」から最高のコンテンツを作る方法
+ほかにも、ウェブサイト運営や SEO に役立つ、次のような情報を取り上げました。
+- 【AI検索のリアル】ChatGPTやGoogleは商品をおすすめするとき何を見ている？ SEO担当者が知っておくべきAIの挙動
+- AI検索の露出率は2段階以上で考えるべき ―― 買い物は1問1答ではなく「対話」だから
+- 生成AIはGoogle検索と同じ進化をして小細工は通用しなくなる ――</description><guid isPermaLink="false">https://www.suzukikenichi.com/blog/seowatch20261002/</guid><pubDate>Fri, 02 Oct 2026 22:00:05 +0000</pubDate></item><item><title>Strands Decider 2Bについて理解する</title><link>https://zenn.dev/fusic/articles/db6e62832a4a1f</link><description>[score: 0.889] はじめに Fusicのレオナです。 Strands Agentsは、AWSが開発し、オープンソースとして公開しているAIエージェント開発用SDKです。LLMに与える指示と利用可能なツールを定義することで、状況に応じてツールを選び、その実行結果を踏まえながら処理を進めるエージェントを構築できます。AWS専用のSDKではなく、Amazon Bedrock以外のモデルAPIやローカルモデルにも対応しています。 今回のブログで取り上げる「Strands Decider 2B」は、Strandsの実験的なプロジェクトを扱うStrands Labsから公開された判断用モデルです。Strands ...</description><guid isPermaLink="false">https://zenn.dev/fusic/articles/db6e62832a4a1f</guid><pubDate>Fri, 02 Oct 2026 22:04:15 +0000</pubDate></item><item><title>2026年ハロウィン商戦にAIの波、そしてミューズ（Muse）という参入者</title><link>https://note.com/cjdbx883/n/n995f121fac04</link><description>[score: 0.889] 米国の2026年ハロウィン商戦で、非常に象徴的な数字が出てきた。全米小売業協会（NRF）の調査によれば、消費者の47％がハロウィンの買い物にAIを利用しているという。用途を見ると、「アイデアや企画を考える」が34％、「商品調査やおすすめを得る」が32％となっている。重要なのは、AIが単に商品検索の道具として使われているのではないことだ。むしろ、「今年は何をしようか」「どんな衣装がいいか」「何を買うべきか」といった、消費者の意思決定のかなり上流部分に入り込んでいる。 この47％という数字が驚異的なのは、生成AIの歴史が極めて短いからだ。ChatGPTが一般公開されたのは2022年11月であり、ま</description><guid isPermaLink="false">https://note.com/cjdbx883/n/n995f121fac04</guid><pubDate>Fri, 02 Oct 2026 22:30:11 +0000</pubDate></item><item><title>ＮＹ外為市場＝ドル、対ユーロで4週連続高へ 雇用統計受け上昇一服も - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE56UkI4MEo5dEYzYnFYdUQtX214NE1sekh5YlF4a0gtR1NETDJQTkpSUDNvaXlEWTNGUWR0Y1U0WGJYV2JRVVhMdEQ4MmMtWDZSYWRYS1FjajNFZ01sOUJ2dW5CcFo2MFk1Sm9mVnMxcHlvWG9wQlFOVmp5VzFSdw?oc=5</link><description>[score: 0.890] ＮＹ外為市場＝ドル、対ユーロで4週連続高へ 雇用統計受け上昇一服も Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE56UkI4MEo5dEYzYnFYdUQtX214NE1sekh5YlF4a0gtR1NETDJQTkpSUDNvaXlEWTNGUWR0Y1U0WGJYV2JRVVhMdEQ4MmMtWDZSYWRYS1FjajNFZ01sOUJ2dW5CcFo2MFk1Sm9mVnMxcHlvWG9wQlFOVmp5VzFSdw?oc=5</guid><pubDate>Fri, 02 Oct 2026 22:41:45 +0000</pubDate></item><item><title>ＮＹ外為市場＝ドル、対ユーロで4週連続高へ 雇用統計受け上昇一服（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFAxY0lzX1lhZDJ3T1NGTWRlNEpwcDRfZmNUbDViMS13bGVLSmtnNENta05SUi02Vm94TTFMY0tRZzJad1l6elpsWDNHdFJzNmNNUW83OUFheUN2Mkh0X2EyemxFeW43NGl3WmtYYWVoTVQ2WGlra3Fvd3ZjM04taFU?oc=5</link><description>[score: 0.890] ＮＹ外為市場＝ドル、対ユーロで4週連続高へ 雇用統計受け上昇一服（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFAxY0lzX1lhZDJ3T1NGTWRlNEpwcDRfZmNUbDViMS13bGVLSmtnNENta05SUi02Vm94TTFMY0tRZzJad1l6elpsWDNHdFJzNmNNUW83OUFheUN2Mkh0X2EyemxFeW43NGl3WmtYYWVoTVQ2WGlra3Fvd3ZjM04taFU?oc=5</guid><pubDate>Fri, 02 Oct 2026 21:41:19 +0000</pubDate></item><item><title>利上げよ、さようなら――。低調な「雇用統計」を受けて“株価”が急騰している</title><link>https://www.businessinsider.jp/article/2610-fed-rate-hike-september-jobs-report-stock-market-today/</link><description>[score: 0.893] - 悪いニュースは、先月の雇用市場が減速したことだ。良いニュースは、利上げが当面見送られることだ。
+- 9月の軟調な雇用統計は、FRBが利上げを急ぐ必要はない可能性を示している。
+- 投資家は現在、FRBが今月、金利を据え置く確率を83％とみている。
+最新の雇用統計によって、FRBによる次の利上げは先送りされた可能性がある。
+金曜日の市場は、悪いニュースは良いニュースのモードに入った。予想を下回る9月の雇用統計を受けたためだ。経済が生み出した雇用は2万9000人にとどまり、約9万人の雇用増という予想を大きく下回った一方で、失業率は予想外に4.1％から4.2％へ上昇した。
+FRBが今年、利上げサ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-fed-rate-hike-september-jobs-report-stock-market-today/</guid><pubDate>Fri, 02 Oct 2026 16:19:25 +0000</pubDate></item><item><title>台風27号 あす以降 小笠原近海に 高波に警戒 今後の情報に注意</title><link>https://news.web.nhk/newsweb/na/nd-20261003de54005</link><description>[score: 0.897] 日本のはるか南の海上にある大型で強い台風27号は今後、発達しながら北上し、週明けに東京の小笠原諸島に最も近づく見込みで、4日以降、高波に警戒が必要です。
+気象庁によりますと、大型で強い台風27号は…
+【最新の台風情報】予想進路や勢力などを詳しく
+台風マップ 予想進路や勢力をリアルタイム表示
+新たな防災気象情報と避難 いつ避難する？
+台風接近前にやっておきたい備え「タイムライン」で
+台風や低気圧による「暴風」注意点と対策は
+伊勢湾台風とは？犠牲者5000人超「暴走木材」が街を襲った
+天気防災サイト あなたの街の天気予報や災害情報を即時提供
+大雨 最新情報 雨雲レーダーは「NHK ONE ニュース</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261003de54005</guid><pubDate>Fri, 02 Oct 2026 20:49:07 +0000</pubDate></item><item><title>AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる</title><link>https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023</link><description>[score: 0.897] AIに実装を任せながら、Rustを学び続けたい。「Rust Learning Lab」を作りました - じゃあ、おうちで学べる はじめに Rust Learning Labは、手元のRustコードを題材に、構文や型、所有権を説明してもらうためのCodex・Claude Code向けプラグインです。「この記号は何か」「なぜここで借用するのか」「この変更で何が変わるのか」といった疑問を、具体的なコードに沿って確かめられます。 github.com Rustを書き始めた人にも使え...</description><guid isPermaLink="false">https://syu-m-5151.hatenablog.com/entry/2026/10/02/163023</guid><pubDate>Fri, 02 Oct 2026 23:11:36 +0000</pubDate></item><item><title>焦点：虚偽説明や失敗隠しも、中国系ＡＩエージェントにも「暴走」リスク - ロイター</title><link>https://news.google.com/rss/articles/CBMifEFVX3lxTFA2VGZ6ZmRkOURISmhJb2U0U01kZ3Vvb3ZIaHVJcVRteTFIUWlwc1l4b1BVODl6MGFTZHdPSWhmTnFhV0xkNXVsXzFGSnN0TWE0WjBTTllOY1o5ZUNOdThHMHczSGh2RkpXa3JuTGFQR0FKSS1wUElxSEpadnA?oc=5</link><description>[score: 0.899] 焦点：虚偽説明や失敗隠しも、中国系ＡＩエージェントにも「暴走」リスク ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifEFVX3lxTFA2VGZ6ZmRkOURISmhJb2U0U01kZ3Vvb3ZIaHVJcVRteTFIUWlwc1l4b1BVODl6MGFTZHdPSWhmTnFhV0xkNXVsXzFGSnN0TWE0WjBTTllOY1o5ZUNOdThHMHczSGh2RkpXa3JuTGFQR0FKSS1wUElxSEpadnA?oc=5</guid><pubDate>Fri, 02 Oct 2026 22:41:45 +0000</pubDate></item><item><title>米司法省、パウエル前ＦＲＢ議長の捜査再開せず 改修費問題で - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5uOTJuTWdBUlVVWUdmZXl4a0xDQzVXSzRoaTREYjdIZTFEVnBTWFZHc2t6dFN1clFQeEVDcnprUF9XakZ0VVNJeHo1OEhWMmZYV2dNcjF6ck5KNHdsQnBsWThRNU1nX3lDX0tDME1jcWNnNmExQXdnTTg3MDlGNms?oc=5</link><description>[score: 0.900] 米司法省、パウエル前ＦＲＢ議長の捜査再開せず 改修費問題で Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE5uOTJuTWdBUlVVWUdmZXl4a0xDQzVXSzRoaTREYjdIZTFEVnBTWFZHc2t6dFN1clFQeEVDcnprUF9XakZ0VVNJeHo1OEhWMmZYV2dNcjF6ck5KNHdsQnBsWThRNU1nX3lDX0tDME1jcWNnNmExQXdnTTg3MDlGNms?oc=5</guid><pubDate>Fri, 02 Oct 2026 21:41:19 +0000</pubDate></item><item><title>米司法省、パウエル前ＦＲＢ議長の捜査再開せず 改修費問題で（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5xTDNhMWI2dXd2YUk1LTZKZW1kemtheVgzU3BmZ0MzVzdNU3ptTWFRNDlSdjQ1X3dsNmNweHZkNnZHTy01Y2hlQVlPejZMTGdKZmJKYUJPemd1RXRUSTlRMmhIZkJZd3R2RjNrcUFOMjdlcVQ0SmlmSG82dVNZeW8?oc=5</link><description>[score: 0.902] 米司法省、パウエル前ＦＲＢ議長の捜査再開せず 改修費問題で（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE5xTDNhMWI2dXd2YUk1LTZKZW1kemtheVgzU3BmZ0MzVzdNU3ptTWFRNDlSdjQ1X3dsNmNweHZkNnZHTy01Y2hlQVlPejZMTGdKZmJKYUJPemd1RXRUSTlRMmhIZkJZd3R2RjNrcUFOMjdlcVQ0SmlmSG82dVNZeW8?oc=5</guid><pubDate>Fri, 02 Oct 2026 21:41:19 +0000</pubDate></item><item><title>焦点：虚偽説明や失敗隠しも、中国系ＡＩエージェントにも「暴走」リスク - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE85aFBUdUl1MzhkYWlmV3J2Rm9uRkExeWF1eTZKNTNoVFp6TDV3UnFhR0p4V0drd3hWR2xTZXRmLS00ZFJJSi1yNGE4SG5ucXdoWV8tV2tmbFo5aENXOTluVGsxQUZxYXpUUVFQa3k4em5fN0xjUkJJeXczOXRwdw?oc=5</link><description>[score: 0.902] 焦点：虚偽説明や失敗隠しも、中国系ＡＩエージェントにも「暴走」リスク Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE85aFBUdUl1MzhkYWlmV3J2Rm9uRkExeWF1eTZKNTNoVFp6TDV3UnFhR0p4V0drd3hWR2xTZXRmLS00ZFJJSi1yNGE4SG5ucXdoWV8tV2tmbFo5aENXOTluVGsxQUZxYXpUUVFQa3k4em5fN0xjUkJJeXczOXRwdw?oc=5</guid><pubDate>Fri, 02 Oct 2026 23:41:26 +0000</pubDate></item><item><title>新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita</title><link>https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14</link><description>[score: 0.905] 新しい日本語推敲スキル「yomiyasu」がバズっていたので、Claudeで日本語推敲スキル3つを比べてみた - Qiita はじめに Xで@oga_aiichiroさんが公開された、新しい日本語推敲スキル「yomiyasu」が話題になっていました。AIが書いた文章の「なんかAIっぽい」を、単語の置き換えではなく文の構造から直すスキルらしいです。 ちょうど自分もQiitaを書くとき、AIに文章の校正を頼んだあとで「整っているけど自分が書いた感じがしないな...</description><guid isPermaLink="false">https://qiita.com/inoyu-qiita/items/0ffe6e74ecaf3aaa8b14</guid><pubDate>Sat, 03 Oct 2026 00:12:24 +0000</pubDate></item><item><title>米空母セオドア・ローズベルトが中東へ　横須賀母港のジョージ・ワシントンと交代か</title><link>https://forbesjapan.com/articles/detail/105881?s=ns</link><description>[score: 0.911] 米海軍のニミッツ級航空母艦の4番艦「セオドア・ローズベルト（CVN-71）」が9月27日、カリフォルニア州サンディエゴからひっそりと出港し、2026年の展開を開始した。艦船ウォッチャーらが報告した。
+セオドア・ローズベルトは、7月にハワイ沖で実施された2026年の「環太平洋合同演習（リムパック）」で主導的な役割を果たしたあと、次の哨戒任務に向けて8月の大半を準備に費やしていた。その後、サンディエゴ湾のコロナド半島側にある母港のノースアイランド海軍航空基地に帰港し、展開前の訓練や各種認証を完了した。同艦がサンディエゴにいつ戻れるのかは不明だが、米海軍が限られた数の空母を中東に継続的に交代派遣して</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105881?s=ns</guid><pubDate>Sat, 03 Oct 2026 00:04:31 +0000</pubDate></item></channel></rss>
