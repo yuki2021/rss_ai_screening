@@ -1,101 +1,127 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 03 Oct 2026 11:03:40 +0000</lastBuildDate><item><title>長文が読めないから長文をたくさん読む、では伸びない。英語の苦手は「症状」と「原因」に分けて考える</title><link>https://studyhacker.net/symptom-and-cause</link><description>[score: 0.874] 長文問題になると、どうしても点が取れない。単語帳を1冊増やしてみたり、長文の問題集を解く量を増やしてみたりするけれど、模試の結果はあまり変わらない。「長文が読めない」という悩みだけが、ずっと残っている。 こんな状態に、心当たりはありませんか？ 自分に何が足りないのかがわからないと、とりあえず勉強の量を増やすくらいしか打つ手がありません。 でも、量を増やす前に、まず確かめておきたいことがあるんです。 今回は、「苦手の分解」について考えてみます。 同じ「長文が読めない」でも、原因は3つに分かれる リスニングも単語も英作文も、症状は同じでも原因が違う 課題を細かく特定し、合ったトレーニングを選ぶ 同</description><guid isPermaLink="false">https://studyhacker.net/symptom-and-cause</guid><pubDate>Sat, 03 Oct 2026 04:45:41 +0000</pubDate></item><item><title>https://openai.com/ja-JP/index/practical-guide-building-gpt-6/</title><link>https://openai.com/ja-JP/index/practical-guide-building-gpt-6/</link><description>[score: 0.874] GPT‑6 は、OpenAI 史上最も先進的なモデル群です。作業の種類に応じてモデルを選べます。
-アイデアを動作するプロトタイプにする場合も、機能を開発してテストする場合も、コードリポジトリ、データベース、外部 API をまたぐ複数ステップのワークフローを連携させる場合も、このガイドが役立ちます。GPT‑6 モデルの選び方、効果的な指示の出し方、長時間にわたる作業の管理、本番運用に向けた準備を解説します。
-本番環境での効果的な運用キャッシュ（新しいウィンドウで開く）とコンパクション（新しいウィンドウで開く）を活用して、コンテキストとコストを管理します。タスクの成功率とレイテンシを測定し、監視と</description><guid isPermaLink="false">https://openai.com/ja-JP/index/practical-guide-building-gpt-6/</guid><pubDate>Sat, 03 Oct 2026 07:05:39 +0000</pubDate></item><item><title>複数行のコマンドをGithub Actionsで使う</title><link>https://qiita.com/J-T_ky2g/items/eeb6ad35a5e8a93ced52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.874] Register as a new user and use Qiita more conveniently
-- You get articles that match your needs
-- You can efficiently read back useful information
-- You can use dark theme
-Go to list of users who liked
-Share on X(Twitter)
-Share on Facebook
-Register as a new user and use Qiita more conveniently
-Go to</description><guid isPermaLink="false">https://qiita.com/J-T_ky2g/items/eeb6ad35a5e8a93ced52?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 03 Oct 2026 08:18:04 +0000</pubDate></item><item><title>UnityでなぜC# 10以降を使うライブラリが動くのか</title><link>https://zenn.dev/s4k1/articles/ba87c0ff3c1d47</link><description>[score: 0.875] 1. Unity対応ライブラリと「C# 9対応」の食い違い UnityでZLogger、R3、MemoryPackなどのライブラリを使っていると、Unity向けのパッケージと.NET向けの実装が同じリポジトリに並んでいるのを見かけます。そのコードには、C# 10以降で追加された機能も使われています。 わかりやすい例がZLoggerです。ログを書き込む次のAPIは、C# 10のカスタム文字列補間ハンドラーを利用しています。 logger.ZLogInformation($"User {userId} logged in from {ip}"); Unity向けの導入手順にも、C# 10...</description><guid isPermaLink="false">https://zenn.dev/s4k1/articles/ba87c0ff3c1d47</guid><pubDate>Sat, 03 Oct 2026 10:19:12 +0000</pubDate></item><item><title>HR部門の次なるリーダーシップ課題、「最初のAI部下」をどう管理するか</title><link>https://forbesjapan.com/articles/detail/105947?s=ns</link><description>[score: 0.875] HR部門の次なるリーダーシップ課題、「最初のAI部下」をどう管理するか
-2年前、私はLinkedInに、AIを理解しないマネージャーは2026年末までにチームにとって不要な存在になるだろうと投稿した。今日、私はさらに踏み込んで言いたい。今後2年以内に、履歴書も面接も、事前の予告期間もない「採用」を、私は確実に承認することになるだろう。
-その新たな「社員」は、デスクを持つこともなければ、クリスマスパーティーに参加することもない。しかし、実際の業務をこなし、本物の成果物を生み出し、現実のミスを犯す。そして、組織内の誰かがそれを管理しなければならなくなる。
-多くの企業はいまだに、AIへの対応を技術的</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105947?s=ns</guid><pubDate>Sat, 03 Oct 2026 05:58:34 +0000</pubDate></item><item><title>疑似恋愛をしていた</title><link>https://anond.hatelabo.jp/20261003072406</link><description>[score: 0.877] 先月、女性から告白を受けたと思われる。あれから時間が経つのに、どうしていいのか分からない。思われると書いたのは、自分でも確信が持てないから。
-レンタル彼女のサービスを申し込んだのは30代に入る頃だった。
-当時は（今もそうだけど）JTCで情シス兼コード書きをして、給料はそれなりだった。ファッションや自動車にお金をかけないタイプだったんで、お金はそれなりにあった。趣味はインデックス投資。YouTubeチャンネルでフェルミ研究所を観て始めた。
-夏だった。夜に部屋でウイスキー飲みながら、レンカノのアニメ（2020年に放送されていたアレである）を観ていた。
-観終わったあと、グラスの氷をボーっと見詰めてた</description><guid isPermaLink="false">https://anond.hatelabo.jp/20261003072406</guid><pubDate>Sat, 03 Oct 2026 09:55:46 +0000</pubDate></item><item><title>宮本佳林『非エンジニアがAIでライブツアー用アプリを作った流れ。』</title><link>https://ameblo.jp/miyamotokarin-official/entry-12980415652.html</link><description>[score: 0.877] 宮本佳林『非エンジニアがAIでライブツアー用アプリを作った流れ。』 かりんだよ5周年記念ライブツアーに向けて、ファン参加型のWebアプリをAIコーディングツールで作っています。セットリストを投稿したり、RPG風の遊びやスタンプを楽しんだりできるサイトです。詳しい仕組みは1本目を見てね宮本佳林『【技術ブログ】ライブツアー用WebアプリをCloudflareWorkersとD1で』かりんだよ！5周年...</description><guid isPermaLink="false">https://ameblo.jp/miyamotokarin-official/entry-12980415652.html</guid><pubDate>Sat, 03 Oct 2026 08:30:32 +0000</pubDate></item><item><title>上司がいる日を狙って出社。キャリアを守る新トレンド「ビルボード・デイズ」</title><link>https://forbesjapan.com/articles/detail/105530?s=ns</link><description>[score: 0.879] まず登場したのは「コーヒー・バッジング」だった。社員がオフィスに顔を出し、社員証をスワイプし、コーヒーを片手に持って出社義務を果たしたところで、自宅に戻って仕事をするというものだ。そして今、また別の職場行動が広がりつつある。今度はオフィスから逃れることよりも、「しかるべき人物に自分の姿を確実に見てもらう」ことに主眼が置かれている。それが「ビルボード・デイズ（Billboard Days）」だ。
-米IT機器・会議ソリューション大手のオウル・ラボ（Owl Labs）が実施した最新調査によると、米国のナレッジワーカーの48％が、上級リーダーやクライアントが出社する日に合わせて意図的にオフィス出社日を</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105530?s=ns</guid><pubDate>Sat, 03 Oct 2026 09:28:12 +0000</pubDate></item><item><title>Jared Palmer</title><link>https://jaredpalmer.com/blog/introducing-kev</link><description>[score: 0.879] Jared Palmer misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86 文章・質問・選択肢から各回答の確率を返すKev 1.0。0.8B～27Bの4モデルをApache-2.0で公開し、自前運用・追加学習に対応。文書を一度読み複数の判断に再利用。説明生成はせず、精度と確率は自分のデータで検証が必要。</description><guid isPermaLink="false">https://jaredpalmer.com/blog/introducing-kev</guid><pubDate>Sat, 03 Oct 2026 09:07:23 +0000</pubDate></item><item><title>複数のAIエージェントを並行して動かすADE「Orca」が快適だった</title><link>https://qiita.com/hiroshi_ito9854/items/4cedc17bcf058a04dba4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.879] はじめに
-こんにちは
-最近、Claude Codeを動かす環境をGhosttyからOrcaに乗り換えました。
-この記事では、Orcaの概要、worktree作成時にgit管理外のファイルをコピーする方法、スマホからエージェントを操作する方法を紹介します！
-Orcaとは
-Orcaは、Claude CodeやCodexなどのCLI型コーディングエージェントを並行して動かすためのデスクトップアプリです。macOS、Windows、Linuxに対応しています。
-Orcaは自身を「ADE（Agent Development Environment）」と呼んでいます。IDEが人がコードを書くための道具なの</description><guid isPermaLink="false">https://qiita.com/hiroshi_ito9854/items/4cedc17bcf058a04dba4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 03 Oct 2026 08:18:04 +0000</pubDate></item><item><title>AI終末論でパニックに陥る顧客の「資産運用の破綻」を防ぐには？ ファイナンシャルアドバイザーたちの秘策</title><link>https://www.businessinsider.jp/article/2609-how-financial-advisors-keep-doomers-from-blowing-up-their-portfolios/</link><description>[score: 0.880] - AIや地政学、経済をめぐる「破滅論」が世の中に蔓延するなか、人々の投資行動にも影響が出ている。
-- ファイナンシャルアドバイザーは、顧客に「世界の終わり」を前提にした投資をしてほしくないと考えている。
-- 彼らは、顧客の不安をどのように解消し、そのポートフォリオを守っているのかを説明してくれた。
-私たちはいま、終末思想の黄金時代の真っ只中にいる。
-AIの脅威が主役に躍り出ているが、その気になって探せば、不吉な前兆は至るところにある。弾道ミサイルを撃ち合う国々、膨れ上がる国家債務、高騰するエネルギー価格、そしてもちろん、おなじみの気候危機だ。
-だからこそ、個人の資産運用を支援するファルコン・</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2609-how-financial-advisors-keep-doomers-from-blowing-up-their-portfolios/</guid><pubDate>Sat, 03 Oct 2026 09:25:14 +0000</pubDate></item><item><title>技術だけでは足りない。フリーランスエンジニアがプロジェクト進行で大切にしている「お客様とのコミュニケーション」</title><link>https://qiita.com/Love_Apple/items/cf0dc40161022d75909c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] 技術だけでは足りない。フリーランスエンジニアがプロジェクト進行で大切にしている「お客様とのコミュニケーション」
-はじめまして。
-普段はWebシステム、業務システム、AI関連の開発などを中心に活動しているエンジニアです。
-エンジニアとして約8年、AI開発にも約3年携わってきました。
-これまで、要件整理・設計・開発・テスト・リリース・運用改善まで、プロジェクトの一連の工程に関わってきました。
-現在はフリーランスとして、さまざまな企業・個人のお客様から開発案件をご相談いただきながら仕事をしています。
-その中で、最近特に強く感じていることがあります。
-それは、
-「良いシステムを作ること」と「良いプロジ</description><guid isPermaLink="false">https://qiita.com/Love_Apple/items/cf0dc40161022d75909c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 03 Oct 2026 08:18:04 +0000</pubDate></item><item><title>公明 岡本新代表“与野党垣根なく連携 政界再編軸に”党大会で</title><link>https://news.web.nhk/newsweb/na/nd-20261003de54053</link><description>[score: 0.880] 公明党は党大会を開き新たな代表に岡本三成・元政務調査会長が就任しました。
-岡本氏は、与野党の垣根なく幅広く連携し、政界再編の軸となって誰もが希望を持てる政治を実現したいという考えを示しました。
-…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 03 Oct 2026 23:44:27 +0000</lastBuildDate><item><title>モバイル版 Gemini アプリに「地図」ツールが追加。範囲を指定して質問可能に | HelenTech</title><link>https://helentech.jp/news-gemini-map-tool-skills-at-symbol-92089/</link><description>[score: 0.873] Google は Gemini アプリのモバイル版に、地図上で選んだ範囲をプロンプトに追加できる「地図」ツールを追加しました。
+現在は Android と iOS で利用でき、Web 版では利用できません。記事執筆時点で、筆者も Pixel 11 Pro などの Gemini アプリで利用できるようになっていることを確認しました。
+「地図」ツールの使い方
+「地図」は、場所を指定したプロンプトを作成するときに使えるツールで、[ + ] ボタンからアクセスできるカルーセルの末尾に追加されています。
+「地図」をタップすると、現在地を中心に円形の対象範囲が付いたライブマップが表示されます。
+地図は移動</description><guid isPermaLink="false">https://helentech.jp/news-gemini-map-tool-skills-at-symbol-92089/</guid><pubDate>Sat, 03 Oct 2026 23:15:21 +0000</pubDate></item><item><title>コストコを使って毎月数万円を節約してきたマニアが明かす、3つの節約のコツ</title><link>https://www.businessinsider.jp/article/2610-costco-saving-tips/</link><description>[score: 0.873] - 私は毎週、コストコで買い物をしている。おかげで店について、独自の視点を持つに至った。
+- 私の経験では、セールは日曜日に終わることが多い。新たな"お買い得"を手に入れるには月曜日が最適だ。
+- 店舗によっては店長による値引きがあったり、毎月配信されるEメールには驚くようなお買い得情報が掲載されていることもある。
+買い物は"ネットショッピング派"だけれど、よく足を運ぶお気に入りの店が1つだけある。コストコだ。この2年ほど、私はコストコで毎週買い物をしている。
+おかげで私はコストコについて、独自の視点を持っている。コストコの会員でも知らないかもしれないコツを習得し、毎月何百ドル（数万円）も節約</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-costco-saving-tips/</guid><pubDate>Sat, 03 Oct 2026 22:23:21 +0000</pubDate></item><item><title>New to community</title><link>https://dev.to/shlok_bajpai_84303d0238a0/new-to-community-3mpe</link><description>[score: 0.873] Just set up this account to dive completely into #Hacktoberfest! I'm ready to contribute to open-source and connect with the community this month. Drop your favorite beginner-friendly repos below or let me know what you're building. Let's write some code! 💻✨ #OpenSource #Dev community</description><guid isPermaLink="false">https://dev.to/shlok_bajpai_84303d0238a0/new-to-community-3mpe</guid><pubDate>Sat, 03 Oct 2026 21:33:22 +0000</pubDate></item><item><title>中国「日本との関係改善」に焦り「岩屋氏厚遇の策略」高市発言は是正の必要なし　高橋洋一　日本の解き方</title><link>https://www.sankei.com/article/20261003-HLU4MOZP6JJZFG6KM4LSCWLFD4/?outputType=theme_weekly-fuji</link><description>[score: 0.873] 中国「日本との関係改善」に焦り「岩屋氏厚遇の策略」高市発言は是正の必要なし 高橋洋一 日本の解き方 中国の王毅外相（右）と握手する岩屋毅前外相＝9月28日、北京（新華社＝共同）岩屋毅前外相が日本国際貿易促進協会（国貿促）の新会長として訪中団を率いた。11月に中国が議長国として広東省でアジア太平洋経済協力会議（APEC）首脳会議が開かれるが、習近平政権は日本との関係を改善する必要があると考えているのか。そ...</description><guid isPermaLink="false">https://www.sankei.com/article/20261003-HLU4MOZP6JJZFG6KM4LSCWLFD4/?outputType=theme_weekly-fuji</guid><pubDate>Sat, 03 Oct 2026 22:45:46 +0000</pubDate></item><item><title>NTイベント 開催地一覧、更新しました！(2026年10月)｜YモードP</title><link>https://note.com/ymode/n/n8873739f1b45</link><description>[score: 0.874] NTイベント 開催地一覧、更新しました！(2026年10月)
+・NTイベント参加チェック↓
+（超便利な、ブラウザ上で動くツールです)
+NTイベント、どんどん開催されることが決定し、大変嬉しいため、開催地一覧を、現在分かっている情報で、更新しました。
+それに合わせ、超便利な、ブラウザ上で動く「NTイベント参加チェック」というツールを、ミクミンPのリポジトリからfork(分岐)しました。初githubだったため、何も分からずAIと相談しながらだったのですが、多分、出来たかと思います。
+ぜひ、ご利用ください！
+・PDF版↓
+(下の画像をクリックすると、PDFを開けます)
+こちらは、前回のPDFに情報</description><guid isPermaLink="false">https://note.com/ymode/n/n8873739f1b45</guid><pubDate>Sat, 03 Oct 2026 22:14:34 +0000</pubDate></item><item><title>自宅をカフェだと思い込むと、自宅がコーヒーのおかわり自由・トイレ行き放題・長居し放題の空間になって最高だった「お気に入りが揃うと心地良い」</title><link>https://togetter.com/li/2751143</link><description>[score: 0.877] 自宅をカフェだと思い込むと、自宅がコーヒーのおかわり自由・トイレ行き放題・長居し放題の空間になって最高だった「お気に入りが揃うと心地良い」 霜日和 @natsu_yuugata_ @spdkm 最近コレに移行しつつある。 雰囲気の好きなカフェとか喫茶店で読書してたけど、混み具合とか長居にならないようにとか気を使ってしまうので、どっかちょっと落ち着かない。 少し... yto 気分転換にはならないかなー</description><guid isPermaLink="false">https://togetter.com/li/2751143</guid><pubDate>Sat, 03 Oct 2026 23:15:21 +0000</pubDate></item><item><title>ロシア ウクライナ駐在外交官らに報復攻撃巻き添えを警告</title><link>https://news.web.nhk/newsweb/na/nd-20261004de54144</link><description>[score: 0.877] ロシア外務省は、ウクライナの軍事施設に大規模な攻撃を続けているとして、ウクライナ駐在の各国の外交官などに対し首都キーウや軍事施設の周辺に立ち入らないよう警告する声明を出しました。
+ロシア外務省は3…
 あわせて読みたい
-富山市の国勢調査 人口水増し問題で市役所を捜索 富山県警
-10月3日 15:59
-台風27号 あす以降 小笠原近海に 高波に警戒 今後の情報に注意
-10月3日 18:52
-津市4人死亡火事 住宅南側の玄関付近が激しく燃える 火元か
-10月3日 12:13
-千葉 印旛沼 堤防4か所決壊 最後の1か所をふさぐ工事が完了
-10月3日 12:11
-老舗の「パラマウント」と「ワーナー」の社名</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261003de54053</guid><pubDate>Sat, 03 Oct 2026 07:54:23 +0000</pubDate></item><item><title>副操縦士がテロ実行しようとしたか UAEの国営通信が報道</title><link>https://news.web.nhk/newsweb/na/nd-20261003de54041</link><description>[score: 0.880] イスラエル行きの旅客機で副操縦士が刃物で機長を襲ったとされる事件で、捜査が進められているUAE＝アラブ首長国連邦の、国営通信は、副操縦士がテロ行為を実行しようとしたことが明らかになったと報じました。 …
+ウクライナ首都でロシアが橋を連日攻撃 生活への影響拡大懸念
+10月3日 22:02
+ロシアへの追加制裁を発表 「影の船団」も制裁対象に 日本政府
+10月3日 9:58
+【詳細】ロシア ウクライナに軍事侵攻（10月3日の動き）
+10月4日 4:06
+ノーベル賞 5日から発表 日本から“3年連続受賞”なるか
+10月2日 19:24
+阪神が2年連続優勝 球団初セ・リーグ連覇【選手談話も</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261004de54144</guid><pubDate>Sat, 03 Oct 2026 20:37:11 +0000</pubDate></item><item><title>65歳で｢タイミーさん｣に､ASDの息子を持つ父が"10以上のスキマバイト"を経験して受けた｢大きな衝撃｣</title><link>https://toyokeizai.net/articles/-/959273?page=2</link><description>[score: 0.877] 65歳で｢タイミーさん｣に､ASDの息子を持つ父が"10以上のスキマバイト"を経験して受けた｢大きな衝撃｣ コンテンツブロックが有効であることを検知しました。 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を...</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/959273?page=2</guid><pubDate>Sat, 03 Oct 2026 23:25:56 +0000</pubDate></item><item><title>本日10月4日（日）放送開始の2026年秋アニメ</title><link>https://natalie.mu/comic/news/692149</link><description>[score: 0.877] 本日10月4日（日）に放送がスタートする新作アニメの情報をまとめました。コミックナタリーでは2026年秋アニメ作品まとめを公開中。</description><guid isPermaLink="false">https://natalie.mu/comic/news/692149</guid><pubDate>Sat, 03 Oct 2026 22:09:35 +0000</pubDate></item><item><title>北朝鮮、3日に中距離ミサイル発射 極超音速兵器の部隊訓練と国営通信 - ロイター</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQOEZEWXVtVGZRd3JKRzNWdmtFM19yQnVtQWJITS1NQV9rRjJ0cEJQbDhlVGFQN1lvQjBMV05WblNQSkZLbUFqeVVBMUktYUZobmxKT3cySEZPR1czTEZKWXJjUjFCUFR1UDVDYjNvQlNmUnduRWRGMzU1SDZJYUdXN0hsckZHdw?oc=5</link><description>[score: 0.878] 北朝鮮、3日に中距離ミサイル発射 極超音速兵器の部隊訓練と国営通信 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQOEZEWXVtVGZRd3JKRzNWdmtFM19yQnVtQWJITS1NQV9rRjJ0cEJQbDhlVGFQN1lvQjBMV05WblNQSkZLbUFqeVVBMUktYUZobmxKT3cySEZPR1czTEZKWXJjUjFCUFR1UDVDYjNvQlNmUnduRWRGMzU1SDZJYUdXN0hsckZHdw?oc=5</guid><pubDate>Sat, 03 Oct 2026 22:46:45 +0000</pubDate></item><item><title>来週の相場見通し（10/5～10/9）②『米国株の行方（AI半導体株の好調さ）』</title><link>https://note.com/cjdbx883/n/n50f4bd4c0d7a</link><description>[score: 0.878] 来週の相場見通し（10/5～10/9）②『米国株の行方（AI半導体株の好調さ）』
+１．はじめに
+米国株は、年間で最もパフォーマンスが悪いとされる9月相場を乗り越えた。今回はまずは7－9月の世界の株式市場の動向を振り返りつつ、米国株の足元の状況と、今後の行方を考察する。AI半導体株の上昇は継続するのだろうか？世界的な金利上昇リスクをどう捉えるべきだろうか？10月相場を前に、しっかりと状況整理をしておきましょう！！
+ここから先は
+6,026字
+/
+25画像
+この記事は noteマネー にピックアップされました
+この記事が気に入ったらチップで応援してみませんか？</description><guid isPermaLink="false">https://note.com/cjdbx883/n/n50f4bd4c0d7a</guid><pubDate>Sat, 03 Oct 2026 23:08:01 +0000</pubDate></item><item><title>ブラジル大統領選挙 投票へ 現職と前大統領の息子が接戦</title><link>https://news.web.nhk/newsweb/na/nd-20261004de54142</link><description>[score: 0.878] 南米のブラジルで日本時間の4日夜から大統領選挙の投票が行われ、事前の世論調査では、左派で現職のルーラ大統領と右派で前大統領の長男のフラビオ・ボルソナロ上院議員の接戦となっています。南米では、アメリカの…
 あわせて読みたい
-イスラエル 一部メディア報道「単独犯の可能性」フライドバイ
-10月3日 5:03
-インド人機長「多くの命を救った」モディ首相も電話で称賛
-10月2日 22:54
-イスラエル首相「副操縦士はイスラム過激思想に洗脳」主張
-10月2日 6:42
-台風27号 あす以降 小笠原近海に 高波に警戒 今後の情報に注意
-10月3日 18:52
-東京 八丈島 ダイビングで一時行方不明の8人救助</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261003de54041</guid><pubDate>Sat, 03 Oct 2026 09:55:48 +0000</pubDate></item><item><title>Jevとは何か。スマートなif文でソフトウェアに知性を組み込む</title><link>https://qiita.com/goofmint/items/11b89a372fbb9b625d12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] 本記事は、CodeRabbitのお届けするポッドキャストTHE MERGEより、Jev Explained: Intelligence infused 'If-Statements' for Your Code | Allie form TypeSafe AIの日本語解説です。
-お話しているのはTypeSafe AIのDevRel、Allieさんです。
-TL;DR
-Jevは、AIの知性を生成テキストとして利用するのではなく、ソフトウェアの判断そのものに組み込むための仕組みです。TypeSafe AIでは、Jevを「Machine to Machine Intelligence」と表現し、LLM</description><guid isPermaLink="false">https://qiita.com/goofmint/items/11b89a372fbb9b625d12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 03 Oct 2026 08:18:04 +0000</pubDate></item><item><title>2026年10月3日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title><link>https://qiita.com/ennagara128/items/a23a18e206916a4b95dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] 前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。
-通勤中などにながら聴きしよう！
-（Qiita投稿は通勤には間に合わないと思われますが）
-フィードバックとか助かりますのでください
-↓こちらから
-出典
-0から学ぶセキュリティの基礎 〜CSRF編〜
-https://qiita.com/Pigeon_gate/items/b33b4e337c15dddae20a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items
-AI生成コードを全部同じ密度で読む必要はある？―レビューを契約とテストで絞る設</description><guid isPermaLink="false">https://qiita.com/ennagara128/items/a23a18e206916a4b95dc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 03 Oct 2026 08:18:04 +0000</pubDate></item><item><title>perplexity-ai/pplx-decider-v1-27b · Hugging Face</title><link>https://huggingface.co/perplexity-ai/pplx-decider-v1-27b</link><description>[score: 0.883] perplexity-ai/pplx-decider-v1-27b · Hugging Face misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86 Perplexityの判断モデルpplx-decider-v1-27b。Qwen3.8-27Bを追加学習し、選択肢・Yes/No・画像の判断に対応。11ベンチマーク総合85.71%。実行には重み約49GiB＋作業メモリが必要。</description><guid isPermaLink="false">https://huggingface.co/perplexity-ai/pplx-decider-v1-27b</guid><pubDate>Sat, 03 Oct 2026 09:07:23 +0000</pubDate></item><item><title>Claude Frontier Academy: $100M to train 10,000 engineers</title><link>https://www.anthropic.com/news/claude-frontier-academy</link><description>[score: 0.884] Claude Frontier Academy: $100M to train 10,000 engineers misshiki Anthropic%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD Anthropicが1億ドルの投資を表明し、2027年末までに1万人の企業AI導入エンジニアを育成へ。Claude Frontier Academyでは対面研修と12週間の実案件実習を行い、評価合格者を認定。参加は企業推薦制。</description><guid isPermaLink="false">https://www.anthropic.com/news/claude-frontier-academy</guid><pubDate>Sat, 03 Oct 2026 07:05:39 +0000</pubDate></item><item><title>Windowsで再生中の音声をWhisperで文字起こしする：Meetilyの仕組みを100行未満のRustで再現する</title><link>https://zenn.dev/tmtk/articles/edc992e6a24b65</link><description>[score: 0.884] はじめに Meetily（会議の録音、文字起こし、要約をすべてPCの中で行うオープンソースの会議アシスタント）のコードを読みました。Windows版のMeetilyは、会議アプリやブラウザが再生している音を「WASAPIのループバック」（PCが再生している音を、そのまま録音するWindowsの仕組み）で取り込み、Whisper（OpenAIが公開している音声認識モデル）などで文字にしています。 ただ、Meetilyは製品なので、マイクとのミックス、ノイズ除去、デバイスの抜き差しへの対応など、音を取って文字にする以外の処理がたくさんあります。最低限どこまであれば動くのかが、コードからは...</description><guid isPermaLink="false">https://zenn.dev/tmtk/articles/edc992e6a24b65</guid><pubDate>Sat, 03 Oct 2026 10:19:12 +0000</pubDate></item><item><title>ＡＩの社会実装に関する情報提供のお願い : 規制改革 - 内閣府</title><link>https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html</link><description>[score: 0.884] ＡＩの社会実装において、障害となる又は不十分な効果をもたらす規制・制度についての情報提供のお願い
-内閣府規制改革推進室
-内閣府科学技術・イノベーション推進事務局人工知能政策推進室
-デジタル庁戦略・組織グループ
-経済産業省経済産業政策局産業創造課
-令和８年７月14日に閣議決定された「人工知能基本計画」では、単にＡＩを導入することにとどまらず、意思決定や業務の進め方を根底から見直すＡＸに率先して取り組み、ＡＩを前提とした制度や社会の仕組みへの継続的な変革を促すこと、また、そのために様々な局面におけるＡＩの社会実装の実現に向け、国民の声を聴きながら、既存の規制や制度の点検及び見直しを積極的に行うこと</description><guid isPermaLink="false">https://www8.cao.go.jp/kisei-kaikaku/kisei/forms/261002_forms.html</guid><pubDate>Sat, 03 Oct 2026 09:54:02 +0000</pubDate></item><item><title>知り合いがUIデザインの会社に勤めているが、AIを活用する事に決まり、22人のうち18人を解雇することに「社長、経理、営業、AI使う人の4人ぐらいしか残らないってこと？」</title><link>https://togetter.com/li/2753442</link><description>[score: 0.885] 知り合いがUIデザインの会社に勤めているが、AIを活用する事に決まり、22人のうち18人を解雇することに「社長、経理、営業、AI使う人の4人ぐらいしか残らないってこと？」 ちーこ@愚か @YakinikuLunch 知り合いがUIデザインの会社に勤めているんだけど、AIを活用する事に決まって22人の会社から18人を解雇するらしい😰 社長、経理、営業、AI使う人…の4人ぐらいしか残らないってこと…？ 2026-10-02 23:25:28 キース=ビクチ @Sensitivnipples @YakinikuLunch やっぱりこうして文化も経済も破綻...</description><guid isPermaLink="false">https://togetter.com/li/2753442</guid><pubDate>Sat, 03 Oct 2026 05:09:04 +0000</pubDate></item><item><title>Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs | Ai2</title><link>https://allenai.org/blog/olmocore3</link><description>[score: 0.885] Introducing Olmo-core 3: Open, scalable training infrastructure for large MoEs | Ai2 misshiki %E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86%E6%A9%9F%E6%A2%B0%E5%AD%A6%E7%BF%92 Ai2がMoE向け学習基盤「Olmo-core 3」を公開。470億パラメータの初期試験で従来実装比約2.7倍の処理速度。MXFP8で約21%高速化。1.2兆規模も検証したが、学習済みモデルの品質評価ではない。</description><guid isPermaLink="false">https://allenai.org/blog/olmocore3</guid><pubDate>Sat, 03 Oct 2026 09:07:23 +0000</pubDate></item><item><title>Microsoft Learn のドキュメントリポジトリが順次終了へ。誰でもできた「修正を送る」と「履歴を追う」はどうなる?</title><link>https://qiita.com/aktsmm/items/b7440aa7838a5a9e7dc1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] こんにちは、Learn の「編集」アイコンの行き先が気になったアーキテクトのやまぱん！です 😊
-補足コメントや質問、いいね、拡散、ぜひお願いします 🥺！
-間違っていたら 優しく 教えてください！
-Microsoft Learn のドキュメントは、原稿が GitHub の公開リポジトリにあります。そのおかげで、誰でも修正案（Pull Request、以下 PR）を送れて、いつ何がどう変わったかも履歴で確認できました。この公開リポジトリの多くが、2026 年末までに順次終了すると発表されました。
-この記事では、公式発表と Learn の貢献ガイドをもとに、「修正を送る」と「変更履歴を追う」がどう変</description><guid isPermaLink="false">https://qiita.com/aktsmm/items/b7440aa7838a5a9e7dc1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 03 Oct 2026 08:18:04 +0000</pubDate></item><item><title>ChatGPTの専門家設定は逆効果　AIの実力を引き出す「4つのプロンプト習慣」</title><link>https://forbesjapan.com/articles/detail/104652?s=ns</link><description>[score: 0.886] 2023年の短い期間、プロンプトエンジニアリングは、一握りの人々に向けた刺激的で高収入のキャリアパスとしてもてはやされた。だがそれはすぐに、独立した職種というより、誰もが仕事や生活に取り入れられる（そして取り入れるべき）スキルであることが明らかになった。
-とはいえ、ChatGPTに入力するすべてのプロンプトが、望む結果を返すわけではない。明確なコミュニケーション、反復、そして時には少なからぬ忍耐が必要だ。AIは強力だが、心を読むことはできない。与えられたものをもとに動くのである。
-モデルが高度化するにつれ、プロンプトの作成方法も進化してきた。数年前に正しいとされていたアドバイスの中には、現在で</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104652?s=ns</guid><pubDate>Sat, 03 Oct 2026 08:27:54 +0000</pubDate></item><item><title>Geminiがユーザーに代わって電話。グーグル「Pixel 11」の新機能とは</title><link>https://wired.jp/article/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/</link><description>[score: 0.886] グーグルは10年近く前から、AIアシスタントがユーザーに代わって電話をかける機能の提供を試みてきた。「Duplex」を覚えているだろうか。Google Assistantがレストランに電話をかけ、席を予約できる機能だった。このサービスは数年前に終了したが、今回またグーグルは最新の大規模言語モデル（LLM）を活用し、同様の機能を新たなかたちで実現しようとしている。
-Geminiが店舗に電話する
-グーグルは9月下旬、最新のPixel 11シリーズ向けに提供する実験的なベータ機能「Call for Me」を発表した。この機能は米国で英語のみ利用できる。Pixel 11の所有者がこの機能を利用するには</description><guid isPermaLink="false">https://wired.jp/article/googles-gemini-can-now-make-calls-for-you-on-pixel-phones/</guid><pubDate>Sat, 03 Oct 2026 02:16:32 +0000</pubDate></item><item><title>2026 年 10 月前半の LLM 利用状況</title><link>https://voluntas.ghost.io/2026-10-first-half-llm/</link><description>[score: 0.886] 2026 年 10 月前半の LLM 利用状況 あまりにも激動の時代なので、いつか振り返ることがあるかもしれないので、まとめておく。 サブスクサブスクは Ollama Cloud と Cursor と Codex の三つ。 Ollama CloudTeam プランを月 $500 で契約して、全員が Ollama Cloud のDeepSeek V4.1 Flash とGLM 5.3 Flash を利用する方針に切り替えた。 Ollama Cloud は月 $5...</description><guid isPermaLink="false">https://voluntas.ghost.io/2026-10-first-half-llm/</guid><pubDate>Sat, 03 Oct 2026 10:04:41 +0000</pubDate></item><item><title>https://openai.com/ja-JP/index/chatham-financial/</title><link>https://openai.com/ja-JP/index/chatham-financial/</link><description>[score: 0.890] Chatham、OpenAI で資本市場の専門知識の活用を拡大
-Chatham Financial、Codex と GPT‑5.6 による技術開発とワークフローの再設計で、取引検証を 30 分から 4 分未満に短縮
-Chatham Financial（新しいウィンドウで開く） は、正確性と監査可能性が極めて重要となる、資本市場における複雑な意思決定について顧客に助言しています。AI の能力が進化する中、同社は実績あるプロセスを、ガバナンスの下で繰り返し実行できるワークフローやソフトウェアへと転換する機会を見いだしました。定型業務にかかる時間を減らし、専門家が顧客のニーズにより注力できるようにす</description><guid isPermaLink="false">https://openai.com/ja-JP/index/chatham-financial/</guid><pubDate>Sat, 03 Oct 2026 07:05:39 +0000</pubDate></item><item><title>【ざっくり理解】ベクトルDBは新しい技術なのか？ ─ 1975年からRAGまで、古いものと新しいものを分けて見る</title><link>https://qiita.com/Tadataka_Takahashi/items/1beb21af1b1371cf979d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] はじめに
-RAG（検索拡張生成）が広まってから、「ベクトルDB」という言葉をよく見かけるようになりました。
-Pinecone、Milvus、Qdrant、Weaviate、pgvectorなど、選択肢も増えています。
-そこで気になったのが、次の疑問です。
-ベクトルDBは、LLMと一緒に登場した新しい技術なのか？
-先に要点をまとめると、ベクトルを使って近いデータを探す考え方と探索アルゴリズムは古く、埋め込みモデル、運用機能、RAGを含む利用需要が近年まとまったと捉えるのがよさそうです。
-ただし、「最近傍探索の歴史＝そのままベクトルDB製品の歴史」ではありません。本記事では、両者を分けながらベクト</description><guid isPermaLink="false">https://qiita.com/Tadataka_Takahashi/items/1beb21af1b1371cf979d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 03 Oct 2026 08:18:04 +0000</pubDate></item><item><title>Amazon、データセンター批判に反論　10億ドル超の地域支援策も発表</title><link>https://www.itmedia.co.jp/news/article/2610/03/2000001985/</link><description>[score: 0.891] Amazon、データセンター批判に反論 10億ドル超の地域支援策も発表
-米AmazonのAWS部門CEO、マット・ガーマン氏は10月2日（現地時間）、データセンター建設を巡る米国内の批判に反論を、長文の公式ブログで公開した。データセンター運営の行動指針「Amazon Data Center Commitment」と、データセンターのある地域を対象とする新たな投資プログラム「Built Together」もあわせて発表した。
-米国では、データセンター建設への反発が強まっている。米Gallupが5月に発表した調査では、居住地域でのAIデータセンター建設に71％が反対と回答した。
-ガーマン氏は、現在</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/03/2000001985/</guid><pubDate>Sat, 03 Oct 2026 09:26:28 +0000</pubDate></item><item><title>エボラ出血熱、死者4000人超 コンゴ 最悪規模で拡大</title><link>https://www.afpbb.com/articles/-/3655851</link><description>[score: 0.895] エボラ出血熱、死者4000人超 コンゴ 最悪規模で拡大
-このニュースをシェア
-【10月3日 AFP】アフリカ・コンゴ民主共和国でのエボラ出血熱による死者が4000人を超えた。同国当局が2日、明らかにした。感染確認例は8000人を超え、同国史上最悪の規模で感染が広がっている。
-最新の公式統計によると、これまでに8300例の感染が確認され、4018人が死亡、2162人が回復した。致死率は約48％に上る。
-5月中旬公式に確認された今回の流行は、北東部のイトゥリ州で始まり、北部と東部の7州に拡大。武力衝突や暴力が続く不安定な地域で感染が広がっており、深刻な資源不足も重なり、医療対応に影響が出ている。
-</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3655851</guid><pubDate>Sat, 03 Oct 2026 02:31:36 +0000</pubDate></item></channel></rss>
+「人工的に豪雨が…」 大雨フェイクを検証 AIで偽の予測画像も
+10月3日 16:01
+阪神が2年連続優勝 球団初セ・リーグ連覇【選手談話も詳しく】
+10月4日 3:43
+フランスで高校生が教育環境の改善訴えデモ 約5000人拘束
+10月3日 17:51
+副操縦士がテロ実行しようとしたか UAEの国営通信が報道
+10月3日 19:07
+老舗の「パラマウント」と「ワーナー」の社</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261004de54142</guid><pubDate>Sat, 03 Oct 2026 20:07:45 +0000</pubDate></item><item><title>【家でもできるフロンティア級の完全非同期RL】 Moongazer RLをRTX 5090で動かす</title><link>https://zenn.dev/holy_fox/articles/b070342cb74702</link><description>[score: 0.879] 【家でもできるフロンティア級の完全非同期RL】 Moongazer RLをRTX 5090で動かす
+1. 完全非同期RLとは
+こんにちは！皆さんは大規模なオンラインRLをやっているでしょうか？
+大規模なRLを伴うLLM開発をするラボでは、LLMのオンラインRLにおいて「モデルが考え終わるのをどう待つか」が大きな課題になっています。
+コードを修正してテストする、検索結果を読んで次の検索をする。こうしたエージェントの学習では、一つの試行が長くなり、グループ間で終わるまでの時間もそろいません。
+この待ち時間を減らす方法が、 完全非同期RL です。回答を生成する処理とモデルを更新する処理を分け、生成を</description><guid isPermaLink="false">https://zenn.dev/holy_fox/articles/b070342cb74702</guid><pubDate>Sat, 03 Oct 2026 23:15:21 +0000</pubDate></item><item><title>高市首相がAppleに要請――「自殺防止機能の搭載を」　生成AIへの相談増加を受け</title><link>https://www.itmedia.co.jp/mobile/articles/2610/03/news015.html</link><description>[score: 0.880] 高市首相がAppleに要請――「自殺防止機能の搭載を」 生成AIへの相談増加を受け 「Appleティム・クック前CEOからお手紙をいただきました」――10月2日、高市早苗首相はXを通じて、Appleとの間で交わされた子どもの安全対策や自殺防止に向けた取り組みに関するやりとりについて公開した。 高市氏は若者の間で生成AIへの相談が増加している現状や海外での深刻な事例を挙げ、デバイスに自殺防止機能などの...</description><guid isPermaLink="false">https://www.itmedia.co.jp/mobile/articles/2610/03/news015.html</guid><pubDate>Sat, 03 Oct 2026 22:14:10 +0000</pubDate></item><item><title>GitHub - seiji1097g-cell/yukkuri-reimu-marisa-videos: 霊夢と魔理沙（たぬき式ゆっくり立ち絵）が掛け合いで解説する「ゆっくり解説風」動画を、調査・台本・音声・字幕・サムネイルまでClaudeが作るAgent Skill。非公式の東方Project二次創作です。</title><link>https://github.com/seiji1097g-cell/yukkuri-reimu-marisa-videos</link><description>[score: 0.880] 霊夢と魔理沙（たぬき式ゆっくりの立ち絵）が掛け合いで解説する「ゆっくり解説風」の動画（MP4）を、Claude に作ってもらうための Agent Skill です。
+「〇〇でゆっくり解説動画を作って」と頼むだけで、Claude が次のところまで進めます。
+- テーマの調査（Web検索で事実と出典を集める）
+- 構成と台本づくり（台本は動画にする前に確認できる）
+- 立ち絵の組み立て（表情5種、口パク、まばたき）
+- 音声合成（Open JTalk）、字幕、解説パネル、図
+- MP4・字幕（SRT）・サムネイル（1280×720）・YouTube 概要欄の書き出し
+Note
+本スキルは非公式のフ</description><guid isPermaLink="false">https://github.com/seiji1097g-cell/yukkuri-reimu-marisa-videos</guid><pubDate>Sat, 03 Oct 2026 23:15:21 +0000</pubDate></item><item><title>第1回【SpatialArrow概念編】GeoAI学習で「画像分割によって地物が途切れる問題」をどう解決するか？(固定タイル方式の課題とSpatialArrowの設計思想) - Qiita</title><link>https://qiita.com/lehukuku0120/items/b5c3e08d5a8e7a4549d1</link><description>[score: 0.880] 第1回【SpatialArrow概念編】GeoAI学習で「画像分割によって地物が途切れる問題」をどう解決するか？(固定タイル方式の課題とSpatialArrowの設計思想) - Qiita はじめに 本連載記事は、地理空間情報のAI-ReadyなDataLoaderである『SpatialArrow』を設計し、実装し、検証した内容を3部作として執筆したものです。今回は、その第1回目の記事となります。 第1回【SpatialArrow... yuiseki</description><guid isPermaLink="false">https://qiita.com/lehukuku0120/items/b5c3e08d5a8e7a4549d1</guid><pubDate>Sat, 03 Oct 2026 23:15:21 +0000</pubDate></item><item><title>簗農相 道路予算発言報道「コメント控える」繰り返す | NHKニュース</title><link>https://news.web.nhk/newsweb/na/nd-20261002de53817</link><description>[score: 0.882] 簗農相 道路予算発言報道「コメント控える」繰り返す | NHKニュース 簗農林水産大臣は、地元の道路に関する国からの予算の配分をみずからの意向で変更したなどと発言したと一部で報じられたことを受けて2日、会見を開き「予算額について国土交通省に問い合わせを行い、結果を自民党の… yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261002de53817</guid><pubDate>Sat, 03 Oct 2026 22:14:34 +0000</pubDate></item><item><title>サウジアラビアと隣国イエメンの反政府勢力フーシ派 対立続く</title><link>https://news.web.nhk/newsweb/na/nd-20261004de54153</link><description>[score: 0.884] 中東のサウジアラビアと隣国イエメンの反政府勢力フーシ派の対立が続くなか、フーシ派は声明で、サウジアラビアの首都にある国営石油会社への攻撃が成功したと主張しました。
+一方、ロイター通信はサウジアラビア…
+あわせて読みたい
+ウクライナ首都でロシアが橋を連日攻撃 生活への影響拡大懸念
+10月3日 22:02
+阪神が2年連続優勝 球団初セ・リーグ連覇【選手談話も詳しく】
+10月4日 3:43
+ホワイトソックス 地区シリーズで先勝 村上が先制ホームラン
+10月4日 7:37
+簗農相が熊本地震の被災地を視察 予算配分発言への言及避ける
+10月3日 23:55
+北朝鮮キム・ヨジョン氏“中距離戦略ミサイルを発</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261004de54153</guid><pubDate>Sat, 03 Oct 2026 22:08:16 +0000</pubDate></item><item><title>学び続けるためのちょっとしたコツ 〜仕事と同じ状況を個人で作る〜</title><link>https://qiita.com/kanaamin/items/9c5e38ed5c47050bc538?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] この記事は、技術の解説ではなく、学び続けるための考え方や取り組み方についての記事です。
+みなさんは普段、学び続けるためにどんなことをしていますか？
+特に初学者の方やIT業界へ来たばかりの方は、まだ自分に合ったやり方を模索しているかもしれません。
+そんな方に向けて、自分がどうやって学び続けているのかを、この記事で紹介できたらなと思います。
+株式会社日本システム技研でWebアプリの開発をしている、kanayamaです。
+最近はフルスタックで開発するようになり、学ぶ範囲がぐっと広がりました。
+でも入社したての頃は、どう勉強したらいいのか、そもそも何を勉強したらいいのかもわかりませんでした。すごく悩ん</description><guid isPermaLink="false">https://qiita.com/kanaamin/items/9c5e38ed5c47050bc538?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 03 Oct 2026 20:31:04 +0000</pubDate></item><item><title>台風27号 あすからあさって小笠原諸島に接近 高波警戒</title><link>https://news.web.nhk/newsweb/na/nd-20261004de54159</link><description>[score: 0.885] 大型で非常に強い台風27号は、東京の小笠原近海を北寄りに進んでいます。
+非常に強い勢力のまま、5日夕方から6日はじめにかけて、小笠原諸島に接近するおそれがあり、高波に警戒が必要です。
+気象庁によ…
+あわせて読みたい
+ドジャースが地区シリーズ先勝 大谷翔平は1安打
+10月4日 8:05
+サザン関口和之氏の著作権管理会社 5億8000万円余の申告漏れ
+10月4日 5:11
+ホワイトソックス 地区シリーズで先勝 村上が先制ホームラン
+10月4日 7:37
+阪神が2年連続優勝 球団初セ・リーグ連覇【選手談話も詳しく】
+10月4日 3:43
+那覇市のホテルで女性遺体 強盗殺人事件として捜査
+10月3日 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261004de54159</guid><pubDate>Sat, 03 Oct 2026 21:37:14 +0000</pubDate></item><item><title>スペイン南東部の町で大雨による洪水 1人死亡</title><link>https://news.web.nhk/newsweb/na/nd-20261004de54156</link><description>[score: 0.885] スペイン南東部の町で大雨による洪水が発生し、水につかった住宅から1人が遺体で見つかりました。
+スペイン南東部の町マドリゲラスで、2日、大規模な洪水が発生しました。
+現地を上空から撮影した映像から…
+注目ワード
+あわせて読みたい
+北朝鮮キム・ヨジョン氏“中距離戦略ミサイルを発射”
+10月3日 21:26
+ウクライナ首都でロシアが橋を連日攻撃 生活への影響拡大懸念
+10月3日 22:02
+フランスで高校生が教育環境の改善訴えデモ 約5000人拘束
+10月3日 17:51
+副操縦士がテロ実行しようとしたか UAEの国営通信が報道
+10月3日 19:07
+老舗の「パラマウント」と「ワーナー」の社名が買</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261004de54156</guid><pubDate>Sat, 03 Oct 2026 22:08:16 +0000</pubDate></item><item><title>【佐藤優】クリエイターのオリジナリティと健全なメンタルの育て方。ネット公開の代わりにすべきこと</title><link>https://www.businessinsider.jp/article/257934-a/</link><description>[score: 0.886] シマオ：皆さん、こんにちは！ 「佐藤優のお悩み哲学相談」のお時間がやってまいりました。今日も読者の方からいただいたお悩みについて、佐藤優さんに答えていただきます。さっそくお便りを読んでいきましょう。
+子どもの頃から絵を描くのが趣味で、描いている最中は楽しいのですが、出来上がった絵を他の人の絵と比べると、自分の下手さに落ち込んでしまいます。
+加えて、かつて同じ時期に描き始めた友人が今では自分よりずっと上手くてSNSやイラスト共有サイトなどで評価され、仕事を受けたりしているのを見ると、自分には才能がないからさっさと辞めたほうがいいのではないかと落ち込むこともあります（日中は仕事があるので、私は夜と</description><guid isPermaLink="false">https://www.businessinsider.jp/article/257934-a/</guid><pubDate>Sat, 03 Oct 2026 23:23:01 +0000</pubDate></item><item><title>米大統領“選挙勝利で5000ドル支給”重ねて主張 選挙戦激しく</title><link>https://news.web.nhk/newsweb/na/nd-20261004de54158</link><description>[score: 0.886] トランプ政権に対する有権者の評価が事実上示されるアメリカの中間選挙まで3日で1か月となりました。
+トランプ大統領は与党・共和党が上下両院で勝利すれば市民に5000ドルを支給すると重ねて主張したのに対…
+あわせて読みたい
+アメリカ中間選挙まで1か月 共和党と民主党の選挙戦激化
+10月3日 4:50
+北朝鮮キム・ヨジョン氏“中距離戦略ミサイルを発射”
+10月3日 21:26
+ウクライナ首都でロシアが橋を連日攻撃 生活への影響拡大懸念
+10月3日 22:02
+フランスで高校生が教育環境の改善訴えデモ 約5000人拘束
+10月3日 17:51
+副操縦士がテロ実行しようとしたか UAEの国営通信が報道
+</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261004de54158</guid><pubDate>Sat, 03 Oct 2026 22:08:16 +0000</pubDate></item><item><title>【コラム】あえて地図アプリなしで迷子になりたい / 利便性は果たして我々を賢くしてるのか？</title><link>https://rocketnews24.com/2026/10/02/2807348/</link><description>[score: 0.886] 比較的郊外に取材に出かける機会の多い私（佐藤）は、スマホを手放すことができない。GoogleMapsのアプリを見ながら、目的地まで歩くことが多いからだ。基本的に歩きが好きなので、30分や1時間は平気で歩いてしまう。その途上、ずっと地図を確認しつつ、「ここの道を右だな」とか「もう1つ先の筋を左だな」と、逐一確認しているのである。
+スマホ・アプリがある限り、迷うことはまずない。したがって、困らないのは良いのだけど、その一方で最近「たまには迷子になりたい」と考えるようになった。はたして利便性は私を賢くしてくれているのか、疑いを持ち始めたのである。
+・昔は何とかなった
+今でこそ、スマホは当たり前の存在</description><guid isPermaLink="false">https://rocketnews24.com/2026/10/02/2807348/</guid><pubDate>Sat, 03 Oct 2026 23:15:21 +0000</pubDate></item><item><title>職場で「あの人はクセが強い」「変わってる」と上役から言われている人と、二人でシフトに入ることになった→職場での評価というものが分からなくなった</title><link>https://togetter.com/li/2753535</link><description>[score: 0.888] 職場で「あの人はクセが強い」「変わってる」と上役から言われている人と、二人でシフトに入ることになった→職場での評価というものが分からなくなった 裏切りのサーモン @traitor_salmon 前の職場で「あの人はクセが強い」「変わってる」と上役から言われている人と、二人でシフト入ることになり、やや警戒していたのだが、話してみるとデ・ニーロ好きの映画好きで、迷惑客には毅然と対応し、定時丁度に帰ることに命をかけている人で、それ以来"職場での評価"というものが...</description><guid isPermaLink="false">https://togetter.com/li/2753535</guid><pubDate>Sat, 03 Oct 2026 22:14:10 +0000</pubDate></item><item><title>「Claude」3倍高速化の裏で、Anthropic開発者が「あえてしなかったこと」：899th Lap</title><link>https://kn.itmedia.co.jp/kn/article/2610/02/2000001932/</link><description>[score: 0.888] 「Claude」3倍高速化の裏で、Anthropic開発者が「あえてしなかったこと」：899th Lap 開発支援ツール「Claude Code」は、コードの作成だけでなく、既存コードの調査や修正、テストまでこなすようになっている。最近では、人間が細かな作業を一つずつ指示しなくても、与えられた目標に向けて自ら作業を進めるケースも報告されている。 そんな中、「Claude」の開発元であるAnthropicは、Webサービス版「claud...</description><guid isPermaLink="false">https://kn.itmedia.co.jp/kn/article/2610/02/2000001932/</guid><pubDate>Sat, 03 Oct 2026 15:26:43 +0000</pubDate></item><item><title>地面に落としたネジをGrokに探してもらったらすぐ見つけてくれた話…画像処理におけるAIは強すぎる</title><link>https://togetter.com/li/2753759</link><description>[score: 0.892] 地面に落としたネジをGrokに探してもらったらすぐ見つけてくれた話…画像処理におけるAIは強すぎる Togetter編集部 X（旧Twitter）に日々流れる情報の中から、編集部がさまざまなポストを選び出し、わかりやすい形でお届けすることを大切にしています。新たな視点や世間の反応を添えることで、読者の皆様にとって安心・安全で価値あるコンテンツとすることを目指しています。詳しくは編集方針をご覧ください。 あわせて...</description><guid isPermaLink="false">https://togetter.com/li/2753759</guid><pubDate>Sat, 03 Oct 2026 23:23:57 +0000</pubDate></item><item><title>Googleが新フロンティアモデル「Gemini 4 Argon」を発表／OpenAIがAIモデル「GPT-6.1 Sol」を公開</title><link>https://www.itmedia.co.jp/pcuser/articles/2610/02/news057.html</link><description>[score: 0.896] うっかり見逃していたけれど、ちょっと気になる――そんなニュースを週末に“一気読み”する連載。今回は、9月27日週を中心に公開された主なニュースを一気にチェックしましょう！
+Googleは9月30日、新しいフロンティアモデル「Gemini 4 Argon」を発表した。複雑で長期にわたるワークフローで深い推論を持続できるよう設計されたモデルで、ソフトウェア開発、法務や財務などのナレッジワーク、サイバーセキュリティでパフォーマンスを発揮するとしている。
+まずは9月の「Gemini 3.8 Flash Cyber」でも使われた「Fairwind Program」を通じて、信頼できるサイバーセキュリティ</description><guid isPermaLink="false">https://www.itmedia.co.jp/pcuser/articles/2610/02/news057.html</guid><pubDate>Sat, 03 Oct 2026 22:02:37 +0000</pubDate></item><item><title>AI導入で仕事量が増えた労働者は52％、生産性向上の裏にある「超負担」の正体</title><link>https://forbesjapan.com/articles/detail/104730?s=ns</link><description>[score: 0.896] AIは生産性を高め、実行時間を大幅に短縮し、コストを削減し、より少ないリソースでより多くを達成できるようにすると約束されてきた。
+AIの導入によって、週休3日制への移行も加速すると言われていた。
+それはすべて、まやかしだったのだろうか。
+AIの生産性パラドックス
+「AIによる再編成、削減、代替。これは、組織のスリム化を進める企業における一部の職種の現実である」と、世界1万6000人の従業員を対象に調査を行ったコーン・フェリー（Korn Ferry）は、報告書『Workforce 2026』で述べている。「しかし、仕事量が軽くなっているわけではない。過半数（61%）の従業員が、現在は複数の職種の</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/104730?s=ns</guid><pubDate>Sat, 03 Oct 2026 22:08:34 +0000</pubDate></item><item><title>AI投資はどこまで正当化できるのか</title><link>https://note.com/cjdbx883/n/n775bf34e4103</link><description>[score: 0.903] Bain &amp; Companyが9月29日に公表した「Technology Report 2026」の中で、最も重要な論点の一つが、現在進んでいる巨額のAIインフラ投資は本当に回収できるのか、という問題である。Bainの問題意識はかなり明確だ。AIの世界ではいま、GPUやデータセンター、ネットワーク、電力設備への投資が需要の実現より先に走っている。したがって本当の問題は、「AIデータセンターを建設できるか」ではなく、「それだけの設備投資を正当化する売上や経済価値をAIが生み出せるか」という点にある。 Bainによれば、マイクロソフト、グーグル、アマゾン、メタ、オラクルという主要ハイパースケーラー</description><guid isPermaLink="false">https://note.com/cjdbx883/n/n775bf34e4103</guid><pubDate>Sat, 03 Oct 2026 23:08:01 +0000</pubDate></item></channel></rss>
