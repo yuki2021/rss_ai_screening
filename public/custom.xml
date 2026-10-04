@@ -1,213 +1,61 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 04 Oct 2026 21:12:49 +0000</lastBuildDate><item><title>世界中のソフトウェア開発者の実態を調べた「State of Devs 2026」公開。何歳？ 年収は？ モニタは何枚？ AIにどのくらいコードを書かせている？ 趣味は？ など集計結果</title><link>https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html</link><description>[score: 0.851] IT関連の各種調査を行っているプロジェクトDevographicsは、世界中のソフトウェア開発者の実態などをアンケートで調査した「State of Devs 2026」の結果を公開しました。 ここでは全体の結果から興味深いところをいくつか抜粋して紹介しましょう。 約5500人が回答、最多は米国、年齢の中央値は36歳 アンケート調査は今年（2026年）7月5日から9月5日まで行われ、5463人が回答しています。 国別の回答者は米国が1051人で最大。ドイツ（447人）、英国（3……</description><guid isPermaLink="false">https://www.publickey1.jp/blog/26/state_of_devs_2026_ai.html</guid><pubDate>Sun, 04 Oct 2026 14:08:44 +0000</pubDate></item><item><title>イラン、米の回答に立場表明 再攻撃なら対応と外相 - ロイター</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE1RMW12R3BPREk0ZDJObHFHUnM0d2dsN056X24yaHdzS2drNTRUMlZvSGVfdHEyaVB0OXpLcWMyNW1CVTRtRGVDZWNGTndJbmdRUGdKbjVMYnQ1YWdBRm9Pb1puUGRPTXlheVNCWnlxTW13VmpYRkNpS05BUnRaZw?oc=5</link><description>[score: 0.851] イラン、米の回答に立場表明 再攻撃なら対応と外相 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE1RMW12R3BPREk0ZDJObHFHUnM0d2dsN056X24yaHdzS2drNTRUMlZvSGVfdHEyaVB0OXpLcWMyNW1CVTRtRGVDZWNGTndJbmdRUGdKbjVMYnQ1YWdBRm9Pb1puUGRPTXlheVNCWnlxTW13VmpYRkNpS05BUnRaZw?oc=5</guid><pubDate>Sun, 04 Oct 2026 15:46:18 +0000</pubDate></item><item><title>スペイン議会、87歳女性の強制立ち退き受けた住宅危機対策を否決　早期選挙の可能性も - BBCニュース</title><link>https://www.bbc.com/japanese/articles/cq1kd38l3v29o</link><description>[score: 0.853] スペイン議会、87歳女性の強制立ち退き受けた住宅危機対策を否決 早期選挙の可能性も
-ガイ・ヘッジコー記者（マドリード）
-スペイン議会は2日、住宅危機に対処するために左派連立政権が提出した一連の措置を一連の措置を否決した。ペドロ・サンチェス首相にとって大きな痛手のため、総選挙の前倒しを求める圧力が強まっている。
-サンチェス政権は9月29日、賃借人の強制退去を一時的に停止するなどの政令を2件発表した。これは、首都マドリードで87歳の女性が70年以上住んだ自宅から立ち退きを強いられたことをきっかけに、国内各地で抗議活動が起きた事態に対応してのもの。
-政令は即日発効されたが、1カ月以内に議会の承認を得</description><guid isPermaLink="false">https://www.bbc.com/japanese/articles/cq1kd38l3v29o</guid><pubDate>Sun, 04 Oct 2026 21:00:22 +0000</pubDate></item><item><title>JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通</title><link>https://zenn.dev/qnighy/articles/json-ambiguity</link><description>[score: 0.853] JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通 JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通 タイトルは「JSONはシンプルで明快な仕様が魅力ですが、そんなJSONでも微妙な実装差異が生じる罠がいくつかあります。本稿はこうした機微を実装の比較を通じて明らかにします。...</description><guid isPermaLink="false">https://zenn.dev/qnighy/articles/json-ambiguity</guid><pubDate>Sun, 04 Oct 2026 17:05:16 +0000</pubDate></item><item><title>イラン、米の回答に立場表明 再攻撃なら対応と外相（ロイター） - news.yahoo.co.jp</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1FQjd5UlE1UThQOUl6Q0o2Y2NfdTJLbHdqb2tybkN3emVQakFKaUx6ejdpb0NCbzExRHNDM2FuU21mampRRFlidDZiU2tPTFJYdzRQcFl1ckQ0djFXelgtTUpZd2ZPZXZBaFRuVVY2YXJPNUc1V2dWOFZpN0l6NEE?oc=5</link><description>[score: 0.854] イラン、米の回答に立場表明 再攻撃なら対応と外相（ロイター） news.yahoo.co.jp</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE1FQjd5UlE1UThQOUl6Q0o2Y2NfdTJLbHdqb2tybkN3emVQakFKaUx6ejdpb0NCbzExRHNDM2FuU21mampRRFlidDZiU2tPTFJYdzRQcFl1ckQ0djFXelgtTUpZd2ZPZXZBaFRuVVY2YXJPNUc1V2dWOFZpN0l6NEE?oc=5</guid><pubDate>Sun, 04 Oct 2026 15:46:18 +0000</pubDate></item><item><title>AIリスクに警鐘、航空業界や原子力発電所級の管理訴え オープンAI元社員</title><link>https://www.afpbb.com/articles/-/3655916</link><description>[score: 0.855] AIリスクに警鐘、航空業界や原子力発電所級の管理訴え オープンAI元社員 オープンAIとチャットGPTのロゴ（2023年10月4日撮影）。(c)MARCO BERTORELLO/AFP 【10月4日 AFP】人工知能（AI）を開発する米オープンAIの元社員が、破局的な事態を避けるために業界は航空や原子力発電と同等の多層的な安全対策を導入すべきだと訴えた。 AIの安全性確保のための呼びかけに加わったデビッド・ロビンソン...</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3655916</guid><pubDate>Sun, 04 Oct 2026 12:01:04 +0000</pubDate></item><item><title>【OCI認定】無償で受験できるOCI資格を全て取得してみた - APC 技術ブログ</title><link>https://techblog.ap-com.co.jp/entry/2026/10/04/oci-free-cert</link><description>[score: 0.855] はじめに
-こんにちは、クラウド事業部の伊藤です！
-弊社には資格取得制度として、受験料負担やインセンティブ支給でスキルアップを支援する制度があります。
-制度は制度としてありつつ、過去には5か月間で100名以上が「OCI Architect Associate」を取得していたり、スキルアップが文化として根付いているのが普通に凄いなと感じてる今日この頃です。
-そんな先人に倣って、今日は無償で受験できるOCI資格を全て取得してみたので、本記事では取得した資格の特徴や受験した感想をまとめます。
-無償受験できるOCI認定資格
-OCI認定試験で無償受験出来る資格は以下の5個です。
-- Oracle Clou</description><guid isPermaLink="false">https://techblog.ap-com.co.jp/entry/2026/10/04/oci-free-cert</guid><pubDate>Sun, 04 Oct 2026 14:20:35 +0000</pubDate></item><item><title>Rust 1.96の新RangeでSpanをCopyにできる理由</title><link>https://qiita.com/TechStudioLab/items/d4005fe56d1c7e4f82ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.856] 開始位置と終了位置しか持たない Span
-なら、Copy
-にできそうに見えます。ところが std::ops::Range&lt;usize&gt;
-をそのまま持たせると #[derive(Copy)]
-は通りません。
-理由は Range
-のフィールドではなく、旧 Range
-が範囲を表す値であると同時にIteratorの状態でもあることにあります。Rust 1.96.0では、この2つの責務を分けた新しい core::range::Range
-が安定化されました。
-この違いを最小コードで見ると、なぜ新しい Range
-が Copy
-になれるのか、公開APIでは何を型にすべきかがかなり明確になります。
-小さな</description><guid isPermaLink="false">https://qiita.com/TechStudioLab/items/d4005fe56d1c7e4f82ab?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 04 Oct 2026 20:24:07 +0000</pubDate></item><item><title>【独自】個人情報提供、事前報告を義務化　病歴・指紋・位置、安保上脅威に | NEWSjp</title><link>https://news.jp/i/1479448629865988290</link><description>[score: 0.856] 政府は、企業や団体に対し、病歴や指紋、位置情報といった機微な個人データを第三者に提供することについて、国への事前報告を義務付ける方向で調整に入った。大量のデータを保有する事業者を対象とし、病院や銀行など数百程度を見込む。情報の提供に加え、外部のクラウドやデータセンターへの保管も含める方針。外国の敵対勢力に悪用された場合に安全保障上の脅威となるため、国が提供の可否を審査する仕組みを検討する。複数の関係者が4日明らかにした。
-来年の通常国会で経済安全保障推進法の改正案提出を目指す。有識者会議が、報告逃れなどに対する罰則導入を含めた制度設計の議論を10月中にも始める。データセンターやクラウド事業者に</description><guid isPermaLink="false">https://news.jp/i/1479448629865988290</guid><pubDate>Sun, 04 Oct 2026 18:55:42 +0000</pubDate></item><item><title>イラン、米の回答に立場表明 再攻撃なら対応と外相 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9qb1VMUUJncHVjQ3NMc2x0LUVOVk5GZmk1VXNkc0hfcW95V1o4NW0wNUU2UkVtdnExRHB0Wl9xd2lfbkRyUG1OMGhxUTRnejZ0b2ZvYXFySEF5Uk50MnBxVlE1UzVtajNQUm5mRUdrT2puYjEtRlZ6d19tOTRYdUk?oc=5</link><description>[score: 0.857] イラン、米の回答に立場表明 再攻撃なら対応と外相 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9qb1VMUUJncHVjQ3NMc2x0LUVOVk5GZmk1VXNkc0hfcW95V1o4NW0wNUU2UkVtdnExRHB0Wl9xd2lfbkRyUG1OMGhxUTRnejZ0b2ZvYXFySEF5Uk50MnBxVlE1UzVtajNQUm5mRUdrT2puYjEtRlZ6d19tOTRYdUk?oc=5</guid><pubDate>Sun, 04 Oct 2026 17:43:50 +0000</pubDate></item><item><title>AI利用による健康障害 (2026/10/20 20:30〜)</title><link>https://gotta.connpass.com/event/408879/</link><description>[score: 0.858] 広告
-| 募集内容 |
-参加枠 無料
-先着順
-|
-|---|---|
-| 開催日時 |
-2026/10/20(火) 20:30 ～ 21:30
-|
-| 募集期間 |
-2026/10/04(日) 16:57
-〜 |
-| 会場 |
-オンライン オンライン |
-| 出席登録 |
-(イベント開始時間の2時間前から終了時間まで、参加者のみに公開されます)
-|
-参加者への情報
-イベントの説明
-概要
-私は医師兼エンジニアなのですが、
-そういうポジションのせいか最近AIを使っている人から体調変化についての質問を良く聞かれます。
-今回はそれらの疑問について調べた論文をまとめ、
-自分がAIを使って感じた体調変化に</description><guid isPermaLink="false">https://gotta.connpass.com/event/408879/</guid><pubDate>Sun, 04 Oct 2026 12:20:38 +0000</pubDate></item><item><title>警察が押収したiPhoneの自動再起動を回避してデータを抽出しやすくするツールが登場している</title><link>https://gigazine.net/news/20261005-cops-bypass-iphone-automatic-inactivity-reboot/</link><description>[score: 0.858] 警察が押収したiPhoneの自動再起動を回避してデータを抽出しやすくするツールが登場している
-iPhoneには、ロック状態のまま一定時間が経過すると自動的に再起動する「非アクティブ時再起動」という機能が搭載されています。そんな非アクティブ時再起動を無効化して、警察が押収したiPhoneからのデータ抽出を容易するためのツールが開発されたと、海外メディアの404 Mediaが報じました。
-Cops Can Bypass iPhone’s Automatic Reboot to Get Into Locked Phones, Leaked Video Claims
-https://www.404me</description><guid isPermaLink="false">https://gigazine.net/news/20261005-cops-bypass-iphone-automatic-inactivity-reboot/</guid><pubDate>Sun, 04 Oct 2026 21:03:08 +0000</pubDate></item><item><title>【Linux初心者向け】コマンドの成功・失敗を確認する方法｜$?と&amp;&amp;・||を実例で解説</title><link>https://qiita.com/reo_infraengineer/items/1c52821dc01e48fd2ccc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.861] こんにちは、Reoです。
-現在はフリーランスのインフラエンジニアとして働きながら、インフラ特化の学習サービス「InfraDojo（インフラ道場）」を運営しています。
-Linuxでコマンドを実行したあと、
-「何も表示されなかったけど、成功したの？」
-「前の処理が失敗したら、次の処理を止めたい」
-と思ったことはありませんか？
-そんなときに使うのが、終了ステータスです。
-今回は、練習用ファイルを使いながら、次の3つを確認します。
--
-$?
-で直前のコマンドの結果を確認する -
-&amp;&amp;
-で、成功したときだけ次のコマンドを実行する -
-||
-で、成功しなかったときに別のコマンドを実行する
-1. 終了ステー</description><guid isPermaLink="false">https://qiita.com/reo_infraengineer/items/1c52821dc01e48fd2ccc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 04 Oct 2026 20:24:07 +0000</pubDate></item><item><title>DevelopersIO 2026 Tokyo &lt;AIxクラウド技術祭&gt; #devio2026 (2026/10/24 12:30〜)</title><link>https://classmethod.connpass.com/event/402011/</link><description>[score: 0.861] 10月
-24
-DevelopersIO 2026 Tokyo &lt;AIxクラウド技術祭&gt; #devio2026
-全国で100+のAIxクラウドの技術セッションをお届け！
-主催 : クラスメソッド株式会社
-広告
-参加者への情報
-イベントの説明
-圧倒的情報量の技術文化祭が開幕します!!
-今年で12回目の開催を迎えるクラスメソッド主催のカンファレンスイベント DevelopersIO 2026。
-クラスメソッドの東京オフィスを2つ使って、昼から夜まで、大量のセッションをお届けします。 参加費無料、入退室自由です。どれか1セッションのみの参加もOKです。お気軽にご参加ください！
-今年もAIセンター試験の</description><guid isPermaLink="false">https://classmethod.connpass.com/event/402011/</guid><pubDate>Sun, 04 Oct 2026 13:21:39 +0000</pubDate></item><item><title>顧客情報、米グーグルに無断提供　１．６万件、契約時同意得ず―ＮＴＴドコモ：時事ドットコム</title><link>https://www.jiji.com/jc/article?k=2026100400256&amp;g=eco</link><description>[score: 0.861] 顧客情報、米グーグルに無断提供 １．６万件、契約時同意得ず―ＮＴＴドコモ
-ＮＴＴドコモは４日、メッセージ機能を利用する一部顧客の個人情報を無断で米グーグルのアジア法人に提供していたと明らかにした。約１万６０００件分の契約で、電話番号などの提供に関する同意を得ていなかったという。
-免許証画像などの漏えい１６０万件 パーク２４、対象者に通知開始
-対象は、９月１７～２５日に電話番号を変えずに他社携帯から乗り換えられる番号継続制度（ＭＮＰ）を利用して、ドコモの店舗で新規契約した顧客の一部。「ＲＣＳ」と呼ばれるショートメッセージ（ＳＭＳ）の後継サービス利用に関し、グーグルへの情報提供の同意を得るための確</description><guid isPermaLink="false">https://www.jiji.com/jc/article?k=2026100400256&amp;g=eco</guid><pubDate>Sun, 04 Oct 2026 20:23:43 +0000</pubDate></item><item><title>退職代行で辞めると、最後のあいさつはどこに残るのでしょう</title><link>https://ctc-form.jp/public/seminar/view/9811</link><description>[score: 0.863] 仕事を辞めるときの最後のあいさつを、先に思い浮かべることがあります。
-一人ずつ声をかける。短くお礼を言う。いつもの場所から帰る。そんな場面が、仕事の終わりと結びついています。
-退職代行を通して辞めることを考えると、その場面がいつもどおりには来ないかもしれません。
-そのとき、お礼を言いたかった気持ちや、最後に残る言葉は、どうなるのでしょう。
-別れの場面には、見慣れた形があります
-職場で誰かを送り出したことがあると、退職の日の流れを知っています。
-朝の会議で一言話し、終業前にあいさつをする。送別の食事がある職場もあれば、いつもどおり帰る職場もあります。
-自分が辞めるときも、似た場面を想像するかもし</description><guid isPermaLink="false">https://ctc-form.jp/public/seminar/view/9811</guid><pubDate>Sun, 04 Oct 2026 20:12:41 +0000</pubDate></item><item><title>結局、Looped Transformerってなんや？</title><link>https://qiita.com/sakai1250/items/8d90b7320bcd1c8aba9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.863] 何かと最近見かける Looped Transformer。
-仕組み自体はかなり単純です。しかし、論文を追ってみると「同じTransformerを何回も使う」だけでは終わりません。
-少なくとも僕は、名前だけ見て
-Transformerの同じ層を何回か通すやつでしょ
-くらいで止まっていました。
-そこで今回は、
-- なぜ同じTransformerを繰り返すのか
-- 理論的には何がうれしいのか
-- RNNとは何が違うのか
-- なぜ最近また注目されているのか
-- 何がまだ難しいのか
-を、最近の論文まで含めて整理します。
-対象は、Transformerの基本構造を知っている人です。
-そもそもLooped </description><guid isPermaLink="false">https://qiita.com/sakai1250/items/8d90b7320bcd1c8aba9e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 04 Oct 2026 20:24:07 +0000</pubDate></item><item><title>ウクライナ キーウの橋にまた無人機攻撃 市民に心理的圧力か</title><link>https://news.web.nhk/newsweb/na/nd-20261004de54373</link><description>[score: 0.864] ウクライナの首都キーウで4日、市内を流れる川にかかる橋が無人機の攻撃を受けました。キーウではここ数日、橋がロシア軍に狙われていて、市民に心理的な圧力を加える意図があるとの見方が出ています。
-ウクラ…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 04 Oct 2026 23:44:06 +0000</lastBuildDate><item><title>AIを使いこなすなら「ジャズバンドになれ！」　日本企業が“レベル1”から抜け出せない2つの理由、Notionに聞く</title><link>https://www.itmedia.co.jp/business/articles/2610/05/news011.html</link><description>[score: 0.869] AIを導入したにもかかわらず、業務の大幅な効率化や自動化には至っていないと感じる企業もあるだろう。Notion（ノーション）は、AI活用を4つのレベルに分類し、企業が直面する課題を指摘する。AI活用の進化を阻む壁とは何か。
+Notionは、メモやドキュメント作成、タスク管理、データベースなど、仕事やプライベートで使う多様なツールを1つにまとめた「オールインワン・ワークスペース」を提供するサービスだ。
+米Notion Labsの共同創業者兼CEOのIvan Zhao（アイバン・ザオ）氏は、企業におけるAI活用を4つのレベルに分類する。
+レベル1は、AIを「思考のパートナー」として使う段階だ。Ch</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2610/05/news011.html</guid><pubDate>Sun, 04 Oct 2026 22:14:13 +0000</pubDate></item><item><title>独首相、ウクライナに追加軍事支援10億ユーロ ロシアの脅しに屈せずと強調 - ロイター</title><link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPY3RrV2FvSWg1RldDb0NuR29CV3V1ZWNQSm1xdG1VMVpqTk1kRkpKNUF1XzdXc1U3WGU5SVYwNWtLM2lMaTc4X0E0djRkN1lOc1lFTlBtdHNmVDNFRzlMQjJqOEdxV1RQQnhqZm5qdDdrUkRpLTFpQXF6SEUyMXBSTl9kMlQ?oc=5</link><description>[score: 0.871] 独首相、ウクライナに追加軍事支援10億ユーロ ロシアの脅しに屈せずと強調 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxPY3RrV2FvSWg1RldDb0NuR29CV3V1ZWNQSm1xdG1VMVpqTk1kRkpKNUF1XzdXc1U3WGU5SVYwNWtLM2lMaTc4X0E0djRkN1lOc1lFTlBtdHNmVDNFRzlMQjJqOEdxV1RQQnhqZm5qdDdrUkRpLTFpQXF6SEUyMXBSTl9kMlQ?oc=5</guid><pubDate>Sun, 04 Oct 2026 22:39:36 +0000</pubDate></item><item><title>Cloudflare の判定モデル Clef を Workers AI で触ってみた</title><link>https://zenn.dev/akari1106/articles/b6d3180cc50dfe</link><description>[score: 0.872] はじめに Cloudflare が 2026年10月1日に、判定用のモデル「Clef」と「Clef-flash」を発表しました。 この記事は、2つのモデルを Workers AI から呼び出して、簡単な実験をした記録です。 Jevは私は触り済みなのそれ前提感あるかもです。一旦として、Clef を触ったよ、の話になります。 公式の情報は次のページで確認できます。 発表記事: Introducing Clef: our open-source decision models, and new RL fine-tuning platform Workers AI のモデルページ: Cl...</description><guid isPermaLink="false">https://zenn.dev/akari1106/articles/b6d3180cc50dfe</guid><pubDate>Sun, 04 Oct 2026 22:54:52 +0000</pubDate></item><item><title>今日の株式見通し＝堅調、米株高が支え 米利上げ観測後退で - ロイター</title><link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3ZMeTFRSERLZTB5WFMzVVRXeThNRlNUUDJOU05sQVYwMDdHSmxEX0hGTUdnQjFQWm9FVmtyNWE0SjNsLXRHTG5td1BFTkR1SnlUMHpZRWdGMmdlNTQ2TnhRbEMxN0dWcUU4RHY0YmZ6UUQxckZqVGRyMGRBcXNvUF9nZmI?oc=5</link><description>[score: 0.872] 今日の株式見通し＝堅調、米株高が支え 米利上げ観測後退で ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxPa3ZMeTFRSERLZTB5WFMzVVRXeThNRlNUUDJOU05sQVYwMDdHSmxEX0hGTUdnQjFQWm9FVmtyNWE0SjNsLXRHTG5td1BFTkR1SnlUMHpZRWdGMmdlNTQ2TnhRbEMxN0dWcUU4RHY0YmZ6UUQxckZqVGRyMGRBcXNvUF9nZmI?oc=5</guid><pubDate>Sun, 04 Oct 2026 23:38:30 +0000</pubDate></item><item><title>自社サイト以外でどう認知を広げるか？ AI時代の「認知拡大」を叶える4つの戦略（後編）</title><link>https://webtan.impress.co.jp/e/2026/10/05/53349</link><description>[score: 0.872] 前後編の2回に分けてお届けしている。→前編を読む 再掲 この記事では、AI時代のトップ・オブ・ファネル（TOFU）SEOにおける構造変化を解説している。前編で提示したポイントは次の3つだ： 引用源の85%以上が第三者サイト（自社サイトの更新だけでは不十分） 主な目的は流入ではなく「認知・露出」とする（AIからの直接流入は2%未満） カギはメディア露出とグラウンディング検索への適応 この後編では、SEO担当者が今実践すべき「4つの戦略」を解説する。それは、次のものだ： デジタルPR フジツボ式SEO UGCとコミュニティ 情報 それぞれについて詳しくみていこう。 1. デジタルPR まず、これま</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/10/05/53349</guid><pubDate>Sun, 04 Oct 2026 22:14:59 +0000</pubDate></item><item><title>今こそクリーンエネルギーを推進すべき理由</title><link>https://forbesjapan.com/articles/detail/106012?s=ns</link><description>[score: 0.873] 現在の送電網の状況について、前向きに受け止めている人を見つけるのは難しいだろう。異常気象に加え、人工知能（AI）、データセンター、先端製造業が急速に拡大するなか、電力需要はかつてないペースで増加している。
+経済競争力をより確実に守り、信頼性を維持し、価格を低く抑えるためには、米国は2030年までに166ギガワットの新たな電力供給を構築する必要がある。これは、ニューヨーク市15個分を賄うのに十分な電力量に匹敵する巨大な規模である（グリッド・ストラテジーズの予測による）。この水準を満たせなければ、全米で深刻な電力不足、輪番停電、大幅な価格急騰に直面する可能性が高い。それは、連邦議会からシリコンバレ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106012?s=ns</guid><pubDate>Sun, 04 Oct 2026 23:31:11 +0000</pubDate></item><item><title>トランプ氏、民主党勝利なら支援消極姿勢 オハイオ州で演説（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBuLVVUZExuVlZlWFhBamFVZkNxcTN5blhTUkNWMTloUC1rNVBnQXJkc3lxWGNWRGRLbnRFSWdiT3ZzQThWdE9QX0lnTWdaSnBpVzJVVnBCcEFVSGk3UHNjZHpFdElTWDFtS1M0cW5jb2FXREFQb3laWlBpd2hMSzA?oc=5</link><description>[score: 0.874] トランプ氏、民主党勝利なら支援消極姿勢 オハイオ州で演説（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFBuLVVUZExuVlZlWFhBamFVZkNxcTN5blhTUkNWMTloUC1rNVBnQXJkc3lxWGNWRGRLbnRFSWdiT3ZzQThWdE9QX0lnTWdaSnBpVzJVVnBCcEFVSGk3UHNjZHpFdElTWDFtS1M0cW5jb2FXREFQb3laWlBpd2hMSzA?oc=5</guid><pubDate>Sun, 04 Oct 2026 23:38:30 +0000</pubDate></item><item><title>ロシアの高速無人機とみられる攻撃を受けた橋＝2日、ウクライナ・キーウ（ロイター＝共同） - 北朝鮮に高速無人機技術共有か ロシア、ゼレンスキー氏が見解 - 写真・画像(1/1) - 西日本新聞me</title><link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XYUZnc2NxSmdXZGd5R2ZxWVdfZWlweWszd3duajV4SklRMEw1RjhNM2pPNFNjNkhlTEJtNF9pQ0RsMHdoZVdxTUNUczAwcFN2OTJjVVh1aw?oc=5</link><description>[score: 0.874] ロシアの高速無人機とみられる攻撃を受けた橋＝2日、ウクライナ・キーウ（ロイター＝共同） - 北朝鮮に高速無人機技術共有か ロシア、ゼレンスキー氏が見解 - 写真・画像(1/1) 西日本新聞me</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiV0FVX3lxTE9XYUZnc2NxSmdXZGd5R2ZxWVdfZWlweWszd3duajV4SklRMEw1RjhNM2pPNFNjNkhlTEJtNF9pQ0RsMHdoZVdxTUNUczAwcFN2OTJjVVh1aw?oc=5</guid><pubDate>Sun, 04 Oct 2026 21:40:39 +0000</pubDate></item><item><title>カスハラを受けたらどうする？ 被害者の4人に3人が「会社への相談をためらう」【KiteRa調べ】</title><link>https://webtan.impress.co.jp/n/2026/10/05/53378</link><description>[score: 0.875] カスハラを受けたらどうする？ 被害者の4人に3人が「会社への相談をためらう」【KiteRa調べ】 正当なクレームとカスハラはどう見分ける？ 約6割の勤務先で「判断基準なし」。 imai-f 2026年10月5日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 KiteRa（キテラ）は、20歳以上のビジネスパーソン965人を対象に、直近1年間のカスタマーハラスメント（カスハラ）の経験と勤務先の対策状況を調査した。被害経験者191人には、相談・報告に関する行動も尋ねている。 関連記事 カスハラ被害、認知率84.1%なのに解決はわずか14.8%【アスマーク調べ】 意外？「カスハ</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/10/05/53378</guid><pubDate>Sun, 04 Oct 2026 21:17:03 +0000</pubDate></item><item><title>ベトナム第3四半期ＧＤＰ、前年比9.95％増 コロナ禍以降で最も高い伸び - ロイター</title><link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPMFZwUkhDNGd0Z24wLV8yQlFHYW1BTTVCN3d0REVPbTFVc3o2RnB6SE5qblJZQ21KVWZpYjlKdUIxNzZwYzMzdUk0d3BsdGdFODNIRnN5UnFPdHdBenp5Q3dxRXB0aFBlTVNQRXVkazdjMHdhUnlSa001bWNmM1lKb1hPdnc?oc=5</link><description>[score: 0.875] ベトナム第3四半期ＧＤＰ、前年比9.95％増 コロナ禍以降で最も高い伸び ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxPMFZwUkhDNGd0Z24wLV8yQlFHYW1BTTVCN3d0REVPbTFVc3o2RnB6SE5qblJZQ21KVWZpYjlKdUIxNzZwYzMzdUk0d3BsdGdFODNIRnN5UnFPdHdBenp5Q3dxRXB0aFBlTVNQRXVkazdjMHdhUnlSa001bWNmM1lKb1hPdnc?oc=5</guid><pubDate>Sun, 04 Oct 2026 23:38:30 +0000</pubDate></item><item><title>「迷う時間」があなたの成果を奪っていく。AI時代に必要なのは「決める技術」だった</title><link>https://studyhacker.net/kazuya-nakamura-interview01</link><description>[score: 0.875] AIの進化によって、アイデアや選択肢を得ることは格段に楽になりました。しかし、そのなかからなにを選ぶかを決めるのは、いまも人間の役割です。AIによって選択肢があふれる時代だからこそ「決める技術」の重要性が増していると語るのは、『すぐ決められる人がうまくいく』（明日香出版社）の著者であり、データサイエンティストの中村一也さん。成果につながる意思決定の考え方を教えてもらいました。 構成／岩川悟 取材・文／清家茂樹 写真／石塚雅人 【プロフィール】 中村一也（なかむら・かずや） 1986年生まれ、京都府出身。データサイエンス教育総合研究所、京都精華大学、大阪大谷大学で研究員・講師。経営行動科学学会所</description><guid isPermaLink="false">https://studyhacker.net/kazuya-nakamura-interview01</guid><pubDate>Sun, 04 Oct 2026 22:49:38 +0000</pubDate></item><item><title>台風27号 あすにかけて小笠原近海を北上 高波に警戒を</title><link>https://news.web.nhk/newsweb/na/nd-20261005de54402</link><description>[score: 0.876] 大型で非常に強い台風27号は、6日にかけて東京の小笠原近海を北上する見込みで、高波に警戒が必要です。
+気象庁によりますと、大型で非常に強い台風27号は、5日午前6時には、小笠原近海を1時間に20キ…
 あわせて読みたい
+台風や低気圧による「暴風」注意点と対策は
+那覇市ホテル強盗殺人事件 死因は窒息 逮捕の米海兵隊員は否認
+10月4日 23:13
+日経新聞サイバー攻撃で情報漏えいか なりすましメールが送信
+10月4日 21:30
+ブラジル大統領選挙 投票始まる
+10月4日 22:02
+横浜市長選挙 パワハラ問題で辞職の前市長と新人 7人が立候補
+10月4日 19:39
+ジャガイモ 注目の「抵抗性品</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261005de54402</guid><pubDate>Sun, 04 Oct 2026 21:06:40 +0000</pubDate></item><item><title>ロシアがジェット推進式ドローン技術を北朝鮮と共有の可能性＝ゼレンスキー氏 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPdndCelM2ekVuYWRYeTRmZEU0cXNmS19ESFJpZENoOWRMX1RJUHp6eFBWNjY0X2FMLWZXMS13SThJNl84cjc3Q1ozQ2N6RTQyQTZqMTJBendiNGJxdTNYcml6bGJ1Yzd4c1VVbEtwOXVnaENFbTdiRzZ2TGlGUjdGNGJTckxSZw?oc=5</link><description>[score: 0.879] ロシアがジェット推進式ドローン技術を北朝鮮と共有の可能性＝ゼレンスキー氏 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxPdndCelM2ekVuYWRYeTRmZEU0cXNmS19ESFJpZENoOWRMX1RJUHp6eFBWNjY0X2FMLWZXMS13SThJNl84cjc3Q1ozQ2N6RTQyQTZqMTJBendiNGJxdTNYcml6bGJ1Yzd4c1VVbEtwOXVnaENFbTdiRzZ2TGlGUjdGNGJTckxSZw?oc=5</guid><pubDate>Sun, 04 Oct 2026 22:39:36 +0000</pubDate></item><item><title>独首相、ウクライナに追加軍事支援10億ユーロ ロシアの脅しに屈せずと強調（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5XbC1TemJsN0dlRXZZQ09Gd0QzWFVvZVBydTBHOTBIc1lyem5FZGVTUlZxRU1DUkFoZmlSdXcwZGxvSTNJSlJsdjA1RllCSkRaYnZHb0s4NjkzS1l4Tl9xanY2NE9DQnIwWTJMRGhSVkJaeDd3enMxNlZZY0Nxc1E?oc=5</link><description>[score: 0.879] 独首相、ウクライナに追加軍事支援10億ユーロ ロシアの脅しに屈せずと強調（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE5XbC1TemJsN0dlRXZZQ09Gd0QzWFVvZVBydTBHOTBIc1lyem5FZGVTUlZxRU1DUkFoZmlSdXcwZGxvSTNJSlJsdjA1RllCSkRaYnZHb0s4NjkzS1l4Tl9xanY2NE9DQnIwWTJMRGhSVkJaeDd3enMxNlZZY0Nxc1E?oc=5</guid><pubDate>Sun, 04 Oct 2026 23:38:30 +0000</pubDate></item><item><title>台風25号で不通の内房線 一部区間で折り返し運転始まる</title><link>https://news.web.nhk/newsweb/na/nd-20261005de54411</link><description>[score: 0.881] 台風25号に伴う大雨の影響で一部区間で運転見合わせが続いているJR内房線は、線路への被害がなかった木更津駅と長浦駅の区間で5日から折り返し運転を始めました。
+JR内房線は、線路に土砂が流入するなど…
+あわせて読みたい
+米兵逮捕の強盗殺人事件 被害女性の首にコードのようなものか
+10月5日 6:02
+台風27号 あすにかけて小笠原近海を北上 高波に警戒を
+10月5日 6:48
+ノーベル賞 5日は生理学・医学賞の発表日
+10月5日 4:49
+柔道世界選手権 女子48キロ 古賀若菜が初の金メダル
+10月5日 5:17
+18歳未満の選挙運動禁止めぐる裁判 原告側控訴の方針
+10月5日 5:14
+臨時国</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261005de54411</guid><pubDate>Sun, 04 Oct 2026 23:30:33 +0000</pubDate></item><item><title>ロシアがジェット推進式ドローン技術を北朝鮮と共有の可能性＝ゼレンスキー氏（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFAxTGJkdFl5MmNMX2JKY25rc3VxYzdmT01KMUV6T3B2c1ZpNVd6TVlJVl9xbnpkZmJmUUc1djFTVzB3V3hxejN6Z1FQSWZuRGdTMndmc2NpOG5sN0tuRldpRVI4SEZNdUZFeVZxVy0zaXN5bTd0dTFDdDRpR0hYaDA?oc=5</link><description>[score: 0.882] ロシアがジェット推進式ドローン技術を北朝鮮と共有の可能性＝ゼレンスキー氏（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFAxTGJkdFl5MmNMX2JKY25rc3VxYzdmT01KMUV6T3B2c1ZpNVd6TVlJVl9xbnpkZmJmUUc1djFTVzB3V3hxejN6Z1FQSWZuRGdTMndmc2NpOG5sN0tuRldpRVI4SEZNdUZFeVZxVy0zaXN5bTd0dTFDdDRpR0hYaDA?oc=5</guid><pubDate>Sun, 04 Oct 2026 22:39:36 +0000</pubDate></item><item><title>金利上昇と選挙が重し、ＦＯＭＣ議事要旨に注目 決算発表開始＝今週の米株市場​​ - ロイター</title><link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQemlxbDlyV0hGSFZuUFRtS3NqQ0tXMFdQc0RycFVjZG45RUFlWWtqVVZtc29YcXcxNmlkcFVpMEV5V0dXa2JEWl9KWEdGeXhRbG43eE4yNklGV09jU0V0cVBwbFgwUGhTQTFrdTlZS0JJa3I5X2Qybjd1dTBPZ2REWTlMNzg?oc=5</link><description>[score: 0.882] 金利上昇と選挙が重し、ＦＯＭＣ議事要旨に注目 決算発表開始＝今週の米株市場​​ ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxQemlxbDlyV0hGSFZuUFRtS3NqQ0tXMFdQc0RycFVjZG45RUFlWWtqVVZtc29YcXcxNmlkcFVpMEV5V0dXa2JEWl9KWEdGeXhRbG43eE4yNklGV09jU0V0cVBwbFgwUGhTQTFrdTlZS0JJa3I5X2Qybjd1dTBPZ2REWTlMNzg?oc=5</guid><pubDate>Sun, 04 Oct 2026 23:38:30 +0000</pubDate></item><item><title>トランプ大統領、「Super Intelligence Force」創設を発表　国家情報長官やFTC委員長らが主導</title><link>https://www.itmedia.co.jp/news/article/2610/05/2000001990/</link><description>[score: 0.884] トランプ大統領、「Super Intelligence Force」創設を発表 国家情報長官やFTC委員長らが主導
+ドナルド・トランプ米大統領は10月4日（現地時間）、自身のSNS「Truth Social」への投稿で、超知能（SI）分野における連邦政府の取り組みを調整する新組織「Super Intelligence Force」（SIF）を創設すると発表した。
+ジェイ・クレイトン国家情報長官（DNI）やアンドリュー・ファーガソン連邦取引委員会（FTC）委員長ら4人が率いる。
+投稿によると、SIFの任務は、米国が今後もSIで世界をリードし続けられるよう、連邦政府の取り組みを調整することという。</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/05/2000001990/</guid><pubDate>Sun, 04 Oct 2026 22:46:03 +0000</pubDate></item><item><title>完全版 Claude Mods 入門 | Claude Codeを自由にカスタマイズする</title><link>https://zenn.dev/nogu66/articles/claude-mods-complete-guide</link><description>[score: 0.884] noguです。 2026年10月1日、Claude CodeのClaude Modsが正式に発表されました。 https://x.com/ClaudeDevs/status/2105721434807083061?s=20 これは、TypeScriptの関数を用いて、Claude Codeの機能や見た目を自由かつ安全にカスタマイズできる拡張機能の仕組みです。個人的に、この機能はかなり将来性の高い機能だと感じています。 本記事では、Claude Modsの機能について深掘りするとともに、どのように活用していくことができるのかまとめていきます。 これからModを始める方が、仕組みを理解し、自...</description><guid isPermaLink="false">https://zenn.dev/nogu66/articles/claude-mods-complete-guide</guid><pubDate>Sun, 04 Oct 2026 22:54:52 +0000</pubDate></item><item><title>Googleが約100媒体に支払いテスト。AI検索で減った広告収入の穴埋めになるか【SEO Weekly Update】</title><link>https://www.suzukikenichi.com/blog/seo-weekly-update-october-2026-week1/</link><description>[score: 0.885] 毎週の注目 SEO ニュースをピックアップして、YouTube ミエルカチャンネルで動画解説しています。
+2026 年 10 月第 1 週の注目 SEO ニュースに選んだのはこちらの 3 つのトピックです。
+- Google が約 100 媒体に「AI 引用の報酬」その仕組みは？
+- ChatGPT や Google は何を見て商品をおすすめする？
+- 2030 年 のGoogle 検索はどう変わる？Google 幹部が語った未来
+内容は動画でサクッとチェック！⬇️
+毎週の注目 SEO ニュースをピックアップして、YouTube ミエルカチャンネルで動画解説しています。
+2026 年 10 月</description><guid isPermaLink="false">https://www.suzukikenichi.com/blog/seo-weekly-update-october-2026-week1/</guid><pubDate>Sun, 04 Oct 2026 22:30:37 +0000</pubDate></item><item><title>オープンＡＩ安全性担当者が退職、「試行錯誤の時代は終わった」 - ロイター</title><link>https://news.google.com/rss/articles/CBMifEFVX3lxTE1EamxGdHBQdnVFQjZMeDRXdGpFNnFNbHBWT3Z6MjZjZXFoTmNLaUlPdTItQkRYRG1obDlXbHJNcVZ2SmRHakdZVDZJaGRuZDdzNi1ndFVOLW1JZHljUFhNdElmTG93WUxlVm1zb0E1NnpkbGZyVWp0T3ZxSmU?oc=5</link><description>[score: 0.885] オープンＡＩ安全性担当者が退職、「試行錯誤の時代は終わった」 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifEFVX3lxTE1EamxGdHBQdnVFQjZMeDRXdGpFNnFNbHBWT3Z6MjZjZXFoTmNLaUlPdTItQkRYRG1obDlXbHJNcVZ2SmRHakdZVDZJaGRuZDdzNi1ndFVOLW1JZHljUFhNdElmTG93WUxlVm1zb0E1NnpkbGZyVWp0T3ZxSmU?oc=5</guid><pubDate>Sun, 04 Oct 2026 23:38:30 +0000</pubDate></item><item><title>ロシア、ウクライナ攻撃強化へ 製油所攻撃巡るゼレンスキー氏発言受け - ロイター</title><link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPR2VIUjl3QWVHbWpnSHhRUWxWZ2s4QnV4dFpuWnhBWVRGcjQ2aVV4NFFpTVlKX2JmaGZuZVBucHVWel9DQm10N3p0MVpQaGlUYWUzMk1ab3dPUUpabW9OQkRNZ0hLY3FNY2diNl81RmJTZnUwelN5QU9fRnVPcFZUR1g0X0M?oc=5</link><description>[score: 0.886] ロシア、ウクライナ攻撃強化へ 製油所攻撃巡るゼレンスキー氏発言受け ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxPR2VIUjl3QWVHbWpnSHhRUWxWZ2s4QnV4dFpuWnhBWVRGcjQ2aVV4NFFpTVlKX2JmaGZuZVBucHVWel9DQm10N3p0MVpQaGlUYWUzMk1ab3dPUUpabW9OQkRNZ0hLY3FNY2diNl81RmJTZnUwelN5QU9fRnVPcFZUR1g0X0M?oc=5</guid><pubDate>Sun, 04 Oct 2026 23:38:30 +0000</pubDate></item><item><title>トランプ氏、政権のＡＩ責任者にクレイトン国家情報長官を任命 - ロイター</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9sV29OTTBFZzJhbXIwZGRVY0hZTVQxVlFCNDdHd2sxcFRfcUg1aWlBZDdhdEx5TDk3UzduWkIzZTVmVVBHZTBrbTFua25YeTMzNmpETjlxcVFQRnlfREJ0VlQtSkp1TmoxNnQyZHBieFVua1BVdHp2bXZSOWhsQQ?oc=5</link><description>[score: 0.888] トランプ氏、政権のＡＩ責任者にクレイトン国家情報長官を任命 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE9sV29OTTBFZzJhbXIwZGRVY0hZTVQxVlFCNDdHd2sxcFRfcUg1aWlBZDdhdEx5TDk3UzduWkIzZTVmVVBHZTBrbTFua25YeTMzNmpETjlxcVFQRnlfREJ0VlQtSkp1TmoxNnQyZHBieFVua1BVdHp2bXZSOWhsQQ?oc=5</guid><pubDate>Sun, 04 Oct 2026 23:38:30 +0000</pubDate></item><item><title>トランプ大統領 AI政策を調整する司令塔組織を設立</title><link>https://news.web.nhk/newsweb/na/nd-20261005de54399</link><description>[score: 0.890] AIの安全性をめぐる議論が高まるなか、アメリカのトランプ大統領はAIに関する政策の司令塔となる新たな組織を設立し、情報機関を統括する国家情報長官らが責任者を務めると発表しました。
+トランプ大統領は…
+あわせて読みたい
+ブラジル大統領選挙 投票始まる
+10月4日 22:02
+ウクライナ キーウの橋にまた無人機攻撃 市民に心理的圧力か
+10月4日 23:45
 ロシア ウクライナ駐在外交官らに報復攻撃巻き添えを警告
 10月4日 5:06
 米大統領“選挙勝利で5000ドル支給”重ねて主張 選挙戦激しく
 10月4日 6:40
 北朝鮮メディア“3日に発射の中距離ミサイルは1000キロ飛行”
-10月4日 13:17
-フライドバイ機長“祈りの間 見ないようにしていたら襲撃”
-10月4日 13:11
-サウジアラビアと隣国イエメンの反政府勢力フーシ派</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261004de54373</guid><pubDate>Sun, 04 Oct 2026 15:13:31 +0000</pubDate></item><item><title>AI時代に、次のベテランエンジニアは育つのか｜柴田 芳樹</title><link>https://note.com/yoshiki_shibata/n/n185f3d9e13bc</link><description>[score: 0.866] AI時代に、次のベテランエンジニアは育つのか
-私は1978年4月にプログラミングを学び始めました。それから48年以上、さまざまなソフトウェア開発のプロジェクトに携わり、現在もソフトウェア開発を続けています。
-この48年間で、ソフトウェア開発を取り巻く環境は大きく変わりました。
-そして今、生成AIによって、また大きな変化が起きています。
-しかし、今回の変化は、これまで経験してきた変化とは少し違うのではないかと考えています。
-技術書とマニュアルしかなかった時代
-私がプログラミングを始めた頃には、当然ながらインターネットはありませんでした。分からないことがあれば、技術書やマニュアルを調べます。それで</description><guid isPermaLink="false">https://note.com/yoshiki_shibata/n/n185f3d9e13bc</guid><pubDate>Sun, 04 Oct 2026 13:21:39 +0000</pubDate></item><item><title>ノーベル賞 5日は生理学・医学賞の発表日</title><link>https://news.web.nhk/newsweb/na/nd-20261004de54368</link><description>[score: 0.867] 5日はノーベル生理学・医学賞の発表日です。
-スウェーデンのストックホルムにあるノーベル賞の選考委員会が、日本時間の5日午後6時半からことしの受賞者を発表します。
-初日に発表される生理学・医学賞は…
-あわせて読みたい
-那覇市ホテル強盗殺人事件 死因は窒息 逮捕の米海兵隊員は否認
-10月4日 23:13
-日経新聞サイバー攻撃で情報漏えいか なりすましメールが送信
-10月4日 21:30
-ブラジル大統領選挙 投票始まる
-10月4日 22:02
-横浜市長選挙 パワハラ問題で辞職の前市長と新人 7人が立候補
-10月4日 19:39
-ジャガイモ 注目の「抵抗性品種」 食品大手で採用広がる
-10月4日 19</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261004de54368</guid><pubDate>Sun, 04 Oct 2026 20:07:28 +0000</pubDate></item><item><title>柔道世界選手権 女子48キロ 古賀若菜が初の金メダル</title><link>https://news.web.nhk/newsweb/na/nd-20261005de54396</link><description>[score: 0.867] 柔道世界選手権 女子48キロ 古賀若菜が初の金メダル
-柔道の世界選手権が4日、アゼルバイジャンで開幕し、女子48キロ級で古賀若菜選手が初めて金メダルを獲得しました。
-柔道の世界選手権はアゼルバイジャンのバクーで4日から始まり、8日間で男女それぞれ7階…
-あわせて読みたい
-競馬 凱旋門賞 日本馬は11着と14着 初優勝ならず
-10月5日 0:41
-サッカー日本代表 ニュージーランド戦へ最終調整
-10月4日 22:37
-【プロ野球結果】DeNA リーグ優勝の阪神にサヨナラ勝ち
-10月5日 0:03
-名古屋アジア大会閉会式 16日間の熱戦に幕
-10月4日 22:10
-ゴルフ 日本女子オープン シン・</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261005de54396</guid><pubDate>Sun, 04 Oct 2026 20:37:25 +0000</pubDate></item><item><title>「シークレットスキャン」とは？漏れた API キー、誰が止めてくれるのか？ 業務システム 65 件と GitHub・GitLab を調べてみた</title><link>https://qiita.com/songchong/items/5ee39ef5b71510e36c2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.868] API キーをうっかり GitHub に公開してしまったら、誰かが気づいて止めてくれるのでしょうか。GitHub には「シークレットスキャン」という仕組みがあります。ただ、その仕組みで自分の使っているシステムの鍵まで守られるのか、自分で何か設定する必要があるのかは、あまり知られていません。
-この記事では、GitHub・GitLab などの公式文書と、IT連携マップで API があると確かめた業務システム 65 件を GitHub の対応表と照らした結果から、4 つの問いに答えます。冒頭の図は、4 つの問いと答えの一覧です。引用した原文と細かい数字は、調査ページ シークレットスキャンとは — 漏</description><guid isPermaLink="false">https://qiita.com/songchong/items/5ee39ef5b71510e36c2a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 04 Oct 2026 20:24:07 +0000</pubDate></item><item><title>LLMのJSON Schemaを厳しくしても業務検証を消せない理由</title><link>https://qiita.com/TechStudioLab/items/0bbf128791023cc90893?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.870] Structured OutputsでJSON Schemaに一致する出力を得られるなら、アプリ側のvalidationも消せそうに見えます。消せるのは、主に「JSONとして壊れている」「必須キーがない」「enum外の値が来る」といった形式上の失敗です。
-start_date
-よりdue_date
-が前、入力に存在しない依頼者名が補完される、といった誤りはSchemaを通過できます。Schemaを厳しくするほど楽になるのは構造の検証であって、業務上の正しさの検証ではありません。
-2026年9月30日時点のOpenAI公式ドキュメントでも、Structured Outputsは指定したJSON </description><guid isPermaLink="false">https://qiita.com/TechStudioLab/items/0bbf128791023cc90893?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 04 Oct 2026 20:24:07 +0000</pubDate></item><item><title>横田めぐみさん62歳に 母親の早紀江さん「悔しさといらだち」</title><link>https://news.web.nhk/newsweb/na/nd-20261004de54222</link><description>[score: 0.871] 中学1年生の時に北朝鮮に拉致された横田めぐみさんが5日、62歳の誕生日を迎えました。ことし90歳となった母親の早紀江さんは「50年近く頑張っても声を聞くこともできないことに悔しさといらだちを感じます」…
-注目ワード
-あわせて読みたい
-那覇市ホテル強盗殺人事件 死因は窒息 逮捕の米海兵隊員は否認
-10月4日 23:13
-日経新聞サイバー攻撃で情報漏えいか なりすましメールが送信
-10月4日 21:30
-ブラジル大統領選挙 投票始まる
-10月4日 22:02
-横浜市長選挙 パワハラ問題で辞職の前市長と新人 7人が立候補
-10月4日 19:39
-ジャガイモ 注目の「抵抗性品種」 食品大手で採用広がる</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261004de54222</guid><pubDate>Sun, 04 Oct 2026 20:37:25 +0000</pubDate></item><item><title>18歳未満の選挙運動禁止めぐる裁判 原告側控訴の方針</title><link>https://news.web.nhk/newsweb/na/nd-20261004de54360</link><description>[score: 0.872] 18歳未満の選挙運動を禁止する公職選挙法の規定を「憲法違反」だと指摘した一方、賠償などを求める訴えを退けた東京地方裁判所の判決について、原告と弁護団が控訴する方針を固めたことがわかりました。
-最終的…
-あわせて読みたい
-那覇市ホテル強盗殺人事件 死因は窒息 逮捕の米海兵隊員は否認
-10月4日 23:13
-日経新聞サイバー攻撃で情報漏えいか なりすましメールが送信
-10月4日 21:30
-ブラジル大統領選挙 投票始まる
-10月4日 22:02
-横浜市長選挙 パワハラ問題で辞職の前市長と新人 7人が立候補
-10月4日 19:39
-ジャガイモ 注目の「抵抗性品種」 食品大手で採用広がる
-10月4日 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261004de54360</guid><pubDate>Sun, 04 Oct 2026 20:37:25 +0000</pubDate></item><item><title>具体・抽象トレーニングに参加して学んだこと</title><link>https://qiita.com/like-mountain/items/e8334382a5fc84e0d64e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] はじめに
-2026年9月27日に、具体・抽象トレーニングのイベントに参加してきました。
-学んだことと感じたことをまとめておきます。
-抽象とは
-抜き出すことと捨てることは、セット。
-- 抽象とは、物事の中から共通する部分を抜き出すこと
-- 「捨象」という言葉もあって、こちらは不要な部分を捨てること
-AI時代は「抽象の人」が大事になる
-話の中で印象に残ったのが、
-- 抽象的に考える人（方針や戦略を考える人）は、これから重要になる
-- 具体的なこと、言われたことをやるだけの人は、価値が下がっていく
-という話です。
-具体的な作業は、生成AIがとても得意な領域です。
-でも「そもそも何をやるか」を考えるの</description><guid isPermaLink="false">https://qiita.com/like-mountain/items/e8334382a5fc84e0d64e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 04 Oct 2026 20:24:07 +0000</pubDate></item><item><title>API キーはどこから漏れるのか？ 自分のサイトに来た .env 探し 1,566 件と、公開事例を 7 つの経路に分けてみた</title><link>https://qiita.com/songchong/items/02672765fe53f911a1a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] 「API キーが漏れた」と聞くと、悪意のある誰かに盗まれた場面を思い浮かべがちです。実際に多いのは、鍵を置いた場所が思ったより広く見えていた、という漏れ方です。
-この記事では、公開されている報告と事例、そして私たちのサイトに実際に届いたアクセスの記録から、API キーが漏れる経路を 7 つに分け、それぞれ何から塞ぐかを答えます。冒頭の図は、左に 7 つの経路を漏れる場所ごとに並べ、右にそれぞれ先にすることを並べた一覧です。引用した原文と細かい数字は、調査ページ API キーはどこから漏れるのか — 7 つの経路 に 1 行ずつ載せています。
-1. まず、言葉をそろえる
-| 言葉 | 意味 |
-</description><guid isPermaLink="false">https://qiita.com/songchong/items/02672765fe53f911a1a0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 04 Oct 2026 20:24:07 +0000</pubDate></item><item><title>臨時国会きょう召集 消費税減税法案などで論戦へ</title><link>https://news.web.nhk/newsweb/na/nd-20261005de54388</link><description>[score: 0.879] 先の内閣改造後初めての論戦の場となる臨時国会が5日召集されます。政府・与党が、食料品の消費税減税に関する法案などの成立を図るのに対し、野党側は物価高対策としての効果や財源などをただす構えで活発な論戦が…
-あわせて読みたい
-那覇市ホテル強盗殺人事件 死因は窒息 逮捕の米海兵隊員は否認
-10月4日 23:13
-日経新聞サイバー攻撃で情報漏えいか なりすましメールが送信
-10月4日 21:30
-ブラジル大統領選挙 投票始まる
-10月4日 22:02
-横浜市長選挙 パワハラ問題で辞職の前市長と新人 7人が立候補
-10月4日 19:39
-ジャガイモ 注目の「抵抗性品種」 食品大手で採用広がる
-10月4日</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261005de54388</guid><pubDate>Sun, 04 Oct 2026 20:07:28 +0000</pubDate></item><item><title>マンガを作るワークフローの全貌（2026年9月時点）</title><link>https://qiita.com/yuji_yasuhara/items/08ee1072f5038f4a12d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] この文章は
-人間が書いています。
-完成したマンガを先に読みたい人は
-この記事のいちばん最後にあります。
-はじめに
-AIの力でマンガを描きやすくなりましたが、思い通りの結果を得るには様々な工夫が必要です。おそらくそれは、この先AIが進化してもそんなに変わらないのではないでしょうか。人間の脳内の情報を伝える方法というのはAIの進化とは無関係ですから。
-3日ほどかけて、約3,300字のオリジナル短編小説『冬眠』を 6ページ26コマのマンガにしました。
-ネーム、初版、完成品です。この記事ではその作業工程を振り返ります。
-なお制作は Claude Code（リーダー）と Codex（作画担当の work</description><guid isPermaLink="false">https://qiita.com/yuji_yasuhara/items/08ee1072f5038f4a12d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 04 Oct 2026 20:24:07 +0000</pubDate></item><item><title>「エンジニア不要論の真実！」を読んでみて</title><link>https://qiita.com/taki-umi/items/1ab4bce268e4aa6e7794?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.909] プログラミングスクールJISOUを運営している渡邉 臣さん（@Sicut_study
-）の以下記事を読んで率直に思った今の心境や、学び・気づいたこと、ネクストアクションをアウトプットします。
-まず、自分はどんな人間なのか
-エンジニア歴は8年ほどで、現在はエンジニアチーム僕入れて2人という超少人数チームで、自社の販売ECサイトプロジェクトのプロダクトエンジニアとしてPMの方や運用関係者と協力しながら売上貢献に努めています。
-ポンコツなりに、自分の仕事にしっかり責任を持ちながらなんとか喰らい付いています。
-くわしい自己紹介はこちらを読んでいただけるとうれしいです。
-今回の渡邉さんの記事をアウトプッ</description><guid isPermaLink="false">https://qiita.com/taki-umi/items/1ab4bce268e4aa6e7794?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 04 Oct 2026 20:24:07 +0000</pubDate></item></channel></rss>
+10月4日 1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261005de54399</guid><pubDate>Sun, 04 Oct 2026 22:04:34 +0000</pubDate></item><item><title>AI導入は進む、だが「責任の所在」は追いついていない</title><link>https://forbesjapan.com/articles/detail/106011?s=ns</link><description>[score: 0.893] 前四半期、ある企業との電話会議に参加していた。その会社は、生成AIツールを全社のあらゆる部門に一斉導入したばかりだった。CEOは会議の冒頭で、導入率がいかに素晴らしいかを語った。最初の1カ月で従業員の90%がログインしたという。彼の話しぶりは、かつて人々が新しい顧客関係管理（CRM）プラットフォームの導入について語っていたときのようだった。
+その20分後、法務チームの1人が、ほとんどついでのように、従業員が実際にそのツールへ何を入力しているのか把握している人はいるのかと尋ねた。その場にいた誰も答えを持っていなかった。
+その瞬間が印象に残っている。というのも、その後、私は十数社でこれと似た光景を</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106011?s=ns</guid><pubDate>Sun, 04 Oct 2026 23:31:11 +0000</pubDate></item><item><title>ビル・ゲイツがAIの悪用に強い警告「10億人が死ぬかもしれない」 …アメリカ政府の規制を支持</title><link>https://www.businessinsider.jp/article/2610-bill-gates-ai-warning-billion-deaths-regulation/</link><description>[score: 0.894] - ビル・ゲイツはAI企業に対するアメリカ政府の規制を支持している。
+- 9月27日放送予定のNBCの報道番組「ミート・ザ・プレス」のインタビューで、マイクロソフトの共同創業者であるゲイツは、AIが「10億人が死亡するような事態」を引き起こす可能性があると語った。
+- マイクロソフトCEOのサティア・ナデラは、AI業界に安全性を最優先するよう求めている。
+ビル・ゲイツ（Bill Gates）は、AIが悪用されることに強い懸念を抱いている。
+マイクロソフト（Microsoft）の共同創業者であるゲイツは、NBCの報道番組「ミート・ザ・プレス（Meet the Press）」のインタビューで、AI</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-bill-gates-ai-warning-billion-deaths-regulation/</guid><pubDate>Sun, 04 Oct 2026 21:25:09 +0000</pubDate></item><item><title>ローマ教皇、AI生成アートを非難</title><link>https://www.businessinsider.jp/article/2610-the-pope-criticizes-ai-generated-art/</link><description>[score: 0.896] ハリウッドが映画制作におけるAIの脅威に混迷し苦慮する一方で、カトリック教会は「人間によるクリエイター」の価値を再確認し、彼らを徹底擁護する姿勢を強めている。
+教皇レオ14世は10月2日の会合の中で、AIが生成したアートを痛烈に酷評。「人間らしさ」を守り抜くため、カトリック教会は各文化機関や芸術家との歴史的同盟関係を新たに刷新したいと考えていると表明した。
+「私たちは、検索エンジンが一瞬にして何千もの回答を提示してくれる時代を生きています」と教皇レオ14世は語った。「しかし、それらのテクノロジーがいかに強力であろうと、提示されるものは単にすでに存在するデータの焼き直しに過ぎず、私たちが事前に望</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-the-pope-criticizes-ai-generated-art/</guid><pubDate>Sun, 04 Oct 2026 23:26:35 +0000</pubDate></item><item><title>最近プロジェクトマネジメントで感じたこと - Qiita</title><link>https://qiita.com/shirakurak/items/ee7565d212fd3ae1adcb</link><description>[score: 0.897] 最近プロジェクトマネジメントで感じたこと - Qiita Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? 最近のプロジェクトマネジメント業務を振り返って、学びの言語化をします。3つ大事だと思ったことを書きます。 この記事は、AI を使っていません（AI 使ってたら、もっとそれっぽい...</description><guid isPermaLink="false">https://qiita.com/shirakurak/items/ee7565d212fd3ae1adcb</guid><pubDate>Sun, 04 Oct 2026 22:47:22 +0000</pubDate></item><item><title>ドル／円は膠着気味か、金利先高観と介入警戒の綱引き＝今週の外為市場 - ロイター</title><link>https://news.google.com/rss/articles/CBMifEFVX3lxTFBSUk9lX3hKYkY0c2VlMDRkQ1RBd3Q5UzFTanFBS1NXX09IT3NBbENjcVRSNTgzM1d4bnBOUklwUER2c0xia0xwdFJyTjNZT0FaN0pLbjVoQ1ZwMWZsM0dwNzBkRmtjVmxEeEFEaVhfNzQ1VXIxUWJBemZDMmU?oc=5</link><description>[score: 0.901] ドル／円は膠着気味か、金利先高観と介入警戒の綱引き＝今週の外為市場 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifEFVX3lxTFBSUk9lX3hKYkY0c2VlMDRkQ1RBd3Q5UzFTanFBS1NXX09IT3NBbENjcVRSNTgzM1d4bnBOUklwUER2c0xia0xwdFJyTjNZT0FaN0pLbjVoQ1ZwMWZsM0dwNzBkRmtjVmxEeEFEaVhfNzQ1VXIxUWJBemZDMmU?oc=5</guid><pubDate>Sun, 04 Oct 2026 23:38:30 +0000</pubDate></item><item><title>【202610版】 Webアプリ開発初心者がKiroでAI駆動開発をしてみた</title><link>https://zenn.dev/gob7ppcsvx/articles/ae6d8fc5ca495b</link><description>[score: 0.906] 今年度から内製開発でAI駆動開発ツール・Kiro (kiro-cli) が使えるようになったらしい。 フロントエンド開発未経験で業務ツール内製に投入されたので、"AI駆動開発"に挑戦してみた。 現時点のメモ。 なお、まかされたのはJavaScriptフレームワークを利用したシングルページWebアプリでした。 たぶん一番大事なこと コンテキストを良質かつ必要十分に保つ。 プロフェッショナルAI駆動開発が言うところの"入力"の質を保つという考え方に沿うもの。 この考え方を知ってから出力が一段と安定しやすくなったように感じる。 経緯 開始当初はAmazon QとKiroの違いもわから...</description><guid isPermaLink="false">https://zenn.dev/gob7ppcsvx/articles/ae6d8fc5ca495b</guid><pubDate>Sun, 04 Oct 2026 22:54:52 +0000</pubDate></item></channel></rss>
