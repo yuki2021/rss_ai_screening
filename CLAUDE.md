@@ -27,29 +27,31 @@ This is a single-pipeline CLI tool that runs on a schedule (JST 06:00 and 15:00 
 
 **Pipeline stages in `src/main.py`:**
 
-1. **`raindrop.py`** — Fetches all Raindrop.io bookmarks via REST API (paginated, rate-limited at 100 req/min). New bookmarks are inserted into `raindrops` table. These bookmarks represent the user's taste profile.
+1. **`raindrop.py`** — Syncs Raindrop.io bookmarks via REST API (newest-first, rate-limited at 100 req/min) into the `raindrops` table. These bookmarks represent the user's taste profile. Normally the walk stops at the first page with no new bookmarks; once every `RAINDROP_FULL_SYNC_DAYS`, on an afternoon (JST ≥ 12:00) run only, it re-reads all ~43k bookmarks (~10 min) and deletes the ones removed in Raindrop. The last full sync time lives in the `meta` table.
 
 2. **`feed_fetch.py`** — Parses an Inoreader RSS feed with `feedparser` and upserts entries into the `articles` table.
 
 3. **`extract.py`** — For articles with short content (<200 chars), fetches the full page with `trafilatura` to get the actual article text (up to `MAX_CONTENT_CHARS`).
 
-4. **`embed.py`** — Computes sentence embeddings for both raindrops (taste profile) and articles using `intfloat/multilingual-e5-small` via `sentence-transformers`. Embeddings are stored as raw `float32` bytes in SQLite BLOBs. Both raindrops and articles use the `"passage: "` prefix per E5 convention.
+4. **`embed.py`** — Computes sentence embeddings for both raindrops (taste profile) and articles using `intfloat/multilingual-e5-small` via `sentence-transformers`. Embeddings are stored as raw `float32` bytes in SQLite BLOBs. Raindrops use the `"passage: "` prefix and articles the `"query: "` prefix (E5 convention).
 
-5. **`score.py`** — Scores each article by cosine similarity to the top-K raindrop embeddings. Recent raindrops (within `RECENCY_DAYS`) are weighted higher (`RECENCY_WEIGHT`). Since embeddings are L2-normalized, similarity is computed as a dot product.
+5. **`score.py`** — Scores each article by its best cosine similarity to the raindrops saved within `RECENCY_DAYS`, after subtracting an age penalty from each raindrop (up to `PREF_MAX_PENALTY`, half of it at `PREF_HALF_LIFE_DAYS`), then multiplies by the article's own age decay (`HALF_LIFE_DAYS`). Articles ≥ `DUPLICATE_SCORE_THRESHOLD` similar to a raindrop score 0. Since embeddings are L2-normalized, similarity is a dot product.
 
-6. **`rss_gen.py`** — Selects the top `TOP_N` articles (excluding URLs emitted within `DEDUP_DAYS`), writes `public/custom.xml` using `feedgen`, and logs emitted URLs to `output_log`.
+6. **`rss_gen.py`** — Selects the top `TOP_N` articles (excluding URLs emitted within `DEDUP_DAYS`, already bookmarked, or matching `BLOCKED_URL_PREFIXES`), writes `public/custom.xml` using `feedgen`, and logs emitted URLs to `output_log`.
 
 **Persistence (`src/store.py`):**
 
-SQLite at `data/state.db` with three tables:
+SQLite at `data/state.db` with four tables:
 - `raindrops` — bookmark taste profile with embeddings
 - `articles` — candidate articles with embeddings and scores
 - `output_log` — deduplication log of previously emitted URLs
+- `meta` — key/value run state (e.g. last Raindrop full sync)
 
 The DB is preserved across GitHub Actions runs via `actions/cache` with `restore-keys: state-db-` (always restores the latest).
 
 **Tunable constants in `src/config.py`:**
 - `TOP_N = 30` — articles per RSS output
-- `TOP_K_SCORE = 10` — top-K raindrops used for scoring each article
-- `RECENCY_WEIGHT = 2.0` / `RECENCY_DAYS = 90` — recency boost for taste profile
+- `RECENCY_DAYS = 365` — raindrops older than this leave the taste profile
+- `PREF_MAX_PENALTY` / `PREF_HALF_LIFE_DAYS` — how much older raindrops are discounted
+- `BLOCKED_URL_PREFIXES` — URL prefixes (scheme stripped) excluded from both the taste profile and the output; raindrops stay in Raindrop
 - `DEDUP_DAYS = 14` — deduplication window

@@ -3,7 +3,7 @@ import sqlite3
 import numpy as np
 from datetime import datetime, timezone, timedelta
 from contextlib import contextmanager
-from src.config import DB_PATH
+from src.config import DB_PATH, BLOCKED_URL_PREFIXES
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS raindrops (
@@ -31,6 +31,10 @@ CREATE TABLE IF NOT EXISTS output_log (
     emitted_at TEXT NOT NULL,
     score      REAL
 );
+CREATE TABLE IF NOT EXISTS meta (
+    key   TEXT PRIMARY KEY,
+    value TEXT
+);
 """
 
 
@@ -53,6 +57,26 @@ def init_db():
 
 def now_iso() -> str:
     return datetime.now(timezone.utc).isoformat()
+
+
+def is_blocked(url: str) -> bool:
+    bare = (url or "").split("://", 1)[-1]
+    return bare.startswith(BLOCKED_URL_PREFIXES)
+
+
+def get_meta(key: str) -> str | None:
+    with get_conn() as conn:
+        row = conn.execute("SELECT value FROM meta WHERE key=?", (key,)).fetchone()
+    return row["value"] if row else None
+
+
+def set_meta(key: str, value: str):
+    with get_conn() as conn:
+        conn.execute(
+            "INSERT INTO meta (key, value) VALUES (?, ?) "
+            "ON CONFLICT(key) DO UPDATE SET value=excluded.value",
+            (key, value),
+        )
 
 
 def get_raindrop_ids() -> set[int]:
@@ -91,6 +115,11 @@ def insert_raindrops(items: list[dict]):
         )
 
 
+def delete_raindrops(ids: set[int]):
+    with get_conn() as conn:
+        conn.executemany("DELETE FROM raindrops WHERE id=?", [(i,) for i in ids])
+
+
 def update_raindrop_embedding(raindrop_id: int, emb: np.ndarray, model: str):
     with get_conn() as conn:
         conn.execute(
@@ -110,10 +139,11 @@ def get_recent_raindrop_embeddings(days: int) -> tuple[np.ndarray, list[str]]:
     cutoff = (datetime.now(timezone.utc) - timedelta(days=days)).isoformat()
     with get_conn() as conn:
         rows = conn.execute(
-            "SELECT embedding, saved_at FROM raindrops "
+            "SELECT url, embedding, saved_at FROM raindrops "
             "WHERE embedding IS NOT NULL AND saved_at > ?",
             (cutoff,),
         ).fetchall()
+    rows = [r for r in rows if not is_blocked(r["url"])]
     if not rows:
         return np.empty((0, 384), dtype=np.float32), []
     embs = np.stack([np.frombuffer(r["embedding"], dtype=np.float32) for r in rows])
@@ -175,7 +205,9 @@ def get_top_articles(n: int, exclude_urls: set[str]) -> list[sqlite3.Row]:
             "WHERE embedding IS NOT NULL AND score IS NOT NULL "
             "ORDER BY score DESC"
         ).fetchall()
-    return [r for r in rows if r["url"] not in exclude_urls][:n]
+    return [
+        r for r in rows if r["url"] not in exclude_urls and not is_blocked(r["url"])
+    ][:n]
 
 
 def log_emissions(items: list[sqlite3.Row]):

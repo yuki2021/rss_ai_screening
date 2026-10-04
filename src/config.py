@@ -6,12 +6,18 @@ INOREADER_FEED_URL = os.environ.get("INOREADER_FEED_URL", "")
 MODEL_NAME = "intfloat/multilingual-e5-small"
 EMB_ARTICLE_TAG = MODEL_NAME + "+qp"
 TOP_N = 30
-TOP_K_SCORE = 5
-RECENCY_DAYS = 365
-MID_RECENCY_DAYS = 90
-MID_RECENCY_WEIGHT = 2.0
-SHORT_RECENCY_DAYS = 30
-SHORT_RECENCY_WEIGHT = 3.0
+RECENCY_DAYS = 365  # raindrops older than this drop out of the taste profile
+# A raindrop's similarity is reduced by up to PREF_MAX_PENALTY as it ages,
+# half of that after PREF_HALF_LIFE_DAYS — so a fresh interest outranks one
+# bookmarked a year ago at the same similarity.
+PREF_HALF_LIFE_DAYS = 90
+PREF_MAX_PENALTY = 0.03
+# URL prefixes (scheme stripped) that are neither part of the taste profile
+# nor ever emitted, e.g. an author whose posts were bookmarked by mistake.
+BLOCKED_URL_PREFIXES = (
+    "qiita.com/maskot1977/",
+)
+RAINDROP_FULL_SYNC_DAYS = 7  # re-read every bookmark this often to catch deletions
 MAX_CONTENT_CHARS = 5000
 FETCH_TIMEOUT = 10
 DEDUP_DAYS = 14
