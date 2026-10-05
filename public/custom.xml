@@ -1,87 +1,36 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 05 Oct 2026 13:03:13 +0000</lastBuildDate><item><title>中小企業がAIを業務導入できない理由　業務効率化の先に潜む落とし穴</title><link>https://forbesjapan.com/articles/detail/105638?s=ns</link><description>[score: 0.873] DXだペーパーレス化だと騒がれていたのがずいぶん前のように感じられるが、従業員数100人以下の中小企業のほぼ半数がまだDXに取り組んでおらず、海外から大きく立ち遅れている（情報処理推進機構『DX 動向 2025 – 成長のための DX に求められる取組』より）。そんな状況にAIがやって来た。個人的に生成AIを使う人が増えているため、DXよりAIのほうが受け入れやすいかもしれない。しかし業務に導入するとなると、そこには大きな壁が出現する。また、DXもAIトランスフォーメーション（AX）も本格的導入になかなか至らない日本の中小企業ならではの事情もあった。
-AI導入を邪魔する中小企業の壁
-中小企業の</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105638?s=ns</guid><pubDate>Mon, 05 Oct 2026 07:44:21 +0000</pubDate></item><item><title>森崎修司の「どうやってはかるの？」：オルタナティブ・ブログ</title><link>https://blogs.itmedia.co.jp/morisaki/</link><description>[score: 0.873] Windows 7開発時のリファクタリングを報告した論文 2026/06/22 Comment(0) ソースコードの読みやすさの一側面: 判読性(Legibility) 2026/04/13 Comment(0) オープンソースのプルリクエストを8種類の読みやすさ改善に分類した研究 2026/04/06 Comment(0) まぎらわしいユーザインタフェースをダークパターンとして分類した研究 2026/03/30 Comment(0) エンジニアのためのソフトウェア工学論文の見つけかたと読みかた 2026/03/02 Comment(0) グーグルでのコードカバレッジ活用を紹介した論文 202</description><guid isPermaLink="false">https://blogs.itmedia.co.jp/morisaki/</guid><pubDate>Mon, 05 Oct 2026 11:27:14 +0000</pubDate></item><item><title>【速報】Gemini 4 Argon 登場！公式データで見る“長時間働くAI”の現在地</title><link>https://qiita.com/tomokoro/items/69f8d2f1a3504927b6c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.873] 1. はじめに
-みなさんこんにちは！
-2026年10月1日（日本時間）、Google DeepMindより新世代のフロンティアAIモデル「Gemini 4 Argon」（以下、Argon）が正式に発表されました。
-出典：[Google Japan Blog「Gemini 4 Argon：フロンティア知能の新時代」]
-これまでの記事でご紹介した「Nano Banana 2」や「Lyria 3」の検証に続き、Gemini 3.1 Pro の登場から1年足らず（約8ヶ月）で早くも「Gemini 4」世代の幕開けとなるフラッグシップモデルが登場したことには、大きな期待が寄せられます。
-現在、Argon</description><guid isPermaLink="false">https://qiita.com/tomokoro/items/69f8d2f1a3504927b6c7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 05 Oct 2026 08:26:41 +0000</pubDate></item><item><title>大起水産 不正アクセスで約17万5000人分の個人情報漏えいか</title><link>https://news.web.nhk/newsweb/na/nd-20261005de54848</link><description>[score: 0.873] 大阪・堺市に本社がある関西のすしチェーン「大起水産」は、外部から不正アクセスを受け、会社の公式アプリに登録されているおよそ17万5000人分の個人情報が外部に漏えいした可能性があると発表しました。現時…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 05 Oct 2026 21:14:17 +0000</lastBuildDate><item><title>大阪公立大システム障害 ランサムウエアによるサイバー攻撃か | NHKニュース</title><link>https://news.web.nhk/newsweb/na/nd-20261005de54843</link><description>[score: 0.864] 大規模なシステム障害で授業が休講している大阪公立大学は、5日に記者会見を開き、身代金要求型のコンピューターウイルス「ランサムウエア」によるサイバー攻撃を受けたという見方を示しました。
+大阪市と堺市…
 あわせて読みたい
 「焼肉きんぐ」運営会社 1000万件余のユーザー情報が漏えい
 10月5日 19:13
 大和証券 委託先サーバー不正アクセス 個人情報11万人分流出か
 10月5日 15:24
 簗農相 地元の道路“予算カット”発言撤回 「深く反省」陳謝
-10月5日 19:39
-台風27号 小笠原近海を北上 28号29号発生で“トリプル台風”に
-10月5日 19:59
-台風28号が発生 ハリケーン</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261005de54848</guid><pubDate>Mon, 05 Oct 2026 11:14:37 +0000</pubDate></item><item><title>「仕事より自分の時間」と最低限で回すと、見落としてしまいがちなこと。</title><link>https://studyhacker.net/portable-skills-asset</link><description>[score: 0.874] 「仕事は仕事と割り切って、それなりに済ませよう。自分の時間を最優先にしよう」。近年、こうした働き方を選ぶ人が増えています。 頑張っても責任と仕事量が増えるだけ。そんな苦い経験があれば、頼まれた範囲だけをこなして定時で切り上げる働き方に落ち着くのも自然なことです。実際、それで毎日は問題なく回っていきます。 しかし、数年たって異動や転職の話が持ち上がったとき、「自分には何が残っているのだろう」と手元を見て不安になる人も少なくないのです。 「割り切って自分の時間を守ること」と「長期的に何も失わないこと」は両立できます。カギとなるのは、割り切る働き方のなかで手放している「ポータブルスキル」に気づけるか</description><guid isPermaLink="false">https://studyhacker.net/portable-skills-asset</guid><pubDate>Mon, 05 Oct 2026 10:40:06 +0000</pubDate></item><item><title>Mac mini（2026, M6）レビュー：AI性能を強化、価格と性能のバランスも優秀</title><link>https://wired.jp/review/apple-mac-mini-m6/</link><description>[score: 0.875] 総合評価：9/10
-今年、Mac miniは映画『スパイダーマン』の主人公、ピーター・パーカーさながらの変貌を遂げた。ほんの6カ月前まで、アップルのMacのなかで最も小さく、価格も手ごろな入門機として、控えめな存在だったのだ。あまりに存在感が薄く、アップルは昨年、M5チップ搭載モデルを出さなかったほどである。
-ところが、2026年初めに状況は一変。Claude CoworkやOpenClaw、Perplexity ComputerといったAIエージェントのフレームワークが一気に広まり、AIモデルを動かすマシンとしてMac miniが突如人気を集めたのだ。ほどなくして売り切れとなり、その後も1年</description><guid isPermaLink="false">https://wired.jp/review/apple-mac-mini-m6/</guid><pubDate>Mon, 05 Oct 2026 08:21:26 +0000</pubDate></item><item><title>SpaceXAI、「SpaceXSI」にブランド変更へ　マスク氏が返答</title><link>https://www.watch.impress.co.jp/docs/news/2145787.html</link><description>[score: 0.875] ニュース
-SpaceXAI、「SpaceXSI」にブランド変更へ マスク氏が返答
-2026年10月5日 18:13
-SpaceXのイーロン・マスク氏は4日、GrokなどのAI開発部門である「SpaceXAI」について、「SpaceXSI」に名称変更する考えを表明した。
-米国のトランプ政権は9月29日、行政文書などの表記において「AI」「人工知能(Artificial Intelligence)」を廃止し、「SI」、「Super Intelligence」に改めると発表。この発表を受けて、マスク氏は「No more AI SI It’s better(AIはもういらない。SIがベターだ)」とXに</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2145787.html</guid><pubDate>Mon, 05 Oct 2026 09:27:23 +0000</pubDate></item><item><title>【速報】首相から全力で仕事するよう指示と簗農相</title><link>https://www.47news.jp/15039170.html</link><description>[score: 0.876] 【速報】首相から全力で仕事するよう指示と簗農相
-2026年10月05日 15時56分
-簗農相は、自治体予算を大幅にカットしたとの自身の発言に関し、高市早苗首相におわびし、首相から全力で仕事をするよう指示を受けたと記者団に明らかにした。
-G7「急きょ設定で欠席」 首相、2日のテレビ会議
-21時36分
-共同通信
-＜社説＞米兵強殺容疑沖縄の不条理座視できぬ
-21時10分
-北海道新聞
-臨時国会召集、消費税減税や定数削減法案…論戦へ、新潟県関係の与野党議員も意気込み
-21時10分
-新潟日報
-【速報】首相、沖縄県知事と7日にも面会へ
-20時24分
-共同通信
-簗農相、予算削減発言を撤回 「不適切でおわび」辞</description><guid isPermaLink="false">https://www.47news.jp/15039170.html</guid><pubDate>Mon, 05 Oct 2026 10:52:02 +0000</pubDate></item><item><title>災害で停電しても電気が使える街、米国で急増　どう実現する？</title><link>https://natgeo.nikkeibp.co.jp/atcl/news/26/100200542/?rss</link><description>[score: 0.876] 2024年、甚大な被害をもたらしたハリケーン「ヘレン」と「ミルトン」が米国フロリダ州南西部を襲った後、数百万人の住民がエアコンや冷蔵庫、携帯電話、照明を使用できない状態で何日も過ごした。しかし、ウィリアム・フルフォードさんは違った。3階建ての自宅を快適な温度に保ち、妻やきょうだいと手作りの食事を楽しみ、テレビを見ていた。近所に住むきょうだいは自宅がハリケーンで停電していたため、フルフォードさんのもとに身を寄せていた。
-フルフォードさんは、漁業の町コルテスにある86戸の計画住宅地ハンターズ・ポイントに住んでいる。各住宅には、屋根にソーラーパネル、ガレージに蓄電池などが導入されている。これらの住宅</description><guid isPermaLink="false">https://natgeo.nikkeibp.co.jp/atcl/news/26/100200542/?rss</guid><pubDate>Mon, 05 Oct 2026 11:04:51 +0000</pubDate></item><item><title>RAG構築が一気に簡単に？Oracle Private Agent Factory のKnowledge Agent Nodeを試してみた</title><link>https://qiita.com/ssfujita/items/8be112a1d43ab25f0cd9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.876] 生成AIを業務で活用しようとすると、多くのケースで避けて通れないのが RAG（Retrieval-Augmented Generation） です。
-社内ドキュメントや製品マニュアル、FAQなどをAIに参照させることで、LLM単体では回答できない自社固有の情報にも答えられるようになります。
-一方で実際にRAGを構築しようとすると、ドキュメントの取り込み、Embedding、Vector Store、検索処理、プロンプトへのコンテキスト注入など、意外と多くの要素を組み合わせる必要があります。
-「RAGを試してみたいだけなのに、環境を作るところで結構大変……」
-と感じたことがある方も多いのではない</description><guid isPermaLink="false">https://qiita.com/ssfujita/items/8be112a1d43ab25f0cd9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 05 Oct 2026 08:26:41 +0000</pubDate></item><item><title>OpenAIアルトマン、AIによる恩恵のため「悪い出来事も許容すべき」と主張</title><link>https://forbesjapan.com/articles/detail/106055?s=ns</link><description>[score: 0.876] OpenAIのサム・アルトマンCEOは、AI（人工知能）がもたらす多大な便益は、この技術に起因する「いくつかの悪い出来事」を受け入れるというトレードオフを正当化するものだと主張した。また、最近の安全性への懸念にもかかわらず、OpenAIは「より緩やかな」規制を支持していると指摘し、最大のライバルであるアンソロピックとの間に一線を画した。
-米政治専門メディア「Politico」のニュースレター「Decoded」のインタビューで、アルトマンは「私たちは、この技術の便益と人々が主体性を持つことのために、世界はいくつかの悪い出来事が発生することを受け入れるべきだと考えている」と語った。
-アルトマンは、</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106055?s=ns</guid><pubDate>Mon, 05 Oct 2026 08:14:16 +0000</pubDate></item><item><title>実務において敵対的レビューはどの程度有効なのか</title><link>https://zenn.dev/edash_tech_blog/articles/4577f7d4780bef</link><description>[score: 0.877] 実務において敵対的レビューはどの程度有効なのか 目次 背景 やったこと 検証結果 考察 付記：レビューと自動修正のループで指摘が収束しない問題 感想 1. 背景 AI エージェントにコードレビューをさせる手法のひとつとして、敵対的レビューが広まっています。差... razokulover</description><guid isPermaLink="false">https://zenn.dev/edash_tech_blog/articles/4577f7d4780bef</guid><pubDate>Mon, 05 Oct 2026 11:27:14 +0000</pubDate></item><item><title>焦点：空前のＡＩ投資、相応の経済効果実現へなお高いハードル - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQNS1sdUlXT3JRNDcwby12amJKbk1sNF9zVUlxOHRJRWktcjRJaFVBNGNMd0kySU1iOHk4eWlyUVlvSm5uZ2dxRlVBNHZZMl9aeC1VS1E2aEFfWnNJaWhITFZUenVYeUxjb2pfYUpWLTZ5am82SDA3UjhwQVliV25zTV9BNFp3Zw?oc=5</link><description>[score: 0.878] 焦点：空前のＡＩ投資、相応の経済効果実現へなお高いハードル Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQNS1sdUlXT3JRNDcwby12amJKbk1sNF9zVUlxOHRJRWktcjRJaFVBNGNMd0kySU1iOHk4eWlyUVlvSm5uZ2dxRlVBNHZZMl9aeC1VS1E2aEFfWnNJaWhITFZUenVYeUxjb2pfYUpWLTZ5am82SDA3UjhwQVliV25zTV9BNFp3Zw?oc=5</guid><pubDate>Mon, 05 Oct 2026 12:27:21 +0000</pubDate></item><item><title>文章で要件定義するのをやめた。AIでモックを先に作ったら、認識ズレが実装前に全部見つかった</title><link>https://qiita.com/kazuki_ogawa/items/f1a15a199d9f91fe6080?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] はじめに
-社内 SaaS に「アプリ内アンケート機能」を追加しました。質問を作るのはビジネス側の責任者、箱を作るのは開発側という分担です。
-要件のすり合わせ開始から、実装完了（PR 3本マージ）までは 2 日でした。
-速かった理由は、AI の実装力ではありません。要件定義の順序を変えたことです。文章で要件を固めてからモックを作るのではなく、モックを先に作って画面で要件を決めました。
-この記事では、実際にやった 5 ステップと、その過程で「認識ズレが実装前に 3 回見つかった」話を書きます。
-想定読者はこんな人です。
-- 少人数チームで、ビジネス側（PdM・事業責任者）と仕様をすり合わせながら開</description><guid isPermaLink="false">https://qiita.com/kazuki_ogawa/items/f1a15a199d9f91fe6080?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 05 Oct 2026 08:26:41 +0000</pubDate></item><item><title>最大2倍高速な推論エンジン「Magnitude」公開、ハードごとに自動最適化</title><link>https://pc.watch.impress.co.jp/docs/news/2145716.html</link><description>[score: 0.878] ニュース
-最大2倍高速な推論エンジン「Magnitude」公開、ハードごとに自動最適化
-2026年10月5日 16:19
-Magnitude AIは、AIエージェント向けに開発したオープンソースのLLM推論エンジン「Magnitude」を公開している。ライセンスはApache-2.0で、トークン費用はかからず完全無料で利用できる。
-Magnitudeは、実行するデバイス固有のハードウェアに合わせて、カーネルをローカルで自動コンパイル・チューニングする推論エンジン。llama.cppやOllama、LM Studioなどの一般的な推論エンジンが採用する汎用の事前コンパイルではなく、実行端末のチッ</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145716.html</guid><pubDate>Mon, 05 Oct 2026 08:52:59 +0000</pubDate></item><item><title>AI が正しい答えを返せる時代に、人は何を学ぶのか。対話と問題解決の経験から教育を考えてみる</title><link>https://qiita.com/Takashi_Masumori/items/a1bb51f402a5f95c396b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.879] はじめに
-先日、なんでも Copilot のイベントで、大学で働いている方から、参加者に向けて問いが投げかけられました。
-「AI が正しい答えを返せる時代に、人が学ぶことの価値は何か。大学は何を教え、何を評価するべきなのか」
-この問いをきっかけに、自分の考えを整理してみたいと思います。
-最初にお断りしておくと、私は教育の専門家ではありません。本記事で触れる内容は、すでに多くの大学や授業で取り組まれていることも含まれていると思います。その意味で、教育の現場に何かを提案するというよりも、あくまで一個人の経験からの考えとして読んでいただければ幸いです。
-ただ、サポートエンジニア、講師、相談対応、メン</description><guid isPermaLink="false">https://qiita.com/Takashi_Masumori/items/a1bb51f402a5f95c396b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 05 Oct 2026 08:26:41 +0000</pubDate></item><item><title>「サイバーセキュリティ関係法令Q&amp;Aハンドブック Ver.3.0」公開、能動的サイバー防御などに対応</title><link>https://internet.watch.impress.co.jp/docs/news/2145149.html</link><description>[score: 0.879] ニュース
-「サイバーセキュリティ関係法令Q&amp;Aハンドブック Ver.3.0」公開、能動的サイバー防御などに対応
-2026年10月5日 06:30
-内閣官房国家サイバー統括室（NCO）は10月、サイバーセキュリティ対策について参照すべき関係法令をQ&amp;A形式で解説した「サイバーセキュリティ関係法令Q&amp;Aハンドブック Ver.3.0」を公開した。PDFで配布されており、NCOのウェブサイトからダウンロードできる。
-同ハンドブックは、企業における平時のサイバーセキュリティ対策およびインシデント発生時の対応に関する法令上の事項に加えて、情報の取扱いに関する法令や情勢の変化などに伴い生じる法的課題などが平</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2145149.html</guid><pubDate>Mon, 05 Oct 2026 11:53:49 +0000</pubDate></item><item><title>沖縄 逮捕の米兵 事件前に被害女性とタクシーや繁華街で行動か</title><link>https://news.web.nhk/newsweb/na/nd-20261005de54855</link><description>[score: 0.880] アメリカ海兵隊員が那覇市で女性を殺害し、所持品を奪ったとして逮捕された事件で、防犯カメラなどを分析した結果、2人がタクシーや繁華街で行動をともにしたあと、現場のホテルへ向かったとみられることが捜査関係…
-あわせて読みたい
-米兵逮捕の強盗殺人事件 現場周辺で発見 被害者リュックに財布
-10月5日 12:03
-米兵逮捕の強盗殺人事件 被害女性の首にコードのようなものか
-10月5日 11:17
-簗農相 地元の道路“予算カット”発言撤回 「深く反省」陳謝
 10月5日 21:56
 台風27号 小笠原近海を北上 28号29号発生で“トリプル台風”に
 10月5日 19:59
-台風28号が発生 ハリケーンから</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261005de54855</guid><pubDate>Mon, 05 Oct 2026 11:14:37 +0000</pubDate></item><item><title>AI時代の「アウトプット」って、もしかして少し形が変わっているのでは？</title><link>https://qiita.com/segfo/items/65285b1baf378b460d04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] はじめに
-最近「アウトプットしよう」みたいな話を見かけまして、これめっちゃわかるなぁと思っていました。
-方針としてはめちゃくちゃ同意できる記事でした。
-勉強したことや経験したことを自分の中だけに置いておくのではなくて、文章にしたり人に説明したり何かを作ったりすることで理解が深まる。これはその通りだと思います。
-特に技術者をやっていると「人に説明できるところまで落とし込むと理解が深まる」というのは結構実感がありますね。
-ただ一方、AIが隆盛のこの時代は「アウトプット」の形そのものが少し変わってきているんじゃないか？とも思っています。
-「外に出す」＝「人間に公開する」ではないのでは？
-今までのアウ</description><guid isPermaLink="false">https://qiita.com/segfo/items/65285b1baf378b460d04?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 05 Oct 2026 08:26:41 +0000</pubDate></item><item><title>機長襲った副操縦士 イスラエルの空港に墜落させる計画か</title><link>https://news.web.nhk/newsweb/na/nd-20261005de54812</link><description>[score: 0.880] UAE＝アラブ首長国連邦からイスラエルに向かっていた旅客機の操縦室で、機長が副操縦士に刃物で襲われ、緊急着陸した事件をめぐって、イスラエルのメディアは、副操縦士は、旅客機をイスラエルの空港に墜落させる…
-注目ワード
+台風28号が発生 ハリケーンから</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261005de54843</guid><pubDate>Mon, 05 Oct 2026 17:04:13 +0000</pubDate></item><item><title>米国株式市場・午前＝ナスダックが最高値、大型ハイテク株が主導 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNNnA2bW9nSnQtNWJpV1AxLVU3RUdoYWdZUnlMam9naGZfNkNBYXRyV0Y2TmRLaVUwdVA2ajlSeFRXblBqN1hmckFiTnFrY1RtUkxfU0hwV2toak9mVThmeTdSSlIzeWVtVHZoNS0tQ2Y2V1dRWWhSTmNlVmRuM1FYQ21UUjd4dw?oc=5</link><description>[score: 0.865] 米国株式市場・午前＝ナスダックが最高値、大型ハイテク株が主導 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNNnA2bW9nSnQtNWJpV1AxLVU3RUdoYWdZUnlMam9naGZfNkNBYXRyV0Y2TmRLaVUwdVA2ajlSeFRXblBqN1hmckFiTnFrY1RtUkxfU0hwV2toak9mVThmeTdSSlIzeWVtVHZoNS0tQ2Y2V1dRWWhSTmNlVmRuM1FYQ21UUjd4dw?oc=5</guid><pubDate>Mon, 05 Oct 2026 19:20:47 +0000</pubDate></item><item><title>想知道 Claude Code 額度被哪個專案吃掉，就寫了個小工具</title><link>https://dev.to/rosehsu47/xiang-zhi-dao-claude-code-e-du-bei-na-ge-zhuan-an-chi-diao-jiu-xie-liao-ge-xiao-gong-ju-2m0o</link><description>[score: 0.865] 撞到 Claude Code 5 小時或每週上限的時候，我最想知道的是哪個專案用掉的，但 /usage 答不出來。它只給帳號層級的百分比，再加幾個像「&gt;150k context」、「4+ parallel sessions」的標籤，沒有拆到專案，那些百分比也沒辦法自己驗算。 Claude Code 本來就會把每則訊息的 token 用量寫進本機的 session transcript（~/.claude/projects/*/*.jsonl）。所以我寫了一個 skill 叫 quota-audit，讀這些檔案，按專案、按 skill 整理用量，也列出真正撞到上限的時間點和當下被擋的 repo。</description><guid isPermaLink="false">https://dev.to/rosehsu47/xiang-zhi-dao-claude-code-e-du-bei-na-ge-zhuan-an-chi-diao-jiu-xie-liao-ge-xiao-gong-ju-2m0o</guid><pubDate>Mon, 05 Oct 2026 17:22:04 +0000</pubDate></item><item><title>米国株式市場・午前＝ナスダックが最高値、大型ハイテク株が主導（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE8tSG1pT3lsaEk3cUhsYXR1RTJuZ3FUQXpZVnBBeWRidXdrVXpXam45N2R5R2RRRTNaUFVRQWR1eVVTWV8xSlhEVXRWeUh0dEg2S0NSZEZkeFJzbk52WW1kdFo5SmFHNGVMYW9kczR3dWgzWmFDNGQ2R3d5anFCcHc?oc=5</link><description>[score: 0.865] 米国株式市場・午前＝ナスダックが最高値、大型ハイテク株が主導（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE8tSG1pT3lsaEk3cUhsYXR1RTJuZ3FUQXpZVnBBeWRidXdrVXpXam45N2R5R2RRRTNaUFVRQWR1eVVTWV8xSlhEVXRWeUh0dEg2S0NSZEZkeFJzbk52WW1kdFo5SmFHNGVMYW9kczR3dWgzWmFDNGQ2R3d5anFCcHc?oc=5</guid><pubDate>Mon, 05 Oct 2026 19:20:47 +0000</pubDate></item><item><title>ガソリン高騰、民主党とウクライナの製油所攻撃に責任＝トランプ氏（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE0yWnhZSF9DeC1ZTTMxblcyTHgwZlYyUDQ1WDJsSnI5OE9FR2V3Ml91alh6YlBfV09waFM3MjlXN0pEWmNMS2JtOC1XbjgwZzRBeWx1a21UYzF4TndXUjViTVhjdDU1TWdycHFCUzkwOE5xaTNHa243c3JaMHlrQ0U?oc=5</link><description>[score: 0.866] ガソリン高騰、民主党とウクライナの製油所攻撃に責任＝トランプ氏（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE0yWnhZSF9DeC1ZTTMxblcyTHgwZlYyUDQ1WDJsSnI5OE9FR2V3Ml91alh6YlBfV09waFM3MjlXN0pEWmNMS2JtOC1XbjgwZzRBeWx1a21UYzF4TndXUjViTVhjdDU1TWdycHFCUzkwOE5xaTNHa243c3JaMHlrQ0U?oc=5</guid><pubDate>Mon, 05 Oct 2026 19:20:47 +0000</pubDate></item><item><title>フライドバイ事件、イラン関与の証拠見られずとバンス氏 トランプ氏は責任示唆 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPV3JDSVFLUlpSVGRnV2F5SnU1MjFFdERhc0JUc0RQQzQtbUlzQ0E2NXhFM3dLYS1WUF9YcVhacEdEaXdVWnZOcGVSaFYya3lUTm1UeXVjVHgzZHRHcnAzazJRTktqMk9DcmpJdHlpQmd5WGFpNkcyNEY2blNlaGRubGszSWplUjg?oc=5</link><description>[score: 0.868] フライドバイ事件、イラン関与の証拠見られずとバンス氏 トランプ氏は責任示唆 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxPV3JDSVFLUlpSVGRnV2F5SnU1MjFFdERhc0JUc0RQQzQtbUlzQ0E2NXhFM3dLYS1WUF9YcVhacEdEaXdVWnZOcGVSaFYya3lUTm1UeXVjVHgzZHRHcnAzazJRTktqMk9DcmpJdHlpQmd5WGFpNkcyNEY2blNlaGRubGszSWplUjg?oc=5</guid><pubDate>Mon, 05 Oct 2026 19:20:47 +0000</pubDate></item><item><title>MVPから実際に使いやすいポートフォリオへ｜開発で学んだこと</title><link>https://qiita.com/fighthinako/items/9deb4bbaa452926a83c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.869] MVPから実際に使いやすいポートフォリオへ｜開発で学んだこと
+今回作成したポートフォリオはこちらです。
+GitHub：
+アプリ：
+はじめに
+私はエンジニアへの転職を目指して勉強する前、製造補助として製造業務と事務作業を行っていました。
+仕事をする中で、多くの方と関わる機会があり、長時間同じ姿勢で作業することによる身体の負担や、作業中の緊張によって仕事に影響が出るという話を聞くことがありました。
+そこで、
+「作業時間を管理しながら、休憩時にストレッチを促してくれるアプリがあれば便利なのではないか」
+と考え、作業タイマーとストレッチ機能を組み合わせたアプリを開発しました。
+今回は、このアプリを作る</description><guid isPermaLink="false">https://qiita.com/fighthinako/items/9deb4bbaa452926a83c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 05 Oct 2026 20:13:28 +0000</pubDate></item><item><title>産後のメンタル不調、「うつ」以外に見逃してはいけない症状とは</title><link>https://natgeo.nikkeibp.co.jp/atcl/news/26/092400528/?rss</link><description>[score: 0.870] ケイティ・クレンショーさん（40歳）は産後に起こる精神障害の兆候をすべて把握していると思っていた。最初の2人の子どもを出産した後は、突然泣き出したり、自分を傷つけたい気持ちになったり、精神状態が徐々に悪化したりといった症状を自覚し、うまく対処できた。3人目を出産する頃には、出産の現場で何年も働き、産前産後の母親を支援するドゥーラとしての訓練を受け、周産期のメンタルヘルスを支える活動でキャリアを築いていた。
+それでも、3人目を出産した後の危機は、クレンショー氏が予想していたような形ではなく、時期も違っていた。誕生から数週間のうちにやって来ることはなく、1年後、その子が乳離れする頃にゆっくりと忍び</description><guid isPermaLink="false">https://natgeo.nikkeibp.co.jp/atcl/news/26/092400528/?rss</guid><pubDate>Mon, 05 Oct 2026 21:04:18 +0000</pubDate></item><item><title>Vitestで 関数またはメソッド toBeInTheDocument() は未解決です</title><link>https://qiita.com/J-T_ky2g/items/6df712d6eff81c71d4fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.871] Register as a new user and use Qiita more conveniently
+- You get articles that match your needs
+- You can efficiently read back useful information
+- You can use dark theme
+Go to list of users who liked
+Share on X(Twitter)
+Share on Facebook
+Register as a new user and use Qiita more conveniently
+Go to</description><guid isPermaLink="false">https://qiita.com/J-T_ky2g/items/6df712d6eff81c71d4fd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 05 Oct 2026 20:13:28 +0000</pubDate></item><item><title>なぜ鶏肉を次工程に手渡しすると歩留まりが上がるのか　元トヨタ生技の改善4選</title><link>https://monoist.itmedia.co.jp/mn/articles/2609/28/news015.html</link><description>[score: 0.872] なぜ鶏肉を次工程に手渡しすると歩留まりが上がるのか 元トヨタ生技の改善4選 この連載のテーマとは？ 食品製造業の経営者に向けて“問い”を投げかけ現場改善のヒントを探る 今回のテーマは？ 実際に手掛けた4つの事例を通して、改善の裏に隠された思想に目を向ける 筆者が、人手が浮くと一番優秀な人から抜こうとする理由とは？［↓クリックで表示↓］ 「優秀な人は他部署でも改善を任せられる。そし...</description><guid isPermaLink="false">https://monoist.itmedia.co.jp/mn/articles/2609/28/news015.html</guid><pubDate>Mon, 05 Oct 2026 20:42:59 +0000</pubDate></item><item><title>ネパール土石流 専門家「経済復興と災害リスク軽減が課題」</title><link>https://news.web.nhk/newsweb/na/nd-20261005de54910</link><description>[score: 0.873] ことし8月にネパールと中国の国境付近で発生した大規模な土石流について、現地で調査した日本の専門家が報告会を開き、再び災害が起こるリスクを見据えたインフラの復旧が課題だと指摘しました。
+ことし8月に…
 あわせて読みたい
 英の空軍基地から米軍爆撃機が撤収 “新たな脅威のため”米紙
 10月5日 15:51
@@ -92,12 +41,63 @@ Magnitudeは、実行するデバイス固有のハードウェアに合わせ�
 ドイツ ウクライナにロシア軍の無人機攻撃対策など支援
 10月5日 6:50
 トランプ大統領 AI政策を調整する司令塔組織を設立
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261005de54812</guid><pubDate>Mon, 05 Oct 2026 10:16:19 +0000</pubDate></item><item><title>名作絵本『がまくんとかえるくん』風にAIの暴走によるハッキングを風刺した『がまくんとかえるくんとますます進化する機械たち』</title><link>https://gigazine.net/news/20261005-frogandtoad-ai-openai-hugging-face-hack/</link><description>[score: 0.881] 2026年7月、OpenAIが開発したAIモデルのテスト中に、誤ってオープンソースAIプラットフォームのHugging Faceをハッキングしてしまうという問題が発生しました。この一件を日本でも人気が高い名作絵本『がまくんとかえるくん』になぞらえて風刺した、『Frog and Toad and the Increasingly Capable Machines(がまくんとかえるくんとますます進化する機械たち)』という絵本がオンラインで公開されました。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20261005-frogandtoad-ai-openai-hugging-face-hack/</guid><pubDate>Mon, 05 Oct 2026 06:04:38 +0000</pubDate></item><item><title>AIで法律をリファクタリングする: Fableで改正候補条文を抽出 / 立法における"Mythos Moment"を考える｜安野貴博</title><link>https://note.com/takahiroanno/n/n3cd3c9a38e8e</link><description>[score: 0.881] AIで法律をリファクタリングする: Fableで改正候補条文を抽出 / 立法における"Mythos Moment"を考える｜安野貴博 AIで法律をリファクタリングする: Fableで改正候補条文を抽出 / 立法における"Mythos Moment"を考える ソフトウェアにはリファクタリングという考え方がある。コードは開発が続くにつれ、どうやっても散らかって... misshiki Claude%205 Fable 5で法律96,780条を分析し、81法律から87件の改正候補を抽出。「電磁的記録」の定義は343法律で重複と報告。共通規定の一元管理を提案。未施行改正などは未反映で、候補の精査が必要</description><guid isPermaLink="false">https://note.com/takahiroanno/n/n3cd3c9a38e8e</guid><pubDate>Mon, 05 Oct 2026 10:27:13 +0000</pubDate></item><item><title>AIクセ強テキストを人間が読みやすい文章に変換する日本語用スキル「yomiyasu」が無償公開（生成AIクローズアップ）</title><link>https://www.techno-edge.net/article/2026/10/05/5552.html</link><description>[score: 0.882] 1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。
-今回は、AIが生成した独特のクセがある文章を、人間にとって自然で読みやすい日本語に推敲してくれるスキル「yomiyasu」（よみやす）を取り上げます。
-株式会社ALGO ARTISの大賀愛一郎さん（@oga_aiichiro）が開発し、MITライセンスで公開しています。
-主に技術記事や設計書などの実務文書を対象に設計されており、CursorやClaude CodeといったAIコーディング環境に読み込ませて使用します。
-</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/10/05/5552.html</guid><pubDate>Mon, 05 Oct 2026 02:35:59 +0000</pubDate></item><item><title>モブプロにAIを加えたら人間には疲れる仕事だけが残ったので、AI前提の役割分担を模索している</title><link>https://zenn.dev/lincwell_inc/articles/fddaae539e6e9c</link><description>[score: 0.883] モブプロにAIを加えたら人間には疲れる仕事だけが残ったので、AI前提の役割分担を模索している 前回の記事ではモブプロ自体の疲れを減らす取り組みについて記載しました。 今回は、AIを含めたモブプロについて課題に感じていることをまとめます。 私たちのチーム全体のモブプロ施策は6月末で一区切りとしまし... t-wada 引き続き AI を交えたモブプロを試行錯誤している様が読み取れて嬉しいです。ドライバーはただの実行役ではなく、どんどん喋った方が良いと考えています。ナビゲーターももちろんです。</description><guid isPermaLink="false">https://zenn.dev/lincwell_inc/articles/fddaae539e6e9c</guid><pubDate>Mon, 05 Oct 2026 09:26:45 +0000</pubDate></item><item><title>「元検事性被害はうそ」告訴された副検事の“不起訴は妥当”</title><link>https://news.web.nhk/newsweb/na/nd-20261005de54853</link><description>[score: 0.884] 「元検事性被害はうそ」告訴された副検事の“不起訴は妥当”
-大阪地検の元検事の女性が当時の検事正から性被害を受けたという訴えはうそだったと職場でうわさを広めたなどとして、同僚の副検事が刑事告訴され、その後、不起訴になったことについて、検察審査会は、不起訴は妥当…
+10月5日 6:</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261005de54910</guid><pubDate>Mon, 05 Oct 2026 15:08:02 +0000</pubDate></item><item><title>ノーベル賞 6日は物理学賞の発表日</title><link>https://news.web.nhk/newsweb/na/nd-20261005de54668</link><description>[score: 0.873] 6日はノーベル物理学賞の発表日です。 スウェーデンのストックホルムにあるノーベル賞の選考委員会が、日本時間の6日午後6時45分以降にことしの受賞者を発表します。
+ノーベル賞2026
+ノーベル賞2…
+ノーベル生理学・医学賞に「光遺伝学」の基礎築いた米独研究者
+10月6日 0:02
+ノーベル賞 日本から“3年連続受賞”なるか 6日は物理学賞発表
+10月5日 21:34
+ノーベル賞ってなに？もらうとどうなるの？
+10月5日 12:18
+“日本被団協は被爆2世や3世中心に存続を”広島県被団協
+10月6日 5:03
+バンス副大統領の故郷にいって評判を聞いてみた
+ネクタイの締め方がわからない
+「人工的に豪</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261005de54668</guid><pubDate>Mon, 05 Oct 2026 20:30:15 +0000</pubDate></item><item><title>【入社エントリ】入社して2ヶ月を振り返ってみた</title><link>https://qiita.com/sc-hagiwara/items/c53feb758b5aff3664c3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.873] こんにちは！Shizen Connectにジョインして、あっという間に2ヶ月が経過しました。
+毎日新しいことの連続でバタバタしつつも、すごく充実した日々を送っています！
+今回は自分の備忘録も兼ねて、入社からの2ヶ月間の振り返りと、そもそも「なぜ私がこの会社に入社したのか？」というきっかけについて書いてみようと思います。
+🌍 なぜShizen Connectに入社したのか？
+私は現在、埼玉県の北部に住んでいます。周りは田んぼや山、そして荒川や利根川といった大きな川に囲まれた、とても自然豊かな土地です🌿
+でも最近、その景色が少しずつ変わってきているのを感じていました。耕作放棄されて草がぼうぼうにな</description><guid isPermaLink="false">https://qiita.com/sc-hagiwara/items/c53feb758b5aff3664c3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 05 Oct 2026 20:13:28 +0000</pubDate></item><item><title>直感頼みのLLMに 「第37手」は打てるか？ AlphaGo開発者の提言</title><link>https://www.technologyreview.jp/s/392123/dont-be-fooled-llms-dont-reason/</link><description>[score: 0.873] 直感頼みのLLMに
+「第37手」は打てるか？
+AlphaGo開発者の提言
+AlphaGo（アルファ碁）の「第37手」は機械の直感の産物と語られがちだが、実際には先の展開を比較検討する探索から生まれた。次のトークンを予測し続ける今日のLLMは、こうした推論を備えていない。医療や科学のようにリスクの高い分野では、AIがどう結論に至ったかまで検証できなければならない。AlphaGoチームの中核メンバーだった筆者は、そのためにこそ真の推論が必要だと説く。 by Thore Graepel2026.10.06
+- この記事の3つのポイント
+-
+- 現在のLLMは直感的な予測の繰り返しに過ぎず真の推論能力</description><guid isPermaLink="false">https://www.technologyreview.jp/s/392123/dont-be-fooled-llms-dont-reason/</guid><pubDate>Mon, 05 Oct 2026 20:54:19 +0000</pubDate></item><item><title>エボラ死者4000人超え、コンゴ民主共和国史上最悪 東部で感染拡大（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1iQlBQbjh1V1dXd2NqeDcwZkdrcV9ibjhjWDFsLVVuZHVoSE9pMlU4cm9zSGdLbDZfNDVoZV9VdHhfRGwtQWxPODhicFJWX2NvVVZzcUs1MWgzTm1ac3pVWG9wZ1RZLV9TMzJOR2xYMGpXYWptbWRWU0Izd0NHU1U?oc=5</link><description>[score: 0.877] エボラ死者4000人超え、コンゴ民主共和国史上最悪 東部で感染拡大（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE1iQlBQbjh1V1dXd2NqeDcwZkdrcV9ibjhjWDFsLVVuZHVoSE9pMlU4cm9zSGdLbDZfNDVoZV9VdHhfRGwtQWxPODhicFJWX2NvVVZzcUs1MWgzTm1ac3pVWG9wZ1RZLV9TMzJOR2xYMGpXYWptbWRWU0Izd0NHU1U?oc=5</guid><pubDate>Mon, 05 Oct 2026 13:26:49 +0000</pubDate></item><item><title>Gemini無料版、10月9日から「Flash-Lite」のみに変更</title><link>https://pc.watch.impress.co.jp/docs/news/2145770.html</link><description>[score: 0.879] ニュース
+Gemini無料版、10月9日から「Flash-Lite」のみに変更
+2026年10月5日 17:43
+Googleは2026年10月より、個人アカウントでGemini アプリを利用する場合に使えるモデルを変更する。AIサブスクリプションを契約していないユーザーには、10月9日から適用する。
+現在は契約なしでも「Flash-Lite」「Flash」「Pro」の3種類が使えたが、今回の変更でプランごとに利用できるGeminiモデルを分ける。契約なしではFlash-Liteのみ、「AI Plus」ではFlashを加え、「AI Pro」と「AI Ultra」ではさらにProを加えた3種類が</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2145770.html</guid><pubDate>Mon, 05 Oct 2026 16:14:20 +0000</pubDate></item><item><title>「実装に問題が無いか調査して」は意味が無い?　AIレビューが空振りする理由と効果的な指示のテンプレ</title><link>https://qiita.com/nolanlover0527/items/2e4e3322c5c36545a246?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] はじめに
+AIに実装を任せたあと、とりあえずこう投げていませんか。
+「あなたが実装した内容が問題ないか調査して」
+このあと返ってくるのは、たいてい丁寧な報告です。
+「確認しました。大きな問題は見当たりません」
+安心してマージしたら、テスト環境や本番でエラーが発生...
+こういう経験がある人は少なくないはずです。
+この記事では、そもそもこの指示がどこまで有効なのかを、論文とAnthropic公式ドキュメントを手がかりに整理します。
+結論：曖昧な「調査して」は空振りしやすく、信頼できる検証手段を渡すべし
+先に要点をまとめます。
+| 指示の出し方 | AIがなりやすい行動 | 得られる根拠の強さ |</description><guid isPermaLink="false">https://qiita.com/nolanlover0527/items/2e4e3322c5c36545a246?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 05 Oct 2026 20:13:28 +0000</pubDate></item><item><title>BEエンジニアがなんであんなにチクチクした言い回しでムカつくのかを言語化してみた💢</title><link>https://qiita.com/jota9613/items/6633e8618d8427e412c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] はじめに
+FEエンジニアとしてBEエンジニアとやりとりをしている中で、
+「なんかイラつくな」
+「言ってることは分かるんだけど、ムカつくな」と思っていました。
+ただ、技術的に間違ったことを言われているわけではなく
+じゃあ自分は何に引っかかっているんだろう？と思ったので、言語化してみました！！
+あくまで僕個人の体験と感じ方ですが、感想があればコメントいただけると嬉しいです✨
+背景
+APIの繋ぎ込みをしていたときのことです。
+BE側に、
+-
+どのブランチを使えばいいのか
+-
+どのDBに接続しているのか
+-
+APIをどういう状態で確認すればいいのか
+などを質問する場面がありました。
+そこでBEエンジニ</description><guid isPermaLink="false">https://qiita.com/jota9613/items/6633e8618d8427e412c6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 05 Oct 2026 20:13:28 +0000</pubDate></item><item><title>「皇居ラン」のマナー違反受け 千代田区が実態調査へ</title><link>https://news.web.nhk/newsweb/na/nd-20261006de54956</link><description>[score: 0.884] 皇居の周りを走る「皇居ラン」をめぐり、歩行者との接触やルールに反した逆走などを訴える声が相次いでいることから東京・千代田区は、利用の実態や現場の状況を把握するため、調査に乗り出すことになりました。調査…
+注目ワード
 あわせて読みたい
 簗農相 地元の道路“予算カット”発言撤回 「深く反省」陳謝
 10月5日 21:56
@@ -106,13 +106,88 @@ Magnitudeは、実行するデバイス固有のハードウェアに合わせ�
 台風28号が発生 ハリケーンから台風に 非常に強い勢力で西へ
 10月5日 16:29
 台風29号が発生 今後の情報に注意を
-10月5日 16:3</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261005de54853</guid><pubDate>Mon, 05 Oct 2026 11:44:17 +0000</pubDate></item><item><title>「Gemini」アプリ、個人で無償利用できるモデルは「Flash-Lite」のみに ～10月9日より／「AI Plus」は「Flash」モデルまで、「Pro」モデルは「AI Pro」以上が必要</title><link>https://forest.watch.impress.co.jp/docs/news/2145483.html</link><description>[score: 0.885] ニュース
-「Gemini」アプリ、個人で無償利用できるモデルは「Flash-Lite」のみに ～10月9日より
-「AI Plus」は「Flash」モデルまで、「Pro」モデルは「AI Pro」以上が必要
-2026年10月5日 11:10
-個人アカウントの「Gemini」アプリ（Gemini app）で利用できる「Gemini」モデルが、10月から変更されるとのこと。米Googleが自社のヘルプページで明らかにしたもので、「Google AI」サブスクリプションに加入していないユーザーに対し、米国時間10月9日から適用される。「Google AI Plus」加入者には、適用時期がメールで通知され</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2145483.html</guid><pubDate>Mon, 05 Oct 2026 10:44:01 +0000</pubDate></item><item><title>AI大手アンソロピックの「赤字は6.6兆円」、原因はグーグルとアマゾン | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title><link>https://forbesjapan.com/articles/detail/105777</link><description>[score: 0.888] AI大手アンソロピックの「赤字は6.6兆円」、原因はグーグルとアマゾン | Forbes JAPAN 公式サイト（フォーブス ジャパン） 流出したAI大手アンソロピックの目論見書から、同社の2025年の売上高が46億ドル（約7270億円）、営業損失が80億ドル（約1兆2600億円）だったことが明らかになった。ところが、同年の損失の総額は420億ドル（約6兆... misshiki AnthropicGoogle アンソロピックの2025年の損失は420億ドル（約6.64兆円）、営業損失は80億ドル。巨額赤字の大部分は、企業価値上昇に伴うグーグル・アマゾンの転換社債の再評価による会計上の損失。</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105777</guid><pubDate>Mon, 05 Oct 2026 11:27:14 +0000</pubDate></item><item><title>Googleのフィットネス新端末の名称は「Fitbit Edge」？ 時代に逆らうディスプレイ付き | ギズモード・ジャパン</title><link>https://www.gizmodo.jp/article/2610-fitbit-edge-specs-and-leaks/</link><description>[score: 0.889] Googleのフィットネス新端末の名称は「Fitbit Edge」？ 時代に逆らうディスプレイ付き
-8月に公式がうっかりチラ見せしてしまったGoogle（グーグル）の謎端末。Fitbitの次モデルと予想されていましたが、Fitbit Charge 6の後継機となるCharge 7ではなく、新たなモデルとなる説が浮上。その名もFitbit Edge。
-Fitbit Edge
-ネタ元のAndroidHeadlinesが、Googleの最新フィットネス端末「Fitbit Charge」のスペックを独自入手。販売店舗向けに共有される情報なのだといいます。そこに書かれていたのが、今までにないネーミングの</description><guid isPermaLink="false">https://www.gizmodo.jp/article/2610-fitbit-edge-specs-and-leaks/</guid><pubDate>Mon, 05 Oct 2026 09:26:45 +0000</pubDate></item><item><title>エネルギー超大国への4つの道筋　AI時代の電力争奪戦</title><link>https://forbesjapan.com/articles/detail/106057?s=ns</link><description>[score: 0.889] 警戒すべき未来が、私が育ったオランダに到来している。優れた風力発電条件に恵まれた同国には、多くのハイパースケーラー（大規模クラウド事業者）やデータセンター企業が集まり、その結果として電力供給が逼迫している。
-2025年12月時点で、送電網への新規接続の待機リストには約1万5000件の申請が積み上がった。そのほとんどは新築住宅や中小企業向けだが、数百件は大口の産業利用者からのものだ。小規模消費者の平均待機期間は45週間に達しており、価格上昇圧力によって一般家庭の光熱費はさらに高騰する可能性が高い。
-同じ課題は世界の他の地域でも生じている。世界経済は、成長が社会の電力を生み出し、必要な場所へ運ぶ能</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106057?s=ns</guid><pubDate>Mon, 05 Oct 2026 08:42:44 +0000</pubDate></item><item><title>AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え - エンジニアtype | 転職type</title><link>https://type.jp/et/feature/31834/</link><description>[score: 0.889] AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え - エンジニアtype | 転職type 転職・求人情報サイトのtype エンジニアtype ITニュース AIでコード生成は加速、でも人間の確認が追いつかない問題。t-wadaが示す「レビュー解体」という答え NEW! 2026.10.05 ITニュース 和田卓人プログラミング... t-wada エンジニアtype様にて、7月に行った講演のレポート記事を作成していただきました。誠にありがとうございます！</description><guid isPermaLink="false">https://type.jp/et/feature/31834/</guid><pubDate>Mon, 05 Oct 2026 07:26:03 +0000</pubDate></item></channel></rss>
+10月5日 16:30
+首相 所信表明演説 “経済の力で国民の暮ら</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261006de54956</guid><pubDate>Mon, 05 Oct 2026 20:59:59 +0000</pubDate></item><item><title>最近サイバー攻撃多いから、基本対策を見直そう</title><link>https://qiita.com/HIsui0921/items/65fba77555a13af6b8a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] こんにちは、翡翠です。
+去年セキュリティ業界へ入ったばかりの新人です。まだまだ勉強中の身なので至らない点もあるかと思いますが、今わかること・できることを自分なりにまとめたいと思います。
+2026年9月下旬以降、大手企業などで不正アクセスや情報漏洩などのニュースが一気に増えたような気がしました。
+ここ1年ほぼ毎日、この手のニュースを追っていますが、かなり件数が多い印象です。
+それ以前はすみません、追っていなかったのでわかりません...
+もちろん、話題性があるとか、今までサイバー攻撃にあっていたけれど公なニュースにならなかっただけとか、そもそも検知できる体制がないから情報漏洩しても気づいていないケ</description><guid isPermaLink="false">https://qiita.com/HIsui0921/items/65fba77555a13af6b8a5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 05 Oct 2026 20:13:28 +0000</pubDate></item><item><title>高市首相、中国は「重要な隣国」 所信表明演説</title><link>https://www.afpbb.com/articles/-/3656120</link><description>[score: 0.885] 高市首相、中国は「重要な隣国」 所信表明演説
+このニュースをシェア
+【10月5日 AFP】高市早苗首相は5日、所信表明演説で中国を「重要な隣国」と位置付け、両国間において安定的な関係を構築すると誓った。
+日中関係は、高市氏が昨年11月7日の衆院予算委員会で、台湾有事をめぐって日本が集団的自衛権を行使できる「存立危機事態」に該当する具体例を問われ、「戦艦を使って武力の行使も伴うものであれば、どう考えても存立危機事態になりうるケースだと私は考える」と答弁して以来、冷え込んでいる。
+高市氏は所信表明演説で、対中関係について「中国は重要な隣国であり、課題がある中でも長年の積み重ねがある」とし、「共通の</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3656120</guid><pubDate>Mon, 05 Oct 2026 20:42:59 +0000</pubDate></item><item><title>“日本被団協は被爆2世や3世中心に存続を”広島県被団協</title><link>https://news.web.nhk/newsweb/na/nd-20261005de54912</link><description>[score: 0.885] おととしノーベル平和賞を受賞した日本被団協は、被爆者の高齢化を踏まえた組織の存続について来年、結論を出す方向で議論を進めています。こうした中、広島県被団協が「被爆2世や3世を中心に原爆被害者の団体とし…
+あわせて読みたい
+簗農相 地元の道路“予算カット”発言撤回 「深く反省」陳謝
+10月5日 21:56
+台風27号 小笠原近海を北上 28号29号発生で“トリプル台風”に
+10月5日 19:59
+台風28号が発生 ハリケーンから台風に 非常に強い勢力で西へ
+10月5日 16:29
+台風29号が発生 今後の情報に注意を
+10月5日 16:30
+首相 所信表明演説 “経済の力で国民の暮らしを守る”【</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261005de54912</guid><pubDate>Mon, 05 Oct 2026 20:30:15 +0000</pubDate></item><item><title>LLM-as-a-Collaborator入門：AIを「回答者」ではなく共同設計者として使う</title><link>https://qiita.com/mellowlaunch/items/384021f3e015945fe29d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] 📚 参考書籍
+※この記事は書籍の一部をベースに再構成しています。もう少し踏み込んだ内容（設計や具体例）は書籍の中でまとめているので、気になる方はそちらもどうぞ。
+「ゼロから触ってわかった！Codex - AIエージェント時代のソフトウェア設計」
+本書は、AIエージェントと共に開発する時代において、エンジニアが思考停止せず、主体的に価値を発揮し続けるための指針を提示します。
+ツールの使い方ではなく、これからの開発の本質を理解したいすべてのエンジニアへ。
+https://amzn.to/4o0repH
+####『ゼロから触ってわかった！AI Agent Observability入門― MLflo</description><guid isPermaLink="false">https://qiita.com/mellowlaunch/items/384021f3e015945fe29d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 05 Oct 2026 20:13:28 +0000</pubDate></item><item><title>ネパール土石流　被災地での捜索・救助が原則打ち切り</title><link>https://news.web.nhk/newsweb/na/nd-20261006de54940</link><description>[score: 0.886] ネパールと中国の国境付近で、ことし8月に発生した大規模な土石流について、ネパール政府は、被災地での捜索や救助活動を打ち切ると発表しました。
+発災から40日がたち、生存の可能性が低くなったためだとして…
+あわせて読みたい
+ネパール土石流 専門家「経済復興と災害リスク軽減が課題」
+10月5日 23:44
+英の空軍基地から米軍爆撃機が撤収 “新たな脅威のため”米紙
+10月5日 15:51
+ドイツの交響楽団首席指揮者 山田和樹さんが初公演
+10月5日 15:27
+イラン「米は核問題提示」 間接協議に具体的な進展みられず
+10月5日 6:38
+ドイツ ウクライナにロシア軍の無人機攻撃対策など支援
+10月</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261006de54940</guid><pubDate>Mon, 05 Oct 2026 20:30:15 +0000</pubDate></item><item><title>トルコと日本が協力 科学技術を学ぶ大学が開校</title><link>https://news.web.nhk/newsweb/na/nd-20261006de54946</link><description>[score: 0.890] 日本とトルコの両国政府が協力して、地震災害やAIといった科学技術分野の人材を育成する大学がトルコで開校しました。
+トルコの首都アンカラで開校した「トルコ・日本科学技術大学」は両国の懸け橋となる高い…
+あわせて読みたい
+英の空軍基地から米軍爆撃機が撤収 “新たな脅威のため”米紙
+10月5日 15:51
+ドイツの交響楽団首席指揮者 山田和樹さんが初公演
+10月5日 15:27
+イラン「米は核問題提示」 間接協議に具体的な進展みられず
+10月5日 6:38
+ドイツ ウクライナにロシア軍の無人機攻撃対策など支援
+10月5日 6:50
+トランプ大統領 AI政策を調整する司令塔組織を設立
+10月5日 6:</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261006de54946</guid><pubDate>Mon, 05 Oct 2026 20:59:59 +0000</pubDate></item><item><title>AI エージェントに API キーを渡しても大丈夫か？ 対話文・.env・環境変数・MCP・OAuth — 6 つの渡し方を Claude Code・Codex・Gemini CLI・Copilot・Cursor で調べてみた</title><link>https://qiita.com/songchong/items/873b4f14d26296176cfd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] Claude Code や Codex などの AI エージェントに、API キーを使う作業を頼みたいことがあります。そのとき、利用者は鍵をどう渡せばよいのでしょうか。対話文に貼る、.env に書いて読ませる、.zshrc の環境変数にしておく……。渡し方によって、鍵に起きることは違います。
+冒頭の図のとおり、利用者の操作で分けると、鍵の渡し方は 6 つです。鍵の文字列が AI の目に触れる所にあるほど、鍵が漏れる道は増えます。いちばん安全なのは、鍵の文字列そのものを AI に渡さない OAuth です。
+この記事では、Claude Code・Codex・Gemini CLI・GitHub C</description><guid isPermaLink="false">https://qiita.com/songchong/items/873b4f14d26296176cfd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 05 Oct 2026 20:13:28 +0000</pubDate></item><item><title>千葉 印旛沼の堤防決壊は「パイピング」現象が要因の可能性 | NHKニュース</title><link>https://news.web.nhk/newsweb/na/nd-20261005de54707</link><description>[score: 0.890] 9月の台風25号で堤防が決壊した千葉県の印旛沼では堤防の周辺で砂が噴き出していた場所が複数見つかり、「パイピング」と呼ばれる現象が起きていたとみられることが専門家の調査で分かりました。 決壊した堤防の…
+あわせて読みたい
+台風27号 小笠原近海を北上 28号29号発生で“トリプル台風”に
+10月5日 19:59
+台風28号が発生 ハリケーンから台風に 非常に強い勢力で西へ
+10月5日 16:29
+台風29号が発生 今後の情報に注意を
+10月5日 16:30
+首相 所信表明演説 “経済の力で国民の暮らしを守る”【全文】
+10月5日 16:05
+簗農相 地元の道路“予算カット”発言撤回 「深く反省</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261005de54707</guid><pubDate>Mon, 05 Oct 2026 20:33:13 +0000</pubDate></item><item><title>イエメン暫定政権軍「大規模作戦開始」海峡近くも衝突か</title><link>https://news.web.nhk/newsweb/na/nd-20261006de54947</link><description>[score: 0.893] 中東のイエメンで、隣国サウジアラビアが支援する暫定政権側は、反政府勢力フーシ派に対する「大規模作戦を開始した」と発表しました。戦闘の拡大によって、さらなる人道状況の悪化やエネルギー市場への影響が懸念さ…
+あわせて読みたい
+英の空軍基地から米軍爆撃機が撤収 “新たな脅威のため”米紙
+10月5日 15:51
+ドイツの交響楽団首席指揮者 山田和樹さんが初公演
+10月5日 15:27
+イラン「米は核問題提示」 間接協議に具体的な進展みられず
+10月5日 6:38
+ドイツ ウクライナにロシア軍の無人機攻撃対策など支援
+10月5日 6:50
+トランプ大統領 AI政策を調整する司令塔組織を設立
+10月5日 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261006de54947</guid><pubDate>Mon, 05 Oct 2026 20:30:15 +0000</pubDate></item><item><title>ＮＹ外為市場＝ユーロ約1年5カ月ぶり安値、仏財政懸念が重し ドル対円で小幅高 - ロイター</title><link>https://news.google.com/rss/articles/CBMifEFVX3lxTFBJSGI2NjJCNkJ6ZVAwTGNLUVREcWZHdHNCc2F3cFJoSFZabXBPeDRMNnBhZUtFMEh4R0tnUXBINDMwUXJmQ3pmRGJMTjVsa0d5RGUzZnVjRHBGSjJFR2pxdFdfX0hxbi1ienRIQ2JOQ3VETXlsN0VjRzZwQV8?oc=5</link><description>[score: 0.894] ＮＹ外為市場＝ユーロ約1年5カ月ぶり安値、仏財政懸念が重し ドル対円で小幅高 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifEFVX3lxTFBJSGI2NjJCNkJ6ZVAwTGNLUVREcWZHdHNCc2F3cFJoSFZabXBPeDRMNnBhZUtFMEh4R0tnUXBINDMwUXJmQ3pmRGJMTjVsa0d5RGUzZnVjRHBGSjJFR2pxdFdfX0hxbi1ienRIQ2JOQ3VETXlsN0VjRzZwQV8?oc=5</guid><pubDate>Mon, 05 Oct 2026 20:21:00 +0000</pubDate></item><item><title>高市首相 消費税減税に理解求める 野党は財源や効果ただす方針</title><link>https://news.web.nhk/newsweb/na/nd-20261006de54928</link><description>[score: 0.900] 臨時国会が召集され、高市総理大臣は所信表明演説で、食料品の消費税減税は家計にゆとりを生み出すためのものだと訴え理解を求めました。これに対し、野党側は衆議院で7日から始まる代表質問で財源や物価高対策とし…
+あわせて読みたい
+焦点は“食料品の消費税減税” 臨時国会が召集
+10月5日 22:15
+簗農相 地元の道路“予算カット”発言撤回 「深く反省」陳謝
+10月5日 21:56
+台風27号 小笠原近海を北上 28号29号発生で“トリプル台風”に
+10月5日 19:59
+台風28号が発生 ハリケーンから台風に 非常に強い勢力で西へ
+10月5日 16:29
+台風29号が発生 今後の情報に注意を
+10月5</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261006de54928</guid><pubDate>Mon, 05 Oct 2026 20:59:59 +0000</pubDate></item></channel></rss>
