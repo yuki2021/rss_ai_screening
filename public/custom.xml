@@ -1,112 +1,126 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 07 Oct 2026 12:20:57 +0000</lastBuildDate><item><title>損保ジャパン のべ6万件の顧客情報が流出か 不正アクセス</title><link>https://news.web.nhk/newsweb/na/nd-20261007de55973</link><description>[score: 0.878] 損害保険大手の損害保険ジャパンは、顧客からの問い合わせの情報を管理する委託先のサーバーに不正アクセスがあり、のべ6万件の顧客情報が漏えいした可能性があると発表しました。
-損害保険ジャパンでは、通信…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 07 Oct 2026 21:09:13 +0000</lastBuildDate><item><title>米台関係、米中首脳会談後も強固 防衛装備の適時引き渡し重要＝駐米代表 - Reuters</title><link>https://news.google.com/rss/articles/CBMihAFBVV95cUxPRzYwUThaOTNBWHgwYlVTcS1zbDBFaEpweHZqdFVGd2FkRDNFX044dnVLLVc5bWdLd29lM3dpZWl5TG9IRTZJa2VjUzA4VFN2MkdjeFZZcWs0UmVjTi11OERkUmpNWHhLVmlGWUNrbkJOODhSR0pWLXJEUFhPdDg1eHI4bEk?oc=5</link><description>[score: 0.867] 米台関係、米中首脳会談後も強固 防衛装備の適時引き渡し重要＝駐米代表 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxPRzYwUThaOTNBWHgwYlVTcS1zbDBFaEpweHZqdFVGd2FkRDNFX044dnVLLVc5bWdLd29lM3dpZWl5TG9IRTZJa2VjUzA4VFN2MkdjeFZZcWs0UmVjTi11OERkUmpNWHhLVmlGWUNrbkJOODhSR0pWLXJEUFhPdDg1eHI4bEk?oc=5</guid><pubDate>Wed, 07 Oct 2026 20:54:55 +0000</pubDate></item><item><title>ロシア研究所職員死亡「生物兵器原因ではない」、 情報共有を期待＝トランプ氏 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPWEQ5dkZoYVVBWGJwczJGODkyMm5uTlVXcjVfa0JyVmZ1NWU0bVdmNjk5OXhuWmtXeTBhQVVOQTBMaXp0XzFqel9CVHBYbHZDR0xVRlRRaWxIRjNMOUhjOUhmNzBudzNWQVNYQlJ1T2VOcjJYRTVDNDhnTXFsbGRIWXhvdC1oYVk?oc=5</link><description>[score: 0.867] ロシア研究所職員死亡「生物兵器原因ではない」、 情報共有を期待＝トランプ氏 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxPWEQ5dkZoYVVBWGJwczJGODkyMm5uTlVXcjVfa0JyVmZ1NWU0bVdmNjk5OXhuWmtXeTBhQVVOQTBMaXp0XzFqel9CVHBYbHZDR0xVRlRRaWxIRjNMOUhjOUhmNzBudzNWQVNYQlJ1T2VOcjJYRTVDNDhnTXFsbGRIWXhvdC1oYVk?oc=5</guid><pubDate>Wed, 07 Oct 2026 20:54:55 +0000</pubDate></item><item><title>.NETラボ勉強会で行動指針を策定した理由と、運営としての責任</title><link>https://qiita.com/tomokusaba/items/1930df5123deef9ea74f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.868] はじめに
+.NETラボ勉強会では、これまで行動指針を明文化していませんでした。参加者はみな良識ある大人だと信頼し、安心して学べる場は、その信頼を土台にすれば成り立つと考えていたからです。
+しかし、一部の参加者の行動を受けて、参加を制限せざるを得ない状況が生じました。具体的な行為や個人がわかる情報は、ここでは書きません。誰かを非難することではなく、今回の経験を通して運営として何を考えたのかを記します。
+明文の指針がない中で参加制限を判断することは、簡単ではありませんでした。また、問題となる行動に対して、これまで十分な対応をしてこなかったと思われても仕方のない側面があったことも、運営として受け止め</description><guid isPermaLink="false">https://qiita.com/tomokusaba/items/1930df5123deef9ea74f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 07 Oct 2026 20:14:29 +0000</pubDate></item><item><title>原子力人材確保へ 官民が共同で新団体を設立</title><link>https://news.web.nhk/newsweb/na/nd-20261007de56174</link><description>[score: 0.869] 政府が掲げる原子力発電の活用に向けて人材の確保が課題となる中、官民が共同で原子力分野の人材育成に取り組む新たな団体を立ち上げました。団体では今後、人手不足の状況などを分析した上で、企業や大学など各現場…
+注目ワード
 あわせて読みたい
-個人情報流出なぜ相次ぐ?“異様な状況”AI悪用可能性の指摘も
-10月6日 20:08
-衆院予算委の質疑 与党“１日で” 野党“２日間で” 協議継続
-10月7日 15:02
-簗農相“道路予算カット”発言で働きかけ改めて否定
-10月7日 17:47
-大手ビールメーカー4社を強制調査 価格カルテル疑い 公取委
-10月7日 19:27
-高市首相 古謝知事と面会 米兵逮捕で“日米で協議進め</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261007de55973</guid><pubDate>Wed, 07 Oct 2026 09:18:34 +0000</pubDate></item><item><title>顧客にとっては、すべてが「一つの会社」である</title><link>https://forbesjapan.com/articles/detail/106205?s=ns</link><description>[score: 0.878] 最近、ある同僚が銀行での不快な体験を話してくれた。彼女は、取引銀行が新しい親会社に移行するわずか数週間前に、新しいビジネス口座を開設した。本来なら簡単な手続きのはずが、情報提出の繰り返し要求、頻繁に変わるオンラインツール、矛盾する回答、そして親身になってくれるが同じ情報を持たない担当者への幾度もの電話といった、数週間にわたる労苦に変わってしまった。
-個々のやり取りに致命的なものはなかった。しかし総合すると、ちぐはぐで不必要に困難に感じられる体験となっていた。
-このことは、私が金融サービスと顧客体験の分野でキャリアを積む中で繰り返し見てきた、ある事実を思い出させた。顧客は、組織が自らを評価するよ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106205?s=ns</guid><pubDate>Wed, 07 Oct 2026 12:00:46 +0000</pubDate></item><item><title>「誰でも入手できるAI」がサイバー攻撃を自律構築　Anthropicが「GLM-5.3」に警鐘 - 週刊アスキー</title><link>https://weekly.ascii.jp/elem/000/004/438/4438590/</link><description>[score: 0.878] 「誰でも入手できるAI」がサイバー攻撃を自律構築 Anthropicが「GLM-5.3」に警鐘
-2026年09月30日 14時55分更新
-Anthropicは9月29日、Zhipu AI（Z.ai）のAIモデル「GLM-5.3」を検証し、エンドツーエンドの攻撃コードを自律的に構築できる能力を確認したと発表した。GLM-5.3はモデルの重みが公開されており、誰でもダウンロードして利用できる点を同社は問題視している。
-Google Chromeで使われるV8エンジンの既知の脆弱性を対象とした評価では、410回中50回で一連の攻撃コードの作成に成功した。さらに研究者との実験では、ブラウザの未知の脆弱</description><guid isPermaLink="false">https://weekly.ascii.jp/elem/000/004/438/4438590/</guid><pubDate>Wed, 07 Oct 2026 06:25:41 +0000</pubDate></item><item><title>AI、プライバシー、信頼：これからの経営幹部に求められる3つの管理領域</title><link>https://forbesjapan.com/articles/detail/106202?s=ns</link><description>[score: 0.878] 長年、経営幹部の仕事は明確だった。強力なチームを編成し、戦略を立て、予算を管理し、成果を出すことだ。これらのスキルは今日も依然として重要である。しかし、もはやそれだけでは十分ではない。
-人工知能（AI）はビジネスのあり方を変えつつある。顧客はかつてないほど多くの情報を共有している。規制当局は、組織がデータをどのように使用しているかへの注視を強めている。同時に、人々のプライバシーに対する意識は高まり、企業に対してより高い透明性を求めるようになっている。
-これがリーダーたちに新たな課題をもたらしている
-これからの経営幹部は、従業員だけでなく、AI、プライバシー、そして信頼を管理する必要がある。多く</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106202?s=ns</guid><pubDate>Wed, 07 Oct 2026 12:00:46 +0000</pubDate></item><item><title>日本のリーダーシップ、フィジカルＡＩ時代の鍵＝インテルＣＥＯ - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNN1VJMk1JVzZmR2YzeWhXTHFQZUQ4akV1ZGhURThEa1hvNlhvX2d6bUJpbllWa3ZIRnl4dFFaT3VqSTU5OVZXOGpTeVZOLXJlQzdGSWFRYTZNYndYdkhxV19YdGllWDFSMk5HMWRHOGduMmNYblVidk1Eelc5cU1feXBiOEN0UQ?oc=5</link><description>[score: 0.878] 日本のリーダーシップ、フィジカルＡＩ時代の鍵＝インテルＣＥＯ Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNN1VJMk1JVzZmR2YzeWhXTHFQZUQ4akV1ZGhURThEa1hvNlhvX2d6bUJpbllWa3ZIRnl4dFFaT3VqSTU5OVZXOGpTeVZOLXJlQzdGSWFRYTZNYndYdkhxV19YdGllWDFSMk5HMWRHOGduMmNYblVidk1Eelc5cU1feXBiOEN0UQ?oc=5</guid><pubDate>Wed, 07 Oct 2026 11:48:51 +0000</pubDate></item><item><title>Oracle IntegrationのMCP Gatewayを使って、MCPサーバーへのアクセスを制御してみた</title><link>https://qiita.com/nakasato310/items/052e2260b0e019da0567?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] はじめに
-Oracle Integration（OIC） は、Oracle Cloud Infrastructure（OCI）が提供するiPaaS（Integration Platform as a Service）です。Oracle SaaSやOCIサービス、オンプレミスシステムなどを連携し、業務プロセスの自動化やAPI連携を実現します。
-Oracle Integration 26.10のリリースより、MCP Gatewayが利用できるようになりました。
-MCP Gatewayを利用することで、MCPクライアントからOracle Integrationや承認されたサードパーティのMCPサーバ</description><guid isPermaLink="false">https://qiita.com/nakasato310/items/052e2260b0e019da0567?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 07 Oct 2026 09:05:15 +0000</pubDate></item><item><title>OpenAI、AI暴走で再発防止を強調　日本の協力も呼びかけ</title><link>https://www.watch.impress.co.jp/docs/news/2146351.html</link><description>[score: 0.879] 2026年7月、OpenAIの未公開モデル(当時)がAIプラットフォームの「Hugging Face」の本番インフラに侵入するセキュリティインシデントが発生。Claude Mythosの登場などで指摘されてきた、AIによるサイバーセキュリティ攻撃の能力の高さとともに、人間が「意図しない」「関知しない」なかで起きたAIによる攻撃となったことから、サイバー防御は新たなフェーズに入ったことを印象づけた。</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2146351.html</guid><pubDate>Wed, 07 Oct 2026 05:09:24 +0000</pubDate></item><item><title>「生成ＡＩと人材育成に関する人事実態調査」を発表</title><link>https://kyodonewsprwire.jp/release/202610067402</link><description>[score: 0.879] 「生成ＡＩと人材育成に関する人事実態調査」を発表
-人材育成の見直し、半数を超える企業が必要性を認識 実際の対応は2割未満
-学校法人産業能率大学 総合研究所（東京都世田谷区）は、ＨＲ総研（ProFuture株式会社）と共同で「生成ＡＩと人材育成に関する人事実態調査」を実施しました。日本企業・組織で人事施策または人材育成に関わる担当者・責任者（以下、人事担当者）を対象に調査し、320社の回答を集計しました。
-本調査では、生成ＡＩの業務利用状況、人材育成への影響認識、育成施策の見直し・対応状況を尋ねました。また、新人・若手社員の育成における期待や懸念、生成ＡＩを用いた成果物の品質確認やレビューの実態</description><guid isPermaLink="false">https://kyodonewsprwire.jp/release/202610067402</guid><pubDate>Wed, 07 Oct 2026 07:30:10 +0000</pubDate></item><item><title>ケニアで初のエボラ感染確認、コンゴから帰国の男性死亡 - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFB3SHY1Mml1Z3RWTUNOMFQ1RVZ4M1I2SDN6S3VWck51VUJJX252WUNfN1pBTlZaejdadHcxTzBpVkhvcW1VNHpWRGpueGdtUXE2M1pPeEtEVGhhaFJVUV85X1o2Y0NiMFlFTjh0T2RQZmxuQ0IyWG5YTWdfWGhNQdIBgwFBVV95cUxQSk1jZ3lSUW4wTWl6ajYwWmpHRmJXN2ZPVUpFcExocndyWTJHaFdPVXowc3hESnRZMjBQeGhadUk3QlpHMURiQTdhOTRRTks0UUY1S3FIVWM5X3BlcUtCaGJ0MUN1OUVQc2lMb01pRUtETWE2MlJ3cDdncWF4OFI2ckNXQQ?oc=5</link><description>[score: 0.879] ケニアで初のエボラ感染確認、コンゴから帰国の男性死亡 ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFB3SHY1Mml1Z3RWTUNOMFQ1RVZ4M1I2SDN6S3VWck51VUJJX252WUNfN1pBTlZaejdadHcxTzBpVkhvcW1VNHpWRGpueGdtUXE2M1pPeEtEVGhhaFJVUV85X1o2Y0NiMFlFTjh0T2RQZmxuQ0IyWG5YTWdfWGhNQdIBgwFBVV95cUxQSk1jZ3lSUW4wTWl6ajYwWmpHRmJXN2ZPVUpFcExocndyWTJHaFdPVXowc3hESnRZMjBQeGhadUk3QlpHMURiQTdhOTRRTks0UUY1S3FIVWM5X3BlcUtCaGJ0MUN1OUVQc2lMb01pRUtETWE2MlJ3cDdncWF4OFI2ckNXQQ?oc=5</guid><pubDate>Wed, 07 Oct 2026 11:48:51 +0000</pubDate></item><item><title>AIの安全性を巡る不安：2026年9月に最も読まれた10本のストーリー</title><link>https://wired.jp/article/10-most-read-stories-september-2026/</link><description>[score: 0.879] 9月は、人工知能（AI）による人類滅亡への懸念を取り上げた記事や、AIと数学をめぐる記事が読まれた。懸念を表明するAI研究者たちが特に注視しているのは、AIが自らを改良し続ける「再帰的自己改善」に向けた動きだ。開発の自動化や多数のAIエージェントの活用が進むことで、人間による監督や制御が難しくなると考えている。
-今後10年以内にAIが全人類を滅ぼす確率は10％を超えるという見解もあるなか、Google DeepMindやAnthropicを離れた研究者たちの警告を通じて、こうした懸念の背景を伝える記事に関心が集まった。
-関連記事：「AIが人類を滅ぼす」──研究者たちが本気で警告する理由
-また、</description><guid isPermaLink="false">https://wired.jp/article/10-most-read-stories-september-2026/</guid><pubDate>Wed, 07 Oct 2026 09:32:05 +0000</pubDate></item><item><title>グーグル、画像生成AI「Nano Banana 2.1」　画像出力料金半額</title><link>https://www.watch.impress.co.jp/docs/news/2146379.html</link><description>[score: 0.880] ニュース
-グーグル、画像生成AI「Nano Banana 2.1」 画像出力料金半額
-2026年10月7日 14:20
-Googleは、画像生成・編集モデル「Gemini Nano Banana 2.1」を一般提供した。Gemini APIのほか、Geminiアプリ、Google検索のAIモード、Google AI Studio、Flow、Stitch、Google Ads、Gemini Enterprise Platformなどで順次展開する。
-Gemini APIで「gemini-nano-banana-2.1」として利用でき、1K、2K、4Kの画像生成に対応する。従来モデル「Nano B</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2146379.html</guid><pubDate>Wed, 07 Oct 2026 05:39:43 +0000</pubDate></item><item><title>相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ</title><link>https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html</link><description>[score: 0.880] 相次ぐWEBシステムからの情報漏洩事案について | セキュリティ研究センターブログ 1.記事概要 国内の法人・企業が運営するWEBシステムからの情報漏洩が相次いでいます。後述の通り過去のサイバー攻撃と異なる点が多いため、セキュリティ専門家間でも事件に関する解釈が一部揺らいでいます。また... wasai %E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E3%82%B7%E3%82%B9%E3%83%86%E3%83%A0%E6%83%85%E5%A0%B1</description><guid isPermaLink="false">https://security.macnica.co.jp/blog/2026/10/web-incidents2026.html</guid><pubDate>Wed, 07 Oct 2026 07:30:10 +0000</pubDate></item><item><title>レビューの口伝を40ルールに棚卸ししてAIレビューに載せた</title><link>https://zenn.dev/edash_tech_blog/articles/c52409a3d6fa12</link><description>[score: 0.881] はじめに こんにちは、e-dashでエンジニアをしている Kezuka です。 レビューで口伝されていたバックエンドの作法を棚卸しして、AIレビュー用のスキルにしました。 半年運用した結果を実測しています。期待と違う結果が出たので、その記録と次の課題を書きます。 書かれていないルールが、レビューで伝わっていた バックエンドは Go とクリーンアーキテクチャです。Go らしい書き方に加えて、会社固有のルールやリファクタリングの方針が積み上がっていました。 それがどこにも書かれていませんでした。品質は、Go に精通したメンバーのレビューで担保されていました。 新しく入ったメンバーは、...</description><guid isPermaLink="false">https://zenn.dev/edash_tech_blog/articles/c52409a3d6fa12</guid><pubDate>Wed, 07 Oct 2026 12:09:28 +0000</pubDate></item><item><title>新人さんのためのマーケティング講座 Season 9【全20回まとめ】——スペックで競わず、「比べられない理由」をつくろう！</title><link>https://studyhacker.net/newcomers-marketing-index09</link><description>[score: 0.884] 「検索もレコメンドもない狭い売場のカルディが、なぜEC全盛の時代に増え続けるのか？」「なぜ36,850円のキーボードが、30年で77万台も売れるのか？」「なぜ特許が切れたネスプレッソの商売は、崩れなかったのか？」 これらの問いにも、共通の構造があります——「スペックで競わず、比べられない理由をつくる」こと。 この連載【新人さんのためのマーケティング講座 Season9】では、売ってから作る仕組み・単価と思想・文脈の載せ替え・製品の外の参入障壁という軸を中心に、ガジェットから食品・コスメまで国内外の事例を全20回で読み解きます。 性能を上げることも、値段を下げることも、それだけでは選ばれる理由に</description><guid isPermaLink="false">https://studyhacker.net/newcomers-marketing-index09</guid><pubDate>Wed, 07 Oct 2026 10:13:14 +0000</pubDate></item><item><title>LINE配信の直後に1万人が来ても落ちないように、負荷試験を回しながら直した話【Vercel × Supabase】</title><link>https://zenn.dev/yoshinani_dev/articles/0a938da9346c93</link><description>[score: 0.884] 今回は、LINE ミニアプリで「LINE の配信を受け取った会員が一斉に開いて、ルーレットを回す」ときに、どこまで耐えられるかを負荷試験で測り、直した記録を紹介します。 技術構成編で紹介した、Next.js（Vercel）+ Supabase + Prisma 7 の構成です。リリース直前に「大量の同時アクセスに耐えられる構成になってる？」と聞かれて、正直に答えると「確かめていません」だったので、測るところから始めました。 最初の試験では、100 人が同じ瞬間にルーレットを回すと 4% しか成功しませんでした。最終的には、1 万人が 5 分の間に来ても全員回せるところまで直しています。 ...</description><guid isPermaLink="false">https://zenn.dev/yoshinani_dev/articles/0a938da9346c93</guid><pubDate>Wed, 07 Oct 2026 12:09:28 +0000</pubDate></item><item><title>プルデンシャル生命 過度な業績連動見直し 最低保証給導入へ</title><link>https://news.web.nhk/newsweb/na/nd-20261007de56006</link><description>[score: 0.885] プルデンシャル生命は、社員が顧客から巨額の金銭をだまし取っていた問題で、業績に過度に連動していた報酬制度などに原因があったとして、月の報酬が基準を下回る場合に差額を支給するなど制度を抜本的に見直す方針…
-あわせて読みたい
+ノーベル化学賞に東京理科大学名誉教授
+10月7日 22:58
 簗農相「法令に従い適正に処理」シャトルバス報道受け
 10月7日 15:14
-簗農相“道路予算カット”発言で働きかけ改めて否定
-10月7日 17:47
 高市首相 古謝知事と面会 米兵逮捕で“日米で協議進める”
 10月7日 18:37
 大手ビールメーカー4社を強制調査 価格カルテル疑い 公取委
 10月7日 19:27
-新潟 6人死亡菓子工場火災 三幸製菓の当時の幹部4人在宅起訴
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261007de56006</guid><pubDate>Wed, 07 Oct 2026 09:18:34 +0000</pubDate></item><item><title>2026年の情報漏洩を手口で分類してみた</title><link>https://qiita.com/yama3133/items/071119dfea9ed24d0948?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] はじめに
-2026年に入って、国内外で大きな情報漏洩が続いています。特に6月から10月初旬には、タイムズカー(約660万アカウント)、焼肉きんぐ(約1,079万件)、アフラック生命(約440万人)、デンマークの住民登録簿(約880万人)などが公表されました。
-この記事では、公表された事案を入口の手口で4つに分け、一次情報(各社・当局・調査者本人の発表)を出典に付けて整理します。
-調査日は2026年10月6日で、1月から10月初旬に公表された事案のうち、出典を確認できたものを載せています。
-読み方と出典の区分
-出典は2種類に分けて書いています。
-- 【一次】発表した当事者(企業・省庁)、または調</description><guid isPermaLink="false">https://qiita.com/yama3133/items/071119dfea9ed24d0948?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 07 Oct 2026 09:05:15 +0000</pubDate></item><item><title>ソフトバンク子会社に不正アクセス クラウドサービスに障害</title><link>https://news.web.nhk/newsweb/na/nd-20261007de56048</link><description>[score: 0.885] ソフトバンクの子会社の「IDCフロンティア」は、システムに不正アクセスがあり、自社が提供するクラウドサービスの一部に障害が発生していると発表しました。
-発表によりますと7日午前3時40分ごろ、「I…
-あわせて読みたい
 損保ジャパン のべ6万件の顧客情報が流出か 不正アクセス
-10月7日 18:08
-HIS 去年の不正アクセスで最大627人分のパスポート情報流出か
-10月7日 18:59
-タイムズカー情報漏えい 業界団体に対策の点検を要請 国交省
-10月7日 5:04
-旭化成子会社 個人情報55万人余 漏えいの可能性と発表
-10月7日 0:53
-企業への不正アクセス被害相次ぐ 個人情報の大規模流</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261007de56048</guid><pubDate>Wed, 07 Oct 2026 11:22:30 +0000</pubDate></item><item><title>米有権者の過半数、政権・議会は「ＡＩのリスク深刻視せず」＝調査 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5TMWIyMk1GVkRsZWhZVGQ2Vjc0aWZrckFzSzhwYzkxaUZ4TW5sRHM4elUtR1BLNjlJVnVwdkdySjI5djU3dWVrckMxTTVjYlV5eVlxazZhbWMtYzZLRjdWUEpHeDhRb0x5UW5NY1g3RW5XLUc1UExjOHoxUGRWWjg?oc=5</link><description>[score: 0.885] 米有権者の過半数、政権・議会は「ＡＩのリスク深刻視せず」＝調査 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE5TMWIyMk1GVkRsZWhZVGQ2Vjc0aWZrckFzSzhwYzkxaUZ4TW5sRHM4elUtR1BLNjlJVnVwdkdySjI5djU3dWVrckMxTTVjYlV5eVlxazZhbWMtYzZLRjdWUEpHeDhRb0x5UW5NY1g3RW5XLUc1UExjOHoxUGRWWjg?oc=5</guid><pubDate>Wed, 07 Oct 2026 10:46:25 +0000</pubDate></item><item><title>プーチン大統領の誕生日に大規模攻撃か 12人以上死亡</title><link>https://news.web.nhk/newsweb/na/nd-20261007de56090</link><description>[score: 0.886] ウクライナでは7日にかけて各地でロシア軍による大規模な攻撃があり、10月7日がプーチン大統領の誕生日であることからゼレンスキー大統領は、攻撃は「ロシア軍から大統領への贈り物だ」と非難しました。
-ウ…
+10</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261007de56174</guid><pubDate>Wed, 07 Oct 2026 15:20:25 +0000</pubDate></item><item><title>ハーネスエンジニアリングの仕組みで実現するUIの品質担保【デザインハーネスの組み立て方】</title><link>https://codezine.jp/article/detail/29615</link><description>[score: 0.869] ハーネスエンジニアリングの仕組みで実現するUIの品質担保【デザインハーネスの組み立て方】 AIエージェントに確実に仕事をさせるため、制約・検証・フィードバックの装置で挙動を包み込む仕組みを「ハーネス」と呼びます。このハーネスエンジニアリングの考え方をデザイン領域に当てはめたものが「デザインハーネス」です。作ってよいものの範囲を定め、判断の前提を渡し、生成物が基準を満たすか確かめ、その結...</description><guid isPermaLink="false">https://codezine.jp/article/detail/29615</guid><pubDate>Wed, 07 Oct 2026 13:18:24 +0000</pubDate></item><item><title>米有権者の過半数、政権・議会は「ＡＩのリスク深刻視せず」＝調査（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5zcDBlLUJ1YUhRclo2RWI2N2JxWFNfTFZES0lRWUJaWHkxalR4aDhwSnJBVU00V0lsb3o5ZjM1emF2cUViTV9NT0prTHBfTnpZeFJEUTdZRm5zTXllb2RQMVZSblVCNmhYOVdXeWxUQjEzZE1IeEV2Q1BaTkk3XzQ?oc=5</link><description>[score: 0.870] 米有権者の過半数、政権・議会は「ＡＩのリスク深刻視せず」＝調査（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE5zcDBlLUJ1YUhRclo2RWI2N2JxWFNfTFZES0lRWUJaWHkxalR4aDhwSnJBVU00V0lsb3o5ZjM1emF2cUViTV9NT0prTHBfTnpZeFJEUTdZRm5zTXllb2RQMVZSblVCNmhYOVdXeWxUQjEzZE1IeEV2Q1BaTkk3XzQ?oc=5</guid><pubDate>Wed, 07 Oct 2026 12:46:27 +0000</pubDate></item><item><title>Google Workspace Studioの「スキル（Skills）」とは？作り方・使い方とフローとの違いを解説</title><link>https://qiita.com/shibuya-ys/items/1cfd627bd1ba30e2dc9c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.872] はじめに
+こんにちは。
+普段はGoogle Workspaceをあまり使っていないのですが、業務の効率化に活用してみようと模索している中で、最近「Google Workspace Studio」のスキル（Skills）という機能を触る機会がありました。
+これまで業務を自動化・効率化しようとすると、プログラムを書いたり、ツール上で「メールが来たら〇〇する」みたいに矢印を繋いで設定していくのが一般的でした。
+でも、このやり方だと「パターンAの時はこう、パターンBの時はこう…」とすべてのルールを人間が考えて設定しなきゃいけなくて、どうしても設定が複雑になりがちなんですよね。
+そのうえ、少しでも想定外</description><guid isPermaLink="false">https://qiita.com/shibuya-ys/items/1cfd627bd1ba30e2dc9c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 07 Oct 2026 20:14:29 +0000</pubDate></item><item><title>銀行もやられるの時間の問題だろ。そんな事ありえないwと言うだろうが、銀行のデータ全部消滅したらどうなるんだ。いま預金通帳もってない者多いだろ。おれは持ってるが、記入された残高が今銀行にあると証明するすべがない。その後ATMで引き出してませんか？カード会社が引き落としてませんか？とか。→「これを一番恐れている🥶 ネット証券ネット銀行…。 怖いよ〜😭」</title><link>https://posfie.com/@petaritape/p/wXRbWdC</link><description>[score: 0.873] 銀行もやられるの時間の問題だろ。そんな事ありえないwと言うだろうが、銀行のデータ全部消滅したらどうなるんだ。いま預金通帳もってない者多いだろ。おれは持ってるが、記入された残高が今銀行にあると証明するすべがない。その後ATMで引き出してませんか？カード会社が引き落としてませんか？とか。→「これを一番恐れている🥶 ネット証券ネット銀行…。 怖いよ〜😭」 ポンピィ @pom_pom_pee 銀行もやられるの時間の問題だろ。そんな事ありえないwと言うだろうが、銀行のデータ全部消滅したらどうなるんだ。いま預金通帳もってない者多いだろ。おれは持ってるが、記入された残高が今銀行にあると証明するすべがない。そ</description><guid isPermaLink="false">https://posfie.com/@petaritape/p/wXRbWdC</guid><pubDate>Wed, 07 Oct 2026 20:59:50 +0000</pubDate></item><item><title>南海トラフ巨大地震 定例の評価検討会「特段の変化なし」</title><link>https://news.web.nhk/newsweb/na/nd-20261008de56204</link><description>[score: 0.875] 南海トラフで巨大地震が起きる可能性を評価する気象庁の定例の検討会が開かれ、「特段の変化は観測されていない」とする評価結果をまとめました。
+専門家でつくる検討会は、7日、定例の会合を気象庁で開いて、…
 あわせて読みたい
-ノーベル賞 日本から“3年連続受賞”なるか 7日は化学賞発表
-10月7日 16:15
-ウクライナ キーウ 1000人収容の巨大シェルターで子どもが勉強
-10月7日 7:51
-ウクライナ世論調査「ロシアに勝利できる」およそ8割
-10月7日 7:47
-【随時更新】ロシア ウクライナに軍事侵攻（10月7日の動き）
-10月7日 19:22
-米バンス副大統領“イランはウラン濃縮能力削減に応</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261007de56090</guid><pubDate>Wed, 07 Oct 2026 11:22:30 +0000</pubDate></item><item><title>ChatGPT SolとLunaを分業したら、Sol単独の47%のコストで隠しテスト100%だった ── 「どの工程にどのモデルを使うか」を考える</title><link>https://qiita.com/kunitomo926/items/60aa36a9a54fc1de7919?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.888] TL;DR
-GPT-6のSolとLunaを使い、同じ仕様のWebアプリを3つの構成で3回ずつ作らせました。
-- 計画とレビューをSol、実装をLunaにした分業構成は、今回の実験では隠しE2Eテスト合格率100%を、全部Solの47%のコストで達成した
-- ただし分業は3構成の中で最も遅かった。主にSolのレビューと、その指摘を受けた修正の往復に時間がかかっている
-- 全部Lunaは圧倒的に安く、今回の条件では最速だった。一方で、3回中1回で小さな仕様逸脱を取りこぼした
-今回の結果だけを見ると、品質とコストのバランスでは分業構成が有力でした。
-ただし、ここで言いたいのは「計画とレビューはSol</description><guid isPermaLink="false">https://qiita.com/kunitomo926/items/60aa36a9a54fc1de7919?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 07 Oct 2026 09:05:15 +0000</pubDate></item><item><title>米有権者の過半数、政権・議会は「ＡＩのリスク深刻視せず」＝調査 - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE92bnRBZkRNSGFQTVByc3hEUi1WT0pmWFcwNFl2VjlOTkxyWXVuVi12Rlc1TzB3b0Q4ZUF2Uk1MVEhUbkF2MjVoWUZBLTVkYWpJUzdwWHRyX1NjbEYybXlBSkwtYmVmeG1wVmcwVlJtN093akNhdmlDb29DLWdNZ9IBgwFBVV95cUxQcXBhdlhId1UzVHBobWNyTG5tb3NBb21xdVpzSGF6ZWwzY2xOU0NrM0gzeE5aenF1bnFxMXJ6ckV3eFl2T29zZVpRWk5RTW1aQWRJM1gxdDhaSC1DRGR2VkFXX2ZDeHdCdkZrT2kwTzJCTDE4R3hCWDZpSHNKOVBlTy1tRQ?oc=5</link><description>[score: 0.890] 米有権者の過半数、政権・議会は「ＡＩのリスク深刻視せず」＝調査 ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE92bnRBZkRNSGFQTVByc3hEUi1WT0pmWFcwNFl2VjlOTkxyWXVuVi12Rlc1TzB3b0Q4ZUF2Uk1MVEhUbkF2MjVoWUZBLTVkYWpJUzdwWHRyX1NjbEYybXlBSkwtYmVmeG1wVmcwVlJtN093akNhdmlDb29DLWdNZ9IBgwFBVV95cUxQcXBhdlhId1UzVHBobWNyTG5tb3NBb21xdVpzSGF6ZWwzY2xOU0NrM0gzeE5aenF1bnFxMXJ6ckV3eFl2T29zZVpRWk5RTW1aQWRJM1gxdDhaSC1DRGR2VkFXX2ZDeHdCdkZrT2kwTzJCTDE4R3hCWDZpSHNKOVBlTy1tRQ?oc=5</guid><pubDate>Wed, 07 Oct 2026 10:46:25 +0000</pubDate></item><item><title>Anthropic、Cyber Verification Programを拡大 ——防御・侵入テストなどのセキュリティ業務向けにClaudeの利用制限を緩和</title><link>https://gihyo.jp/article/2026/10/anthropic-expand-cyber-verification-program?utm_source=feed</link><description>[score: 0.891] Anthropicは2026年10月6日、企業のセキュリティ担当者や研究者などを対象とする「Cyber Verification Program（CVP） 」を拡大した。防御業務や、許可を得た侵入テスト、レッドチーム演習など、作業範囲に応じた3つの利用区分を新設した。審査を通過した利用者は、各区分で認められた業務に合わせてサイバー用途の制限を緩和したClaudeを利用できる。
-通常のClaudeでも、コードレビュー、自社のソースコードの脆弱性発見、既知の問題の修正などを行える[1] 。しかしマルウェア解析などでは、安全対策によって処理が中断される場合がある。CVPは、こうした業務に取り組む組織</description><guid isPermaLink="false">https://gihyo.jp/article/2026/10/anthropic-expand-cyber-verification-program?utm_source=feed</guid><pubDate>Wed, 07 Oct 2026 09:39:44 +0000</pubDate></item><item><title>OpenAIが判断専用の「Decisions API」を公開、テキストや画像を約10倍高速に判定して確率や信頼度を出力</title><link>https://gigazine.net/news/20261007-decisions-api/</link><description>[score: 0.891] OpenAIが判断専用の「Decisions API」を公開、テキストや画像を約10倍高速に判定して確率や信頼度を出力
-OpenAIがアプリケーション内で「どのモデルを使うか」「どのツールを呼び出すか」「問い合わせをどこに振り分けるか」といった判断を高速に行うための新API「Decisions API」をパブリックベータとして公開しました。テキストと画像を入力でき、条件に当てはまる確率や選択結果、評価スコアなどを機械処理しやすい形式で返します。
-Decisions | OpenAI API
-https://developers.openai.com/api/docs/guides/decisi</description><guid isPermaLink="false">https://gigazine.net/news/20261007-decisions-api/</guid><pubDate>Wed, 07 Oct 2026 09:24:47 +0000</pubDate></item><item><title>OpenAIの「野良AIエージェント」がWikipedia関連サイトを勝手に編集、侵入を試み数百万回アクセスしていたとウィキメディア財団が発表</title><link>https://gigazine.net/news/20261007-openai-rogue-agent/</link><description>[score: 0.892] Wikipediaなどを運営するウィキメディア財団が、OpenAIによって運用されていたとみられるAIエージェントによる未承認の編集やシステムへの侵入試行、大量の自動アクセスを確認したと発表しました。AIエージェントはWikimediaの公開APIに数百万回アクセスしたほか、Wikidataやウィキメディア・コモンズの数百万ページを巡回し、Wikidata Query Serviceにも数十万回の問い合わせを行っていたとのことです。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20261007-openai-rogue-agent/</guid><pubDate>Wed, 07 Oct 2026 06:17:52 +0000</pubDate></item><item><title>米30年物住宅ローン金利、約3年ぶり高水準＝抵当銀行協会 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNTXpBQk93S3dZcUJESWY2NTExcjFldEVtOGQzYnUwYlBfUWktLTE0SFA3RUpwMzV4V2doaXdjNHV6M1NKdGIteFZJVk4yZzhjd1JBVVZMcXdpUU1SeXhEZXZnb0w0UHU4cTliQUNiQzNMUzMtY1B1UUlHcW9qdWxaT1VvZHVkUQ?oc=5</link><description>[score: 0.893] 米30年物住宅ローン金利、約3年ぶり高水準＝抵当銀行協会 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNTXpBQk93S3dZcUJESWY2NTExcjFldEVtOGQzYnUwYlBfUWktLTE0SFA3RUpwMzV4V2doaXdjNHV6M1NKdGIteFZJVk4yZzhjd1JBVVZMcXdpUU1SeXhEZXZnb0w0UHU4cTliQUNiQzNMUzMtY1B1UUlHcW9qdWxaT1VvZHVkUQ?oc=5</guid><pubDate>Wed, 07 Oct 2026 11:48:51 +0000</pubDate></item><item><title>AIが正しい答えを返せる時代に、人はなぜ学ぶのか ～なんでもCopilotでの学びを通して～</title><link>https://qiita.com/Oyu3m/items/9d68313e74aecac103bd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.893] はじめに ： 地元・札幌で「なんでもCopilot」を開催して
-毎週水曜日の20時からオンラインで勉強会を開催している「なんでもCopilot」コミュニティ。今回は地方開催の第二弾として、私の地元・札幌で開催することができました。
-普段一緒に運営をしたり、コミュニティに参加してくださる皆さんを北海道に迎え、地元の方々と繋がる場をつくれたことは、本当に嬉しく、感慨深いものがありました。
-開催にあたっては、北海道大学の皆様に全面的にご協力いただきました。会場提供だけでなく当日の運営までお手伝いいただき、心から感謝しています。
-北海道大学の高崎さん、室蘭工業大学の斉藤さん、北海道在住Microsof</description><guid isPermaLink="false">https://qiita.com/Oyu3m/items/9d68313e74aecac103bd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 07 Oct 2026 09:05:15 +0000</pubDate></item><item><title>米海兵隊員逮捕の強盗殺人 軍関係者資格持つカードで支払いか</title><link>https://news.web.nhk/newsweb/na/nd-20261007de56022</link><description>[score: 0.895] 那覇市のホテルで女性が殺害された強盗殺人事件でホテルの支払いにアメリカ軍の関係者が会員資格を持つカードが使われ、逮捕されたアメリカの海兵隊員が同じ種類のカードを所持していたことが、捜査関係者への取材で…
-あわせて読みたい
+ノーベル化学賞に東京理科大学名誉教授
+10月7日 22:58
 簗農相「法令に従い適正に処理」シャトルバス報道受け
 10月7日 15:14
-簗農相“道路予算カット”発言で働きかけ改めて否定
-10月7日 17:47
 高市首相 古謝知事と面会 米兵逮捕で“日米で協議進める”
 10月7日 18:37
 大手ビールメーカー4社を強制調査 価格カルテル疑い 公取委
 10月7日 19:27
-新潟 6人死亡菓子工場火災 三幸製菓の当時の幹部4人在宅起訴
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261007de56022</guid><pubDate>Wed, 07 Oct 2026 10:19:43 +0000</pubDate></item><item><title>高市首相“消費税減税 最善の方法”“道路予算 適切配分徹底”</title><link>https://news.web.nhk/newsweb/na/nd-20261007de55662</link><description>[score: 0.896] 国会は衆議院で各党の代表質問が始まり、高市総理大臣は、物価高対策は来年4月からの食料品の消費税減税が実施可能な最善の方法だと訴え、理解を求めました。
-また、簗農林水産大臣が地元の自治体に対する国の道…
+損保ジャパン のべ6万件の顧客情報が流出か 不正アクセス
+10月7日 18:0</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261008de56204</guid><pubDate>Wed, 07 Oct 2026 16:49:16 +0000</pubDate></item><item><title>介護団体が事業所の経営環境改善へ 介護報酬引き上げなど訴え</title><link>https://news.web.nhk/newsweb/na/nd-20261008de56202</link><description>[score: 0.877] 介護団体が事業所の経営環境改善へ 介護報酬引き上げなど訴え
+国が来年度の介護報酬の改定に向けた議論を行う中、介護の関係団体が集会を開き、現場は深刻な人手不足や物価高騰などで危機的な状況にあるとして、国に対して介護報酬の十分な引き上げや人材確保のための支援を求め…
 あわせて読みたい
-簗農相“道路予算カット”発言で働きかけ改めて否定
-10月7日 17:47
+ノーベル化学賞に東京理科大学名誉教授
+10月7日 22:58
+ノーベル化学賞 受賞決定を受け東京理科大学で記者会見
+10月8日 0:20
+国会 代表質問始まる 野党 簗農相“予算カット”発言など追及
+10月7日 22:07
+高市首相 古謝知事と面会 米兵逮捕で“日米で協議進める”
+10月7日 18:37
+沖縄駐留米軍</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261008de56202</guid><pubDate>Wed, 07 Oct 2026 16:49:16 +0000</pubDate></item><item><title>沖縄 女性殺害事件 元交際相手を逮捕 女性はストーカー被害</title><link>https://news.web.nhk/newsweb/na/nd-20261007de56187</link><description>[score: 0.878] 先月30日、沖縄県宜野湾市で23歳の女性が殺害された事件で、警察は25歳の元交際相手を殺人の疑いで逮捕しました。元交際相手にはストーカー規制法に基づいてつきまといなどを禁じる禁止命令が出されていて、警…
+あわせて読みたい
+ノーベル化学賞に東京理科大学名誉教授
+10月7日 22:58
+ノーベル化学賞 受賞決定を受け東京理科大学で記者会見
+10月8日 0:20
+国会 代表質問始まる 野党 簗農相“予算カット”発言など追及
+10月7日 22:07
+高市首相 古謝知事と面会 米兵逮捕で“日米で協議進める”
+10月7日 18:37
+沖縄駐留米軍人の活動制限措置始まる 基地周辺では
+10月7日 19:12</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261007de56187</guid><pubDate>Wed, 07 Oct 2026 16:18:04 +0000</pubDate></item><item><title>米国株式市場＝反落、米長期債利回り上昇が重し - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQcFE2d1VvQ2VNZ1pDMzJLNC1zOV9HNkM3VmhkUC1ERUhmY3JGQTJFdFFWamdQU0FwSVR3M1BrdXc2cmJRUUdxdEhlMi1Cc3I2cFprQUU3cGxDTjJ4LWJ4ZmFlZTdmc0dtMmRUUld3Y1hWWU9ySDhmVnQ2VHg5UjNvUXNueFlqZw?oc=5</link><description>[score: 0.878] 米国株式市場＝反落、米長期債利回り上昇が重し Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQcFE2d1VvQ2VNZ1pDMzJLNC1zOV9HNkM3VmhkUC1ERUhmY3JGQTJFdFFWamdQU0FwSVR3M1BrdXc2cmJRUUdxdEhlMi1Cc3I2cFprQUU3cGxDTjJ4LWJ4ZmFlZTdmc0dtMmRUUld3Y1hWWU9ySDhmVnQ2VHg5UjNvUXNueFlqZw?oc=5</guid><pubDate>Wed, 07 Oct 2026 20:54:55 +0000</pubDate></item><item><title>10代のチャットＧＰＴ利用、1日平均15分未満 オープンＡＩ報告書（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE14b3RYTUJnMHpmSFE5ZHYwMGNWMUlYNjBSWjkwN0J0M3hBWFhJbUF3cjhSRHh6ODVKX2xYYXJrWTVLbFVLVTNOSmVlV0pDQTBBQUtfLWtsR2hQX0ZHV1pnSlRKQS1nNG4zNTluQ18xMjhBT0FLZkhJb0pGSUltZHM?oc=5</link><description>[score: 0.879] 10代のチャットＧＰＴ利用、1日平均15分未満 オープンＡＩ報告書（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE14b3RYTUJnMHpmSFE5ZHYwMGNWMUlYNjBSWjkwN0J0M3hBWFhJbUF3cjhSRHh6ODVKX2xYYXJrWTVLbFVLVTNOSmVlV0pDQTBBQUtfLWtsR2hQX0ZHV1pnSlRKQS1nNG4zNTluQ18xMjhBT0FLZkhJb0pGSUltZHM?oc=5</guid><pubDate>Wed, 07 Oct 2026 17:52:54 +0000</pubDate></item><item><title>米1年先インフレ期待3.9％、23年5月以来の高水準＝ＮＹ連銀9月調査 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNVjlHMFZOXzhzM0k4aEY5MkpUaGc1QnRESkhRUENnX3VjejJnOE1la0VQd1N5RW9xYU03c0V5R0hFaEp1RDU2ZG42UDYxVnowTUlzRGpLRFN0V1dpZU5BdWlRLXhkU2tuZzhYS3R1RThFWExLTFlnWXhMVER1cDg4bEZGMG4xdw?oc=5</link><description>[score: 0.880] 米1年先インフレ期待3.9％、23年5月以来の高水準＝ＮＹ連銀9月調査 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNVjlHMFZOXzhzM0k4aEY5MkpUaGc1QnRESkhRUENnX3VjejJnOE1la0VQd1N5RW9xYU03c0V5R0hFaEp1RDU2ZG42UDYxVnowTUlzRGpLRFN0V1dpZU5BdWlRLXhkU2tuZzhYS3R1RThFWExLTFlnWXhMVER1cDg4bEZGMG4xdw?oc=5</guid><pubDate>Wed, 07 Oct 2026 15:56:26 +0000</pubDate></item><item><title>トランプ氏、ＦＲＢは米の「低迷」望むと主張 住宅ローン金利上昇巡り - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxONWF2RDJoamFUblBwR3RmRW5jbTFtRjdJaHV0MG92b19uazNpWGJHZlR3dTdrYTZXSlljazVfTHhZWVBNVm1mUlU4dzBRV1llYXZ1T2FoTHFsMmRXRVVaUF82d0FmUFJ6STZjV185cU1hQmNiQmxvQ3RnelprU05KeGR6QUtBQQ?oc=5</link><description>[score: 0.881] トランプ氏、ＦＲＢは米の「低迷」望むと主張 住宅ローン金利上昇巡り Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxONWF2RDJoamFUblBwR3RmRW5jbTFtRjdJaHV0MG92b19uazNpWGJHZlR3dTdrYTZXSlljazVfTHhZWVBNVm1mUlU4dzBRV1llYXZ1T2FoTHFsMmRXRVVaUF82d0FmUFJ6STZjV185cU1hQmNiQmxvQ3RnelprU05KeGR6QUtBQQ?oc=5</guid><pubDate>Wed, 07 Oct 2026 19:51:32 +0000</pubDate></item><item><title>大手ビールメーカー4社 出荷価格の一覧表“裏会”で示し協議か</title><link>https://news.web.nhk/newsweb/na/nd-20261008de56219</link><description>[score: 0.882] 大手ビールメーカー4社がビールの値上げ幅などを事前に調整して取り決めるカルテルを結んだ疑いがあるとして、公正取引委員会は7日、各社の本社などを一斉に捜索しました。関係者によりますと、出荷時の価格をまと…
+あわせて読みたい
+大手ビールメーカー4社を強制調査 価格カルテル疑い 公取委
+10月7日 19:27
+ノーベル化学賞に東京理科大学名誉教授
+10月7日 22:58
+ノーベル化学賞 受賞決定を受け東京理科大学で記者会見
+10月8日 0:20
+国会 代表質問始まる 野党 簗農相“予算カット”発言など追及
+10月7日 22:07
+高市首相 古謝知事と面会 米兵逮捕で“日米で協議進める”
+10月7日 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261008de56219</guid><pubDate>Wed, 07 Oct 2026 20:40:27 +0000</pubDate></item><item><title>10代のチャットＧＰＴ利用、1日平均15分未満 オープンＡＩ報告書 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFAxRHVNS2RuQlR2V0NwcmM0eFp2YzNaT1ppMll2R0dvSEU0NHlpbmtfRjZfOTFDSFh4ekkyeUJWX2JiMUpBZ3FqZVFHVVN1YkVMTmRxOHpGSUlUWGxJVGtZUVMyV0liYnBoRUdjMmc1OXgxamVmeUxXajJZMmFaUQ?oc=5</link><description>[score: 0.882] 10代のチャットＧＰＴ利用、1日平均15分未満 オープンＡＩ報告書 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFAxRHVNS2RuQlR2V0NwcmM0eFp2YzNaT1ppMll2R0dvSEU0NHlpbmtfRjZfOTFDSFh4ekkyeUJWX2JiMUpBZ3FqZVFHVVN1YkVMTmRxOHpGSUlUWGxJVGtZUVMyV0liYnBoRUdjMmc1OXgxamVmeUxXajJZMmFaUQ?oc=5</guid><pubDate>Wed, 07 Oct 2026 17:52:54 +0000</pubDate></item><item><title>DifyのRAGで検索スコアを回答許可に使わない：根拠を検査する品質ゲート</title><link>https://qiita.com/YushiYamamoto/items/b02276053e240b8f3d2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] 問い合わせに似た文書が検索できても、その文書だけで回答してよいとは限りません。旧版の手順や、質問の条件に合わない説明を根拠にすると、引用付きの誤回答ができます。
+DifyのナレッジベースでRAGを組むエンジニアに向けて、検索結果を集める処理と、回答の根拠として使えるかを判定する処理を分ける設計を考えます。
+2026年10月5日時点の公式ドキュメントを参照した設計案です。掲載するPython関数は合成データでローカル検証しています。Dify上の接続、検索精度、LLMによる回答評価、本番運用、工数削減は未検証です。
+検索スコアは何を判定できるか
+ナレッジ検索ノードにはTop K、Score Thr</description><guid isPermaLink="false">https://qiita.com/YushiYamamoto/items/b02276053e240b8f3d2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 07 Oct 2026 20:14:29 +0000</pubDate></item><item><title>ＦＲＢ当局者、9月利上げの理由で見解分かれる＝議事要旨 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQLUpWV0ZaaUZJVnVNMEx1YkFwLW1CdWUydVdjQ29JQVZsc25wV0tOVHdIc0VKMDhlallXQUxsMVllc0J3VWhHNWlOZEN5MlFKN2JZNERoWmFHWlZiSlYtRzdFUWVJeC0xeUV3QlhhbGIxeGdxOGpKU0lHVWlWN3lwS2p4TURrQQ?oc=5</link><description>[score: 0.883] ＦＲＢ当局者、9月利上げの理由で見解分かれる＝議事要旨 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQLUpWV0ZaaUZJVnVNMEx1YkFwLW1CdWUydVdjQ29JQVZsc25wV0tOVHdIc0VKMDhlallXQUxsMVllc0J3VWhHNWlOZEN5MlFKN2JZNERoWmFHWlZiSlYtRzdFUWVJeC0xeUV3QlhhbGIxeGdxOGpKU0lHVWlWN3lwS2p4TURrQQ?oc=5</guid><pubDate>Wed, 07 Oct 2026 18:49:33 +0000</pubDate></item><item><title>トランプ氏、ＦＲＢは米の「低迷」望むと主張　住宅ローン金利上昇巡り - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMiggFBVV95cUxNTHpUd1N0R2FheVBlVUFId0FwWDBOVTQwdEhhVHB4QmVFNnFJOExqWWh2YVdGN0FYYkJJNnhTazZqaEVLR0pmQ0cwWkpMQXZ0TkVROFhsVlBoc0M2WFEtWDV1WklPeTBmZXFsZmtNLU5xQzFWa0o3UHZrNVlFTVBPMFRR0gGHAUFVX3lxTFAtbWZ5ejNtWjZwaTNCMUNhcmZfZ0hYeFhMc0JuaWx5RS0zakpFQzZ6bjJQNzMtaHNYWC1IaG4tdzE4YkM0OUFmTEJYZ2Z4cWhXdWk2V0p0QmpOUUxFTm16dTN2ZHBweFhEak5GanBwSXZNc2xUZS1vRmpYYktESTNYU2NrYmJqcw?oc=5</link><description>[score: 0.883] トランプ氏、ＦＲＢは米の「低迷」望むと主張 住宅ローン金利上昇巡り ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiggFBVV95cUxNTHpUd1N0R2FheVBlVUFId0FwWDBOVTQwdEhhVHB4QmVFNnFJOExqWWh2YVdGN0FYYkJJNnhTazZqaEVLR0pmQ0cwWkpMQXZ0TkVROFhsVlBoc0M2WFEtWDV1WklPeTBmZXFsZmtNLU5xQzFWa0o3UHZrNVlFTVBPMFRR0gGHAUFVX3lxTFAtbWZ5ejNtWjZwaTNCMUNhcmZfZ0hYeFhMc0JuaWx5RS0zakpFQzZ6bjJQNzMtaHNYWC1IaG4tdzE4YkM0OUFmTEJYZ2Z4cWhXdWk2V0p0QmpOUUxFTm16dTN2ZHBweFhEak5GanBwSXZNc2xUZS1vRmpYYktESTNYU2NrYmJqcw?oc=5</guid><pubDate>Wed, 07 Oct 2026 20:54:55 +0000</pubDate></item><item><title>【開催報告 &amp; 資料公開】Claude Mythos 時代の AWS セキュリティ対策 ～ AWS Security Agent ご紹介 ～ | Amazon Web Services</title><link>https://aws.amazon.com/jp/blogs/news/aws-jpps-seminar-2026-july/</link><description>[score: 0.884] 【開催報告 &amp; 資料公開】Claude Mythos 時代の AWS セキュリティ対策 ～ AWS Security Agent ご紹介 ～ | Amazon Web Services Amazon Web Services ブログ 【開催報告 &amp; 資料公開】Claude Mythos 時代の AWS セキュリティ対策 ～ AWS Security Agent ご紹介 ～ こんにちは。アマゾン ウェブ サービス ジャパン合同会社 パートナーソリューションアーキテクトの深井宣之です。 2026 年 7 月 30 日に AWS 公共パートナーネットワーク（PSN）セミナー...</description><guid isPermaLink="false">https://aws.amazon.com/jp/blogs/news/aws-jpps-seminar-2026-july/</guid><pubDate>Wed, 07 Oct 2026 16:51:15 +0000</pubDate></item><item><title>【個人開発】CMSエンジニアがNext.js × microCMSのブログサイトを作ってみた</title><link>https://qiita.com/nagi-0106/items/c2cd05a5b667efc101b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.888] こんにちは。
+Next.jsおよびmicroCMSの学習の一環として、Next.js × microCMS構成のブログサイトを作成しました。
+※現在は仮の記事が入っています。今後実運用の際に正式な記事を作成する予定です。
+当記事ではこのサイトを構築する上で工夫した点、得た学びなどを記載します。
+※参考：以前に私が作成したブログアプリの記事
+技術スタック
+| カテゴリ | ツール名 |
+|---|---|
+| 使用言語 | TypeScript |
+| UIライブラリ | React |
+| JSフレームワーク | Next.js |
+| CSSフレームワーク | Tailwind CSS |
+</description><guid isPermaLink="false">https://qiita.com/nagi-0106/items/c2cd05a5b667efc101b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 07 Oct 2026 20:14:29 +0000</pubDate></item><item><title>特殊詐欺の金を暗号資産に交換し資金洗浄か 6人逮捕 警視庁</title><link>https://news.web.nhk/newsweb/na/nd-20261008de56189</link><description>[score: 0.889] 特殊詐欺グループがだまし取った金など400万円余りを暗号資産に交換しマネーロンダリング＝資金洗浄を行ったとして、大阪にある会社の36歳の代表取締役ら6人が逮捕されたことが捜査関係者への取材で分かりまし…
+注目ワード
+あわせて読みたい
+ノーベル化学賞に東京理科大学名誉教授
+10月7日 22:58
 簗農相「法令に従い適正に処理」シャトルバス報道受け
 10月7日 15:14
 高市首相 古謝知事と面会 米兵逮捕で“日米で協議進める”
 10月7日 18:37
-衆院予算委 筆頭間協議 与党“基本的質疑は1日”野党“2日を”
-10月6日 23:24
-自民・維新“食料品消費税減税法案 今国会成立に向けて努力”
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261007de55662</guid><pubDate>Wed, 07 Oct 2026 10:19:43 +0000</pubDate></item><item><title>OpenAIのAIエージェントによる「Hugging Faceハッキング事件」は実際に何があったのか？AIが踏み越えた「恐ろしい一線」とは？</title><link>https://gigazine.net/news/20261007-ai-terrifying-line/</link><description>[score: 0.906] OpenAIのAIエージェントによる「Hugging Faceハッキング事件」は実際に何があったのか？AIが踏み越えた「恐ろしい一線」とは？
-2026年7月、OpenAIがAIエージェントの社内テスト中に誤ってHugging Faceをハッキングしてしまったことを明らかにしました。AIエージェントとはそもそも何なのか、なぜ制限されたテスト環境を突破して倫理に反するハッキング行為に手を出したのかなどについて、教育系YouTubeチャンネルのKurzgesagtがアニメーションで解説しています。
-AI Just Crossed the Terrifying Line - Now What? - Y</description><guid isPermaLink="false">https://gigazine.net/news/20261007-ai-terrifying-line/</guid><pubDate>Wed, 07 Oct 2026 07:06:28 +0000</pubDate></item></channel></rss>
+大手ビールメーカー4社を強制調査 価格カルテル疑い 公取委
+10月7日 19:27
+損保ジャパン のべ6万件の顧客情報が流出か 不正アクセス
+10</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261008de56189</guid><pubDate>Wed, 07 Oct 2026 20:40:27 +0000</pubDate></item><item><title>Claude Code の Explore は、いつの間にか Haiku から本体と同じモデルに変わっていた。戻すと費用は21〜35%減</title><link>https://qiita.com/suwa_nobu/items/be41c19295ef0e58e7f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] Claude Code で調べものを任せる Explore サブエージェントは、登場したときは Haiku で動いていました。
+Introducing the Explore subagent. Powered by Haiku it'll search through your codebase efficiently to save context!
+（Claude Code 2.0.17、2025-10-15）。それが Claude Code 2.1.198（2026-07-01）でこう変わっています。
+The built-in Explore agent now inherits th</description><guid isPermaLink="false">https://qiita.com/suwa_nobu/items/be41c19295ef0e58e7f2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 07 Oct 2026 20:14:29 +0000</pubDate></item><item><title>Claude Codeのモデルを使い分けると成果物とトークンはどれくらい変わる？実際にOpus＋Sonnetと全部Opusで同じものを作って比べてみた</title><link>https://qiita.com/inoyu-qiita/items/c86cfa9a4df7af042f9b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] はじめに
+「計画や設計はOpus、実装はSonnet」のように、Claude Codeでは作業工程によってモデルを使い分けたほうがいい、という話を最近よく聞きます。
+言っていることはわかる。でも、ほんとに使い分けたほうがいいの？
+そこで今回は、同じ要件のアプリを次の2パターンで作り、成果物とトークン消費を比べました。
+- Opus＋Sonnet：計画・設計はOpus、実装以降はSonnet
+- 全部Opus：計画・設計・実装をすべてOpus
+結論から言うと、今回の比較ではOpus＋Sonnetのほうが推定コストが約3割少なく、成果物の品質で大きく差がある感じにもなりませんでした。見た目の作り込</description><guid isPermaLink="false">https://qiita.com/inoyu-qiita/items/c86cfa9a4df7af042f9b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 07 Oct 2026 20:14:29 +0000</pubDate></item><item><title>ローカル線に続き「幹線」も 鉄道網見直しへ新たな議論</title><link>https://news.web.nhk/newsweb/na/nd-20261008de56192</link><description>[score: 0.892] 人口減少などで鉄道利用者の減少が続く中、国土交通省は特急列車なども通る「幹線」と呼ばれる基幹的な路線のあり方について、有識者などが検討する場を新たに設ける方針を固めました。赤字が続くローカル線について…
+あわせて読みたい
+ノーベル化学賞に東京理科大学名誉教授
+10月7日 22:58
+簗農相「法令に従い適正に処理」シャトルバス報道受け
+10月7日 15:14
+高市首相 古謝知事と面会 米兵逮捕で“日米で協議進める”
+10月7日 18:37
+大手ビールメーカー4社を強制調査 価格カルテル疑い 公取委
+10月7日 19:27
+損保ジャパン のべ6万件の顧客情報が流出か 不正アクセス
+10月7日 18</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261008de56192</guid><pubDate>Wed, 07 Oct 2026 20:40:27 +0000</pubDate></item><item><title>参院できょうから代表質問 消費税減税など論戦 農相発言追及も</title><link>https://news.web.nhk/newsweb/na/nd-20261008de56201</link><description>[score: 0.894] 国会では、8日から参議院でも高市総理大臣の所信表明演説に対する代表質問が行われ、食料品の消費税減税などについて論戦が交わされます。野党は引き続き簗農林水産大臣の地元の道路予算に関する発言などを追及する…
+あわせて読みたい
+ノーベル化学賞に東京理科大学名誉教授
+10月7日 22:58
+簗農相「法令に従い適正に処理」シャトルバス報道受け
+10月7日 15:14
+高市首相 古謝知事と面会 米兵逮捕で“日米で協議進める”
+10月7日 18:37
+大手ビールメーカー4社を強制調査 価格カルテル疑い 公取委
+10月7日 19:27
+損保ジャパン のべ6万件の顧客情報が流出か 不正アクセス
+10月7日 18</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261008de56201</guid><pubDate>Wed, 07 Oct 2026 20:40:27 +0000</pubDate></item><item><title>トランプ大統領の画像を削除… 中間選挙前に共和党候補が距離を置く動き ロイター調査 - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9zSHRiZW5jZnlCbHZnMllSRC1Ya2MweVduV1BRMXJIQlg3MXo1c3ZSRUtXYkN3OExUQUNONm03NG5Tb0liTUpxN09IcmlKeUdabnE0MmlFMFlmN1JuSU9jMnY0M3BCUzh4REpXZGRZZUhZNWxuVWJiMVRBa182VFE?oc=5</link><description>[score: 0.895] トランプ大統領の画像を削除… 中間選挙前に共和党候補が距離を置く動き ロイター調査 Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9zSHRiZW5jZnlCbHZnMllSRC1Ya2MweVduV1BRMXJIQlg3MXo1c3ZSRUtXYkN3OExUQUNONm03NG5Tb0liTUpxN09IcmlKeUdabnE0MmlFMFlmN1JuSU9jMnY0M3BCUzh4REpXZGRZZUhZNWxuVWJiMVRBa182VFE?oc=5</guid><pubDate>Wed, 07 Oct 2026 17:52:54 +0000</pubDate></item><item><title>ＮＹ外為市場＝ユーロ急落、仏財政懸念で ドルはＦＯＭＣ議事要旨後も堅調 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBSUjhrajFBSkg4SmtFSl9jWnhyN3VkaFV2QWVaR1A3ZjRUZVEyMWsxMi1hck01OXdGTXdSaVpNNjVQN2M1b3RKNUE4bVBGWTdRSmFOemM3MHZjem1tTFdCQ010ZllGVW1PNmdXQktKSk5LVWxiUnh6b2UybWF1Zw?oc=5</link><description>[score: 0.900] ＮＹ外為市場＝ユーロ急落、仏財政懸念で ドルはＦＯＭＣ議事要旨後も堅調 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFBSUjhrajFBSkg4SmtFSl9jWnhyN3VkaFV2QWVaR1A3ZjRUZVEyMWsxMi1hck01OXdGTXdSaVpNNjVQN2M1b3RKNUE4bVBGWTdRSmFOemM3MHZjem1tTFdCQ010ZllGVW1PNmdXQktKSk5LVWxiUnh6b2UybWF1Zw?oc=5</guid><pubDate>Wed, 07 Oct 2026 20:54:55 +0000</pubDate></item><item><title>手動テストを渡すだけでE2Eが完成する仕組みを作りました - kickflow Tech Blog</title><link>https://tech.kickflow.co.jp/entry/2026/10/06/105939</link><description>[score: 0.908] 手動テストを渡すだけでE2Eが完成する仕組みを作りました - kickflow Tech Blog 手動テストを渡すだけでE2Eが完成する仕組みを作りました こんにちは、kickflow QAチームのyanagiyaです。 今回は、テスト管理ツールに登録したテストケースを起点に、Playwright のE2Eテストを書いてPRを出すところまでを Claude Code に任せるスキルを作りました。 あわせて、E2E専用のテナントを用意し、どのテストを...</description><guid isPermaLink="false">https://tech.kickflow.co.jp/entry/2026/10/06/105939</guid><pubDate>Wed, 07 Oct 2026 20:10:35 +0000</pubDate></item></channel></rss>
