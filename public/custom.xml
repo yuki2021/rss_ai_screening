@@ -1,84 +1,154 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 08 Oct 2026 12:31:03 +0000</lastBuildDate><item><title>Google、AI電子透かしの検出サイト「SynthID Detector」を一般向けに公開 ——OpenAI・NVIDIA・KakaoのAI生成コンテンツにも対応、Appleの生成物も近く確認可能に</title><link>https://gihyo.jp/article/2026/10/synthid-detector?utm_source=feed</link><description>[score: 0.879] Googleは10月7日、画像・
-Googleは以前から、Geminiアプリや検索、Chromeで検証機能を提供している。今回は専用サイトの利用対象を広げ、Google以外の提携各社のコンテンツも確認できるようにした。公式ヘルプによると、GeminiアプリのSynthID検証で認識できるのは、GoogleのAIで生成・
-Want to check if an image, video, or audio file was made using AI? Here’s how:
-1️⃣ Go to https://
-t. co/ lh6ir7uFl2 and upload an image, vi</description><guid isPermaLink="false">https://gihyo.jp/article/2026/10/synthid-detector?utm_source=feed</guid><pubDate>Thu, 08 Oct 2026 11:39:42 +0000</pubDate></item><item><title>「AIが世界を食らうなら、ハードウェアはその歯になる」　SiMa.aiが1億5000万ドル（約237億円）調達、エヌビディアに挑む</title><link>https://forbesjapan.com/articles/detail/106297?s=ns</link><description>[score: 0.881] 「5兆ドル（約791兆円）企業のエヌビディアがあり、その次に当社がいる」。SiMa.aiの創業者でCEOのKrishna Rangasayeeは先週、筆者にそう語った。「私の世界は非常にシンプルだ」
-SiMa.aiはフィジカルAI向けチップメーカーであり、今はフィジカルAIに携わるには絶好のタイミングである。この分野は現在、数千億ドル規模の投資によって急拡大している。Matter Venture Partnersの創業パートナーであるHaomiao Huangは最近の会話でその理由を説明し、「AIが世界を食らうのだとすれば、ハードウェアはその歯になる」と述べた。
-本日のニュースは、SiMa.a</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106297?s=ns</guid><pubDate>Thu, 08 Oct 2026 12:25:46 +0000</pubDate></item><item><title>なぜ企業はAIから十分な成果を得られないのか</title><link>https://forbesjapan.com/articles/detail/106287?s=ns</link><description>[score: 0.881] 人工知能（AI）をめぐる議論は、より暗い方向へと転じている。
-AIの安全性に関する警鐘は、ますます目立つようになっている。研究者やテクノロジー企業のリーダーは、能力を高め続けるシステムが人間の制御を逃れる可能性について議論している。また、雇用の喪失、誤情報、少数のテクノロジー企業への権力の集中を懸念する声もある。
-これらは重要な問いであり、ビジネスリーダーは真剣に受け止めるべきだ。
-しかし最近、東京で日本企業のCEOたちとパネルディスカッションに登壇した際、私はまったく別のAI問題に強く印象づけられた。私たちは、日本の主要な経済・金融紙である日本経済新聞の招きで、企業が実際にAIをどのように活</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106287?s=ns</guid><pubDate>Thu, 08 Oct 2026 10:56:51 +0000</pubDate></item><item><title>2026年 情報漏洩・不正アクセスTier表｜一覧</title><link>https://ai.itokoba.com/security-tier/list/</link><description>[score: 0.881] 2026年 情報漏洩・不正アクセスTier表｜一覧 情報漏洩・不正アクセスの公表日、Tier、企業・サービス、主な影響、原因・ポイント。主な影響のダッシュは記載なし。 公表日Tier企業・サービス主な影響原因・ポイント misshiki %E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3 2026年に公表された情報漏洩・不正アクセス148項目をSSS～Dの7段階で整理。公表日、企業・サービス、主な影響、原因を一覧化。流出確認・おそれ・調査中を区別し、各事案の詳細に出典を掲載。10月8日評価。</description><guid isPermaLink="false">https://ai.itokoba.com/security-tier/list/</guid><pubDate>Thu, 08 Oct 2026 09:15:38 +0000</pubDate></item><item><title>https://openai.com/ja-JP/index/teens-learn-and-plan/</title><link>https://openai.com/ja-JP/index/teens-learn-and-plan/</link><description>[score: 0.881] 10 代の学び、将来の計画、AI の未来づくりを支援
-ChatGPT for Teens に College Planner が近日登場。10 代が参加する新たな AI 諮問委員会の設立や、学習ツールの拡充も予定しています。
-18 歳未満と判定されたアカウントに標準で自動適用される ChatGPT for Teens を導入して以来、10 代のユーザーが学習やアイデアの探究、日常の問題解決に活用する様子が見られています。本日は、学習ツールの活用状況をはじめとする ChatGPT for Teens の導入後の進展と、10代のユーザーが学習や大学進学の準備を進めるための新しい方法をご紹介します。</description><guid isPermaLink="false">https://openai.com/ja-JP/index/teens-learn-and-plan/</guid><pubDate>Thu, 08 Oct 2026 10:11:10 +0000</pubDate></item><item><title>勝手にはてなパークスのユーザー数を増やす方法を考えるスレッド - はてなパークス【非公式】 - はてなパークス</title><link>https://p.hatena.ne.jp/p/1539910495903944704/t/1557652863889444864?s=1&amp;m=raw</link><description>[score: 0.882] 勝手にはてなパークスのユーザー数を増やす方法を考えるスレッド - はてなパークス【非公式】 - はてなパークス はてなパークスが過疎化している原因については、これまでにも様々な指摘があります。今回は原因そのものを改めて分析するというより、ではユーザー数を増やすためには何ができるのか、ということを勝手に考えていくスレッドです。 新規ユーザーを呼び込むのか、既存のはてなユーザーに定着してもらうのか、そもそもどん...</description><guid isPermaLink="false">https://p.hatena.ne.jp/p/1539910495903944704/t/1557652863889444864?s=1&amp;m=raw</guid><pubDate>Thu, 08 Oct 2026 11:43:43 +0000</pubDate></item><item><title>Anthropic、Claude Haiku 5.5を発表——実行コストはHaiku 4.5比で平均約75％減、OSWorld 2.1のオフライン評価で72.4％、Sonnet 5.5は83.9％</title><link>https://gihyo.jp/article/2026/10/claude-haiku-5.5?utm_source=feed</link><description>[score: 0.882] Anthropicは10月7日、AIモデル
-Haiku 5.
-Haiku 5.
-5 is now available in the Claude Platform and Claude Code. On average, it costs around 75% less to run than Haiku 4. 5. It pairs well with Opus 5.
-— ClaudeDevs (@ClaudeDevs) October 7, 20265 or Sonnet 5. 5 as a subagent. Use it for high-volume, cost-sensitive </description><guid isPermaLink="false">https://gihyo.jp/article/2026/10/claude-haiku-5.5?utm_source=feed</guid><pubDate>Thu, 08 Oct 2026 05:46:39 +0000</pubDate></item><item><title>ChatGPTの無料プランでも「GPT-6 Luna」が利用可能に、画像やグラフを組み合わせて回答する新機能「インテリジェントUI」も登場</title><link>https://gigazine.net/news/20261008-openai-gpt-6-luna/</link><description>[score: 0.883] ChatGPTの無料プランでも「GPT-6 Luna」が利用可能に、画像やグラフを組み合わせて回答する新機能「インテリジェントUI」も登場
-OpenAIは2026年10月7日にChatGPTの新たなAIモデル「GPT-6」の提供範囲を無料ユーザーにも拡大すると発表しました。さらに、質問内容に応じて画像・グラフ・操作可能なボタンなどを組み合わせて回答する新機能「Intelligent UI(インテリジェントUI)」も発表しています。
-GPT-6 and Intelligent UI for everyone | OpenAI
-https://openai.com/ja-JP/index/gpt-</description><guid isPermaLink="false">https://gigazine.net/news/20261008-openai-gpt-6-luna/</guid><pubDate>Thu, 08 Oct 2026 02:28:41 +0000</pubDate></item><item><title>カラオケ店運営の第一興商 約872万件の個人情報漏えいのおそれ</title><link>https://news.web.nhk/newsweb/na/nd-20261008de56831</link><description>[score: 0.884] カラオケ店などを運営する第一興商は、個人情報の取り扱いを委託している会社の従業員の端末がマルウエアに感染し、およそ872万件の個人情報が外部に漏えいしたおそれがあると明らかにしました。 またローソンも…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 08 Oct 2026 21:09:43 +0000</lastBuildDate><item><title>米大統領が習主席に“高市首相との対話”呼びかけか　香港紙</title><link>https://news.web.nhk/newsweb/na/nd-20261008de56829</link><description>[score: 0.870] 9月行われた米中首脳会談で、アメリカのトランプ大統領が中国の習近平国家主席に対して、高市総理大臣と対話し日本との関係を修復するよう求めていたと香港のメディアが伝えました。
+香港の英字紙「サウスチャ…
 あわせて読みたい
-運転免許証 情報漏えいで再交付申請相次ぐ“効果は限定的”か
-10月8日 18:29
-タイムズカー情報漏えい 業界団体に対策の点検を要請 国交省
-10月7日 5:04
-損保ジャパン のべ6万件の顧客情報が流出か 不正アクセス
-10月7日 18:08
-ソフトバンク子会社に不正アクセス クラウドサービスに障害
-10月7日 19:54
-HIS 去年の不正アクセスで最大627人分のパス</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261008de56831</guid><pubDate>Thu, 08 Oct 2026 10:54:22 +0000</pubDate></item><item><title>AI時代に問われる「教育の目的」　機械と共に生きる次世代をどう育てるか</title><link>https://forbesjapan.com/articles/detail/106288?s=ns</link><description>[score: 0.884] 何世代にもわたり、教育は「学び、資格を得て、働き、貢献し、より良い生活を築く」というシンプルな約束の上に成り立ってきた。しかしAIは、人々が行う仕事だけでなく、仕事そのものの意味をも揺るがしている。世界経済フォーラム（WEF）の『仕事の未来レポート 2025』によると、2030年までに労働市場の変化によって1億7000万人の雇用が創出される一方で、9200万人の雇用が失われ、現在の雇用の約22%に影響が及ぶと推定されている。また同レポートでは、調査対象となった雇用主の63%が、今後の数年間でスキルの不一致（スキルギャップ）が大きな障壁になると考えていることも明らかになった。ここで不都合な問いが</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106288?s=ns</guid><pubDate>Thu, 08 Oct 2026 10:56:51 +0000</pubDate></item><item><title>Jev 互換の判断AI「Clef」と Haiku 5.5 に同じ分類を306問。Clef が自信を持った13%は95%当たった</title><link>https://qiita.com/suwa_nobu/items/1cc4989b0fdd47e4ea12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] 判断特化AI「Jev」は、文章を書かずに選択肢ごとの確率と確信度だけを返すモデルです。
-試そうとして、Cloudflare Workers AI から Jev を呼ぶと、こう返ってきました。
-HTTP 402 {"errors":[{"message":"Insufficient balance; add money to your gateway or use BYOK","code":2021}]...}
-Jev は無料枠の対象外でした。 そこで、同じ形式で使える Cloudflare 自身の判断モデル Clef を、無料枠で試しました。
-比べる相手は、2026-10-07 に出た Cla</description><guid isPermaLink="false">https://qiita.com/suwa_nobu/items/1cc4989b0fdd47e4ea12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 08 Oct 2026 09:09:58 +0000</pubDate></item><item><title>「Claude Haiku 5.5」が登場、GPT-6 Lunaより高性能で前モデルより9割引きの安価なモデル</title><link>https://gigazine.net/news/20261008-claude-haiku-5-5/</link><description>[score: 0.887] 「Claude Haiku 5.5」が登場、GPT-6 Lunaより高性能で前モデルより9割引きの安価なモデル
-AnthropicがAIモデル「Claude Haiku 5.5」を現地時間の2026年10月7日にリリースしました。前世代モデルのClaude Haiku 4.5と比べて性能が飛躍的に向上しています。
-Introducing Claude Haiku 5.5 \ Anthropic
-https://www.anthropic.com/claude-haiku-5-5
-AnthropicのAIモデルはフラッグシップモデルの「Fable/Mythos」、高性能な「Opus」、バランス型</description><guid isPermaLink="false">https://gigazine.net/news/20261008-claude-haiku-5-5/</guid><pubDate>Thu, 08 Oct 2026 01:49:22 +0000</pubDate></item><item><title>「ChatGPTのRAGはGoogle頼み」はもう古い？生ログ分析で見えたOpenAI独自クロール網の実力と課題 | アユダンテ株式会社</title><link>https://ayudante.jp/column/2026-10-08/15-00/</link><description>[score: 0.888] 「ChatGPTのRAGはGoogle頼み」はもう古い？生ログ分析で見えたOpenAI独自クロール網の実力と課題 | アユダンテ株式会社 TOP » コラム » AI » 「ChatGPTのRAGはGoogle頼み」はもう古い？生ログ分析で見えたOpenAI独自クロール網の実力と課題 「ChatGPTがRAGで参照するWebページは、GoogleやBingの検索結果から来ている」という前提は... s-supporter OpenAIbot（クローラー）とGooglebotの挙動は違い、OpenAIにインデックス申請を行えるものではないのが大きな違いですね。また、生ログ分析はbotの動きの変化</description><guid isPermaLink="false">https://ayudante.jp/column/2026-10-08/15-00/</guid><pubDate>Thu, 08 Oct 2026 11:13:51 +0000</pubDate></item><item><title>シニアになりきれない中堅エンジニアは、何を読めばいいのか 2026年版 - じゃあ、おうちで学べる</title><link>https://syu-m-5151.hatenablog.com/entry/2026/10/05/132102</link><description>[score: 0.889] シニアになりきれない中堅エンジニアは、何を読めばいいのか 2026年版 - じゃあ、おうちで学べる はじめに 「自分は成果を出した」と言い切ったあとに、まだ問いが残る。では、その仕事で、チームや組織は何を手にしたのか。 難しい問題を解く。仕事を早く終える。私の実績として並ぶそれらも、私たちの勝利に... koogawa</description><guid isPermaLink="false">https://syu-m-5151.hatenablog.com/entry/2026/10/05/132102</guid><pubDate>Thu, 08 Oct 2026 10:11:10 +0000</pubDate></item><item><title>AI学習用に書籍を大量販売、適法でも出版社反発　業界ルール望む声 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC070XP0X01C26A0000000/</link><description>[score: 0.890] この記事は会員限定記事です
-AI学習用に書籍を大量販売、適法でも出版社反発 業界ルール望む声
-人工知能（AI）開発の米アンソロピックが、出版取次大手から大量の書籍を購入していたことが波紋を広げている。日米の著作権法上、紙の本をAI学習に使うことは適法となることが多い。出版社が強く反発する中、対価を得られるルールや仕組みづくりを求める声があがる。
-アンソロピック「書籍調達、一般的な手法」
-取次大手の日販グループホールディングス（GHD）は2024年12月〜25年12月に、日本書籍出版協会...
-NIKKEI Primeについて
-朝夕刊や電子版ではお伝えしきれない情報をお届けします。今後も様々な切</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC070XP0X01C26A0000000/</guid><pubDate>Thu, 08 Oct 2026 12:05:37 +0000</pubDate></item><item><title>日銀の地域経済報告“AI関連需要拡大 多くの地域で生産増加”</title><link>https://news.web.nhk/newsweb/na/nd-20261008de56554</link><description>[score: 0.891] 日銀は8日、地域経済報告を公表し、この中では、多くの地域から世界的なAI関連需要の拡大で半導体製造装置や電子部品などの生産が増加しているという報告が相次ぎました。
-日銀は8日、全国の支店長などが出…
+ノーベル賞の発見とは 生命起源の研究に重要な役割
+10月8日 21:25
+ノーベル文学賞にアン・カーソン氏 カナダの詩人
+10月8日 22:08
+大学や母校 地元で…受賞決定に祝福の声続々と
+10月8日 21:11
+サイバー攻撃 SKE48のファン向けメールサービス利用できず
+10月8日 19:04
+ソフトバンク子会社にランサムウエア攻撃 企業や自治体に影響
+10月8日 19:1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261008de56829</guid><pubDate>Thu, 08 Oct 2026 14:59:39 +0000</pubDate></item><item><title>IDCフロンティアへのランサム攻撃、495の企業・自治体に影響</title><link>https://xtech.nikkei.com/atcl/nxt/news/24/03418/</link><description>[score: 0.870] ソフトバンク子会社のIDCフロンティアは2026年10月7日、クラウドサービス「IDCFクラウド」が第三者によるランサムウエア攻撃を受け、495の契約先企業・自治体に影響が出ていると明らかにした。
+障害は同日午前3時40分ごろに東日本リージョン1で発生。同社はその後、第三者からのランサムウエア攻撃によるものと公表した。東日本リージョン1について、二次被害やデータの漏洩を防ぐためネットワークから遮断後、システムを停止した。
+IDCFクラウドの障害を原因と明示する企業がある一方、同日に発生したシステム障害について、利用するクラウドサービスやサーバー管理会社の不具合とだけ説明し、IDCフロンティアと</description><guid isPermaLink="false">https://xtech.nikkei.com/atcl/nxt/news/24/03418/</guid><pubDate>Thu, 08 Oct 2026 21:05:38 +0000</pubDate></item><item><title>🔓2026年9〜10月の情報漏洩19件、公表文を全部読んで考えたこと</title><link>https://zenn.dev/bita/articles/1616afdb93c4a6</link><description>[score: 0.871] TL;DR 9/11〜10/5に公表（続報を含む）された不正アクセス・情報漏洩19件の公表文をすべて読みました。侵入の手口まで公表された8件は、どれも脆弱性か不正ログインでした。AIへの言及は0件です ただ、穴を見つけて突くコストはAIで下がりつつあります（AnthropicによるGLM-5.3の評価、警察庁の検挙事例） 対策は、更新できる状態を保つこと、第三者による診断、侵入される前提の設計です はじめに タイムズカーの漏洩では、社内にも対象者がいました。そこから漏洩のニュースを追い始めると、わずか2週間ほどの間に、名前を知っている企業の公表が次々と続いていました。 筆者は...</description><guid isPermaLink="false">https://zenn.dev/bita/articles/1616afdb93c4a6</guid><pubDate>Thu, 08 Oct 2026 12:47:09 +0000</pubDate></item><item><title>相次ぐ不正アクセスで3つの攻撃手法 専門機関が注意呼びかけ</title><link>https://news.web.nhk/newsweb/na/nd-20261008de56876</link><description>[score: 0.871] 不正アクセスで個人情報が流出する被害が相次いでいることを受けて、情報セキュリティーの専門機関がこれまでに確認されている3つの攻撃手法を公開し、企業などに注意を呼びかけています。
+国内のサイバー攻撃…
+注目ワード
 あわせて読みたい
 ノーベル文学賞にアン・カーソン氏 カナダの詩人
-10月8日 20:49
-ソフトバンク子会社にランサムウエア攻撃 企業や自治体に影響
-10月8日 19:13
-高松の冷凍食品通販会社 最大5万件超の情報流出の可能性
-10月8日 14:24
+10月8日 22:08
+神奈川県警の警察官 回収した運転免許証 数十枚不正に持ち出し
+10月8日 15:02
 参議院自民 参議院幹事長人事で石井氏交代の説明を求める声
 10月8日 13:14
+プルデンシャル生命 不適切受領52億円に 社長陳謝
+10月8日 18:01
+ソフトバンク子会社にランサムウエア攻撃 企業や自治体に</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261008de56876</guid><pubDate>Thu, 08 Oct 2026 13:01:07 +0000</pubDate></item><item><title>高松の冷凍食品通販会社 最大5万件超の情報流出の可能性 | NHKニュース</title><link>https://news.web.nhk/newsweb/na/nd-20261008de56512</link><description>[score: 0.873] 企業などを狙うサイバー攻撃が相次ぐ中、香川県高松市の業務用冷凍食品の通信販売会社が不正アクセスによって最大で5万4000件あまりの顧客情報が流出した可能性があると発表しました。
+高松市に本社を置く…
+注目ワード
+あわせて読みたい
+ノーベル文学賞にアン・カーソン氏 カナダの詩人
+10月8日 22:08
+参院できょうから代表質問 消費税減税など論戦 農相発言追及も
+10月8日 5:35
 ローカル線に続き「幹線」も 鉄道網見直しへ新たな議論
-10月8日</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261008de56554</guid><pubDate>Thu, 08 Oct 2026 11:58:23 +0000</pubDate></item><item><title>アンソロピック、軽量モデル「Haiku 5.5」公開　1年ぶりアップデート</title><link>https://www.watch.impress.co.jp/docs/news/2146678.html</link><description>[score: 0.891] ニュース
-アンソロピック、軽量モデル「Haiku 5.5」公開 1年ぶりアップデート
-2026年10月8日 12:17
-Anthropicは7日(米国時間)、同社の最小AIモデルで最も高速な「Claude Haiku 5.5」を提供開始した。従来のHaiku 4.5よりも「はるかに低価格」となり、平均の運用コストは約75%削減されるという。
-Claudeにおいては、上位のFableやOpus、Sonnetなどの更新が続いていたが、Haikuにおいては約1年ぶりのアップデートとなる。
-処理量が多く、コスト重視のタスク向けに設計され、要約やデータ圧縮、データベースクエリ、分類リクエストなど、迅速か</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2146678.html</guid><pubDate>Thu, 08 Oct 2026 03:28:02 +0000</pubDate></item><item><title>OpenAI、ChatGPTのChatタブにGPT-6 Sol/LunaとIntelligent UIを順次提供 ——図やグラフを交えた回答に対応、思考の途中から回答を表示</title><link>https://gihyo.jp/article/2026/10/chatgpt-gpt-6-with-intelligent-ui?utm_source=feed</link><description>[score: 0.892] OpenAIは2026年10月7日、ChatGPTのChatタブに、日常的な会話向けに調整したGPT-6 Sol／
-GPT-6 SolとGPT-6 Lunaは9月に提供が開始され、すでにWorkやCodexで使われている。今回Chatタブに導入するのは、両モデルの10月版となる[1]。WorkやCodexでは引き続き9月版を使う。
-質問に応じて回答の見せ方を選ぶIntelligent UI
-Intelligent UIでは、GPT-6が質問の内容に合わせて情報の見せ方を選ぶ。回答には図やグラフのほか、タップできるボタンや入力フォームを組み込める。文章だけで答えるほうが適切な場合には、その形式を</description><guid isPermaLink="false">https://gihyo.jp/article/2026/10/chatgpt-gpt-6-with-intelligent-ui?utm_source=feed</guid><pubDate>Thu, 08 Oct 2026 07:48:06 +0000</pubDate></item><item><title>FBIが職員の個人情報流出事件に関係したとして請負業者を契約解除、人事管理プラットフォームのセキュリティパッチを適用せずリスクに</title><link>https://gigazine.net/news/20261008-fbi-data-breach-accenture-contractor-removed/</link><description>[score: 0.892] FBIが職員の個人情報流出事件に関係したとして請負業者を契約解除、人事管理プラットフォームのセキュリティパッチを適用せずリスクに
-職員の個人情報が大量に流出した問題で、FBIが請負業者を契約解除措置としたことがわかりました。情報筋によると、当該業者はアクセンチュアで、人事管理プラットフォーム向けに配布されていたセキュリティパッチを適用していなかったため、情報流出につながったとのこと。
-EXCLUSIVE: Accenture contractor removed from FBI following damaging data breach, sources say | Reuters
-htt</description><guid isPermaLink="false">https://gigazine.net/news/20261008-fbi-data-breach-accenture-contractor-removed/</guid><pubDate>Thu, 08 Oct 2026 08:28:44 +0000</pubDate></item><item><title>AIが書いたコードを目視で追うのはやめよう──「工場の品質検査」から考えるこれからのコードレビュー | パーティーハード株式会社</title><link>https://ptyhard.co.jp/blog/2026/10/code-review</link><description>[score: 0.892] AIが書いたコードを目視で追うのはやめよう──「工場の品質検査」から考えるこれからのコードレビュー | パーティーハード株式会社 Claude Code や Codex などの生成AIツールが開発現場に導入され、コードの初稿を作成する時間は短縮されました。しかし、コードの生成速度が向上した一方で、プルリクエストのレビュー待ちが滞留し、テックリードや開発責任者が疲弊する現場が増えています。 AIコーディングが引き起こすレビューの滞留たとえばCRUD処理...</description><guid isPermaLink="false">https://ptyhard.co.jp/blog/2026/10/code-review</guid><pubDate>Thu, 08 Oct 2026 11:35:19 +0000</pubDate></item><item><title>AIエージェントが切り拓く、サイバーセキュリティの新たな戦場</title><link>https://forbesjapan.com/articles/detail/106290?s=ns</link><description>[score: 0.893] 人工知能（AI）は、コンテンツを生成する段階から、行動を起こす段階へと驚くほど急速に進化してきた。過去1週間に起きた複数のサイバーセキュリティ関連の出来事は、この違いがビジネスリーダーにとってますます重要になっている理由を示している。
-9月24日、オーストラリアのアンソニー・アルバニージー首相は、6月にOpenAIのエージェントが政府のメディケア統計ポータルに不正アクセスしていたことを公表した。このエージェントは公開ファイルと非公開ファイルの双方にアクセスしたが、現時点で個人情報が漏えいしたとは考えられていない。オーストラリア通信情報局（ASD）が関わるフォレンジック調査が進行中である。
-その</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106290?s=ns</guid><pubDate>Thu, 08 Oct 2026 10:56:51 +0000</pubDate></item><item><title>「ChatGPT for Teens」は「容認できないリスク」と米非営利団体が警告　OpenAIは利用状況と新機能を発表</title><link>https://www.itmedia.co.jp/news/article/2610/08/2000002125/</link><description>[score: 0.896] 「ChatGPT for Teens」は「容認できないリスク」と米非営利団体が警告 OpenAIは利用状況と新機能を発表
-子供のデジタルメディア利用に関する調査や評価を手掛ける米非営利団体Common Sense Mediaは10月7日（現地時間）、米OpenAIが8月に発表した13～17歳向けの利用環境「ChatGPT for Teens」について、安全対策が不十分だとして「Unacceptable Risk」（容認できないリスク）と評価した。安全機能が改善され、第三者による検証が行われるまで、ChatGPTの利用を18歳以上に制限するよう求めている。
-同日、OpenAIもChatGPT f</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/08/2000002125/</guid><pubDate>Thu, 08 Oct 2026 05:34:14 +0000</pubDate></item><item><title>AIが使ったツールをAI自身が5段階で評価する口コミサイト「agent.reviews」が登場、Claude CodeやCodexもレビューを投稿</title><link>https://gigazine.net/news/20261008-agent-reviews/</link><description>[score: 0.898] AIが使ったツールをAI自身が5段階で評価する口コミサイト「agent.reviews」が登場、Claude CodeやCodexもレビューを投稿
-AIエージェントが実際に使用したソフトウェアや開発ツールについて評価を投稿するレビューサイト「agent.reviews」が登場しました。AIエージェントが使用したツールの使いやすさや信頼性を評価し、ほかのAIエージェントがツールを選ぶ際の参考にできる仕組みになっています。
-agent.reviews · Where agents choose and review software
-https://agent.reviews/
-AIエージェントは</description><guid isPermaLink="false">https://gigazine.net/news/20261008-agent-reviews/</guid><pubDate>Thu, 08 Oct 2026 11:09:24 +0000</pubDate></item><item><title>米中間選挙、トランプ支持者の投票意欲低い＝ロイター／イプソス - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5zNTJ1aDdvRDktbUxITGJnNnJqeWJaRG1FQVBCeGpqeG5LYVptZG1LanFER2pwRlU0OXRUQmdVR0RnbzZ3SVNpVUVRczVEY2xMYXZ5dUI4OFNxSGxUOXU3R3Ixa3huQlh5cXhYQy05dE9MMmkybTV4cVk4OHFad9IBgwFBVV95cUxPVWtUQmlfWjV6dy1NaEU2WERMbUpZSmY2TzFlaTR3TmRmWHVTTkV5RTFQWlp1WmtINnBYcTZWWjJ5VXBINW9WZDNTbzAySEFaUGVfXzhvM3JCZTY3X19POW1LTHdOQmlyZXFFem1uNHdXUmtxSm5PU3hHNTU5ZG9Jcl9NUQ?oc=5</link><description>[score: 0.899] 米中間選挙、トランプ支持者の投票意欲低い＝ロイター／イプソス ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE5zNTJ1aDdvRDktbUxITGJnNnJqeWJaRG1FQVBCeGpqeG5LYVptZG1LanFER2pwRlU0OXRUQmdVR0RnbzZ3SVNpVUVRczVEY2xMYXZ5dUI4OFNxSGxUOXU3R3Ixa3huQlh5cXhYQy05dE9MMmkybTV4cVk4OHFad9IBgwFBVV95cUxPVWtUQmlfWjV6dy1NaEU2WERMbUpZSmY2TzFlaTR3TmRmWHVTTkV5RTFQWlp1WmtINnBYcTZWWjJ5VXBINW9WZDNTbzAySEFaUGVfXzhvM3JCZTY3X19POW1LTHdOQmlyZXFFem1uNHdXUmtxSm5PU3hHNTU5ZG9Jcl9NUQ?oc=5</guid><pubDate>Thu, 08 Oct 2026 10:25:53 +0000</pubDate></item><item><title>Anthropic、「Claude Haiku 5.5」を発表 ～1年ぶりの小型モデル、最速・最安を更新／高頻度・コスト重視の用途にピッタリ、「Opus」「Sonnet」の手足にも</title><link>https://forest.watch.impress.co.jp/docs/news/2146582.html</link><description>[score: 0.902] ニュース
-Anthropic、「Claude Haiku 5.5」を発表 ～1年ぶりの小型モデル、最速・最安を更新
-高頻度・コスト重視の用途にピッタリ、「Opus」「Sonnet」の手足にも
-2026年10月8日 05:05
-米Anthropicは10月7日（現地時間）、「Claude Haiku 5.5」を発表した。「Haiku」モデルのアップデートは2025年10月以来、実に1年ぶりだ。
-「Haiku」モデルは、大量の処理を行ったり、コストを重視しなければならない場面で役立つ小型モデル。要約、コンパクション（会話履歴の圧縮）、データベースのクエリ、分類といった素早く繰り返される処理を確実に</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2146582.html</guid><pubDate>Thu, 08 Oct 2026 06:16:10 +0000</pubDate></item><item><title>Anthropic、「Claude Haiku 5.5」のAPI料金を「Haiku 4.5」の10分の1に　「Sonnet 5.5」のキャッシュ読み込み料金は半額に</title><link>https://www.itmedia.co.jp/aiplus/article/2610/08/2000002114/</link><description>[score: 0.903] Anthropic、「Claude Haiku 5.5」のAPI料金を「Haiku 4.5」の10分の1に 「Sonnet 5.5」のキャッシュ読み込み料金は半額に 米Anthropicは10月7日（現地時間）、小型モデル「Claude Haiku 5.5」のAPI提供を始めた。料金は多くの用途で前世代の「Claude Haiku 4.5」の10分の1に下がり、実際の利用では平均で約75％安くなるとしている。 同時に「Claude Sonnet 5.5」のキャッシュ読み込み料金を半額にしたほか、PythonとTypeScriptのSDKに、ブラウ...</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2610/08/2000002114/</guid><pubDate>Thu, 08 Oct 2026 06:16:10 +0000</pubDate></item><item><title>アンソロピック、また新AI。今度は激安「Claude Haiku 5.5」発表、API単価は最大10分の1に - すまほん!!</title><link>https://smhn.info/202610-anthropic-claude-haiku-5-5-announced</link><description>[score: 0.903] アンソロピック、また新AI。今度は激安「Claude Haiku 5.5」発表、API単価は最大10分の1に - すまほん!! すまほん!! » AI・人工知能 » アンソロピック、また新AI。今度は激安「Claude Haiku 5.5」発表、API単価は最大10分の1に 9月にOpus 5.5とSonnet 5.5を相次いで投入したAnthropicですが、Claude 5.5ファミリーに激... misshiki Claude%205 AnthropicがClaude Haiku 5.5を発表。入力10万トークン以下ならAPI料金は100万トークンあたり入力0.1ドル、出力0.5ドルで従</description><guid isPermaLink="false">https://smhn.info/202610-anthropic-claude-haiku-5-5-announced</guid><pubDate>Thu, 08 Oct 2026 08:19:49 +0000</pubDate></item><item><title>米中間選挙、トランプ支持者の投票意欲低い＝ロイター／イプソス - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9BSUhfUVczV2NwemlfN2dkYmNaWThxdDBTRHpPcHBpN2Rla2hmX2c2aGd5dUZzMkRCZ3RaWTJrZnpGb0hEVjQ2ZW1YbFVMTFljVWVFSTJVNTRkTVFHVFV5U2V2UGdRUFNLVnl0NFlaVWVJcmlqNnI3dzdZeVU3aDg?oc=5</link><description>[score: 0.905] 米中間選挙、トランプ支持者の投票意欲低い＝ロイター／イプソス Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9BSUhfUVczV2NwemlfN2dkYmNaWThxdDBTRHpPcHBpN2Rla2hmX2c2aGd5dUZzMkRCZ3RaWTJrZnpGb0hEVjQ2ZW1YbFVMTFljVWVFSTJVNTRkTVFHVFV5U2V2UGdRUFNLVnl0NFlaVWVJcmlqNnI3dzdZeVU3aDg?oc=5</guid><pubDate>Thu, 08 Oct 2026 10:25:53 +0000</pubDate></item><item><title>米中間選挙、トランプ支持者の投票意欲低い＝ロイター／イプソス - ニューズウィーク日本版</title><link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE12c0ItRXp4cHNYTlE2dlY2ZTJScWF5eFZ4eGJkNjl0NTZTY0w1ejRPdVVmSG5JdHA5Z180OFBEY1FFLVpzbmJ1aDRlRjFBWTJJSGVpWkRlN3g5QQ?oc=5</link><description>[score: 0.906] 米中間選挙、トランプ支持者の投票意欲低い＝ロイター／イプソス ニューズウィーク日本版</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiWkFVX3lxTE12c0ItRXp4cHNYTlE2dlY2ZTJScWF5eFZ4eGJkNjl0NTZTY0w1ejRPdVVmSG5JdHA5Z180OFBEY1FFLVpzbmJ1aDRlRjFBWTJJSGVpWkRlN3g5QQ?oc=5</guid><pubDate>Thu, 08 Oct 2026 10:25:53 +0000</pubDate></item><item><title>Anthropic、小型モデルの中で最も安価で最も速く最も高性能な「Claude Haiku 5.5」</title><link>https://ai.watch.impress.co.jp/docs/news/2146680.html</link><description>[score: 0.936] ニュース
-Anthropic、小型モデルの中で最も安価で最も速く最も高性能な「Claude Haiku 5.5」
-2026年10月8日 12:33
-Anthropicは、同社最速モデルであり、コスト重視の大量なタスク向けに設計された「Claude Haiku 5.5」をリリースした。Claude Haiku 5.5は、Amazon Web Services、Google Cloud、Microsoft Azureを含むすべてのプラットフォームで利用可能。コスト的には、Haiku 4.5よりも低価格に設定されており、同社によれば、運用コストは平均して約75％削減されるとしている。
-Claude </description><guid isPermaLink="false">https://ai.watch.impress.co.jp/docs/news/2146680.html</guid><pubDate>Thu, 08 Oct 2026 12:09:39 +0000</pubDate></item></channel></rss>
+10月8日 5:30
+大手ビールメーカー4社 出荷価格の一覧表“裏会”で示し協議か
+10月8日 5:26
+トランプ大統領 ロシア研究所職員死亡“生物兵器”否定的</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261008de56512</guid><pubDate>Thu, 08 Oct 2026 16:38:21 +0000</pubDate></item><item><title>【重要】NewsPicksのお客様の個人情報漏洩の可能性に関するお詫びとお知らせ</title><link>https://newspicks.com/news/17661120/body/</link><description>[score: 0.873] 2026/10/8
+【重要】NewsPicksのお客様の個人情報漏洩の可能性に関するお詫びとお知らせ
+株式会社ユーザベースが運営するソーシャル経済メディア「NewsPicks」におきまして、業務で利用している管理ツールが第三者による不正アクセスを受け、お客様の個人情報の一部が外部へ漏洩した可能性があることが判明いたしました。
+お客様をはじめ、関係者の皆様に多大なるご心配とご迷惑をおかけする事態になりましたことを、深くお詫び申し上げます。
+本件については現在も詳細な調査を進めております。また、現時点において、当該情報が不特定多数に公開された事実および本件に起因する個人情報の不正利用等の事実は確認</description><guid isPermaLink="false">https://newspicks.com/news/17661120/body/</guid><pubDate>Thu, 08 Oct 2026 15:03:00 +0000</pubDate></item><item><title>ウィットコフ米特使、ウクライナ代表団と9日に会談 和平構想協議＝関係筋（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBBM0psSUNJaUNWUDBNRlByb0llaU5JOU1RRjBVQl9vbklQaGtmN1pvZlpweUt0WV9neHJyMnoxNnYwbHM4aU1yNlRZV0Y0ek1QY3RmMWVkaFlMSnpnSTRUMUM5QkRLdk5zU2JFVFhtTDAyaHdVbjlZbXJMZXk0bTQ?oc=5</link><description>[score: 0.875] ウィットコフ米特使、ウクライナ代表団と9日に会談 和平構想協議＝関係筋（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFBBM0psSUNJaUNWUDBNRlByb0llaU5JOU1RRjBVQl9vbklQaGtmN1pvZlpweUt0WV9neHJyMnoxNnYwbHM4aU1yNlRZV0Y0ek1QY3RmMWVkaFlMSnpnSTRUMUM5QkRLdk5zU2JFVFhtTDAyaHdVbjlZbXJMZXk0bTQ?oc=5</guid><pubDate>Thu, 08 Oct 2026 20:42:51 +0000</pubDate></item><item><title>AIに月3万円使えない人はその時点で負けている｜手羽先</title><link>https://note.com/teba_eleven/n/n61e5e7700881</link><description>[score: 0.876] AIに月3万円使えない人はその時点で負けている｜手羽先 結論：AIに月3万円使えない学生はその時点で負けている 月3000円のプランと月3万円のプランでは数十倍から数百倍できることが違う そもそも月3万円を投資できない時点で厳しい AIに全て賭けろ 月3万円も稼げない！という学生やエンジニア いくらでも相談にのります 連絡先：https://magicdelta.ai/contact/ 追記（2026/1...</description><guid isPermaLink="false">https://note.com/teba_eleven/n/n61e5e7700881</guid><pubDate>Thu, 08 Oct 2026 16:28:35 +0000</pubDate></item><item><title>トランプ大統領「中間選挙前にイランを攻撃することはない」</title><link>https://news.web.nhk/newsweb/na/nd-20261009de56929</link><description>[score: 0.877] アメリカのトランプ大統領は11月3日に行われる中間選挙の前にイランを攻撃する考えはないと主張しました。複数のメディアが選挙より前にアメリカが攻撃再開を検討していると報じていて、これを否定した形です。 …
+あわせて読みたい
+トランプ大統領 中間選挙前のイラン攻撃を検討か 米報道
+10月8日 13:16
+ノーベル文学賞にアン・カーソン氏 カナダの詩人
+10月8日 22:08
+神奈川県警の警察官 回収した運転免許証 数十枚不正に持ち出し
+10月8日 15:02
+参議院自民 参議院幹事長人事で石井氏交代の説明を求める声
+10月8日 13:14
+プルデンシャル生命 不適切受領52億円に 社長陳謝
+10月</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261009de56929</guid><pubDate>Thu, 08 Oct 2026 18:56:49 +0000</pubDate></item><item><title>米国株式市場＝Ｓ＆Ｐ・ナスダック下落、原油急騰で 半導体株が安い - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzlHNTBuUTRLYzBUNE5pNEpyU01zZ0R2ampRWUU1bnBhVWU5NmVuLVFjSzNZMk8tLXAtbnBab1pfU29tUEltbXF4djdGZ21ZMThjMVdEa3QtbU9sRG1uTDZfSlNzaUEwWm9GNGtlQ2U0dTdsT1daODQ0bm9EUS1GYXhNM3ZkZw?oc=5</link><description>[score: 0.877] 米国株式市場＝Ｓ＆Ｐ・ナスダック下落、原油急騰で 半導体株が安い Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxOSzlHNTBuUTRLYzBUNE5pNEpyU01zZ0R2ampRWUU1bnBhVWU5NmVuLVFjSzNZMk8tLXAtbnBab1pfU29tUEltbXF4djdGZ21ZMThjMVdEa3QtbU9sRG1uTDZfSlNzaUEwWm9GNGtlQ2U0dTdsT1daODQ0bm9EUS1GYXhNM3ZkZw?oc=5</guid><pubDate>Thu, 08 Oct 2026 20:42:51 +0000</pubDate></item><item><title>米、11月中間選挙前にイラン攻撃せず＝トランプ氏 - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9fUGxFX20xNjZDekFXVWpFQVFKSlEyV1c1U1VlUkVOV3hIVmhBQWtOY2Q0c1ZMazRybk1kVzRGeEtKQjRicnBiaml1a29WTzBud3lSYndqbGt2M3lOOW5BOGFXczg1SktSN1VKVWVHeDJqdi1sczZzRmdEb1AtZ9IBgwFBVV95cUxObmN1VEFkdWNRSkl5bjg2ZU5YdElxNTQ0MkFYZ1RDcnI5bFl0Q2R0WXB4c1llMktTZ0pZQWIyS3J6dnFiNUVIbDU0WEZ3WmFlZ29WVW4wU2JDemw2NTM1emI5YnNsR1N3aDk0QkMxS29ZV18zQl9XcTFfVkFqRXNYSGVNZw?oc=5</link><description>[score: 0.878] 米、11月中間選挙前にイラン攻撃せず＝トランプ氏 ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE9fUGxFX20xNjZDekFXVWpFQVFKSlEyV1c1U1VlUkVOV3hIVmhBQWtOY2Q0c1ZMazRybk1kVzRGeEtKQjRicnBiaml1a29WTzBud3lSYndqbGt2M3lOOW5BOGFXczg1SktSN1VKVWVHeDJqdi1sczZzRmdEb1AtZ9IBgwFBVV95cUxObmN1VEFkdWNRSkl5bjg2ZU5YdElxNTQ0MkFYZ1RDcnI5bFl0Q2R0WXB4c1llMktTZ0pZQWIyS3J6dnFiNUVIbDU0WEZ3WmFlZ29WVW4wU2JDemw2NTM1emI5YnNsR1N3aDk0QkMxS29ZV18zQl9XcTFfVkFqRXNYSGVNZw?oc=5</guid><pubDate>Thu, 08 Oct 2026 19:43:26 +0000</pubDate></item><item><title>ＮＹ外為市場＝ドル軟調、欧州国債売り一服 円は157円台後半 - ロイター</title><link>https://news.google.com/rss/articles/CBMifEFVX3lxTE1XSVFwRDc4MG9jM1pCek1abWpncklsNklMMjBnaUU2R2JINVpWbEYyeXlMQkRGU29LbzJWZmJYT3E3NEhmSW9aN0NyeGpYZncwTGRwdndabGtlZEJfTnZuQk9Ya1I2aldVVjVtcnJQbFFGS0xpWUlGcW00azc?oc=5</link><description>[score: 0.879] ＮＹ外為市場＝ドル軟調、欧州国債売り一服 円は157円台後半 ロイター</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifEFVX3lxTE1XSVFwRDc4MG9jM1pCek1abWpncklsNklMMjBnaUU2R2JINVpWbEYyeXlMQkRGU29LbzJWZmJYT3E3NEhmSW9aN0NyeGpYZncwTGRwdndabGtlZEJfTnZuQk9Ya1I2aldVVjVtcnJQbFFGS0xpWUlGcW00azc?oc=5</guid><pubDate>Thu, 08 Oct 2026 20:42:51 +0000</pubDate></item><item><title>フーシ派 サウジアラビア首都を弾道ミサイルで攻撃 応酬が激化</title><link>https://news.web.nhk/newsweb/na/nd-20261009de56932</link><description>[score: 0.880] イエメンの反政府勢力フーシ派は、8日も、対立するサウジアラビアの首都リヤドを弾道ミサイルで攻撃したと発表し、攻撃の応酬が激しくなっています。
+イエメンの反政府勢力フーシ派の報道官は8日、隣国サウジ…
+あわせて読みたい
+ノーベル文学賞にアン・カーソン氏 カナダの詩人
+10月8日 22:08
+パリのシャンゼリゼ通りと大阪・御堂筋が「姉妹ストリート」に
+10月8日 8:58
+トランプ大統領 中間選挙前のイラン攻撃を検討か 米報道
+10月8日 13:16
+サウジアラビアの2つの空港に攻撃 3人死亡 フーシ派が攻撃主張
+10月8日 13:19
+サムスン 営業利益 約8.8倍 半導体需要拡大で過去最高を更</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261009de56932</guid><pubDate>Thu, 08 Oct 2026 20:52:39 +0000</pubDate></item><item><title>米中間選挙、トランプ支持者の投票意欲低い＝ロイター／イプソス - Infoseek</title><link>https://news.google.com/rss/articles/CBMibkFVX3lxTE9ObzBfcnBnNUdFS09Ocm12Uk5tckZiWEJ5NjBOeVZRU2E5aHRYLWlfQ2dPeGh3Wi1uNHB4em0waWIzT0xXVEluUDFpQWJYcXg5N0RFNnJXTlJUNElSOU5Wem5ZX05WYW1VekRjOWtR?oc=5</link><description>[score: 0.880] 米中間選挙、トランプ支持者の投票意欲低い＝ロイター／イプソス Infoseek</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMibkFVX3lxTE9ObzBfcnBnNUdFS09Ocm12Uk5tckZiWEJ5NjBOeVZRU2E5aHRYLWlfQ2dPeGh3Wi1uNHB4em0waWIzT0xXVEluUDFpQWJYcXg5N0RFNnJXTlJUNElSOU5Wem5ZX05WYW1VekRjOWtR?oc=5</guid><pubDate>Thu, 08 Oct 2026 12:26:10 +0000</pubDate></item><item><title># 年を重ねたエンジニアでも、もう一度システム開発に挑戦できる</title><link>https://qiita.com/davinichi/items/25f301315920566c3063?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] ― ChatGPT・Codex・GitHubでESP32教育用エディタを開発して感じたこと
+はじめに
+現在、学校教育でESP32を扱いやすくするための ESP32 Education Editor を開発しています。
+開発を進める中で、ChatGPT、Codex、GitHub、自動テストを組み合わせることで、開発の方法そのものが大きく変わってきました。
+そして今回強く感じたのは、
+この仕組みは、年を重ねたエンジニアが、もう一度システム開発に挑戦するための大きな助けになる
+ということです。
+新しい言語、フレームワーク、Git、Web技術などをすべて一から覚え直さなくても、これまで培ってきた設計経</description><guid isPermaLink="false">https://qiita.com/davinichi/items/25f301315920566c3063?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 08 Oct 2026 20:22:57 +0000</pubDate></item><item><title>米国株式市場＝Ｓ＆Ｐ・ナスダック下落、原油急騰で　半導体株が安い - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbzczM0UxMzh1cDIwS2VTRlpDbFdiWUxOQXVyLTdOV2tDVVNiQ1ZxR1piV3Q2U29QNFpGcHo2YkNWMW8zcW41LU9oWWIwUnc2bmZXYXZuNUp1RzR5a1ByQlpFUEtYQXZpVWZqczladzNWS1FlVTVjbFVKLTJtWjQtUHNQZ09kN0ZMMFdsZm5mbC1kUWhhZEhLSFNlQjBJZklHbVJhR3dRZmNBVDFYdVUxQl8wSTI1S0Y1WmhQaVpSQW9LTHp0SnpGRmVwbm5RVjVlNFlobVBxSdIBhwFBVV95cUxOM2JGd1ZfX1d2ZWs2WVlWQ3dGX09Fam96UUEyWnRpS2NkeEJLU2JFd1B3b09VT3Uxak9yWVdfNGtYUFc4Qm9XeC1WYmlNVjhpZjBEZGI2eGViVkdTcTV5RFNTdnhScFFEbGFmYTRldVZFR1J0SWN0M3M3TWFmOEJkMzZTcjZIM2c?oc=5</link><description>[score: 0.882] 米国株式市場＝Ｓ＆Ｐ・ナスダック下落、原油急騰で 半導体株が安い ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMi1wFBVV95cUxQbzczM0UxMzh1cDIwS2VTRlpDbFdiWUxOQXVyLTdOV2tDVVNiQ1ZxR1piV3Q2U29QNFpGcHo2YkNWMW8zcW41LU9oWWIwUnc2bmZXYXZuNUp1RzR5a1ByQlpFUEtYQXZpVWZqczladzNWS1FlVTVjbFVKLTJtWjQtUHNQZ09kN0ZMMFdsZm5mbC1kUWhhZEhLSFNlQjBJZklHbVJhR3dRZmNBVDFYdVUxQl8wSTI1S0Y1WmhQaVpSQW9LTHp0SnpGRmVwbm5RVjVlNFlobVBxSdIBhwFBVV95cUxOM2JGd1ZfX1d2ZWs2WVlWQ3dGX09Fam96UUEyWnRpS2NkeEJLU2JFd1B3b09VT3Uxak9yWVdfNGtYUFc4Qm9XeC1WYmlNVjhpZjBEZGI2eGViVkdTcTV5RFNTdnhScFFEbGFmYTRldVZFR1J0SWN0M3M3TWFmOEJkMzZTcjZIM2c?oc=5</guid><pubDate>Thu, 08 Oct 2026 20:42:51 +0000</pubDate></item><item><title>米、11月中間選挙前にイラン攻撃せず＝トランプ氏（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE0ySUkxcnhoQ2o5dUlZbW5sNHBiR1NmX3UybThNWFJQTGxPRTh2cXEtMVZuOFRUM3AtMjM3dklvekxkb3FZOFhSNGVHVmxJLTZNZWdWWFBUVjFVaDNTT01VTGFZdHQxUnJpQzFlQUZ6ZEplVWVOS0JkQ245c0R5WkU?oc=5</link><description>[score: 0.884] 米、11月中間選挙前にイラン攻撃せず＝トランプ氏（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE0ySUkxcnhoQ2o5dUlZbW5sNHBiR1NmX3UybThNWFJQTGxPRTh2cXEtMVZuOFRUM3AtMjM3dklvekxkb3FZOFhSNGVHVmxJLTZNZWdWWFBUVjFVaDNTT01VTGFZdHQxUnJpQzFlQUZ6ZEplVWVOS0JkQ245c0R5WkU?oc=5</guid><pubDate>Thu, 08 Oct 2026 17:38:52 +0000</pubDate></item><item><title>ＮＹ外為市場＝ドル軟調、欧州国債売り一服 円は157円台後半（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9VYW04cjJGQUpkOENPWEEyMWJ6Z1dhVU1Ba3lEUFNSOEdkQ3YwblF5eFp6eUZKX0lCYXAtSkk4cGtNTWFBUDZ5X2NySGhsN0xsM0habGd3Mi1jSDBZRE5wWE9jdVdVWjVXM2dmLWpqUnY3aHh5NmJ6eXBjbVdmWlk?oc=5</link><description>[score: 0.884] ＮＹ外為市場＝ドル軟調、欧州国債売り一服 円は157円台後半（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9VYW04cjJGQUpkOENPWEEyMWJ6Z1dhVU1Ba3lEUFNSOEdkQ3YwblF5eFp6eUZKX0lCYXAtSkk4cGtNTWFBUDZ5X2NySGhsN0xsM0habGd3Mi1jSDBZRE5wWE9jdVdVWjVXM2dmLWpqUnY3aHh5NmJ6eXBjbVdmWlk?oc=5</guid><pubDate>Thu, 08 Oct 2026 20:42:51 +0000</pubDate></item><item><title>老化による「物忘れ」は脳の劣化ではなく「進化」─米最新研究が指摘 | 歳をとる代わりに得られる「宝物のような能力」</title><link>https://courrier.jp/news/archives/461763/</link><description>[score: 0.884] 老化による「物忘れ」は脳の劣化ではなく「進化」─米最新研究が指摘 | 歳をとる代わりに得られる「宝物のような能力」 年齢を重ねるにつれて記憶力が衰える現象はこれまで、加齢による脳の機能低下と捉えられてきた。だが米アリゾナ大学の研究チームの最新発表によれば、人生の後半戦では細かな出来事の暗記より、知恵を優先させる「脳の最適化」がおこなわれるのだと指摘する。 部屋に入った瞬間、「自分はなぜここに来たのだろう？」と首...</description><guid isPermaLink="false">https://courrier.jp/news/archives/461763/</guid><pubDate>Thu, 08 Oct 2026 20:39:34 +0000</pubDate></item><item><title>声優などの団体 声の生成AIガイドライン初作成“事前許諾を”</title><link>https://news.web.nhk/newsweb/na/nd-20261009de56922</link><description>[score: 0.884] 声優などが加入する業界団体は生成AIで声を利用する際には、事前に本人の許諾を必須とすることなどを盛り込んだ初めてのガイドラインを作成し、今後、企業などに周知していくことになりました。
+生成AIによ…
+声の無断使用は「パブリシティ権の侵害」の初判断
+9月30日 18:31
+ノーベル文学賞にアン・カーソン氏 カナダの詩人
+10月8日 22:08
+神奈川県警の警察官 回収した運転免許証 数十枚不正に持ち出し
+10月8日 15:02
+参議院自民 参議院幹事長人事で石井氏交代の説明を求める声
+10月8日 13:14
+プルデンシャル生命 不適切受領52億円に 社長陳謝
+10月8日 18:01
+ソフトバンク</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261009de56922</guid><pubDate>Thu, 08 Oct 2026 20:52:39 +0000</pubDate></item><item><title>Jevをやってみよう</title><link>https://qiita.com/moritalous/items/11b182fe57a20536a4d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] 社内でJev勉強会を行いました。もったいないので、その時の内容を公開します
+公式サイト
+ニュース
+まずはわかりやすい資料で入門しよう
+今話題のAI「Jev」って何？ 宇宙最速で学ぶ会
+面白いユースケース
+トレード
+Lint
+マリオ
+絵文字
+試着
+UI生成
+Jevハッカソンの優勝？
+ブラウザ操作させてみた
+Jevっぽいものが色々でてきた
+オープンモデルをもとに作成
+個人のものから企業のものまで
+DiffusionGemma as Jev
+Decision 2.0（vLLM）
+Clef（Cloudflare）
+Strands Decider（AWS）
+本家のJevが対応していない画像入力に対応した</description><guid isPermaLink="false">https://qiita.com/moritalous/items/11b182fe57a20536a4d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 08 Oct 2026 20:22:57 +0000</pubDate></item><item><title>消費税法案提出へ 与党“早期審議入り”野党“財源追及”</title><link>https://news.web.nhk/newsweb/na/nd-20261009de56934</link><description>[score: 0.886] 食料品の消費税減税に関する法案について政府は、9日、国会に提出する方針です。与党が早期に審議入りさせて今の国会で成立を図りたいとしているのに対し、野党側は減税の効果や財源などをただすことにしているほか…
+あわせて読みたい
+ノーベル文学賞にアン・カーソン氏 カナダの詩人
+10月8日 22:08
+神奈川県警の警察官 回収した運転免許証 数十枚不正に持ち出し
+10月8日 15:02
+参議院自民 参議院幹事長人事で石井氏交代の説明を求める声
+10月8日 13:14
+プルデンシャル生命 不適切受領52億円に 社長陳謝
+10月8日 18:01
+ソフトバンク子会社にランサムウエア攻撃 企業や自治体に影響
+1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261009de56934</guid><pubDate>Thu, 08 Oct 2026 20:52:39 +0000</pubDate></item><item><title>ＦＲＢ、物価目標達成に追加利上げ必要＝セントルイス連銀総裁 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXhkUnl2YUZhTkQxcWwtbHZBSVNRcTJaRUJIRVdDR3pLQkpkSEduMG5ZN2hia1ZCcFF5RlVoN1E1aHRFNk15Ti1JRjZHNE00eG42bXlLOXJpZVZCcTBfQlc3QkRlOGItN0tvemZNZ183QU0xR254cjFxMXAyVEJUMGxZYXdhUQ?oc=5</link><description>[score: 0.886] ＦＲＢ、物価目標達成に追加利上げ必要＝セントルイス連銀総裁 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNLXhkUnl2YUZhTkQxcWwtbHZBSVNRcTJaRUJIRVdDR3pLQkpkSEduMG5ZN2hia1ZCcFF5RlVoN1E1aHRFNk15Ti1JRjZHNE00eG42bXlLOXJpZVZCcTBfQlc3QkRlOGItN0tvemZNZ183QU0xR254cjFxMXAyVEJUMGxZYXdhUQ?oc=5</guid><pubDate>Thu, 08 Oct 2026 18:41:49 +0000</pubDate></item><item><title>ＦＲＢ、物価目標達成に追加利上げ必要＝セントルイス連銀総裁（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9fWm9hMXhZSmV6NktTaHc2b1J3UnFnTWY0LXdtZGx1S2JrUmMyYkJGX29pQjlCOEY4LTJuZV9lU2gtVkpMd1dCVUVyc2pZN3BWRGZKTk9PS1UyVDloRnNWTWxSSk1VTXVWb0hCX3Z3eDhOZm1JMXR4S0FnUHA5V2c?oc=5</link><description>[score: 0.886] ＦＲＢ、物価目標達成に追加利上げ必要＝セントルイス連銀総裁（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9fWm9hMXhZSmV6NktTaHc2b1J3UnFnTWY0LXdtZGx1S2JrUmMyYkJGX29pQjlCOEY4LTJuZV9lU2gtVkpMd1dCVUVyc2pZN3BWRGZKTk9PS1UyVDloRnNWTWxSSk1VTXVWb0hCX3Z3eDhOZm1JMXR4S0FnUHA5V2c?oc=5</guid><pubDate>Thu, 08 Oct 2026 19:43:26 +0000</pubDate></item><item><title>情報漏えいの公表急増――いま増えているのは「攻撃」ではなく「発覚」 | SECURITY DRIVE</title><link>https://securitydrive.jp/column/0023/</link><description>[score: 0.888] 情報漏えいの公表急増――いま増えているのは「攻撃」ではなく「発覚」 | SECURITY DRIVE 情報漏えいの公表急増――いま増えているのは「攻撃」ではなく「発覚」 2026年9月、国内で不正アクセスや情報漏えいの公表が相次いだ。タイムズカーの約660万アカウント、セイコーマートのアプリ会員約57万アカウントをはじめ、わずか数日の間に大手・官公庁が次々と被害を明らかにした。なぜいまこの短期間で公表が爆増し...</description><guid isPermaLink="false">https://securitydrive.jp/column/0023/</guid><pubDate>Thu, 08 Oct 2026 18:56:47 +0000</pubDate></item><item><title>2026年10月8日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title><link>https://qiita.com/ennagara128/items/6f52d1e447168f83ae23?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] 前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。
+通勤中などにながら聴きしよう！
+（Qiita投稿は通勤には間に合わないと思われますが）
+フィードバックとか助かりますのでください
+↓こちらから
+出典
+最近プロジェクトマネジメントで感じたこと
+https://qiita.com/shirakurak/items/ee7565d212fd3ae1adcb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items
+文章で要件定義するのをやめた。AIでモックを先に作ったら、認識ズレが実装前に全部見つ</description><guid isPermaLink="false">https://qiita.com/ennagara128/items/6f52d1e447168f83ae23?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 08 Oct 2026 20:22:57 +0000</pubDate></item><item><title>AIに何度も聞き直しているのは、答えが欲しいからか、安心したいからか</title><link>https://qiita.com/kmatsuda_slj/items/7ae92005da366a610ebf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] AIにコードの修正について質問して、回答をもらう。
+説明を読むと、なんとなく納得できる。
+それでも、もう一度聞きたくなる。
+「本当にこれで合っていますか？」
+「この修正で問題ないですか？」
+「ほかに間違いはありませんか？」
+確認することは大切です。特に、自分が十分に理解できていないコードなら、慎重になるのも自然だと思います。
+ただ、何度も聞き直すことについて、一つ気になることがあります。
+自分が欲しいのは、修正が正しいと判断するための情報なのか。それとも、「大丈夫」と言ってもらえる安心なのか。
+まだ業務でAIを活用できている場面は多くありませんが、今回はコード修正を例に、この違いについて考えて</description><guid isPermaLink="false">https://qiita.com/kmatsuda_slj/items/7ae92005da366a610ebf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 08 Oct 2026 20:22:57 +0000</pubDate></item><item><title>企業への不正アクセス 相次いで明らかに</title><link>https://news.web.nhk/newsweb/na/nd-20261009de56931</link><description>[score: 0.896] 企業への不正アクセスによる被害が相次ぐ中、8日、カラオケ店などを運営する第一興商がおよそ872万件の個人情報が外部に漏えいしたおそれがあると明らかにしたほか、ニュースメディア「NewsPicks」の運…
+あわせて読みたい
+相次ぐ不正アクセスで3つの攻撃手法 専門機関が注意呼びかけ
+10月8日 21:25
+米アンソロピックがAIモデル「ミュトス」の提供先を拡大
+10月7日 15:24
+ノーベル文学賞にアン・カーソン氏 カナダの詩人
+10月8日 22:08
+神奈川県警の警察官 回収した運転免許証 数十枚不正に持ち出し
+10月8日 15:02
+参議院自民 参議院幹事長人事で石井氏交代の説明を求める声</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261009de56931</guid><pubDate>Thu, 08 Oct 2026 20:52:39 +0000</pubDate></item><item><title>すでにWEBデザイナーの8割は不要である</title><link>https://qiita.com/kotowazaman/items/74621592ace2ff968670?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.898] はじめに
+タイトルは煽りではなく、ここ2〜3年の現場で私が実際に感じていることです。
+この記事で言う「WEBデザイナー」は、FigmaやPhotoshopで画面を作る人全般を指します。業務システムのUIを作る人も、LPを作る人も、いったん同じ括りで話します。そのうえで、残る2割がどういう人なのかを後半で書きます。
+なお、この記事は私の個人的な見解ですが、それを裏付ける根拠は提示します。また「8割」という数字は私の肌感であって、統計ではありません。
+1. デザイナーの仕事はもう数字として減っている
+まず私見ではない部分から。
+Imperial College、Harvard Business S</description><guid isPermaLink="false">https://qiita.com/kotowazaman/items/74621592ace2ff968670?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 08 Oct 2026 20:22:57 +0000</pubDate></item><item><title>ClaudeにAPI利用枠を無償配布、Max 20xは毎月200ドル分</title><link>https://pc.watch.impress.co.jp/docs/news/2146653.html</link><description>[score: 0.899] ニュース
+ClaudeにAPI利用枠を無償配布、Max 20xは毎月200ドル分
+2026年10月8日 11:39
+定額プランの料金だけで、API開発まで試せるようになる。Anthropicは10月8日(日本時間)、「Claude Max」と「Claude Team」プランの契約者に、毎月のAPIクレジットを無償配布する施策を発表した。配布額はMax 5x(月額100ドル)が100ドル(約1万5,800円、1ドル=約158円換算)分、Max 20x(月額200ドル)が200ドル分で、Teamは組織全体で合算して最大500ドル分となる。
+APIは、プログラムからClaudeを呼び出すための窓口で</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2146653.html</guid><pubDate>Thu, 08 Oct 2026 16:38:21 +0000</pubDate></item></channel></rss>
