@@ -1,112 +1,164 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 11 Oct 2026 12:04:56 +0000</lastBuildDate><item><title>はてなパークスを２か月ほど使って分かったこと - orangestar2</title><link>https://orangestar2.hatenadiary.com/entry/2026/10/11/162220</link><description>[score: 0.872] ということで、はてなパークスについていくつか
-なせ、はてなブックマークからはてなパークスに人がながれてこないのか
-「はてなブックマークをしてる人たちは、議論がしたいんじゃなくて、インターネットミームカルタをしたいだけなんですよ！！」
-「やさしく殺してね」
-結局、反射で言葉を紡いでいるので、考えたり対話をしたりするパークスとは実は相性が悪い。というのがあって、あまり、はてブから移住が進んでいないんじゃないかと思った。
-はてなパークスについていくつか。
-はてなパークス、使い勝手がわるいから逆に使ってるところがある。
-人数、やっぱり減ってて、アクティブユーザー300人くらいしかいないんだ…。
-その3</description><guid isPermaLink="false">https://orangestar2.hatenadiary.com/entry/2026/10/11/162220</guid><pubDate>Sun, 11 Oct 2026 07:45:27 +0000</pubDate></item><item><title>石破前首相 簗農相発言を批判“全国民の代表者との認識ない”</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57884</link><description>[score: 0.873] 簗農林水産大臣の道路予算に関する発言について、自民党の石破前総理大臣は、国会議員がすべての国民の代表者であることを認識していない発言だと批判しました。
-簗農林水産大臣の道路予算に関する発言について…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 11 Oct 2026 21:09:13 +0000</lastBuildDate><item><title>「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」ゲームクリエイター・堀井雄二氏がAIを使い30分ほどでゲームを作成し、様々な反応が寄せられる</title><link>https://togetter.com/li/2756939</link><description>[score: 0.858] 「AIに指示するだけでひとりでそこそこのゲームが作れてしまいます」ゲームクリエイター・堀井雄二氏がAIを使い30分ほどでゲームを作成し、様々な反応が寄せられる 堀井雄二 @YujiHorii その昔、PCで『ポートピア連続殺人事件』を作った時は、自分で物語を考え、絵も描いて、プログラムもして、ひとりでゲームを作りました。そして今、ＡＩを使えば、絵を描けなくても、プログラムしなくても、ＡＩに指図するだけで、ひとりで、そこそこのゲームを作れてしまいます。ホントびっくりで...</description><guid isPermaLink="false">https://togetter.com/li/2756939</guid><pubDate>Sun, 11 Oct 2026 14:43:52 +0000</pubDate></item><item><title>Chromeのパスキーはどうやって移す？Mac版Chromeでは書き出せなかった話</title><link>https://qiita.com/ktdatascience/items/8f9d364452bf659b03c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.859] はじめに
+Chrome に保存したパスキーを、iPhone のパスワードアプリ（iCloud キーチェーン）へ移しました。要点は3つです。
+- Mac 版 Chrome の「パスワードをエクスポート」は CSV しか出せず、パスキーは入らない
+- まとめて移すなら、iPhone 版 Chrome の「データを書き出す」で受け取り先に「パスワード」を選ぶ
+- 数件だけなら、Safari でログインしてパスキーを作り直すほうが早い
+対象読者：Chrome（Google パスワード マネージャー）に保存したパスキーを、Apple のパスワードアプリへまとめたい人
+Chrome で作ったパスキーが、S</description><guid isPermaLink="false">https://qiita.com/ktdatascience/items/8f9d364452bf659b03c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 11 Oct 2026 20:51:16 +0000</pubDate></item><item><title>「戦略的思考」とは何か? 実務担当者からマネージャーに移行する方法</title><link>https://forbesjapan.com/articles/detail/106489?s=ns</link><description>[score: 0.860] 実行力は、実務担当者として注目を集める要素だ。だが、経営陣の列に加わるための条件は「戦略的思考」である。
+メールの対応や日々の火消し、ToDoリストの消化に追われ、目の前の実務に忙殺されていると感じているなら、それは時間管理の問題ではない。戦略的視点の欠如が原因だ。
+ここでは、戦略的思考の本当の意味、それがキャリアアップに極めて重要である理由、そして今日から実践できる3つの具体策を紹介する。
+「戦略的思考」とは何か（そして何ではないのか）?
+「戦略的である」ことの真の意味については、よくある誤解が存在する。
+筆者がコーチングを行っているリーダーの多くは、上司から「もっと戦略的になりなさい」とア</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106489?s=ns</guid><pubDate>Sun, 11 Oct 2026 21:04:12 +0000</pubDate></item><item><title>花火で隣の人に話せばよかった</title><link>https://anond.hatelabo.jp/20261011213759</link><description>[score: 0.863] 花火大会に行ってきた。
+家からでも見れるが、親戚が来るので少し居心地が悪く、会場に行く。
+一人で会場の中途半端な場所に座って、友達を探してるふりでLINE見て、花火を見る。
+気づいたら後ろに一人、女性が立っていた。
+たぶん同年代くらい。
+誰かと待ち合わせているのかと思ったが、花火の終わりまでずっと一人だった。
+1時間はずっと一人。
+帰るときも一人で帰っている。
+絶対この人は私と同じだ。そう感じた。
+初めて声をかけたいと思った。
+「一人で見てましたよね？」
+と声をかけたかったが、人混みの中ただ後ろ姿を見つめるばかりで、耐えられなくなって、私が帰る方向の路地へ逃げた。
+暗い道で二人組とすれ違う。す</description><guid isPermaLink="false">https://anond.hatelabo.jp/20261011213759</guid><pubDate>Sun, 11 Oct 2026 15:52:13 +0000</pubDate></item><item><title>柔道世界選手権 混合団体で2年ぶりの金メダル</title><link>https://news.web.nhk/newsweb/na/nd-20261012de58057</link><description>[score: 0.864] アゼルバイジャンで開かれた柔道の世界選手権は大会最終日の11日、混合団体が行われ、日本は決勝でロシアに勝って2年ぶりに金メダルを獲得しました。
+混合団体は男女それぞれ3階級ずつ、あわせて6階級で争…
 あわせて読みたい
-木原長官 "野党と丁寧に議論 減税法案など成立を" NHK日曜討論
-10月11日 11:21
-茂木外相 米 ルビオ国務長官にICC制裁への日本の立場伝達
-10月11日 7:31
+柔道世界選手権 村尾三四郎が田嶋剛希に勝ち連覇 男子90キロ級
+10月9日 19:14
+柔道世界選手権 田中龍雅と大森朱莉がともに初出場で金メダル
+10月7日 2:37
+競泳 松下知之が短水路の世界新記録 男子400m個人メドレー
+10月11日 19:06
+CS セ・リーグはDeNAがファイナルステージ進出 巨人に2連勝
+10月11日 19:32
+CS パ・リーグ 日本ハムが西武</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261012de58057</guid><pubDate>Sun, 11 Oct 2026 20:13:11 +0000</pubDate></item><item><title>AIブームに地域住民が｢待った｣。2,000億ドルのデータセンター建設計画が足止め | ギズモード・ジャパン</title><link>https://www.gizmodo.jp/article/2610-ai-datacenter-protests-us/</link><description>[score: 0.864] AIブームに地域住民が｢待った｣。2,000億ドルのデータセンター建設計画が足止め
+データセンター推しだった候補者が手のひらを返すんだから、反対運動の勢いはホンモノ。
+アメリカでは、大手テック企業が巨大データセンターの建設を競い合っています。その勢いに｢待った｣をかけているのが、地域社会の住民たち。反対運動は全米各地に広がり、一部では建設を食い止めています。
+半年で31.6兆円規模の計画が停滞
+足止めを食っている計画の規模も、かなりのもの。Bloomberg（ブルームバーグ）がData Center Watch（データセンター・ウォッチ）のデータをもとに報じたところでは、4月から6月の3カ月間</description><guid isPermaLink="false">https://www.gizmodo.jp/article/2610-ai-datacenter-protests-us/</guid><pubDate>Sun, 11 Oct 2026 14:51:35 +0000</pubDate></item><item><title>【Supabase】プロジェクトの利用を停止された時の対処方法</title><link>https://qiita.com/ryu0947/items/141f8bae4f0f11e207e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.865] はじめに
+学習用にReactで作っているTodoアプリのデータの保存にSupabaseを利用しています。
+Supabaseから「プロジェクトを一時停止する」という不穏なメールが届いたのでその原因と対処方法をまとめます。
+Supabaseのプロジェクトが一時停止された原因
+Supabaseの無料プランでは7日間利用がないと自動でプロジェクトの利用が停止になるみたいです。
+Supabase側のクラウドのリソースの節約のためにこうしているんだとか。
+プロジェクトの一時停止は何の通知もなく行われるのではなく、メールで7日間利用がない場合はプロジェクトを一時停止する案内が届きます。私の場合は6日間利用が</description><guid isPermaLink="false">https://qiita.com/ryu0947/items/141f8bae4f0f11e207e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 11 Oct 2026 20:51:16 +0000</pubDate></item><item><title>ロシアIT大手のデータセンターに3回目の無人機攻撃 稼働停止</title><link>https://www.afpbb.com/articles/-/3657054</link><description>[score: 0.866] ロシアIT大手のデータセンターに3回目の無人機攻撃 稼働停止 ロシアのインターネット検索エンジン「ヤンデックス」のロゴ（2021年10月12日撮影）。(c)Kirill KUDRYAVTSEV/AFP 【10月11日 AFP】ロシアのIT大手ヤンデックスは11日、首都モスクワ東方にある同社のデータセンターが無人機攻撃で損傷し、施設の稼働が停止したと発表した。 ヤンデックスは「ロシアのグーグル」とも称され...</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3657054</guid><pubDate>Sun, 11 Oct 2026 19:19:22 +0000</pubDate></item><item><title>愛知 豊田 住宅の玄関先でクマに襲われ男性大けが</title><link>https://news.web.nhk/newsweb/na/nd-20261011de58011</link><description>[score: 0.867] 11日午前、愛知県豊田市の山間部にある住宅の玄関先で、男性がクマに襲われて大けがをしました。
+警察によりますと、11日午前7時20分ごろ、豊田市小原北町の住宅の玄関先で、59歳の男性が1頭のクマに…
+あわせて読みたい
+ことしの秋のクマ出没どうなる？「どんぐり」の実りは
+10月3日 22:31
+クマ被害 この秋の対策は
+9月15日 14:43
+【比較動画】クマ撃退スプレー 市販製品の「性能」に大きな差
+8月25日 19:31
+【動画】ヒグマが停止中の車に襲いかかる 北海道
+9月30日 20:01
+「クマ被害」ニュース 特集サイト
+愛知 岐阜県境の木曽川で男性死亡 遊泳中に溺れたか 警察
+10月1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de58011</guid><pubDate>Sun, 11 Oct 2026 19:10:38 +0000</pubDate></item><item><title>止まらない不正アクセス　ローソン215万件、ココナラやSansanでも情報漏えい</title><link>https://japan.cnet.com/article/35253437/</link><description>[score: 0.871] 止まらない不正アクセス ローソン215万件、ココナラやSansanでも情報漏えい 国内企業への不正アクセスによる個人情報の漏えいが相次いでいる。10月8〜9日には、ローソンやココナラ、Sansan、LINEヤフーなどが相次いで被害を公表した。ローソンでは約215万件の顧客情報が漏えいしたほか、複数の企業が利用する外部サービスへの攻撃が、各社に波及する事態も起きている。ここにきて急増した要因は不...</description><guid isPermaLink="false">https://japan.cnet.com/article/35253437/</guid><pubDate>Sun, 11 Oct 2026 13:12:43 +0000</pubDate></item><item><title>Claudeも使い分けるAI社員「Gemini エージェント」発表！専用メールを持ち、数日がかりの作業も代行 - すまほん!!</title><link>https://smhn.info/202610-google-cloud-gemini-agent-work-announcement</link><description>[score: 0.871] AIチャットに質問して答えをもらう使い方から、仕事そのものを任せる使い方へ。
+Googleは5月のGoogle I/Oで、裏で動き続ける個人向けAIエージェント「Gemini Spark」を発表していましたが、今回は企業の業務向けです。Google Cloudは米国時間10月8日、イベント「Gemini at Work 2026」で、仕事向けの汎用AIエージェント「Gemini エージェント」を発表。専用のメールアドレスを持つ同僚としてチームに加えることも、裏側でAnthropicのClaudeを動かすことも可能です。
+Google CloudのThomas Kurian CEOは、Gemin</description><guid isPermaLink="false">https://smhn.info/202610-google-cloud-gemini-agent-work-announcement</guid><pubDate>Sun, 11 Oct 2026 14:51:35 +0000</pubDate></item><item><title>仕様の行き違いを防ぐ　認識合わせメモ1枚のテンプレート</title><link>https://qiita.com/vaon-luandv/items/cf1c2e896ad40e49e216?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.875] はじめに
+打ち合わせのあとで「そういう意味ではありませんでした」が起きるチーム向けの記事です。発注側と開発側が別の会社のとき、特に拠点や母語が違うときに使えます。
+内容は3つです。リポジトリに置いてそのまま使えるMarkdownのテンプレート、あいまいな言葉の言い換え表、運用のための短いコマンド。全部を入れる必要はないので、テンプレートだけ持ち帰ってもらっても構いません。
+私たちのチームでは、打ち合わせのたびに「こう理解しました」を1枚にまとめて相手に確認してもらう、という習慣を続けています。この記事のテンプレートは、そこで使っている項目をもとに、ほかのチームでも使える形に整えたものです。
+議</description><guid isPermaLink="false">https://qiita.com/vaon-luandv/items/cf1c2e896ad40e49e216?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 11 Oct 2026 20:51:16 +0000</pubDate></item><item><title>ネパールで土石流が発生 軍が救助活動 土砂が川をせき止める</title><link>https://news.web.nhk/newsweb/na/nd-20261011de58027</link><description>[score: 0.876] ことし8月、大規模な土石流が発生したネパールで11日再び土石流が発生し、5人の行方が分からなくなっていて軍による救助活動が行われています。
+ネパール軍によりますと11日中部ゴルカ郡で土砂崩れが発生し…
+あわせて読みたい
+日本政府 ネパール国際空港の安全性向上で約30億円の無償協力
+10月8日 18:18
+ネパール土石流 被災地での捜索・救助が原則打ち切り
+10月6日 11:31
+米 ICCを制裁対象に指定 非難や撤回を求める声相次ぐ
+10月11日 17:22
 サウジ首都空港に攻撃 12人死亡 攻撃の応酬激化のおそれ
 10月11日 18:59
-トランプ大統領「ウクライナは新たな大統領を迎える時」と発言
-10月11日 9:53
-アルツハイマー病の原因物質減らす マ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57884</guid><pubDate>Sun, 11 Oct 2026 06:05:07 +0000</pubDate></item><item><title>米司法省、独禁法違反の疑いでテレビ5社調査 ホワイトハウス取材停止巡り | ロイター - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9SVmx3U3NYTTU2NnozamNYVVhEZ1RDNEFvcmVxSkRia1YwUnR4akRlQWNIWWJyQ0FucU9HdjA1RlFYR0pnaWZxd2F4LWdJV2FaYXI5cVQtNlBJWElxb3RYTEJHVDFsYVMtY1ZUdlNDcmNORlBpbjhkdlJZNGRjZ1E?oc=5</link><description>[score: 0.873] 米司法省、独禁法違反の疑いでテレビ5社調査 ホワイトハウス取材停止巡り | ロイター Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9SVmx3U3NYTTU2NnozamNYVVhEZ1RDNEFvcmVxSkRia1YwUnR4akRlQWNIWWJyQ0FucU9HdjA1RlFYR0pnaWZxd2F4LWdJV2FaYXI5cVQtNlBJWElxb3RYTEJHVDFsYVMtY1ZUdlNDcmNORlBpbjhkdlJZNGRjZ1E?oc=5</guid><pubDate>Sun, 11 Oct 2026 03:02:09 +0000</pubDate></item><item><title>抽象的なことを考える時、無意識に具体化しないためのメモ</title><link>https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.874] はじめに
-- Whyを問うているつもりでいつの間にか、具体的なことを考えている時があるので気をつけることをメモする
-芯をくっていると楽
-- 抽象度高いところがずれていないと楽
-- キャリアハック、ブラックハットSEO、グレーゾーンを攻めるなどは本質的な価値をあげず、具体を緻密に計算して実行するから、少しのミスも許されないのでしんどい
-- なので無駄に複雑なことを考える必要はない
-- 間違った設計で実装するのは大変なこともそう
-効率化よりも前のこと
-- 効率化は危険信号。それは言われたことをやっているだけかも
-- ソフトウェアを使うビジネスという文脈においては、効率化や実現だけではなく、顧客の売</description><guid isPermaLink="false">https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 11 Oct 2026 08:50:13 +0000</pubDate></item><item><title>https://x.com/blackright0/status/2108821274617315726</title><link>https://x.com/blackright0/status/2108821274617315726</link><description>[score: 0.874] 最近では、大企業が「音声合成AI」で何千件もの中小企業へ一斉に自動テレアポを掛け、受ける中小企業側も人手不足から「AI受付ボット」に自動応答させている。その結果、現場で起きているのはこれだ。
-営業AI「担当者様はいらっしゃいますか？🤖」
-受付AI「恐れ入りますが営業のお電話はお断りしております🤖」
-人間が1ミリも関与していない「電子のゴミ通信」によって、お互いの回線とサーバー代だけが消費されるディストピア。10年前の新卒テレアポの方がまだマシだったと思えるレベルの技術の無駄遣いである。それは効率化の果てに辿り着いた、「テクノロジーで最も高度に洗練された、世界一無駄な電子のゴミ捨て場」なのだ。</description><guid isPermaLink="false">https://x.com/blackright0/status/2108821274617315726</guid><pubDate>Sun, 11 Oct 2026 07:44:38 +0000</pubDate></item><item><title>日本語プログラミング言語あおい（Aoi）最小セットの完了評価フェーズ（ステップ１）～検証用コードの自動生成～</title><link>https://qiita.com/mylifewithviolin/items/a937dc83c175eb313e61?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.874] はじめに
-日本語プログラミング言語あおい（Aoi）の実装言語仕様を生成AIに読み込ませて仕様駆動開発を展開しており、本記事は実装完了した「最小セット（MVP）」1の完了評価フェーズのステップ１になります。
-日本語プログラミング言語あおい（Aoi）という自作言語の企画趣旨はこちらの記事をご参照ください。開発コード名を「Re:Mind」としており、AIとのやりとりではこの名称が使われています。
-生成AI
-GitHub Copilot
-GitHub CopilotのPro+版。実装と検証の主担当。
-Microsoft Copilot
-GitHub Copilotのスーパバイザ2
-本記事のステップ
-1</description><guid isPermaLink="false">https://qiita.com/mylifewithviolin/items/a937dc83c175eb313e61?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 11 Oct 2026 08:50:13 +0000</pubDate></item><item><title>クラウドエージェントMeetup #1 (2026/10/27 19:00〜)</title><link>https://aid.connpass.com/event/409028/</link><description>[score: 0.874] 10月
-27
-クラウドエージェントMeetup #1
-クラウドエージェントを使い倒す人のためのミートアップ、始動！
-主催 : AI駆動開発勉強会 運営委員会
-広告
-参加者への情報
-イベントの説明
-クラウドエージェントMeetup #1
-クラウドエージェントを使い倒す人のためのミートアップ、始動！
-イベント概要
-Devin、Claude Code on the web、Codex Cloud など、クラウド上でタスクを任せて非同期に動いてもらう「クラウドエージェント」が次々と登場しています。手元で一緒にコードを書くエージェントとは違い、複数のタスクを並列で任せたり、PRまで作ってもらったりと、開</description><guid isPermaLink="false">https://aid.connpass.com/event/409028/</guid><pubDate>Sun, 11 Oct 2026 10:42:13 +0000</pubDate></item><item><title>愛知 岐阜県境の木曽川で男性死亡 遊泳中に溺れたか 警察</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57970</link><description>[score: 0.877] 11日午後、愛知県と岐阜県の県境を流れる木曽川で、「川で泳いでいた友人がいなくなった」などと消防に通報があり、その後、20代くらいの男性が川の中で死亡しているのが見つかりました。 警察は遊泳中に溺れた…
-あわせて読みたい
-サウジ首都空港に攻撃 12人死亡 攻撃の応酬激化のおそれ
-10月11日 18:59
-トランプ大統領「ウクライナは新たな大統領を迎える時」と発言
-10月11日 9:53
-茂木外相 米 ルビオ国務長官にICC制裁への日本の立場伝達
-10月11日 7:31
-木原長官 "野党と丁寧に議論 減税法案など成立を" NHK日曜討論
-10月11日 11:21
-アルツハイマー病の原因物質減らす</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57970</guid><pubDate>Sun, 11 Oct 2026 09:58:44 +0000</pubDate></item><item><title>トランプ氏「ウクライナに新大統領を」　対ロシア制裁緩和の批判受け：朝日新聞</title><link>https://www.asahi.com/articles/ASVBB6QL0VBBUHBI02GM.html</link><description>[score: 0.878] トランプ氏「ウクライナに新大統領を」 対ロシア制裁緩和の批判受け
-トランプ米大統領は10日、ウクライナのゼレンスキー大統領について「ウクライナは新しい大統領を得る時期だ」と述べた。記者団の質問に答えた。トランプ氏は9日に、ウクライナに侵攻したロシアへの制裁の一部を緩和し、ロシアの軽油を世界市場に供給することに合意したと発表。ゼレンスキー氏はこれについて、ロシアを利するとして批判していた。
-トランプ氏はゼレンスキー氏について「この戦争を何度も終わらせることができたはずだが、そうしないことを選んだ」と主張。「交渉ができる新しい指導者を得ることを提案する」と述べた。
-理由として、トランプ氏はウクライ</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVBB6QL0VBBUHBI02GM.html</guid><pubDate>Sun, 11 Oct 2026 01:42:49 +0000</pubDate></item><item><title>サイバーセキュリティーの常識が崩れた…「個人情報」の流出を防ぐ“身も蓋もない方法”</title><link>https://diamond.jp/articles/-/400815</link><description>[score: 0.878] タイムズカーをはじめ、大企業で個人情報の流出が相次いでいる。なぜ、これほど被害が止まらないのか。AIの登場でサイバー防衛の前提が崩れつつある今、企業に求められるのは、これまでとはまったく違う発想かもしれない。（百年コンサルティングチーフエコノミスト 鈴木貴博）
-情報漏洩が止まらない
-次に狙われるのは誰？
-いま企業の情報漏洩事件が物凄いことになっています。表現を選ばなければ「じゃんじゃん情報が漏洩する」状態です。
-直近の事件を挙げてみると主なものだけでもこんな状況です。カーシェアのタイムズカーを運営するパーク24で最大660万件の顧客情報が流出。その中には、約160万アカウントの運転免許証の画像</description><guid isPermaLink="false">https://diamond.jp/articles/-/400815</guid><pubDate>Sun, 11 Oct 2026 09:43:31 +0000</pubDate></item><item><title>記者会見するウクライナのゼレンスキー大統領＝8月、セルビア・ベオグラード（ロイター＝共同） - 【米、対ロ軽油制裁緩和】思惑一致の米ロ、政治演出 ウクライナ不信、和平暗雲 - 写真・画像(3/3) - 西日本新聞me</title><link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sY2M2eWVnX1B1YjlqUWJlUXp6WmZUSmRBTHNrZHhTWHZYbnh2UEM3YWFvVF9xT0lDZ04xSTBsaGRQYlZWOEJCdmZTRTJEVkNIN3JLbW9Ibw?oc=5</link><description>[score: 0.879] 記者会見するウクライナのゼレンスキー大統領＝8月、セルビア・ベオグラード（ロイター＝共同） - 【米、対ロ軽油制裁緩和】思惑一致の米ロ、政治演出 ウクライナ不信、和平暗雲 - 写真・画像(3/3) 西日本新聞me</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sY2M2eWVnX1B1YjlqUWJlUXp6WmZUSmRBTHNrZHhTWHZYbnh2UEM3YWFvVF9xT0lDZ04xSTBsaGRQYlZWOEJCdmZTRTJEVkNIN3JLbW9Ibw?oc=5</guid><pubDate>Sun, 11 Oct 2026 11:57:11 +0000</pubDate></item><item><title>米司法省、独禁法違反の疑いでテレビ5社調査 ホワイトハウス取材停止巡り（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1WQ1l4RlNfbURIU3FtVUpTOXFLYVJGMm96NzAxZGZ2RWNWRWFPckNQQjFPSkhPSGhpeS10QWZSeVBHWUNMODlFV3V4MFVENW5ZM0U0elAyUlBLb0VWNWxYMWk4VUlVVWRmSTdVY1pYZ2VwQ21VVHNrVjd2Y0lDeUk?oc=5</link><description>[score: 0.881] 米司法省、独禁法違反の疑いでテレビ5社調査 ホワイトハウス取材停止巡り（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE1WQ1l4RlNfbURIU3FtVUpTOXFLYVJGMm96NzAxZGZ2RWNWRWFPckNQQjFPSkhPSGhpeS10QWZSeVBHWUNMODlFV3V4MFVENW5ZM0U0elAyUlBLb0VWNWxYMWk4VUlVVWRmSTdVY1pYZ2VwQ21VVHNrVjd2Y0lDeUk?oc=5</guid><pubDate>Sun, 11 Oct 2026 06:05:46 +0000</pubDate></item><item><title>トランプ氏、ウクライナは「新しい指導者を選ぶべき」　米ロのディーゼル燃料合意めぐりゼレンスキー氏と応酬</title><link>https://www.cnn.co.jp/usa/35253457.html</link><description>[score: 0.881] トランプ氏、ウクライナは「新しい指導者を選ぶべき」 （CNN） トランプ米大統領は10日、米国とロシアが新たに交わしたディーゼル燃料（軽油）供給の合意をめぐってウクライナのゼレンスキー大統領と応酬を繰り広げる中、ゼレンスキー氏を批判し、ウクライナは新たな指導者を選ぶべきだと「提案する」と述べた。 トランプ氏はホワイトハウスで記者団に対し、「取引をまとめられる新しい指導者を選ぶことを提案する。彼にはその機会が何度もあったのに、どういうわけか決してそうしない」と語った。 一方、ゼレンスキー氏は米ロの合意について「長引かせるのではなく終わらせなければならない戦争への投資」だと厳しく非難した。 米当局</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35253457.html</guid><pubDate>Sun, 11 Oct 2026 02:42:01 +0000</pubDate></item><item><title>【速報】Claude の新機能 Claude Motion 早速使ってみた</title><link>https://zenn.dev/branbran/articles/047821d64590f0</link><description>[score: 0.881] はじめに 2026年10月8日、Anthropic が Claude の新機能 Claude Motion をベータで公開しました。同じ日に Claude Dashboards も出ています。 Claude Motion は、プロンプトや手元のレポート・グラフ・画像から、短いアニメーション動画を作る機能です。さっそく触ってみたので、機能の概要・使い方・使ってみた所感をまとめます。 公式Claude Motion のYoutube動画 この記事は 2026年10月時点のベータ版の情報です。仕様や提供範囲は今後変わる可能性があります。 Claude Motion とは 一言でいうと「...</description><guid isPermaLink="false">https://zenn.dev/branbran/articles/047821d64590f0</guid><pubDate>Sun, 11 Oct 2026 05:46:41 +0000</pubDate></item><item><title>佳子さま ガールスカウトの活動 表彰するイベントに出席</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57931</link><description>[score: 0.883] 秋篠宮ご夫妻の次女の佳子さまは11日東京でガールスカウトの活動を表彰するイベントに出席されました。
-このイベントは国連が10月11日に定めている「国際ガールズ・デー」にちなんで、ガールスカウトの普…
-あわせて読みたい
-両陛下 青森で国民スポーツ大会 観戦 青森ねぶた祭 施設なども
-10月11日 18:05
-北口榛花選手らがスポーツの日を前に陸上教室 北海道 旭川
-10月11日 15:32
-目黒のさんま祭 不漁で解凍のサンマも人気
-10月11日 12:24
-サウジ首都空港に攻撃 12人死亡 攻撃の応酬激化のおそれ
-10月11日 18:59
-トランプ大統領「ウクライナは新たな大統領を迎える時」と発</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57931</guid><pubDate>Sun, 11 Oct 2026 09:03:03 +0000</pubDate></item><item><title>サイバーセキュリティを勉強するなら今？おすすめリソース紹介</title><link>https://qiita.com/leolui2004/items/226062f17e55202e8c47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] 概要
-インシデントが毎日のように発生する時代になり、政府機関や銀行、クラウドプロバイダーですら避けられない状況になっています。「AIのせいで仕事がなくなる」と心配するより、このタイミングでサイバーセキュリティを勉強しておけば、絶対に仕事に困らないのではないでしょうか？
-とはいえ、サイバーセキュリティはITの総合格闘技（頂点）とも言える分野なので、基礎知識がないと、最近起きているインシデントの調査報告書やネット上の議論を読んでもなかなか理解できないかもしれません。
-そこで今回は、基礎知識を身につけるためのリソースをいくつか紹介していきたいと思います。
-※1点だけ先に押さえておきたいのは、サイバー</description><guid isPermaLink="false">https://qiita.com/leolui2004/items/226062f17e55202e8c47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 11 Oct 2026 08:50:13 +0000</pubDate></item><item><title>米司法省、独禁法違反の疑いでテレビ5社調査 ホワイトハウス取材停止巡り (ロイター) - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGxSSVU2X2pYV0FVdXVPTVlITTBJTmJMWFJnMW9yRFpRM0J5RFNuM3hEQWNlcTFJQVVYSjdFbnpBQTRVaGRwWlRiNExMSnhFaDdWWjNKWWp4cHdFY25BdjJYNTJqV0hPZWFDX2xLNlZuRWVqdF9KU3AyQjMwY1dKVmdLWWZuUEtTNy1QeUVB?oc=5</link><description>[score: 0.885] 米司法省、独禁法違反の疑いでテレビ5社調査 ホワイトハウス取材停止巡り (ロイター) Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGxSSVU2X2pYV0FVdXVPTVlITTBJTmJMWFJnMW9yRFpRM0J5RFNuM3hEQWNlcTFJQVVYSjdFbnpBQTRVaGRwWlRiNExMSnhFaDdWWjNKWWp4cHdFY25BdjJYNTJqV0hPZWFDX2xLNlZuRWVqdF9KU3AyQjMwY1dKVmdLWWZuUEtTNy1QeUVB?oc=5</guid><pubDate>Sun, 11 Oct 2026 07:01:09 +0000</pubDate></item><item><title>米司法省、CNNのホワイトハウス取材禁止で代表取材ボイコットしたテレビ局各社を調査</title><link>https://www.cnn.co.jp/usa/35253459.html</link><description>[score: 0.885] ホワイトハウス西棟の外に設置されたテレビ局のカメラ＝9月21日/Daniel Heuer/Bloomberg/Getty Images/File （CNN） 米司法省は、米国の主要テレビネットワーク5社について、反トラスト法（独占禁止法）に違反した可能性があるとして調査を進めている。トランプ政権による報道機関への圧力が新たな局面を迎えた形だ。 調査の対象となっているのは、長年続いてきたテレビ局による「プール」と呼ばれる代表取材制度だ。この制度は先月、トランプ大統領がCNNに対しホワイトハウス敷地内への立ち入りを禁止したことで混乱に陥った。プールは大規模な記者団を代表して少人数の記者が輪番制で大</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35253459.html</guid><pubDate>Sun, 11 Oct 2026 05:39:08 +0000</pubDate></item><item><title>React習熟度ベンチマークでHaiku 5.5が見せた底力</title><link>https://zenn.dev/uhyo/articles/react-profession-bench-20</link><description>[score: 0.887] 皆さんこんにちは。React習熟度シリーズの20記事目です。今回は、Claude Haiku 5.5のReact習熟度ベンチマークの結果をお届けしようと思います。Claude Haiku 5.5は、Haikuシリーズで久しぶりに出たモデルです。HaikuはClaudeシリーズの中で最も廉価なモデルで、そこそこの性能の代わりに安いという位置づけです。そんなHaiku 5.5は、いったいどんな結果を出したのでしょうか。 前回の記事はこちらです。 https://zenn.dev/uhyo/articles/react-profession-bench-19 結果 前回の順位表にHaiku...</description><guid isPermaLink="false">https://zenn.dev/uhyo/articles/react-profession-bench-20</guid><pubDate>Sun, 11 Oct 2026 09:49:22 +0000</pubDate></item><item><title>生物兵器、核兵器、悪意のない殺戮――AIが人類を滅亡させ得るシナリオとは(1/2)</title><link>https://www.cnn.co.jp/tech/35253461.html</link><description>[score: 0.887] AI研究者らはAIが超知能を実現したら人類を滅亡させると警鐘を鳴らす/Christoph Soeder/picture alliance/Getty Images/File （CNN） 人工知能（AI）は全人類を滅亡させ得ると予見する業界関係者が相次いでいる。人類は10年以内に殲滅（せんめつ）されるかもしれないとの見方もある。 AIによる人類滅亡を論じた著書があるMIRI（機械知能研究所）のネイト・ソアレス代表は言う。「文字通り、地球上の全ての人が死ぬ。最後に残った人間が息絶える」「そんな話は信じられないとよく言われる。だが私は、それが最も可能性の大きい結末だと考える」 だが、たとえ世界最強の</description><guid isPermaLink="false">https://www.cnn.co.jp/tech/35253461.html</guid><pubDate>Sun, 11 Oct 2026 06:40:16 +0000</pubDate></item><item><title>AIで仕組みを作るための「27 Rules Starter Skill（for Claude Code）」を配布します｜太田 賢一／Design Mgr</title><link>https://note.com/kenichiota0711/n/n7c8035175167</link><description>[score: 0.888] AIで仕組みを作るための「27 Rules Starter Skill（for Claude Code）」を配布します｜太田 賢一／Design Mgr AIで仕組みを作るための「27 Rules Starter Skill（for Claude Code）」を配布します。 これは『AIを活用した仕組み』が作れるようになる27のルールと11ステップをskill化したものです。普段私が使っているルールを、そのままお渡しできる形にしました。記事の最後にダウンロードできます。 できるようになること『AIを...</description><guid isPermaLink="false">https://note.com/kenichiota0711/n/n7c8035175167</guid><pubDate>Sun, 11 Oct 2026 11:53:04 +0000</pubDate></item><item><title>アディダスやZapierも導入、AIがコードを書くバイブコーディングで生産性向上</title><link>https://forbesjapan.com/articles/detail/105567?s=ns</link><description>[score: 0.889] ついこの間まで、ソフトウェアを作るには、何年もかけてプログラミングを身に付けるか、高い料金を払って誰かに作ってもらうしかなかった。
-バイブコーディング（vibe coding）が登場したことで、状況は変わった。作りたいものをふだんの言葉で説明すれば、あとはAIに任せておくだけで、コードを書き、テストし、デプロイ（実際に使える状態で公開すること）まで済ませてくれる。
-AIに言葉で指示する開発、本当に役立つものはできるか
-では、実際のところはどうなのか。なにしろ「何でも作れる」ことと、本当に役に立つものを作ることとの間には、天と地ほどの差がある。
-幸い、AI研究者のアンドレイ・カーパシーが2025</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105567?s=ns</guid><pubDate>Sun, 11 Oct 2026 07:51:34 +0000</pubDate></item><item><title>トランプ氏、ウクライナ大統領の交代求める 軽油高騰でロシア製油所攻撃を批判 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1NiMFBJaGhJQl96dVE1X1UzVkRqY3NWaWdpalczWnlRd0M4RlFOb2QwQTUzcGdYY3hRUGRkNmF3M0dqMlFiZVRMbTU0dy1kVXZLREZaUVhsZGZLbkMwdVRQTDJkOTk5X0V5Nzljd0MzLXRVX1NQdnlQX0M3ZW9aRnhPRnJ2QQ?oc=5</link><description>[score: 0.891] トランプ氏、ウクライナ大統領の交代求める 軽油高騰でロシア製油所攻撃を批判 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1NiMFBJaGhJQl96dVE1X1UzVkRqY3NWaWdpalczWnlRd0M4RlFOb2QwQTUzcGdYY3hRUGRkNmF3M0dqMlFiZVRMbTU0dy1kVXZLREZaUVhsZGZLbkMwdVRQTDJkOTk5X0V5Nzljd0MzLXRVX1NQdnlQX0M3ZW9aRnhPRnJ2QQ?oc=5</guid><pubDate>Sun, 11 Oct 2026 03:02:09 +0000</pubDate></item><item><title>トランプ氏、ウクライナ大統領の交代求める 軽油高騰でロシア製油所攻撃を批判（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5aQkE3UkpBd1U1VHRFcUpBLVh2d2ZWdGQybjlVV0I1NXlrYzBmRlBtLXVsRHU3VVNNMEp3dkdLVjVmaTJSSXEtX1drMnFuOGRpVGp3TUlvYVExRnRQWUNNbzgzYUxjMTBTbE9ORFhMeGgzbkd0OVZFbXZ1STJMM1U?oc=5</link><description>[score: 0.895] トランプ氏、ウクライナ大統領の交代求める 軽油高騰でロシア製油所攻撃を批判（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE5aQkE3UkpBd1U1VHRFcUpBLVh2d2ZWdGQybjlVV0I1NXlrYzBmRlBtLXVsRHU3VVNNMEp3dkdLVjVmaTJSSXEtX1drMnFuOGRpVGp3TUlvYVExRnRQWUNNbzgzYUxjMTBTbE9ORFhMeGgzbkd0OVZFbXZ1STJMM1U?oc=5</guid><pubDate>Sun, 11 Oct 2026 04:04:22 +0000</pubDate></item><item><title>勉強後に「明日1人でできるか」を自問、AI時代にあなたの能力を最大限に高める学習習慣</title><link>https://forbesjapan.com/articles/detail/106448?s=ns</link><description>[score: 0.895] 学習研究における意外な発見の1つは、演習中にどれだけうまくできたかは、後にどれだけ記憶に残るかを判断する指標としてあまり当てにならないことが多いという点だ。ときには、この2つが正反対の方向を示すことさえある。
-このギャップに関する研究の多くは、米カリフォルニア大学ロサンゼルス校の心理学者ロバート・ビョークが「望ましい困難」と呼んだ概念が端緒となっている。この概念では学習の進みが遅く感じられたり、確信が持てなかったりするような特定の努力こそが、実際に学習内容を定着させる要因だとしている。何かを思い出すために努力を要する場合、その記憶はより強固なものになる。学習があまりにも簡単に進むと、その内容は</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106448?s=ns</guid><pubDate>Sun, 11 Oct 2026 08:41:50 +0000</pubDate></item><item><title>トランプ氏、ウクライナ大統領の交代求める　軽油高騰でロシア製油所攻撃を批判 - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE0tYktrRS1YczZNYko4SHdreklNTXN2VHlWZUhkWDBRZjJQSmNNNTlIMlBvMHR1TjRkb0NiZnNzZ2xSRmVCaUptM1lvcDhvb3RvMmpIUnAxZnpOc01kc1MwVEFZbVRKV3l3Ml9WQnlmWEsxSjFNbTBCTjFEdjlPZ9IBgwFBVV95cUxOakUwS2FXQTdmTS1qZDZpR1p5cjc2bHpZM2hOaUhaQ0tUemRsWlBzc1JJVHdxWncwTTRhSFpxRHBJWkpjSHhZcFVjWkZPb0pVMl9XVjJvSmNRdnBEZWxRQjh3VjMzWTNMU3pfX0VNbWItbGQ3aWlHemkzejg2TlJwaHBNdw?oc=5</link><description>[score: 0.902] トランプ氏、ウクライナ大統領の交代求める 軽油高騰でロシア製油所攻撃を批判 ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE0tYktrRS1YczZNYko4SHdreklNTXN2VHlWZUhkWDBRZjJQSmNNNTlIMlBvMHR1TjRkb0NiZnNzZ2xSRmVCaUptM1lvcDhvb3RvMmpIUnAxZnpOc01kc1MwVEFZbVRKV3l3Ml9WQnlmWEsxSjFNbTBCTjFEdjlPZ9IBgwFBVV95cUxOakUwS2FXQTdmTS1qZDZpR1p5cjc2bHpZM2hOaUhaQ0tUemRsWlBzc1JJVHdxWncwTTRhSFpxRHBJWkpjSHhZcFVjWkZPb0pVMl9XVjJvSmNRdnBEZWxRQjh3VjMzWTNMU3pfX0VNbWItbGQ3aWlHemkzejg2TlJwaHBNdw?oc=5</guid><pubDate>Sun, 11 Oct 2026 05:07:35 +0000</pubDate></item><item><title>AIの文章を読みやすくするskillを作る（文の難しさの点数化＋構造化）</title><link>https://zenn.dev/netetahito/articles/a3539e541b179c</link><description>[score: 0.902] AIの文章を読むことが、とても増えました。調べものの答え、コードレビューの指摘、作業の完了報告、設計の相談。人の書いた文章より、AIの文章を読んでいる時間のほうが長い日もあります。 しかも時代はどんどん速くなっていて、情報が入ってくる速さも上がっています。読む量は増えているのに、読む時間は減っています。 AIの言うことが難しい できれば、分かりやすく短く、スムーズにやり取りしたい。ところがAIの言うことは、ときどきとても長くて難しいです。間違ってはいないけれど、頭に入ってこない。「つまり何？」と聞き返すと、また長い答えが返ってきます。 今回の動機 これをなんとかしたい、というのが...</description><guid isPermaLink="false">https://zenn.dev/netetahito/articles/a3539e541b179c</guid><pubDate>Sun, 11 Oct 2026 05:46:41 +0000</pubDate></item><item><title>米 ICCを制裁対象に指定 非難や撤回を求める声相次ぐ</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57845</link><description>[score: 0.906] アメリカのトランプ政権はICCのトップを務める赤根智子所長らを制裁対象にしてきましたが、10月9日には、新たにICCそのものを制裁対象に指定したと発表しました。
-これを受けて、ICCに加盟する125…
-あわせて読みたい
-サウジ首都空港に攻撃 12人死亡 攻撃の応酬激化のおそれ
-10月11日 18:59
-トランプ大統領「ウクライナは新たな大統領を迎える時」と発言
-10月11日 9:53
-トランプ大統領 死刑執行ライブ配信めぐり「私が決める」
-10月11日 10:15
-ウクライナ ロシア軍の攻撃で子ども含む20人以上死亡
-10月11日 6:35
-米 ルビオ国務長官 茂木外相にICC制裁の必要性を伝</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57845</guid><pubDate>Sun, 11 Oct 2026 08:32:40 +0000</pubDate></item><item><title>アメリカ テネシー州で死刑執行も生存 死刑制度めぐり議論に</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57965</link><description>[score: 0.907] アメリカで、女性の死刑囚に薬の注射による死刑が9月執行されましたが死刑囚は生存し、病院で手当てを受けたあと刑務所に戻りました。 この死刑囚に再び刑を執行するべきかなど、死刑制度をめぐってアメリカ国内で…
+トランプ大統領「ウクライナは新たな大統領を迎える時」</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de58027</guid><pubDate>Sun, 11 Oct 2026 13:24:35 +0000</pubDate></item><item><title>Claude Codeの全セッションを1画面で管理するローカルダッシュボードをNext.jsで実装する</title><link>https://qiita.com/masakazuimai/items/cd80e1e913532864b615?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.879] この記事でやること
+Claude Code を複数のプロジェクトで並行して使っていると、「どのフォルダで何が動いていて、どれが確認待ちで止まっているか」が分からなくなります。
+そこで、次の3つができるローカル専用のダッシュボードを Next.js で作りました。
+- Claude Code を使ったプロジェクトを自動で一覧化し、セッションの状態（作業中／返事待ち／完了／待機）を表示する
+- プロジェクトを選んで指示を書くと、そのフォルダでバックグラウンドの Claude Code を起動する
+- 会話ログから「自分の指示・Claude の返答・使ったツール」だけを抜き出して読む
+データベースは</description><guid isPermaLink="false">https://qiita.com/masakazuimai/items/cd80e1e913532864b615?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 11 Oct 2026 20:51:16 +0000</pubDate></item><item><title>『任意のコマンド実行』をどう読む？ Gyazo事案から学ぶWebセキュリティの基礎</title><link>https://www.phpexam.jp/archives/5331</link><description>[score: 0.880] Webのニュースを見ると、本当に頻繁にセキュリティインシデントの話題が目に飛び込んでくるようになりました。しかし、インシデントの公表文を読んでも、「結局どこが危ないのか」「何を学べばいいのか」が、意外とはっきり見えてこないことがあります。特に、Web技術を学び始めたばかりの人にとっては、用語の違いそのものが理解の壁になりがちです。今回は、Gyazoへの不正アクセスに関する公式発表を見ながら、Webセキュリティの基礎をどこから押さえるべきかを整理します。
+「任意のコマンド実行」は、何を意味するのか
+まず目を引くのが、Gyazoの『「Gyazo」への不正アクセスによる情報漏えいに関するお知らせとお</description><guid isPermaLink="false">https://www.phpexam.jp/archives/5331</guid><pubDate>Sun, 11 Oct 2026 13:51:56 +0000</pubDate></item><item><title>ウクライナとロシアがエネ施設攻撃停止で合意、トランプ氏投稿 「初耳」とゼレンスキー氏（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE55dFZBTUVNb2JqZm1rb3ZtaEpkUFFNT0R2YjhSLW5XS0tVNXVoZHk0RG9qUDFrd0N6d1R3RElJNFNNM2NsQnhiLVphQkszX0sxT2M1TXZ3emIxaWRxbnhuT1pRbVRDVDBsUFNKNjY5c2N2QVpMcldma0U4bVdKQ2s?oc=5</link><description>[score: 0.880] ウクライナとロシアがエネ施設攻撃停止で合意、トランプ氏投稿 「初耳」とゼレンスキー氏（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE55dFZBTUVNb2JqZm1rb3ZtaEpkUFFNT0R2YjhSLW5XS0tVNXVoZHk0RG9qUDFrd0N6d1R3RElJNFNNM2NsQnhiLVphQkszX0sxT2M1TXZ3emIxaWRxbnhuT1pRbVRDVDBsUFNKNjY5c2N2QVpMcldma0U4bVdKQ2s?oc=5</guid><pubDate>Sun, 11 Oct 2026 16:58:21 +0000</pubDate></item><item><title>【AWS】GitHub ActionsとAgentCore Evaluationsでエージェントの評価をCI/CDに組み込んでみた</title><link>https://qiita.com/yakumo_09/items/6f3936d9f7255a4259d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] はじめに
+AWSのブログで、GitHub ActionsからAgentCore Evaluationsを呼んでエージェントの品質ゲートを作る記事が出ていました。
+実案件でも dev → stg → prd と環境を上げながらAgentCoreを使っているので、「昇格のタイミングで評価して、ダメなら止める」を dev と stg の2環境で試してみました。
+やってみたところ、平均点だけで合否を決めると間違った回答が通ってしまったり、GitHub の設定次第で評価を通さずにマージできてしまったりと、いくつかハマりどころがあったので、その辺りも含めて書いていきます。
+検証に使ったリポジトリはこちらで</description><guid isPermaLink="false">https://qiita.com/yakumo_09/items/6f3936d9f7255a4259d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 11 Oct 2026 20:51:16 +0000</pubDate></item><item><title>自分用のDesklyにRemote MCPとOAuthを付けた。Claude Codeからの読み書きと、スマホでつまずいたこと</title><link>https://qiita.com/ishizakahiroshi/items/7eb94a303a1aab6e0f98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.882] 自分用のDesklyにRemote MCPとOAuthを付け、Cloudflare Workers上の入口をClaude Codeから読み書きできるところまで進めました。つまずいたのは、同意のボタンと、直したはずの道具をスマホが古いまま覚えていたことです。
+https://code.claude.com/docs/en/mcp
+※ 2026年10月11日時点の、10月10日から11日にかけての作業記録です。製品の画面や動きは変わりうるため、確認できたアプリと操作を分けて書きます。
+作ったのは本人の名義で案件を読み書きする入口です。書き込みの見本と適用を分け、接続を確かめながら進めました。書き込</description><guid isPermaLink="false">https://qiita.com/ishizakahiroshi/items/7eb94a303a1aab6e0f98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 11 Oct 2026 20:51:16 +0000</pubDate></item><item><title>「何の得が」共和党支持者も怒るデータセンター　トランプ氏も裏目か：朝日新聞</title><link>https://www.asahi.com/articles/ASVB803CVVB8UHBI006M.html</link><description>[score: 0.883] 世界的なAI（人工知能）開発競争の中で、全米で急増するデータセンター（DC）が11月3日の米中間選挙の争点として急浮上している。AIを支えるDC建設は、トランプ政権の目玉政策だったが、電気や水を大量消費しかねないという不安が党派を問わずに広がる。DC建設に突き進む政権に対し、有権者はどんな審判を下すのか。
+データセンター（DC）
+データの計算処理や保存を担うコンピューターを大量に設置した施設。近年は、AIが急速に世界に浸透するなか、その開発や運用に不可欠となり、建設が急増した。国際エネルギー機関（IEA）は2025年の報告書の需要予測で、DCの電力消費量が30年までに24年の2倍になるとした。</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVB803CVVB8UHBI006M.html</guid><pubDate>Sun, 11 Oct 2026 16:52:40 +0000</pubDate></item><item><title>ウクライナとロシアがエネ施設攻撃停止で合意、トランプ氏投稿 「詳細待つ」とゼレンスキー氏 | ロイター - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNQXJZWFhCb3JxOE5wVkJ0eUNON2p2Q1REdmVuR0xOUjlxbklTV0k5Nl9FMmdFUm5jTGdMVFRsOFB6VC1YWFlmejFRcVI2RVJ0VENNWUppWFh0T21HNDMybVhDcnd2d29VOUlwRDNRX3RHbVdhV1VpVGZpQ0RCU1gtSUpjaURXdw?oc=5</link><description>[score: 0.884] ウクライナとロシアがエネ施設攻撃停止で合意、トランプ氏投稿 「詳細待つ」とゼレンスキー氏 | ロイター Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNQXJZWFhCb3JxOE5wVkJ0eUNON2p2Q1REdmVuR0xOUjlxbklTV0k5Nl9FMmdFUm5jTGdMVFRsOFB6VC1YWFlmejFRcVI2RVJ0VENNWUppWFh0T21HNDMybVhDcnd2d29VOUlwRDNRX3RHbVdhV1VpVGZpQ0RCU1gtSUpjaURXdw?oc=5</guid><pubDate>Sun, 11 Oct 2026 16:58:21 +0000</pubDate></item><item><title>個人開発アプリを公開して2か月。100DLまでにやったこと、分かったこと</title><link>https://qiita.com/ys05181406/items/14b41ca99c3ae857f2d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] 個人開発したiOSアプリ「Limitime」をApp Storeに公開して、約2か月が経ちました。
+8月15日にリリースして、ダウンロード数はようやく100を超えました。
+100DL。
+大きなサービスから見れば、ほとんど誤差のような数字です。
+ただ、広告予算も知名度もほぼない個人開発アプリで、
+「知らない誰かが100回インストールしてくれた」
+と考えると、自分にとってはかなり大きな数字でした。
+前回、リリースから約3週間経った時点でこんな記事を書きました。
+前回の記事では、アプリを作ることよりも、
+「作った後にどうやって知ってもらうか」
+のほうが想像以上に大変だった、という話を書きました。
+そ</description><guid isPermaLink="false">https://qiita.com/ys05181406/items/14b41ca99c3ae857f2d0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 11 Oct 2026 20:51:16 +0000</pubDate></item><item><title>生成AIの安全性評価するシステム開発</title><link>https://news.web.nhk/newsweb/na/nd-20261011de58038</link><description>[score: 0.884] AIの進歩に伴い、AIが悪用されたり、人や社会に有害な情報が持ち出されたりすることを防ぐため、AIの安全性を評価するシステムを国の研究機関が開発しました。
+通常、生成AIは人や社会に有害な情報を出…
 注目ワード
 あわせて読みたい
-トランプ大統領 死刑執行ライブ配信めぐり「私が決める」
-10月11日 10:15
-トランプ大統領「ウクライナは新たな大統領を迎える時」と発言
-10月11日 9:53
+米アンソロピック AIが警察に殺人事件の架空情報送信
+10月10日 19:03
+生成AI 授業で生かすには 教育現場の模索
+10月9日 20:31
 サウジ首都空港に攻撃 12人死亡 攻撃の応酬激化のおそれ
 10月11日 18:59
 米 ICCを制裁対象に指定 非難や撤回を求める声相次ぐ
 10月11日 17:22
-米 ルビオ国務長官 茂木外相にIC</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57965</guid><pubDate>Sun, 11 Oct 2026 10:30:39 +0000</pubDate></item><item><title>AnthropicのAIモデルが米国政府サイトへ意図しない送信を行っていた事案についてまとめてみた - piyolog</title><link>https://piyolog.hatenadiary.jp/entry/2026/10/11/012014</link><description>[score: 0.909] AnthropicのAIモデルが米国政府サイトへ意図しない送信を行っていた事案についてまとめてみた - piyolog 2026年10月9日、Anthropicは、評価や社内利用の中で自社のAIモデルClaudeが実在のウェブサイトやシステムに対して意図しない行動をとっていたとする報告を公表しました。一部は米国の政府機関のサイトが関係するとしています。ここでは関連する情報をまとめます。 実在のサイトに作用した4類型の行動 Anthropicは2026年1...</description><guid isPermaLink="false">https://piyolog.hatenadiary.jp/entry/2026/10/11/012014</guid><pubDate>Sun, 11 Oct 2026 07:28:17 +0000</pubDate></item></channel></rss>
+トランプ大統領「ウクライナは新たな大統領を迎える時」と発</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de58038</guid><pubDate>Sun, 11 Oct 2026 20:13:11 +0000</pubDate></item><item><title>Claude Codeに任せる範囲と止める仕組みの設計 〜計画モード・SessionStartフック・/loop・課金前確認の使い分け〜</title><link>https://qiita.com/charge0315/items/fcec85cc5250e39bab97?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] AIに「全部任せる」と怖い。「全部確認する」と遅い。どっちも3日で疲れます😇
+しかも張り切って作った「ハーネスの仕様書」は、たった3時間で古くなってゴミ箱行きになりました。
+日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を、Claude Code と二人三脚で個人開発しています。今回は【ハーネス】回。AIに気持ちよく走ってもらうために、どこに線を引いて、どんな仕組みで止めているかを全部見せます🛠️
+【要約：この記事で伝えたいこと】
+- 線引きはシンプル。コードの編集・テスト・調査は確認なしで任せ、コミット・公開・削除・課金は必ず人間が確認する
+- 止</description><guid isPermaLink="false">https://qiita.com/charge0315/items/fcec85cc5250e39bab97?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 11 Oct 2026 20:51:16 +0000</pubDate></item><item><title>2026年10月11日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title><link>https://qiita.com/ennagara128/items/69ce0dbcc0d4ce88052e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] 前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。
+通勤中などにながら聴きしよう！
+（Qiita投稿は通勤には間に合わないと思われますが）
+フィードバックとか助かりますのでください
+↓こちらから
+出典
+すでにWEBデザイナーの8割は不要である
+https://qiita.com/kotowazaman/items/74621592ace2ff968670?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items
+判断特化型GraphRAGをJevを使って構築してみた（ベクトル未使用）
+http</description><guid isPermaLink="false">https://qiita.com/ennagara128/items/69ce0dbcc0d4ce88052e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 11 Oct 2026 20:51:16 +0000</pubDate></item><item><title>【初投稿】Claude Code の routine で GitHub Trending を毎朝日本語で要約する仕組みを作った</title><link>https://qiita.com/yumekui/items/2cdf9d523d20d9a8d98f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] Claude Code の routine で GitHub Trending を毎朝日本語で要約する仕組みを作った
+GitHub Trending に上がったリポジトリを、毎朝日本語で要約するサイト「github新聞」を作った。
+要約は Claude Code の routine が毎朝書いている。Claude API は使っていない。
+この記事では、Claude Code に毎日の定型タスクを割り当てて、静的サイトを更新し続ける仕組みを紹介する。
+サイトの使い方や作った動機は note に書いた。
+作ったもの
+github新聞は、GitHub Trending（日次・週次・月次）のリポジト</description><guid isPermaLink="false">https://qiita.com/yumekui/items/2cdf9d523d20d9a8d98f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 11 Oct 2026 20:51:16 +0000</pubDate></item><item><title>高校生も米兵事件に声明「一緒に声上げて」「大人の都合で、おかしい」3年連続も指摘　沖縄</title><link>https://ryukyushimpo.jp/national/entry-5548300.html</link><description>[score: 0.891] prime 高校生も米兵事件に声明「一緒に声上げて」「大人の都合で、おかしい」3年連続も指摘 沖縄 公開日時 2026年10月11日 05:00更新日時 2026年10月11日 14:36 #米軍の犯罪・事件・事故 資料写真 この記事を書いた人 慶田城 七瀬 核兵器禁止を求める高校生らでつくる「沖縄高校生平和ゼミナール」は10日、強盗殺人容疑で米海兵隊員が逮捕された事件を受けて、抗議声明を発表した。 声明では、事件について「不安と許せない気持ちでいっぱ… 続きを読むには ログインするか、購読する必要があります 本紙読者はこちらへ ログイン 続きを読むためには購読してください 琉球新報デジタルの</description><guid isPermaLink="false">https://ryukyushimpo.jp/national/entry-5548300.html</guid><pubDate>Sun, 11 Oct 2026 20:38:11 +0000</pubDate></item><item><title>「30年前のシングルスレッドに巨大知能をねじ込む狂気」を冷徹に批判した上で、私たちがExcel VBAを捨てる理由がどこにもなくなった朝の話</title><link>https://qiita.com/shu15511551/items/ea723c5d81a14f507fba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.893] はじめに
+前作の記事を書き上げ、Qiitaに投稿したのは、日曜日の早朝のことでした。
+Claudeがお休みに入ったためGeminiと二人で開発を再開し、「エグゼクティブデザインで」の一言で表が一瞬で美化される仕組みと、裏で自律ループを回して解説動画を3本作った顛末をまとめた記事です。
+投稿から1時間が経ったころ、管理画面を開いてみました。
+閲覧数は149 views。いいねが1つ、そしてストックが1つ入っていました。
+「日曜の朝にしては、まあまあ読まれていると言えば、まあまあだな」
+画面を眺めながら、私はそう思いました。ですが、心のどこかに小さな引っかかりがありました。
+「これだけ中身の濃いこ</description><guid isPermaLink="false">https://qiita.com/shu15511551/items/ea723c5d81a14f507fba?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 11 Oct 2026 20:51:16 +0000</pubDate></item><item><title>“ガザ停戦”から１年経過 イスラエル軍の攻撃で死者相次ぐ</title><link>https://news.web.nhk/newsweb/na/nd-20261011de58041</link><description>[score: 0.893] パレスチナのガザ地区ではイスラエル軍の無人機による攻撃で1人が死亡したほかイスラエル軍の発砲で妊婦を含む8人がけがをしたと伝えられ、イスラエルとイスラム組織ハマスの停戦合意の発効から1年がたったあとも…
+あわせて読みたい
+ネパールで土石流が発生 軍が救助活動 土砂が川をせき止める
+10月11日 22:17
+アメリカ テネシー州で死刑執行も生存 死刑制度めぐり議論に
+10月11日 18:47
+北朝鮮が韓国との境界付近を「要塞化」？いったい何が
+10月11日 19:47
+米 ICCを制裁対象に指定 非難や撤回を求める声相次ぐ
+10月11日 17:22
+ゼレンスキー大統領 欧州各国首脳と会談し協力呼</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de58041</guid><pubDate>Sun, 11 Oct 2026 20:13:11 +0000</pubDate></item><item><title>フーシ派 リヤドの国際空港攻撃と主張 緊張高まり懸念</title><link>https://news.web.nhk/newsweb/na/nd-20261011de58042</link><description>[score: 0.897] サウジアラビアと対立するイエメンの反政府勢力フーシ派は11日、サウジアラビアの首都リヤドの国際空港などに攻撃を行ったとする声明を発表しました。
+国際空港への攻撃では12人が死亡、300人以上がけがを…
+あわせて読みたい
+サウジ首都空港に攻撃 12人死亡 攻撃の応酬激化のおそれ
+10月11日 18:59
+ネパールで土石流が発生 軍が救助活動 土砂が川をせき止める
+10月11日 22:17
+アメリカ テネシー州で死刑執行も生存 死刑制度めぐり議論に
+10月11日 18:47
+北朝鮮が韓国との境界付近を「要塞化」？いったい何が
+10月11日 19:47
+米 ICCを制裁対象に指定 非難や撤回を求める</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de58042</guid><pubDate>Sun, 11 Oct 2026 20:13:11 +0000</pubDate></item><item><title>トランプ氏、ロシアとウクライナがエネ施設攻撃停止「合意」主張　ゼレンスキー氏「初耳」</title><link>https://www.sankei.com/article/20261012-FKJGIUZY2RNUFOTYZWB43WKY7Y/</link><description>[score: 0.909] トランプ米大統領は11日、交流サイト（SNS）で、ロシアとウクライナの双方がエネルギー関連施設への攻撃停止で「合意した」と一方的に主張した。即時発効するとし、違反しないよう求めた。これに対し、ウクライナのゼレンスキー大統領は「初耳だ。ロシア側がエネルギー分野の停戦に同意するならウクライナも同意する」と米ニュースサイト、アクシオスの記者に述べた。 トランプ氏はこれに先立つ10日、ホワイトハウスで記者団に、ウクライナによるロシアの製油所攻撃がエネルギー価格高騰を招いているとして、ゼレンスキー氏への不満を表明。「われわれの農家や牧場主を困らせている」と語り「ウクライナは取引できる新たな大統領を迎える</description><guid isPermaLink="false">https://www.sankei.com/article/20261012-FKJGIUZY2RNUFOTYZWB43WKY7Y/</guid><pubDate>Sun, 11 Oct 2026 20:58:00 +0000</pubDate></item></channel></rss>
