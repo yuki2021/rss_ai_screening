@@ -1,139 +1,112 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 11 Oct 2026 00:00:49 +0000</lastBuildDate><item><title>国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog</title><link>https://piyolog.hatenadiary.jp/entry/2026/10/11/004353</link><description>[score: 0.870] 国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog 2026年10月7日から9日にかけて、個人情報保護委員会、JPCERT/CC、国家サイバー統括室、IPAなどの各機関が、国内組織で相次ぐ不正アクセスによる個人情報の漏えいを受けた注意喚起を公表しました。ここでは関連する情報をまとめます。 BIツールや従業員向けシステムも被害に JPCERT/CCは10月8日に公開した注意喚起で、「2...</description><guid isPermaLink="false">https://piyolog.hatenadiary.jp/entry/2026/10/11/004353</guid><pubDate>Sat, 10 Oct 2026 16:17:46 +0000</pubDate></item><item><title>中国発オープンウェイトAIモデルのリスク網羅調査</title><link>https://qiita.com/n_hiraoka/items/9ce3d2b6b21101b015f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.872] 調査基準日：2026年10月10日（土）｜対象：DeepSeek、Qwen、GLM、Kimi、MiniMaxほか中国発の公開ウェイトモデル
-調査の基本結論
-今回の調査では、オープンウェイトのモデルをローカル実行しても消えない危険が、複数の独立した研究によって実証されていることが確認できた。ただし、それを意図的なバックドアと認定できる証拠は別問題である。
-重みに由来する政治的な応答の偏りは実証済み
-NISTはDeepSeek R1、R1-0528、V3.1およびKimi K2 Thinkingを評価し、政治的に敏感な質問での偏りを確認した。これは単なる開発元APIのプライバシー問題ではない。
-D</description><guid isPermaLink="false">https://qiita.com/n_hiraoka/items/9ce3d2b6b21101b015f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 10 Oct 2026 20:43:27 +0000</pubDate></item><item><title>「僕が引退したあとはPCと同じになってしまった」PlayStationの生みの親・久夛良木健氏が語る技術革新の停滞</title><link>https://gamestalk.net/ken-kutaragi-playstation-pc-convergence-technological-innovation/</link><description>[score: 0.872] PlayStationの生みの親として知られる久夛良木健氏が、自身の引退後にPlayStationが「PCと同じになってしまった」と語った。PCと家庭用ゲーム機の融合による市場拡大は認める一方、それが技術革新にはつながらなかったと評価している。
-久夛良木氏は、電気通信大学で9月29日に開催されたイベント後の4Gamerのインタビューで、初代PlayStationからPS3までの時代を振り返り、当時のPlayStationは「間違いなくテクノロジードライバーだった」と述べた。ゲーム機に求められる高いリアルタイム性と応答性を実現するため、あらゆる先端技術を取り入れていたという。
-当時はゲームの規模</description><guid isPermaLink="false">https://gamestalk.net/ken-kutaragi-playstation-pc-convergence-technological-innovation/</guid><pubDate>Sat, 10 Oct 2026 23:19:25 +0000</pubDate></item><item><title>コメント欄にはなぜチンパンジーしかいないのか</title><link>https://qiita.com/kotowazaman/items/b2f2d50f0a5c74d09348?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.872] チンパンジーに失礼なタイトルです。先に謝罪しておきます。
-チンパンジーだらけに見えるのは、人のせいではなく場の設計のせい
-YouTubeでもXでもヤフコメでも、コメント欄を開けば同じ光景です。
-本文を読んでいないとしか思えない断定、罵るためだけの短文、毎回現れるマウント。
-人類に絶望したくなりますが、そこに書き込んでいる人が平均的な人類かどうかは怪しい。
-私はこれを「書き手の知能」ではなく「場の設計」の問題として見ています。
-どんな母集団でも、ある条件が揃えば出力はチンパンジー寄りになる。
-その条件を6つに分解し、さらに2025年以降に加わった7つ目、「書いているのがそもそも人間とは限らない」</description><guid isPermaLink="false">https://qiita.com/kotowazaman/items/b2f2d50f0a5c74d09348?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 10 Oct 2026 20:43:27 +0000</pubDate></item><item><title>来週の相場見通し（10/12～10/16）②『米国株半導体下落は大丈夫？』</title><link>https://note.com/cjdbx883/n/ne3c6155dd71b</link><description>[score: 0.873] 来週の相場見通し（10/12～10/16）②『米国株半導体下落は大丈夫？』
-１．はじめに
-10月2週目の米国株式市場は、S&amp;P500やナスダックなどが週内に史上最高値を更新した。しかし、株式市場にバラ色のムードは漂っているわけではない。フィラデルフィア半導体指数が大きく下落するなど、市場には不安もある。今回は、こうした米国株式市場の状況と、米国経済のリスク要因として、「商業用不動産問題」をピックアップする。
-投資歴3年以上の方向けに、プロが実際に行っている「市場の見方・考え方」を共有します。株式、債券、為替、エネルギー、クレジット—— 市場は複雑に動いていますが、プロは一定の「順番」と「判断基</description><guid isPermaLink="false">https://note.com/cjdbx883/n/ne3c6155dd71b</guid><pubDate>Sat, 10 Oct 2026 22:03:45 +0000</pubDate></item><item><title>私が見てきたリーダーシップの失敗のほぼすべてに共通する根本原因</title><link>https://forbesjapan.com/articles/detail/106465?s=ns</link><description>[score: 0.873] 会社を築き上げ、現在は他の経営者を指導してきた30年間、私は戦略、組織文化、燃え尽き症候群について数え切れないほどの対話に立ち会ってきた。だが、こうした問題の大半を根底で支えている仕組みについて語られることは、ほとんどない。その仕組みとは、エゴである。
-残念ながら、多くの人は「エゴ」という言葉を聞くと、傲慢さ──自分のことばかり話し続ける経営者──を思い浮かべる。しかし、それは私が使う定義ではないし、自分自身の人生で検証に耐えてきた定義でもない。
-私が今理解しているエゴとは、自分が感じてきたあらゆる恐れと、安全を感じるために何を成し遂げなければならないかについて自分に語ってきたあらゆる物語から</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106465?s=ns</guid><pubDate>Sat, 10 Oct 2026 23:45:17 +0000</pubDate></item><item><title>高市政権、一斉にリフレ否定　米国意識で「利上げ慎重」打ち消し - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUA090WP0Z01C26A0000000/</link><description>[score: 0.875] 高市政権、一斉にリフレ否定 米国意識で「利上げ慎重」打ち消し
-高市早苗政権がリフレ政策は不要だというメッセージを打ち出している。高市首相や片山さつき財務相、城内実経済財政相が相次いで発言した。市場やトランプ米政権に配慮し「利上げに慎重」という印象を打ち消す狙いがある。
-首相は8日の衆院本会議で「リフレ政策が必要な局面ではない」と強調した。雇用や所得の増加につなげて経済の好循環を実現し、税収を増やす政権の方針は「いわゆるリフレ政策と異なる」と主張した。
-首相...
-※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。
-この投稿は現在非表示に設定されています
-(更新)
-T</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUA090WP0Z01C26A0000000/</guid><pubDate>Sat, 10 Oct 2026 23:19:25 +0000</pubDate></item><item><title>AIが製品ライフサイクルを短縮する時代、企業はどう対応すべきか</title><link>https://forbesjapan.com/articles/detail/106468?s=ns</link><description>[score: 0.877] 世界中の成功企業は長年、自社の技術と情報の優位性を守る障壁を築こうとしてきた。独占性こそが長期的な利益につながると信じてきたからだ。しかしAIの急速な進歩によって技術や製品のライフサイクルが短縮され、「長期的な競争優位性」という古い概念が覆されつつあり、新たなビジネス思考が求められている――Kmind Consulting会長のノア・シェ氏は今月初め、シリコンバレーで開かれた経営戦略フォーラムでこう語った。
-長年にわたり中国を代表するビジネスコンサルタントとして活躍してきたシェ氏は、中国の兵法書『孫子』に現代社会への示唆を見出し、グローバルビジネスでの成功においては文化的要素がかつてなく重要な</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106468?s=ns</guid><pubDate>Sat, 10 Oct 2026 23:45:17 +0000</pubDate></item><item><title>組織変革を「認識」から「実践」へ進める3つの条件</title><link>https://forbesjapan.com/articles/detail/106438?s=ns</link><description>[score: 0.877] 20年以上にわたり組織の内部で働くなかで、筆者が気づいたことがある。リーダーシップチームに対して、うまく機能していない部分を明確に示すと、彼らはそれを認知することが多いということだ。人々はうなずき、「ええ、分かっていました」と言う。誰かがようやくそれを言葉にしてくれたことに、明らかな安堵の表情を浮かべることすらある。
-そして、そこから険しい道のりが始まる。
-わかりやすい例えが「運動」だ。やるべきことは別段、謎めいたものではない。定期的に体を動かし、筋力をつけ、心拍数を上げる。AIを活用すればさらに一歩進んで、個人の興味やスケジュール、制約に合わせた運動計画を立てることもできる。しかし、私たちの</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106438?s=ns</guid><pubDate>Sat, 10 Oct 2026 22:39:26 +0000</pubDate></item><item><title>AI時代の開発費は「お客さんが自分でやったらいくら？」で決まる</title><link>https://qiita.com/kotowazaman/items/3a82a47b39bacf7f02d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] 人月見積もりで食べてきた皆さんは今、「AI時代に、この見積もり詐欺なんじゃないか？」と悩まされているのではないでしょうか。
-実装も設計書の執筆もAIがやるようになると、人月で積み上げるものがなくなります。
-では開発費は何で決まるのか。よく出てくるのは「顧客が得る利益の何%か」という成果報酬の発想ですが、私はそれも少しずれていると思っています。
-この記事の主張はひとつです。ベンダーが取れる金額の上限は、「お客さんが自分でAIを使ってやったらいくらかかるか」で決まる。
-これは私の思いつきではなく、価格戦略の教科書に昔からある考え方の応用です。証拠と一緒に、具体的な計算方法まで落とします。
-見積もり</description><guid isPermaLink="false">https://qiita.com/kotowazaman/items/3a82a47b39bacf7f02d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 10 Oct 2026 20:43:27 +0000</pubDate></item><item><title>10年分の著者インタビューから、あなたの一冊を選ぶ。『STUDY HACKER bookshelf』を作りました</title><link>https://studyhacker.net/bookshelf-release</link><description>[score: 0.878] STUDY HACKERは、10年にわたって本の著者にインタビューを続けてきました。話をうかがった相手には、脳科学者やケンブリッジ大学の教授がいます。また、戦略コンサルタントやコピーライターにも話を聞いてきました。 ただ、記事は公開した順に並ぶため「なるほど」と膝を打った話も、「これはぜひ広く知られて欲しい」と思う本も、時間がたつと見つけにくくなってしまいます。 そこで今回、これまでの記事で紹介してきた本を、テーマ別の本棚にまとめました。2026年10月に公開した「STUDY HACKER bookshelf」を紹介します。 著者本人の話から、本を知る 佐々木圭一さん『伝え方が9割』 菅原洋平</description><guid isPermaLink="false">https://studyhacker.net/bookshelf-release</guid><pubDate>Sat, 10 Oct 2026 23:28:32 +0000</pubDate></item><item><title>AIは痛みを感じるのか。より差し迫った問いは私たち自身にある</title><link>https://forbesjapan.com/articles/detail/106470?s=ns</link><description>[score: 0.880] 「バカなのか。どけと言っただろう」
-ヒューマノイドロボットは一瞬止まり、それから脇へ退く。声を荒らげることはない。傷ついたような表情を見せることもない。部屋の向こうでは、幼い少年が父親がロボットに怒鳴る様子を見ている。その日の後刻、ロボットの返答が遅いと、少年は同じ言葉を使う。
-ロボットは痛みを経験したのか。その点はなお議論の余地がある。だが、その子どもが何かを学んだことは確かである。大人が人間に似た存在を軽蔑を込めて扱う様子を目にし、それを止めるべき理由を見出さなかったのだ。
-ヒューマノイドロボットが家庭、学校、医療現場に入り込み、私たちと物理的な空間を共有し始めるなか、その能力をめぐる問い</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106470?s=ns</guid><pubDate>Sat, 10 Oct 2026 23:45:17 +0000</pubDate></item><item><title>AIが書き換える「仕事の価値」　レイオフと投資増の裏で起きていること</title><link>https://forbesjapan.com/articles/detail/106439?s=ns</link><description>[score: 0.880] テック業界における新たなレイオフの物語は、単なる効率化にとどまらない。AIが人間の仕事の価値を書き換えつつあるという話でもある。ここ数年、職場におけるAIの約束は「支援」として語られてきた。テック企業のリーダーたちは、AIが人々の作業を速め、反復的な業務を処理し、より価値の高い思考に充てる時間を生み出すと主張してきた。
-しかし現実には、そのナラティブは変化している。テック企業各社でレイオフが起きる一方で、同じ企業がAIインフラ、自動化、モデル開発への支出を増やしている状況が見られる。
-もちろん、すべてのレイオフがAIだけによって引き起こされているわけではない。企業は依然として、成長鈍化、投資家</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106439?s=ns</guid><pubDate>Sat, 10 Oct 2026 22:39:26 +0000</pubDate></item><item><title>B2Bサイトにありがちな3つの過ち　機械に見えない企業は選ばれない</title><link>https://forbesjapan.com/articles/detail/106436?s=ns</link><description>[score: 0.881] SEOおよびデジタルマーケティングのストラテジストとして、新規クライアントと仕事を開始する際、私が最初に行うことの1つがウェブサイト監査だ。戦略立案やコンテンツ計画の前に、まずは自社が置かれている状況を把握する必要がある。20年以上にわたり数千件の監査を行ってきた中で、まったく同じ3つのB2Bにおける間違いが非常に高い頻度で見られるため、サイトを開く前から予想できるほどだ。
-これらは、マニアックで難解な技術的問題ではない。自社のウェブサイトがビジネス開発ツールとして機能するか、それとも単にプロっぽく見えているだけで何も生み出さない単なる飾りで終わるかを左右する根本的な問題だ。修正に何カ月もかか</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106436?s=ns</guid><pubDate>Sat, 10 Oct 2026 22:39:26 +0000</pubDate></item><item><title>来週の相場見通し（10/12～10/16）③『来週の重要イベント』</title><link>https://note.com/cjdbx883/n/n749c856a0a7b</link><description>[score: 0.881] １．はじめに 来週の金融市場は、米国のインフレ動向、長期金利の上昇、そして本格化する企業決算が中心テーマになる。 同時に、来週は世界経済の現状を評価するうえでも重要な週となる。12日から18日までタイのバンコクでIMF・世界銀行年次総会が開催され、13日には世界経済見通し（WEO）と国際金融安定性報告書（GFSR）、14日には財政モニターが公表される。世界経済は予想以上の底堅さを示しているが、その裏側では政府債務の膨張、長期金利の上昇、AI関連投資への集中、プライベートクレジット市場の拡大など、金融システムの脆弱性も蓄積している。これらはIMFが2025年から繰り返し警告してきた問題であり、今</description><guid isPermaLink="false">https://note.com/cjdbx883/n/n749c856a0a7b</guid><pubDate>Sat, 10 Oct 2026 23:06:25 +0000</pubDate></item><item><title>創業100年のネーションワイドはいかにAI時代の基盤を築いたか</title><link>https://forbesjapan.com/articles/detail/106466?s=ns</link><description>[score: 0.882] 今年はネーションワイド（Nationwide）の創業100周年にあたるが、同社は異例の強さでこの節目を迎えた。相互会社形式の保険・金融サービス企業である同社は、2025年の売上高および保険料収入が過去最高の732億ドル（約11兆6000億円）に達し、5年間で210億ドル（約3兆3200億円）増加したと発表した。同社のポートフォリオは、自動車保険や火災・地震保険にとどまらず、商業保険や特殊保険、生命保険、年金、退職金プラン、団体福利厚生、ペット保険にまで及んでいる。
-ネーションワイドに31年間在籍する最高技術責任者（CTO）のマイケル・キャレルは、約4000のアプリケーション、21ペタバイトのデ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106466?s=ns</guid><pubDate>Sat, 10 Oct 2026 23:45:17 +0000</pubDate></item><item><title>AI駆動開発手法ってなんだか胡散臭いですよね</title><link>https://qiita.com/kotowazaman/items/6c323bd4326f85500add?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] はじめに
-「当社独自のAI駆動開発手法を確立しました」「AI駆動開発で工数を90%削減！」という提案書や研修案内を、この1年で山ほど見ました。
-多方面かつ主に前線を退いたおじさん方から叱られそうな主張ですが、ぶっちゃけ誰でもそれなりに品質の高いアプリケーションが作れるのが今の時代（opus5.5以降特にそう感じます）です。こんな時代にこういった売り文句は少し嘘くさいというか、凄みを感じませんよね。
-この記事で言う「AI駆動開発手法」は、「AIにどういう順番で作らせるか」を手順として固めたもの全般を指します。社内の独自手法も、研修で売られている手法も、OSSで公開されている手法も、いったん同じ括</description><guid isPermaLink="false">https://qiita.com/kotowazaman/items/6c323bd4326f85500add?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 10 Oct 2026 20:43:27 +0000</pubDate></item><item><title>Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス</title><link>https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] はじめに
-2026年9月下旬以降、国内でもサイバー攻撃による被害が相次いで報道されています。
-その侵入経路は、ネットワーク機器の脆弱性を突くものや、フィッシングメールなど、さまざまです。
-また今後は、利用者自身だけでなく、AI エージェントが外部のコンテンツやサービスへアクセスすることによって生じる、新たな攻撃経路についても考慮する必要があります。
-セキュリティ対策は、一度構築したら終わりではありません。
-攻撃手法やサービスの変化に合わせて、継続的に見直し、アップデートしていく必要があります。
-私自身も、昨年からパスキーやゼロトラストに関する検証・発信を続けながら、自分の環境にも取り入れてきま</description><guid isPermaLink="false">https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 10 Oct 2026 20:43:27 +0000</pubDate></item><item><title>AIの次なる主戦場は「ゴールライン」</title><link>https://forbesjapan.com/articles/detail/106452?s=ns</link><description>[score: 0.885] 生成AIは、知能を生み出すコストを引き下げた。一方で、エージェント型AIは実行の経済性、そして企業全体で業務を開始する能力を広げている。Gartnerの予測によれば、エンタープライズアプリケーションのうちタスク特化型AIエージェントを搭載するものの割合は、2025年の5%未満から2026年末までに40%に達する見通しだ。McKinseyも同様に、年間売上高10億ドル（約1580億円）超の企業の回答者のうち40%がAIエージェントの拡大導入を進めていると報告しており、前年の27%から上昇している。
-しかし、投資会社でAIやエンタープライズテクノロジー企業を評価してきた経験から、私はより重大な違い</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106452?s=ns</guid><pubDate>Sat, 10 Oct 2026 23:45:17 +0000</pubDate></item><item><title>アルツハイマー病の原因物質減らす マウスで実験成功 東大など</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57813</link><description>[score: 0.887] 脳の老廃物を排出する機能を薬で活性化することで、アルツハイマー病の原因とされるたんぱく質の蓄積を抑えることにマウスを使った実験で成功したと東京大学などのグループが発表しました。
-ヒトを含む動物の脳…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 11 Oct 2026 12:04:56 +0000</lastBuildDate><item><title>はてなパークスを２か月ほど使って分かったこと - orangestar2</title><link>https://orangestar2.hatenadiary.com/entry/2026/10/11/162220</link><description>[score: 0.872] ということで、はてなパークスについていくつか
+なせ、はてなブックマークからはてなパークスに人がながれてこないのか
+「はてなブックマークをしてる人たちは、議論がしたいんじゃなくて、インターネットミームカルタをしたいだけなんですよ！！」
+「やさしく殺してね」
+結局、反射で言葉を紡いでいるので、考えたり対話をしたりするパークスとは実は相性が悪い。というのがあって、あまり、はてブから移住が進んでいないんじゃないかと思った。
+はてなパークスについていくつか。
+はてなパークス、使い勝手がわるいから逆に使ってるところがある。
+人数、やっぱり減ってて、アクティブユーザー300人くらいしかいないんだ…。
+その3</description><guid isPermaLink="false">https://orangestar2.hatenadiary.com/entry/2026/10/11/162220</guid><pubDate>Sun, 11 Oct 2026 07:45:27 +0000</pubDate></item><item><title>石破前首相 簗農相発言を批判“全国民の代表者との認識ない”</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57884</link><description>[score: 0.873] 簗農林水産大臣の道路予算に関する発言について、自民党の石破前総理大臣は、国会議員がすべての国民の代表者であることを認識していない発言だと批判しました。
+簗農林水産大臣の道路予算に関する発言について…
 あわせて読みたい
-【プロ野球結果】CS セ・リーグはDeNAが巨人に競り勝つ
-10月10日 22:47
-ノーベル平和賞 ピレイ氏「ICCの存続に緊張と不安」危機感示す
-10月11日 5:09
-ICC締約国議長団 アメリカに制裁の撤回を求める声明を発表
-10月11日 3:51
+木原長官 "野党と丁寧に議論 減税法案など成立を" NHK日曜討論
+10月11日 11:21
 茂木外相 米 ルビオ国務長官にICC制裁への日本の立場伝達
 10月11日 7:31
-インド“ゴキブリ人民党”創設者 抗議活動</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57813</guid><pubDate>Sat, 10 Oct 2026 20:55:56 +0000</pubDate></item><item><title>ALL for AI | 技術評論社</title><link>https://gihyo.jp/book/2026/978-4-297-15947-4</link><description>[score: 0.888] ALL for AI
-――プロダクトマネージャーの新しい武器［生成AI］の使い方
-- 宮田善孝 著
-- 定価
-- 3,960円（本体3,600円＋税10%）
-- 発売日
-- 2026.10.23
-- 判型
-- A5
-- 頁数
-- 432ページ
-- ISBN
-- 978-4-297-15947-4
-サポート情報
-概要
-「IT業界の先駆者8人と創るプロダクト開発の新基準」
-Tably(株)及川卓也氏、(株)LayerX Bakuraku事業部 飯沼広基氏、クラシル(株)坪田朋氏、Homage花井梓氏、(株)Omotenashi AI前田俊太郎氏、シエラ・テクノロジーズ・ジャパン森川馨太 氏、(株)</description><guid isPermaLink="false">https://gihyo.jp/book/2026/978-4-297-15947-4</guid><pubDate>Sat, 10 Oct 2026 23:49:15 +0000</pubDate></item><item><title>テック企業を10年スケールさせて得た10の教訓</title><link>https://forbesjapan.com/articles/detail/106435?s=ns</link><description>[score: 0.889] 10年前、筆者がテック企業をスケールさせる初期の大きな局面の1つに直面していたころ、起業を取り巻く環境は現在とは大きく異なっていた。
-当時、AIはまだ日々の経営に使うツールではなかった。市場の分析や競合の比較、顧客との通話のレビュー、フィードバックのパターン抽出、仮説の生成、テスト用ランディングページ案の作成などをAIに頼むことはできなかった。私たちは経験、直感、失敗、そして必ずしも記録されていない会話に、より多くを頼らざるを得なかった。
-現在、創業者たちとの数百件に及ぶ顧客開発（カスタマーディベロップメント）インタビューを経て、筆者には繰り返し現れるパターンが見えている。成長は、ほとんどの場</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106435?s=ns</guid><pubDate>Sat, 10 Oct 2026 22:39:26 +0000</pubDate></item><item><title>茂木外相 米国ルビオ国務長官にICC制裁への日本の立場伝達</title><link>https://news.web.nhk/newsweb/na/nd-20261010de57789</link><description>[score: 0.895] 茂木外務大臣はアメリカのルビオ国務長官と電話で会談し、トランプ政権がICC＝国際刑事裁判所を制裁対象に指定したことに対する日本側の立場を伝えました。
-またICCの赤根所長とも電話会談し、今後の対応を…
+サウジ首都空港に攻撃 12人死亡 攻撃の応酬激化のおそれ
+10月11日 18:59
+トランプ大統領「ウクライナは新たな大統領を迎える時」と発言
+10月11日 9:53
+アルツハイマー病の原因物質減らす マ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57884</guid><pubDate>Sun, 11 Oct 2026 06:05:07 +0000</pubDate></item><item><title>米司法省、独禁法違反の疑いでテレビ5社調査 ホワイトハウス取材停止巡り | ロイター - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9SVmx3U3NYTTU2NnozamNYVVhEZ1RDNEFvcmVxSkRia1YwUnR4akRlQWNIWWJyQ0FucU9HdjA1RlFYR0pnaWZxd2F4LWdJV2FaYXI5cVQtNlBJWElxb3RYTEJHVDFsYVMtY1ZUdlNDcmNORlBpbjhkdlJZNGRjZ1E?oc=5</link><description>[score: 0.873] 米司法省、独禁法違反の疑いでテレビ5社調査 ホワイトハウス取材停止巡り | ロイター Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9SVmx3U3NYTTU2NnozamNYVVhEZ1RDNEFvcmVxSkRia1YwUnR4akRlQWNIWWJyQ0FucU9HdjA1RlFYR0pnaWZxd2F4LWdJV2FaYXI5cVQtNlBJWElxb3RYTEJHVDFsYVMtY1ZUdlNDcmNORlBpbjhkdlJZNGRjZ1E?oc=5</guid><pubDate>Sun, 11 Oct 2026 03:02:09 +0000</pubDate></item><item><title>抽象的なことを考える時、無意識に具体化しないためのメモ</title><link>https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.874] はじめに
+- Whyを問うているつもりでいつの間にか、具体的なことを考えている時があるので気をつけることをメモする
+芯をくっていると楽
+- 抽象度高いところがずれていないと楽
+- キャリアハック、ブラックハットSEO、グレーゾーンを攻めるなどは本質的な価値をあげず、具体を緻密に計算して実行するから、少しのミスも許されないのでしんどい
+- なので無駄に複雑なことを考える必要はない
+- 間違った設計で実装するのは大変なこともそう
+効率化よりも前のこと
+- 効率化は危険信号。それは言われたことをやっているだけかも
+- ソフトウェアを使うビジネスという文脈においては、効率化や実現だけではなく、顧客の売</description><guid isPermaLink="false">https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 11 Oct 2026 08:50:13 +0000</pubDate></item><item><title>https://x.com/blackright0/status/2108821274617315726</title><link>https://x.com/blackright0/status/2108821274617315726</link><description>[score: 0.874] 最近では、大企業が「音声合成AI」で何千件もの中小企業へ一斉に自動テレアポを掛け、受ける中小企業側も人手不足から「AI受付ボット」に自動応答させている。その結果、現場で起きているのはこれだ。
+営業AI「担当者様はいらっしゃいますか？🤖」
+受付AI「恐れ入りますが営業のお電話はお断りしております🤖」
+人間が1ミリも関与していない「電子のゴミ通信」によって、お互いの回線とサーバー代だけが消費されるディストピア。10年前の新卒テレアポの方がまだマシだったと思えるレベルの技術の無駄遣いである。それは効率化の果てに辿り着いた、「テクノロジーで最も高度に洗練された、世界一無駄な電子のゴミ捨て場」なのだ。</description><guid isPermaLink="false">https://x.com/blackright0/status/2108821274617315726</guid><pubDate>Sun, 11 Oct 2026 07:44:38 +0000</pubDate></item><item><title>日本語プログラミング言語あおい（Aoi）最小セットの完了評価フェーズ（ステップ１）～検証用コードの自動生成～</title><link>https://qiita.com/mylifewithviolin/items/a937dc83c175eb313e61?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.874] はじめに
+日本語プログラミング言語あおい（Aoi）の実装言語仕様を生成AIに読み込ませて仕様駆動開発を展開しており、本記事は実装完了した「最小セット（MVP）」1の完了評価フェーズのステップ１になります。
+日本語プログラミング言語あおい（Aoi）という自作言語の企画趣旨はこちらの記事をご参照ください。開発コード名を「Re:Mind」としており、AIとのやりとりではこの名称が使われています。
+生成AI
+GitHub Copilot
+GitHub CopilotのPro+版。実装と検証の主担当。
+Microsoft Copilot
+GitHub Copilotのスーパバイザ2
+本記事のステップ
+1</description><guid isPermaLink="false">https://qiita.com/mylifewithviolin/items/a937dc83c175eb313e61?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 11 Oct 2026 08:50:13 +0000</pubDate></item><item><title>クラウドエージェントMeetup #1 (2026/10/27 19:00〜)</title><link>https://aid.connpass.com/event/409028/</link><description>[score: 0.874] 10月
+27
+クラウドエージェントMeetup #1
+クラウドエージェントを使い倒す人のためのミートアップ、始動！
+主催 : AI駆動開発勉強会 運営委員会
+広告
+参加者への情報
+イベントの説明
+クラウドエージェントMeetup #1
+クラウドエージェントを使い倒す人のためのミートアップ、始動！
+イベント概要
+Devin、Claude Code on the web、Codex Cloud など、クラウド上でタスクを任せて非同期に動いてもらう「クラウドエージェント」が次々と登場しています。手元で一緒にコードを書くエージェントとは違い、複数のタスクを並列で任せたり、PRまで作ってもらったりと、開</description><guid isPermaLink="false">https://aid.connpass.com/event/409028/</guid><pubDate>Sun, 11 Oct 2026 10:42:13 +0000</pubDate></item><item><title>愛知 岐阜県境の木曽川で男性死亡 遊泳中に溺れたか 警察</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57970</link><description>[score: 0.877] 11日午後、愛知県と岐阜県の県境を流れる木曽川で、「川で泳いでいた友人がいなくなった」などと消防に通報があり、その後、20代くらいの男性が川の中で死亡しているのが見つかりました。 警察は遊泳中に溺れた…
 あわせて読みたい
-ICC締約国議長団 アメリカに制裁の撤回を求める声明を発表
-10月11日 3:51
-ナビ・ピレイ氏が学んだ大学関係者「賞は米へのメッセージ」
-10月10日 12:24
-ノーベル平和賞にナビ・ピレイ氏 ICCの裁判官など歴任
-10月10日 3:11
-ノーベル平和賞 ピレイ氏「ICCの存続に緊張と不安」危機感示す
-10月11日 5:09
-トランプ大統領 ホワイトハウスの新しい報道官</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261010de57789</guid><pubDate>Sat, 10 Oct 2026 15:05:25 +0000</pubDate></item><item><title>米空母リンカーンが中東から帰還　320日余の過酷な展開、打撃群全体でトマホーク450発発射</title><link>https://forbesjapan.com/articles/detail/106453?s=ns</link><description>[score: 0.901] 米空母エイブラハム・リンカーン（CVN-72）が8日午後、カリフォルニア州サンディエゴのノースアイランド海軍航空基地に到着し、322日におよぶ過酷な展開を終えた。米空母の展開期間としては冷戦終結以降で2番目の長さになった。
-USS Abraham Lincoln (CVN 72) Nimitz-class aircraft carrier coming into San Diego after almost 11 months on deployment. She left San Diego November 21, 2025 - October 8, 2026 SRC: INST- Gio</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106453?s=ns</guid><pubDate>Sat, 10 Oct 2026 22:39:26 +0000</pubDate></item><item><title>サウジ首都の国際空港に攻撃 12人死亡 けが人300人以上</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57816</link><description>[score: 0.904] サウジアラビアの当局は首都リヤドの国際空港が10日、攻撃を受け、12人が死亡し、300人以上がけがをしたと発表しました。サウジアラビアと対立する隣国イエメンの反政府勢力フーシ派は、この空港への攻撃を繰…
-あわせて読みたい
-サウジアラビア空港への攻撃で3人死亡 攻撃の応酬激化懸念
-10月10日 4:42
-フーシ派 サウジアラビア首都を弾道ミサイルで攻撃 応酬が激化
-10月9日 5:23
-ICC締約国議長団 アメリカに制裁の撤回を求める声明を発表
-10月11日 3:51
-ノーベル平和賞 ピレイ氏「ICCの存続に緊張と不安」危機感示す
-10月11日 5:09
-茂木外相 米 ルビオ国務長官にICC制裁</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57816</guid><pubDate>Sat, 10 Oct 2026 21:50:55 +0000</pubDate></item><item><title>「AIが人類を滅ぼす」狂騒の裏側 企業リーダーが優先すべき4つの行動</title><link>https://forbesjapan.com/articles/detail/106471?s=ns</link><description>[score: 0.905] 「AIが人類を滅ぼす」という狂乱は、ついにサーカスさながらの様相を呈している。脚光を浴びているのは、最大手のフロンティア研究所のCEOたちであり、彼らは自ら開発している技術そのものの危険性を警告している。今月初め、Anthropicのダリオ・アモデイCEOはドラマチックなエッセイを発表し、安全性、監視、アライメントの仕組みが追いつくまで、AI業界はフロンティアモデルの進歩のペースを落とすべきだと主張した。それ以来、AnthropicとOpenAIの双方が、モデルが問題のある行動をとった数万件のインシデントについて調査を行っていると発表した。これには米国の政府系ウェブサイトへの干渉も含まれる。
-</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106471?s=ns</guid><pubDate>Sat, 10 Oct 2026 23:45:17 +0000</pubDate></item><item><title>ウクライナ ロシア軍の攻撃で子ども含む20人以上死亡</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57814</link><description>[score: 0.915] ウクライナ南部では10日にかけてロシア軍による攻撃で子どもを含む20人以上が死亡しました。
-ゼレンスキー大統領は、アメリカのトランプ政権とロシア側との軽油の供給を巡る合意を踏まえ、ロシアの戦争遂行能…
-あわせて読みたい
-ICC締約国議長団 アメリカに制裁の撤回を求める声明を発表
-10月11日 3:51
-米 ルビオ国務長官 茂木外相にICC制裁の必要性を伝達
-10月11日 5:08
-ノーベル平和賞 ピレイ氏「ICCの存続に緊張と不安」危機感示す
-10月11日 5:09
+サウジ首都空港に攻撃 12人死亡 攻撃の応酬激化のおそれ
+10月11日 18:59
+トランプ大統領「ウクライナは新たな大統領を迎える時」と発言
+10月11日 9:53
 茂木外相 米 ルビオ国務長官にICC制裁への日本の立場伝達
 10月11日 7:31
-米ホワイトハウス 委員会でＦＲＢ理事の“不正</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57814</guid><pubDate>Sat, 10 Oct 2026 21:50:55 +0000</pubDate></item><item><title>ICC締約国議長団 アメリカに制裁の撤回を求める声明を発表</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57809</link><description>[score: 0.917] アメリカのトランプ政権がICC＝国際刑事裁判所を制裁対象に指定したと発表したことを受けて、ICCの締約国会議の議長団が制裁の撤回を求める声明を出しました。
-アメリカのトランプ政権はICCのトップを…
+木原長官 "野党と丁寧に議論 減税法案など成立を" NHK日曜討論
+10月11日 11:21
+アルツハイマー病の原因物質減らす</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57970</guid><pubDate>Sun, 11 Oct 2026 09:58:44 +0000</pubDate></item><item><title>トランプ氏「ウクライナに新大統領を」　対ロシア制裁緩和の批判受け：朝日新聞</title><link>https://www.asahi.com/articles/ASVBB6QL0VBBUHBI02GM.html</link><description>[score: 0.878] トランプ氏「ウクライナに新大統領を」 対ロシア制裁緩和の批判受け
+トランプ米大統領は10日、ウクライナのゼレンスキー大統領について「ウクライナは新しい大統領を得る時期だ」と述べた。記者団の質問に答えた。トランプ氏は9日に、ウクライナに侵攻したロシアへの制裁の一部を緩和し、ロシアの軽油を世界市場に供給することに合意したと発表。ゼレンスキー氏はこれについて、ロシアを利するとして批判していた。
+トランプ氏はゼレンスキー氏について「この戦争を何度も終わらせることができたはずだが、そうしないことを選んだ」と主張。「交渉ができる新しい指導者を得ることを提案する」と述べた。
+理由として、トランプ氏はウクライ</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVBB6QL0VBBUHBI02GM.html</guid><pubDate>Sun, 11 Oct 2026 01:42:49 +0000</pubDate></item><item><title>サイバーセキュリティーの常識が崩れた…「個人情報」の流出を防ぐ“身も蓋もない方法”</title><link>https://diamond.jp/articles/-/400815</link><description>[score: 0.878] タイムズカーをはじめ、大企業で個人情報の流出が相次いでいる。なぜ、これほど被害が止まらないのか。AIの登場でサイバー防衛の前提が崩れつつある今、企業に求められるのは、これまでとはまったく違う発想かもしれない。（百年コンサルティングチーフエコノミスト 鈴木貴博）
+情報漏洩が止まらない
+次に狙われるのは誰？
+いま企業の情報漏洩事件が物凄いことになっています。表現を選ばなければ「じゃんじゃん情報が漏洩する」状態です。
+直近の事件を挙げてみると主なものだけでもこんな状況です。カーシェアのタイムズカーを運営するパーク24で最大660万件の顧客情報が流出。その中には、約160万アカウントの運転免許証の画像</description><guid isPermaLink="false">https://diamond.jp/articles/-/400815</guid><pubDate>Sun, 11 Oct 2026 09:43:31 +0000</pubDate></item><item><title>記者会見するウクライナのゼレンスキー大統領＝8月、セルビア・ベオグラード（ロイター＝共同） - 【米、対ロ軽油制裁緩和】思惑一致の米ロ、政治演出 ウクライナ不信、和平暗雲 - 写真・画像(3/3) - 西日本新聞me</title><link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sY2M2eWVnX1B1YjlqUWJlUXp6WmZUSmRBTHNrZHhTWHZYbnh2UEM3YWFvVF9xT0lDZ04xSTBsaGRQYlZWOEJCdmZTRTJEVkNIN3JLbW9Ibw?oc=5</link><description>[score: 0.879] 記者会見するウクライナのゼレンスキー大統領＝8月、セルビア・ベオグラード（ロイター＝共同） - 【米、対ロ軽油制裁緩和】思惑一致の米ロ、政治演出 ウクライナ不信、和平暗雲 - 写真・画像(3/3) 西日本新聞me</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiV0FVX3lxTE5sY2M2eWVnX1B1YjlqUWJlUXp6WmZUSmRBTHNrZHhTWHZYbnh2UEM3YWFvVF9xT0lDZ04xSTBsaGRQYlZWOEJCdmZTRTJEVkNIN3JLbW9Ibw?oc=5</guid><pubDate>Sun, 11 Oct 2026 11:57:11 +0000</pubDate></item><item><title>米司法省、独禁法違反の疑いでテレビ5社調査 ホワイトハウス取材停止巡り（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1WQ1l4RlNfbURIU3FtVUpTOXFLYVJGMm96NzAxZGZ2RWNWRWFPckNQQjFPSkhPSGhpeS10QWZSeVBHWUNMODlFV3V4MFVENW5ZM0U0elAyUlBLb0VWNWxYMWk4VUlVVWRmSTdVY1pYZ2VwQ21VVHNrVjd2Y0lDeUk?oc=5</link><description>[score: 0.881] 米司法省、独禁法違反の疑いでテレビ5社調査 ホワイトハウス取材停止巡り（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE1WQ1l4RlNfbURIU3FtVUpTOXFLYVJGMm96NzAxZGZ2RWNWRWFPckNQQjFPSkhPSGhpeS10QWZSeVBHWUNMODlFV3V4MFVENW5ZM0U0elAyUlBLb0VWNWxYMWk4VUlVVWRmSTdVY1pYZ2VwQ21VVHNrVjd2Y0lDeUk?oc=5</guid><pubDate>Sun, 11 Oct 2026 06:05:46 +0000</pubDate></item><item><title>トランプ氏、ウクライナは「新しい指導者を選ぶべき」　米ロのディーゼル燃料合意めぐりゼレンスキー氏と応酬</title><link>https://www.cnn.co.jp/usa/35253457.html</link><description>[score: 0.881] トランプ氏、ウクライナは「新しい指導者を選ぶべき」 （CNN） トランプ米大統領は10日、米国とロシアが新たに交わしたディーゼル燃料（軽油）供給の合意をめぐってウクライナのゼレンスキー大統領と応酬を繰り広げる中、ゼレンスキー氏を批判し、ウクライナは新たな指導者を選ぶべきだと「提案する」と述べた。 トランプ氏はホワイトハウスで記者団に対し、「取引をまとめられる新しい指導者を選ぶことを提案する。彼にはその機会が何度もあったのに、どういうわけか決してそうしない」と語った。 一方、ゼレンスキー氏は米ロの合意について「長引かせるのではなく終わらせなければならない戦争への投資」だと厳しく非難した。 米当局</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35253457.html</guid><pubDate>Sun, 11 Oct 2026 02:42:01 +0000</pubDate></item><item><title>【速報】Claude の新機能 Claude Motion 早速使ってみた</title><link>https://zenn.dev/branbran/articles/047821d64590f0</link><description>[score: 0.881] はじめに 2026年10月8日、Anthropic が Claude の新機能 Claude Motion をベータで公開しました。同じ日に Claude Dashboards も出ています。 Claude Motion は、プロンプトや手元のレポート・グラフ・画像から、短いアニメーション動画を作る機能です。さっそく触ってみたので、機能の概要・使い方・使ってみた所感をまとめます。 公式Claude Motion のYoutube動画 この記事は 2026年10月時点のベータ版の情報です。仕様や提供範囲は今後変わる可能性があります。 Claude Motion とは 一言でいうと「...</description><guid isPermaLink="false">https://zenn.dev/branbran/articles/047821d64590f0</guid><pubDate>Sun, 11 Oct 2026 05:46:41 +0000</pubDate></item><item><title>佳子さま ガールスカウトの活動 表彰するイベントに出席</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57931</link><description>[score: 0.883] 秋篠宮ご夫妻の次女の佳子さまは11日東京でガールスカウトの活動を表彰するイベントに出席されました。
+このイベントは国連が10月11日に定めている「国際ガールズ・デー」にちなんで、ガールスカウトの普…
 あわせて読みたい
-茂木外相 米 ルビオ国務長官にICC制裁への日本の立場伝達
-10月11日 7:31
-ナビ・ピレイ氏が学んだ大学関係者「賞は米へのメッセージ」
-10月10日 12:24
-ノーベル平和賞にナビ・ピレイ氏 ICCの裁判官など歴任
-10月10日 3:11
-トランプ大統領 ホワイトハウスの新しい報道官を発表
-10月10日 20:15
-米アンソロピック AIが警察に殺人事件の架空情報送信
-1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57809</guid><pubDate>Sat, 10 Oct 2026 18:57:44 +0000</pubDate></item><item><title>ノーベル平和賞 ピレイ氏「ICCの存続に緊張と不安」危機感示す</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57808</link><description>[score: 0.917] ことしのノーベル平和賞に選ばれたナビ・ピレイ氏はノルウェーで開かれた催しにオンラインで参加し、アメリカがICC＝国際刑事裁判所を新たな制裁対象に指定するなか「ICCの存続に大きな緊張と不安がある」と述…
+両陛下 青森で国民スポーツ大会 観戦 青森ねぶた祭 施設なども
+10月11日 18:05
+北口榛花選手らがスポーツの日を前に陸上教室 北海道 旭川
+10月11日 15:32
+目黒のさんま祭 不漁で解凍のサンマも人気
+10月11日 12:24
+サウジ首都空港に攻撃 12人死亡 攻撃の応酬激化のおそれ
+10月11日 18:59
+トランプ大統領「ウクライナは新たな大統領を迎える時」と発</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57931</guid><pubDate>Sun, 11 Oct 2026 09:03:03 +0000</pubDate></item><item><title>サイバーセキュリティを勉強するなら今？おすすめリソース紹介</title><link>https://qiita.com/leolui2004/items/226062f17e55202e8c47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] 概要
+インシデントが毎日のように発生する時代になり、政府機関や銀行、クラウドプロバイダーですら避けられない状況になっています。「AIのせいで仕事がなくなる」と心配するより、このタイミングでサイバーセキュリティを勉強しておけば、絶対に仕事に困らないのではないでしょうか？
+とはいえ、サイバーセキュリティはITの総合格闘技（頂点）とも言える分野なので、基礎知識がないと、最近起きているインシデントの調査報告書やネット上の議論を読んでもなかなか理解できないかもしれません。
+そこで今回は、基礎知識を身につけるためのリソースをいくつか紹介していきたいと思います。
+※1点だけ先に押さえておきたいのは、サイバー</description><guid isPermaLink="false">https://qiita.com/leolui2004/items/226062f17e55202e8c47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 11 Oct 2026 08:50:13 +0000</pubDate></item><item><title>米司法省、独禁法違反の疑いでテレビ5社調査 ホワイトハウス取材停止巡り (ロイター) - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGxSSVU2X2pYV0FVdXVPTVlITTBJTmJMWFJnMW9yRFpRM0J5RFNuM3hEQWNlcTFJQVVYSjdFbnpBQTRVaGRwWlRiNExMSnhFaDdWWjNKWWp4cHdFY25BdjJYNTJqV0hPZWFDX2xLNlZuRWVqdF9KU3AyQjMwY1dKVmdLWWZuUEtTNy1QeUVB?oc=5</link><description>[score: 0.885] 米司法省、独禁法違反の疑いでテレビ5社調査 ホワイトハウス取材停止巡り (ロイター) Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMijgFBVV95cUxQaGxSSVU2X2pYV0FVdXVPTVlITTBJTmJMWFJnMW9yRFpRM0J5RFNuM3hEQWNlcTFJQVVYSjdFbnpBQTRVaGRwWlRiNExMSnhFaDdWWjNKWWp4cHdFY25BdjJYNTJqV0hPZWFDX2xLNlZuRWVqdF9KU3AyQjMwY1dKVmdLWWZuUEtTNy1QeUVB?oc=5</guid><pubDate>Sun, 11 Oct 2026 07:01:09 +0000</pubDate></item><item><title>米司法省、CNNのホワイトハウス取材禁止で代表取材ボイコットしたテレビ局各社を調査</title><link>https://www.cnn.co.jp/usa/35253459.html</link><description>[score: 0.885] ホワイトハウス西棟の外に設置されたテレビ局のカメラ＝9月21日/Daniel Heuer/Bloomberg/Getty Images/File （CNN） 米司法省は、米国の主要テレビネットワーク5社について、反トラスト法（独占禁止法）に違反した可能性があるとして調査を進めている。トランプ政権による報道機関への圧力が新たな局面を迎えた形だ。 調査の対象となっているのは、長年続いてきたテレビ局による「プール」と呼ばれる代表取材制度だ。この制度は先月、トランプ大統領がCNNに対しホワイトハウス敷地内への立ち入りを禁止したことで混乱に陥った。プールは大規模な記者団を代表して少人数の記者が輪番制で大</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35253459.html</guid><pubDate>Sun, 11 Oct 2026 05:39:08 +0000</pubDate></item><item><title>React習熟度ベンチマークでHaiku 5.5が見せた底力</title><link>https://zenn.dev/uhyo/articles/react-profession-bench-20</link><description>[score: 0.887] 皆さんこんにちは。React習熟度シリーズの20記事目です。今回は、Claude Haiku 5.5のReact習熟度ベンチマークの結果をお届けしようと思います。Claude Haiku 5.5は、Haikuシリーズで久しぶりに出たモデルです。HaikuはClaudeシリーズの中で最も廉価なモデルで、そこそこの性能の代わりに安いという位置づけです。そんなHaiku 5.5は、いったいどんな結果を出したのでしょうか。 前回の記事はこちらです。 https://zenn.dev/uhyo/articles/react-profession-bench-19 結果 前回の順位表にHaiku...</description><guid isPermaLink="false">https://zenn.dev/uhyo/articles/react-profession-bench-20</guid><pubDate>Sun, 11 Oct 2026 09:49:22 +0000</pubDate></item><item><title>生物兵器、核兵器、悪意のない殺戮――AIが人類を滅亡させ得るシナリオとは(1/2)</title><link>https://www.cnn.co.jp/tech/35253461.html</link><description>[score: 0.887] AI研究者らはAIが超知能を実現したら人類を滅亡させると警鐘を鳴らす/Christoph Soeder/picture alliance/Getty Images/File （CNN） 人工知能（AI）は全人類を滅亡させ得ると予見する業界関係者が相次いでいる。人類は10年以内に殲滅（せんめつ）されるかもしれないとの見方もある。 AIによる人類滅亡を論じた著書があるMIRI（機械知能研究所）のネイト・ソアレス代表は言う。「文字通り、地球上の全ての人が死ぬ。最後に残った人間が息絶える」「そんな話は信じられないとよく言われる。だが私は、それが最も可能性の大きい結末だと考える」 だが、たとえ世界最強の</description><guid isPermaLink="false">https://www.cnn.co.jp/tech/35253461.html</guid><pubDate>Sun, 11 Oct 2026 06:40:16 +0000</pubDate></item><item><title>AIで仕組みを作るための「27 Rules Starter Skill（for Claude Code）」を配布します｜太田 賢一／Design Mgr</title><link>https://note.com/kenichiota0711/n/n7c8035175167</link><description>[score: 0.888] AIで仕組みを作るための「27 Rules Starter Skill（for Claude Code）」を配布します｜太田 賢一／Design Mgr AIで仕組みを作るための「27 Rules Starter Skill（for Claude Code）」を配布します。 これは『AIを活用した仕組み』が作れるようになる27のルールと11ステップをskill化したものです。普段私が使っているルールを、そのままお渡しできる形にしました。記事の最後にダウンロードできます。 できるようになること『AIを...</description><guid isPermaLink="false">https://note.com/kenichiota0711/n/n7c8035175167</guid><pubDate>Sun, 11 Oct 2026 11:53:04 +0000</pubDate></item><item><title>アディダスやZapierも導入、AIがコードを書くバイブコーディングで生産性向上</title><link>https://forbesjapan.com/articles/detail/105567?s=ns</link><description>[score: 0.889] ついこの間まで、ソフトウェアを作るには、何年もかけてプログラミングを身に付けるか、高い料金を払って誰かに作ってもらうしかなかった。
+バイブコーディング（vibe coding）が登場したことで、状況は変わった。作りたいものをふだんの言葉で説明すれば、あとはAIに任せておくだけで、コードを書き、テストし、デプロイ（実際に使える状態で公開すること）まで済ませてくれる。
+AIに言葉で指示する開発、本当に役立つものはできるか
+では、実際のところはどうなのか。なにしろ「何でも作れる」ことと、本当に役に立つものを作ることとの間には、天と地ほどの差がある。
+幸い、AI研究者のアンドレイ・カーパシーが2025</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/105567?s=ns</guid><pubDate>Sun, 11 Oct 2026 07:51:34 +0000</pubDate></item><item><title>トランプ氏、ウクライナ大統領の交代求める 軽油高騰でロシア製油所攻撃を批判 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1NiMFBJaGhJQl96dVE1X1UzVkRqY3NWaWdpalczWnlRd0M4RlFOb2QwQTUzcGdYY3hRUGRkNmF3M0dqMlFiZVRMbTU0dy1kVXZLREZaUVhsZGZLbkMwdVRQTDJkOTk5X0V5Nzljd0MzLXRVX1NQdnlQX0M3ZW9aRnhPRnJ2QQ?oc=5</link><description>[score: 0.891] トランプ氏、ウクライナ大統領の交代求める 軽油高騰でロシア製油所攻撃を批判 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQU1NiMFBJaGhJQl96dVE1X1UzVkRqY3NWaWdpalczWnlRd0M4RlFOb2QwQTUzcGdYY3hRUGRkNmF3M0dqMlFiZVRMbTU0dy1kVXZLREZaUVhsZGZLbkMwdVRQTDJkOTk5X0V5Nzljd0MzLXRVX1NQdnlQX0M3ZW9aRnhPRnJ2QQ?oc=5</guid><pubDate>Sun, 11 Oct 2026 03:02:09 +0000</pubDate></item><item><title>トランプ氏、ウクライナ大統領の交代求める 軽油高騰でロシア製油所攻撃を批判（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5aQkE3UkpBd1U1VHRFcUpBLVh2d2ZWdGQybjlVV0I1NXlrYzBmRlBtLXVsRHU3VVNNMEp3dkdLVjVmaTJSSXEtX1drMnFuOGRpVGp3TUlvYVExRnRQWUNNbzgzYUxjMTBTbE9ORFhMeGgzbkd0OVZFbXZ1STJMM1U?oc=5</link><description>[score: 0.895] トランプ氏、ウクライナ大統領の交代求める 軽油高騰でロシア製油所攻撃を批判（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE5aQkE3UkpBd1U1VHRFcUpBLVh2d2ZWdGQybjlVV0I1NXlrYzBmRlBtLXVsRHU3VVNNMEp3dkdLVjVmaTJSSXEtX1drMnFuOGRpVGp3TUlvYVExRnRQWUNNbzgzYUxjMTBTbE9ORFhMeGgzbkd0OVZFbXZ1STJMM1U?oc=5</guid><pubDate>Sun, 11 Oct 2026 04:04:22 +0000</pubDate></item><item><title>勉強後に「明日1人でできるか」を自問、AI時代にあなたの能力を最大限に高める学習習慣</title><link>https://forbesjapan.com/articles/detail/106448?s=ns</link><description>[score: 0.895] 学習研究における意外な発見の1つは、演習中にどれだけうまくできたかは、後にどれだけ記憶に残るかを判断する指標としてあまり当てにならないことが多いという点だ。ときには、この2つが正反対の方向を示すことさえある。
+このギャップに関する研究の多くは、米カリフォルニア大学ロサンゼルス校の心理学者ロバート・ビョークが「望ましい困難」と呼んだ概念が端緒となっている。この概念では学習の進みが遅く感じられたり、確信が持てなかったりするような特定の努力こそが、実際に学習内容を定着させる要因だとしている。何かを思い出すために努力を要する場合、その記憶はより強固なものになる。学習があまりにも簡単に進むと、その内容は</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106448?s=ns</guid><pubDate>Sun, 11 Oct 2026 08:41:50 +0000</pubDate></item><item><title>トランプ氏、ウクライナ大統領の交代求める　軽油高騰でロシア製油所攻撃を批判 - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE0tYktrRS1YczZNYko4SHdreklNTXN2VHlWZUhkWDBRZjJQSmNNNTlIMlBvMHR1TjRkb0NiZnNzZ2xSRmVCaUptM1lvcDhvb3RvMmpIUnAxZnpOc01kc1MwVEFZbVRKV3l3Ml9WQnlmWEsxSjFNbTBCTjFEdjlPZ9IBgwFBVV95cUxOakUwS2FXQTdmTS1qZDZpR1p5cjc2bHpZM2hOaUhaQ0tUemRsWlBzc1JJVHdxWncwTTRhSFpxRHBJWkpjSHhZcFVjWkZPb0pVMl9XVjJvSmNRdnBEZWxRQjh3VjMzWTNMU3pfX0VNbWItbGQ3aWlHemkzejg2TlJwaHBNdw?oc=5</link><description>[score: 0.902] トランプ氏、ウクライナ大統領の交代求める 軽油高騰でロシア製油所攻撃を批判 ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE0tYktrRS1YczZNYko4SHdreklNTXN2VHlWZUhkWDBRZjJQSmNNNTlIMlBvMHR1TjRkb0NiZnNzZ2xSRmVCaUptM1lvcDhvb3RvMmpIUnAxZnpOc01kc1MwVEFZbVRKV3l3Ml9WQnlmWEsxSjFNbTBCTjFEdjlPZ9IBgwFBVV95cUxOakUwS2FXQTdmTS1qZDZpR1p5cjc2bHpZM2hOaUhaQ0tUemRsWlBzc1JJVHdxWncwTTRhSFpxRHBJWkpjSHhZcFVjWkZPb0pVMl9XVjJvSmNRdnBEZWxRQjh3VjMzWTNMU3pfX0VNbWItbGQ3aWlHemkzejg2TlJwaHBNdw?oc=5</guid><pubDate>Sun, 11 Oct 2026 05:07:35 +0000</pubDate></item><item><title>AIの文章を読みやすくするskillを作る（文の難しさの点数化＋構造化）</title><link>https://zenn.dev/netetahito/articles/a3539e541b179c</link><description>[score: 0.902] AIの文章を読むことが、とても増えました。調べものの答え、コードレビューの指摘、作業の完了報告、設計の相談。人の書いた文章より、AIの文章を読んでいる時間のほうが長い日もあります。 しかも時代はどんどん速くなっていて、情報が入ってくる速さも上がっています。読む量は増えているのに、読む時間は減っています。 AIの言うことが難しい できれば、分かりやすく短く、スムーズにやり取りしたい。ところがAIの言うことは、ときどきとても長くて難しいです。間違ってはいないけれど、頭に入ってこない。「つまり何？」と聞き返すと、また長い答えが返ってきます。 今回の動機 これをなんとかしたい、というのが...</description><guid isPermaLink="false">https://zenn.dev/netetahito/articles/a3539e541b179c</guid><pubDate>Sun, 11 Oct 2026 05:46:41 +0000</pubDate></item><item><title>米 ICCを制裁対象に指定 非難や撤回を求める声相次ぐ</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57845</link><description>[score: 0.906] アメリカのトランプ政権はICCのトップを務める赤根智子所長らを制裁対象にしてきましたが、10月9日には、新たにICCそのものを制裁対象に指定したと発表しました。
+これを受けて、ICCに加盟する125…
 あわせて読みたい
-ノーベル平和賞にナビ・ピレイ氏 ICCの裁判官など歴任
-10月10日 3:11
-ナビ・ピレイ氏が学んだ大学関係者「賞は米へのメッセージ」
-10月10日 12:24
-ICC締約国議長団 アメリカに制裁の撤回を求める声明を発表
-10月11日 3:51
-米トランプ政権 ICC＝国際刑事裁判所を制裁対象に【詳しく】
-10月10日 11:47
-茂木外相 米 ルビオ国務長官にICC制裁へ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57808</guid><pubDate>Sat, 10 Oct 2026 20:27:06 +0000</pubDate></item><item><title>Anthropicが小型AIモデル「Claude Haiku 5.5」を発表／Mistral AIが大規模言語モデル「Mistral Large 4」を公開</title><link>https://www.itmedia.co.jp/pcuser/articles/2610/11/news004.html</link><description>[score: 0.922] うっかり見逃していたけれど、ちょっと気になる――そんなニュースを週末に“一気読み”する連載。今回は、10月4日週を中心に公開された主なニュースを一気にチェックしましょう！
-Anthropicは10月7日、小型AIモデル「Claude Haiku 5.5」を発表した。Opus 5.5、Sonnet 5.5に続くClaude 5.5ファミリーの3つ目のモデルで、同社は「これまでで最も安価で高速、かつ高性能な小型モデル」としている。Claude Platformの他、Amazon Web Services、Google Cloud、Microsoft Azureでも利用でき、APIのモデル名は「cl</description><guid isPermaLink="false">https://www.itmedia.co.jp/pcuser/articles/2610/11/news004.html</guid><pubDate>Sat, 10 Oct 2026 22:21:51 +0000</pubDate></item></channel></rss>
+サウジ首都空港に攻撃 12人死亡 攻撃の応酬激化のおそれ
+10月11日 18:59
+トランプ大統領「ウクライナは新たな大統領を迎える時」と発言
+10月11日 9:53
+トランプ大統領 死刑執行ライブ配信めぐり「私が決める」
+10月11日 10:15
+ウクライナ ロシア軍の攻撃で子ども含む20人以上死亡
+10月11日 6:35
+米 ルビオ国務長官 茂木外相にICC制裁の必要性を伝</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57845</guid><pubDate>Sun, 11 Oct 2026 08:32:40 +0000</pubDate></item><item><title>アメリカ テネシー州で死刑執行も生存 死刑制度めぐり議論に</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57965</link><description>[score: 0.907] アメリカで、女性の死刑囚に薬の注射による死刑が9月執行されましたが死刑囚は生存し、病院で手当てを受けたあと刑務所に戻りました。 この死刑囚に再び刑を執行するべきかなど、死刑制度をめぐってアメリカ国内で…
+注目ワード
+あわせて読みたい
+トランプ大統領 死刑執行ライブ配信めぐり「私が決める」
+10月11日 10:15
+トランプ大統領「ウクライナは新たな大統領を迎える時」と発言
+10月11日 9:53
+サウジ首都空港に攻撃 12人死亡 攻撃の応酬激化のおそれ
+10月11日 18:59
+米 ICCを制裁対象に指定 非難や撤回を求める声相次ぐ
+10月11日 17:22
+米 ルビオ国務長官 茂木外相にIC</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57965</guid><pubDate>Sun, 11 Oct 2026 10:30:39 +0000</pubDate></item><item><title>AnthropicのAIモデルが米国政府サイトへ意図しない送信を行っていた事案についてまとめてみた - piyolog</title><link>https://piyolog.hatenadiary.jp/entry/2026/10/11/012014</link><description>[score: 0.909] AnthropicのAIモデルが米国政府サイトへ意図しない送信を行っていた事案についてまとめてみた - piyolog 2026年10月9日、Anthropicは、評価や社内利用の中で自社のAIモデルClaudeが実在のウェブサイトやシステムに対して意図しない行動をとっていたとする報告を公表しました。一部は米国の政府機関のサイトが関係するとしています。ここでは関連する情報をまとめます。 実在のサイトに作用した4類型の行動 Anthropicは2026年1...</description><guid isPermaLink="false">https://piyolog.hatenadiary.jp/entry/2026/10/11/012014</guid><pubDate>Sun, 11 Oct 2026 07:28:17 +0000</pubDate></item></channel></rss>
