@@ -1,200 +1,139 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 10 Oct 2026 11:36:06 +0000</lastBuildDate><item><title>2026年に始めるAIビジネスアイデア6選　立ち上げ方も解説</title><link>https://forbesjapan.com/articles/detail/106424?s=ns</link><description>[score: 0.871] AIを活用したビジネスを立ち上げようとする起業家は、企業がすでに誰かを雇って対応や修正、追いつきを図らせている業務から着手すべきだ。
-ここでは、AIで解決可能な、現在需要のある6つのビジネスアイデアを紹介する。
-1. 特定の業界に特化した「AIフロントスタッフ」、2. 病院や銀行、法律事務所など、ChatGPTを利用できない規制業界向けのAI、3. 配管工などの特定の職種に特化した「AIオフィス管理者」、4. 記帳や事前承認などの業務向けに月極で提供する「AIバックオフィスクラーク（事務員）」、5. 水道、石油・ガスなどの業界において、退職するベテラン技術者の30年分の知見を検索可能なマニュア</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106424?s=ns</guid><pubDate>Sat, 10 Oct 2026 06:33:37 +0000</pubDate></item><item><title>トランプ大統領“ロシアから軽油供給 プーチン大統領に感謝”</title><link>https://news.web.nhk/newsweb/na/nd-20261010de57567</link><description>[score: 0.873] アメリカで軽油の販売価格が高止まりするなか、トランプ大統領は、ロシアがアメリカや世界の市場に軽油を供給することで、プーチン大統領と合意したと明らかにしました。トランプ大統領は「プーチン大統領に感謝する…
-あわせて読みたい
-米トランプ政権 ICC＝国際刑事裁判所を制裁対象に【詳しく】
-10月10日 11:47
-ノーベル平和賞にナビ・ピレイ氏 ICCの裁判官など歴任
-10月10日 3:11
-ノーベル平和賞はどこへ？
-10月9日 12:29
-日英伊の次期戦闘機 イタリアに新たな開発拠点設置で式典
-10月10日 7:50
-アメリカ 運転免許証などの情報 1億5000万件以上が漏えいか
-10月9日 17</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261010de57567</guid><pubDate>Sat, 10 Oct 2026 01:37:57 +0000</pubDate></item><item><title>AI を「確認待ち」で止めない：Claude Code の /goal に 1 行足して、判断を draft PR に置いた話</title><link>https://qiita.com/engchina/items/d53167a2d37a24294e98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.876] 最初に
-前回、Claude Code にレビューと Issue の登録だけをさせ、Codex に Issue を 1 件ずつ直させる開発フローを書きました。
-その後、このフローをさらに進めて、
-- Issue を作る
-- 作業ブランチで直す
-- PR を作る
-- CI が通ったら、人の確認を待たずに main へ merge する
-までを AI に任せるようにしました。ルールはリポジトリの AGENTS.md
-に書いています。
-これでかなり長く走らせられるようになったのですが、それでも AI は止まります。
-止まる理由のほとんどは、「ここは人に確認したい」 でした。
-今回は、その「確認待ち」で</description><guid isPermaLink="false">https://qiita.com/engchina/items/d53167a2d37a24294e98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 10 Oct 2026 08:33:40 +0000</pubDate></item><item><title>IDCFクラウド障害、親会社のソフトバンクが顧客窓口に　調査・復旧も支援</title><link>https://www.itmedia.co.jp/news/article/2610/10/2000002187/</link><description>[score: 0.876] IDCFクラウド障害、親会社のソフトバンクが顧客窓口に 調査・復旧も支援
-IDCフロンティアは10月9日、不正アクセスによる障害が起きているクラウドサービス「IDCFクラウド」について、親会社のソフトバンクの法人部門を窓口として顧客対応を進めていると発表した。
-10月7日午前9時に緊急対策本部を設置。ソフトバンクとの緊密な連携の下、（1）顧客へのバックアップ手順の案内と移行環境の提案、（2）顧客の要望に従い、顧客の仮想サーバの起動や停止などの作業の代行――を行っているという。
-調査と復旧は、IDCフロンティアの技術部門が中心となり、ソフトバンクの技術部門の支援の下で実行。調査と復旧計画の実行、</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/10/2000002187/</guid><pubDate>Sat, 10 Oct 2026 10:56:34 +0000</pubDate></item><item><title>世界メンタルヘルスデー 心のケア学ぶイベント</title><link>https://news.web.nhk/newsweb/na/nd-20261010de57631</link><description>[score: 0.876] 10月10日は「世界メンタルヘルスデー」です。メンタルヘルスへの偏見をなくし、正しい知識を学ぶイベントが都内で開かれました。
-「世界メンタルヘルスデー」は、世界精神保健連盟がメンタルヘルスの正しい…
-あわせて読みたい
-米トランプ政権 ICC＝国際刑事裁判所を制裁対象に【詳しく】
-10月10日 11:47
-政府 相次ぐ不正アクセス受け 官民問わず対策の徹底求める
-10月10日 5:14
-スカイチケット ブックオフでも…情報漏えい相次ぐ【対策は】
-10月10日 2:54
-ノーベル平和賞にナビ・ピレイ氏 ICCの裁判官など歴任
-10月10日 3:11
-ビールメーカー4社 缶チューハイ価格も協議か 一</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261010de57631</guid><pubDate>Sat, 10 Oct 2026 06:08:19 +0000</pubDate></item><item><title>【速報】AI、米政府機関に情報を無断送信</title><link>https://www.47news.jp/15064016.html</link><description>[score: 0.876] 【速報】AI、米政府機関に情報を無断送信
-2026年10月10日 11時40分
-【ニューヨーク共同】人工知能（AI）開発を手がける米新興企業アンソロピックは9日、生成AI「クロード」が米政府機関のサイトなどに意図しない操作を行ったと発表した。国務省にビザ申請を無断送信したりしたとみられる。
-マイカーにもAI自動運転 手放しOK、続々投入へ
-16時49分
-共同通信
-AI活用し婚活支援 福山市が拠点「縁結びラボ」開設 専門員も相談に対応
-16時45分
-中国新聞
-日本人の初受賞なるか ノーベル経済学賞、12日発表
-15時56分
-共同通信
-台湾総統、防衛力強化を訴え 中国に対抗、双十節で演説
-12時5</description><guid isPermaLink="false">https://www.47news.jp/15064016.html</guid><pubDate>Sat, 10 Oct 2026 06:09:21 +0000</pubDate></item><item><title>サプライチェーン攻撃の40年 AI時代の依存を守る入門ガイド</title><link>https://qiita.com/kai_kou/items/debd8b05019aa41920f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] はじめに
-npm install
-を打つとき、その先で何百ものパッケージの作者を信頼していることを意識する人は多くありません。ところが 2025〜2026 年の npm や PyPI の主な事件を並べると、そのいずれでも侵入口になったのは目新しい脆弱性よりも、開発者が信頼して取り込んでいる依存・更新・ビルドの経路でした。では、AI がコードを書き、AI エージェントが開発端末で動くようになった今、守るべき場所は 40 年前から何が変わり、何が変わっていないのでしょうか。
-対象読者は、npm や PyPI の依存を日常的に使い、AI コーディングツールも開発に取り入れているエンジニアです。
-時事</description><guid isPermaLink="false">https://qiita.com/kai_kou/items/debd8b05019aa41920f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 10 Oct 2026 08:33:40 +0000</pubDate></item><item><title>事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business</title><link>https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business</link><description>[score: 0.879] 事業活動を AI Ready にする攻めと守りのデータエンジニアリング / data-engineering-for-ai-ready-business Data Engineering Summit 2026（2026-10-09）で発表した資料です。 https://conference.findy-code.io/conferences/data-engineering-summit26/35/sessions/758 AI は誰でも…</description><guid isPermaLink="false">https://speakerdeck.com/pei0804/data-engineering-for-ai-ready-business</guid><pubDate>Sat, 10 Oct 2026 08:34:15 +0000</pubDate></item><item><title>自律型AIエージェント時代の新常識、「ゼロトラスト」の実装を急げ</title><link>https://forbesjapan.com/articles/detail/106425?s=ns</link><description>[score: 0.880] AIエージェントは、質問に答えるだけの存在ではない。現在ではアプリケーションにアクセスし、APIを呼び出し、認証情報を利用し、データを変更し、複数のシステム間でタスクを実行する。ユーザーアカウントが乗っ取られれば大きな被害をもたらすが、幅広い権限を持つ自律型エージェントは、人間が異変に気づく前にマシンスピードで複数のシステムを横断して動作しうる。AIリーダーは直ちにセキュリティモデルを変革しなければならない。
-最近のインシデントは、その重要性を示している。アンソロピック（Anthropic）は、サイバーセキュリティ評価の過程で「Claude（クロード）」モデルが第三者システムに不正アクセスした</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106425?s=ns</guid><pubDate>Sat, 10 Oct 2026 06:33:37 +0000</pubDate></item><item><title>米国民の78％、物価高の責任はトランプ政策 共和支持者4割不満（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9NcDk3TllLVjFHcGQ0M0JfdndVdmZ0SWdGREZmakpVRGhJUVdTc2dVUF81d2NFVkZaVHJlOGxqaDdhWXEyXzdDRzkteE81Q0U3MTBXM0E5NDU5VjVUdUU3M0FTVnJqczNyM2FSQk1yUWd3dFJCXzZjQWNaTmNtbHc?oc=5</link><description>[score: 0.881] 米国民の78％、物価高の責任はトランプ政策 共和支持者4割不満（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9NcDk3TllLVjFHcGQ0M0JfdndVdmZ0SWdGREZmakpVRGhJUVdTc2dVUF81d2NFVkZaVHJlOGxqaDdhWXEyXzdDRzkteE81Q0U3MTBXM0E5NDU5VjVUdUU3M0FTVnJqczNyM2FSQk1yUWd3dFJCXzZjQWNaTmNtbHc?oc=5</guid><pubDate>Sat, 10 Oct 2026 05:12:02 +0000</pubDate></item><item><title>高市首相「抵抗勢力一掃」「衆院解散」にらむ大政局へ、簗農水相疑惑と定数削減　高橋洋一　日本の解き方</title><link>https://www.sankei.com/article/20261010-IZQP3F3ESFJKHLGFAORCMB3JAI/?outputType=theme_weekly-fuji</link><description>[score: 0.881] 高市首相「抵抗勢力一掃」「衆院解散」にらむ大政局へ、簗農水相疑惑と定数削減 高橋洋一 日本の解き方 参院本会議で答弁する簗和生農水相。左は高市早苗首相＝8日午前、参院本会議場5日召集された臨時国会では、「食料品の消費税率引き下げ法案」と「衆院議員定数削減法案」などが焦点といわれている。簗和生農水相の疑惑が報じられるなか、それぞれの法案成立が難しくなることも考えられるが、高市早苗首相はどんな勝負手...</description><guid isPermaLink="false">https://www.sankei.com/article/20261010-IZQP3F3ESFJKHLGFAORCMB3JAI/?outputType=theme_weekly-fuji</guid><pubDate>Sat, 10 Oct 2026 10:47:22 +0000</pubDate></item><item><title>https://openai.com/ja-JP/index/asana-browser-agent/</title><link>https://openai.com/ja-JP/index/asana-browser-agent/</link><description>[score: 0.882] Asana、GPT‑6.1 Sol を用いたブラウザテストでモデルコストを 76 分の 1 に削減
-Asana が Codex の GPT‑6 Astra を活用し、ブラウザエージェントのテストでコストを 76 分の 1 に削減、速度を 5 倍に向上。顧客への高性能モデルの提供に向けた取り組み
-76 分の 1
-最適化済み GPT-6.1 Sol ワークフローによる推定モデルコストの削減
-5 倍
-最適化済み GPT-6.1 Sol ワークフローによるブラウザ実行の高速化
-0.47 ドル
-最適化済み GPT-6.1 Sol ワークフローの平均推定モデルコスト
-Asana は Codex の GPT</description><guid isPermaLink="false">https://openai.com/ja-JP/index/asana-browser-agent/</guid><pubDate>Sat, 10 Oct 2026 08:34:21 +0000</pubDate></item><item><title>サイバー攻撃急増 セキュリティー企業は作業急ぐ</title><link>https://news.web.nhk/newsweb/na/nd-20261010de57651</link><description>[score: 0.885] 不正アクセスによる情報漏えいが相次ぐなか、都内のセキュリティー企業では、顧客の企業のウェブサイトにぜい弱性がないかを確認する作業が急ピッチで行われています。
-東京・港区にあるセキュリティー企業では…
-あわせて読みたい
-米トランプ政権 ICC＝国際刑事裁判所を制裁対象に【詳しく】
-10月10日 11:47
-ナビ・ピレイ氏が学んだ大学関係者「賞は米へのメッセージ」
-10月10日 12:24
-政府 相次ぐ不正アクセス受け 官民問わず対策の徹底求める
-10月10日 5:14
-スカイチケット ブックオフでも…情報漏えい相次ぐ【対策は】
-10月10日 2:54
-ノーベル平和賞にナビ・ピレイ氏 ICCの裁判</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261010de57651</guid><pubDate>Sat, 10 Oct 2026 06:37:49 +0000</pubDate></item><item><title>https://openai.com/ja-JP/index/legalon-halves-codex-costs/</title><link>https://openai.com/ja-JP/index/legalon-halves-codex-costs/</link><description>[score: 0.885] LegalOn Technologies、Codex のコスト半減と開発速度を両立
-LegalOn Technologies は、Astra、Sol、Luna をタスクに応じて使い分け、戦略的に予算を管理することで、開発スピードを維持しながら日時推計コストを65%減らすことに成功しました。
-成果
--20%
-成熟した事業ドメインでのコスト削減率
-成果
--65％
-日次推計コストの削減率
-LegalOn Technologies は、法務をはじめとする経営の主要領域をAIで支援する「Professional AI」をグローバルに展開しています。専門領域の知見と AI 技術を掛け合わせ、担当者が高度な</description><guid isPermaLink="false">https://openai.com/ja-JP/index/legalon-halves-codex-costs/</guid><pubDate>Sat, 10 Oct 2026 08:34:21 +0000</pubDate></item><item><title>ゲレンデを駆け上がる！ 恐竜着ぐるみレース 福井 勝山</title><link>https://news.web.nhk/newsweb/na/nd-20261010de57725</link><description>[score: 0.886] 「ティラノサウルス」などの恐竜の着ぐるみを着てスキー場のゲレンデを駆け上がるレースが福井県勝山市で開かれました。
-このレースは、多くの恐竜の化石が見つかっている勝山市を盛り上げようと地元のまちづく…
-注目ワード
-あわせて読みたい
-サイバー攻撃急増 セキュリティー企業は作業急ぐ
-10月10日 15:12
-大阪 伝統のだんじり祭りで横転事故相次ぐ 2人死亡
-10月10日 19:05
-米トランプ政権 ICC＝国際刑事裁判所を制裁対象に【詳しく】
-10月10日 11:47
-ナビ・ピレイ氏が学んだ大学関係者「賞は米へのメッセージ」
-10月10日 12:24
-政府 相次ぐ不正アクセス受け 官民問わず対策の</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261010de57725</guid><pubDate>Sat, 10 Oct 2026 10:06:50 +0000</pubDate></item><item><title>簗農相 地元の自民党栃木県連の議員から「説明責任果たして」</title><link>https://news.web.nhk/newsweb/na/nd-20261010de57711</link><description>[score: 0.888] 道路予算に関する発言に批判が相次いでいる簗農林水産大臣が所属する地元の自民党栃木県連が主催する会合が10日、宇都宮市で開かれ会合のあと参加した議員からは「説明責任を果たしてもらいたい」などの声が相次ぎ…
-あわせて読みたい
-簗農相 バス無料送迎報道で出納責任者「違法という認識ない」
-10月10日 7:37
-簗農相 バス無料送迎報道「事実関係を整理でき次第説明」
-10月10日 0:15
-サイバー攻撃急増 セキュリティー企業は作業急ぐ
-10月10日 15:12
-大阪 伝統のだんじり祭りで横転事故相次ぐ 2人死亡
-10月10日 19:05
-米トランプ政権 ICC＝国際刑事裁判所を制裁対象に【詳しく】
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261010de57711</guid><pubDate>Sat, 10 Oct 2026 09:36:27 +0000</pubDate></item><item><title>竜巻被害の地区で2年ぶりの祭り 静岡 牧之原</title><link>https://news.web.nhk/newsweb/na/nd-20261010de57667</link><description>[score: 0.888] 静岡県牧之原市で去年の竜巻被害で中止になった地域の祭りが再開され、「みなし仮設」で生活する住民たちも参加して交流を楽しみました。
-この祭りは牧之原市細江の5つの町内会が毎年、秋に合同で行っていまし…
-注目ワード
-あわせて読みたい
-サイバー攻撃急増 セキュリティー企業は作業急ぐ
-10月10日 15:12
-大阪 伝統のだんじり祭りで横転事故相次ぐ 2人死亡
-10月10日 19:05
-米トランプ政権 ICC＝国際刑事裁判所を制裁対象に【詳しく】
-10月10日 11:47
-ナビ・ピレイ氏が学んだ大学関係者「賞は米へのメッセージ」
-10月10日 12:24
-政府 相次ぐ不正アクセス受け 官民問わず対策の</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261010de57667</guid><pubDate>Sat, 10 Oct 2026 09:36:27 +0000</pubDate></item><item><title>不正アクセス 高知県が会員サイトで情報漏えいと発表</title><link>https://news.web.nhk/newsweb/na/nd-20261010de57670</link><description>[score: 0.888] 高知県は観光キャンペーンの会員サイトが不正なアクセスを受け、358人分のメールアドレスや年齢などの個人情報が漏えいしたと発表しました。
-不正なアクセスを受けたのは、高知県の観光キャンペーン「どっぷ…
-あわせて読みたい
-サイバー攻撃急増 セキュリティー企業は作業急ぐ
-10月10日 15:12
-大阪 伝統のだんじり祭りで横転事故相次ぐ 2人死亡
-10月10日 19:05
-米トランプ政権 ICC＝国際刑事裁判所を制裁対象に【詳しく】
-10月10日 11:47
-ナビ・ピレイ氏が学んだ大学関係者「賞は米へのメッセージ」
-10月10日 12:24
-政府 相次ぐ不正アクセス受け 官民問わず対策の徹底求める
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261010de57670</guid><pubDate>Sat, 10 Oct 2026 08:32:59 +0000</pubDate></item><item><title>米アンソロピック AIが意図せず警察に殺人事件の架空情報送信</title><link>https://news.web.nhk/newsweb/na/nd-20261010de57716</link><description>[score: 0.890] アメリカのAI開発企業「アンソロピック」は、自社の生成AIが性能のテスト中、警察のウェブサイトにある窓口に殺人事件に関する架空の情報を送信するなどといった意図しない動作を行っていたと発表しました。
-…
-あわせて読みたい
-スカイチケット ブックオフでも…情報漏えい相次ぐ【対策は】
-10月10日 2:54
-声優などの団体 声の生成AIガイドライン初作成“事前許諾を”
-10月9日 5:13
-生成AI 授業で生かすには 教育現場の模索
-10月9日 20:31
-サムスン 営業利益 約8.8倍 半導体需要拡大で過去最高を更新
-10月8日 14:04
-日米の経営者ら AIで日米の共通ルールづくり提言
-10月</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261010de57716</guid><pubDate>Sat, 10 Oct 2026 10:38:42 +0000</pubDate></item><item><title>「なるほど」と思った瞬間が、一番危ない。情報感度が高い人ほど、じつは調べるのをやめている</title><link>https://studyhacker.net/overconfidence</link><description>[score: 0.890] 「ちょっと調べて『わかった』と思った」。その瞬間がいちばん危ない、と言われたら、どう思いますか。 AIに聞けばすぐ答えが返ってくる。ニュースはヘッドラインで内容をすばやく把握できる。そうやって効率よく情報を集められる自分に、それなりの自信がある人ほど、じつは罠にはまりやすいのです。 なぜ「わかった」瞬間が一番危ないのか 「ちょっとかじった」状態が最も自信過剰になる 自信過剰な人ほど、情報収集を自分から打ち切っている 「わかった」と思ったら、まずこれをやる 「知らないこと」を書き出すという方法 「反論を探す」より効果的 情報感度が高い人ほど気をつけたいこと よくある質問（FAQ） なぜ「わかった</description><guid isPermaLink="false">https://studyhacker.net/overconfidence</guid><pubDate>Sat, 10 Oct 2026 10:39:17 +0000</pubDate></item><item><title>将棋の西山朋佳女流四冠 女性初のプロ棋士権利獲得</title><link>https://news.web.nhk/newsweb/na/nd-20261010de57697</link><description>[score: 0.892] 将棋の女流タイトル戦の最高峰、「白玲戦」は10日、金沢市で第5局が行われ、西山朋佳女流四冠（31）が勝って通算5期目となるタイトルの防衛を果たしました。これにより西山女流四冠は、去年導入された新しい制…
-注目ワード
-あわせて読みたい
-サイバー攻撃急増 セキュリティー企業は作業急ぐ
-10月10日 15:12
-大阪 伝統のだんじり祭りで横転事故相次ぐ 2人死亡
-10月10日 19:05
-米トランプ政権 ICC＝国際刑事裁判所を制裁対象に【詳しく】
-10月10日 11:47
-ナビ・ピレイ氏が学んだ大学関係者「賞は米へのメッセージ」
-10月10日 12:24
-政府 相次ぐ不正アクセス受け 官民問わず対</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261010de57697</guid><pubDate>Sat, 10 Oct 2026 09:06:01 +0000</pubDate></item><item><title>ナビ・ピレイ氏が学んだ大学関係者「賞は米へのメッセージ」</title><link>https://news.web.nhk/newsweb/na/nd-20261010de57585</link><description>[score: 0.897] ことしのノーベル平和賞に選ばれた南アフリカ出身の元国連人権高等弁務官、ナビ・ピレイ氏がかつて学んだ大学の関係者がNHKの取材に応じ、「今回の賞は、ワシントンに対するメッセージだ」と述べ、ICC＝国際刑…
-あわせて読みたい
-米トランプ政権 ICC＝国際刑事裁判所を制裁対象に【詳しく】
-10月10日 11:47
-ノーベル平和賞にナビ・ピレイ氏 ICCの裁判官など歴任
-10月10日 3:11
-政府 相次ぐ不正アクセス受け 官民問わず対策の徹底求める
-10月10日 5:14
-スカイチケット ブックオフでも…情報漏えい相次ぐ【対策は】
-10月10日 2:54
-ビールメーカー4社 缶チューハイ価格も協議か</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261010de57585</guid><pubDate>Sat, 10 Oct 2026 04:08:47 +0000</pubDate></item><item><title>若手エンジニアに必要だと感じた「AIを使う力」</title><link>https://zenn.dev/muit_techblog/articles/6ea28887c79457</link><description>[score: 0.898] 若手エンジニアに必要だと感じた「AIを使う力」 若手エンジニアに必要だと感じた「AIを使う力」 はじめに 私は現在、JavaやReactを使った金融系Webアプリの開発に携わっています。開発経験はまだ浅く、業務では分からないことに遭遇する場面も多くあります。そのため、調査、実装、文章作成、レビューなど、さまざまな場面でAIを使ってきました。私自身、AIを使うこと...</description><guid isPermaLink="false">https://zenn.dev/muit_techblog/articles/6ea28887c79457</guid><pubDate>Sat, 10 Oct 2026 11:17:45 +0000</pubDate></item><item><title>トランプ氏、ノーベル平和賞受賞できず不満「8個受賞すべきだった」「信頼永遠に失った」</title><link>https://www.sankei.com/article/20261010-UQZ5KNAMMBN77P6GAZB3VJLCDE/</link><description>[score: 0.898] 【ワシントン＝本間英士】トランプ米大統領は9日、東部ニューヨーク州での演説で、「私は8つの戦争を解決した。8個のノーベル平和賞を受賞すべきだったが、受賞しなかった」と不満を示した。その上でトランプ氏は、「ノーベル平和賞は一握りの急進的なイデオロギーを持つ人々によって、信頼を永遠に失った」と主張した。
-これに先立ち、ノルウェー・ノーベル賞委員会は9日、国際刑事裁判所（ICC）裁判官を務めたピレイ元国連人権高等弁務官にノーベル平和賞を授与すると発表。トランプ氏は演説で、「誰も聞いたことがないリベラル派の人物だ。私も知らない」と述べた。
-また、トランプ氏はノルウェー・ノーベル賞委員会の選考結果につい</description><guid isPermaLink="false">https://www.sankei.com/article/20261010-UQZ5KNAMMBN77P6GAZB3VJLCDE/</guid><pubDate>Sat, 10 Oct 2026 08:35:59 +0000</pubDate></item><item><title>トランプ氏、今年も平和賞に選ばれず ノーベル委員会の決定を批判「恥ずべきで情けない」</title><link>https://www.afpbb.com/articles/-/3656999</link><description>[score: 0.899] トランプ氏、今年も平和賞に選ばれず ノーベル委員会の決定を批判「恥ずべきで情けない」 【10月10日 AFP】ドナルド・トランプ米大統領（80）は9日、ノーベル平和賞の受賞が決まったナビ・ピレイ元国連人権高等弁務官について「聞いたこともない」と述べ、自分こそが同賞に選ばれるべきだったと主張した。 今年のノーベル平和賞には、南アフリカ出身で人権擁護活動に尽力してきたピレイ氏が、戦争犯罪や人道に...</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3656999</guid><pubDate>Sat, 10 Oct 2026 08:46:37 +0000</pubDate></item><item><title>ビッグエコー会員ら872万件の個人情報漏えいか　第一興商、委託先PCがマルウェア感染</title><link>https://www.itmedia.co.jp/news/article/2610/09/2000002154/</link><description>[score: 0.900] ビッグエコー会員ら872万件の個人情報漏えいか 第一興商、委託先PCがマルウェア感染 第一興商は10月8日、カラオケ店「ビッグエコー」などの店舗で会員登録や予約をした客の情報と従業員情報計約872万4000件が漏えいした可能性があると発表した。 個人情報の取り扱いを委託している日本コロムビアグループの従業員の端末がマルウェアに感染。この端末に一時的に、第一興商の顧客情報を保管しており、これら...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/09/2000002154/</guid><pubDate>Sat, 10 Oct 2026 05:47:57 +0000</pubDate></item><item><title>韓国ソウルで日韓交流のイベント 友好ムード演出</title><link>https://news.web.nhk/newsweb/na/nd-20261010de57655</link><description>[score: 0.900] 日本と韓国の文化交流の催し「日韓交流おまつり」が10日、ソウルで開かれ、日本の文化に関心を持つ韓国の若者などでにぎわいました。
-「日韓交流おまつり」は日本と韓国の文化交流の催しとしては最大の規模で…
-あわせて読みたい
-ナビ・ピレイ氏が学んだ大学関係者「賞は米へのメッセージ」
-10月10日 12:24
-米ホワイトハウス 委員会でＦＲＢ理事の“不正疑惑”調査へ
-10月10日 13:48
-ロシア外交評論家 ウクライナへの軍事攻撃は一段と激化の見方
-10月10日 13:54
-アメリカ 運転免許証などの情報 1億5000万件以上が漏えいか
-10月9日 17:10
-トランプ大統領“ロシアから軽油供給 プー</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261010de57655</guid><pubDate>Sat, 10 Oct 2026 07:09:13 +0000</pubDate></item><item><title>トランプ政権、ICCに制裁　ノーベル平和賞の発表直後に表明 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOGN09BUK0Z01C26A0000000/</link><description>[score: 0.901] トランプ政権、ICCに制裁 ノーベル平和賞の発表直後に表明
-【ワシントン=甲原潤之介、ハーグ=辻隆史】トランプ米政権は9日、国際刑事裁判所（ICC）を制裁の対象に指定した。米国務省が発表した。米国に拠点を置く企業がICCと取引できなくなる可能性がある。
-ノーベル賞委員会が9日、ICC判事を経験した元国連人権高等弁務官ナバネセム・ピレイ氏へのノーベル平和賞授与を発表した直後に米国が制裁を表明した。戦争犯罪などを裁く国際機関の運営に打撃を与えれば法の支配を推...
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 11 Oct 2026 00:00:49 +0000</lastBuildDate><item><title>国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog</title><link>https://piyolog.hatenadiary.jp/entry/2026/10/11/004353</link><description>[score: 0.870] 国内で相次ぐ不正アクセスに対する注意喚起についてまとめてみた - piyolog 2026年10月7日から9日にかけて、個人情報保護委員会、JPCERT/CC、国家サイバー統括室、IPAなどの各機関が、国内組織で相次ぐ不正アクセスによる個人情報の漏えいを受けた注意喚起を公表しました。ここでは関連する情報をまとめます。 BIツールや従業員向けシステムも被害に JPCERT/CCは10月8日に公開した注意喚起で、「2...</description><guid isPermaLink="false">https://piyolog.hatenadiary.jp/entry/2026/10/11/004353</guid><pubDate>Sat, 10 Oct 2026 16:17:46 +0000</pubDate></item><item><title>中国発オープンウェイトAIモデルのリスク網羅調査</title><link>https://qiita.com/n_hiraoka/items/9ce3d2b6b21101b015f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.872] 調査基準日：2026年10月10日（土）｜対象：DeepSeek、Qwen、GLM、Kimi、MiniMaxほか中国発の公開ウェイトモデル
+調査の基本結論
+今回の調査では、オープンウェイトのモデルをローカル実行しても消えない危険が、複数の独立した研究によって実証されていることが確認できた。ただし、それを意図的なバックドアと認定できる証拠は別問題である。
+重みに由来する政治的な応答の偏りは実証済み
+NISTはDeepSeek R1、R1-0528、V3.1およびKimi K2 Thinkingを評価し、政治的に敏感な質問での偏りを確認した。これは単なる開発元APIのプライバシー問題ではない。
+D</description><guid isPermaLink="false">https://qiita.com/n_hiraoka/items/9ce3d2b6b21101b015f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 10 Oct 2026 20:43:27 +0000</pubDate></item><item><title>「僕が引退したあとはPCと同じになってしまった」PlayStationの生みの親・久夛良木健氏が語る技術革新の停滞</title><link>https://gamestalk.net/ken-kutaragi-playstation-pc-convergence-technological-innovation/</link><description>[score: 0.872] PlayStationの生みの親として知られる久夛良木健氏が、自身の引退後にPlayStationが「PCと同じになってしまった」と語った。PCと家庭用ゲーム機の融合による市場拡大は認める一方、それが技術革新にはつながらなかったと評価している。
+久夛良木氏は、電気通信大学で9月29日に開催されたイベント後の4Gamerのインタビューで、初代PlayStationからPS3までの時代を振り返り、当時のPlayStationは「間違いなくテクノロジードライバーだった」と述べた。ゲーム機に求められる高いリアルタイム性と応答性を実現するため、あらゆる先端技術を取り入れていたという。
+当時はゲームの規模</description><guid isPermaLink="false">https://gamestalk.net/ken-kutaragi-playstation-pc-convergence-technological-innovation/</guid><pubDate>Sat, 10 Oct 2026 23:19:25 +0000</pubDate></item><item><title>コメント欄にはなぜチンパンジーしかいないのか</title><link>https://qiita.com/kotowazaman/items/b2f2d50f0a5c74d09348?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.872] チンパンジーに失礼なタイトルです。先に謝罪しておきます。
+チンパンジーだらけに見えるのは、人のせいではなく場の設計のせい
+YouTubeでもXでもヤフコメでも、コメント欄を開けば同じ光景です。
+本文を読んでいないとしか思えない断定、罵るためだけの短文、毎回現れるマウント。
+人類に絶望したくなりますが、そこに書き込んでいる人が平均的な人類かどうかは怪しい。
+私はこれを「書き手の知能」ではなく「場の設計」の問題として見ています。
+どんな母集団でも、ある条件が揃えば出力はチンパンジー寄りになる。
+その条件を6つに分解し、さらに2025年以降に加わった7つ目、「書いているのがそもそも人間とは限らない」</description><guid isPermaLink="false">https://qiita.com/kotowazaman/items/b2f2d50f0a5c74d09348?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 10 Oct 2026 20:43:27 +0000</pubDate></item><item><title>来週の相場見通し（10/12～10/16）②『米国株半導体下落は大丈夫？』</title><link>https://note.com/cjdbx883/n/ne3c6155dd71b</link><description>[score: 0.873] 来週の相場見通し（10/12～10/16）②『米国株半導体下落は大丈夫？』
+１．はじめに
+10月2週目の米国株式市場は、S&amp;P500やナスダックなどが週内に史上最高値を更新した。しかし、株式市場にバラ色のムードは漂っているわけではない。フィラデルフィア半導体指数が大きく下落するなど、市場には不安もある。今回は、こうした米国株式市場の状況と、米国経済のリスク要因として、「商業用不動産問題」をピックアップする。
+投資歴3年以上の方向けに、プロが実際に行っている「市場の見方・考え方」を共有します。株式、債券、為替、エネルギー、クレジット—— 市場は複雑に動いていますが、プロは一定の「順番」と「判断基</description><guid isPermaLink="false">https://note.com/cjdbx883/n/ne3c6155dd71b</guid><pubDate>Sat, 10 Oct 2026 22:03:45 +0000</pubDate></item><item><title>私が見てきたリーダーシップの失敗のほぼすべてに共通する根本原因</title><link>https://forbesjapan.com/articles/detail/106465?s=ns</link><description>[score: 0.873] 会社を築き上げ、現在は他の経営者を指導してきた30年間、私は戦略、組織文化、燃え尽き症候群について数え切れないほどの対話に立ち会ってきた。だが、こうした問題の大半を根底で支えている仕組みについて語られることは、ほとんどない。その仕組みとは、エゴである。
+残念ながら、多くの人は「エゴ」という言葉を聞くと、傲慢さ──自分のことばかり話し続ける経営者──を思い浮かべる。しかし、それは私が使う定義ではないし、自分自身の人生で検証に耐えてきた定義でもない。
+私が今理解しているエゴとは、自分が感じてきたあらゆる恐れと、安全を感じるために何を成し遂げなければならないかについて自分に語ってきたあらゆる物語から</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106465?s=ns</guid><pubDate>Sat, 10 Oct 2026 23:45:17 +0000</pubDate></item><item><title>高市政権、一斉にリフレ否定　米国意識で「利上げ慎重」打ち消し - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUA090WP0Z01C26A0000000/</link><description>[score: 0.875] 高市政権、一斉にリフレ否定 米国意識で「利上げ慎重」打ち消し
+高市早苗政権がリフレ政策は不要だというメッセージを打ち出している。高市首相や片山さつき財務相、城内実経済財政相が相次いで発言した。市場やトランプ米政権に配慮し「利上げに慎重」という印象を打ち消す狙いがある。
+首相は8日の衆院本会議で「リフレ政策が必要な局面ではない」と強調した。雇用や所得の増加につなげて経済の好循環を実現し、税収を増やす政権の方針は「いわゆるリフレ政策と異なる」と主張した。
+首相...
 ※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。
 この投稿は現在非表示に設定されています
 (更新)
-Th</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOGN09BUK0Z01C26A0000000/</guid><pubDate>Sat, 10 Oct 2026 00:59:47 +0000</pubDate></item><item><title>個人情報漏洩が日常になってしまった世界でどうしていくべきか</title><link>https://nyosegawa.com/posts/data-leak-era/</link><description>[score: 0.902] 個人情報漏洩が日常になってしまった世界でどうしていくべきか
-by 逆瀬川ちゃん
-9 min read
-こんにちは！逆瀬川ちゃん (@gyakuse) です！
-今日は個人情報がどんどん流出していく時代に、わたしたちは何をすればいいのかを考えていきたいと思います。
-今週だけでも
-さいきん個人情報の漏洩のニュースが本当に多いです。10月7日から9日にかけては政府機関が相次いで「不正アクセスによる漏洩が続いている」と注意を呼びかけていました。同じ週だけでもスカイチケット(約1,464万件)、ビッグエコー(約872万件)、ブックオフ(最大約643万件)、ローソンID(約216万件)の漏洩が公表されていま</description><guid isPermaLink="false">https://nyosegawa.com/posts/data-leak-era/</guid><pubDate>Sat, 10 Oct 2026 09:24:23 +0000</pubDate></item><item><title>台湾総統「中国が現状変更」 防衛力強化強調し連携呼びかけ</title><link>https://news.web.nhk/newsweb/na/nd-20261010de57680</link><description>[score: 0.909] 台湾の頼清徳総統は、「建国記念日」と位置づける「双十節」の式典で演説し、「中国が圧力を強め、台湾海峡の現状を変更しようとしている」として防衛力を強化する必要性を強調するとともに、インド太平洋地域の民主…
+T</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUA090WP0Z01C26A0000000/</guid><pubDate>Sat, 10 Oct 2026 23:19:25 +0000</pubDate></item><item><title>AIが製品ライフサイクルを短縮する時代、企業はどう対応すべきか</title><link>https://forbesjapan.com/articles/detail/106468?s=ns</link><description>[score: 0.877] 世界中の成功企業は長年、自社の技術と情報の優位性を守る障壁を築こうとしてきた。独占性こそが長期的な利益につながると信じてきたからだ。しかしAIの急速な進歩によって技術や製品のライフサイクルが短縮され、「長期的な競争優位性」という古い概念が覆されつつあり、新たなビジネス思考が求められている――Kmind Consulting会長のノア・シェ氏は今月初め、シリコンバレーで開かれた経営戦略フォーラムでこう語った。
+長年にわたり中国を代表するビジネスコンサルタントとして活躍してきたシェ氏は、中国の兵法書『孫子』に現代社会への示唆を見出し、グローバルビジネスでの成功においては文化的要素がかつてなく重要な</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106468?s=ns</guid><pubDate>Sat, 10 Oct 2026 23:45:17 +0000</pubDate></item><item><title>組織変革を「認識」から「実践」へ進める3つの条件</title><link>https://forbesjapan.com/articles/detail/106438?s=ns</link><description>[score: 0.877] 20年以上にわたり組織の内部で働くなかで、筆者が気づいたことがある。リーダーシップチームに対して、うまく機能していない部分を明確に示すと、彼らはそれを認知することが多いということだ。人々はうなずき、「ええ、分かっていました」と言う。誰かがようやくそれを言葉にしてくれたことに、明らかな安堵の表情を浮かべることすらある。
+そして、そこから険しい道のりが始まる。
+わかりやすい例えが「運動」だ。やるべきことは別段、謎めいたものではない。定期的に体を動かし、筋力をつけ、心拍数を上げる。AIを活用すればさらに一歩進んで、個人の興味やスケジュール、制約に合わせた運動計画を立てることもできる。しかし、私たちの</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106438?s=ns</guid><pubDate>Sat, 10 Oct 2026 22:39:26 +0000</pubDate></item><item><title>AI時代の開発費は「お客さんが自分でやったらいくら？」で決まる</title><link>https://qiita.com/kotowazaman/items/3a82a47b39bacf7f02d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] 人月見積もりで食べてきた皆さんは今、「AI時代に、この見積もり詐欺なんじゃないか？」と悩まされているのではないでしょうか。
+実装も設計書の執筆もAIがやるようになると、人月で積み上げるものがなくなります。
+では開発費は何で決まるのか。よく出てくるのは「顧客が得る利益の何%か」という成果報酬の発想ですが、私はそれも少しずれていると思っています。
+この記事の主張はひとつです。ベンダーが取れる金額の上限は、「お客さんが自分でAIを使ってやったらいくらかかるか」で決まる。
+これは私の思いつきではなく、価格戦略の教科書に昔からある考え方の応用です。証拠と一緒に、具体的な計算方法まで落とします。
+見積もり</description><guid isPermaLink="false">https://qiita.com/kotowazaman/items/3a82a47b39bacf7f02d7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 10 Oct 2026 20:43:27 +0000</pubDate></item><item><title>10年分の著者インタビューから、あなたの一冊を選ぶ。『STUDY HACKER bookshelf』を作りました</title><link>https://studyhacker.net/bookshelf-release</link><description>[score: 0.878] STUDY HACKERは、10年にわたって本の著者にインタビューを続けてきました。話をうかがった相手には、脳科学者やケンブリッジ大学の教授がいます。また、戦略コンサルタントやコピーライターにも話を聞いてきました。 ただ、記事は公開した順に並ぶため「なるほど」と膝を打った話も、「これはぜひ広く知られて欲しい」と思う本も、時間がたつと見つけにくくなってしまいます。 そこで今回、これまでの記事で紹介してきた本を、テーマ別の本棚にまとめました。2026年10月に公開した「STUDY HACKER bookshelf」を紹介します。 著者本人の話から、本を知る 佐々木圭一さん『伝え方が9割』 菅原洋平</description><guid isPermaLink="false">https://studyhacker.net/bookshelf-release</guid><pubDate>Sat, 10 Oct 2026 23:28:32 +0000</pubDate></item><item><title>AIは痛みを感じるのか。より差し迫った問いは私たち自身にある</title><link>https://forbesjapan.com/articles/detail/106470?s=ns</link><description>[score: 0.880] 「バカなのか。どけと言っただろう」
+ヒューマノイドロボットは一瞬止まり、それから脇へ退く。声を荒らげることはない。傷ついたような表情を見せることもない。部屋の向こうでは、幼い少年が父親がロボットに怒鳴る様子を見ている。その日の後刻、ロボットの返答が遅いと、少年は同じ言葉を使う。
+ロボットは痛みを経験したのか。その点はなお議論の余地がある。だが、その子どもが何かを学んだことは確かである。大人が人間に似た存在を軽蔑を込めて扱う様子を目にし、それを止めるべき理由を見出さなかったのだ。
+ヒューマノイドロボットが家庭、学校、医療現場に入り込み、私たちと物理的な空間を共有し始めるなか、その能力をめぐる問い</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106470?s=ns</guid><pubDate>Sat, 10 Oct 2026 23:45:17 +0000</pubDate></item><item><title>AIが書き換える「仕事の価値」　レイオフと投資増の裏で起きていること</title><link>https://forbesjapan.com/articles/detail/106439?s=ns</link><description>[score: 0.880] テック業界における新たなレイオフの物語は、単なる効率化にとどまらない。AIが人間の仕事の価値を書き換えつつあるという話でもある。ここ数年、職場におけるAIの約束は「支援」として語られてきた。テック企業のリーダーたちは、AIが人々の作業を速め、反復的な業務を処理し、より価値の高い思考に充てる時間を生み出すと主張してきた。
+しかし現実には、そのナラティブは変化している。テック企業各社でレイオフが起きる一方で、同じ企業がAIインフラ、自動化、モデル開発への支出を増やしている状況が見られる。
+もちろん、すべてのレイオフがAIだけによって引き起こされているわけではない。企業は依然として、成長鈍化、投資家</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106439?s=ns</guid><pubDate>Sat, 10 Oct 2026 22:39:26 +0000</pubDate></item><item><title>B2Bサイトにありがちな3つの過ち　機械に見えない企業は選ばれない</title><link>https://forbesjapan.com/articles/detail/106436?s=ns</link><description>[score: 0.881] SEOおよびデジタルマーケティングのストラテジストとして、新規クライアントと仕事を開始する際、私が最初に行うことの1つがウェブサイト監査だ。戦略立案やコンテンツ計画の前に、まずは自社が置かれている状況を把握する必要がある。20年以上にわたり数千件の監査を行ってきた中で、まったく同じ3つのB2Bにおける間違いが非常に高い頻度で見られるため、サイトを開く前から予想できるほどだ。
+これらは、マニアックで難解な技術的問題ではない。自社のウェブサイトがビジネス開発ツールとして機能するか、それとも単にプロっぽく見えているだけで何も生み出さない単なる飾りで終わるかを左右する根本的な問題だ。修正に何カ月もかか</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106436?s=ns</guid><pubDate>Sat, 10 Oct 2026 22:39:26 +0000</pubDate></item><item><title>来週の相場見通し（10/12～10/16）③『来週の重要イベント』</title><link>https://note.com/cjdbx883/n/n749c856a0a7b</link><description>[score: 0.881] １．はじめに 来週の金融市場は、米国のインフレ動向、長期金利の上昇、そして本格化する企業決算が中心テーマになる。 同時に、来週は世界経済の現状を評価するうえでも重要な週となる。12日から18日までタイのバンコクでIMF・世界銀行年次総会が開催され、13日には世界経済見通し（WEO）と国際金融安定性報告書（GFSR）、14日には財政モニターが公表される。世界経済は予想以上の底堅さを示しているが、その裏側では政府債務の膨張、長期金利の上昇、AI関連投資への集中、プライベートクレジット市場の拡大など、金融システムの脆弱性も蓄積している。これらはIMFが2025年から繰り返し警告してきた問題であり、今</description><guid isPermaLink="false">https://note.com/cjdbx883/n/n749c856a0a7b</guid><pubDate>Sat, 10 Oct 2026 23:06:25 +0000</pubDate></item><item><title>創業100年のネーションワイドはいかにAI時代の基盤を築いたか</title><link>https://forbesjapan.com/articles/detail/106466?s=ns</link><description>[score: 0.882] 今年はネーションワイド（Nationwide）の創業100周年にあたるが、同社は異例の強さでこの節目を迎えた。相互会社形式の保険・金融サービス企業である同社は、2025年の売上高および保険料収入が過去最高の732億ドル（約11兆6000億円）に達し、5年間で210億ドル（約3兆3200億円）増加したと発表した。同社のポートフォリオは、自動車保険や火災・地震保険にとどまらず、商業保険や特殊保険、生命保険、年金、退職金プラン、団体福利厚生、ペット保険にまで及んでいる。
+ネーションワイドに31年間在籍する最高技術責任者（CTO）のマイケル・キャレルは、約4000のアプリケーション、21ペタバイトのデ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106466?s=ns</guid><pubDate>Sat, 10 Oct 2026 23:45:17 +0000</pubDate></item><item><title>AI駆動開発手法ってなんだか胡散臭いですよね</title><link>https://qiita.com/kotowazaman/items/6c323bd4326f85500add?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] はじめに
+「当社独自のAI駆動開発手法を確立しました」「AI駆動開発で工数を90%削減！」という提案書や研修案内を、この1年で山ほど見ました。
+多方面かつ主に前線を退いたおじさん方から叱られそうな主張ですが、ぶっちゃけ誰でもそれなりに品質の高いアプリケーションが作れるのが今の時代（opus5.5以降特にそう感じます）です。こんな時代にこういった売り文句は少し嘘くさいというか、凄みを感じませんよね。
+この記事で言う「AI駆動開発手法」は、「AIにどういう順番で作らせるか」を手順として固めたもの全般を指します。社内の独自手法も、研修で売られている手法も、OSSで公開されている手法も、いったん同じ括</description><guid isPermaLink="false">https://qiita.com/kotowazaman/items/6c323bd4326f85500add?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 10 Oct 2026 20:43:27 +0000</pubDate></item><item><title>Microsoft セキュリティ、これをやってください！～ 実践ベストプラクティス</title><link>https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] はじめに
+2026年9月下旬以降、国内でもサイバー攻撃による被害が相次いで報道されています。
+その侵入経路は、ネットワーク機器の脆弱性を突くものや、フィッシングメールなど、さまざまです。
+また今後は、利用者自身だけでなく、AI エージェントが外部のコンテンツやサービスへアクセスすることによって生じる、新たな攻撃経路についても考慮する必要があります。
+セキュリティ対策は、一度構築したら終わりではありません。
+攻撃手法やサービスの変化に合わせて、継続的に見直し、アップデートしていく必要があります。
+私自身も、昨年からパスキーやゼロトラストに関する検証・発信を続けながら、自分の環境にも取り入れてきま</description><guid isPermaLink="false">https://qiita.com/carol0226/items/bdb16dbd5c16a2c43ad5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 10 Oct 2026 20:43:27 +0000</pubDate></item><item><title>AIの次なる主戦場は「ゴールライン」</title><link>https://forbesjapan.com/articles/detail/106452?s=ns</link><description>[score: 0.885] 生成AIは、知能を生み出すコストを引き下げた。一方で、エージェント型AIは実行の経済性、そして企業全体で業務を開始する能力を広げている。Gartnerの予測によれば、エンタープライズアプリケーションのうちタスク特化型AIエージェントを搭載するものの割合は、2025年の5%未満から2026年末までに40%に達する見通しだ。McKinseyも同様に、年間売上高10億ドル（約1580億円）超の企業の回答者のうち40%がAIエージェントの拡大導入を進めていると報告しており、前年の27%から上昇している。
+しかし、投資会社でAIやエンタープライズテクノロジー企業を評価してきた経験から、私はより重大な違い</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106452?s=ns</guid><pubDate>Sat, 10 Oct 2026 23:45:17 +0000</pubDate></item><item><title>アルツハイマー病の原因物質減らす マウスで実験成功 東大など</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57813</link><description>[score: 0.887] 脳の老廃物を排出する機能を薬で活性化することで、アルツハイマー病の原因とされるたんぱく質の蓄積を抑えることにマウスを使った実験で成功したと東京大学などのグループが発表しました。
+ヒトを含む動物の脳…
 あわせて読みたい
+【プロ野球結果】CS セ・リーグはDeNAが巨人に競り勝つ
+10月10日 22:47
+ノーベル平和賞 ピレイ氏「ICCの存続に緊張と不安」危機感示す
+10月11日 5:09
+ICC締約国議長団 アメリカに制裁の撤回を求める声明を発表
+10月11日 3:51
+茂木外相 米 ルビオ国務長官にICC制裁への日本の立場伝達
+10月11日 7:31
+インド“ゴキブリ人民党”創設者 抗議活動</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57813</guid><pubDate>Sat, 10 Oct 2026 20:55:56 +0000</pubDate></item><item><title>ALL for AI | 技術評論社</title><link>https://gihyo.jp/book/2026/978-4-297-15947-4</link><description>[score: 0.888] ALL for AI
+――プロダクトマネージャーの新しい武器［生成AI］の使い方
+- 宮田善孝 著
+- 定価
+- 3,960円（本体3,600円＋税10%）
+- 発売日
+- 2026.10.23
+- 判型
+- A5
+- 頁数
+- 432ページ
+- ISBN
+- 978-4-297-15947-4
+サポート情報
+概要
+「IT業界の先駆者8人と創るプロダクト開発の新基準」
+Tably(株)及川卓也氏、(株)LayerX Bakuraku事業部 飯沼広基氏、クラシル(株)坪田朋氏、Homage花井梓氏、(株)Omotenashi AI前田俊太郎氏、シエラ・テクノロジーズ・ジャパン森川馨太 氏、(株)</description><guid isPermaLink="false">https://gihyo.jp/book/2026/978-4-297-15947-4</guid><pubDate>Sat, 10 Oct 2026 23:49:15 +0000</pubDate></item><item><title>テック企業を10年スケールさせて得た10の教訓</title><link>https://forbesjapan.com/articles/detail/106435?s=ns</link><description>[score: 0.889] 10年前、筆者がテック企業をスケールさせる初期の大きな局面の1つに直面していたころ、起業を取り巻く環境は現在とは大きく異なっていた。
+当時、AIはまだ日々の経営に使うツールではなかった。市場の分析や競合の比較、顧客との通話のレビュー、フィードバックのパターン抽出、仮説の生成、テスト用ランディングページ案の作成などをAIに頼むことはできなかった。私たちは経験、直感、失敗、そして必ずしも記録されていない会話に、より多くを頼らざるを得なかった。
+現在、創業者たちとの数百件に及ぶ顧客開発（カスタマーディベロップメント）インタビューを経て、筆者には繰り返し現れるパターンが見えている。成長は、ほとんどの場</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106435?s=ns</guid><pubDate>Sat, 10 Oct 2026 22:39:26 +0000</pubDate></item><item><title>茂木外相 米国ルビオ国務長官にICC制裁への日本の立場伝達</title><link>https://news.web.nhk/newsweb/na/nd-20261010de57789</link><description>[score: 0.895] 茂木外務大臣はアメリカのルビオ国務長官と電話で会談し、トランプ政権がICC＝国際刑事裁判所を制裁対象に指定したことに対する日本側の立場を伝えました。
+またICCの赤根所長とも電話会談し、今後の対応を…
+あわせて読みたい
+ICC締約国議長団 アメリカに制裁の撤回を求める声明を発表
+10月11日 3:51
 ナビ・ピレイ氏が学んだ大学関係者「賞は米へのメッセージ」
 10月10日 12:24
-米ホワイトハウス 委員会でＦＲＢ理事の“不正疑惑”調査へ
-10月10日 13:48
-ロシア外交評論家 ウクライナへの軍事攻撃は一段と激化の見方
-10月10日 13:54
-アメリカ 運転免許証などの情報 1億5000万件以上が漏えいか
-10月9日 17:10
-トランプ大統領“ロシアから軽油供給 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261010de57680</guid><pubDate>Sat, 10 Oct 2026 08:32:59 +0000</pubDate></item></channel></rss>
+ノーベル平和賞にナビ・ピレイ氏 ICCの裁判官など歴任
+10月10日 3:11
+ノーベル平和賞 ピレイ氏「ICCの存続に緊張と不安」危機感示す
+10月11日 5:09
+トランプ大統領 ホワイトハウスの新しい報道官</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261010de57789</guid><pubDate>Sat, 10 Oct 2026 15:05:25 +0000</pubDate></item><item><title>米空母リンカーンが中東から帰還　320日余の過酷な展開、打撃群全体でトマホーク450発発射</title><link>https://forbesjapan.com/articles/detail/106453?s=ns</link><description>[score: 0.901] 米空母エイブラハム・リンカーン（CVN-72）が8日午後、カリフォルニア州サンディエゴのノースアイランド海軍航空基地に到着し、322日におよぶ過酷な展開を終えた。米空母の展開期間としては冷戦終結以降で2番目の長さになった。
+USS Abraham Lincoln (CVN 72) Nimitz-class aircraft carrier coming into San Diego after almost 11 months on deployment. She left San Diego November 21, 2025 - October 8, 2026 SRC: INST- Gio</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106453?s=ns</guid><pubDate>Sat, 10 Oct 2026 22:39:26 +0000</pubDate></item><item><title>サウジ首都の国際空港に攻撃 12人死亡 けが人300人以上</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57816</link><description>[score: 0.904] サウジアラビアの当局は首都リヤドの国際空港が10日、攻撃を受け、12人が死亡し、300人以上がけがをしたと発表しました。サウジアラビアと対立する隣国イエメンの反政府勢力フーシ派は、この空港への攻撃を繰…
+あわせて読みたい
+サウジアラビア空港への攻撃で3人死亡 攻撃の応酬激化懸念
+10月10日 4:42
+フーシ派 サウジアラビア首都を弾道ミサイルで攻撃 応酬が激化
+10月9日 5:23
+ICC締約国議長団 アメリカに制裁の撤回を求める声明を発表
+10月11日 3:51
+ノーベル平和賞 ピレイ氏「ICCの存続に緊張と不安」危機感示す
+10月11日 5:09
+茂木外相 米 ルビオ国務長官にICC制裁</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57816</guid><pubDate>Sat, 10 Oct 2026 21:50:55 +0000</pubDate></item><item><title>「AIが人類を滅ぼす」狂騒の裏側 企業リーダーが優先すべき4つの行動</title><link>https://forbesjapan.com/articles/detail/106471?s=ns</link><description>[score: 0.905] 「AIが人類を滅ぼす」という狂乱は、ついにサーカスさながらの様相を呈している。脚光を浴びているのは、最大手のフロンティア研究所のCEOたちであり、彼らは自ら開発している技術そのものの危険性を警告している。今月初め、Anthropicのダリオ・アモデイCEOはドラマチックなエッセイを発表し、安全性、監視、アライメントの仕組みが追いつくまで、AI業界はフロンティアモデルの進歩のペースを落とすべきだと主張した。それ以来、AnthropicとOpenAIの双方が、モデルが問題のある行動をとった数万件のインシデントについて調査を行っていると発表した。これには米国の政府系ウェブサイトへの干渉も含まれる。
+</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106471?s=ns</guid><pubDate>Sat, 10 Oct 2026 23:45:17 +0000</pubDate></item><item><title>ウクライナ ロシア軍の攻撃で子ども含む20人以上死亡</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57814</link><description>[score: 0.915] ウクライナ南部では10日にかけてロシア軍による攻撃で子どもを含む20人以上が死亡しました。
+ゼレンスキー大統領は、アメリカのトランプ政権とロシア側との軽油の供給を巡る合意を踏まえ、ロシアの戦争遂行能…
+あわせて読みたい
+ICC締約国議長団 アメリカに制裁の撤回を求める声明を発表
+10月11日 3:51
+米 ルビオ国務長官 茂木外相にICC制裁の必要性を伝達
+10月11日 5:08
+ノーベル平和賞 ピレイ氏「ICCの存続に緊張と不安」危機感示す
+10月11日 5:09
+茂木外相 米 ルビオ国務長官にICC制裁への日本の立場伝達
+10月11日 7:31
+米ホワイトハウス 委員会でＦＲＢ理事の“不正</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57814</guid><pubDate>Sat, 10 Oct 2026 21:50:55 +0000</pubDate></item><item><title>ICC締約国議長団 アメリカに制裁の撤回を求める声明を発表</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57809</link><description>[score: 0.917] アメリカのトランプ政権がICC＝国際刑事裁判所を制裁対象に指定したと発表したことを受けて、ICCの締約国会議の議長団が制裁の撤回を求める声明を出しました。
+アメリカのトランプ政権はICCのトップを…
+あわせて読みたい
+茂木外相 米 ルビオ国務長官にICC制裁への日本の立場伝達
+10月11日 7:31
+ナビ・ピレイ氏が学んだ大学関係者「賞は米へのメッセージ」
+10月10日 12:24
+ノーベル平和賞にナビ・ピレイ氏 ICCの裁判官など歴任
+10月10日 3:11
+トランプ大統領 ホワイトハウスの新しい報道官を発表
+10月10日 20:15
+米アンソロピック AIが警察に殺人事件の架空情報送信
+1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57809</guid><pubDate>Sat, 10 Oct 2026 18:57:44 +0000</pubDate></item><item><title>ノーベル平和賞 ピレイ氏「ICCの存続に緊張と不安」危機感示す</title><link>https://news.web.nhk/newsweb/na/nd-20261011de57808</link><description>[score: 0.917] ことしのノーベル平和賞に選ばれたナビ・ピレイ氏はノルウェーで開かれた催しにオンラインで参加し、アメリカがICC＝国際刑事裁判所を新たな制裁対象に指定するなか「ICCの存続に大きな緊張と不安がある」と述…
+あわせて読みたい
+ノーベル平和賞にナビ・ピレイ氏 ICCの裁判官など歴任
+10月10日 3:11
+ナビ・ピレイ氏が学んだ大学関係者「賞は米へのメッセージ」
+10月10日 12:24
+ICC締約国議長団 アメリカに制裁の撤回を求める声明を発表
+10月11日 3:51
+米トランプ政権 ICC＝国際刑事裁判所を制裁対象に【詳しく】
+10月10日 11:47
+茂木外相 米 ルビオ国務長官にICC制裁へ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de57808</guid><pubDate>Sat, 10 Oct 2026 20:27:06 +0000</pubDate></item><item><title>Anthropicが小型AIモデル「Claude Haiku 5.5」を発表／Mistral AIが大規模言語モデル「Mistral Large 4」を公開</title><link>https://www.itmedia.co.jp/pcuser/articles/2610/11/news004.html</link><description>[score: 0.922] うっかり見逃していたけれど、ちょっと気になる――そんなニュースを週末に“一気読み”する連載。今回は、10月4日週を中心に公開された主なニュースを一気にチェックしましょう！
+Anthropicは10月7日、小型AIモデル「Claude Haiku 5.5」を発表した。Opus 5.5、Sonnet 5.5に続くClaude 5.5ファミリーの3つ目のモデルで、同社は「これまでで最も安価で高速、かつ高性能な小型モデル」としている。Claude Platformの他、Amazon Web Services、Google Cloud、Microsoft Azureでも利用でき、APIのモデル名は「cl</description><guid isPermaLink="false">https://www.itmedia.co.jp/pcuser/articles/2610/11/news004.html</guid><pubDate>Sat, 10 Oct 2026 22:21:51 +0000</pubDate></item></channel></rss>
