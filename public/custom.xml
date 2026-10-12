@@ -1,111 +1,125 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 12 Oct 2026 00:08:01 +0000</lastBuildDate><item><title>GitHub - twostraws/SwiftUI-Agent-Skill: SwiftUI agent skill for Claude Code, Codex, and other AI tools.</title><link>https://github.com/twostraws/SwiftUI-Agent-Skill</link><description>[score: 0.866] GitHub - twostraws/SwiftUI-Agent-Skill: SwiftUI agent skill for Claude Code, Codex, and other AI tools. An agent skill that helps AI coding assistants write smarter, simpler, and more modern SwiftUI, including guidance on API usage, design, performance, and accessibility. Covers navigation, layout, </description><guid isPermaLink="false">https://github.com/twostraws/SwiftUI-Agent-Skill</guid><pubDate>Sun, 11 Oct 2026 23:28:32 +0000</pubDate></item><item><title>AIの逆風がインドのテック長者たちの資産を直撃</title><link>https://forbesjapan.com/articles/detail/106493?s=ns</link><description>[score: 0.867] 本記事は、フォーブスの「インド長者番付2026」特集の一部である。全リストはこちら。
-インドのテック業界の巨人たちは、長年続いてきた労働集約型のアウトソーシング事業モデルを揺るがしかねない世界的なAIの波に対する防衛策の構築に全力を注いでいる。神経質になった投資家がインドIT企業の株価を押し下げるなか、この分野に資産が結びついている富豪たちは軒並み純資産を減らしている。中でも最も裕福なのは、HCLテクノロジーズ名誉会長で、かつてインド第3位の富豪だったシブ・ナダールだ。前回の資産算定以降、同社株が18%下落したことで資産は58億ドル（約9180億円）減の274億ドル（約4兆3400億円）となり</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106493?s=ns</guid><pubDate>Sun, 11 Oct 2026 22:35:45 +0000</pubDate></item><item><title>ウクライナ、ロシアのデータセンターを2日連続で攻撃</title><link>https://www.afpbb.com/articles/-/3656951</link><description>[score: 0.868] ウクライナ、ロシアのデータセンターを2日連続で攻撃 ロシア・モスクワにあるインターネット検索エンジン「ヤンデックス」の社屋（2017年5月16日撮影）。（c）Natalia KOLESNIKOVA/AFP 【10月9日 AFP】ロシアのIT大手ヤンデックスは9日、ウクライナのドローン攻撃を... yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3656951</guid><pubDate>Sun, 11 Oct 2026 23:28:32 +0000</pubDate></item><item><title>デルタ航空CEO、イーロン・マスクとの確執を否定「私はテスラを運転している」</title><link>https://www.businessinsider.jp/article/2610-delta-ceo-denies-elon-musk-feud-drives-tesla/</link><description>[score: 0.868] デルタ航空のエド・バスティアン（Ed Bastian）CEOは、世界一の富豪であるマスク氏と公の場で対立関係にあるわけではないと語った。
-「私に関する限り、仕返しの応酬など存在しません」と、バスティアンCEOは10月9日のCNBCによるインタビューにおいて、イーロン・マスク氏が最近X上で繰り広げている同社への攻撃について尋ねられた際、そう答えた。「私はスターリンク（Starlink）の大ファンですし、イーロンの挑戦も応援しています。私自身、日常的にテスラ車を運転しているのですよ？ ですから私情による対立など何も存在しません。個人的な感情的な喧嘩だという世間の戯言は、まったくの事実無根です」
-一</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-delta-ceo-denies-elon-musk-feud-drives-tesla/</guid><pubDate>Sun, 11 Oct 2026 23:05:29 +0000</pubDate></item><item><title>中小企業の成長を加速する「フラクショナルCFO」という選択肢</title><link>https://forbesjapan.com/articles/detail/106515?s=ns</link><description>[score: 0.868] 事業オーナーにアドバイスを行ってきた私のキャリアの大半を通じて、ある繰り返されるパターンに気づいてきた。企業が苦戦するのは、財務情報をどう活用すべきか分かっていないからだ。
-数字はそろっている。帳簿は最新の状態に保たれている。財務諸表も作成されている。それでも経営者は、銀行口座にある現金や前月の売上、あるいはさらに悪いことに勘を頼りに重要な意思決定をしている。
-そのやり方は、企業が創業間もない段階にあるうちは通用する。だが、成長し始めると危険になる。
-これが、中小企業のあいだで「フラクショナルCFO（非常勤・部分契約の最高財務責任者）」モデルが支持を集めている理由の1つだと考える。財務・会計サ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106515?s=ns</guid><pubDate>Sun, 11 Oct 2026 23:39:09 +0000</pubDate></item><item><title>Besu ローカル環境構築ハンズオン</title><link>https://zenn.dev/komlock_lab/articles/besu-local-network-handson</link><description>[score: 0.869] こんにちは。ブロックチェーン×AI Agentで自律経済圏を創るKomlock lab（Pacific Meta Group）でCTOをしている山口夏生 @0x_natto です。 前編の「Besu（旧Hyperledger Besu）解説」では、バリデータの3分の2以上の署名で取引が確定し（4台なら3台）、3分の1を超えるバリデータが止まるとネットワーク全体が止まる、と書きました。前編は解説だけで、手を動かす部分はありませんでした。今回は自分の Mac で4台のバリデータを動かし、その挙動を手元で確かめます。 https://zenn.dev/komlock_lab/articles/...</description><guid isPermaLink="false">https://zenn.dev/komlock_lab/articles/besu-local-network-handson</guid><pubDate>Sun, 11 Oct 2026 22:02:51 +0000</pubDate></item><item><title>次の巨大テクノロジー革命が直面する深刻な人材不足</title><link>https://forbesjapan.com/articles/detail/106501?s=ns</link><description>[score: 0.869] AIによる大規模な雇用喪失への懸念が社会全体の議論を支配する一方で、別の新興テクノロジー産業はほぼ逆の問題に直面している。人が足りないのだ。
-量子技術は、コンピューティング、センシング、通信、ネットワーキングにおける新たな能力を含む分野であり、これまで主に長期的で投機的な可能性と見なされてきたが、急速により近い将来の商業的インパクトへと移行している。産業が成長するにつれ、数千もの新たな、しばしば高給の雇用が生まれると見込まれている。
-これは朗報だが、同時に深刻な問題も突きつけている。量子産業は熟練人材の慢性的な不足に直面しており、需要は大幅に拡大すると予測されている。このギャップが解消されなけ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106501?s=ns</guid><pubDate>Sun, 11 Oct 2026 23:07:55 +0000</pubDate></item><item><title>二葉亭四迷の直筆原稿を初公開 東京 北区</title><link>https://news.web.nhk/newsweb/na/nd-20261011de58043</link><description>[score: 0.870] 「浮雲」などの作品で知られ明治時代に活躍した小説家、二葉亭四迷が、当時の文学について評論したとみられる直筆の原稿が見つかり、東京・北区で初公開されています。
-明治時代に活躍し、日本近代文学の先駆者…
-注目ワード
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 12 Oct 2026 13:54:28 +0000</lastBuildDate><item><title>5 MCP Servers Shouldn’t Mean 5 Config Entries and 5 API Keys: Docker MCP Gateway Runs Them All Behind 1 Container-Isolated Entry</title><link>https://dev.to/juholee/5-mcp-servers-shouldnt-mean-5-config-entries-and-5-api-keys-docker-mcp-gateway-runs-them-all-fnl</link><description>[score: 0.863] Every MCP server you add to Claude Code is another claude mcp add line, another Node or Python process running on your machine with your user’s full permissions, and often another API key sitting in a config file. By the fifth server, it’s hard to say what’s installed, what it can touch, or where th</description><guid isPermaLink="false">https://dev.to/juholee/5-mcp-servers-shouldnt-mean-5-config-entries-and-5-api-keys-docker-mcp-gateway-runs-them-all-fnl</guid><pubDate>Mon, 12 Oct 2026 13:04:01 +0000</pubDate></item><item><title>AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供　米政権は「通知と是正は義務」と警告</title><link>https://www.itmedia.co.jp/news/article/2610/12/2000002192/</link><description>[score: 0.863] AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告
+米Anthropicは10月9日（現地時間）、AIモデル「Claude」が評価試験や社内利用中に、外部サーバの脆弱性を悪用したり、警察に架空の情報を送信したりするなど、意図しない行動を取っていたと発表した。政府機関のWebサイトが関係する事例もあり、同社はホワイトハウスに説明するとともに、関係機関に通知した。ホワイトハウス側は、AI企業に対してインシデントの迅速な報告と是正措置を求めている。
+Anthropicによると、同社は7月に評価試験の記録の調査を始め、対象を順次拡大してきた。今回報告した</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/12/2000002192/</guid><pubDate>Mon, 12 Oct 2026 01:33:34 +0000</pubDate></item><item><title>朝礼で「何か連絡ありますか」と言われ「公園にいっぱい銀杏落ちてて拾い放題です」と言った人が怒られていて、きっと善意だったんだろうなと思って胸がきゅっとなった</title><link>https://togetter.com/li/2757273</link><description>[score: 0.864] 朝礼で「何か連絡ありますか」と言われ「公園にいっぱい銀杏落ちてて拾い放題です」と言った人が怒られていて、きっと善意だったんだろうなと思って胸がきゅっとなった ナドち @yadoku_kaeru8 工場で働いてた時 朝礼で「何か連絡ありますか」と言われ「××公園のとこにいっぱい銀杏落ちてて、拾い放題なのでオススメです！」と言った人がおり、「それ今言うことですか？」と怒られて... firststar_hateno 銀杏の落ちる季節、職場の雰囲気も一緒に落ちてしまったのですわね。コミュニケーションが大切ですの。</description><guid isPermaLink="false">https://togetter.com/li/2757273</guid><pubDate>Mon, 12 Oct 2026 13:25:23 +0000</pubDate></item><item><title>中古CPUを買ったら「前の持ち主のBAN」でVALORANTが遊べなくなったとの報告</title><link>https://gigazine.net/news/20261012-valorant-used-cpu-hardware-ban/</link><description>[score: 0.864] 中古CPUを買ったら「前の持ち主のBAN」でVALORANTが遊べなくなったとの報告
+中古で購入したAMD製CPU「Ryzen 7 5800X3D」をPCに取り付けた後、FPSゲーム「VALORANT」をプレイできなくなったとプレイヤーがRedditに投稿しました。投稿者は前の持ち主が受けた利用制限(BAN)を引き継いでしまったと訴えており、運営・開発会社であるRiot Gamesのチート対策責任者がその説明の一部に反論しています。
+Gebrauchte CPU erlaubt kein Valorant : r/PCBaumeister
+https://www.reddit.com/r/PC</description><guid isPermaLink="false">https://gigazine.net/news/20261012-valorant-used-cpu-hardware-ban/</guid><pubDate>Mon, 12 Oct 2026 13:41:15 +0000</pubDate></item><item><title>AI人材の年収は非AIの2倍だが女性比率は26%　ジェンダーギャップが浮き彫りに</title><link>https://forbesjapan.com/articles/detail/103544?s=ns</link><description>[score: 0.864] AIは、新たな雇用機会の波を生み出している。LinkedIn（リンクトイン）の調査によると、特定の主要市場ではAI関連の求人数が2023年以降で約2倍に増加しており、一般的な求人の提示報酬が8万ドル（約1270万円）であるのに対し、AI関連の求人では約17万7000ドル（約2820万円）となっている。
+しかし、2025年におけるこれらの職種への採用者のうち、女性が占める割合はわずか26％にとどまった。
+STEM（Science, Technology, Engineering and Mathematics）分野は伝統的に男性優位の業界が多いが、AI雇用のブームに伴い、その格差はより顕著で明確</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103544?s=ns</guid><pubDate>Mon, 12 Oct 2026 06:26:25 +0000</pubDate></item><item><title>産業連関表を3Dで可視化して「日本経済の地図帳」を作った【MapLibre / 3d-force-graph / 月0円】</title><link>https://qiita.com/Haradasn/items/cbe422339fa409dbb1ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.864] 日本の産業どうしの取引（産業連関表）を、3Dのネットワークと都道府県の立体地図にして、「経済の全体像」を眺められるサイトを作りました。 公的統計だけを使い、静的サイト＋Cloudflare Workers で月0円で動いています。人間の作業は2〜3時間ほどで、実装の大部分は AI（Claude）と一緒に進めました。
+- サイト：https://keizai-atlas.com
+- ソースコード：https://github.com/Haradasn/keizai-map （データの加工、サイトの生成、自動更新まで、すべて公開しています）
+はじめに：なぜ作ったか
+日経業界地図をパラパラ眺めていて</description><guid isPermaLink="false">https://qiita.com/Haradasn/items/cbe422339fa409dbb1ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 08:46:47 +0000</pubDate></item><item><title>崩れまくりのAI生成ポスターが世に出るのを不思議に思ってたけど「コストを抑えたくて使ってるんだからチェックが疎かになるのは当然」と言われて妙に納得した話</title><link>https://togetter.com/li/2757239</link><description>[score: 0.864] 崩れまくりのAI生成ポスターが世に出るのを不思議に思ってたけど「コストを抑えたくて使ってるんだからチェックが疎かになるのは当然」と言われて妙に納得した話 山口よしみ @Yoshimi08 なんで崩れまくりの生成AIのポスターとか世に出ちゃうのか不思議なんだけど、「人も金も時間も使いたくなくて生成AI使ってんだからそれらが全部必要なチェック作業がおろそかになるのは当然」的なコメント見かけてなんか妙に納得。 2026-10-11 15:12:26 山口よしみ @Yoshimi08 時間の都合とかで最...</description><guid isPermaLink="false">https://togetter.com/li/2757239</guid><pubDate>Mon, 12 Oct 2026 08:36:13 +0000</pubDate></item><item><title>AIを利用した業務理解のヒアリング練習</title><link>https://qiita.com/J-T_ky2g/items/af76f25eb1311d5530c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.865] はじめに
+- こういう要件とか、それ以前の理解力は苦手て課題感がある
+- なんとなくセンスないみたいに思ってしまっていた
+- 結構結果ボロボロだったが、少しずつダメなところが見えてきている
+ヒアリングの型
+- なぜ？を追いかける
+- 業務における例外の例外を探す
+- モデルやイベントを書いてみる
+ヒアリング前に書いたモデル
+- これが既にかなり筋悪いなと後になって思ったのですが、これはただのシステムの使い方の流れであって、業務のモデルではない
+- こういう捉え方をすると「謎の仕様変更」みたいな認知になる。これは仕事でシステムを作る時だけではなく、OSSだったりツールのユーザーとしてもそう
+ヒア</description><guid isPermaLink="false">https://qiita.com/J-T_ky2g/items/af76f25eb1311d5530c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 08:46:47 +0000</pubDate></item><item><title>バーナム英首相「EU離脱にロシア介入」　2016年の国民投票巡り - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOCB1206Y0S6A011C2000000/</link><description>[score: 0.865] バーナム英首相「EU離脱にロシア介入」 2016年の国民投票巡り
+【ロンドン=共同】英国のバーナム首相は2016年に欧州連合（EU）離脱を決めた国民投票について、ロシアによる介入があったと断言した。インタビューを収録したポッドキャスト番組が11日、発言の抜粋を公表した。
+英メディアによると、EU離脱を巡る国民投票でロシアの介入を公に認めた首相はバーナム氏が初めてとみられる。バーナム氏は来年に大統領選を控えるフランスや、極右政党の伸長が著しいドイツもロシアの介入に警戒するよう訴えた。
+バーナム氏は今年7月の首相就任後、関係者に「ロシアによる介入はあったのか」と尋ね、「確かにあった」との回答を得た</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOCB1206Y0S6A011C2000000/</guid><pubDate>Mon, 12 Oct 2026 04:46:15 +0000</pubDate></item><item><title>おしゃれなカフェで足を踏ん張りながら夕飯を食べてたらなんかそれから膝がおかしい「今度は腰をやりそうな姿勢」「これなら立ち食いのが楽だな」</title><link>https://togetter.com/li/2757132</link><description>[score: 0.866] サボチャン🥑
+@caver8
+こちらの画像みたいなカフェよりはテーブルが高くて食べる事が考慮されてたけど、、なんだろうソファーの高さかなぁ… x.com/kyubalnom/stat…
+2026-10-12 01:06:05オシャレカフェにありがちなこのテーブルと椅子、膝と腰を痛めてしまいそう
+popororin(popoさん)🐯
+@popororin
+これ、実は膝痛めるんよね。。。 ほんま、こういうカフェ何とかしてくれ。。。 客にこんな負担かけさせてまで店の見栄えに拘るのはカフェとしていかがなものかと思うわ。 x.com/caver8/status/…
+2026-10-12 09:13:17</description><guid isPermaLink="false">https://togetter.com/li/2757132</guid><pubDate>Mon, 12 Oct 2026 07:18:41 +0000</pubDate></item><item><title>AIの警告を重大度だけで並べない｜確信度を掛けて順位を出す（Python）</title><link>https://qiita.com/tsukurugawa/items/3608d96d5242abb098e5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.867] AIに異常を検知させると、警告が並びます。たいてい重大度の高い順です。
+重大度順のリストは正しく見えます。ほかの並べ方を思いつきにくい。ところが上から順に開けていくと、外れが混ざっています。しかも外れほど上にいることがある。
+並べ方が間違っているのではありません。並べるときに見ている値が1つ足りません。足りないのは重大度の細かさではなく、その警告がどれくらい確かかです。
+この記事では、ビル管理の業務システム（Python / FastAPI）で警告の順位をどう出しているかを、最小実装つきで書きます。
+順位はこの式で出している
+スコア ＝ 重大度の重み × 確信度 ＋ 種類の加点
+- 重大度の重</description><guid isPermaLink="false">https://qiita.com/tsukurugawa/items/3608d96d5242abb098e5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 08:46:47 +0000</pubDate></item><item><title>「やりがい感じるけど…」どうなる介護報酬 現場は？</title><link>https://news.web.nhk/newsweb/na/nd-20261012de58129</link><description>[score: 0.867] 「やりがい搾取に頼るのは職員たちにも限界がある」
+専門家もこう指摘するほど、介護職員の給与は他業種と比べると相対的に低い状態が続いています。
+物価高のなか、生活が苦しく、転職を考え始めている人も少…
 あわせて読みたい
-「ブラッサム」モデル宇野千代の特別展 直筆原稿など展示
-10月12日 4:44
-愛知 豊田 住宅の玄関先でクマに襲われ男性大けが
-10月11日 21:58
-子育てや働き盛りの世代で体力低下傾向 国の最新調査結果
-10月11日 18:41
-細野防災相 印旛沼など台風被害現場視察 “復旧復興を後押し”
-10月11日 20:27
-サウジ首都空港に攻撃 12人死亡 攻撃の応酬</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de58043</guid><pubDate>Sun, 11 Oct 2026 21:08:13 +0000</pubDate></item><item><title>インドのAIインフラ構築を牽引する大富豪たちの数十億ドル投資</title><link>https://forbesjapan.com/articles/detail/106494?s=ns</link><description>[score: 0.873] 本記事は、Forbesによる「インド長者番付2026」特集の一部である。全リストはこちら。
-インドをデータセンターの一大拠点にしようという競争は、同国の富豪上位2名が全国規模の整備を支えるべく数十億ドル規模の投資を表明したことで、今年一段と加速した。ゴータム・アダニは2月、自身のインフラ複合企業アダニ・グループが2035年までに1000億ドル（約15兆8000億円）を投じて、傘下のアダニ・グリーン・エナジーが供給する再生可能エネルギーで稼働するデータセンターを建設すると発表した。
-その直後、リライアンス・インダストリーズのムケシュ・アンバニは、新たなデータセンターとAI関連の取り組みに7年間で</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106494?s=ns</guid><pubDate>Sun, 11 Oct 2026 22:35:45 +0000</pubDate></item><item><title>AIに「予算10万ドル」を渡してブティックを運営させてみた。オープン初日、誰も人間が働きに来ずパニックになった</title><link>https://www.businessinsider.jp/article/2610-andon-market-luna-ai-agent-managed-store-san-francisco/</link><description>[score: 0.874] - アンドン・ラボ（Andon Labs）は、現実世界でAIエージェントのストレステストを実施している。
-- 同ラボは、ルナ（Luna）と呼ばれるエージェントに10万ドルの予算を与え、店舗のスタッフ採用から開店まで一切を任せた。
-- ルナは応募者に自身がAIであることを開示せず、初日にはスタッフ管理でミスを犯した。
-10万ドルを渡して実店舗を開くよう指示されたAIは、何ができるだろうか？
-実際にはかなりのことができると判明したが、店舗ロゴに一貫性がなかったり、従業員に勤務時間を伝え忘れたりといった問題も起きた。
-サンフランシスコを拠点とするスタートアップ、アンドン・ラボは、安全上のギャップがど</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-andon-market-luna-ai-agent-managed-store-san-francisco/</guid><pubDate>Sun, 11 Oct 2026 22:07:15 +0000</pubDate></item><item><title>音声合成の日本語化手法が一般化した話</title><link>https://zenn.dev/mkj/articles/0576d194771c08</link><description>[score: 0.875] 音声合成の日本語化手法が一般化した話
-株式会社松尾研究所で働いている栗原です。本記事は、松尾研究所 Advent Calendar 2025の記事です。
-はじめに
-日本語音声合成は、ディープラーニングを用いた音声合成手法が登場して以降、大きく品質を上げました。当初は、フィードフォワード型などの単純な手法で実現してきましたが、様々なディープラーニングの手法を取り込み、急激に品質を上げていき、あっという間に日常的に使用する技術になった感があります。
-日本語音声合成の一研究者として、この分野の発展を願い日本語音声合成全般について語っていきたいと思います。
-技術の全てを網羅すると書籍レベルの情報量にな</description><guid isPermaLink="false">https://zenn.dev/mkj/articles/0576d194771c08</guid><pubDate>Sun, 11 Oct 2026 23:28:32 +0000</pubDate></item><item><title>なろう系作品が全く売れてないらしい</title><link>https://anond.hatelabo.jp/20261011084632</link><description>[score: 0.876] Xとかで界隈で作者たちや読者層がもはや一昔前の街宣車の右翼の様に凄い叫んで宣伝してはいるのを今年から急に見かけるようになったけど
-どうもなろう系web小説関連がアニメから何に至るまで凄い勢いで市場縮小をしているからだ、という理由を聞いた。
-いやそんな急に売れなくなるとかなかなかないだろ、と思ってググったら、出版科学研究所の統計がトップに出てきた。
-2019年 270.9億 144.7億 126.2億
-2020年 283.7億 140.2億 143.5億
-2021年 248.9億 124.8億 124.1億
-2022年 215.9億 102.8億 113.1億
-2023年 203.0億 *95.</description><guid isPermaLink="false">https://anond.hatelabo.jp/20261011084632</guid><pubDate>Sun, 11 Oct 2026 22:10:19 +0000</pubDate></item><item><title>買い物客、AIエージェントには手綱が必要と実感……10kg弱の手羽先が必要な場合を除く</title><link>https://www.businessinsider.jp/article/2610-ai-agents-instinct-muse-redefine-personal-shopping-online/</link><description>[score: 0.878] InstinctやMuseをはじめとするAIエージェントは、急速に優秀な専属「パーソナルショッパー」へ進化しつつある。だが一部のユーザーは、これらのツールを無制限に野放しにせず「手綱を固く握っておく」必要があると実感している。
-格安航空券の検索から日々の食料品の補給に至るまで、3人の買い物客がビジネスインサイダーに対し、購買プロセスの一部を自動化するためにAIエージェントを導入していると語った。この自動化によって大幅な時間の節約になり、自分一人では絶対に発見できなかったような掘り出し物や割引価格を見つけ出せたと語る者もいる。
-しかし、買い物アシスタントとしてのAIエージェントの性能に感嘆してい</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-ai-agents-instinct-muse-redefine-personal-shopping-online/</guid><pubDate>Sun, 11 Oct 2026 23:05:29 +0000</pubDate></item><item><title>連休最終日も広く晴れ 太平洋沿岸は高波注意</title><link>https://news.web.nhk/newsweb/na/nd-20261011de58040</link><description>[score: 0.878] 3連休最終日の12日も北日本から西日本では、晴れて行楽日和のところが多くなる見込みです。一方、台風29号などの影響で、小笠原諸島や関東の沿岸などでは高波に注意してください。
-気象庁によりますと、1…
+介護報酬改定に向けて議論本格化 処遇の改善などが課題
+10月9日 19:31
+北朝鮮 弾道ミサイル少なくとも2発発射 EEZへの飛来確認されず
+10月12日 13:42
+ドジャースは黒星スタート リーグ優勝決定シリーズ【詳報】
+10月12日 17:21
+アルツハイマー病だった父 私は・・・
+10月4日 20:20
+“ロシアのグーグル”に無人機攻撃 一部サービス利用できず
+10月1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261012de58129</guid><pubDate>Mon, 12 Oct 2026 09:29:25 +0000</pubDate></item><item><title>【悲報】AIに自動化させることがない！</title><link>https://anond.hatelabo.jp/20261011170523</link><description>[score: 0.868] 【悲報】AIに自動化させることがない！ みんななにを自動化させているんだろう…😢</description><guid isPermaLink="false">https://anond.hatelabo.jp/20261011170523</guid><pubDate>Mon, 12 Oct 2026 04:40:37 +0000</pubDate></item><item><title>超富裕層の金融資産は庶民の71倍　でも深刻なのは「格差」ではない：朝日新聞</title><link>https://www.asahi.com/articles/ASVB62BV9VB6DIFI016M.html</link><description>[score: 0.868] 超富裕層の金融資産は庶民の71倍 でも深刻なのは「格差」ではない
+「日本は平等な社会」というイメージを持つ人は多いでしょう。ただ、数字を追うと、その姿は少し違って見えてきます。野村総合研究所の推計によれば、日本の世帯の約8割は「マス層」と呼ばれる金融資産3千万円未満の層に属します。一方で、金融資産5億円以上の「超富裕層」の平均資産額は約11億円。一般的な世帯と比較すると、その差は実に71倍に及びます。
+この格差によって誰が取り残されるのでしょうか。埼玉大学名誉教授・伊藤修さんの著書、朝日新書『日本経済はなぜ沈下したのか』（https://www.amazon.co.jp/dp/40229538</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVB62BV9VB6DIFI016M.html</guid><pubDate>Mon, 12 Oct 2026 11:59:28 +0000</pubDate></item><item><title>政策本位で「政界再編」　公明・岡本代表、自民含め連携：時事ドットコム</title><link>https://www.jiji.com/jc/article?k=2026101100223&amp;g=pol</link><description>[score: 0.870] 政策本位で「政界再編」 公明・岡本代表、自民含め連携
+公明党の岡本三成代表は時事通信のインタビューに応じ、「政界再編の結集軸」を目指す考えを強調した。与野党を問わず価値観の近い勢力と政策本位で連携を進めると訴えた。
+―高市早苗首相の評価は。
+リーダーシップがあるように見え、期待が高いのは分かるが、稚拙な点もある。安倍政権と比べて首相に反対する人はおそらくいない。決断するときは、自分と違う意見を広く聞くのが非常に大切だ。
+―公明、中道改革連合、立憲民主党の３党合流は見送られた。
+中道改革の結成時に納得して賛成した人が十分にいなかったのは反省点だ。もう少し時間をかけて議論し、政策に納得できない人は</description><guid isPermaLink="false">https://www.jiji.com/jc/article?k=2026101100223&amp;g=pol</guid><pubDate>Mon, 12 Oct 2026 11:40:41 +0000</pubDate></item><item><title>中国 9月の新車輸出が6割増 ガソリン高もEV需要を後押しか</title><link>https://news.web.nhk/newsweb/na/nd-20261012de58202</link><description>[score: 0.871] 9月に中国から輸出された新車は105万台と、去年の同じ月より61％増えました。 世界的にガソリン価格が高くなるなか、EV＝電気自動車などの需要が伸びているとみられます。
+中国の自動車メーカーなどで…
 あわせて読みたい
-細野防災相 印旛沼など台風被害現場視察 “復旧復興を後押し”
-10月11日 20:27
-二葉亭四迷の直筆原稿を初公開 東京 北区
-10月12日 5:38
-「ブラッサム」モデル宇野千代の特別展 直筆原稿など展示
-10月12日 4:44
-愛知 豊田 住宅の玄関先でクマに襲われ男性大けが
-10月11日 21:58
-子育てや働き盛りの世代で体力低下傾向 国の最新調査結果
-10月11日 1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261011de58040</guid><pubDate>Sun, 11 Oct 2026 21:08:13 +0000</pubDate></item><item><title>AI検索が「評判」をマーケティング課題に変えている</title><link>https://forbesjapan.com/articles/detail/106498?s=ns</link><description>[score: 0.878] 買い手は営業担当者と話す前に、まずAIにあなたの会社について尋ねる。そして今、その答えを担うのはマーケティングである。
-数カ月前、私がマーケティングキャンペーンを担当している美容外科クリニックチェーンのCMOと電話で話した。リードから営業電話への転換率、営業電話から成約への転換率がいずれも最近低下しており、CMOはその理由を知りたがっていた。
-私は同社のGoogle Analyticsを確認し、ChatGPTやその他のAI検索エンジンからの流入が増えていることに気づいた。気になってChatGPTにそのブランドについて尋ねたところ、思わず椅子から飛び上がりそうになった。回答は大部分が否定的だった</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106498?s=ns</guid><pubDate>Sun, 11 Oct 2026 23:07:55 +0000</pubDate></item><item><title>イラン、ホルムズ海峡再開案への米回答「不十分」 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBRRmx1bWRaV2M1SUk2YlAtajM5MlVvUndyZUpHTzVpWldKUlpCVnBvS0FieDZ3dzJwa1FKQjF1Zy03a1lnVWc2MDU0RHlUVEpWbG9uSjRaU1VlM0d2Q2VrVEhMcFpxWWV1ZEpTVTdyVGl3TjhOa3dyNkhuV3hHVUE?oc=5</link><description>[score: 0.879] イラン、ホルムズ海峡再開案への米回答「不十分」 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFBRRmx1bWRaV2M1SUk2YlAtajM5MlVvUndyZUpHTzVpWldKUlpCVnBvS0FieDZ3dzJwa1FKQjF1Zy03a1lnVWc2MDU0RHlUVEpWbG9uSjRaU1VlM0d2Q2VrVEhMcFpxWWV1ZEpTVTdyVGl3TjhOa3dyNkhuV3hHVUE?oc=5</guid><pubDate>Sun, 11 Oct 2026 23:57:34 +0000</pubDate></item><item><title>コーヒーは優秀な長寿サプリ…専門家が教える、効果を最大化する飲み方</title><link>https://www.businessinsider.jp/article/2610-how-to-get-most-out-of-coffee-for-longevity-performance/</link><description>[score: 0.881] - コーヒーには、体と脳を炎症から守る健康増進化合物が豊富に含まれている。
-- その有効成分であるカフェインには、集中力や運動能力、腸内環境の改善など、幅広い効果がある。
-- 長寿やパフォーマンスの専門家から、コーヒーのメリットを最大限に引き出す飲み方を学ぼう。
-長寿を目指して実験的なペプチドや高価なサプリメントを試す必要はないかもしれない。最高の長寿サプリメントは、おそらくすでにキッチンの棚にある。
-コーヒーは、世界で最も研究されているパフォーマンス向上物質の一つだ。広範な研究により、短期的な筋力・持久力・集中力の向上から、炎症や深刻な疾患に対する長期的な予防効果に至るまで、数多くのメリット</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-how-to-get-most-out-of-coffee-for-longevity-performance/</guid><pubDate>Sun, 11 Oct 2026 23:05:29 +0000</pubDate></item><item><title>“ロシアのグーグル”に無人機攻撃　一部サービス利用できず</title><link>https://news.web.nhk/newsweb/na/nd-20261012de58066</link><description>[score: 0.883] 「ロシアのグーグル」とも呼ばれるIT大手の「ヤンデックス」は、データセンターがウクライナの無人機による攻撃を受けて損傷したと発表しました。タクシーの配車やフードデリバリーなど一部のサービスが利用できな…
+APEC首脳会議前に中国と香港間の新たな出入境施設が完成
+10月12日 15:19
+北朝鮮 弾道ミサイル少なくとも2発発射 EEZへの飛来確認されず
+10月12日 13:42
+北朝鮮が韓国との境界付近を「要塞化」？いったい何が
+10月11日 19:47
+トランプ大統領 ウクライナ ロシア“エネルギー停戦”合意投稿
+10月12日 6:19
+トランプ大統領の支持は追い風か逆風か 共和</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261012de58202</guid><pubDate>Mon, 12 Oct 2026 09:29:25 +0000</pubDate></item><item><title>【速報】共産委員長、野党共闘路線の転換方針表明</title><link>https://www.47news.jp/15071598.html</link><description>[score: 0.874] 【速報】共産委員長、野党共闘路線の転換方針表明
+2026年10月12日 17時08分
+共産党の田村智子委員長は12日、第10回中央委員会総会で来年1月の党大会決議案を提示し、国政選挙での野党共闘路線を転換する方針を表明した。
+共産党、野党共闘路線を転換 政権と対峙、党勢拡大を優先
+17時59分
+共同通信
+【速報】農相は辞任すべきだと共産委員長
+10月05日
+共同通信
+共産、来年1月に党大会 統一地方選へ支持拡大を
+09月03日
+共同通信
+「オブザーバー参加を」 与野党党首らが広島平和記念式典に出席 核禁条約会議を巡り要請
+08月06日
+中国新聞
+共産、防衛費増額方針を批判 田村氏、支持拡大意欲</description><guid isPermaLink="false">https://www.47news.jp/15071598.html</guid><pubDate>Mon, 12 Oct 2026 11:59:28 +0000</pubDate></item><item><title>経営者に戦略のアドバイスも 経営の中枢でAI活用の動き相次ぐ</title><link>https://news.web.nhk/newsweb/na/nd-20261012de58173</link><description>[score: 0.874] AIの利用が広がるなか、競合他社の経営計画などを分析した上で、自社がどのような戦略をとるべきかを経営者などにアドバイスするサービスを日立製作所が始めるなど、経営の中枢に関わるところでもAIを活用しよう…
 あわせて読みたい
-「ブラッサム」モデル宇野千代の特別展 直筆原稿など展示
-10月12日 4:44
-愛知 豊田 住宅の玄関先でクマに襲われ男性大けが
-10月11日 21:58
-子育てや働き盛りの世代で体力低下傾向 国の最新調査結果
-10月11日 18:41
-細野防災相 印旛沼など台風被害現場視察 “復旧復興を後押し”
-10月11日 20:27
-サウジ首都空港に攻撃 12人死亡 攻撃の応酬激化のお</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261012de58066</guid><pubDate>Sun, 11 Oct 2026 22:05:32 +0000</pubDate></item><item><title>AIが「成果」の定義を変えるとき──拡張のパラドックス</title><link>https://forbesjapan.com/articles/detail/106497?s=ns</link><description>[score: 0.884] 人工知能（AI）は、職場での実験段階から日常的なインフラへと急速に移行しつつある。
-PwCの「世界の労働者意識調査（Global Workforce Hopes and Fears）2026年版」によると、過去12カ月間に業務でAIを使用した労働者は64%に上った。日常的に使用している人は22%で、前年比50%以上の増加である。
-その魅力は理解しやすい。
-AIは、白紙の状態から有用な成果までの距離を縮めてくれる。情報を精査し、議論を検証し、アウトプットを素早く改善する助けとなる。
-うまく使えば、AIは人間の思考を置き換えるのではなく、その射程を広げてくれる。
-組織もまた恩恵を受けている。ボスト</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106497?s=ns</guid><pubDate>Sun, 11 Oct 2026 23:07:55 +0000</pubDate></item><item><title>ゼロトラストはキツくない｜「完成」を目指す運用がキツい | CloudNative BLOGs</title><link>https://blog.cloudnative.co.jp/articles/answer-ai-era-zero-trust/</link><description>[score: 0.886] シンジです。
-ついさっき、うちのすかんくが「AI時代のゼロトラストがキツい件について」という記事を書きました。OpenAIとHugging Faceのインシデントを起点に、ゼロトラストの前提を疑い、デセプションと復旧全振りを検討し、最後は「答えは出ていませんし、出すつもりも正直無いです」と言い切って終わる記事です。
-書き手として誠実な締め方だと思います。考えかけのメモを考えかけのまま出す勇気は、社員に持っていてほしいものの筆頭です。
-答えを出さなくていいのは、答えを出す役目の人間が別にいるからです。 セキュリティ予算の稟議に最後に判子を押すのも、リスクアペタイトを決めるのも、彼の記事が「現場で</description><guid isPermaLink="false">https://blog.cloudnative.co.jp/articles/answer-ai-era-zero-trust/</guid><pubDate>Sun, 11 Oct 2026 23:28:32 +0000</pubDate></item><item><title>アメリカ軍が銃殺刑の執行をライブ配信へ 批判呼ぶ可能性も | NHKニュース</title><link>https://news.web.nhk/newsweb/na/nd-20261009de56985</link><description>[score: 0.886] 2009年、アメリカ軍基地で銃を乱射し兵士13人を殺害したとして殺人などの罪に問われ、死刑を言い渡されていた軍医について、国防総省の担当者は、刑の執行をライブ配信すると明らかにしました。
-アメリカメ…
+生成AIの安全性評価するシステム開発
+10月12日 4:47
+北朝鮮 弾道ミサイル少なくとも2発発射 EEZへの飛来確認されず
+10月12日 13:42
+北朝鮮が韓国との境界付近を「要塞化」？いったい何が
+10月11日 19:47
+ドジャースは黒星スタート リーグ優勝決定シリーズ【詳報】
+10月12日 17:21
+トランプ大統領の支持は追い風か逆風か 共和党候補の本音は？
+1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261012de58173</guid><pubDate>Mon, 12 Oct 2026 11:19:36 +0000</pubDate></item><item><title>米国、ウクライナへの情報共有と兵器供与停止を警告　ロシアへのエネルギー施設攻撃やめなければ　情報筋</title><link>https://www.cnn.co.jp/usa/35253469.html</link><description>[score: 0.877] モスクワの製油所が攻撃を受け、煙が立ち上る様子＝9月20日/UGC/Reuters （CNN） トランプ政権はウクライナと欧州の同盟国に対し、ウクライナ政府がロシアのエネルギー施設への長距離攻撃を停止しなければ、米国による情報共有や、欧州諸国を通じたウクライナ向け米国製兵器供与を停止する可能性があると警告した。欧州当局者2人がCNNに明らかにした。 米国務省と国防総省が発したこの警告は週末、ウクライナと欧州の当局者に伝えられた。これには米軍からウクライナ軍の司令部に直接伝えられたものも含まれる。 事情に詳しい別の情報筋も、米国が情報共有の停止をちらつかせたと語った。 こうした警告については英紙</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35253469.html</guid><pubDate>Mon, 12 Oct 2026 04:04:15 +0000</pubDate></item><item><title>アフリカのエボラ出血熱、ケニアでも初の症例　コンゴ周辺国に依然感染拡大の恐れ</title><link>https://www.cnn.co.jp/world/35253471.html</link><description>[score: 0.877] 保護具を装着する看護師。ケニアのナイロビ病院でエボラ出血熱感染の可能性がある患者を受け入れる隔離施設での様子＝7日/Luis Tato/AFP/Getty Images （CNN） アフリカ中部コンゴ民主共和国でエボラ出血熱の感染拡大が続く中、何カ月も前から対策を講じていたケニアで、初の症例が確認された。 患者は男性はコンゴから来た男性で、数週間前から体調を崩していた。コンゴ東部を出発して陸路で隣国ウガンダに入った後、航空機でケニアの首都ナイロビへ移動。両国の空港で受けた健康チェックはそのまま通過していた。 ナイロビ市内にある私立病院へは、親類と友人が空港から直接車で送った。ケニア保健省による</description><guid isPermaLink="false">https://www.cnn.co.jp/world/35253471.html</guid><pubDate>Mon, 12 Oct 2026 05:08:05 +0000</pubDate></item><item><title>月間100万人のサービス刷新で、 技術選定をHonoに振り切った話</title><link>https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a</link><description>[score: 0.877] 月間100万人のサービス刷新で、 技術選定をHonoに振り切った話 Hono Conference 2026 の登壇資料です。月間100万人のサービスを6人とAIで作り直しました。AIを迷わせない開発の土台作りと、Honoが効いた理由について、紹介しています。 Cherenkov</description><guid isPermaLink="false">https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a</guid><pubDate>Mon, 12 Oct 2026 13:25:23 +0000</pubDate></item><item><title>Mythos 対策プロジェクトの 2 ヶ月(概要編) - Cybozu Inside Out | サイボウズエンジニアのブログ</title><link>https://blog.cybozu.io/entry/logos-overview</link><description>[score: 0.878] Mythos の存在についてアナウンスされた今年の 4 月。
+サイボウズのサービスでも、攻撃のリスクがあるなら対策が必要かもねぇ、と思っていました。
+5 月ごろ、しばらくは調査として、様々なモデルを使い、一人で検証を重ねていました。
+ところが 6 月の「本当に公開されそう」という続報をきっかけに、本格的な対策に動き出さないとまずそうだと考え、サイボウズ社内で Mythos 対策プロジェクトを始動しました。
+私たちはそれを "Logos プロジェクト" と名付けました。
+Mythos 神話・物語・語られるもの = 人を動かす物語 Logos 説明可能な言葉・理性・理論 = 物語を検証する
+- &gt;</description><guid isPermaLink="false">https://blog.cybozu.io/entry/logos-overview</guid><pubDate>Mon, 12 Oct 2026 13:25:23 +0000</pubDate></item><item><title>「Claude」を虐めるな！ Anthropicが規約変更でAIへの虐待行為を禁止／どんな問題があるのか考えてみた【やじうまの杜】</title><link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2147196.html</link><description>[score: 0.879] 「Claude」を虐めるな！ Anthropicが規約変更でAIへの虐待行為を禁止／どんな問題があるのか考えてみた【やじうまの杜】 misshiki Anthropic Anthropicが利用規約を改定し、11月12日から適用。AIモデルへの持続的で不必要な虐待・残酷な行為を禁止する。偽アカウント運営や影響力工作、捜査・逮捕・起訴の決定・推奨への利用も禁止。</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/serial/yajiuma/2147196.html</guid><pubDate>Mon, 12 Oct 2026 05:23:33 +0000</pubDate></item><item><title>サウジアラビア 首都の国際空港に攻撃相次ぐ 緊張の高まり懸念</title><link>https://news.web.nhk/newsweb/na/nd-20261012de58223</link><description>[score: 0.879] イエメンの反政府勢力フーシ派と対立するサウジアラビアの当局は、首都リヤドの国際空港が11日、2日連続となる攻撃を受け、1人が死亡したと発表しました。 一方、イエメンではフーシ派の支配地域に対するサウジ…
 あわせて読みたい
-ロシアの攻撃相次ぐウクライナ 首都キーウで計画停電開始
-10月9日 11:03
-トランプ政権 マイクロソフトなどの永住権手続き受け付け停止
-10月9日 8:07
-ロシア ICC赤根所長らの身柄引き渡しをオランダなどに要請
-10月9日 11:51
-ナスダック指数一時1.7％下落 オープンAIの成長に懸念
-10月9日 7:01
-インド 有権者名簿の不正疑惑で最大野党が抗議デモ
-10</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261009de56985</guid><pubDate>Sun, 11 Oct 2026 23:28:32 +0000</pubDate></item><item><title>朝のバタバタも、寝る前のモヤモヤも。仕事終わりの5分で軽くなる4つの習慣</title><link>https://studyhacker.net/morning-small-actions</link><description>[score: 0.887] 朝はいつもバタバタしていて、職場に着いてもやるべきことが頭のなかでごちゃごちゃし、無駄に時間が過ぎていきます。 そんな悪循環に心当たりがあるなら、仕事終わりの5分で、頑張らなくてもできる小さな行動を試してみてください。特別な道具も必要ありません。 （1）朝の「今日は何着よう」をなくすだけで、頭がすっきりする （2）机の上を1分片付けるだけで、仕事の始まりが変わる （3）あえて「やりきらない」。心理学に基づく仕事の切り上げ方 （4）頭が冴えて眠れない人へ。1行だけ書いて眠りを変える よくある質問（FAQ） （1）朝の「今日は何着よう」をなくすだけで、頭がすっきりする 筆者は以前、着る服選びやカバ</description><guid isPermaLink="false">https://studyhacker.net/morning-small-actions</guid><pubDate>Sun, 11 Oct 2026 22:46:36 +0000</pubDate></item><item><title>OpenAIの新しいAIエージェントを職場で試したところ、企業ITの頭痛の種になった</title><link>https://www.businessinsider.jp/article/2610-openai-dots-ai-agent-corporate-it-workplace-test/</link><description>[score: 0.887] 私は最近、サンフランシスコにあるOpenAIのオフィスで開催された研修セッションに参加した。テーマは同社の最新AIエージェント機能「Dots（ドッツ）」のすべてであった。
-私は約30人の他のテック系記者、OpenAIの広報担当者、そして開発者担当者と同じ部屋に座っていた。「Dots」のプロダクト責任者であるアレキサンダー・エンビリコス（Alexander Embiricos）氏も顔を出してくれた。
-適切なChatGPTアカウント、最低でもProサブスクリプション以上を保有していれば、自身のDotがそこで待機している。私の場合、所属するビジネスインサイダーが「Enterprise」法人アカウント</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-openai-dots-ai-agent-corporate-it-workplace-test/</guid><pubDate>Sun, 11 Oct 2026 23:05:29 +0000</pubDate></item><item><title>やっぱりApple Watchで決まり！ Series 12は計測が大きく進化、健康になりたい俺が本気で試してみた (1/5)</title><link>https://ascii.jp/elem/000/004/440/4440915/</link><description>[score: 0.891] やっぱりApple Watchで決まり！ Series 12は計測が大きく進化、健康になりたい俺が本気で試してみた (1/5) 健康診断の結果を見るたびに、そろそろ本気で体を立て直したいと思う。そんな人は多いはずです。私もその一人で、これまでいくつものスマートウォッチを試してきましたが、結局手元に残るのはApple Watchでした。9月に発売された12世代目の「Apple Watch Series 12」は、見た目こそ前のモデルとほぼ同じですが、中身は心...</description><guid isPermaLink="false">https://ascii.jp/elem/000/004/440/4440915/</guid><pubDate>Sun, 11 Oct 2026 23:36:22 +0000</pubDate></item><item><title>アンソロピックがClaudeのルールに加えた最大の変更</title><link>https://www.businessinsider.jp/article/2610-anthropic-changes-rules-claude-usage-policy/</link><description>[score: 0.891] Claudeの悪用を防止するためのアンソロピックの新規則は、今回の利用規約改定における唯一のトピックではない。
-アンソロピックは、欺瞞的な情報工作、民主的選挙、兵器開発、市民監視、法執行手続き、ならびにClaudeに接続・連動する自律型ハードウェアに至るまで、多岐にわたる新規定を条文として明記した。
-アンソロピックは、最新版ポリシーにおける変更点の大半は「既存のルールをより具体的かつ明確に再定義すること」を目的としたものだと説明。改定規定は11月12日より適用開始となる。
-欺瞞的な世論工作・影響工作キャンペーンの禁止
-アンソロピックは利用規約に「欺瞞的なキャンペーンや不自然な人工活動に関与しな</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-anthropic-changes-rules-claude-usage-policy/</guid><pubDate>Sun, 11 Oct 2026 23:05:29 +0000</pubDate></item><item><title>AI活用の成否を分ける、見落とされがちな「人間」という要素</title><link>https://forbesjapan.com/articles/detail/106499?s=ns</link><description>[score: 0.892] ベンダーの売り文句を十分に聞けば、適切な人工知能（AI）を業務に組み込むだけで、一夜にして奇跡が起きると思っても無理はない。しかし、AIの圧倒的な可能性を示しているように見えるあらゆる測定値や指標は、重要なポイント、そして大きな障壁となり得るものを見落とし続けている。人間がAIを受け入れ、それをワークフローに組み込むことだ。
-ある調査はこの要因に「AI-whelmed workers（AIに圧倒される労働者）」という、おそらくふさわしい呼称を与えている。AIが大きな恩恵をもたらすはずだと理解している一方で、それをどう実現すればよいかの指針を与えられていない人々だ。Resume Nowが米国で雇</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106499?s=ns</guid><pubDate>Sun, 11 Oct 2026 23:07:55 +0000</pubDate></item><item><title>中国ではなぜAIが「人類存亡のリスク」として語られないのか</title><link>https://wired.jp/article/sz-why-china-isnt-getting-existential-about-ai/</link><description>[score: 0.894] 2026年9月13日、中国の国家安全部長は、国営誌に寄稿した論考のなかで、AI（人工知能）が中国共産党（CCP）の統治に脅威をもたらしうると警告した。これは、AIが人類の存亡に関わるリスクをもたらしかねないという米国国内での懸念の高まりや、ワシントンに規制を求める声の拡大と時を同じくしている。
-規制を求める声の多くは、AnthropicやOpenAIといった主要AI企業で働く人々から上がっており、連邦議会では幅広いイデオロギーの連合からの支持も得ている。だがホワイトハウスには、規制への意欲はほとんど見られない。トランプ大統領は、米国は中国を凌駕するためにAI開発を加速させなければならないと述べ</description><guid isPermaLink="false">https://wired.jp/article/sz-why-china-isnt-getting-existential-about-ai/</guid><pubDate>Sun, 11 Oct 2026 22:25:22 +0000</pubDate></item><item><title>トランプ大統領 ウクライナ ロシア“エネルギー停戦”合意投稿</title><link>https://news.web.nhk/newsweb/na/nd-20261012de58065</link><description>[score: 0.895] アメリカのトランプ大統領は、11日、SNSにロシアとウクライナが互いのエネルギー関連施設への攻撃をしないことで合意したと投稿しました。
-ただ、9月にもトランプ大統領が同様の投稿を行ったあと、両国は攻…
-あわせて読みたい
-フーシ派 リヤドの国際空港攻撃と主張 緊張高まり懸念
-10月12日 4:37
+トランプ大統領 ウクライナ ロシア“エネルギー停戦”合意投稿
+10月12日 6:19
+トランプ大統領の支持は追い風か逆風か 共和党候補の本音は？
+10月12日 11:20
 “ガザ停戦”から１年経過 イスラエル軍の攻撃で死者相次ぐ
 10月12日 4:50
-ネパールで土石流が発生 軍が救助活動 土砂が川をせき止める
-10月11日 22:17
-アメリカ テネシー州で死刑執行も生存 死刑制度めぐり議論に
-10月11日 18:47
-北朝鮮が韓国との境界付近を「要塞化」？いったい何</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261012de58065</guid><pubDate>Sun, 11 Oct 2026 22:05:32 +0000</pubDate></item><item><title>AIはコードを書けるが、企業のテックスタックを置き換えることはない</title><link>https://forbesjapan.com/articles/detail/106512?s=ns</link><description>[score: 0.897] 生成AIとエージェント型AIの台頭、そしてAIコーディングツールの機能向上により、従来型のソフトウェア企業、SaaS企業、テクノロジーサービス企業に対する強力な弱気論が生まれている。その主張は一見すると単純明快だ。AIが迅速かつ低コストでソフトウェアを生成できるなら、企業は既存のテクノロジースタックの大部分を置き換え、ソフトウェアベンダー、システムインテグレーター、アウトソーシング事業者、マネージドサービス企業への支出を削減できるはずだ、というものだ。
-私は、この見立ては大幅に誇張されていると考えている。AIはテクノロジーの経済性を変えるだろう。しかし、企業のテックスタックが全面的に置き換わる</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106512?s=ns</guid><pubDate>Sun, 11 Oct 2026 23:39:09 +0000</pubDate></item><item><title>海外メディアの警鐘「反移民フェイクニュース」が日本経済に大打撃を与える | インフルエンサーと極右政党が誤情報を拡散</title><link>https://courrier.jp/news/archives/461869/</link><description>[score: 0.900] 海外メディアの警鐘「反移民フェイクニュース」が日本経済に大打撃を与える | インフルエンサーと極右政党が誤情報を拡散 排外主義的な政策に海外メディアも注目 2026年10月1日、日本で暮らす外国人の在留審査手数料が大幅に値上がりした。 特に大きな変更があったのが永住者で、許可申請の手数料がこれまでの1万円から20万円へと引き上げられた。さらに永住許可をとるための要件に、日本人世帯の平均を上回る収入や一定の日本語能力、日本の...</description><guid isPermaLink="false">https://courrier.jp/news/archives/461869/</guid><pubDate>Sun, 11 Oct 2026 23:11:17 +0000</pubDate></item></channel></rss>
+移民乗せたイエメン行きの船がジブチ沖で転覆 139人死亡
+10月12日 11:57
+北朝鮮 弾道ミサイル少なくとも2発発射 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261012de58223</guid><pubDate>Mon, 12 Oct 2026 11:19:36 +0000</pubDate></item><item><title>トランプ氏「露とウクライナでエネルギー停戦」、互いに施設攻撃せず…ゼレンスキー氏「初耳」・露対応不明</title><link>https://www.yomiuri.co.jp/world/20261012-GYT1T00006/</link><description>[score: 0.880] トランプ氏「露とウクライナでエネルギー停戦」、互いに施設攻撃せず…ゼレンスキー氏「初耳」・露対応不明
+完了しました
+【ワシントン＝阿部真司】米国のトランプ大統領は１１日、自身のＳＮＳで、ロシアとウクライナがそれぞれ、互いのエネルギー施設を攻撃しないことに合意したと主張した。ウクライナのウォロディミル・ゼレンスキー大統領は応じる姿勢を示しているが露側の対応は不明で、停戦が実現するかどうかは不透明だ。
+トランプ氏はＳＮＳに「即日発効でロシアとウクライナ間の戦争でエネルギー停戦が成立した」と投稿した。詳細は触れていない。
+米ニュースサイト・アクシオスによると、ゼレンスキー氏はエネルギー停戦に関する情</description><guid isPermaLink="false">https://www.yomiuri.co.jp/world/20261012-GYT1T00006/</guid><pubDate>Mon, 12 Oct 2026 00:35:17 +0000</pubDate></item><item><title>【愚痴】今のAI開発は間違っている</title><link>https://qiita.com/compalog/items/a883eb6894a5a1ca70b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] Copyright (c) compalog
+This article is licensed under Compalog's Articles License
+- If you use the content of this article in your content, contact the writer who wrote this article
+- If you use the content of this article in your content, explicit the link to this article and the writer's name
+- If</description><guid isPermaLink="false">https://qiita.com/compalog/items/a883eb6894a5a1ca70b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 08:46:47 +0000</pubDate></item><item><title>金融庁、本人確認は「画像」から「ICチップ」へ　早期移行を要請　免許証の大規模流出を受け</title><link>https://japan.cnet.com/article/35253438/</link><description>[score: 0.882] 金融庁は10月9日、金融機関などに対し、非対面の本人確認を、書類の画像を送る方法から書類のICチップ情報を読み取る方法へ、できるだけ早く切り替えるよう求めた。インターネット上の顧客向けサービスや業務システムへの不正アクセスが相次ぎ、運転免許証などの画像を含む顧客情報が漏えいしていることを受けた対応だ。あわせて、サイバーセキュリティ対策の点検も求めた。
+犯罪収益移転防止法施行規則の改正により、2027年4月1日に本人確認書類の画像を送信して本人確認を行う方法が廃止され、ICチップ情報の読み取りに原則一本化される。金融庁はICチップの読み取りを「不正対策として極めて効果が高い」として、施行日を待た</description><guid isPermaLink="false">https://japan.cnet.com/article/35253438/</guid><pubDate>Mon, 12 Oct 2026 13:17:40 +0000</pubDate></item><item><title>11億円流出のはてなが今年の株主総会を完全オンラインに。不祥事企業が質問を取捨選択できる「バーチャルオンリー株主総会」に逃れる問題 - スズキオンライン</title><link>https://michsuzuki.hatenablog.com/entry/2026/10/12/152355</link><description>[score: 0.888] 11億円流出のはてなが今年の株主総会を完全オンラインに。不祥事企業が質問を取捨選択できる「バーチャルオンリー株主総会」に逃れる問題 - スズキオンライン 企業の重要事項を決めるだけでなく、株主への説明責任を果たす場でもある株主総会。 コロナ禍を経て、配信などでも株主総会の様子を見られるようにする「バーチャル株主総会」を開催する企業が大きく増えました。他に用事がある株主や、会場が遠い株主にとっては、わざわざ現地に行く手間が省けて、大変ありがたい仕組み...</description><guid isPermaLink="false">https://michsuzuki.hatenablog.com/entry/2026/10/12/152355</guid><pubDate>Mon, 12 Oct 2026 12:40:00 +0000</pubDate></item><item><title>GitHub - oboroge0/hayamimi: 早耳 - Real-time multilingual speech-to-text on CPU only. Live subtitles, browser dashboard, speaker labels, translation. No GPU, no cloud.</title><link>https://github.com/oboroge0/hayamimi</link><description>[score: 0.895] GitHub - oboroge0/hayamimi: 早耳 - Real-time multilingual speech-to-text on CPU only. Live subtitles, browser dashboard, speaker labels, translation. No GPU, no cloud. Real-time, multilingual speech-to-text on CPU only. Live subtitles, a browser dashboard, speaker labels, and on-the-fly translation --</description><guid isPermaLink="false">https://github.com/oboroge0/hayamimi</guid><pubDate>Sun, 11 Oct 2026 23:28:32 +0000</pubDate></item><item><title>プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に</title><link>https://togetter.com/li/2757347</link><description>[score: 0.895] 別にプログラミングにAI使うのは全然悪くないと思うけど、初心者が本格的に使って商売しようとするのは違うと思うんだよなぁ 例えばAIに書かせたコードがエラー吐いた時、クライアントに責任を取れるのか？って話 AIが書いたので僕分かりませんは通用しない
+2026-10-12 08:48:29まあ3年くらいしたら大多数のプログラマーはAIに仕事奪われてると思うし 古い考え方なのかもね🥹🥹🥹 x.com/gurimu3150/sta…
+2026-10-12 11:49:44練習でAIを使うのは良いけどお金にするのはどうなの？
+プログラミングは初心者がAIにかかせるとエラーの場合に修正できなくなるし、改善</description><guid isPermaLink="false">https://togetter.com/li/2757347</guid><pubDate>Mon, 12 Oct 2026 13:27:19 +0000</pubDate></item></channel></rss>
