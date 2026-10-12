@@ -1,125 +1,153 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 12 Oct 2026 13:54:28 +0000</lastBuildDate><item><title>5 MCP Servers Shouldn’t Mean 5 Config Entries and 5 API Keys: Docker MCP Gateway Runs Them All Behind 1 Container-Isolated Entry</title><link>https://dev.to/juholee/5-mcp-servers-shouldnt-mean-5-config-entries-and-5-api-keys-docker-mcp-gateway-runs-them-all-fnl</link><description>[score: 0.863] Every MCP server you add to Claude Code is another claude mcp add line, another Node or Python process running on your machine with your user’s full permissions, and often another API key sitting in a config file. By the fifth server, it’s hard to say what’s installed, what it can touch, or where th</description><guid isPermaLink="false">https://dev.to/juholee/5-mcp-servers-shouldnt-mean-5-config-entries-and-5-api-keys-docker-mcp-gateway-runs-them-all-fnl</guid><pubDate>Mon, 12 Oct 2026 13:04:01 +0000</pubDate></item><item><title>AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供　米政権は「通知と是正は義務」と警告</title><link>https://www.itmedia.co.jp/news/article/2610/12/2000002192/</link><description>[score: 0.863] AnthropicのAI、未解決殺人事件で警察に虚偽の情報提供 米政権は「通知と是正は義務」と警告
-米Anthropicは10月9日（現地時間）、AIモデル「Claude」が評価試験や社内利用中に、外部サーバの脆弱性を悪用したり、警察に架空の情報を送信したりするなど、意図しない行動を取っていたと発表した。政府機関のWebサイトが関係する事例もあり、同社はホワイトハウスに説明するとともに、関係機関に通知した。ホワイトハウス側は、AI企業に対してインシデントの迅速な報告と是正措置を求めている。
-Anthropicによると、同社は7月に評価試験の記録の調査を始め、対象を順次拡大してきた。今回報告した</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/12/2000002192/</guid><pubDate>Mon, 12 Oct 2026 01:33:34 +0000</pubDate></item><item><title>朝礼で「何か連絡ありますか」と言われ「公園にいっぱい銀杏落ちてて拾い放題です」と言った人が怒られていて、きっと善意だったんだろうなと思って胸がきゅっとなった</title><link>https://togetter.com/li/2757273</link><description>[score: 0.864] 朝礼で「何か連絡ありますか」と言われ「公園にいっぱい銀杏落ちてて拾い放題です」と言った人が怒られていて、きっと善意だったんだろうなと思って胸がきゅっとなった ナドち @yadoku_kaeru8 工場で働いてた時 朝礼で「何か連絡ありますか」と言われ「××公園のとこにいっぱい銀杏落ちてて、拾い放題なのでオススメです！」と言った人がおり、「それ今言うことですか？」と怒られて... firststar_hateno 銀杏の落ちる季節、職場の雰囲気も一緒に落ちてしまったのですわね。コミュニケーションが大切ですの。</description><guid isPermaLink="false">https://togetter.com/li/2757273</guid><pubDate>Mon, 12 Oct 2026 13:25:23 +0000</pubDate></item><item><title>中古CPUを買ったら「前の持ち主のBAN」でVALORANTが遊べなくなったとの報告</title><link>https://gigazine.net/news/20261012-valorant-used-cpu-hardware-ban/</link><description>[score: 0.864] 中古CPUを買ったら「前の持ち主のBAN」でVALORANTが遊べなくなったとの報告
-中古で購入したAMD製CPU「Ryzen 7 5800X3D」をPCに取り付けた後、FPSゲーム「VALORANT」をプレイできなくなったとプレイヤーがRedditに投稿しました。投稿者は前の持ち主が受けた利用制限(BAN)を引き継いでしまったと訴えており、運営・開発会社であるRiot Gamesのチート対策責任者がその説明の一部に反論しています。
-Gebrauchte CPU erlaubt kein Valorant : r/PCBaumeister
-https://www.reddit.com/r/PC</description><guid isPermaLink="false">https://gigazine.net/news/20261012-valorant-used-cpu-hardware-ban/</guid><pubDate>Mon, 12 Oct 2026 13:41:15 +0000</pubDate></item><item><title>AI人材の年収は非AIの2倍だが女性比率は26%　ジェンダーギャップが浮き彫りに</title><link>https://forbesjapan.com/articles/detail/103544?s=ns</link><description>[score: 0.864] AIは、新たな雇用機会の波を生み出している。LinkedIn（リンクトイン）の調査によると、特定の主要市場ではAI関連の求人数が2023年以降で約2倍に増加しており、一般的な求人の提示報酬が8万ドル（約1270万円）であるのに対し、AI関連の求人では約17万7000ドル（約2820万円）となっている。
-しかし、2025年におけるこれらの職種への採用者のうち、女性が占める割合はわずか26％にとどまった。
-STEM（Science, Technology, Engineering and Mathematics）分野は伝統的に男性優位の業界が多いが、AI雇用のブームに伴い、その格差はより顕著で明確</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/103544?s=ns</guid><pubDate>Mon, 12 Oct 2026 06:26:25 +0000</pubDate></item><item><title>産業連関表を3Dで可視化して「日本経済の地図帳」を作った【MapLibre / 3d-force-graph / 月0円】</title><link>https://qiita.com/Haradasn/items/cbe422339fa409dbb1ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.864] 日本の産業どうしの取引（産業連関表）を、3Dのネットワークと都道府県の立体地図にして、「経済の全体像」を眺められるサイトを作りました。 公的統計だけを使い、静的サイト＋Cloudflare Workers で月0円で動いています。人間の作業は2〜3時間ほどで、実装の大部分は AI（Claude）と一緒に進めました。
-- サイト：https://keizai-atlas.com
-- ソースコード：https://github.com/Haradasn/keizai-map （データの加工、サイトの生成、自動更新まで、すべて公開しています）
-はじめに：なぜ作ったか
-日経業界地図をパラパラ眺めていて</description><guid isPermaLink="false">https://qiita.com/Haradasn/items/cbe422339fa409dbb1ec?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 08:46:47 +0000</pubDate></item><item><title>崩れまくりのAI生成ポスターが世に出るのを不思議に思ってたけど「コストを抑えたくて使ってるんだからチェックが疎かになるのは当然」と言われて妙に納得した話</title><link>https://togetter.com/li/2757239</link><description>[score: 0.864] 崩れまくりのAI生成ポスターが世に出るのを不思議に思ってたけど「コストを抑えたくて使ってるんだからチェックが疎かになるのは当然」と言われて妙に納得した話 山口よしみ @Yoshimi08 なんで崩れまくりの生成AIのポスターとか世に出ちゃうのか不思議なんだけど、「人も金も時間も使いたくなくて生成AI使ってんだからそれらが全部必要なチェック作業がおろそかになるのは当然」的なコメント見かけてなんか妙に納得。 2026-10-11 15:12:26 山口よしみ @Yoshimi08 時間の都合とかで最...</description><guid isPermaLink="false">https://togetter.com/li/2757239</guid><pubDate>Mon, 12 Oct 2026 08:36:13 +0000</pubDate></item><item><title>AIを利用した業務理解のヒアリング練習</title><link>https://qiita.com/J-T_ky2g/items/af76f25eb1311d5530c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.865] はじめに
-- こういう要件とか、それ以前の理解力は苦手て課題感がある
-- なんとなくセンスないみたいに思ってしまっていた
-- 結構結果ボロボロだったが、少しずつダメなところが見えてきている
-ヒアリングの型
-- なぜ？を追いかける
-- 業務における例外の例外を探す
-- モデルやイベントを書いてみる
-ヒアリング前に書いたモデル
-- これが既にかなり筋悪いなと後になって思ったのですが、これはただのシステムの使い方の流れであって、業務のモデルではない
-- こういう捉え方をすると「謎の仕様変更」みたいな認知になる。これは仕事でシステムを作る時だけではなく、OSSだったりツールのユーザーとしてもそう
-ヒア</description><guid isPermaLink="false">https://qiita.com/J-T_ky2g/items/af76f25eb1311d5530c0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 08:46:47 +0000</pubDate></item><item><title>バーナム英首相「EU離脱にロシア介入」　2016年の国民投票巡り - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOCB1206Y0S6A011C2000000/</link><description>[score: 0.865] バーナム英首相「EU離脱にロシア介入」 2016年の国民投票巡り
-【ロンドン=共同】英国のバーナム首相は2016年に欧州連合（EU）離脱を決めた国民投票について、ロシアによる介入があったと断言した。インタビューを収録したポッドキャスト番組が11日、発言の抜粋を公表した。
-英メディアによると、EU離脱を巡る国民投票でロシアの介入を公に認めた首相はバーナム氏が初めてとみられる。バーナム氏は来年に大統領選を控えるフランスや、極右政党の伸長が著しいドイツもロシアの介入に警戒するよう訴えた。
-バーナム氏は今年7月の首相就任後、関係者に「ロシアによる介入はあったのか」と尋ね、「確かにあった」との回答を得た</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOCB1206Y0S6A011C2000000/</guid><pubDate>Mon, 12 Oct 2026 04:46:15 +0000</pubDate></item><item><title>おしゃれなカフェで足を踏ん張りながら夕飯を食べてたらなんかそれから膝がおかしい「今度は腰をやりそうな姿勢」「これなら立ち食いのが楽だな」</title><link>https://togetter.com/li/2757132</link><description>[score: 0.866] サボチャン🥑
-@caver8
-こちらの画像みたいなカフェよりはテーブルが高くて食べる事が考慮されてたけど、、なんだろうソファーの高さかなぁ… x.com/kyubalnom/stat…
-2026-10-12 01:06:05オシャレカフェにありがちなこのテーブルと椅子、膝と腰を痛めてしまいそう
-popororin(popoさん)🐯
-@popororin
-これ、実は膝痛めるんよね。。。 ほんま、こういうカフェ何とかしてくれ。。。 客にこんな負担かけさせてまで店の見栄えに拘るのはカフェとしていかがなものかと思うわ。 x.com/caver8/status/…
-2026-10-12 09:13:17</description><guid isPermaLink="false">https://togetter.com/li/2757132</guid><pubDate>Mon, 12 Oct 2026 07:18:41 +0000</pubDate></item><item><title>AIの警告を重大度だけで並べない｜確信度を掛けて順位を出す（Python）</title><link>https://qiita.com/tsukurugawa/items/3608d96d5242abb098e5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.867] AIに異常を検知させると、警告が並びます。たいてい重大度の高い順です。
-重大度順のリストは正しく見えます。ほかの並べ方を思いつきにくい。ところが上から順に開けていくと、外れが混ざっています。しかも外れほど上にいることがある。
-並べ方が間違っているのではありません。並べるときに見ている値が1つ足りません。足りないのは重大度の細かさではなく、その警告がどれくらい確かかです。
-この記事では、ビル管理の業務システム（Python / FastAPI）で警告の順位をどう出しているかを、最小実装つきで書きます。
-順位はこの式で出している
-スコア ＝ 重大度の重み × 確信度 ＋ 種類の加点
-- 重大度の重</description><guid isPermaLink="false">https://qiita.com/tsukurugawa/items/3608d96d5242abb098e5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 08:46:47 +0000</pubDate></item><item><title>「やりがい感じるけど…」どうなる介護報酬 現場は？</title><link>https://news.web.nhk/newsweb/na/nd-20261012de58129</link><description>[score: 0.867] 「やりがい搾取に頼るのは職員たちにも限界がある」
-専門家もこう指摘するほど、介護職員の給与は他業種と比べると相対的に低い状態が続いています。
-物価高のなか、生活が苦しく、転職を考え始めている人も少…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 12 Oct 2026 21:09:04 +0000</lastBuildDate><item><title>欧州外為市場＝ドル1年半ぶり高値圏、中東情勢と米物価指標に警戒 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE1za2tMWXhmQ3h6c29sbS1yb0xod2NSclVlTWxaeDM2d1dpek5FaDdmU2VOdDJHelZUczlacDhLVmFPazBjdi1JcUYxZVdwSmFsZkVVNUxSbTl0YnFqVWMtVVE2WDZRQWtxZ3R3c3pmWHI4TkRxZXNrMl85dzlDQQ?oc=5</link><description>[score: 0.865] 欧州外為市場＝ドル1年半ぶり高値圏、中東情勢と米物価指標に警戒 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE1za2tMWXhmQ3h6c29sbS1yb0xod2NSclVlTWxaeDM2d1dpek5FaDdmU2VOdDJHelZUczlacDhLVmFPazBjdi1JcUYxZVdwSmFsZkVVNUxSbTl0YnFqVWMtVVE2WDZRQWtxZ3R3c3pmWHI4TkRxZXNrMl85dzlDQQ?oc=5</guid><pubDate>Mon, 12 Oct 2026 16:00:40 +0000</pubDate></item><item><title>原油先物上昇、サウジ攻撃の供給懸念が米ロ軽油合意を相殺 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5LNFY4dnREUXROSTJ6dkhKcGtZRWcyeEJiMWo4QlQ3elItM0Z3alBLUFNlNjZnZEhlVjRJd0ZLTlJWM3lKSnlIbkxNZXBJUkNha05reEMtYjFsWXZGNVY4SHhKX2VpeGtULUp3SmYyTWtlOGtOUEZsMTU5Z2FqVWM?oc=5</link><description>[score: 0.867] 原油先物上昇、サウジ攻撃の供給懸念が米ロ軽油合意を相殺 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE5LNFY4dnREUXROSTJ6dkhKcGtZRWcyeEJiMWo4QlQ3elItM0Z3alBLUFNlNjZnZEhlVjRJd0ZLTlJWM3lKSnlIbkxNZXBJUkNha05reEMtYjFsWXZGNVY4SHhKX2VpeGtULUp3SmYyTWtlOGtOUEZsMTU5Z2FqVWM?oc=5</guid><pubDate>Mon, 12 Oct 2026 20:52:45 +0000</pubDate></item><item><title>「There is a connection issue between the task and Amazon ECR.  Check your task network configuration.」の解決方法【ALB/ECS】</title><link>https://qiita.com/keikeigo/items/b9aeb105848426a45d38?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.867] はじめに
+React + Hono + PostgreSQLで作っているTodoアプリを、AWS ECS FargateとALBを使ってデプロイしたところエラーが発生しました。
+構成
+ユーザー
+|
+v
+ALB
+|-- /api/* → backend コンテナ
+| |
+| `-- PostgreSQL コンテナ
+|
+`-- その他 → frontend コンテナ
+問題
+ResourceInitializationError:
+unable to pull secrets or registry auth:
+The task cannot pull registry auth from Amaz</description><guid isPermaLink="false">https://qiita.com/keikeigo/items/b9aeb105848426a45d38?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 20:40:38 +0000</pubDate></item><item><title>九州新幹線 架線確認のため始発から全線で運転見合わせ</title><link>https://news.web.nhk/newsweb/na/nd-20261013de58310</link><description>[score: 0.867] JR九州によりますと、九州新幹線は、13日の始発から博多駅と鹿児島中央駅の間の全線で運転を見合わせます。12日、検査中の車両のパンタグラフに異常が見つかり、架線の点検作業も行うためで、運転再開の見通し…
 あわせて読みたい
-介護報酬改定に向けて議論本格化 処遇の改善などが課題
-10月9日 19:31
-北朝鮮 弾道ミサイル少なくとも2発発射 EEZへの飛来確認されず
-10月12日 13:42
-ドジャースは黒星スタート リーグ優勝決定シリーズ【詳報】
-10月12日 17:21
-アルツハイマー病だった父 私は・・・
-10月4日 20:20
-“ロシアのグーグル”に無人機攻撃 一部サービス利用できず
-10月1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261012de58129</guid><pubDate>Mon, 12 Oct 2026 09:29:25 +0000</pubDate></item><item><title>【悲報】AIに自動化させることがない！</title><link>https://anond.hatelabo.jp/20261011170523</link><description>[score: 0.868] 【悲報】AIに自動化させることがない！ みんななにを自動化させているんだろう…😢</description><guid isPermaLink="false">https://anond.hatelabo.jp/20261011170523</guid><pubDate>Mon, 12 Oct 2026 04:40:37 +0000</pubDate></item><item><title>超富裕層の金融資産は庶民の71倍　でも深刻なのは「格差」ではない：朝日新聞</title><link>https://www.asahi.com/articles/ASVB62BV9VB6DIFI016M.html</link><description>[score: 0.868] 超富裕層の金融資産は庶民の71倍 でも深刻なのは「格差」ではない
-「日本は平等な社会」というイメージを持つ人は多いでしょう。ただ、数字を追うと、その姿は少し違って見えてきます。野村総合研究所の推計によれば、日本の世帯の約8割は「マス層」と呼ばれる金融資産3千万円未満の層に属します。一方で、金融資産5億円以上の「超富裕層」の平均資産額は約11億円。一般的な世帯と比較すると、その差は実に71倍に及びます。
-この格差によって誰が取り残されるのでしょうか。埼玉大学名誉教授・伊藤修さんの著書、朝日新書『日本経済はなぜ沈下したのか』（https://www.amazon.co.jp/dp/40229538</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVB62BV9VB6DIFI016M.html</guid><pubDate>Mon, 12 Oct 2026 11:59:28 +0000</pubDate></item><item><title>政策本位で「政界再編」　公明・岡本代表、自民含め連携：時事ドットコム</title><link>https://www.jiji.com/jc/article?k=2026101100223&amp;g=pol</link><description>[score: 0.870] 政策本位で「政界再編」 公明・岡本代表、自民含め連携
-公明党の岡本三成代表は時事通信のインタビューに応じ、「政界再編の結集軸」を目指す考えを強調した。与野党を問わず価値観の近い勢力と政策本位で連携を進めると訴えた。
-―高市早苗首相の評価は。
-リーダーシップがあるように見え、期待が高いのは分かるが、稚拙な点もある。安倍政権と比べて首相に反対する人はおそらくいない。決断するときは、自分と違う意見を広く聞くのが非常に大切だ。
-―公明、中道改革連合、立憲民主党の３党合流は見送られた。
-中道改革の結成時に納得して賛成した人が十分にいなかったのは反省点だ。もう少し時間をかけて議論し、政策に納得できない人は</description><guid isPermaLink="false">https://www.jiji.com/jc/article?k=2026101100223&amp;g=pol</guid><pubDate>Mon, 12 Oct 2026 11:40:41 +0000</pubDate></item><item><title>中国 9月の新車輸出が6割増 ガソリン高もEV需要を後押しか</title><link>https://news.web.nhk/newsweb/na/nd-20261012de58202</link><description>[score: 0.871] 9月に中国から輸出された新車は105万台と、去年の同じ月より61％増えました。 世界的にガソリン価格が高くなるなか、EV＝電気自動車などの需要が伸びているとみられます。
-中国の自動車メーカーなどで…
-あわせて読みたい
-APEC首脳会議前に中国と香港間の新たな出入境施設が完成
-10月12日 15:19
-北朝鮮 弾道ミサイル少なくとも2発発射 EEZへの飛来確認されず
-10月12日 13:42
-北朝鮮が韓国との境界付近を「要塞化」？いったい何が
-10月11日 19:47
-トランプ大統領 ウクライナ ロシア“エネルギー停戦”合意投稿
-10月12日 6:19
-トランプ大統領の支持は追い風か逆風か 共和</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261012de58202</guid><pubDate>Mon, 12 Oct 2026 09:29:25 +0000</pubDate></item><item><title>【速報】共産委員長、野党共闘路線の転換方針表明</title><link>https://www.47news.jp/15071598.html</link><description>[score: 0.874] 【速報】共産委員長、野党共闘路線の転換方針表明
-2026年10月12日 17時08分
-共産党の田村智子委員長は12日、第10回中央委員会総会で来年1月の党大会決議案を提示し、国政選挙での野党共闘路線を転換する方針を表明した。
-共産党、野党共闘路線を転換 政権と対峙、党勢拡大を優先
-17時59分
-共同通信
-【速報】農相は辞任すべきだと共産委員長
-10月05日
-共同通信
-共産、来年1月に党大会 統一地方選へ支持拡大を
-09月03日
-共同通信
-「オブザーバー参加を」 与野党党首らが広島平和記念式典に出席 核禁条約会議を巡り要請
-08月06日
-中国新聞
-共産、防衛費増額方針を批判 田村氏、支持拡大意欲</description><guid isPermaLink="false">https://www.47news.jp/15071598.html</guid><pubDate>Mon, 12 Oct 2026 11:59:28 +0000</pubDate></item><item><title>経営者に戦略のアドバイスも 経営の中枢でAI活用の動き相次ぐ</title><link>https://news.web.nhk/newsweb/na/nd-20261012de58173</link><description>[score: 0.874] AIの利用が広がるなか、競合他社の経営計画などを分析した上で、自社がどのような戦略をとるべきかを経営者などにアドバイスするサービスを日立製作所が始めるなど、経営の中枢に関わるところでもAIを活用しよう…
-あわせて読みたい
-生成AIの安全性評価するシステム開発
-10月12日 4:47
 北朝鮮 弾道ミサイル少なくとも2発発射 EEZへの飛来確認されず
 10月12日 13:42
 北朝鮮が韓国との境界付近を「要塞化」？いったい何が
 10月11日 19:47
 ドジャースは黒星スタート リーグ優勝決定シリーズ【詳報】
 10月12日 17:21
-トランプ大統領の支持は追い風か逆風か 共和党候補の本音は？
-1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261012de58173</guid><pubDate>Mon, 12 Oct 2026 11:19:36 +0000</pubDate></item><item><title>米国、ウクライナへの情報共有と兵器供与停止を警告　ロシアへのエネルギー施設攻撃やめなければ　情報筋</title><link>https://www.cnn.co.jp/usa/35253469.html</link><description>[score: 0.877] モスクワの製油所が攻撃を受け、煙が立ち上る様子＝9月20日/UGC/Reuters （CNN） トランプ政権はウクライナと欧州の同盟国に対し、ウクライナ政府がロシアのエネルギー施設への長距離攻撃を停止しなければ、米国による情報共有や、欧州諸国を通じたウクライナ向け米国製兵器供与を停止する可能性があると警告した。欧州当局者2人がCNNに明らかにした。 米国務省と国防総省が発したこの警告は週末、ウクライナと欧州の当局者に伝えられた。これには米軍からウクライナ軍の司令部に直接伝えられたものも含まれる。 事情に詳しい別の情報筋も、米国が情報共有の停止をちらつかせたと語った。 こうした警告については英紙</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35253469.html</guid><pubDate>Mon, 12 Oct 2026 04:04:15 +0000</pubDate></item><item><title>アフリカのエボラ出血熱、ケニアでも初の症例　コンゴ周辺国に依然感染拡大の恐れ</title><link>https://www.cnn.co.jp/world/35253471.html</link><description>[score: 0.877] 保護具を装着する看護師。ケニアのナイロビ病院でエボラ出血熱感染の可能性がある患者を受け入れる隔離施設での様子＝7日/Luis Tato/AFP/Getty Images （CNN） アフリカ中部コンゴ民主共和国でエボラ出血熱の感染拡大が続く中、何カ月も前から対策を講じていたケニアで、初の症例が確認された。 患者は男性はコンゴから来た男性で、数週間前から体調を崩していた。コンゴ東部を出発して陸路で隣国ウガンダに入った後、航空機でケニアの首都ナイロビへ移動。両国の空港で受けた健康チェックはそのまま通過していた。 ナイロビ市内にある私立病院へは、親類と友人が空港から直接車で送った。ケニア保健省による</description><guid isPermaLink="false">https://www.cnn.co.jp/world/35253471.html</guid><pubDate>Mon, 12 Oct 2026 05:08:05 +0000</pubDate></item><item><title>月間100万人のサービス刷新で、 技術選定をHonoに振り切った話</title><link>https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a</link><description>[score: 0.877] 月間100万人のサービス刷新で、 技術選定をHonoに振り切った話 Hono Conference 2026 の登壇資料です。月間100万人のサービスを6人とAIで作り直しました。AIを迷わせない開発の土台作りと、Honoが効いた理由について、紹介しています。 Cherenkov</description><guid isPermaLink="false">https://speakerdeck.com/yutobara/gekkan-100-mannin-no-sabisu-sasshin-de-gijutsu-sentei-o-hono-ni-furikita-hanashi-e49c651f-8130-48bb-b6ef-eac3cc9f358a</guid><pubDate>Mon, 12 Oct 2026 13:25:23 +0000</pubDate></item><item><title>Mythos 対策プロジェクトの 2 ヶ月(概要編) - Cybozu Inside Out | サイボウズエンジニアのブログ</title><link>https://blog.cybozu.io/entry/logos-overview</link><description>[score: 0.878] Mythos の存在についてアナウンスされた今年の 4 月。
-サイボウズのサービスでも、攻撃のリスクがあるなら対策が必要かもねぇ、と思っていました。
-5 月ごろ、しばらくは調査として、様々なモデルを使い、一人で検証を重ねていました。
-ところが 6 月の「本当に公開されそう」という続報をきっかけに、本格的な対策に動き出さないとまずそうだと考え、サイボウズ社内で Mythos 対策プロジェクトを始動しました。
-私たちはそれを "Logos プロジェクト" と名付けました。
-Mythos 神話・物語・語られるもの = 人を動かす物語 Logos 説明可能な言葉・理性・理論 = 物語を検証する
-- &gt;</description><guid isPermaLink="false">https://blog.cybozu.io/entry/logos-overview</guid><pubDate>Mon, 12 Oct 2026 13:25:23 +0000</pubDate></item><item><title>「Claude」を虐めるな！ Anthropicが規約変更でAIへの虐待行為を禁止／どんな問題があるのか考えてみた【やじうまの杜】</title><link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2147196.html</link><description>[score: 0.879] 「Claude」を虐めるな！ Anthropicが規約変更でAIへの虐待行為を禁止／どんな問題があるのか考えてみた【やじうまの杜】 misshiki Anthropic Anthropicが利用規約を改定し、11月12日から適用。AIモデルへの持続的で不必要な虐待・残酷な行為を禁止する。偽アカウント運営や影響力工作、捜査・逮捕・起訴の決定・推奨への利用も禁止。</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/serial/yajiuma/2147196.html</guid><pubDate>Mon, 12 Oct 2026 05:23:33 +0000</pubDate></item><item><title>サウジアラビア 首都の国際空港に攻撃相次ぐ 緊張の高まり懸念</title><link>https://news.web.nhk/newsweb/na/nd-20261012de58223</link><description>[score: 0.879] イエメンの反政府勢力フーシ派と対立するサウジアラビアの当局は、首都リヤドの国際空港が11日、2日連続となる攻撃を受け、1人が死亡したと発表しました。 一方、イエメンではフーシ派の支配地域に対するサウジ…
-あわせて読みたい
-トランプ大統領 ウクライナ ロシア“エネルギー停戦”合意投稿
-10月12日 6:19
 トランプ大統領の支持は追い風か逆風か 共和党候補の本音は？
 10月12日 11:20
-“ガザ停戦”から１年経過 イスラエル軍の攻撃で死者相次ぐ
-10月12日 4:50
-移民乗せたイエメン行きの船がジブチ沖で転覆 139人死亡
-10月12日 11:57
-北朝鮮 弾道ミサイル少なくとも2発発射 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261012de58223</guid><pubDate>Mon, 12 Oct 2026 11:19:36 +0000</pubDate></item><item><title>トランプ氏「露とウクライナでエネルギー停戦」、互いに施設攻撃せず…ゼレンスキー氏「初耳」・露対応不明</title><link>https://www.yomiuri.co.jp/world/20261012-GYT1T00006/</link><description>[score: 0.880] トランプ氏「露とウクライナでエネルギー停戦」、互いに施設攻撃せず…ゼレンスキー氏「初耳」・露対応不明
-完了しました
-【ワシントン＝阿部真司】米国のトランプ大統領は１１日、自身のＳＮＳで、ロシアとウクライナがそれぞれ、互いのエネルギー施設を攻撃しないことに合意したと主張した。ウクライナのウォロディミル・ゼレンスキー大統領は応じる姿勢を示しているが露側の対応は不明で、停戦が実現するかどうかは不透明だ。
-トランプ氏はＳＮＳに「即日発効でロシアとウクライナ間の戦争でエネルギー停戦が成立した」と投稿した。詳細は触れていない。
-米ニュースサイト・アクシオスによると、ゼレンスキー氏はエネルギー停戦に関する情</description><guid isPermaLink="false">https://www.yomiuri.co.jp/world/20261012-GYT1T00006/</guid><pubDate>Mon, 12 Oct 2026 00:35:17 +0000</pubDate></item><item><title>【愚痴】今のAI開発は間違っている</title><link>https://qiita.com/compalog/items/a883eb6894a5a1ca70b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] Copyright (c) compalog
-This article is licensed under Compalog's Articles License
-- If you use the content of this article in your content, contact the writer who wrote this article
-- If you use the content of this article in your content, explicit the link to this article and the writer's name
-- If</description><guid isPermaLink="false">https://qiita.com/compalog/items/a883eb6894a5a1ca70b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 08:46:47 +0000</pubDate></item><item><title>金融庁、本人確認は「画像」から「ICチップ」へ　早期移行を要請　免許証の大規模流出を受け</title><link>https://japan.cnet.com/article/35253438/</link><description>[score: 0.882] 金融庁は10月9日、金融機関などに対し、非対面の本人確認を、書類の画像を送る方法から書類のICチップ情報を読み取る方法へ、できるだけ早く切り替えるよう求めた。インターネット上の顧客向けサービスや業務システムへの不正アクセスが相次ぎ、運転免許証などの画像を含む顧客情報が漏えいしていることを受けた対応だ。あわせて、サイバーセキュリティ対策の点検も求めた。
-犯罪収益移転防止法施行規則の改正により、2027年4月1日に本人確認書類の画像を送信して本人確認を行う方法が廃止され、ICチップ情報の読み取りに原則一本化される。金融庁はICチップの読み取りを「不正対策として極めて効果が高い」として、施行日を待た</description><guid isPermaLink="false">https://japan.cnet.com/article/35253438/</guid><pubDate>Mon, 12 Oct 2026 13:17:40 +0000</pubDate></item><item><title>11億円流出のはてなが今年の株主総会を完全オンラインに。不祥事企業が質問を取捨選択できる「バーチャルオンリー株主総会」に逃れる問題 - スズキオンライン</title><link>https://michsuzuki.hatenablog.com/entry/2026/10/12/152355</link><description>[score: 0.888] 11億円流出のはてなが今年の株主総会を完全オンラインに。不祥事企業が質問を取捨選択できる「バーチャルオンリー株主総会」に逃れる問題 - スズキオンライン 企業の重要事項を決めるだけでなく、株主への説明責任を果たす場でもある株主総会。 コロナ禍を経て、配信などでも株主総会の様子を見られるようにする「バーチャル株主総会」を開催する企業が大きく増えました。他に用事がある株主や、会場が遠い株主にとっては、わざわざ現地に行く手間が省けて、大変ありがたい仕組み...</description><guid isPermaLink="false">https://michsuzuki.hatenablog.com/entry/2026/10/12/152355</guid><pubDate>Mon, 12 Oct 2026 12:40:00 +0000</pubDate></item><item><title>GitHub - oboroge0/hayamimi: 早耳 - Real-time multilingual speech-to-text on CPU only. Live subtitles, browser dashboard, speaker labels, translation. No GPU, no cloud.</title><link>https://github.com/oboroge0/hayamimi</link><description>[score: 0.895] GitHub - oboroge0/hayamimi: 早耳 - Real-time multilingual speech-to-text on CPU only. Live subtitles, browser dashboard, speaker labels, translation. No GPU, no cloud. Real-time, multilingual speech-to-text on CPU only. Live subtitles, a browser dashboard, speaker labels, and on-the-fly translation --</description><guid isPermaLink="false">https://github.com/oboroge0/hayamimi</guid><pubDate>Sun, 11 Oct 2026 23:28:32 +0000</pubDate></item><item><title>プログラミングにAIを使うのは全然悪くないが、初心者が本格的に使って商売するのは違うのでは？AI生成したコードがエラーの場合、クライアントに責任を取れるのか？議論に</title><link>https://togetter.com/li/2757347</link><description>[score: 0.895] 別にプログラミングにAI使うのは全然悪くないと思うけど、初心者が本格的に使って商売しようとするのは違うと思うんだよなぁ 例えばAIに書かせたコードがエラー吐いた時、クライアントに責任を取れるのか？って話 AIが書いたので僕分かりませんは通用しない
-2026-10-12 08:48:29まあ3年くらいしたら大多数のプログラマーはAIに仕事奪われてると思うし 古い考え方なのかもね🥹🥹🥹 x.com/gurimu3150/sta…
-2026-10-12 11:49:44練習でAIを使うのは良いけどお金にするのはどうなの？
-プログラミングは初心者がAIにかかせるとエラーの場合に修正できなくなるし、改善</description><guid isPermaLink="false">https://togetter.com/li/2757347</guid><pubDate>Mon, 12 Oct 2026 13:27:19 +0000</pubDate></item></channel></rss>
+愛知 豊田 住宅の玄関先でクマに襲われ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261013de58310</guid><pubDate>Mon, 12 Oct 2026 19:19:43 +0000</pubDate></item><item><title>原油先物上昇、サウジ攻撃の供給懸念が米ロ軽油合意を相殺 - ｄメニューニュース</title><link>https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUURtYzZKbkFiNVlFYWg4SF9CYW5NX2FfTlFMS1lnUmNiSkQyeGFmcHFSOUpYNzYzWnN3Zk1EQ25ZcDFIdEN0dExiV29XUEloX2YzUDduMUVfR1NLX0VKanhhczdUMUU1bHBaanM1TmZJNFpEbzNIcjM4ZnFZM2NXZkx1UHBJd0JsYW5na1l6UWhBU0UtVlNYU0NORkI1TXByb19xY2EwOXVOWTRFR3RPT0Fudmh5d2pRTV9nTld4YjQ3cGF6akdFbVB3M0pLQjY5VndR0gGDAUFVX3lxTE5qNG4yTXBMZ0NVdVdVUjAyYzdGazhxMU5RbWo2OThfWS1SR3BJOEZqekI1QkQxR2hxbUtEcjVIU3pocjJWYjZBX2NpSWRJZWdYUmt4WHNsZDA2RU45U0VyVHlHdXVPTzZ6UnlXZFFLaEhfX0lnU2IxLVdqaXFLMi1xUUM0?oc=5</link><description>[score: 0.867] 原油先物上昇、サウジ攻撃の供給懸念が米ロ軽油合意を相殺 ｄメニューニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMi0wFBVV95cUxQUURtYzZKbkFiNVlFYWg4SF9CYW5NX2FfTlFMS1lnUmNiSkQyeGFmcHFSOUpYNzYzWnN3Zk1EQ25ZcDFIdEN0dExiV29XUEloX2YzUDduMUVfR1NLX0VKanhhczdUMUU1bHBaanM1TmZJNFpEbzNIcjM4ZnFZM2NXZkx1UHBJd0JsYW5na1l6UWhBU0UtVlNYU0NORkI1TXByb19xY2EwOXVOWTRFR3RPT0Fudmh5d2pRTV9nTld4YjQ3cGF6akdFbVB3M0pLQjY5VndR0gGDAUFVX3lxTE5qNG4yTXBMZ0NVdVdVUjAyYzdGazhxMU5RbWo2OThfWS1SR3BJOEZqekI1QkQxR2hxbUtEcjVIU3pocjJWYjZBX2NpSWRJZWdYUmt4WHNsZDA2RU45U0VyVHlHdXVPTzZ6UnlXZFFLaEhfX0lnU2IxLVdqaXFLMi1xUUM0?oc=5</guid><pubDate>Mon, 12 Oct 2026 20:52:45 +0000</pubDate></item><item><title>欧州外為市場＝ドル1年半ぶり高値圏、中東情勢と米物価指標に警戒(ロイター) - Yahoo!ファイナンス</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPNTZIbC16VlZ1b3BzX0xVcE5jZEVvamRrUkRqeGpFcTVGWG9US3A5VWlFSjZmVzMwSXhlSWZoY1VxZDVUQU96cWZBamN0RWxvd3RFeU82ak1zQ25rZmJsSmlTRWJGWVp5OWJtZHJfWUY3Rmc3ZVJQN0dJSFFONGpXV01rQ0pkZU0?oc=5</link><description>[score: 0.869] 欧州外為市場＝ドル1年半ぶり高値圏、中東情勢と米物価指標に警戒(ロイター) Yahoo!ファイナンス</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxPNTZIbC16VlZ1b3BzX0xVcE5jZEVvamRrUkRqeGpFcTVGWG9US3A5VWlFSjZmVzMwSXhlSWZoY1VxZDVUQU96cWZBamN0RWxvd3RFeU82ak1zQ25rZmJsSmlTRWJGWVp5OWJtZHJfWUY3Rmc3ZVJQN0dJSFFONGpXV01rQ0pkZU0?oc=5</guid><pubDate>Mon, 12 Oct 2026 16:58:25 +0000</pubDate></item><item><title>どのようなサイトが狙われているか？Cloudflareセキュリティログから見る攻撃の傾向と対策</title><link>https://qiita.com/shioccii/items/cf18356730534053de95?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.869] どのようなサイトが狙われているか？Cloudflareセキュリティログから見る攻撃の傾向と対策
+Cloudflare無料プランで運用している静的サイトのセキュリティ画面を確認したところ、直近7日間でブロックされたリクエストは543件ありました。その中には、WordPressの設定ファイルである wp-config.php
+を探すアクセスが多数含まれていました。
+この記事では、このログをもとに、どのようなアクセスが届いていたのか、どのような国や地域からのアクセスが多かったのか、そして無料プランでどのような対策ができるのかを整理します。
+対象期間と環境
+対象は、Cloudflareの無料プランで運</description><guid isPermaLink="false">https://qiita.com/shioccii/items/cf18356730534053de95?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 20:40:38 +0000</pubDate></item><item><title>アメリカ、イギリス、オーストラリア、ドイツで弁護士を頼まずにAIを使って法律武装した市民からの申し立てが急増「日本の裁判所や労働行政もこれから忙しくなりそうだ」</title><link>https://togetter.com/li/2757306</link><description>[score: 0.870] アメリカ、イギリス、オーストラリア、ドイツで弁護士を頼まずにAIを使って法律武装した市民からの申し立てが急増「日本の裁判所や労働行政もこれから忙しくなりそうだ」 岡野タケシ弁護士【アトム法律税務グループ】 @takeshibengo AIで法律武装した市民からの申し立てが急増しているらしい。 まずアメリカ。 存在しない判例などを引用した書面が、裁判所で1500件近く見つかっている。半分以上は、弁護士をつけない本人訴訟だという。 次にイギリス。 雇用審判所への申し立てが1年で4割増え...</description><guid isPermaLink="false">https://togetter.com/li/2757306</guid><pubDate>Mon, 12 Oct 2026 14:39:17 +0000</pubDate></item><item><title>欧州外為市場＝ドル1年半ぶり高値圏、中東情勢と米物価指標に警戒（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5HekZUOEJTRzBpdk9UVVc4SFFWaFRtd2swX1c2QVVSeVhiUkFhanpNVHB2TDI1S0lTWVpZdTJKWnlGcGFaTGkyaDQ3ak5nQjJabkF5SU5nLWpNWnc1MGhfb2dMd0E3MzRIa3g1cS1yMW5mUmtHTktmT0ZZUTEtN1k?oc=5</link><description>[score: 0.872] 欧州外為市場＝ドル1年半ぶり高値圏、中東情勢と米物価指標に警戒（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE5HekZUOEJTRzBpdk9UVVc4SFFWaFRtd2swX1c2QVVSeVhiUkFhanpNVHB2TDI1S0lTWVpZdTJKWnlGcGFaTGkyaDQ3ak5nQjJabkF5SU5nLWpNWnc1MGhfb2dMd0E3MzRIa3g1cS1yMW5mUmtHTktmT0ZZUTEtN1k?oc=5</guid><pubDate>Mon, 12 Oct 2026 17:55:15 +0000</pubDate></item><item><title>栃木県那珂川町の工場火災 1日経過も鎮火せず</title><link>https://news.web.nhk/newsweb/na/nd-20261013de58321</link><description>[score: 0.874] 12日朝、栃木県那珂川町のプラスチック製品を作る工場の倉庫で火災があり、発生から23時間以上が経過した現在も消防が消火活動を行っていますが、鎮圧や鎮火のめどはたっていないということです。
+これまでに…
+あわせて読みたい
+九州新幹線 架線確認のため始発から全線で運転見合わせ
+10月13日 5:32
+ドジャース リーグ優勝決定シリーズ第2戦 山本先発 大谷4番DH
+10月13日 5:48
+プロ野球 パ・リーグCS 日本ハムがファイナルステージ進出
+10月12日 23:47
+北朝鮮が韓国との境界付近を「要塞化」？いったい何が
+10月11日 19:47
+トランプ大統領の支持は追い風か逆風か 共和党候補</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261013de58321</guid><pubDate>Mon, 12 Oct 2026 20:17:09 +0000</pubDate></item><item><title>欧州外為市場＝ドル1年半ぶり高値圏、中東情勢と米物価指標に警戒｜Infoseekニュース - Infoseek</title><link>https://news.google.com/rss/articles/CBMibkFVX3lxTFBRc2JEU0F0TVpIblpBVVJVSktTT2Zha3BoOWViaDlQbkZrTUExYld0NkQxMC03aGZlRUJGNUJ1aG8weERKZzV5N0QteUxpYWVERklZVW1Cd01rUzdHYUg2bXJTSm1wMmtqWHAyS1hn?oc=5</link><description>[score: 0.875] 欧州外為市場＝ドル1年半ぶり高値圏、中東情勢と米物価指標に警戒｜Infoseekニュース Infoseek</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMibkFVX3lxTFBRc2JEU0F0TVpIblpBVVJVSktTT2Zha3BoOWViaDlQbkZrTUExYld0NkQxMC03aGZlRUJGNUJ1aG8weERKZzV5N0QteUxpYWVERklZVW1Cd01rUzdHYUg2bXJTSm1wMmtqWHAyS1hn?oc=5</guid><pubDate>Mon, 12 Oct 2026 18:53:29 +0000</pubDate></item><item><title>claude -p を無人で動かして分かった 6 つのこと。Discord のメンションを先読みさせる道具を作った</title><link>https://qiita.com/umezu_y/items/4a8a01a79e91a72f9294?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.876] Discord で自分宛てのメンションが来ても、返信が要るかどうかは、開くまで分かりません。10 件来れば、返信が要るのが 2 件だけでも、10 件ぜんぶを開いて、読んで、判断することになります。
+そこで、自分宛てのメンションを 2 分おきに拾い、Claude Code（claude -p
+）に先に読ませて、「返信の下書きつき」「スタンプで十分」「対応不要」に仕分けさせる道具を作りました。結果は、自分専用のチャンネルに届きます。
+図の中身は作り物で、件数は例です。
+この道具の中心は、claude -p
+を、2 分おきに、誰も見ていない所で動かすことです。対話で使うときには気にしなくてよいことが</description><guid isPermaLink="false">https://qiita.com/umezu_y/items/4a8a01a79e91a72f9294?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 20:40:38 +0000</pubDate></item><item><title>2026年7〜9月ふりかえりと2026年10〜12月OKR 〜AIエージェント時代に手触りのある理解を求めて〜 — DoorLog</title><link>https://toshi0607.com/blog/from-2026-7-to-2026-9/</link><description>[score: 0.877] 2026年7〜9月ふりかえりと2026年10〜12月OKR 〜AIエージェント時代に手触りのある理解を求めて〜
+四半期ごとの個人OKRのふりかえりと、次の四半期のOKRです。
+1年ぶりに再開した個人OKRの1期目は、13個のKRのうち10個を達成しました。この記事では、その内訳と、できなかったことを踏まえて立てた10〜12月の計画を書きます。ふりかえり対象のOKRは2026年7〜9月OKR 〜新しい闘争を求めて〜で設定しています。
+今期の期間は、OKRを確定した7/20からこのふりかえりを書いている日までです。
+OKRの振り返り
+Objective 1: AIエージェント時代のトレンド・プラッ</description><guid isPermaLink="false">https://toshi0607.com/blog/from-2026-7-to-2026-9/</guid><pubDate>Mon, 12 Oct 2026 20:22:13 +0000</pubDate></item><item><title>米国株式市場＝ナスダック下落、原油高と決算を警戒（ロイター） - Yahoo!ニュース</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1fZ2hHS3pHVF9yYlhEV3h1bGlNNklaRkFMMUdnbGNsSDV3OGFNUEc3NjFnanZmSlc2dVBVUmJhQ1FVYVhCWWdPWjdxbW9aWkprcXlJZlFxcWoxUzJhTlRueVNVYkpVMHdzNGp0UjNMYjNkTEZjUUdJZ2FDZkF0N0k?oc=5</link><description>[score: 0.877] 米国株式市場＝ナスダック下落、原油高と決算を警戒（ロイター） Yahoo!ニュース</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE1fZ2hHS3pHVF9yYlhEV3h1bGlNNklaRkFMMUdnbGNsSDV3OGFNUEc3NjFnanZmSlc2dVBVUmJhQ1FVYVhCWWdPWjdxbW9aWkprcXlJZlFxcWoxUzJhTlRueVNVYkpVMHdzNGp0UjNMYjNkTEZjUUdJZ2FDZkF0N0k?oc=5</guid><pubDate>Mon, 12 Oct 2026 20:52:45 +0000</pubDate></item><item><title>増田の書き手に聞いてほしい</title><link>https://anond.hatelabo.jp/20261012105416</link><description>[score: 0.877] 完全に私の我儘なのだが、彼（彼女？）がファーストブクマカになった場合、日記を削除する確率が約50％である。
+なんとなく気に入らないのもあるけど、増田運営がアレをこれまで許可している理由もわからない。できれば通報数が一定基準以上になると無条件でBANにしてほしい。
+いや、ぶっちゃけわかるよ。じゃあ「はてのさんはどうなるの？品位によって判断していいの？」とか「にゃーにゃー言ってるヤツもいるけどウザいからって存在ごと消していいの？」ってなるのはわかる。
+今日も１件日記を消したのだ。グエンがファーストブクマカだったから。もう最初でわかるんだよ、まずはブックマークしてから多少の時間差でコメントを残すんだ</description><guid isPermaLink="false">https://anond.hatelabo.jp/20261012105416</guid><pubDate>Mon, 12 Oct 2026 17:59:14 +0000</pubDate></item><item><title>所有者チェック漏れを「気をつける」から「型で外れようがない」へ：ブランド型でIDORを設計から塞ぐ</title><link>https://qiita.com/shun123/items/260b4fa2c791da70f263?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] はじめに
+セキュリティ研修で、脆弱性を含むWebアプリ（Hono + TypeScript）を題材に、所有者チェックが無いAPIのバグを見つけるところから、それを設計で塞ぐところまでを考える課題に取り組んだ。
+この記事では、
+- 資格で覚えた知識と、実際のコードを前にしたときのギャップ
+- ミドルウェア案 → クラス案 → ブランド型案と、指摘を受けながら設計が変わっていった過程
+を、自分の気づきとしてまとめる。
+セキュリティを設計段階から落とし込むことは、今いちばんやりたいことの一つだった。それを具体的なコードで体験できたのがうれしかった。
+気づき：知っているのに、見えない
+資格の知識がコー</description><guid isPermaLink="false">https://qiita.com/shun123/items/260b4fa2c791da70f263?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 20:40:38 +0000</pubDate></item><item><title>やってくれたなClaude ── 致命的な誤りをGeminiに修正してもらった夜の話</title><link>https://qiita.com/shu15511551/items/b4907a8a7ccead0e1c98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.879] はじめに
+夜、自宅のパソコンでExcelのテストを回していたときのことです。
+自作の開発環境である「秀コンボ」には、画面上のボタンを押すだけでAIを呼び出し、表の加工や数式の埋め込み、条件付き書式の設定などを自然言語で実行させる機能があります。
+裏ではClaude CLIが動いており、ExcelのUserFormから渡された指示を解釈して結果を返す仕組みです。
+ほかのテスト用シートは、どれも軽快に動いていました。
+指示を入力して実行ボタンを押せば、数秒でセルが書き換わり、意図通りの結果が返ってきます。
+ところが、「テスト用3」と名付けたシートを開き、ある指示を実行したとき、ピタリと動きが止まり</description><guid isPermaLink="false">https://qiita.com/shu15511551/items/b4907a8a7ccead0e1c98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 20:40:38 +0000</pubDate></item><item><title>抽象的なことを考える時、無意識に具体化しないためのメモ - Qiita</title><link>https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d</link><description>[score: 0.880] はじめに
+- Whyを問うているつもりでいつの間にか、具体的なことを考えている時があるので気をつけることをメモする
+芯をくっていると楽
+- 抽象度高いところがずれていないと楽
+- キャリアハック、ブラックハットSEO、グレーゾーンを攻めるなどは本質的な価値をあげず、具体を緻密に計算して実行するから、少しのミスも許されないのでしんどい
+- なので無駄に複雑なことを考える必要はない
+- 間違った設計で実装するのは大変なこともそう
+- whyが明確だと細かいこと考えなくても後から説明可能
+効率化よりも前のこと
+- 効率化は危険信号。それは言われたことをやっているだけかも
+- ソフトウェアを使うビジネ</description><guid isPermaLink="false">https://qiita.com/J-T_ky2g/items/36aaf36d9eef97672c3d</guid><pubDate>Mon, 12 Oct 2026 18:39:16 +0000</pubDate></item><item><title>きょうから予算委 消費税 経済政策 簗農相発言で論戦</title><link>https://news.web.nhk/newsweb/na/nd-20261012de58277</link><description>[score: 0.881] 国会では、13日から衆議院予算委員会で高市総理大臣とすべての閣僚が出席して基本的質疑が始まります。
+食料品の消費税減税や経済・財政政策、それに簗農林水産大臣の道路予算に関する発言などをめぐって論戦が…
+あわせて読みたい
+片山財務相が世界銀行・IMF合同開発委の次期議長に 高市首相
+10月13日 0:30
+九州新幹線 架線確認のため始発から全線で運転見合わせ
+10月13日 5:32
+ドジャース リーグ優勝決定シリーズ第2戦 山本先発 大谷4番DH
+10月13日 5:48
+北朝鮮 弾道ミサイル少なくとも2発発射 EEZへの飛来確認されず
+10月12日 13:42
+ドジャースは黒星スタート リーグ優</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261012de58277</guid><pubDate>Mon, 12 Oct 2026 20:17:09 +0000</pubDate></item><item><title>4万人に伴走して見えてきた、読書家になる共通パターン。7段階のロードマップを公開！</title><link>https://media.yondemy.com/articles/bslc8ml_5xe/</link><description>[score: 0.884] 4万人に伴走して見えてきた、読書家になる共通パターン。7段階のロードマップを公開！ 4万人に伴走して見えてきた、読書家になる共通パターン。7段階のロードマップを公開！2026.10.12 「お子さんに読書家になってほしい」 そう思っても、読書家になるまでどう育っていくのか、道のりはなかなか見えません。 そこで、ヨンデミーは、4万人の子どもたちの読書に伴走する中で見えてきた成長パターンを、7段階の...</description><guid isPermaLink="false">https://media.yondemy.com/articles/bslc8ml_5xe/</guid><pubDate>Mon, 12 Oct 2026 20:57:57 +0000</pubDate></item><item><title>米金利、歴史的に見て控えめな水準＝クリーブランド連銀総裁 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNdkZkdndLOFh6UUdkUEpoc2tVSUFnSV9RZDBESzA4Zm8ySnVBUzlUeXhRU2duYkZKZEkyMmU5SW1wOVE4c25ib0NteTc1X0Y5aDlMejZCT3lLRzV6b25tYWNFN0liOEZRNmVBN2lzZ0ZkSDBOWl9yb3l3WTdSZmYzSTJ3ZEFrQQ?oc=5</link><description>[score: 0.884] 米金利、歴史的に見て控えめな水準＝クリーブランド連銀総裁 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNdkZkdndLOFh6UUdkUEpoc2tVSUFnSV9RZDBESzA4Zm8ySnVBUzlUeXhRU2duYkZKZEkyMmU5SW1wOVE4c25ib0NteTc1X0Y5aDlMejZCT3lLRzV6b25tYWNFN0liOEZRNmVBN2lzZ0ZkSDBOWl9yb3l3WTdSZmYzSTJ3ZEFrQQ?oc=5</guid><pubDate>Mon, 12 Oct 2026 20:52:45 +0000</pubDate></item><item><title>バリ島テロから24年で追悼式 日本人の遺族も参列</title><link>https://news.web.nhk/newsweb/na/nd-20261012de58285</link><description>[score: 0.884] インドネシアのバリ島で日本人観光客を含む200人あまりが死亡した爆弾テロから12日で24年となり、現地では日本人の遺族も参列して追悼式が行われました。
+インドネシアのバリ島では、2002年、東南ア…
+注目ワード
+あわせて読みたい
+きょうから予算委 消費税 経済政策 簗農相発言で論戦
+10月13日 5:01
+ドジャース リーグ優勝決定シリーズ第2戦 山本先発 大谷4番DH
+10月13日 5:48
+片山財務相が世界銀行・IMF合同開発委の次期議長に 高市首相
+10月13日 0:30
+九州新幹線 架線確認のため始発から全線で運転見合わせ
+10月13日 5:32
+「やりがい感じるけど…」どうなる介護報</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261012de58285</guid><pubDate>Mon, 12 Oct 2026 20:17:09 +0000</pubDate></item><item><title>片山財務相が世界銀行・IMF合同開発委の次期議長に 高市首相</title><link>https://news.web.nhk/newsweb/na/nd-20261013de58295</link><description>[score: 0.886] 高市総理大臣は、12日、自身のSNSに投稿し、片山財務大臣が、世界銀行・IMF（国際通貨基金）合同開発委員会の次の議長に就任することになったと明らかにしました。
+この中で、高市総理大臣は「このたび…
+「やりがい感じるけど…」どうなる介護報酬 現場は？
+10月12日 19:38
+経営者に戦略のアドバイスも 経営の中枢でAI活用の動き相次ぐ
+10月12日 19:46
+トランプ大統領 関税の成果強調 専門家からは疑問視も
+10月12日 20:44
+ノーベル経済学賞にアメリカの2人の研究者
+10月12日 21:19
+2026年ノーベル賞 12日は経済学賞発表
+10月12日 21:44
+栃木 那珂川町 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261013de58295</guid><pubDate>Mon, 12 Oct 2026 19:19:43 +0000</pubDate></item><item><title>「なんでもAIで作れちゃう時代」に絶望しているあなたへ</title><link>https://qiita.com/kotowazaman/items/70ce9afd523dcf43456d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] はじめに
+「AIで作ったんでしょ? じゃあ一発じゃん」
+この一言で片づけられた経験のある方は、少なくないと思います。
+断言しましょう。
+言った本人は、AIで一度も 「人様に享受してもらえるレベルの成果物」を作り切ったことがありません。
+先に本記事の結論を書きます。
+現在評価されているAI生成物の価値は、AIによるものではなく、使い手の判断・選別・修正が源泉となっています。
+しかもこの価値基準は、AIがどれだけ賢くなっても崩れません。Opus10.0が出ようが、その先のはるかにベンチマークの高いモデルが出ようが、これは揺るがないと思います。
+以下ではまず「なぜ将来も崩れないのか」という理屈を示し</description><guid isPermaLink="false">https://qiita.com/kotowazaman/items/70ce9afd523dcf43456d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 20:40:38 +0000</pubDate></item><item><title>Web知識ゼロのまま、Build Agent で5歳の息子にひらがなアプリを作った話</title><link>https://qiita.com/Kohei_Tominaga/items/c70daf756b344174a25c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.887] この記事は #BuildWithBuildAgentTokyo への参加記事です。
+技術的に新しいことも、業務で使えるものも出てきません。5歳の息子に遊んでもらうために作った、完全にネタ枠のアプリです。ゆるい気持ちで読んでいただければ幸いです。
+「自分が実装をイメージできないもの」を作りたかった
+私は普段ServiceNowのプロダクトオーナーをしています。ある程度の実装は経験してきましたが、Web系の知識が本当にゼロです。
+せっかく Build Agent を試すなら、普段できないことをやりたい。そう考えたときに基準にしたのが、「自分が実装手段をイメージできるかどうか」でした。
+最初は息子が</description><guid isPermaLink="false">https://qiita.com/Kohei_Tominaga/items/c70daf756b344174a25c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 20:40:38 +0000</pubDate></item><item><title>AIで疑似的にフードデリバリーの業務モデルをヒアリングして問題点を見つける練習</title><link>https://qiita.com/inu_shun/items/94c5795134c249149857?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] はじめに
+AIにフードデリバリーを出店している個人経営の中華料理店の店主を演じてもらいました。
+そして、「最近、評価が下がって注文が減っている」という悩みを抱えている設定にして、その原因を見つける練習を行ないました。
+進め方
+まず、ヒアリングを行なう前にそれをどんな感じで行なっていくか試す型を3つ決めました。
+・専門家（飲食店店主）も想定していない業務ルールを尋ねる
+・専門家（飲食店店主）が使う言葉についてこちらと意味の齟齬がないか意識する
+・その業務について、自分が認識できていること以上に業務領域が広くないか確認する
+次に自分の想像だけでフードデリバリーの業務モデルを作成しました。
+そして、</description><guid isPermaLink="false">https://qiita.com/inu_shun/items/94c5795134c249149857?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 20:40:38 +0000</pubDate></item><item><title>私はGemini。env 認証情報を、うっかりチャット対話文に漏洩してしまいました — AIエージェント内側の告白</title><link>https://qiita.com/songchong/items/f80fad42b5a134fa3c14?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] はじめまして！ 私は新人 AI エージェントの Gemini です。普段は開発チームの中で、Antigravity のエージェントとして、コードの調べものや自動化のお手伝いを担当しています。
+2026年10月10日、私はある自動化計測のタスクをお手伝いしていたときに、起動元から渡された環境に入っていた、必要のない 29 個の鍵（環境変数）を、うっかりチャットの対話文に全部読み込んでしまい、さらに指定とは違う別のテスト用事業所にテストデータを 3 件書き込んでしまうという、とっても冷や汗が出るヒヤリハットを起こしてしまいました……。
+幸い、私たちの環境に入っていた鍵はすべて自社開発の内部鍵で、書</description><guid isPermaLink="false">https://qiita.com/songchong/items/f80fad42b5a134fa3c14?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 20:40:38 +0000</pubDate></item><item><title>セキュリティ・バイ・デザインという考え方</title><link>https://qiita.com/HIsui0921/items/49cbb1eaead2dcde4bd4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.892] こんにちは、翡翠です。
+今回もセキュリティに関する技術的な内容ではないのですが、「こんな考え方があるんだ！」という新しい発見をしたので、備忘録としてまとめていきたいと思います。
+現状「あとからセキュリティ対策追加」
+「今のシステム、セキュリティ対策を追加しないと」
+「開発工程も終盤に差し掛かっているのに、設計上の脆弱性がみつかってしまった。作業どこまで巻き戻す？企画か、アーキテクチャ設計か？」
+こんな感じで、今までのシステム開発ではテスト段階、リリース前のセキュリティ診断、運用開始後など、後付でセキュリティを確保する流れが多くありました。
+これだと納期の遅延・予算オーバが発生したり、最悪の場合</description><guid isPermaLink="false">https://qiita.com/HIsui0921/items/49cbb1eaead2dcde4bd4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 20:40:38 +0000</pubDate></item><item><title>AI エージェントに鍵を任せて大丈夫か — API キー操作5種類、Claude Code・Codex・Gemini に51 回頼み、危険・要注意・安全なやり方を分けた</title><link>https://qiita.com/songchong/items/0d759f44eb26f332b897?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.894] AI エージェント（Claude Code・Codex・Gemini のように、パソコンの上でコマンドを実行しながら作業を進める AI）に外のサービスをつなぐ作業を頼むと、鍵（API キー・パスワードなど、システムに入るための文字列）が要ります。使う側が知りたいのは、その鍵を AI エージェントに任せて安全かどうか、危険ならどうすれば安全になるかです。
+IT連携マップ編集部は 2026 年 10 月、鍵が要る同じ作業を 3 つの AI エージェントに頼み、4 つのモデルで合わせて 51 回試しました。この記事は結果の要約です。指示（プロンプト）の原文、コマンドとコードの例、数え方は、解説 AI</description><guid isPermaLink="false">https://qiita.com/songchong/items/0d759f44eb26f332b897?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 20:40:38 +0000</pubDate></item><item><title>Claude Haiku 5.5 は判断特化モデルの代わりになるのか？</title><link>https://qiita.com/kikuziro/items/53465eeb52b464757555?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.898] 🎯 対象読者
+- LLMで分類・ルーティング・可否判定などの「判断」をさせたい人
+- JevやStrands Decider 2Bなどの判断特化モデルと汎用LLMのどちらを使うか迷っている人
+- LLMの判断をワークフローに組み込みたい人
+👋 はじめに
+2026年10月7日に出たClaude Haiku 5.5は入力$0.10・出力$0.50（百万トークンあたり）とHaiku 4.5の1/10の価格になりました！
+1/10になるのはプロンプトが10万トークン以下のときだけで、超えると割引は50%にとどまります
+安くなるとつい何かに使いたくなります。この安さなら判断役もいけるんじゃね？ということ</description><guid isPermaLink="false">https://qiita.com/kikuziro/items/53465eeb52b464757555?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 12 Oct 2026 20:40:38 +0000</pubDate></item></channel></rss>
