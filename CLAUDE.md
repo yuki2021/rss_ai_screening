@@ -37,7 +37,7 @@ This is a single-pipeline CLI tool that runs on a schedule (JST 06:00 and 15:00 
 
 5. **`score.py`** — Scores each article by its best cosine similarity to the raindrops saved within `RECENCY_DAYS`, after subtracting an age penalty from each raindrop (up to `PREF_MAX_PENALTY`, half of it at `PREF_HALF_LIFE_DAYS`), then multiplies by the article's own age decay (`HALF_LIFE_DAYS`). Articles ≥ `DUPLICATE_SCORE_THRESHOLD` similar to a raindrop score 0. Since embeddings are L2-normalized, similarity is a dot product.
 
-6. **`rss_gen.py`** — Selects the top `TOP_N` articles (excluding URLs emitted within `DEDUP_DAYS`, already bookmarked, or matching `BLOCKED_URL_PREFIXES`), writes `public/custom.xml` using `feedgen`, and logs emitted URLs to `output_log`.
+6. **`rss_gen.py`** — Selects the top `TOP_N` articles (excluding URLs emitted within `DEDUP_DAYS`, already bookmarked, matching `BLOCKED_URL_PREFIXES`, or a Google News reprint from `REPRINT_SOURCES`), writes `public/custom.xml` using `feedgen`, and logs emitted URLs to `output_log`.
 
 **Persistence (`src/store.py`):**
 
@@ -54,4 +54,5 @@ The DB is preserved across GitHub Actions runs via `actions/cache` with `restore
 - `RECENCY_DAYS = 365` — raindrops older than this leave the taste profile
 - `PREF_MAX_PENALTY` / `PREF_HALF_LIFE_DAYS` — how much older raindrops are discounted
 - `BLOCKED_URL_PREFIXES` — URL prefixes (scheme stripped) excluded from both the taste profile and the output; raindrops stay in Raindrop
+- `REPRINT_SOURCES` — Google News publishers (the title's last ` - ` suffix) that only re-host articles, e.g. Yahoo!ニュース copies of Reuters; skipped in `feed_fetch.py` and in the output
 - `DEDUP_DAYS = 14` — deduplication window

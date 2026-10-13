@@ -17,6 +17,15 @@ PREF_MAX_PENALTY = 0.03
 BLOCKED_URL_PREFIXES = (
     "qiita.com/maskot1977/",
 )
+# Google News results name their publisher after the last " - " in the title.
+# These sites only re-host articles (e.g. Reuters) that the same search already
+# returns from the original publisher, so their copies are dropped. Compared
+# after NFKC normalization, since Google writes "ｄメニューニュース" full-width.
+REPRINT_SOURCES = (
+    "Yahoo!ニュース",
+    "Yahoo!ファイナンス",
+    "dメニューニュース",
+)
 RAINDROP_FULL_SYNC_DAYS = 7  # re-read every bookmark this often to catch deletions
 MAX_CONTENT_CHARS = 5000
 FETCH_TIMEOUT = 10

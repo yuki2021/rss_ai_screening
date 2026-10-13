@@ -1,9 +1,10 @@
 import os
 import sqlite3
+import unicodedata
 import numpy as np
 from datetime import datetime, timezone, timedelta
 from contextlib import contextmanager
-from src.config import DB_PATH, BLOCKED_URL_PREFIXES
+from src.config import DB_PATH, BLOCKED_URL_PREFIXES, REPRINT_SOURCES
 
 SCHEMA = """
 CREATE TABLE IF NOT EXISTS raindrops (
@@ -62,6 +63,14 @@ def now_iso() -> str:
 def is_blocked(url: str) -> bool:
     bare = (url or "").split("://", 1)[-1]
     return bare.startswith(BLOCKED_URL_PREFIXES)
+
+
+def is_reprint(url: str, title: str) -> bool:
+    """A Google News result whose publisher only re-hosts another's article."""
+    if not (url or "").split("://", 1)[-1].startswith("news.google.com/"):
+        return False
+    source = unicodedata.normalize("NFKC", (title or "").rsplit(" - ", 1)[-1]).strip()
+    return source in REPRINT_SOURCES
 
 
 def get_meta(key: str) -> str | None:
@@ -206,7 +215,10 @@ def get_top_articles(n: int, exclude_urls: set[str]) -> list[sqlite3.Row]:
             "ORDER BY score DESC"
         ).fetchall()
     return [
-        r for r in rows if r["url"] not in exclude_urls and not is_blocked(r["url"])
+        r for r in rows
+        if r["url"] not in exclude_urls
+        and not is_blocked(r["url"])
+        and not is_reprint(r["url"], r["title"])
     ][:n]
 
 
