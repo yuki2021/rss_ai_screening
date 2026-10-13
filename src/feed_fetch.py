@@ -3,7 +3,7 @@ from html.parser import HTMLParser
 
 import feedparser
 from src.config import INOREADER_FEED_URL, MAX_CONTENT_CHARS
-from src.store import upsert_article, now_iso
+from src.store import upsert_article, now_iso, is_reprint
 
 # Tags whose boundaries are word breaks in the rendered text.
 _BLOCK_TAGS = {"br", "p", "div", "li", "tr", "blockquote", "cite", "h1", "h2", "h3"}
@@ -61,7 +61,7 @@ def fetch_feed() -> int:
     count = 0
     for entry in feed.entries:
         url = entry.get("link", "")
-        if not url:
+        if not url or is_reprint(url, entry.get("title", "")):
             continue
         content = strip_html(
             entry.get("summary", "")
