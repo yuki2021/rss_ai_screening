@@ -54,5 +54,5 @@ The DB is preserved across GitHub Actions runs via `actions/cache` with `restore
 - `RECENCY_DAYS = 365` — raindrops older than this leave the taste profile
 - `PREF_MAX_PENALTY` / `PREF_HALF_LIFE_DAYS` — how much older raindrops are discounted
 - `BLOCKED_URL_PREFIXES` — URL prefixes (scheme stripped) excluded from both the taste profile and the output; raindrops stay in Raindrop
-- `REPRINT_SOURCES` — Google News publishers (the title's last ` - ` suffix) that only re-host articles, e.g. Yahoo!ニュース copies of Reuters; skipped in `feed_fetch.py` and in the output
+- `REPRINT_SOURCES` — Google News publishers (the title's last ` - ` suffix) that re-host or echo articles, e.g. Yahoo!ニュース copies of Reuters; skipped in `feed_fetch.py` and in the output
 - `DEDUP_DAYS = 14` — deduplication window
