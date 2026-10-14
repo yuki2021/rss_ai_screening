@@ -1,72 +1,140 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 14 Oct 2026 00:03:26 +0000</lastBuildDate><item><title>会社の枠をこえて次の世代を育成する必要はあるのだろうか。 - Everything you've ever Dreamed</title><link>https://delete-all.hatenablog.com/entry/2026/10/14/000000</link><description>[score: 0.875] 会社の枠をこえて次の世代を育成する必要はあるのだろうか。 - Everything you've ever Dreamed 僕は給食会社の営業部長だ。僕が新卒で働きはじめた頃、様々なタイプの営業マンがいた。当時の上司や先輩たちは唯一無二の営業マンを気取っていたが、占いや不正を武器にする超個性派をのぞけば、大きく分けて二... kokorosha 他社との情報交換を無賃労働としか考えられないまま、いい歳になってしまった……。</description><guid isPermaLink="false">https://delete-all.hatenablog.com/entry/2026/10/14/000000</guid><pubDate>Tue, 13 Oct 2026 23:12:02 +0000</pubDate></item><item><title>テック企業のCEOが「AGIは実現した」と言い始めたのはなぜか…AGIの定義と実態</title><link>https://www.businessinsider.jp/article/2610-tech-ceos-declare-agi-is-here/</link><description>[score: 0.875] - テック企業のCEOたちは、AIが重要な節目に到達したと語り始めているが、その見方をめぐっては意見が大きく分かれている。
-- AGI（汎用人工知能）とは一般に、人間と同等かそれ以上の知能を持つAIを指す。
-- エンジニアたちは「AGI」という言葉は大げさに使われすぎているとBusiness Insiderに語っている。
-「汎用人工知能（AGI）の時代へようこそ」
-2026年9月、OpenAIの社長、グレッグ・ブロックマン（Greg Brockman）は報道陣との電話会見で、同社の最新AIモデルをアピールしつつ、「個人的には、すでにAGIと呼べる段階に達したと考えている」と語った。
-最近、テッ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-tech-ceos-declare-agi-is-here/</guid><pubDate>Tue, 13 Oct 2026 22:10:31 +0000</pubDate></item><item><title>課題解決の突破口は「ほかにどこで？」という問いから始まる</title><link>https://forbesjapan.com/articles/detail/106598?s=ns</link><description>[score: 0.875] チームが行き詰まると、人間として最も自然な行動を取る。もっと努力しようとするのだ。会議を増やす。ホワイトボードを増やす。同じ人たちが同じ部屋で同じ問題を見つめ続ける。ディズニーで30年にわたりクリエイティビティとイノベーションを率い、現在は世界中の組織とワークショップを行っている経験から言えるのは、努力を増やすことが答えになることはほとんどないということだ。ほとんどの場合、答えは別の場所に目を向けることにある。
-私はこれを「ほかにどこで？」ツールと呼んでいる。私が知る中で最もシンプルなクリエイティブ思考法の1つであり、常に驚くような成果を生み出してくれる。チームが壁にぶつかったときは、「これを</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106598?s=ns</guid><pubDate>Tue, 13 Oct 2026 23:19:26 +0000</pubDate></item><item><title>「AI投資の4割が頓挫する」現実　ツールを増やすほど顧客が逃げる“体験破壊”はなぜ起きる？</title><link>https://www.itmedia.co.jp/business/articles/2610/14/news022.html</link><description>[score: 0.876] 米Gartnerは「2027年末までにAIエージェント導入の40％超がコスト高騰や成果不透明で頓挫する」と予測する。ツールを後付けするほど情報が寸断され、顧客体験を自ら壊す「AIパラドックス」が頻発しているためだ。米Genesysのトニー・ベイツCEOは、失敗の本質を「人間を前提とした旧来型KPIの限界」だと指摘。AIを利益に変える組織運営やガバナンス設計など、経営の処方箋をラスベガス現地から解説する。</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2610/14/news022.html</guid><pubDate>Tue, 13 Oct 2026 23:29:26 +0000</pubDate></item><item><title>良いテストを書き、良いテストを見分ける ─『単体テストの考え方/使い方』のエッセンス</title><link>https://zenn.dev/nexta_/articles/unit-testing-principles-essence</link><description>[score: 0.877] はじめに 株式会社ネクスタの tetsu.k です。 生産管理SaaS「スマートF」の開発に携わっており、受注・発注・出荷・見積などのドメインを担当するチームに所属しています。 ネクスタでは、事業の拡大とともにアプリケーションが複雑になっていくなかで、より速く、より良い価値を届け続けるために、「品質」に力を入れています。 品質を支える手段の一つが、単体テストです。 いまはAIに頼めば、テストを数秒で何十本も書いてくれます。 では、テストを増やせば品質は上がるのでしょうか。 結論から言うと、大切なのはテストの数を増やすことではなく、次の2つです。 良いテストを書くこと 目の前のテスト...</description><guid isPermaLink="false">https://zenn.dev/nexta_/articles/unit-testing-principles-essence</guid><pubDate>Tue, 13 Oct 2026 23:13:51 +0000</pubDate></item><item><title>Apple、「Welcome home」イベントで発表されたことまとめ　日本でも2製品予約開始</title><link>https://www.itmedia.co.jp/news/article/2610/14/2000002235/</link><description>[score: 0.877] Apple、「Welcome home」イベントで発表されたことまとめ 日本でも2製品予約開始
-米Appleは10月13日（現地時間）、ニューヨークで開催したイベントで、スマートホーム関連の新製品を発表した。発表した製品は以下の通り。
-- 「Apple HomeView」（日本での販売予定なし）
-- 「Apple TV 4K」（第4世代）（日本では11月13日発売、4万9800円）
-- 「HomePod mini 2」（日本では10月30日発売、2万4800円）
-- 「Apple Home Collection」（韓LG Electronics、仏Schneider Electricとの共同開</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/14/2000002235/</guid><pubDate>Tue, 13 Oct 2026 22:27:08 +0000</pubDate></item><item><title>ホワイトカラーの雇用は2％減、産出は16％増。「人を増やさない成長」はAIだけで説明できるのか</title><link>https://www.businessinsider.jp/article/2610-white-collar-employment-falling-output-surges/</link><description>[score: 0.878] ホワイトカラー部門は、より少ない人員でより多くの成果を上げている。
-金融、テクノロジー、専門サービスなどの業界では雇用の総数が減少している一方で、産出は急拡大している。Burning Glass Instituteのチーフエコノミスト、ガド・レバノン（Gad Levanon）氏は、ホワイトカラーの比重が大きい部門の雇用が、実質国内総生産と比べてどう推移しているかを分析した。
-レバノン氏はSubstackの記事で、金融、保険、情報、専門・ビジネスサービスの雇用は2022年末以降、合計でおよそ2％減少した一方、これらの部門の実質産出は16％急増したと記した。
-このグループで雇用の緩やかな減少が続い</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-white-collar-employment-falling-output-surges/</guid><pubDate>Tue, 13 Oct 2026 22:10:31 +0000</pubDate></item><item><title>告白のセリフをAIに考えてもらうのはアリ？ Z世代は「相談ならOK」が4割超【GMO NIKKO調べ】</title><link>https://webtan.impress.co.jp/n/2026/10/14/53433</link><description>[score: 0.879] 告白のセリフをAIに考えてもらうのはアリ？ Z世代は「相談ならOK」が4割超【GMO NIKKO調べ】 AIに恋愛相談、どこまで許せる？ 性別や属性によっても違いあり。 imai-f 2026年10月14日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 GMO NIKKOの「Z世代トレンドラボ byGMO」は、「AIと恋愛」に関する調査を実施した。Z世代（16～28歳）の男女500人を対象に、恋愛で生成AIを使う意向や、利用を許容できる場面を調べている。 関連記事 高校生が恋愛・人間関係を相談する相手、「友人」を抜き「AI」が1位に【塾選調べ】 「AIの回答を信頼してい</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/10/14/53433</guid><pubDate>Tue, 13 Oct 2026 21:44:14 +0000</pubDate></item><item><title>アップルはスマートホーム市場で巻き返せるか。Siri AIと新製品で戦略を刷新</title><link>https://wired.jp/article/apple-overhauls-its-smart-home-play-with-new-hardware-and-a-home-collection/</link><description>[score: 0.879] アップルはスマートホーム市場で後れをとってきた。この市場では、アマゾンの「Alexa」とグーグルの「Google Assistant」（現在はGemini）が、約10年間にわたって主導権を握ってきた。
-しかしアップルは今年、Siriを人工知能（AI）によって刷新した。これまで冗談の種にされることさえあった音声アシスタントを、競合と渡り合える存在へと進化させたのだ。さらに、スマートホーム機器の共通規格「Matter」に対応する製品のエコシステムも成熟してきた。アップルは長年構想してきたスマートホームを実現するためのAI技術を、ついに手に入れたのである。
-その中心となるのが3つの新製品だ。アップル</description><guid isPermaLink="false">https://wired.jp/article/apple-overhauls-its-smart-home-play-with-new-hardware-and-a-home-collection/</guid><pubDate>Tue, 13 Oct 2026 23:29:25 +0000</pubDate></item><item><title>今日の株式見通し＝もみ合い、米ＣＰＩの発表控えて模様眺めに - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOWWxlYXJlQWJHbEMxX3NXTTgzYWtjZGs2QWtReVp1czJ3VEhiemtReE1IUm0zakRTcjFYd3NuWXA3dkxDLVdzRWRYcjAzaTl3LUN5Q2xZdHIwenMwdTNPRTVLMXZNbHcwb3lHZmlsLXM4Q0paNHRTNFctRERCNk52SDd5QzhDdw?oc=5</link><description>[score: 0.879] 今日の株式見通し＝もみ合い、米ＣＰＩの発表控えて模様眺めに Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxOWWxlYXJlQWJHbEMxX3NXTTgzYWtjZGs2QWtReVp1czJ3VEhiemtReE1IUm0zakRTcjFYd3NuWXA3dkxDLVdzRWRYcjAzaTl3LUN5Q2xZdHIwenMwdTNPRTVLMXZNbHcwb3lHZmlsLXM4Q0paNHRTNFctRERCNk52SDd5QzhDdw?oc=5</guid><pubDate>Tue, 13 Oct 2026 23:50:04 +0000</pubDate></item><item><title>「ソフトスキル」と呼ぶのはもうやめよう　AI時代に価値を増す人間の力</title><link>https://forbesjapan.com/articles/detail/106593?s=ns</link><description>[score: 0.880] AI時代に新卒者に何を求めるかを雇用主に尋ねると、返ってくる答えは、まさに「よき市民であること」の条件とよく似ている。
-テクノロジーがエントリーレベルの雇用市場を一変させるなかで、雇用主たちは一貫して同じことを口にする。コミュニケーションが取れ、同僚と協働でき、複雑な問題を考え抜ける人材が必要だ、と。これらは、チャットボットやロボットがいずれ何を習得しようとも、価値を失うことのない基本的な人間的スキルである。
-これらを「ソフトスキル」と呼ぶのはもうやめにしよう。これらは本来、大きく活気ある国で他者とともに働き、生きるための基礎的な素養なのだ。経済の未来にとっても市民生活にとっても重要であり、学</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106593?s=ns</guid><pubDate>Tue, 13 Oct 2026 23:19:26 +0000</pubDate></item><item><title>停滞しているのは会社ではない、リーダーシップの「仕組み」だ</title><link>https://forbesjapan.com/articles/detail/106592?s=ns</link><description>[score: 0.883] 売上は伸びている。チームは優秀だ。顧客も満足している。それなのに、成長が本来あるべき姿よりも難しく感じられる。
-もし自社がこの状況に当てはまるなら、あなたが考えているのとは異なる診断結果を提示したい。建設、農業、銀行、医療、製造業など、さまざまな分野のエグゼクティブチームを20年以上コーチングしてきた筆者は、ほとんどのCEOが初めて聞いたときに驚く結論に至った。成長に関する問題の多くは、戦略や人材の問題ではない。リーダーシップの「システム（仕組み）」の問題なのだ。
-損益計算書には表れない「見えない限界」
-ここで重要なのは、「あなたをここまで導いてきたリーダーシップのあり方は、次のステージへと引</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106592?s=ns</guid><pubDate>Tue, 13 Oct 2026 23:19:26 +0000</pubDate></item><item><title>ライブ・ネイションがクリエイターエコノミーに本格参入</title><link>https://forbesjapan.com/articles/detail/106594?s=ns</link><description>[score: 0.883] それは時間の問題だった。ライブ・ネイションがクリエイターエコノミーへと本格的に乗り出し、コンテンツ、コマース、ブランドパートナーシップ、ライブ体験の各領域にわたってクリエイターを支援する新会社に出資する。
-「クリエイター・ネイション（Creator Nation）」と名付けられたこの新会社は、スコット・フィッシャーとアレクシス・フィッシャーが共同で設立し、クリエイターマネジメント企業や関連事業の買収・成長も手がけていく。初の買収案件は年内に発表される見通しだ。
-「クリエイターたちは、コンテンツ、ライブ、ブランド、コマースにまたがる機会を活かして、より広範なエンターテインメント事業に近いキャリア</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106594?s=ns</guid><pubDate>Tue, 13 Oct 2026 23:19:26 +0000</pubDate></item><item><title>「ＡＩ自己複製でネット混乱も」、アンソロピックの警告が物議 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQLTFGMkhYWDVRdWF1MTk0SVJ1OVdfdTd3OExKeVI3Q25EcHAwLW96UldYUE5zRDlQTGw5aE54R0FHQlkxQW9CZExkR0lsTWtVXzFYemlsb0N0akpBOEc4TWhmT0hUcFlBODZaMWVQb1VwSmcyZVJZV0RnQVpRY3FQbGlKOXk3ZE0?oc=5</link><description>[score: 0.883] 「ＡＩ自己複製でネット混乱も」、アンソロピックの警告が物議 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxQLTFGMkhYWDVRdWF1MTk0SVJ1OVdfdTd3OExKeVI3Q25EcHAwLW96UldYUE5zRDlQTGw5aE54R0FHQlkxQW9CZExkR0lsTWtVXzFYemlsb0N0akpBOEc4TWhmT0hUcFlBODZaMWVQb1VwSmcyZVJZV0RnQVpRY3FQbGlKOXk3ZE0?oc=5</guid><pubDate>Tue, 13 Oct 2026 23:50:04 +0000</pubDate></item><item><title>質問するだけでAIコーディングエージェントが実行ファイル・ライブラリ・アプリなどをリバースエンジニアリングできる「REA」、ソースコードなしで同等機能を実装可能</title><link>https://gigazine.net/news/20261014-rea-tools/</link><description>[score: 0.883] 質問するだけでAIコーディングエージェントが実行ファイル・ライブラリ・アプリなどをリバースエンジニアリングできる「REA」、ソースコードなしで同等機能を実装可能
-「REA(Reverse Engineer Anything)」はバイナリ・アプリケーション・ランタイム動作全体にわたるリバースエンジニアリングを行うための包括的なプラットフォームです。ソースコードがない場合でも、対象を調査して機能の仕組みや根拠を明らかにし、同様の機能を実装することが可能であるため、プログラムの解析・変更・再構築が容易になります。
-REA — Reverse Engineering for Your Coding A</description><guid isPermaLink="false">https://gigazine.net/news/20261014-rea-tools/</guid><pubDate>Tue, 13 Oct 2026 22:08:52 +0000</pubDate></item><item><title>AIは本当に生産性を高めているか？「仕事増」との境界を見極める方法</title><link>https://forbesjapan.com/articles/detail/106600?s=ns</link><description>[score: 0.884] 企業が人工知能（AI）への投資を強化するなか、単に技術を導入するだけでは有意義な価値をもたらしていることの証明にはならない。成果物の生成スピード向上やAI利用の拡大は、一見すると書類上は生産性の向上に思えるかもしれない。しかしリーダーは、その技術が従業員にとって実際に業務をより効率的かつ持続可能なものにしているかどうかを考慮する必要がある。
-AIの真の影響を理解するには、表面的な指標にとどまらず、組織全体の日々の業務にそのテクノロジーがどのような影響を及ぼしているかを検証しなければならない。以下では、Forbes Business Councilのメンバーが、AIが本当に生産性を高めているのか</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106600?s=ns</guid><pubDate>Tue, 13 Oct 2026 23:19:26 +0000</pubDate></item><item><title>ＦＲＢ当局者、金利上昇が一部金融機関に課題もたらすと認識＝ボストン連銀総裁 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2xLQ1hzSHNiSG82ZGs2U0JlNUNCSm1OSGJ2U3Q3RkRjUTl5N3dNYUpWeloxTmlGMTdOTGVvUEd1OE15MThMZlVUemlYbXdZc2hXbmpoUVdZV0ItZ1BiWS1TVXRtWU5VYWRIWmE3V3ZUMDBQc1l5bEFHSzBucFFPTmpfVDJSdw?oc=5</link><description>[score: 0.884] ＦＲＢ当局者、金利上昇が一部金融機関に課題もたらすと認識＝ボストン連銀総裁 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ2xLQ1hzSHNiSG82ZGs2U0JlNUNCSm1OSGJ2U3Q3RkRjUTl5N3dNYUpWeloxTmlGMTdOTGVvUEd1OE15MThMZlVUemlYbXdZc2hXbmpoUVdZV0ItZ1BiWS1TVXRtWU5VYWRIWmE3V3ZUMDBQc1l5bEFHSzBucFFPTmpfVDJSdw?oc=5</guid><pubDate>Tue, 13 Oct 2026 21:46:57 +0000</pubDate></item><item><title>スタートアップの体制のままでは危ない。事業をプロ化すべき理由</title><link>https://forbesjapan.com/articles/detail/106599?s=ns</link><description>[score: 0.885] 起業家が陥りがちなよくある過ちは、事業が成長し成功を収めるにつれて、自社をどのように「プロフェッショナル化」していくかという計画を持たずに創業してしまうことだ。
-成熟しつつある事業を、創業時に導入した基本的なツールのまま運営し続けることが、コンプライアンス上の不備をはじめ、法務、オペレーション、財務上の問題といったさまざまなリスクに事業を晒すことになるのだと彼らは気づいていない。
-すべての起業家が創業時に目指す「成功」そのものが、それを支えるシステムが整備されていない場合、最終的に事業を足元からすくうことになるのは皮肉なことである。
-何千ものプロフェッショナルや起業家の会社設立とコンプライアン</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106599?s=ns</guid><pubDate>Tue, 13 Oct 2026 23:19:26 +0000</pubDate></item><item><title>サウジ側フーシ派双方が退避通告 攻撃の応酬の激化懸念</title><link>https://news.web.nhk/newsweb/na/nd-20261014de58936</link><description>[score: 0.885] 攻撃の応酬が続くサウジアラビアと隣国イエメンの反政府勢力フーシ派は13日には双方とも相手の石油関連施設にいる民間人などに退避を通告し、攻撃のさらなる拡大が懸念されています。
-サウジアラビアと隣国イ…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 14 Oct 2026 10:53:10 +0000</lastBuildDate><item><title>中国と北朝鮮を結ぶ橋が15日に開通 両国貿易拡大の可能性も</title><link>https://news.web.nhk/newsweb/na/nd-20261014de59181</link><description>[score: 0.884] 中国と北朝鮮の関係強化が進む中、12年前に本体の工事が完了したものの開通していなかった両国を結ぶ橋が、15日開通することになりました。
+中国国営の新華社通信は、東北部の遼寧省丹東と北朝鮮北西部のシ…
 あわせて読みたい
-中国の企業関係者らが北方領土の択捉島を訪問
-10月14日 2:43
-「あなたの取り締まりは行き過ぎ」 共和党内からも異論噴出？
-10月13日 20:40
-米中間選挙に向けて マスク氏が共和党に史上最大級の政治献金
-10月13日 20:24
-フーシ派とサウジアラビア 12日も攻撃の応酬か
-10月13日 21:12
-フランスの冷凍庫管理システムにサイバー攻撃 食品に被害
-10月13日</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261014de58936</guid><pubDate>Tue, 13 Oct 2026 23:41:24 +0000</pubDate></item><item><title>OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕</title><link>https://www.itmedia.co.jp/news/article/2610/14/2000002236/</link><description>[score: 0.888] OpenAI従業員、役員会議室に録音装置を仕掛けた疑いでFBIが逮捕
-米OpenAIは10月13日（現地時間）、社内のオフィスに隠されていた高度な録音装置を発見し、装置を仕掛けた従業員を特定して米連邦捜査局（FBI）に通報したとXで発表した。米司法省も同日、OpenAIの従業員でサウジアラビア国籍のアブドゥルラフマン・アルフォザン容疑者（35）を、電子機器などを使って口頭での会話を傍受した、または傍受しようとした疑いで逮捕、訴追したと発表した。同容疑者は10月9日に逮捕され、13日に連邦裁判所に初めて出廷した。
-OpenAIによると、同社は自社のAIモデルを使って装置の仕組みや出どころを分析し</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/14/2000002236/</guid><pubDate>Tue, 13 Oct 2026 23:20:10 +0000</pubDate></item><item><title>相次ぐ情報漏えいの一因は「Androidアプリ」 NICTが「A2B攻撃」対策を公表</title><link>https://www.watch.impress.co.jp/docs/news/2147764.html</link><description>[score: 0.888] 国立研究開発法人情報通信研究機構(NICT)は13日、国内で相次ぐ情報漏えい事案の原因の一つとして、公開アプリを悪用した「A2B攻撃」を特定したと発表。3種類の推奨対策をまとめて公表した。</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2147764.html</guid><pubDate>Tue, 13 Oct 2026 09:38:46 +0000</pubDate></item><item><title>「Gemini 4 Argon」が一般提供開始 ～満を持して登場した最強の「Gemini」モデル／「Gemini」アプリでは「Google AI Pro/Ultra」の契約者が利用可能</title><link>https://forest.watch.impress.co.jp/docs/news/2147842.html</link><description>[score: 0.891] ニュース
-「Gemini 4 Argon」が一般提供開始 ～満を持して登場した最強の「Gemini」モデル
-「Gemini」アプリでは「Google AI Pro/Ultra」の契約者が利用可能
-2026年10月14日 01:31
-米Googleは10月13日（現地時間、以下同）、AIモデル「Gemini 4 Argon」の一般提供を開始した。9月30日に発表されたフロンティアモデルで、これまでは信頼できるサイバーセキュリティ担当者を対象とするプログラム「Fairwind Program」を通じて限定提供されていた。
-「4 Argon」は同日より、グローバルで順次利用可能になる。提供先は以下の</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2147842.html</guid><pubDate>Tue, 13 Oct 2026 23:20:10 +0000</pubDate></item><item><title>ChatGPTを抜いた、メタの新AIエージェントMuseが狙う「広告以外の収益源」</title><link>https://forbesjapan.com/articles/detail/106552?s=ns</link><description>[score: 0.893] メタ・プラットフォームズ（META）の株価は、この1カ月で10.4％上昇し、S&amp;P500の1.8％を上回った。米国時間2026年9月8日に新しいアプリを公開して以来、同社への期待が高まっている。メタの売上高は、現在もほぼすべてが広告によるものだ。だが、今回の新アプリは、より幅の広いビジネスモデルへの第1歩になるかもしれない。メタが公開したのは具体的にどんなアプリで、どこまで成果を上げているのか。
-メタの個人向けAIエージェント「Muse」が登場、利用者数でChatGPT初期を上回る
-Muse（ミューズ）は、旅行の予約やメールの管理など、利用者の代わりに作業をこなすアプリである。小売サイトを調べ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106552?s=ns</guid><pubDate>Tue, 13 Oct 2026 23:19:26 +0000</pubDate></item><item><title>高市首相、簗農相と14日面会も　説明聴取、「違法性あれば」明言 | NEWSjp</title><link>https://news.jp/i/1482551586486419991</link><description>[score: 0.897] 高市早苗首相は13日の衆院予算委員会で、簗和生農相の進退判断に含みを残した。道路予算削減発言に関し「事実だとしたら、本当に不適切で、ダサい。その人が行政運営をしていいのかどうかを含め、しっかりと考える」と述べた。衆院選で支持者をシャトルバスで無料送迎した公選法違反疑惑について「仮に違法性があれば、私はちゅうちょしない」と明言。予算委終了後、簗氏から13日夜に電話で報告を受けた上で、14日の予算委後の面会を検討する意向を官邸で記者団に示した。
-先週の国会答弁では続投方針を明確にしていたが、野党が辞任圧力を強める中、首相の発言が変化してきた。
-首相は予算委で「何もしていないのに、地元で自分を大きく</description><guid isPermaLink="false">https://news.jp/i/1482551586486419991</guid><pubDate>Tue, 13 Oct 2026 23:05:41 +0000</pubDate></item><item><title>中国黒竜江省代表団が異例の北方領土・択捉島訪問　ロシアと足並み揃え鮮明　省職員も参加</title><link>https://www.sankei.com/article/20261013-53SNWTZ6RBNHRAFJ3J6ST6W56I/</link><description>[score: 0.900] ロシア極東サハリン州政府は13日、ロシアが不法占拠する北方領土の択捉（えとろふ）島を中国の代表団が訪問したと発表した。ロシアメディアが伝えた。外国代表団の北方領土訪問は極めて異例。中国はプーチン露大統領が8月に同島を初訪問した際にロシアと共同声明を発表しており、中露が北方領土問題で足並みをそろえて日本に対峙（たいじ）する姿勢が鮮明になった。
-ロシアメディアによると、代表団には中国黒竜江省の省政府職員や実業家が参加し、投資誘致ツアーの一環で島内のウニ養殖場などを見学した。サハリン州高官は「クリール諸島（千島列島と北方領土の露側呼称）は国際協力に開かれている」と述べたという。
-中露はプーチン氏が北</description><guid isPermaLink="false">https://www.sankei.com/article/20261013-53SNWTZ6RBNHRAFJ3J6ST6W56I/</guid><pubDate>Tue, 13 Oct 2026 22:17:14 +0000</pubDate></item><item><title>キーウへのミサイル攻撃で1人死亡＝ウクライナ当局 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmM5NEpxZnNITUtETmFCM3B5MVFkNFNwNDN3UFMwNU9JWlRIYjNZdzlNQVQ5Q1EwUjJybjd3NlRhdHJuajNCQS1DRUoxSEdWYk14Z3V2TGhTdVJQSENFWlNXMVlaZXFxYVZ6TnFkd3lHS3V6aXc5dzFaY0JXMy1MSm9hN20xUQ?oc=5</link><description>[score: 0.902] キーウへのミサイル攻撃で1人死亡＝ウクライナ当局 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxOUmM5NEpxZnNITUtETmFCM3B5MVFkNFNwNDN3UFMwNU9JWlRIYjNZdzlNQVQ5Q1EwUjJybjd3NlRhdHJuajNCQS1DRUoxSEdWYk14Z3V2TGhTdVJQSENFWlNXMVlaZXFxYVZ6TnFkd3lHS3V6aXc5dzFaY0JXMy1MSm9hN20xUQ?oc=5</guid><pubDate>Tue, 13 Oct 2026 23:50:04 +0000</pubDate></item><item><title>【お金の教室】日銀利上げと個人向け国債の関係性　9月の利上げでどんな変化が?</title><link>https://www.watch.impress.co.jp/docs/series/tsukamoto/2146846.html</link><description>[score: 0.907] お金の教室
-第10回
-日銀利上げと個人向け国債の関係性 9月の利上げでどんな変化が?
-2026年10月14日 08:20
-2026年9月18日、日本銀行(日銀)は政策金利を1.25%へ引き上げました。金利が上がる局面では、個人向け国債を「その月に買うか、次月まで待つか」で迷う人も多いでしょう。本稿では、まず利上げ当日の国債利回りを使って10月募集の個人向け国債・新窓販国債の金利を試算します。そのうえで、実際に決まった10月募集の金利と照らし合わせ、試算がどこまで当たったのか、そこから何を学べるのかを解説します。
-まず、9月18日時点の試算の結論です。9月18日の国債利回りが金利の決まる日まで続</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/series/tsukamoto/2146846.html</guid><pubDate>Tue, 13 Oct 2026 23:27:49 +0000</pubDate></item><item><title>ノーベル平和賞ピレイ氏 アメリカの対応「非常に悲しい」</title><link>https://news.web.nhk/newsweb/na/nd-20261014de58934</link><description>[score: 0.913] ことしのノーベル平和賞に選ばれたナビ・ピレイ氏が13日、NHKの単独インタビューに応じ、受賞が発表された日にアメリカのトランプ政権がICC＝国際刑事裁判所を制裁対象に指定したと発表したことについて「受…
+オープンAI従業員を逮捕 役員会議室に録音機設置か
+10月14日 12:21
+サウジアラビア国営石油会社に攻撃 フーシ派と双方で攻撃続く
+10月14日 12:38
+ロシアが北海道新聞記者をスパイ容疑で拘束 長期化の懸念も
+10月14日 12:03
+ホワイトハウスの新しい報道官 初会見はわずか15分で終了
+10月14日 5:36
+フランスの高校生 教育環境悪化に抗議し再び大規模集会</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261014de59181</guid><pubDate>Wed, 14 Oct 2026 07:39:41 +0000</pubDate></item><item><title>Claude Code の守りのフックは、台本が壊れると黙って通す。2.1.295 の onFailure で止まった</title><link>https://qiita.com/suwa_nobu/items/afde8d73a48eb7badb71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] Claude Code 2.1.295（2026-10-08）の changelog に、こう書かれています。
+Added
+onFailure: "block"
+for command and HTTP hooks: a hook that can't start, times out, or exits with an unexpected code blocks the action instead of letting it through
+裏を返すと、これまでのフックは、起動できない・時間切れ・想定外の終了コードのとき、処理を通していたことになります。
+ドキュメントにも、はっきり書いて</description><guid isPermaLink="false">https://qiita.com/suwa_nobu/items/afde8d73a48eb7badb71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 14 Oct 2026 08:20:08 +0000</pubDate></item><item><title>ロシア、本紙記者拘束　当局発表　「安保脅かす情報収集」：北海道新聞デジタル</title><link>https://www.hokkaido-np.co.jp/article/1388778/</link><description>[score: 0.887] ロシア、本紙記者拘束 当局発表 「安保脅かす情報収集」：北海道新聞デジタル ロシア連邦保安局（FSB）は13日、本紙男性記者をスパイ容疑で拘束したと発表した。ロシア国営タス通信などが伝えた。タスによると、「ロシアの安全保障を脅かす目的で日本の情報機関に情報を提供しようとしていたことがわかった」としている。 本紙記者は記者の査証（ビザ）を受けて、極東サハリン州のユジノサハリンス...</description><guid isPermaLink="false">https://www.hokkaido-np.co.jp/article/1388778/</guid><pubDate>Tue, 13 Oct 2026 23:15:58 +0000</pubDate></item><item><title>【セキュリティ ニュース】解析される「スマホアプリ」 - 接続先サーバの脆弱性や設定ミスが標的に（1ページ目 / 全2ページ）：Security NEXT</title><link>https://www.security-next.com/191361</link><description>[score: 0.887] 【セキュリティ ニュース】解析される「スマホアプリ」 - 接続先サーバの脆弱性や設定ミスが標的に（1ページ目 / 全2ページ）：Security NEXT スマホアプリを活用した会員サービスで情報流出事故が相次いでいることに関連し、情報通信研究機構（NICT）は、原因のひとつとして「A2B攻撃」を挙げた。アプリと通信するサーバの脆弱性対策や侵害調査などの対応を呼びかけている。 同機構の脅威情報共同分析チームが調査、分析したもの。一般に公開されているAndroidア...</description><guid isPermaLink="false">https://www.security-next.com/191361</guid><pubDate>Wed, 14 Oct 2026 01:32:52 +0000</pubDate></item><item><title>簗農水相の更迭、高市首相が可能性に言及「違法性あれば躊躇しない」：朝日新聞</title><link>https://www.asahi.com/articles/ASVBD2F2DVBDUTFK01KM.html</link><description>[score: 0.887] 簗農水相の更迭、高市首相が可能性に言及「違法性あれば躊躇しない」
+高市早苗首相や簗（やな）和生農林水産相が13日、今国会で初となる衆院予算委員会での論戦に臨みました。食料品の消費減税の是非のほか、簗氏が地元2市町の道路予算を「カットした」と発言した問題をめぐり厳しいやり取りが展開されました。今国会最初のヤマ場をタイムラインで詳報します。
+■13日の衆院予算委の質問者（時間は見通し）
+9:00～ 自民・田村憲久氏
+10:00～ 自民・宮崎政久氏
+10:40～ 自民・英利アルフィヤ氏
+11:20～ 自民・高見康裕氏
+13:00～ 中道・落合貴之氏（民主改革）
+13:50～ 中道・中野洋昌氏（公明）</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVBD2F2DVBDUTFK01KM.html</guid><pubDate>Wed, 14 Oct 2026 09:16:47 +0000</pubDate></item><item><title>投稿動画で会社元代表の名誉を毀損か ユーチューバー逮捕</title><link>https://news.web.nhk/newsweb/na/nd-20261014de59291</link><description>[score: 0.888] 20代のユーチューバーが、京都市にある不動産会社の当時の代表を「詐欺師」などとひぼう中傷する動画をYouTubeに投稿したとして、名誉毀損の疑いで警察に逮捕されました。
+元代表は動画が投稿されたあと…
+注目ワード
 あわせて読みたい
-中国の企業関係者らが北方領土の択捉島を訪問
-10月14日 2:43
-「あなたの取り締まりは行き過ぎ」 共和党内からも異論噴出？
-10月13日 20:40
-米中間選挙に向けて マスク氏が共和党に史上最大級の政治献金
-10月13日 20:24
-フーシ派とサウジアラビア 12日も攻撃の応酬か
-10月13日 21:12
-フランスの冷凍庫管理システムにサイバー攻撃 食品に被害
-10月1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261014de58934</guid><pubDate>Tue, 13 Oct 2026 21:47:03 +0000</pubDate></item><item><title>ゼロクリック検索時代のSEO、Google検索の変化とAIに選ばれる2つの情報源【週間ランキング】</title><link>https://webtan.impress.co.jp/e/2026/10/14/53440</link><description>[score: 0.919] ゼロクリック検索時代のSEO、Google検索の変化とAIに選ばれる2つの情報源【週間ランキング】 isoya 2026年10月14日 Web担人気記事ランキング シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 2026年10月7日～2026年10月13日にアクセス数の多かった記事のランキングを発表！ 見逃している人気記事はありませんか？ 【レポート】生成AI × マーケティング フォーラム 2026 なぜ「検索してクリック」しなくなった？ Google検索の変化とAIに選ばれる2つの情報源 ゼロクリック検索時代において、SEOにどのように取り組めばよいのか。SEOコンサ</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/10/14/53440</guid><pubDate>Tue, 13 Oct 2026 22:46:20 +0000</pubDate></item><item><title>どのようなサイトが狙われているか？Cloudflareセキュリティログから見る攻撃の傾向と対策 - Qiita</title><link>https://qiita.com/shioccii/items/cf18356730534053de95</link><description>[score: 0.945] どのようなサイトが狙われているか？Cloudflareセキュリティログから見る攻撃の傾向と対策 - Qiita Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? どのようなサイトが狙われているか？Cloudflareセキュリティログから見る攻撃の傾向と対策 Cloudflare無料プランで運用している静的サイトのセキュリティ画面を確認したところ、直...</description><guid isPermaLink="false">https://qiita.com/shioccii/items/cf18356730534053de95</guid><pubDate>Tue, 13 Oct 2026 23:49:08 +0000</pubDate></item></channel></rss>
+高市首相 バス送迎“法令違反か否かは当局判断 簗大臣説明を”
+10月14日 18:00
+千葉豪雨 タクシー水没し乗客死亡の事故 詳しい経緯が判明
+10月14日 11:51
+ドジャース大谷翔平 第3戦先発へ「信じてくれる人のために」
+10月14日 14:10
+ロシアが北海道新聞記者をスパイ容疑で拘束 長期化の懸念も
+10月14日 12:03
+「あなたの取り締まりは行き</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261014de59291</guid><pubDate>Wed, 14 Oct 2026 09:43:01 +0000</pubDate></item><item><title>高市首相、「ダサい」発言は「政治家としてみっともないということ」：朝日新聞</title><link>https://www.asahi.com/articles/ASVBF3W07VBFUQIP05BM.html</link><description>[score: 0.889] 自治体の道路予算を「カットした」と発言した簗（やな）和生農林水産相が14日夕、高市早苗首相に辞表を提出しました。高市首相は任命責任をどのように説明するのでしょうか。この日の衆院予算委員会の論戦を含め、タイムラインで詳報します。
+18:45
+簗氏「これ以上迷惑かけるわけにいかない」
+簗（やな）和生農林水産相は14日、首相官邸で高市早苗首相と面会し、辞表を提出した。簗氏は面会後、記者団に「国会審議、農林水産行政にこれ以上迷惑をかけるわけにはいかない」と理由を述べた。辞表の提出については「自ら決断した」と強調した。
+簗氏をめぐっては、衆院選で自身を支持しなかった自治体の道路予算を「カットした」と発言</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVBF3W07VBFUQIP05BM.html</guid><pubDate>Wed, 14 Oct 2026 09:16:47 +0000</pubDate></item><item><title>2026年10月14日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title><link>https://qiita.com/ennagara128/items/e391cf5cb052cf432685?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] 前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。
+通勤中などにながら聴きしよう！
+（Qiita投稿は通勤には間に合わないと思われますが）
+フィードバックとか助かりますのでください
+↓こちらから
+出典
+サイバーセキュリティを勉強するなら今？おすすめリソース紹介
+https://qiita.com/leolui2004/items/226062f17e55202e8c47?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items
+私はGemini。env 認証情報を、うっかりチャット対話文に漏洩</description><guid isPermaLink="false">https://qiita.com/ennagara128/items/e391cf5cb052cf432685?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 14 Oct 2026 08:20:08 +0000</pubDate></item><item><title>BlogでたどるSelect AI入門：多言語からAI Ready Data、SQL＋RAGまで整理してみてみた</title><link>https://qiita.com/shirok/items/3661216f00cc9f5629cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] Select AIを使うと、日本語などの自然言語からSQLを生成し、Oracle Databaseのデータを調べることができます。
+ただ、実際に使ってみると、いろいろ気になってきます。
+「日本語以外でも問い合わせできるのか？」
+「AIは、どのテーブルを使うか、どの列でJOINするかをどうやって知るのでしょ？」
+「業務で使っているコード値の意味は、どこに書けばよいのかしら？」
+「表の数値と、手順書や障害報告書を一緒に調べられる？」
+Select AIのBlogは、こうした疑問から少しずつ増えてきました。一方で、検証内容を詳しく書くほど記事も長くなり、「専門的で、どこから読めばよいか分かりにくい」</description><guid isPermaLink="false">https://qiita.com/shirok/items/3661216f00cc9f5629cb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 14 Oct 2026 08:20:08 +0000</pubDate></item><item><title>埼玉 「大樹生命」元営業職員を顧客への詐欺容疑で逮捕</title><link>https://news.web.nhk/newsweb/na/nd-20261014de59353</link><description>[score: 0.889] 生命保険会社「大樹生命」の埼玉支社に勤務していた元営業職員が顧客から現金およそ500万円をだまし取ったとして逮捕されました。10年余りにわたって20人ほどの顧客に似たような手口を繰り返し被害の総額は1…
+あわせて読みたい
+高市首相 バス送迎“法令違反か否かは当局判断 簗大臣説明を”
+10月14日 18:00
+千葉豪雨 タクシー水没し乗客死亡の事故 詳しい経緯が判明
+10月14日 11:51
+ドジャース大谷翔平 第3戦先発へ「信じてくれる人のために」
+10月14日 14:10
+ロシアが北海道新聞記者をスパイ容疑で拘束 長期化の懸念も
+10月14日 12:03
+「あなたの取り締まりは行き過ぎ」 共</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261014de59353</guid><pubDate>Wed, 14 Oct 2026 09:43:01 +0000</pubDate></item><item><title>ダミーエンドポイントを仕掛けて、AI攻撃エージェントの探索行動を可視化してみた</title><link>https://qiita.com/kumai_yu/items/84f7eaad15426da0a5b8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] はじめに
+こんにちは。主にXでAI駆動開発を発信している熊井悠です！
+AIスタートアップでCEO兼CTOをしています。
+証券システムのエンジニア・プロジェクトマネージャーからキャリアを始め、コンサルティング会社を経て2020年に起業しました。最近は、AIエージェントがサイバー攻撃に利用されたとき、従来のセキュリティ対策にどんな影響があるのかに関心を持っています。
+今回やったことを一言でいうと、自社のデモアプリに「いかにも怪しい」ダミーエンドポイントを何個か仕込み、OSSのAIペネトレーションツール「Strix」がそれにどう反応するかを観察した実験です。AI攻撃エージェントが未知のシステムをどう</description><guid isPermaLink="false">https://qiita.com/kumai_yu/items/84f7eaad15426da0a5b8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 14 Oct 2026 08:20:08 +0000</pubDate></item><item><title>AIエージェントによるウェブサイトへの攻撃の注意喚起</title><link>https://www.scutum.jp/information/waf_tech_blog/2026/10/waf-blog-085.html</link><description>[score: 0.890] 技術者ブログ
+クラウド型WAF「Scutum（スキュータム）」の開発者/エンジニアによるブログです。
+金床“Kanatoko”をはじめとする株式会社ビットフォレストの技術チームが、“WAFを支える技術”をテーマに幅広く、不定期に更新中！
+AIエージェントによるウェブサイトへの攻撃の注意喚起
+AIエージェントによる攻撃を観測しました
+皆様おそらくご存知のとおり、2026年9月頃からウェブサイトやウェブアプリケーションで立て続けに情報漏洩が報告されています。マクニカさんやJPCERT/CCから情報が出されています。
+Scutumでは10月10日の夜より、これらの攻撃がAIエージェントによるものなの</description><guid isPermaLink="false">https://www.scutum.jp/information/waf_tech_blog/2026/10/waf-blog-085.html</guid><pubDate>Wed, 14 Oct 2026 10:16:29 +0000</pubDate></item><item><title>企業が使うAIモデル、1年半で6割超が「中国製」に　「最高性能のオープンモデルはほぼ中国発」の理由</title><link>https://atmarkit.itmedia.co.jp/ait/articles/2610/09/news033.html</link><description>[score: 0.890] 企業が使うAIモデル、1年半で6割超が「中国製」に 「最高性能のオープンモデルはほぼ中国発」の理由 調査会社のRedMonkは2026年9月3日（米国時間）、オープンウエートモデル（モデルの重みパラメーターが公開され、計算資源さえあれば誰でも自前で動かせるAIモデル）を多角的に分析したブログ記事を公開した。地理... misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86 OpenRouterの企業トークン利用で中国製モデルが4.5％→63％に。Red</description><guid isPermaLink="false">https://atmarkit.itmedia.co.jp/ait/articles/2610/09/news033.html</guid><pubDate>Wed, 14 Oct 2026 08:16:43 +0000</pubDate></item><item><title>渋谷区マンション建設 工事停止の申し立て 2審は退ける</title><link>https://news.web.nhk/newsweb/na/nd-20261014de59164</link><description>[score: 0.891] 東京・渋谷区で進められていたマンションの建設工事をめぐり、近隣の住民が盛り土による土砂崩れのおそれがあるとして工事の停止を求めた申し立てについて、2審の東京高等裁判所が1審とは逆に退ける決定をしたこと…
+注目ワード
+あわせて読みたい
+高市首相 バス送迎“法令違反か否かは当局判断 簗大臣説明を”
+10月14日 18:00
+千葉豪雨 タクシー水没し乗客死亡の事故 詳しい経緯が判明
+10月14日 11:51
+ドジャース大谷翔平 第3戦先発へ「信じてくれる人のために」
+10月14日 14:10
+ロシアが北海道新聞記者をスパイ容疑で拘束 長期化の懸念も
+10月14日 12:03
+「あなたの取り締まりは行</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261014de59164</guid><pubDate>Wed, 14 Oct 2026 09:43:01 +0000</pubDate></item><item><title>コカ・ コーラにマクドナルド、ウクライナの米国企業を攻撃するロシア　それでもトランプ政権は沈黙(1/2)</title><link>https://www.cnn.co.jp/world/35253548.html</link><description>[score: 0.891] ロシアによるウクライナ侵攻のさなか、ロシア軍の攻撃を受けたコカ・コーラの工場で、救助活動にあたるウクライナの救助隊員＝9月3日、キーウ州/AFP/Getty Images （CNN） 米国の消費者に不利益が及ぶ――。そんな理由からロシアの製油所への攻撃をやめるようウクライナに圧力を強めるトランプ米大統領と政権幹部だが、ウクライナ国内の米国企業に対する最近のロシアの攻撃については沈黙を守っている。 ロシアはここ数カ月、米国企業関係の施設への攻撃を激化させてきた。攻撃の矛先はウクライナ国内の民間インフラ全般にも向けられている。 在ウクライナ米商工会議所のアンディー・ハンダー会頭によると、コカ・コー</description><guid isPermaLink="false">https://www.cnn.co.jp/world/35253548.html</guid><pubDate>Wed, 14 Oct 2026 09:35:58 +0000</pubDate></item><item><title>OpenAIの従業員をFBIが逮捕、役員会議室に盗聴器を仕掛けた疑い</title><link>https://gigazine.net/news/20261014-openai-employee-arrested-by-fbi/</link><description>[score: 0.892] OpenAIの従業員をFBIが逮捕、役員会議室に盗聴器を仕掛けた疑い
+オフィスに密かに盗聴器を仕掛けていたとして、OpenAIの従業員がFBIに逮捕されました。盗聴器の仕掛けられた役員会議室は、会社の機密情報や非公開情報をやり取りするような会議が行われる場でしたが、OpenAIによると情報の窃取や持ち出しは確認されていないとのことです。
+Office of Public Affairs | Saudi National Arrested for Installing Surreptitious Audio Recording Device at OpenAI | United States D</description><guid isPermaLink="false">https://gigazine.net/news/20261014-openai-employee-arrested-by-fbi/</guid><pubDate>Wed, 14 Oct 2026 03:07:19 +0000</pubDate></item><item><title>「AIがAIを作れるようになる確率は2027年に50%超」　Anthropic共同創業者が予測を前倒し、「ただし実行は“片道切符"」</title><link>https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/</link><description>[score: 0.893] 「AIがAIを作れるようになる確率は2027年に50%超」 Anthropic共同創業者が予測を前倒し、「ただし実行は“片道切符"」
+自らの後継システムを訓練できるほど強力なAIが2027年に登場する確率は50％以上――米Anthropicの共同創業者で公共利益部門責任者のジャック・クラーク氏は10月13日、東京大学大学院の松尾・岩澤研究室が主催した講演でこう述べた。年初に公表した「2027年に30％、2028年末までに60％」という予想から前倒ししたという。
+ただし同氏は、能力を持つことと実際に使うことは別問題だと強調。AIがAI自身を改善する「再帰的自己改善」（RSI）は一度始めれば戻れな</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2610/14/2000002262/</guid><pubDate>Wed, 14 Oct 2026 08:19:06 +0000</pubDate></item><item><title>【2026年10月 最新版】AIモデル徹底比較 | GPT-6.1 Sol  / Claude Opus 5.5  / Claude Sonnet 5.5 / Gemini 4 Argon</title><link>https://qiita.com/nuco_d/items/9d4f86c185dda6fd24a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.893] はじめに
+本記事では、Gemini 4 Argon、GPT-6.1 Sol、Claude Opus 5.5、Claude Sonnet 5.5 の4モデルを、スペック・公式ベンチマーク・料金の3つの観点で比較します。
+記載している数値は、すべて2026年10月13日時点のものです。
+弊社Nucoでは、他にも様々なお役立ち記事を公開しています。よかったら、Organizationのページも覗いてみてください。
+また、Nucoでは一緒に働く仲間も募集しています！興味をお持ちいただける方は、こちらまで。
+用途別おすすめモデル
+ベンチマークの数値をもとに、7つの用途ごとにおすすめのモデルを紹介します。</description><guid isPermaLink="false">https://qiita.com/nuco_d/items/9d4f86c185dda6fd24a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 14 Oct 2026 08:20:08 +0000</pubDate></item><item><title>北海道大樹町で新たなロケット発射場の土台部分完成</title><link>https://news.web.nhk/newsweb/na/nd-20261014de59308</link><description>[score: 0.894] 北海道大樹町で人工衛星を搭載したロケットを打ち上げるための新たな発射場の土台部分が完成し、報道関係者に公開されました。
+14日、北海道大樹町にある「北海道スペースポート」で公開されたのは、新たに整…
+あわせて読みたい
+高市首相 バス送迎“法令違反か否かは当局判断 簗大臣説明を”
+10月14日 18:00
+千葉豪雨 タクシー水没し乗客死亡の事故 詳しい経緯が判明
+10月14日 11:51
+ドジャース大谷翔平 第3戦先発へ「信じてくれる人のために」
+10月14日 14:10
+ロシアが北海道新聞記者をスパイ容疑で拘束 長期化の懸念も
+10月14日 12:03
+「あなたの取り締まりは行き過ぎ」 共和党</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261014de59308</guid><pubDate>Wed, 14 Oct 2026 09:43:01 +0000</pubDate></item><item><title>AIの暴走、訴えるべき相手はだれなのか</title><link>https://www.cnn.co.jp/tech/35253542.html</link><description>[score: 0.895] AIエージェントの不正侵入事案が相次ぐ中、開発した企業への訴訟リスクが取り沙汰されている/Science Photo Library RF/Getty Images ニューヨーク（CNN） AI（人工知能）業界では最近、人類が破滅的なリスクにさらされるとの懸念が盛んに議論されるようになった。だが「Claude（クロード）」や「ChatGPT（チャットGPT）」のような生成AIを開発する企業は、もっと目先の現実的なリスクに直面している。この先、訴訟を起こされるという心配だ。それもおびただしい数の訴訟を。 AI企業は今のところ、自社のAIエージェントをテスト環境に閉じ込めておけなかった最近の事例が</description><guid isPermaLink="false">https://www.cnn.co.jp/tech/35253542.html</guid><pubDate>Wed, 14 Oct 2026 09:35:58 +0000</pubDate></item><item><title>オープンＡＩ従業員を逮捕、会議室に録音機器設置容疑 ＦＢＩが捜査 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBCUmZtQ2NwZTZCbWhySXJaa2FNTkFtMlQwRHJENllKLTFfVEoyVHZZLVM4b2ttWnpyRkd2SHBrVjEtRUd4QTRNQWFubUJSRU5UWERiVHF2NkFnV0lWNjVSeWtxamttdmkyUnFDX0J5VGJqZWU4bzc3WHVlMkJLZw?oc=5</link><description>[score: 0.899] オープンＡＩ従業員を逮捕、会議室に録音機器設置容疑 ＦＢＩが捜査 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFBCUmZtQ2NwZTZCbWhySXJaa2FNTkFtMlQwRHJENllKLTFfVEoyVHZZLVM4b2ttWnpyRkd2SHBrVjEtRUd4QTRNQWFubUJSRU5UWERiVHF2NkFnV0lWNjVSeWtxamttdmkyUnFDX0J5VGJqZWU4bzc3WHVlMkJLZw?oc=5</guid><pubDate>Tue, 13 Oct 2026 22:47:04 +0000</pubDate></item><item><title>https://x.com/OpenAINewsroom/status/2110095403198849132</title><link>https://x.com/OpenAINewsroom/status/2110095403198849132</link><description>[score: 0.899] https://x.com/OpenAINewsroom/status/2110095403198849132 misshiki OpenAI%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E6%B3%95%E5%BE%8B%E3%81%A8%E5%80%AB%E7%90%86 OpenAIが社内の隠し録音装置を発見。自社AIで装置を調べ、設置した従業員を特定。FBIに通報し、従業員は逮捕・解雇。モデルの重み・ソースコード・顧客データへの不正アクセスや持ち出しの兆候は現時点でないと説明。</description><guid isPermaLink="false">https://x.com/OpenAINewsroom/status/2110095403198849132</guid><pubDate>Wed, 14 Oct 2026 06:21:35 +0000</pubDate></item><item><title>OpenAI役員会議室に盗聴器、外国籍のエンジニア社員逮捕　AIに作りかた訊きテレビ裏に設置、トイレットペーパーで隠す</title><link>https://www.techno-edge.net/article/2026/10/14/5585.html</link><description>[score: 0.900] 米司法省は10月13日(米国時間)、サンフランシスコのOpenAIオフィスの役員会議室に録音装置を仕掛けたとして、同社のエンジニアでサウジアラビア国籍のAbdulrahman Alfozan容疑者(35)を盗聴の罪で訴追したと発表しました。
+FBIが10月9日に逮捕し、13日に初出廷。OpenAIは同容疑者を解雇しています。
+■ OpenAI「自社モデルで装置と設置者を特定」
+OpenAIは公式Xアカウントで、オフィス内に隠された「高度な録音装置」を発見したと公表しました。同社によれば、自社のモデルで装置を解析して出どころをたどり、数日前に設置した従業員を特定してFBIに通報しました。
+現時点</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/10/14/5585.html</guid><pubDate>Wed, 14 Oct 2026 01:44:17 +0000</pubDate></item><item><title>【速報中】 簗農相 辞表提出 道路予算発言など問題指摘の中</title><link>https://news.web.nhk/newsweb/na/nd-20261014de59049</link><description>[score: 0.900] 簗農林水産大臣は、地元の道路予算に関する発言など、相次いで問題が指摘される中、14日、高市総理大臣に辞表を提出しました。
+簗農林水産大臣は、14日夜、総理大臣官邸で高市総理大臣と会談しました。
+…
+あわせて読みたい
+高市首相 バス送迎“法令違反か否かは当局判断 簗大臣説明を”
+10月14日 18:00
+簗農相発言めぐり地元栃木県連の議員から「説明責任果たして」
+10月10日 18:29
+石破前首相 簗農相発言を批判“全国民の代表者との認識ない”
+10月11日 17:44
+きょうから予算委員会 焦点は？
+10月13日 13:54
+関文科相 禁止の議員会館内で政治資金パーティー開催認め陳謝
+10月</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261014de59049</guid><pubDate>Wed, 14 Oct 2026 09:43:01 +0000</pubDate></item><item><title>ＣＮＮなどにホワイトハウス取材許可を延長、米地裁 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOb1ZxOEVlclN2UHRiWk5TS05VR2dXQXAtbkVYLUtXLTdhOWktN3Vnc1BMWlc3RUpSRVBoWmN5LV9JbWdrT0hjQkVTUm52em96VVI2YnVxSVBJZkZmdVRUU0ZjemNENTRRS2VYYUxYMXNidXZzVW5vTlJ2YzBUSGZaSTBvS3RZUzg?oc=5</link><description>[score: 0.901] ＣＮＮなどにホワイトハウス取材許可を延長、米地裁 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxOb1ZxOEVlclN2UHRiWk5TS05VR2dXQXAtbkVYLUtXLTdhOWktN3Vnc1BMWlc3RUpSRVBoWmN5LV9JbWdrT0hjQkVTUm52em96VVI2YnVxSVBJZkZmdVRUU0ZjemNENTRRS2VYYUxYMXNidXZzVW5vTlJ2YzBUSGZaSTBvS3RZUzg?oc=5</guid><pubDate>Wed, 14 Oct 2026 06:03:52 +0000</pubDate></item><item><title>ウクライナ首都などに攻撃、エネ施設標的 「米軽視」とゼレンスキー氏 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQUXNTMmg2X0NnNHNkSHBOVExPTWU5dXU0NldoZFIyVXF3N1NJMHdEOTladktBTm1iRHItRDFjMHdtUkJQejJSQkNPbFFwRWUydWR1ZHk1eUo5cTRiSlBsODZndF90MmtBSzdNdXR4ZWZsbTJoaUdLbWh3TUF4ZE9BdUJ1Sm54QQ?oc=5</link><description>[score: 0.904] ウクライナ首都などに攻撃、エネ施設標的 「米軽視」とゼレンスキー氏 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQUXNTMmg2X0NnNHNkSHBOVExPTWU5dXU0NldoZFIyVXF3N1NJMHdEOTladktBTm1iRHItRDFjMHdtUkJQejJSQkNPbFFwRWUydWR1ZHk1eUo5cTRiSlBsODZndF90MmtBSzdNdXR4ZWZsbTJoaUdLbWh3TUF4ZE9BdUJ1Sm54QQ?oc=5</guid><pubDate>Wed, 14 Oct 2026 08:54:47 +0000</pubDate></item><item><title>【第5報】不正アクセスによる障害に関する調査の進捗について | IDCフロンティア</title><link>https://www.idcf.jp/news/topics/20261014001</link><description>[score: 0.905] 【第5報】不正アクセスによる障害に関する調査の進捗について | IDCフロンティア 2026年10月14日 このたびは、多大なるご心配とご迷惑をおかけしておりますことを深くお詫び申し上げます。 2026年10月7日午前3時40分頃から発生している、当社クラウドサービス「IDCFクラウド」※1に対する第三者からの不正アクセスによる障害について、現時点までの調査で新たに以下の事実が判明しましたのでお知らせし...</description><guid isPermaLink="false">https://www.idcf.jp/news/topics/20261014001</guid><pubDate>Wed, 14 Oct 2026 09:26:43 +0000</pubDate></item><item><title>米オープンAIの会議室に仕掛けられた録音装置を発見、従業員逮捕</title><link>https://www.cnn.co.jp/tech/35253530.html</link><description>[score: 0.913] カリフォルニア州サンフランシスコにあるオープンAIの本社。米司法省によれば、元従業員がオフィスの一室に「巧妙な録音装置」を仕掛けたととされる/David Paul Morris/Bloomberg/Getty Images （CNN） 米オープンAIは13日、オフィス内で「高度な録音装置」が発見され、この装置を仕掛けたとされる従業員が逮捕されたことを明らかにした。 米司法省によると、逮捕されたのはサウジアラビア国籍のアブドゥルラフマン・アルフォザン容疑者（35）。オープンAIからは既に解雇されている。 録音装置は9月30日、会議室の定期点検中に見つかった。テレビの裏のUSBポートに差し込んで、</description><guid isPermaLink="false">https://www.cnn.co.jp/tech/35253530.html</guid><pubDate>Wed, 14 Oct 2026 03:24:54 +0000</pubDate></item><item><title>共同創業者 単独インタで語った“AIの未来”</title><link>https://news.web.nhk/newsweb/na/nd-20261014de59160</link><description>[score: 0.914] アメリカのAI開発企業「アンソロピック」の共同創業者の1人、ジャック・クラーク氏がNHKの単独インタビューに応じ、AIがみずからAIを開発する状況が来年にも起こりうるとした上で、「将来にわたって制御す…
+あわせて読みたい
+オープンAI従業員を逮捕 役員会議室に録音機設置か
+10月14日 12:21
+サウジアラビア国営石油会社に攻撃 フーシ派と双方で攻撃続く
+10月14日 12:38
+ロシアが北海道新聞記者をスパイ容疑で拘束 長期化の懸念も
+10月14日 12:03
+ホワイトハウスの新しい報道官 初会見はわずか15分で終了
+10月14日 5:36
+フランスの高校生 教育環境悪化に抗議し再び大規模</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261014de59160</guid><pubDate>Wed, 14 Oct 2026 10:36:58 +0000</pubDate></item><item><title>OpenAI従業員をFBIが逮捕　役員会議盗聴疑い</title><link>https://www.watch.impress.co.jp/docs/news/2148058.html</link><description>[score: 0.927] ニュース
+OpenAI従業員をFBIが逮捕 役員会議盗聴疑い
+2026年10月14日 16:12
+OpenAIの従業員が盗聴の疑いでFBIに逮捕された。10月13日にOpenAIが発表し、米司法省も逮捕について公表した。9月30日頃、サンフランシスコのOpenAIの役員会議室のテレビ背面のUSBポートで録音装置が発見されたが、この装置は9月28日に設置されており、内容が暗号化されていたという。
+OpenAIは、装置を設置した従業員を特定し、FBIに通報。サウジアラビア国籍の35歳の従業員が10月9日に逮捕され、13日に連邦裁判所に出廷した。
+訴状によれば、役員会議室内に録音装置を仕掛け、Ope</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2148058.html</guid><pubDate>Wed, 14 Oct 2026 07:22:09 +0000</pubDate></item></channel></rss>
