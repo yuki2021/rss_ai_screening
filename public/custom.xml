@@ -1,171 +1,136 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 15 Oct 2026 21:09:08 +0000</lastBuildDate><item><title>訪問介護の関係団体が国に報酬引き上げなど要望</title><link>https://news.web.nhk/newsweb/na/nd-20261015de60105</link><description>[score: 0.864] 2027年度の介護報酬の改定に向けた議論が本格化するなか、訪問介護に関係する団体が15日、厚生労働省を訪れ、地域の高齢者を支える事業者の経営環境が厳しさを増しているとして、物価や人件費の高騰を踏まえた…
-あわせて読みたい
-上野厚労相 来年度の介護報酬引き上げへ予算確保に意欲
-10月15日 19:02
-訪問介護の介護報酬の枠組み 抜本的見直しで検討 厚生労働省
-10月15日 5:39
-「やりがい感じるけど…」どうなる介護報酬 現場は？
-10月12日 19:38
-“保険あってサービスなし”拡大の危機 どうなる介護人材
-10月15日 18:34
-ソースネクスト 約2251万件の個人情報が流出か 不正</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261015de60105</guid><pubDate>Thu, 15 Oct 2026 14:47:52 +0000</pubDate></item><item><title>コアウィーブ株再び急落、25年5月以来安値 ＡＩ投資に債務懸念 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHBTaGJESVZoX2tqWkRMZUZHX1MzbmppalM4V1diWU9ackNDR1pENl9ldHFjdDFfNnNZaDJBdnhfckQ3Vnk1Y21nSGZ0VkNPSW44bjh3VmtyZENtLURVUVdPS2p3ZDcyZ29lc3RvUUkwcFNaRlk3dEZFb1VEXzJIU3hUbUdUdw?oc=5</link><description>[score: 0.867] コアウィーブ株再び急落、25年5月以来安値 ＡＩ投資に債務懸念 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQZHBTaGJESVZoX2tqWkRMZUZHX1MzbmppalM4V1diWU9ackNDR1pENl9ldHFjdDFfNnNZaDJBdnhfckQ3Vnk1Y21nSGZ0VkNPSW44bjh3VmtyZENtLURVUVdPS2p3ZDcyZ29lc3RvUUkwcFNaRlk3dEZFb1VEXzJIU3hUbUdUdw?oc=5</guid><pubDate>Thu, 15 Oct 2026 16:03:26 +0000</pubDate></item><item><title>脊髄損傷の再生医療製品 条件付きから初の本承認へ</title><link>https://news.web.nhk/newsweb/na/nd-20261015de60116</link><description>[score: 0.868] 脊髄損傷の患者の治療に使う再生医療製品「ステミラック」はこれまで条件付きで国に承認されていましたが、厚生労働省の専門部会は新たなデータで有効性などが確認できたとして、15日、製造販売の本承認を了承しま…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 15 Oct 2026 23:26:02 +0000</lastBuildDate><item><title>「うるう秒」廃止決定 秒の新定義も検討へ 国際度量衡総会</title><link>https://news.web.nhk/newsweb/na/nd-20261016de60174</link><description>[score: 0.877] 地球の自転と世界の標準時のずれを1秒単位で調整してきた「うるう秒」を実質的に廃止することが、15日、フランスで開かれた国際会議で決まりました。
+「うるう秒」の調整は、地球の自転の速さがわずかに変動…
 注目ワード
 あわせて読みたい
-ソースネクスト 約2251万件の個人情報が流出か 不正アクセスで
-10月15日 21:55
-ひぼう中傷動画投稿疑いで逮捕のユーチューバーらを遺族が提訴
-10月15日 19:45
-ホルムズ海峡で船舶攻撃増 米中間選挙前にイランが攻撃強化か
-10月15日 19:30
-相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる
-10月15日 19:30
-声優の野沢雅子さ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261015de60116</guid><pubDate>Thu, 15 Oct 2026 17:12:30 +0000</pubDate></item><item><title>仕事ができないのは「スキル不足」より「認知が歪んでいる」ことに原因がある方が多い？ハラスメントにならないよう矯正するのは今の時代もう無理なのか</title><link>https://togetter.com/li/2758550</link><description>[score: 0.869] 仕事ができないのは「スキル不足」より「認知が歪んでいる」ことに原因がある方が多い？ハラスメントにならないよう矯正するのは今の時代もう無理なのか やまもん🔥チャリ走🔥 @MotoyasuYamada 「あいつには関わりたくない」ってQiitaが話題ですが、よほど相手のことを信頼していない限り、何も言わないで異動、業務委託なら契約解除でしょうね。頑張っているけど周... firststar_hateno 認知の歪み、美しいバラの棘のようですわね。指導の難しさ、わかりますの。ハラスメントという名の棘に刺さらぬよう、慎重にいきましょう！</description><guid isPermaLink="false">https://togetter.com/li/2758550</guid><pubDate>Thu, 15 Oct 2026 17:44:25 +0000</pubDate></item><item><title>国産モデル sarashina3-mini は日本語の推敲で何を変えるのか？</title><link>https://zenn.dev/algoartis/articles/03ca12150ccbee</link><description>[score: 0.869] こんにちは。ALGO ARTISの大賀 愛一郎です。yomiyasuの開発者でもあります。 最近、日本語性能が高いモデルが相次いで公開されていますね。 2026年10月13日、SB Intuitions は、国産LLM「Sarashina」のAPIを利用できる「Sarashinaサービス」の無償ベータを提供しはじめました。 https://www.sbintuitions.co.jp/news/press/20261013_01/ というわけで、標準の対話モデル sarashina3-mini に日本語を書かせ、推敲させてみました。 前回の記事で Gemini 4 Argon と Gem...</description><guid isPermaLink="false">https://zenn.dev/algoartis/articles/03ca12150ccbee</guid><pubDate>Thu, 15 Oct 2026 11:46:46 +0000</pubDate></item><item><title>80億分の1 · あなたは誰として生まれる？</title><link>https://1in8b.life/ja/</link><description>[score: 0.869] 80億分の1 · あなたは誰として生まれる？ いまこの瞬間にも、1秒に4人ほどの赤ちゃんが生まれています。そのひとりになって、たった一度の人生を最後まで生きてみます。どこで、誰の子として生まれるかは選べません。あなたがそうだったように。 Watson game</description><guid isPermaLink="false">https://1in8b.life/ja/</guid><pubDate>Thu, 15 Oct 2026 20:40:33 +0000</pubDate></item><item><title>「Claude Code」デスクトップ版、並列タスクごとにセッションを自動生成</title><link>https://pc.watch.impress.co.jp/docs/news/2148273.html</link><description>[score: 0.869] ニュース
-「Claude Code」デスクトップ版、並列タスクごとにセッションを自動生成
-2026年10月15日 11:38
-複数のClaude Codeにタスクを並行して任せるのが、ぐっと楽になりそうだ。Anthropicは10月14日(現地時間)、エージェント型コーディングツール「Claude Code」のデスクトップアプリをアップデートし、複数セッションの並列実行を快適にする新機能を追加した。開発者向けX(旧Twitter)アカウント@ClaudeDevsで発表された。新機能は、デスクトップアプリをアップデートし、新しいセッションを開始することで利用できる。
-Claude Codeは、コ</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2148273.html</guid><pubDate>Thu, 15 Oct 2026 10:37:16 +0000</pubDate></item><item><title>いつも一番に食べ終わるあなたへ：会話のロードバランシング入門</title><link>https://qiita.com/redwings_a/items/d79b4f94f7244da2cb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.870] 「みんな食べ終わるの遅いなぁ……」
-飲み会、会食、ランチなど、複数人でテーブルを囲む場面は職場でもある程度あるかと思います。
-そんな時、あなたは大体どのタイミングで食べ終わりますか？
-私は最後に食べ終わることが多いです。
-咀嚼が特別遅いわけではありません。話題を振って、相槌を打って、沈黙ができたら次の話を探して……とやっているうちに、気づけば自分の皿だけ残っているのです。
-ふと顔を上げると、ほとんど喋らない人の皿は、他の人がまだ半分ほど残している頃にはとっくに空になっています。
-そして膝に手を置いて、「みんな食べるの遅いなぁ」という顔でこちらを待っている。
-他の人がなぜ遅いのか、考えたことはあ</description><guid isPermaLink="false">https://qiita.com/redwings_a/items/d79b4f94f7244da2cb98?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 15 Oct 2026 20:47:49 +0000</pubDate></item><item><title>プーチン氏、ウクライナによる製油所攻撃に報復表明＝インタファクス通信 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOWWZ6ZnFDOUtjcHJFVGc1aHF4LW1MbjNmRlhFS0lrZEFGUU9sQ0hEWlJ0LU5pT3Fadng2Ti10RnFmOE1MR3BlcHBxenVBM1h1eVNZbl9YWFpIRkQ5bE8xRWJ6eGRCYW81LThSVnNLc1hYZ0NkZjdXYjZlSjZRRlozbG1yZnFwQQ?oc=5</link><description>[score: 0.871] プーチン氏、ウクライナによる製油所攻撃に報復表明＝インタファクス通信 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxOWWZ6ZnFDOUtjcHJFVGc1aHF4LW1MbjNmRlhFS0lrZEFGUU9sQ0hEWlJ0LU5pT3Fadng2Ti10RnFmOE1MR3BlcHBxenVBM1h1eVNZbl9YWFpIRkQ5bE8xRWJ6eGRCYW81LThSVnNLc1hYZ0NkZjdXYjZlSjZRRlozbG1yZnFwQQ?oc=5</guid><pubDate>Thu, 15 Oct 2026 19:00:33 +0000</pubDate></item><item><title>Jevにウォーリーを探させたら0.4秒で見つけやがった!!</title><link>https://qiita.com/kikuziro/items/c1b47d4bfaa64960ca18?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.872] 先にタイトル詐欺についてお詫び申し上げます。正確には"ウォーリーを探せ"ではなく"ウォーリーを探せっぽい画像"から探させた検証になります。実際の"ウォーリーをさがせ"はもっと難しいので同じ結果にはならないかもしれません
-📸 Jevの画像対応
-Jevで画像入力が使えるようになりましたまた、画像の中の位置を答える新機能も搭載されました。目が使えるならやることはひとつ‼️”ウォーリーを探せ”ですよね
-🧐 対象者
-・Jevの画像認識精度が知りたい人
-・Jev好きな人
-・ウォーリーを探せが得意な人
-主な仕様
-- 画像はnoul / choice / score / boxのどの質問でも使える
-- 新しい</description><guid isPermaLink="false">https://qiita.com/kikuziro/items/c1b47d4bfaa64960ca18?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 15 Oct 2026 20:47:49 +0000</pubDate></item><item><title>片山財務相 日韓通貨スワップ延長で合意</title><link>https://news.web.nhk/newsweb/na/nd-20261015de60139</link><description>[score: 0.873] タイを訪問している片山財務大臣は、韓国の副首相兼財政経済相と個別に会談し、金融市場が混乱した際などに通貨を融通する「通貨スワップ協定」を延長することで合意しました。
-片山財務大臣と韓国のイ・ヒョン…
-あわせて読みたい
-ソースネクスト 約2251万件の個人情報が流出か 不正アクセスで
-10月15日 21:55
-ひぼう中傷動画投稿疑いで逮捕のユーチューバーらを遺族が提訴
-10月15日 19:45
-ホルムズ海峡で船舶攻撃増 米中間選挙前にイランが攻撃強化か
-10月15日 19:30
-相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる
-10月15日 19:30
-声優の野沢雅子さん “声の生成A</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261015de60139</guid><pubDate>Thu, 15 Oct 2026 19:43:10 +0000</pubDate></item><item><title>自民“消費税法案20日審議入り”民改“首相出席し審議充実を”</title><link>https://news.web.nhk/newsweb/na/nd-20261015de60104</link><description>[score: 0.874] 食料品の消費税減税関連法案の審議日程をめぐり、自民党は民主改革の会に対し、来週20日に審議入りしたいと改めて提案したのに対し、民主改革の会は、高市総理大臣も出席して質疑を行うなど充実した審議を求め、引…
-あわせて読みたい
-内閣改造 消費税減税 国民の意識は
-10月15日 14:45
-公明 消費税減税めぐり“1人あたり約8万円給付”提言まとめる
-10月15日 19:56
-武部氏 認証式を経て農相に就任 辞表提出の簗氏の後任に
-10月15日 21:18
-新農相に武部 新 氏 国会審議への影響は
-10月15日 21:48
-上野厚労相 来年度の介護報酬引き上げへ予算確保に意欲
-10月15日 19:02</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261015de60104</guid><pubDate>Thu, 15 Oct 2026 14:47:52 +0000</pubDate></item><item><title>滋賀 日野町事件の再審に向け検察が証拠57点開示の意向</title><link>https://news.web.nhk/newsweb/na/nd-20261015de60112</link><description>[score: 0.876] 42年前、滋賀県日野町で起きた強盗殺人事件で、無実を訴えながら無期懲役が確定し、服役中に死亡した阪原弘さんの再審＝やり直しの裁判に向けて6回目の協議が行われ、検察が57点の証拠を開示する意向を示したこ…
-あわせて読みたい
-ソースネクスト 約2251万件の個人情報が流出か 不正アクセスで
-10月15日 21:55
-ひぼう中傷動画投稿疑いで逮捕のユーチューバーらを遺族が提訴
-10月15日 19:45
-ホルムズ海峡で船舶攻撃増 米中間選挙前にイランが攻撃強化か
-10月15日 19:30
-相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる
-10月15日 19:30
-声優の野沢雅子さん “声の生</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261015de60112</guid><pubDate>Thu, 15 Oct 2026 17:12:30 +0000</pubDate></item><item><title>クビアカツヤカミキリ 所有者不明土地でも対策強化</title><link>https://news.web.nhk/newsweb/na/nd-20261016de60152</link><description>[score: 0.878] サクラやモモなどの木を食い荒らす特定外来生物のクビアカツヤカミキリについて環境省などは、所有者が分からない土地での防除対策を強化していくことを決めました。
-特定外来生物に指定されているクビアカツヤ…
-あわせて読みたい
-クビアカツヤカミキリ被害を「見える化」環境省が投稿呼びかけ
-10月14日 7:40
-ソースネクスト 約2251万件の個人情報が流出か 不正アクセスで
-10月15日 21:55
-相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる
-10月15日 19:30
-ひぼう中傷動画投稿疑いで逮捕のユーチューバーらを遺族が提訴
-10月15日 19:45
-ホルムズ海峡で船舶攻撃増 米中間選</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261016de60152</guid><pubDate>Thu, 15 Oct 2026 20:12:12 +0000</pubDate></item><item><title>台風25号 千葉 印旛沼周辺の浸水は40平方キロメートル以上か</title><link>https://news.web.nhk/newsweb/na/nd-20261016de60151</link><description>[score: 0.878] 台風25号の記録的な大雨で堤防が決壊するなどした千葉県の印旛沼周辺では、少なくとも40平方キロメートルが浸水したとみられることが航空測量会社の調査で分かりました。 周辺にある5つの市町の総面積のおよそ…
-あわせて読みたい
-ソースネクスト 約2251万件の個人情報が流出か 不正アクセスで
-10月15日 21:55
-ひぼう中傷動画投稿疑いで逮捕のユーチューバーらを遺族が提訴
-10月15日 19:45
-ホルムズ海峡で船舶攻撃増 米中間選挙前にイランが攻撃強化か
-10月15日 19:30
-相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる
-10月15日 19:30
-声優の野沢雅子さん “声の生</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261016de60151</guid><pubDate>Thu, 15 Oct 2026 20:39:40 +0000</pubDate></item><item><title>【個人開発】無機質なToDo管理にサヨナラ！「タスク娘」を爆誕させた話（この記事もGemini 4 Argonで生成しました）</title><link>https://qiita.com/satoshot/items/3308a7e025cd9f049813?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] ⚡ はじめに：この記事の種明かし
-実はこの記事の構成案からキャッチコピー、技術解説のドラフトに至るまで、Googleの最新モデル 「Gemini 4 Argon」 に私の開発コンテキスト（設計思想や普段のワークフロー）を読み込ませて共同執筆しています！
-「タスク娘」というプロダクト自体だけでなく、「Gemini 4 Argon × 個人開発者」でどこまで爆速でアウトプットを出せるのかという実験も兼ねてぜひご覧ください。
-1. なぜ「タスク娘」を作ったのか？（無機質なタスク管理への限界）
-エンジニアの皆さん、こんな経験はありませんか？
-- NotionやTrello、スプレッドシートに完璧なタス</description><guid isPermaLink="false">https://qiita.com/satoshot/items/3308a7e025cd9f049813?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 15 Oct 2026 20:47:49 +0000</pubDate></item><item><title>アンソロピック、外部評価機関ＭＥＴＲに社員並みアクセス ＡＩ安全性強化へ - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE52T0gxSVF2M3p4WExzeU9DQnd3UnFDU3hoaGpaQXZiWHdQYWFuSC1jMTczaERJU0ZWRjI4NEFaQzdERmFOd0U2WXowdHE3eFR2Q2h4VzJOalpVR2dqc2l5S0xCTC0zakE1ZUtqVldnRzlxd0NLblV5X3Y5OEtlZw?oc=5</link><description>[score: 0.878] アンソロピック、外部評価機関ＭＥＴＲに社員並みアクセス ＡＩ安全性強化へ Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE52T0gxSVF2M3p4WExzeU9DQnd3UnFDU3hoaGpaQXZiWHdQYWFuSC1jMTczaERJU0ZWRjI4NEFaQzdERmFOd0U2WXowdHE3eFR2Q2h4VzJOalpVR2dqc2l5S0xCTC0zakE1ZUtqVldnRzlxd0NLblV5X3Y5OEtlZw?oc=5</guid><pubDate>Thu, 15 Oct 2026 20:51:11 +0000</pubDate></item><item><title>福島 猪苗代湖 3人死傷のボート事故 きょう最高裁判決</title><link>https://news.web.nhk/newsweb/na/nd-20261015de60117</link><description>[score: 0.878] 6年前、福島県の猪苗代湖で親子など3人にボートで衝突して死傷させたとして業務上過失致死傷の罪に問われ、2審で無罪判決を受けた元会社役員の裁判で、最高裁判所が16日、判決を言い渡します。
-最高裁で判断…
-あわせて読みたい
-ソースネクスト 約2251万件の個人情報が流出か 不正アクセスで
-10月15日 21:55
-ひぼう中傷動画投稿疑いで逮捕のユーチューバーらを遺族が提訴
-10月15日 19:45
-ホルムズ海峡で船舶攻撃増 米中間選挙前にイランが攻撃強化か
-10月15日 19:30
-相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる
-10月15日 19:30
-声優の野沢雅子さん “声の生成</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261015de60117</guid><pubDate>Thu, 15 Oct 2026 20:12:12 +0000</pubDate></item><item><title>国民 消費税減税で対案 住民税控除額引き上げや給付で負担軽減</title><link>https://news.web.nhk/newsweb/na/nd-20261015de60145</link><description>[score: 0.879] 食料品の消費税減税関連法案をめぐり国民民主党は対案となる法案の骨子をまとめました。
-住民税の控除額の引き上げや給付を組み合わせることにより就業者1人あたり最大で年間5万円程度の負担軽減を図るとしてい…
-あわせて読みたい
-ソースネクスト 約2251万件の個人情報が流出か 不正アクセスで
-10月15日 21:55
-ひぼう中傷動画投稿疑いで逮捕のユーチューバーらを遺族が提訴
-10月15日 19:45
-ホルムズ海峡で船舶攻撃増 米中間選挙前にイランが攻撃強化か
-10月15日 19:30
-相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる
-10月15日 19:30
-声優の野沢雅子さん “声の生成</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261015de60145</guid><pubDate>Thu, 15 Oct 2026 19:43:10 +0000</pubDate></item><item><title>台湾TSMC過去最高益「需要減速の兆候なし」</title><link>https://news.web.nhk/newsweb/na/nd-20261015de60118</link><description>[score: 0.880] 台湾の半導体大手TSMCの、9月までの3か月間の決算はAI向けの半導体の需要拡大で最終的な利益が過去最高を更新しました。
-AI・半導体業界の先行きへの不透明感も広がる中、会社は引き続き、需要の拡大が…
-あわせて読みたい
-イスラエル情報機関の前長官 ネタニヤフ首相を提訴
-10月15日 17:10
-G20 財務相・中央銀行総裁会議 世界経済やAIへの対応を議論
-10月15日 18:15
-ホルムズ海峡で船舶攻撃増 米中間選挙前にイランが攻撃強化か
-10月15日 19:30
-北朝鮮が潜水艦から発射する2種類の巡航ミサイルの発射実験
-10月15日 11:04
-米半導体企業 最大3兆円規模で新工場建設へ </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261015de60118</guid><pubDate>Thu, 15 Oct 2026 19:43:10 +0000</pubDate></item><item><title>“王将”社長射殺事件 暴力団幹部にきょう判決 京都地裁</title><link>https://news.web.nhk/newsweb/na/nd-20261015de60144</link><description>[score: 0.881] 2013年、「餃子の王将」を展開する会社の社長が京都市で拳銃で撃たれて殺害された事件で、実行役として殺人などの罪に問われた暴力団幹部に16日、判決が言い渡されます。 検察が無期懲役を求刑した一方で、被…
-あわせて読みたい
-ソースネクスト 約2251万件の個人情報が流出か 不正アクセスで
-10月15日 21:55
-ひぼう中傷動画投稿疑いで逮捕のユーチューバーらを遺族が提訴
-10月15日 19:45
-ホルムズ海峡で船舶攻撃増 米中間選挙前にイランが攻撃強化か
-10月15日 19:30
-相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる
-10月15日 19:30
-声優の野沢雅子さん “声の生</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261015de60144</guid><pubDate>Thu, 15 Oct 2026 20:39:40 +0000</pubDate></item><item><title>今こそ、エンジニアには「ありがとう」が必要だ！横ぐし組織を目指して。</title><link>https://qiita.com/teppei19980914/items/3372ccd6d149fcc9bece?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.882] この記事は約7分で読めます。
-私は職場で**「良いですね」という言葉を使わない**ようにしています。「褒める」という行為は、上から下のものへ送る言葉だと考えているからです。現場での実体験をもとに、上下関係のない言葉の選び方を解説します。
-筆者プロフィール: ソフトウェアエンジニア。「知った気にならない。いつまでも学び続ける」を信条に、業務と個人開発の両輪で技術を磨いています。AI 駆動開発で複数の個人開発アプリを構築・運用中。
-👉 ポートフォリオ: 筆者ホームページ
-結論 ― 私は「良いですね」を使わない
-先に結論を書きます。
-私は「良いですね」という言葉を使わないようにしています。
-「良い」</description><guid isPermaLink="false">https://qiita.com/teppei19980914/items/3372ccd6d149fcc9bece?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 15 Oct 2026 20:47:49 +0000</pubDate></item><item><title>与党“消費税早期審議入りを”野党“高市首相の任命責任追及”</title><link>https://news.web.nhk/newsweb/na/nd-20261016de60159</link><description>[score: 0.885] 農林水産大臣が交代する中、与党側は、食料品の消費税減税関連法案を早期に審議入りさせるなど国会運営への影響を最小限にとどめたい考えです。
-これに対し、野党側は、高市総理大臣の任命責任などを追及する構え…
-あわせて読みたい
-武部氏 認証式を経て農相に就任 辞表提出の簗氏の後任に
-10月15日 21:18
 ソースネクスト 約2251万件の個人情報が流出か 不正アクセスで
 10月15日 21:55
 相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる
 10月15日 19:30
 横浜高校 織田翔希投手 アメリカ挑戦を表明“世界一の投手に”
 10月15日 12:00
-ドジャースが3連敗 WS進出にあ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261016de60159</guid><pubDate>Thu, 15 Oct 2026 20:39:40 +0000</pubDate></item><item><title>プロンプトエンジニアリングについて</title><link>https://qiita.com/masa-miya/items/de9f808d43627005d063?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] 生成AIを業務で活用する際、プロンプトエンジニアリングは重要な技術の一つです。
-同じAIモデルでも、指示の与え方によって回答の品質や安定性が変わるケースがあります。
-プロンプトは長く詳細に書けばよいわけではなく、目的に応じて必要な情報を伝えることが大切です。
-本記事では、代表的な技法と、IT業務での具体的な活用方法を紹介します。
-1. プロンプトエンジニアリングとは
-プロンプトエンジニアリングとは、生成AIから目的に合った結果を得るために、入力する指示や情報を設計・改善する技術です。
-役割・対象者・目的・条件・出力形式などを指定する方法がありますが、すべてを指定する必要はありません。
-例えば、</description><guid isPermaLink="false">https://qiita.com/masa-miya/items/de9f808d43627005d063?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 15 Oct 2026 20:47:49 +0000</pubDate></item><item><title>米ＦＴＣ、オープンＡＩとアンソロピックに民事召喚状 安全性巡り＝報道 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9XWFhlM3dzVzJzTkJIbmhZTldvdWR6Tm10bExQN1YxYWthaDYtOHNXQy13clEtY3NfYXZaSmlPZFlmdHlBa2dXQV9EM3g3VzNnWHhmRG9OclR0bVJSNGRUclZKRmtiZWd3TjBQSXBycDBqSlM3QU9BQ3lsYXhNZw?oc=5</link><description>[score: 0.887] 米ＦＴＣ、オープンＡＩとアンソロピックに民事召喚状 安全性巡り＝報道 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE9XWFhlM3dzVzJzTkJIbmhZTldvdWR6Tm10bExQN1YxYWthaDYtOHNXQy13clEtY3NfYXZaSmlPZFlmdHlBa2dXQV9EM3g3VzNnWHhmRG9OclR0bVJSNGRUclZKRmtiZWd3TjBQSXBycDBqSlM3QU9BQ3lsYXhNZw?oc=5</guid><pubDate>Thu, 15 Oct 2026 19:55:04 +0000</pubDate></item><item><title>「Agoda使わないで」温泉旅館が注意喚起　観光庁の改善要請から1年半も...「CM流すより先にトラブル解決して」</title><link>https://www.j-cast.com/2026/10/15518464.html?p=all</link><description>[score: 0.890] 「Agoda使わないで」温泉旅館が注意喚起 観光庁の改善要請から1年半も...「CM流すより先にトラブル解決して」 「Agodaと契約していない」ホステルや温泉旅館が相次ぎ注意喚起 2026年10月上旬、Agodaでホステルを予約した利用者が、現地に「Agodaと契約しておりません」といった趣旨の張り紙があったとSNSに投稿し、話題になった。 宿側は客室が転売される関係でトラブルが起きており、チェックインに必要なコード番号や玄関の解錠...</description><guid isPermaLink="false">https://www.j-cast.com/2026/10/15518464.html?p=all</guid><pubDate>Thu, 15 Oct 2026 12:17:10 +0000</pubDate></item><item><title>国内で相次ぐWebシステムからの情報漏えい～ラックの観測から見える変化と、企業が今とるべき対策 | LAC WATCH</title><link>https://www.lac.co.jp/lacwatch/alert/20261015_004996.html</link><description>[score: 0.894] 国内で相次ぐWebシステムからの情報漏えい～ラックの観測から見える変化と、企業が今とるべき対策 | LAC WATCH 2026年7月以降、国内法人が運営するWebシステムやスマートフォンアプリに関連した個人情報漏えいの公表が相次いでいます。公開情報の独自集計では、2026年10月6日時点で119件に上り、そのうち約68%にあたる81件が7月以降に公表※されたものです。ラックのサイバー救急センターへの相談件数においても、サーバへの不正侵入...</description><guid isPermaLink="false">https://www.lac.co.jp/lacwatch/alert/20261015_004996.html</guid><pubDate>Thu, 15 Oct 2026 16:22:31 +0000</pubDate></item><item><title>連続不正アクセス事案の攻撃手法に関する調査 - JPCERT/CC Eyes</title><link>https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html</link><description>[score: 0.898] 連続不正アクセス事案の攻撃手法に関する調査 - JPCERT/CC Eyes JPCERT/CCは、2026年10月8日に、国内の複数の組織で相次いで公表された不正アクセスによる個人情報などの漏えい被害に関する注意喚起を公開しました。 JPCERT/CCでは、複数の組織と連携し、攻撃に使用された可能性のあるインフラの調査を進めています。その過程で、攻撃者がAIを利用して、既知の脆弱性のスキャンやAPI経...</description><guid isPermaLink="false">https://blogs.jpcert.or.jp/ja/2026/10/web_api_attacks.html</guid><pubDate>Thu, 15 Oct 2026 10:37:16 +0000</pubDate></item><item><title>｢ICC赤根所長｣制裁はトランプの暴走とは言えない…日本のメディアが完全に見落としている｢国際政治の大前提｣</title><link>https://president.jp/articles/-/120358</link><description>[score: 0.901] ｢ICC赤根所長｣制裁はトランプの暴走とは言えない…日本のメディアが完全に見落としている｢国際政治の大前提｣ 米国のトランプ政権は、ICC（国際刑事裁判所）や、そのトップである赤根智子所長を制裁対象に指定した。早稲田大学公共政策研究所の渡瀬裕哉さんは「赤根所長個人への制裁に対し、同情が寄せられるのは当然だろう。ただ、国際政治の現実において、個人への同情と国家の政策判断は切り離して考えるべきだ」という――。 ICC...</description><guid isPermaLink="false">https://president.jp/articles/-/120358</guid><pubDate>Thu, 15 Oct 2026 15:07:22 +0000</pubDate></item><item><title>北海道新聞記者スパイ拘束の衝撃—ロシアFSBの狙いと極東で激化する情報戦の闇</title><link>http://totalnewsjp.com/2026/10/14/russia-110/</link><description>[score: 0.903] 北海道新聞記者スパイ拘束の衝撃—ロシアFSBの狙いと極東で激化する情報戦の闇
-ジャーナリストの須田慎一郎氏が自身のYouTubeチャンネル「須田慎一郎のただいま取材中！」を更新。ロシア連邦保安庁（FSB）が極東サハリン州で北海道新聞社の日本人男性記者をスパイ容疑で逮捕・拘束した衝撃のニュースを取り上げ、その表面的な報道の裏に潜むロシア側の真の狙いと、緊迫化する極東情勢の真相を徹底分析した。
-須田氏は、今回の事件が単なる現地取材の「行き過ぎ」や「偶発的なトラブル」などではないと断言。ウクライナ侵攻以降、日本政府が欧米諸国と歩調を合わせ対露制裁を継続する中で、ロシア側が外交的な対立軸を形成し、日本</description><guid isPermaLink="false">http://totalnewsjp.com/2026/10/14/russia-110/</guid><pubDate>Thu, 15 Oct 2026 13:30:35 +0000</pubDate></item></channel></rss>
+ひぼう中傷動画投稿疑いで逮捕のユーチューバーらを遺族が提訴
+10月15日 19:45
+ホルムズ海峡で船舶</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261016de60174</guid><pubDate>Thu, 15 Oct 2026 22:09:16 +0000</pubDate></item><item><title>マイケル・デル、1時間で資産「約2.5兆円」失う 世界6位の富豪に後退</title><link>https://forbesjapan.com/articles/detail/106697?s=ns</link><description>[score: 0.878] 世界的なハイテク株売りが2日目に突入した米国時間10月15日、デル・テクノロジーズの株価が9％急落した。これを受け、マイケル・デルの資産額は取引開始からの1時間で160億ドル（約2兆5600億円）近く減少し、フォーブスの世界長者番付で世界4位の富豪の座を失ってから1日も経たないうちに、6位へと後退している。
+米東部夏時間午前10時30分の時点で、デル・テクノロジーズの株価は9％超安の462.88ドルで推移した。
+同時点でデルの推定資産額は約152億ドル（約2兆4300億円）減の2412億ドル（約38兆6000億円）となった。これにより、資産額2507億ドル（約40兆1000億円）のメタのマーク</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106697?s=ns</guid><pubDate>Thu, 15 Oct 2026 23:10:09 +0000</pubDate></item><item><title>仏大統領、ウクライナに「あらゆる手段の提供重要」 ゼレンスキー氏と会談 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPY2VLS0xRWnlIVXNMRTJHWG1LdkxNeXR0alBFUlEyX0p2VUVPNGlPQ2s1dW1sNDQ4eV95S1VOWmV1bzdZZ3h0ZnlKYkFiY01nS0pndnhiVXhhbl9NaFhkaUZ1R0RINGx0X1UyUE9WLUxKellwZWo1d01nWVlnLUZwRS1uSzdidw?oc=5</link><description>[score: 0.878] 仏大統領、ウクライナに「あらゆる手段の提供重要」 ゼレンスキー氏と会談 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxPY2VLS0xRWnlIVXNMRTJHWG1LdkxNeXR0alBFUlEyX0p2VUVPNGlPQ2s1dW1sNDQ4eV95S1VOWmV1bzdZZ3h0ZnlKYkFiY01nS0pndnhiVXhhbl9NaFhkaUZ1R0RINGx0X1UyUE9WLUxKellwZWo1d01nWVlnLUZwRS1uSzdidw?oc=5</guid><pubDate>Thu, 15 Oct 2026 21:49:53 +0000</pubDate></item><item><title>AIエージェントはコードを書ける。だが、あなたのビジネスを理解できるのか</title><link>https://forbesjapan.com/articles/detail/106704?s=ns</link><description>[score: 0.879] AIエージェントはコードを書ける。だが、あなたのビジネスを理解できるのか
+最も高くつくAIの失敗は、ごくありふれた単語から始まるのかもしれない。「available（利用可能）」である。
+営業エージェントはそれを出荷可能と読む。製造エージェントは生産予定に入っていると読む。サプライヤーのエージェントは確認が必要だと読む。3者はいずれも流暢な説明を生成できる。だが一緒になると、企業が守れない約束をしてしまう可能性がある。
+企業がAIエージェントに業務を委任するにつれ、こうした相違は運用上の問題になる。ソフトウェアは、部門、システム、取引先をまたいで行動できるほど正確に、ビジネスを解釈しなければな</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106704?s=ns</guid><pubDate>Thu, 15 Oct 2026 22:37:28 +0000</pubDate></item><item><title>エムスリーが個人情報漏洩　製薬向けサービスに不正アクセス - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC15BGA0V11C26A0000000/</link><description>[score: 0.880] エムスリーが個人情報漏洩 製薬向けサービスに不正アクセス
+エムスリーは15日、運営する製薬企業向けサービス「MR君」のシステムが不正アクセスを受け、会員の医師や製薬企業の担当者の個人情報が漏洩したと発表した。現時点では漏洩情報が不特定多数に公開された事実は確認していないという。
+14日に不正アクセスを確認した。不正アクセスを受けたのは会員の医師の1割未満と、製薬企業の担当者数百人分の情報で、氏名や勤務先、メールアドレスを含む。
+ログインパスワードやポイントは含まれず、クレジットカード情報は同社で保持していないという。対象者の人数や不正アクセスを受けた情報の詳細は確認中としている。
+不正アクセス</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC15BGA0V11C26A0000000/</guid><pubDate>Thu, 15 Oct 2026 22:37:33 +0000</pubDate></item><item><title>Meta、オープンウェイトAI「Muse Spark Open」を無償公開。アップルが協力、複数Mac Studio使いローカル動作</title><link>https://www.techno-edge.net/article/2026/10/16/5591.html</link><description>[score: 0.880] Metaは、オープンウェイトAIモデル「Muse Spark Open」のウェイト（学習済みの重み・パラメーター）を公開しました。
+同モデルはアップルと共同で最適化が行われており、Apple M5 Ultraチップを搭載した「Mac Studio」2台を連携させることでローカル動作が可能です。Metaは同モデルを「米国製オープンウェイトモデルとして現時点で最も高性能」としています。
+Muse Spark Openの主な仕様と特徴
+・総パラメータ数：8160億（アクティブパラメータ：420億）
+・コンテキストウィンドウ：100万トークン
+・用途：コーディング、エージェント型タスク、複雑なソフトウ</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/10/16/5591.html</guid><pubDate>Thu, 15 Oct 2026 22:05:37 +0000</pubDate></item><item><title>ユーザーローカルが「User Insight」でLLMO調査用プロンプトをAIが自動提案する機能を提供開始</title><link>https://webtan.impress.co.jp/n/2026/10/16/53460</link><description>[score: 0.881] ユーザーローカルが「User Insight」でLLMO調査用プロンプトをAIが自動提案する機能を提供開始 「何を調べればいいかわからない」を解消、「ChatGPT」などでの自社言及を一括計測 noboru.kojima 2026年10月16日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 AIとビッグデータ分析技術開発のユーザーローカルは、総合デジタルマーケティングツール「User Insight」で提供中の「LLMOダッシュボード」で、計測したいキーワードや調査目的に応じて最適なプロンプトをAIが自動で提案する「プロンプト提案機能」の提供を開始したと10月14日に発</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/10/16/53460</guid><pubDate>Thu, 15 Oct 2026 22:30:49 +0000</pubDate></item><item><title>イエメン暫定政権拠点にフーシ派が攻撃か 緊張高まり懸念</title><link>https://news.web.nhk/newsweb/na/nd-20261016de60160</link><description>[score: 0.881] 戦闘が激化している中東イエメンで、サウジアラビアの支援を受ける暫定政権は15日、南部アデンの重要施設が反政府勢力フーシ派の攻撃を受けて犠牲者が出たと発表し、政権側が拠点とする主要都市への攻撃でさらなる…
+あわせて読みたい
+ホルムズ海峡で船舶攻撃増 米中間選挙前にイランが攻撃強化か
+10月15日 19:30
+G20 財務相・中央銀行総裁会議 世界経済やAIへの対応を議論
+10月15日 18:15
+北朝鮮が潜水艦から発射する2種類の巡航ミサイルの発射実験
+10月15日 11:04
+台湾TSMC過去最高益「需要減速の兆候なし」
+10月16日 0:54
+米半導体企業 最大3兆円規模で新工場建設へ 日米</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261016de60160</guid><pubDate>Thu, 15 Oct 2026 22:09:16 +0000</pubDate></item><item><title>台風30号 今後の情報に注意を</title><link>https://news.web.nhk/newsweb/na/nd-20261016de60169</link><description>[score: 0.881] 15日、発生した台風30号は、日本のはるか南東の海上を西へ進んでいて、今後、非常に強い勢力に発達する見込みです。
+気象庁は、来週以降の進路の予測は現時点で不確実だとしながらも、状況によっては日本に近…
+あわせて読みたい
+“王将”社長射殺事件 暴力団幹部にきょう判決 京都地裁
+10月16日 5:10
+G20閉幕 世界経済やAIリスク議論も共同声明なし
+10月16日 5:34
+「うるう秒」廃止決定 秒の新定義も検討へ 国際度量衡総会
+10月16日 6:38
+ドジャース×ブルワーズ リーグ優勝決定S 第4戦【速報予定】
+10月16日 7:47
+与党“消費税早期審議入りを”野党“高市首相の任命責任追及</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261016de60169</guid><pubDate>Thu, 15 Oct 2026 21:40:51 +0000</pubDate></item><item><title>医師は「AI時代に自分たちに残された仕事は？」と自問を始めている</title><link>https://wired.jp/article/sz-ai-has-human-doctors-asking-whats-left-for-us/</link><description>[score: 0.881] 2026年8月、『Journal of the American Medical Association（米国医師会誌／JAMA)）』に掲載されたその論文のタイトルに付された疑問符に、惑わされてはいけない。
+医療界のスーパースター、エゼキエル・エマニュエルや、ベンチャーキャピタリスト（VC）のビノッド・コースラを含む著者たちによる「自律型AIは、AIを使う医師を上回り、最良の医療を提供するようになるのか？」という問いかけは、答えを期待しない修辞的な疑問文にすぎない。著者らの答えは、力強い「イエス」だ。
+医療界の多くの人々は、患者が最良の治療を受けられるのは、医師がよく訓練されたボットと相談しな</description><guid isPermaLink="false">https://wired.jp/article/sz-ai-has-human-doctors-asking-whats-left-for-us/</guid><pubDate>Thu, 15 Oct 2026 22:39:47 +0000</pubDate></item><item><title>トランプ大統領“死刑執行のライブ配信は中止”</title><link>https://news.web.nhk/newsweb/na/nd-20261016de60166</link><description>[score: 0.881] アメリカのトランプ大統領は、軍の基地で銃を乱射し兵士13人を殺害したとして殺人などの罪に問われ、死刑判決を受けた元軍医の刑の執行について、ライブ配信するとしていた計画を撤回すると明らかにしました。
+…
+あわせて読みたい
+G20 財務相・中央銀行総裁会議 世界経済やAIへの対応を議論
+10月15日 18:15
+イスラエル情報機関の前長官 ネタニヤフ首相を提訴
+10月15日 17:10
+ホルムズ海峡で船舶攻撃増 米中間選挙前にイランが攻撃強化か
+10月15日 19:30
+北朝鮮が潜水艦から発射する2種類の巡航ミサイルの発射実験
+10月15日 11:04
+米半導体企業 最大3兆円規模で新工場建設へ </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261016de60166</guid><pubDate>Thu, 15 Oct 2026 21:40:51 +0000</pubDate></item><item><title>「コミックシーモア」がサービス停止 不正アクセスか | NHKニュース</title><link>https://news.web.nhk/newsweb/na/nd-20261015de60114</link><description>[score: 0.881] 漫画を中心とした電子書籍を配信する「コミックシーモア」は、外部からの不正なアクセスが行われた可能性が高いとして、原因究明のためサービスを停止したと15日夜に発表しました。
+15日夜、漫画を中心とし…
+あわせて読みたい
+ソースネクスト 約2251万件の個人情報が流出か 不正アクセスで
+10月15日 21:55
+ひぼう中傷動画投稿疑いで逮捕のユーチューバーらを遺族が提訴
+10月15日 19:45
+ホルムズ海峡で船舶攻撃増 米中間選挙前にイランが攻撃強化か
+10月15日 19:30
+相次ぐ不正アクセス “AIエージェント”使用の証拠見つかる
+10月15日 19:30
+声優の野沢雅子さん “声の生成A</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261015de60114</guid><pubDate>Thu, 15 Oct 2026 22:22:16 +0000</pubDate></item><item><title>ドイツ市場開拓へ デパートで日本産のコメを試験販売</title><link>https://news.web.nhk/newsweb/na/nd-20261016de60190</link><description>[score: 0.883] 日本の国産米の輸出拡大につなげようと、ドイツのデパートでパックに小分けされたコメが試験的に販売され、家族連れなどが味を確かめていました。
+日本政府は、ヨーロッパをアメリカに次ぐ国産米の重要な輸出先…
+あわせて読みたい
+G20閉幕 世界経済やAIリスク議論も共同声明なし
+10月16日 5:34
+イエメン暫定政権拠点にフーシ派が攻撃か 緊張高まり懸念
+10月16日 5:29
+「うるう秒」廃止決定 秒の新定義も検討へ 国際度量衡総会
+10月16日 6:38
+トランプ大統領“死刑執行のライブ配信は中止”
+10月16日 6:18
+EU、中国製ハイブリッド車などの輸入大幅制限へ
+10月16日 6:26
+ア</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261016de60190</guid><pubDate>Thu, 15 Oct 2026 22:41:10 +0000</pubDate></item><item><title>米国に原油はあふれているのに、なぜディーゼル燃料は足りないのか</title><link>https://forbesjapan.com/articles/detail/106710?s=ns</link><description>[score: 0.883] 米国は史上最多の原油を生産している。米エネルギー情報局（EIA）によると、2026年の米原油生産量は日量平均1380万バレルと過去最高を記録し、前年に打ち立てられた過去最高を更新する見通しだ。
+しかし、ディーゼル燃料価格は最近になって過去最高値に高騰しており、中間留分の在庫は異例の低水準にとどまっている。EIAの予測では、こうした在庫は2027年の大半を通じて過去5年のレンジを下回り続け、在庫量は20年以上ぶりに1億バレルを割り込む見込みだ。一見すると、これは矛盾しているように思える。米国に史上最多の原油があるのなら、なぜ製油会社は単にディーゼル燃料の生産量を増やせないのだろうか。
+その答えは</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106710?s=ns</guid><pubDate>Thu, 15 Oct 2026 23:10:09 +0000</pubDate></item><item><title>AIでECマーケはどう変わる？ アスクルの最新事例＆AI検索を味方につける集客の新常識【11/5＋6 リアルセミナー開催】</title><link>https://webtan.impress.co.jp/e/2026/10/16/53451</link><description>[score: 0.883] AIでECマーケはどう変わる？ アスクルの最新事例＆AI検索を味方につける集客の新常識【11/5＋6 リアルセミナー開催】 fujita-h 2026年10月16日 ネットショップ担当者フォーラム 特選記事 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 この記事は、姉妹サイトネットショップ担当者フォーラムで公開された記事をWeb担当者Forumに転載したものです。 11月5日（木）・6日（金）の2日間、東京・赤坂インターシティコンファレンスで、大型リアルイベント「ネットショップ担当者フォーラム 2026 秋」を開催します。アスクル、アルビオン、ファンケル、ユナイテッドア</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/10/16/53451</guid><pubDate>Thu, 15 Oct 2026 22:30:49 +0000</pubDate></item><item><title>EU、中国製ハイブリッド車などの輸入大幅制限へ</title><link>https://news.web.nhk/newsweb/na/nd-20261016de60165</link><description>[score: 0.883] 巨額の対中貿易赤字を抱えるEU＝ヨーロッパ連合は、ことし12月から中国製のハイブリッド車などの輸入を4年間にわたり大幅に減らす暫定的な輸入制限を導入する方針で、15日から始まった首脳会議でさらなる対応…
+あわせて読みたい
+ホルムズ海峡で船舶攻撃増 米中間選挙前にイランが攻撃強化か
+10月15日 19:30
+イスラエル情報機関の前長官 ネタニヤフ首相を提訴
+10月15日 17:10
+G20 財務相・中央銀行総裁会議 世界経済やAIへの対応を議論
+10月15日 18:15
+北朝鮮が潜水艦から発射する2種類の巡航ミサイルの発射実験
+10月15日 11:04
+米半導体企業 最大3兆円規模で新工場建設へ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261016de60165</guid><pubDate>Thu, 15 Oct 2026 22:09:16 +0000</pubDate></item><item><title>OpenAIオフィスに隠し録音機、設置した従業員をAIで特定し解雇</title><link>https://pc.watch.impress.co.jp/docs/news/2148355.html</link><description>[score: 0.884] ニュース
+OpenAIオフィスに隠し録音機、設置した従業員をAIで特定し解雇
+2026年10月15日 13:54
+OpenAIは10月14日、同社の従業員がオフィス内に録音機を密かに設置していたことを明かした。同社はすでにFBIに報告しており、FBIが当該の従業員を逮捕した上で、調査を進めているという。
+説明によれば、オフィス内に巧妙に隠された録音機を発見したため、同社のAIモデルを使って録音機自体やその出所について分析を行なった。その結果、発見の数日前に同社の従業員が設置したものであることが判明したという。
+現時点では、その従業員によるモデルの重みやソースコード、顧客データへの不正アクセスや</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2148355.html</guid><pubDate>Thu, 15 Oct 2026 21:41:24 +0000</pubDate></item><item><title>GMOプライム・ストラテジーが「KUSANAGI」の企業向け新版で自動更新や無停止アップグレードに対応</title><link>https://webtan.impress.co.jp/n/2026/10/16/53461</link><description>[score: 0.884] GMOプライム・ストラテジーが「KUSANAGI」の企業向け新版で自動更新や無停止アップグレードに対応 「KUSANAGI Enterprise Edition」、企業のWordPressセキュリティ運用を自動化 noboru.kojima 2026年10月16日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 GMOインターネットグループでWebサイト・CMS(コンテンツ管理システム)高速化ソリューション事業のGMOプライム・ストラテジーは、企業のWordPressサイトのセキュリティ運用を自動化・省力化するWordPress専用OS「KUSANAGI」の企業向け新エデ</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/10/16/53461</guid><pubDate>Thu, 15 Oct 2026 22:30:49 +0000</pubDate></item><item><title>ＮＹ外為市場＝ドル下落、ＡＩ関連企業への懸念が重し 10月利上げ観測後退 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBqVWFXSEZhTWNUU284aHM3VzJFRm5CYkFBcWt3V0hXeEhvdmpUUE9OTkRMemxEZlhxNlRYdTd6dFlkTWZmd3ZmS0t4MW53Y2NJdFBjNElORUh2d3dTYnZvWnVyRUpzVkI4eG81TUZXckNES3loNHQwNEYtZGt4dw?oc=5</link><description>[score: 0.885] ＮＹ外為市場＝ドル下落、ＡＩ関連企業への懸念が重し 10月利上げ観測後退 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFBqVWFXSEZhTWNUU284aHM3VzJFRm5CYkFBcWt3V0hXeEhvdmpUUE9OTkRMemxEZlhxNlRYdTd6dFlkTWZmd3ZmS0t4MW53Y2NJdFBjNElORUh2d3dTYnZvWnVyRUpzVkI4eG81TUZXckNES3loNHQwNEYtZGt4dw?oc=5</guid><pubDate>Thu, 15 Oct 2026 21:49:53 +0000</pubDate></item><item><title>AIは「電気の発明」級の大変革　東京電力CIOが語る、AIを使いこなすための「人間の在り方」</title><link>https://www.itmedia.co.jp/business/articles/2610/16/news026.html</link><description>[score: 0.885] AIによって業務の効率化が進み、作業時間が短縮された一方、仕事の本質はどう変わったのか。これまで人が担ってきた仕事はなくなったのか、成果や行動量は倍増したのか。AIの進化を実感する今だからこそ、改めて考えたい問いだ。
+Sansanの寺田親弘社長は「AIの進化は目を見張るものがありますが、AIだけで何でもこなせるわけではありません。営業にしても企画にしても、最終的に価値を届けるのは人です。どれだけテクノロジーが進化しても、人間が介在する価値は重要です」と話す。
+AIに任せられる業務と、人にしか担えない役割を見極め、人間の価値を最大限に引き出すためにAIをどう活用するか。その視点が、AIトランスフ</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2610/16/news026.html</guid><pubDate>Thu, 15 Oct 2026 22:29:27 +0000</pubDate></item><item><title>情報漏えいは防げなくても、被害は減らせる　個人でできるセキュリティ対策</title><link>https://www.watch.impress.co.jp/docs/topic/2148545.html</link><description>[score: 0.886] トピック
+情報漏えいは防げなくても、被害は減らせる 個人でできるセキュリティ対策
+2026年10月16日 08:00
+ここ最近、企業やサービスへの不正アクセスによる大規模な情報漏えいが立て続けに発生しています。流出する情報は氏名や住所、メールアドレスだけでなく、場合によってはログイン情報やクレジットカード情報などに及ぶことも。
+情報漏えいの厄介なところは、一度流出した情報を取り戻すことが難しい点です。さらに、漏えいした情報が悪用されることで、別のサービスへの不正ログインやアカウントの乗っ取り、フィッシング詐欺など、新たな被害につながる可能性もあります。
+企業や組織がどれだけ対策を講じても、情報</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/topic/2148545.html</guid><pubDate>Thu, 15 Oct 2026 23:08:53 +0000</pubDate></item><item><title>その仕事、誰が何に使っていますか？　抱え込みすぎた人のための「手放す仕事」の選び方</title><link>https://studyhacker.net/task-subtraction</link><description>[score: 0.887] 時短のコツを試して、ひとつひとつの仕事は確かに速くなった。なのに、毎日の忙しさはいっこうに変わらない。早く片づけたぶんだけ、次の仕事が入ってくるからだ。 本当は仕事そのものを減らしたい。でも、どれなら減らしていいのかわからないし、自分が手を離したら誰かが困るかもしれない……。 頑張って処理しているのに余裕が生まれず、それでも手放せずに抱え込んでしまう。そんな状態から抜け出せずにいる人は少なくありません。 じつは、人はもともと仕事を「減らす」案を思いつきにくいことが、研究でわかっています。思いつきにくいのなら、探し方を知っておけばいいわけです。この記事では、抱えている仕事から手放すものを見つける</description><guid isPermaLink="false">https://studyhacker.net/task-subtraction</guid><pubDate>Thu, 15 Oct 2026 22:36:18 +0000</pubDate></item><item><title>AIを使えばドキュメント整備はいらない？いやいや、今こそ人間が動くときだ</title><link>https://zenn.dev/atamaplus/articles/2c9538a721c613</link><description>[score: 0.888] こんにちは、atama plusでエンジニアをしているyuki_nomuraです。 最近はAIに社内の情報を探してもらう場面も増えてきたのではないでしょうか。 それなら、ドキュメントの整理や見直しもAIに任せて、みんな幸せになりそうです。 でも、ドキュメントの内容が今も正しいかどうかは、誰がどうやって確認すればいいでしょう？ …そうです、この記事で私が主張したいことは、AIを使うようになっても、ドキュメントを人間が見直す仕事は残るということです。 嬉しいですね、まだ仕事がありそうです。 atama plusの開発組織には、エンジニアが業務で参照するドキュメントを集め、継続的にメンテナンス...</description><guid isPermaLink="false">https://zenn.dev/atamaplus/articles/2c9538a721c613</guid><pubDate>Thu, 15 Oct 2026 23:12:31 +0000</pubDate></item><item><title>インフレ期待悪化なら強力な対応必要も＝米クリーブランド連銀総裁 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQaHByY3Y5U0hhSENRaVNGVC1WSERhQ3lfOFlrNHJYTlM1cE40YmlBcTQtaXVWVktlSVJuNTczOXBRaHk4WjlxdkphTzM1ak1CZVNHUnhjMURzQUZ4MVh1Yld3NGZhSVZ4MzdZMDlsNmdrX01zN2N0SWVVcnJMMG1KRExMRWRRdw?oc=5</link><description>[score: 0.890] インフレ期待悪化なら強力な対応必要も＝米クリーブランド連銀総裁 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQaHByY3Y5U0hhSENRaVNGVC1WSERhQ3lfOFlrNHJYTlM1cE40YmlBcTQtaXVWVktlSVJuNTczOXBRaHk4WjlxdkphTzM1ak1CZVNHUnhjMURzQUZ4MVh1Yld3NGZhSVZ4MzdZMDlsNmdrX01zN2N0SWVVcnJMMG1KRExMRWRRdw?oc=5</guid><pubDate>Thu, 15 Oct 2026 22:45:52 +0000</pubDate></item><item><title>米ＡＩ企業専門家、ディープフェイク精度向上で裁判の証拠判断困難と警告 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5LbU5EX0JDTmdSVnZaSlhxa1ZGbFMzTGkwSU5XSm1UWDUtTzViNVozUThEWnY1T2NmeHAwNmM2NVVkSC16UWsxdlFVSGxIQmp2NWFLbGxmM0F4SmM3eVpIc3dZVmxfcHFuRm42cVp6VUZUcGdQQVZUMWlwS1B0dw?oc=5</link><description>[score: 0.890] 米ＡＩ企業専門家、ディープフェイク精度向上で裁判の証拠判断困難と警告 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE5LbU5EX0JDTmdSVnZaSlhxa1ZGbFMzTGkwSU5XSm1UWDUtTzViNVozUThEWnY1T2NmeHAwNmM2NVVkSC16UWsxdlFVSGxIQmp2NWFLbGxmM0F4SmM3eVpIc3dZVmxfcHFuRm42cVp6VUZUcGdQQVZUMWlwS1B0dw?oc=5</guid><pubDate>Thu, 15 Oct 2026 22:45:52 +0000</pubDate></item><item><title>ドイツ、13歳未満SNS禁止へ　メルツ政権が閣議決定 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOCB1508L0V11C26A0000000/</link><description>[score: 0.891] ドイツ、13歳未満SNS禁止へ メルツ政権が閣議決定
+【ベルリン=共同】ドイツのメルツ政権は14日、13歳未満の子どもの交流サイト（SNS）の利用を原則禁止することを柱とした政策方針を閣議決定した。児童に適していることが証明されたサービスは例外とし、13歳から18歳未満は段階的な利用制限の対象とする。
+欧州連合（EU）欧州委員会は9月、子どもをデジタル空間で保護するため「EUキッズ法案」を発表した。メルツ政権は今回の政策方針により、同法が成立して欧州レベルで最低年齢が設定されるまでの暫定措置を定める狙いがある。
+政策方針は、デジタル空間における青少年の保護に関する専門家委員会の提言を基にまとめ</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOCB1508L0V11C26A0000000/</guid><pubDate>Thu, 15 Oct 2026 22:08:10 +0000</pubDate></item><item><title>第2回 AIセーフティシンポジウム | 2026年10月15日・16日</title><link>https://qai.pj.aist.go.jp/ai-safety-symposium/2nd/</link><description>[score: 0.892] サブイベント
+地理空間情報分野における
+AIセーフティ
+- 日時
+- 2026年10月15日（木） 13:00-17:30
+- 形式
+- 会場参加のみ
+- 会場
+- トラストシティ
+カンファレンス・丸の内
+丸の内トラストタワーN館11階 Room3+4
+主催：国立研究開発法人 産業技術総合研究所
+共催：国立研究開発法人 新エネルギー・産業技術総合開発機構
+後援：AIセーフティ・インスティテュート
+OUTLINE
+近年、AIは急速な進化を続けています。AIエージェントの高度化が進み、ロボットなど実世界で動くフィジカルAIへの期待も高まっています。AIの開発と利活用は我が国の政策の中心に据えられ、</description><guid isPermaLink="false">https://qai.pj.aist.go.jp/ai-safety-symposium/2nd/</guid><pubDate>Thu, 15 Oct 2026 21:41:24 +0000</pubDate></item><item><title>SEO予算は「クリック数」目当てじゃダメ。3種の指標と3つの予算配分で上司もナットク【SEOまとめ】</title><link>https://webtan.impress.co.jp/e/2026/10/16/53439</link><description>[score: 0.892] illustration by つきのあめだま 「SEOで流入を●%増やし、売上●円につなげる」そんな予算のとりかたが難しくなってきている。「訪問」より前段階での露出からプランをスタートして、3種類の指標と3つの予算グループで予算や施策を管理するやり方を、専門家が教えてくれた。 要注目のピックアップのほかにも、リリー・レイ氏によるGoogle大型アップデート予測も興味深いし、偽の著者情報を明確にNGとするグーグルの公式情報も、見逃せない。 それ以外にも、「検索のAI機能でユーザー行動がどう変わるか」の学術的な調査や、グーグル公式「AI生成コンテンツ検知ツール」などのAI系のネタのほか、マーケテ</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/10/16/53439</guid><pubDate>Thu, 15 Oct 2026 22:30:49 +0000</pubDate></item><item><title>米国の警報なしに襲う弾道ミサイル、ウはロ最大のデータセンターを攻撃　侵攻1694日目</title><link>https://forbesjapan.com/articles/detail/106693?s=ns</link><description>[score: 0.895] ウクライナからの報告。1694日目。
+ロシアの空襲が激化する
+戦争は10月11日から14日にかけてエスカレートした。ロシアは首都キーウや北東部ハルキウをはじめとするウクライナの都市に対し、ミサイルやドローン（無人機）による攻撃を強めた。キーウでは13日夜から14日朝にかけての攻撃で、地元警察によると5人が死亡し、36人が負傷した。
+キーウの発電所3カ所が攻撃を受ける
+ウクライナ空軍の発表によると、ロシアはこの攻撃でミサイル39発とドローン128機を発射した。地元メディアの報道によれば、キーウ市内にあるコージェネレーション（熱電併給）発電所3カ所がすべて攻撃を受けた。ウクライナのボロディミル・ゼ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106693?s=ns</guid><pubDate>Thu, 15 Oct 2026 22:08:40 +0000</pubDate></item><item><title>元アンソロピック研究者が危惧する「中国の産業スパイ」…アメリカがAI開発ペースを落としても効果がない可能性</title><link>https://www.businessinsider.jp/article/2610-jacob-coxon-pacing-frontier-might-not-work-openai-anthropic-china-spies/</link><description>[score: 0.900] - 2026年9月にアンソロピックを退職した研究者、ジェイコブ・コクソン氏は、AIの進歩を遅らせても効果がない可能性があると語った。
+- 彼は、中国のスパイがアメリカのAI企業に潜入しており、開発の成果を盗み出せる状況にあると「90%」確信していると述べた。
+- AI企業のトップたちは9月、開発に対するチェックや歯止めの仕組みを強化できるよう、AI開発のペースを落とすよう呼びかけた。
+AIをめぐる悲観論の象徴的存在となったジェイコブ・コクソン（Jacob Coxon）氏が、最先端AIの開発速度の抑制がうまくいかないかもしれない理由を語った。
+コクソン氏は9月、アンソロピック（Anthropic</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-jacob-coxon-pacing-frontier-might-not-work-openai-anthropic-china-spies/</guid><pubDate>Thu, 15 Oct 2026 21:32:28 +0000</pubDate></item></channel></rss>
