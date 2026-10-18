@@ -1,181 +1,102 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 18 Oct 2026 21:09:41 +0000</lastBuildDate><item><title>不正アクセス急増背景に“中国製LLM”台頭、AIが自動で偵察→侵入→情報奪取「情報漏れていない人の方が珍しい」専門家が警鐘、対策は?（テレビ高知） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/2c807564e567a7a66e8718bce6ebd38538c605e8</link><description>[score: 0.857] 不正アクセス急増背景に“中国製LLM”台頭、AIが自動で偵察→侵入→情報奪取「情報漏れていない人の方が珍しい」専門家が警鐘、対策は?
-不正アクセスによる個人情報の漏えいが全国で急増していて、サイバーセキュリティ専門家は「日本国民で情報が漏れていない人の方が珍しい。100％防ぐことは困難だ」と指摘します。こうした中、私たちはどんな対策を講じるべきなのでしょうか。
-【画像】AIでネット上を偵察→侵入→情報を奪取…不正アクセス急増の背景は?専門家が画像で解説
-■全国で急増、個人情報の漏洩…自治体防災メールでも大規模被害か
-企業や行政・公的機関を狙った不正アクセスによって、個人情報が外部に漏えいしたり</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/2c807564e567a7a66e8718bce6ebd38538c605e8</guid><pubDate>Sun, 18 Oct 2026 11:15:54 +0000</pubDate></item><item><title>【資料公開 &amp; 開催報告】Kiro ハンズオン「手を動かして実感する、Kiro が変える開発体験」 | Amazon Web Services</title><link>https://aws.amazon.com/jp/blogs/news/kiro-handson-20260924-report/</link><description>[score: 0.857] Amazon Web Services ブログ
-【資料公開 &amp; 開催報告】Kiro ハンズオン「手を動かして実感する、Kiro が変える開発体験」
-アマゾン ウェブ サービス ジャパン合同会社（以下、AWS ジャパン）は、2026 年 9 月 24 日（木）に、AWS ジャパン オフィスで、Kiro のハンズオンイベント「手を動かして実感する、Kiro が変える開発体験」を開催しました。3 時間の中で講義とワークショップを交互に進め、Kiro の仕様駆動開発（Spec）、Steering、Agent Skills、MCP、そして 2026 年 8 月に公開された Kiro Crew までを体験</description><guid isPermaLink="false">https://aws.amazon.com/jp/blogs/news/kiro-handson-20260924-report/</guid><pubDate>Sun, 18 Oct 2026 12:52:57 +0000</pubDate></item><item><title>【Vite】ビルド時に出た Error: Cannot find native binding. npm has a bug related to optional dependenciesを解決</title><link>https://qiita.com/ryu0947/items/03af280e053c5d967168?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.859] はじめに
-Viteでnpm run dev
-を実行したらエラーが出たのでその解決方法をまとめます。
-エラーが出た環境のバージョンは以下になります。
-- Vite 8.3.0
-- Node.js 24.22.0
-- npm 11.19.1
-- Volta 2.0.2
-エラーが出た状況
-Vite+Reactで開発したアプリをGitHub Actionsで自動デプロイさせようとしていました。
-GitHub ActionsのワークフローにNode.jsのバージョンを書く必要があり、開発環境とワークフローのNode.jsのバージョンを同一にして一元管理したかったため以下のようにしました。
-node-ve</description><guid isPermaLink="false">https://qiita.com/ryu0947/items/03af280e053c5d967168?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 20:21:52 +0000</pubDate></item><item><title>オンボーディングをAIエージェントに任せたら、もはや別ゲーだった | BLOG - DeNA Engineering</title><link>https://engineering.dena.com/blog/2026/10/ai-agent-onboarding/</link><description>[score: 0.859] オンボーディングをAIエージェントに任せたら、もはや別ゲーだった | BLOG - DeNA Engineering メンバーの立ち上げもAI Nativeに チームに人が入るたびに同じ説明を繰り返していませんか？散らばった資料から使えそうなものを探してませんか？重い腰を上げて作成したオンボーディング資料集、もう古くなってませんか？ 本記事では部のオンボーディングをGitHubリポジトリに集約し、Claude Codeを伴走させる仕組みを...</description><guid isPermaLink="false">https://engineering.dena.com/blog/2026/10/ai-agent-onboarding/</guid><pubDate>Sun, 18 Oct 2026 11:36:56 +0000</pubDate></item><item><title>async/await と Promise(then) の違いを、出力順で比べてみた</title><link>https://qiita.com/mmsbox/items/e1a201822b51b753e2ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.862] はじめに
-筆者は、プログラミングスクールで JavaScript の非同期処理を学んでおり、その中である疑問にぶつかりました。
-Promise のあとに async/await を学んで、「Promise をシンプルに書ける構文」という説明は理解できたのですが、await
-が何を止めているのか？という疑問です。
-そこがあいまいなままでした。
-なんとなく「await は任意のタイミングで処理を止めてくれて、デバッグしやすいのだろう」という認識でいたのですが、それではモヤモヤが残るので、ちゃんと理解したいと思い、今回の記事を書こうとなりました！📝
-自分で小さなコードを書いて、console.log</description><guid isPermaLink="false">https://qiita.com/mmsbox/items/e1a201822b51b753e2ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 20:21:52 +0000</pubDate></item><item><title>不正アクセス急増背景に“中国製LLM”台頭、AIが自動で偵察→侵入→情報奪取「情報漏れていない人の方が珍しい」専門家が警鐘、対策は? | TBS NEWS DIG</title><link>https://newsdig.tbs.co.jp/articles/-/3020110</link><description>[score: 0.867] 不正アクセス急増背景に“中国製LLM”台頭、AIが自動で偵察→侵入→情報奪取「情報漏れていない人の方が珍しい」専門家が警鐘、対策は? テレビ高知 2026年10月18日(日) 17:00 国内 暮らし・マネー 不正アクセスによる個人情報の漏えいが全国で急増していて、サイバーセキュリティ専門家は「日本国民で情報が漏れていない人の方が珍しい。100％防ぐことは困難だ」と指摘します。こうした中、私たちはどんな対策…
-離婚は予測できる？破局に向かう“別れの四重奏”を知って予防を！カギを握る「夫婦の健康寿命」とは…『産後クライシス』実態を心理学の専門家に聞いてみた【ぼちぼち子育て・産後の夫婦関係②】 2</description><guid isPermaLink="false">https://newsdig.tbs.co.jp/articles/-/3020110</guid><pubDate>Sun, 18 Oct 2026 13:08:21 +0000</pubDate></item><item><title>声や肖像 不正競争防止法の対象として明記検討へ 経済産業省</title><link>https://news.web.nhk/newsweb/na/nd-20261018de61309</link><description>[score: 0.869] 生成AIによって著名人の声が無断で利用されるケースが相次ぐ中、経済産業省は、不正競争防止法で保護する対象として「声」や「肖像」を明記できないか検討を始めました。
-著名人の声をめぐっては、生成AIに…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 18 Oct 2026 22:42:23 +0000</lastBuildDate><item><title>サイボウズのログ基盤 2026年版 ― Apache Iceberg × Trino によるアーキテクチャ刷新 - Cybozu Inside Out | サイボウズエンジニアのブログ</title><link>https://blog.cybozu.io/entry/2026/10/14/090000</link><description>[score: 0.848] サイボウズのログ基盤 2026年版 ― Apache Iceberg × Trino によるアーキテクチャ刷新 - Cybozu Inside Out | サイボウズエンジニアのブログ はじめに こんにちは。ログ基盤チームの吉本です。 cybozu.com では、2018年のブログ記事でご紹介したログ基盤を長期にわたって運用してきましたが、このたびサイボウズの Kubernetes 基盤である Neco へ移行しま... tmatsuu わいわい</description><guid isPermaLink="false">https://blog.cybozu.io/entry/2026/10/14/090000</guid><pubDate>Sun, 18 Oct 2026 11:57:55 +0000</pubDate></item><item><title>長寿薬にクローン、冷凍保存——ペットを「手放さない」のは良いことか？</title><link>https://www.technologyreview.jp/s/393316/cant-bear-to-say-goodbye-to-your-pet-biotechs-got-you-covered/</link><description>[score: 0.849] You need to enable JavaScript to run this app.</description><guid isPermaLink="false">https://www.technologyreview.jp/s/393316/cant-bear-to-say-goodbye-to-your-pet-biotechs-got-you-covered/</guid><pubDate>Sun, 18 Oct 2026 21:35:14 +0000</pubDate></item><item><title>https://x.com/kirigamineakai/status/2111804704988815854</title><link>https://x.com/kirigamineakai/status/2111804704988815854</link><description>[score: 0.850] https://x.com/kirigamineakai/status/2111804704988815854 neco22b “野球は本来無限に続くグラウンドでやる競技だから でも現実的に無限に続くグラウンドを用意するのは無理だからフェンスで囲ってフェンスを超えたら4つ安全進塁権が与えられる特別ルールが採用されてるだけ フェンス</description><guid isPermaLink="false">https://x.com/kirigamineakai/status/2111804704988815854</guid><pubDate>Sun, 18 Oct 2026 17:03:30 +0000</pubDate></item><item><title>AWS Continuum で実現するデプロイごとのペネトレーションテスト | Amazon Web Services</title><link>https://aws.amazon.com/jp/blogs/news/penetration-testing-every-deployment-with-aws-continuum/</link><description>[score: 0.850] AWS Continuum で実現するデプロイごとのペネトレーションテスト | Amazon Web Services tmatsuu 従来AWS Security Agentと呼ばれていたものはAWS Continuum for penetration testingに名称が変わったらしい。</description><guid isPermaLink="false">https://aws.amazon.com/jp/blogs/news/penetration-testing-every-deployment-with-aws-continuum/</guid><pubDate>Sun, 18 Oct 2026 13:59:46 +0000</pubDate></item><item><title>血友病の治療を一変させる新薬が続々 「1回で永久に効果」も視野</title><link>https://natgeo.nikkeibp.co.jp/atcl/news/26/101500565/?rss</link><description>[score: 0.850] 息子2人が生後間もなく血友病と診断されたとき、サラ・パバオさんは、この病気のせいで、息子たちがやりたいことができなくなったり、関節内の出血を繰り返して体が変形したりしてしまうのではないかと恐れた。血友病は出血が止まりにくくなる病気だ。実際、幼い兄弟の体にはしょっちゅうあざができていた。
+「物にぶつかるたびに、すねや前腕、さらには顔にまで青あざができていました」と彼女は振り返る。
+今、兄のカポノ君は18歳、弟のデューク君は13歳になった。2人は、ハワイのカウアイ島にある自宅の近くで2メートル近い波に乗ってサーフィンをし、島のトレイルでダートバイクを乗り回し、柔術の稽古にも励んでいる。カポノ君はキ</description><guid isPermaLink="false">https://natgeo.nikkeibp.co.jp/atcl/news/26/101500565/?rss</guid><pubDate>Sun, 18 Oct 2026 21:09:33 +0000</pubDate></item><item><title>カナダ 軍事基地で火災 少なくとも7人死亡 数十人けがの情報</title><link>https://news.web.nhk/newsweb/na/nd-20261018de61247</link><description>[score: 0.851] カナダ西部アルバータ州にある軍事基地で、17日、火災が発生し、地元のテレビ局は複数の死傷者が出ていて、少なくとも7人が死亡したと伝えています。</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261018de61247</guid><pubDate>Sun, 18 Oct 2026 10:07:40 +0000</pubDate></item><item><title>天井に取り付けるシーリングファンのデザインがすさまじいことになっている理由</title><link>https://gigazine.net/news/20261019-ceiling-fans/</link><description>[score: 0.852] 天井に取り付けるシーリングファンのデザインがすさまじいことになっている理由
+天井に取り付けて室内の空気を循環させる「シーリングファン」は、扇風機や換気扇のような羽がくるくる回るシンプルなものから、一見するとファンには見えないようなものまで、さまざまなデザインが存在しています。建築やデザインについて扱うブログ「McMansionHell」のケイト・ワグナー氏が、シーリングファンの現状について取り上げています。
+what is going on with ceiling fans | McMansion Hell
+https://mcmansionhell.com/post/82912791955</description><guid isPermaLink="false">https://gigazine.net/news/20261019-ceiling-fans/</guid><pubDate>Sun, 18 Oct 2026 22:04:44 +0000</pubDate></item><item><title>ドンキ親会社「トイザらス」「Olympic」を相次ぎ買収　苦戦する2社をどう立て直すのか、過去の事例から探る</title><link>https://www.itmedia.co.jp/business/articles/2610/19/news014.html</link><description>[score: 0.853] 山口伸
+経済・テクノロジー・不動産分野のライター。企業分析や都市開発の記事を執筆する。取得した資格は簿記、ファイナンシャルプランナー。趣味は経済関係の本や決算書を読むこと。 X：@shin_yamaguchi_
+ドン・キホーテを展開するPPIH（パン・パシフィック・インターナショナルホールディングス）は10月30日、玩具販売大手「トイザらス」の日本事業を取得する。トイザらスは全国で約150店舗を展開しているが、少子化やECの台頭などを背景に業績が悪化し、10月1日に東京地裁へ民事再生法の適用を申請していた。
+PPIHは7月1日にも、首都圏でスーパーマーケット「オリンピック」などを展開するOly</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2610/19/news014.html</guid><pubDate>Sun, 18 Oct 2026 22:11:44 +0000</pubDate></item><item><title>人気アニメの動画をダウンロードしたつもりが中身はマルウェアだった話</title><link>https://gigazine.net/news/20261019-torrent-sites-malware/</link><description>[score: 0.854] 人気アニメの動画をダウンロードしたつもりが中身はマルウェアだった話
+Sonarrユーザーがトレントサイトにアップロードされた実行ファイル(.exe)形式のマルウェアに遭遇した事例を通して、発見の経緯・詳細な技術分析・推奨される対策について解説していました。
+Someone on Torrent Sites Kept Fucking With My Sonarr
+https://thereallo.dev/blog/someone-on-torrent-sites-kept-fucking-with-my-sonarr-setup
+ウェブ開発者兼デザイナーのThereallo氏はNAS上で稼働さ</description><guid isPermaLink="false">https://gigazine.net/news/20261019-torrent-sites-malware/</guid><pubDate>Sun, 18 Oct 2026 21:06:51 +0000</pubDate></item><item><title>Brazeが「2026年度グッドデザイン賞」受賞、量から質に転換したマーケプラットフォームを評価</title><link>https://webtan.impress.co.jp/n/2026/10/19/53466</link><description>[score: 0.855] Brazeが「2026年度グッドデザイン賞」受賞、量から質に転換したマーケプラットフォームを評価 システム・サービス分野、リアルタイムなデータ処理とマルチチャネルの体験設計 noboru.kojima 2026年10月19日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 顧客エンゲージメントプラットフォーム「Braze(ブレイズ)」を展開する米国Brazeの日本法人、Brazeは、公益財団法人日本デザイン振興会が主催する「2026年度グッドデザイン賞」(システム・サービス分野)を受賞したと10月15日に発表した。Brazeは顧客の行動データをリアルタイムで処理し、パーソ</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/10/19/53466</guid><pubDate>Sun, 18 Oct 2026 22:01:22 +0000</pubDate></item><item><title>フランス各地でデモに乗じ破壊や略奪、歴史的建造物の市庁舎は放火で焼失…全国１５００の小売店が襲撃受ける</title><link>https://www.yomiuri.co.jp/world/20261018-GYT1T00205/</link><description>[score: 0.856] フランス各地でデモに乗じ破壊や略奪、歴史的建造物の市庁舎は放火で焼失…全国１５００の小売店が襲撃受ける
+完了しました
+動画はこちら
+【パリ＝上地洋実】フランスで１７日、物価高への対策などを求める全国規模のデモが行われ、内務省によると全国で５５万人が参加した。これまで教育環境の改善を求めてきた高校生たちも加わり、近年では最大規模のデモになった。デモに乗じた破壊行為や店舗での略奪行為が横行し、各地で大きな混乱が生じた。
+デモはＳＮＳ上での呼びかけが契機となり、内務省によると、国内１１０か所で行われた。労働組合や環境団体などが加わり、物価高やエネルギー価格高騰への対策を政府に訴えた。また、９月から抗</description><guid isPermaLink="false">https://www.yomiuri.co.jp/world/20261018-GYT1T00205/</guid><pubDate>Sun, 18 Oct 2026 21:44:25 +0000</pubDate></item><item><title>Gemini 経由の訪問が「ダイレクト」に？ UTM タグで見えた隠れた流入</title><link>https://www.suzukikenichi.com/blog/hidden-gemini-traffic-how-utm-tags-revealed-visits-counted-as-direct/</link><description>[score: 0.857] [レベル: 上級]
+Gemini は外部リンクに utm_source=gemini
+パラメータを付与するテストを実行していたようです。
+しかし、すべての参照トラフィックがリファラーを送信してはおらず、実際には、約2 倍のアクセスを送信していた可能性があります。
+Adobe のデータが示す、Gemini 経由の訪問は実際には 2.1 倍
+Adobe のプロダクトマネジメント担当の Cedric Huesler（セドリック・ヒュースラー）氏によると、2026 年 9 月の 11 日間、Gemini は外部リンクに utm_source=gemini
+というタグを付けていました（タグ付けは 9 月</description><guid isPermaLink="false">https://www.suzukikenichi.com/blog/hidden-gemini-traffic-how-utm-tags-revealed-visits-counted-as-direct/</guid><pubDate>Sun, 18 Oct 2026 22:15:18 +0000</pubDate></item><item><title>リクルート、カーセンサーの利用を一時停止　外部から不審なアクセス感知で　復旧は未定（日刊自動車新聞） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/68bd47fa31266bea1674102a579dbd199c4d892e</link><description>[score: 0.858] リクルート、カーセンサーの利用を一時停止 外部から不審なアクセス感知で 復旧は未定（日刊自動車新聞） - Yahoo!ニュース 同サイトでは現在、サービス停止の案内が表示されている（日刊自動車新聞） 中古車検索サイト「カーセンサー」を運営するリクルート（牛田圭一社長、東京都千代田区）は、10月17日に外部から不審なアクセスを検知したため、同サイトと関連する中古車事業者向けサービスの利用を一時停止したと発表した。18日夕方時点で...</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/68bd47fa31266bea1674102a579dbd199c4d892e</guid><pubDate>Sun, 18 Oct 2026 22:01:38 +0000</pubDate></item><item><title>蓄電システムで1万5000台超をリコール、モバイルバッテリーで発火事故も</title><link>https://monoist.itmedia.co.jp/mn/articles/2610/19/news004.html</link><description>[score: 0.868] 経済産業省が公開しているリコール情報に基づき、2026年9月に公表された主なリコール対象製品とその実施理由についてまとめた。
+経済産業省が公開しているリコール情報に基づき、2026年9月に公表された主なリコール対象製品とその実施理由をまとめた。対象製品の詳細情報については、本文内に記載の関連リンクから確認できる。
+また、対象製品を所有している場合は、各事業者の案内を確認し、指示に従って対応してほしい。
+ムラテックKDSは2026年9月11日、レーザー墨出器用リチウムイオン充電池「LTB-4」「LTB-5」の一部製品について、内部回路の不具合により充電ができなくなるなど、正常に使用できない場合が</description><guid isPermaLink="false">https://monoist.itmedia.co.jp/mn/articles/2610/19/news004.html</guid><pubDate>Sun, 18 Oct 2026 22:11:44 +0000</pubDate></item><item><title>本を読んでも頭に残らない人へ。哲学研究者が指南する、一生使える「読解」の基本</title><link>https://studyhacker.net/hiroki-yamano-interview01</link><description>[score: 0.873] いつでもどこでも膨大な情報を得られる時代、書籍の要約や解説といったコンテンツもネット上にあふれています。しかし、それらに触れるだけでは、自分の考えは育ちません。『20代からの文章読解 人文学的思考を鍛える「読み方」10講』（大和書房）を上梓した哲学研究者の山野弘樹先生は、読書によって本当の思考力を養うために必要なのは、知識を集めることではなく、「筆者の思考のプロセスをたどること」だといいます。そのための第一歩となる読解の考え方を聞きました。 構成／岩川悟 取材・文／清家茂樹 写真／石塚雅人 【プロフィール】 山野弘樹（やまの・ひろき） 1994年生まれ、東京都出身。2025年、東京大学大学院総</description><guid isPermaLink="false">https://studyhacker.net/hiroki-yamano-interview01</guid><pubDate>Sun, 18 Oct 2026 22:25:38 +0000</pubDate></item><item><title>アップル「HomeView」の上位モデルを2027～2028年に発売か。ロボットアーム搭載？</title><link>https://www.techno-edge.net/article/2026/10/19/5604.html</link><description>[score: 0.873] アップルは10月13日、スマートホームディスプレイ製品「HomeView」を発売しました。ただ、まずは米国、英国、カナダなど8か国での発売となり、残念ながら日本での発売時期はまだ発表されていません。
+そんなHomeViewですが、Bloombergのマーク・ガーマン記者はニュースレター「Power On」の記事の中で、この製品の高機能な上位モデルが早ければ2027年にも発売される可能性があると報じています。
+HomeViewの開発のうわさは早い時期からありましたが、Siriの開発遅延などを背景に、発売までに長い期間を要しました。さらに発売後は、テーブルを囲む複数人での利用時にディスプレイの向き</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/10/19/5604.html</guid><pubDate>Sun, 18 Oct 2026 21:30:30 +0000</pubDate></item><item><title>アップル、タッチ対応MacBook Proを11月6日発売か。OLED＆Dynamic Island搭載へ</title><link>https://www.techno-edge.net/article/2026/10/19/5605.html</link><description>[score: 0.874] アップルが、タッチスクリーン搭載のMacBook Proを、早ければ2026年11月6日にも発売する可能性があると報じられています。発表は10月27日もしくは28日になると伝えられています。
+10月5日に公開されたmacOS 27.2 beta 3では、Sidecarでのタッチサポートや「pull to refresh」機能、メニューバー項目のサイズ拡大といった変更が発見されていました。アップルの未発表情報に詳しいBloombergのマーク・ガーマン記者も、タッチ操作に向けたソフトウェアの最適化について報じています。
+新型MacBook Proのディスプレイには、iPad Proと同様の技術を</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/10/19/5605.html</guid><pubDate>Sun, 18 Oct 2026 22:09:35 +0000</pubDate></item><item><title>小中学生の7割が「本好き」も、読書時間は「週1時間未満」が多数【博報堂教育財団こども研調べ】</title><link>https://webtan.impress.co.jp/n/2026/10/19/53456</link><description>[score: 0.874] 小中学生の7割が「本好き」も、読書時間は「週1時間未満」が多数【博報堂教育財団こども研調べ】 本は好き、でも動画やゲームのほうが楽しい？ 小中学生の読書事情を調査。 imai-f 2026年10月19日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 博報堂教育財団 こども研究所は、全国の小学4年生～中学3年生の男女1,200人を対象に、読書に関する調査を実施した。本調査の「本」には、物語・小説だけでなく、まんがや図鑑なども含まれており、電子書籍やオーディオブックも対象となる。 関連記事 「小学生は本を読まない」はホント？ 驚きの調査結果とは【DeltaX調べ】 “スマホ</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/10/19/53456</guid><pubDate>Sun, 18 Oct 2026 22:01:22 +0000</pubDate></item><item><title>AIがもたらすのは「大量失業」か、「週3日勤務」か…ベゾス、ゲイツらが語る未来の働き方</title><link>https://www.businessinsider.jp/article/2610-bezos-dimon-gates-musk-cuban-ai-working-days-jobs-unemployment/</link><description>[score: 0.879] - ジェフ・ベゾス、ジェイミー・ダイモン、ビル・ゲイツは、AIによって週の労働日数が短くなる可能性があると語っている。
+- イーロン・マスクが、仕事は「必須ではなくなる」と述べる一方、サム・アルトマンは、「人々は今後も懸命に働き続ける」と考えている。
+- ジョージ・メイソン大学の経済学教授であるアレックス・タバロックは「過去の技術革新によって人々の労働時間は大幅に減ってきた」とBusiness Insiderに語っている。
+木曜と金曜がずっと休みになる？
+企業トップたちは、AIによって週の労働日数が短くなる未来について盛んに語っている。そうした未来が現実になると考えられる理由はいくつもある。
+</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-bezos-dimon-gates-musk-cuban-ai-working-days-jobs-unemployment/</guid><pubDate>Sun, 18 Oct 2026 22:06:18 +0000</pubDate></item><item><title>トイレ掃除「90％」自動化も　“ペッパーくん”でお馴染み、ソフトバンクロボティクスが語る「フィジカルAI」の勝ち筋</title><link>https://www.itmedia.co.jp/business/articles/2610/19/news012.html</link><description>[score: 0.883] これまで生成AIは、テキストや画像の生成など、主にデジタル空間で活用されてきた。一方、現実世界の作業現場で人の仕事を支え、自動化を進めるには、物理的に動けるAIが必要になる。
+そこで関心が高まっているのが、現実世界の状況を認識し、ロボットなどを通じて動作する「フィジカルAI」だ。人手不足が深刻化する製造業や物流業などで、作業の自動化や生産性向上につながると期待されている。
+では、フィジカルAIは従来のロボットと何が違うのか。現場で活用するには、どのような準備が必要なのか。
+人型ロボット「Pepper」（ペッパーくん）などのロボット事業を手掛けるソフトバンクロボティクス（東京都港区）で、事業推進</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2610/19/news012.html</guid><pubDate>Sun, 18 Oct 2026 22:11:44 +0000</pubDate></item><item><title>消費税減税関連法案 あす審議入り 与野党の議論本格化へ</title><link>https://news.web.nhk/newsweb/na/nd-20261018de61305</link><description>[score: 0.885] 国会では20日、最大の焦点となる食料品の消費税減税関連法案が審議入りします。
+与党側が、各党の意見も聞き入れて成立を図りたいとしているのに対し、野党側からは具体的な財源や、所得に応じた支援金の対象を…
+あわせて読みたい
+フランス 物価高対策など訴え大規模デモ 放火など混乱も広がる
+10月18日 19:12
+米中間選挙 全米各地で期日前投票呼びかける集会
+10月18日 13:30
+世田谷 三軒茶屋 女性はねられ両足大けが 荷物積み下ろし中か
+10月18日 17:24
+消費税減税法案めぐり与野党幹部が議論 NHK日曜討論
+10月18日 12:19
+愛子さま 鳥取で避難所運営考えるカードゲームを体験</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261018de61305</guid><pubDate>Sun, 18 Oct 2026 21:34:44 +0000</pubDate></item><item><title>あすにかけ西日本や東日本中心に大気非常に不安定</title><link>https://news.web.nhk/newsweb/na/nd-20261019de61334</link><description>[score: 0.885] 前線を伴った低気圧の影響で北海道では大気の状態が不安定になり雨雲が発達しています。 西日本や東日本を中心に20日にかけて大気の状態が非常に不安定になる見込みで、気象庁は落雷や竜巻などの突風、急な強い雨…
 注目ワード
 あわせて読みたい
-フランス 物価高対策など訴え大規模デモ 放火など混乱も広がる
-10月18日 19:12
-米中間選挙 全米各地で期日前投票呼びかける集会
-10月18日 13:30
-世田谷 三軒茶屋 女性はねられ両足大けが 荷物積み下ろし中か
-10月18日 17:24
-消費税減税法案めぐり与野党幹部が議論 NHK日曜討論
-10月18日 12:19
-愛子さま 鳥取で避難所運営考えるカードゲ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261018de61309</guid><pubDate>Sun, 18 Oct 2026 15:12:18 +0000</pubDate></item><item><title>👀 ひとつで、セキュリティ調査が走り出す——Sysdig Secure のリアルタイム脅威検知におけるインシデントレスポンスを、Factory の Droid で自動化して自宅ラボで試してみた</title><link>https://qiita.com/takao-shimizu/items/65f233bb8043c0f102e6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.869] セキュリティ監視サービスの Sysdig が脅威を見つけて Slack に通知したとき、その通知に 👀 を付けるだけで、Factory の AI エージェント「Droid」が自動で調べて報告する。その仕組みを、TK の自宅のホームラボで試した報告です。
-（2026-10-18 実施）
-16:12、検証用のコンテナが、攻撃者をまねて「セキュリティソフトを止める」操作をしました。
-16:24、Sysdig の通知が Slack の#threats
-に届きました。
-16:28、TK がその通知に 👀 を 1 つ付けました。
-そして 16:35、Factory の Droid（AI エージェント）が </description><guid isPermaLink="false">https://qiita.com/takao-shimizu/items/65f233bb8043c0f102e6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 20:21:52 +0000</pubDate></item><item><title>chakra-ui v3ではuseDisclosureを使わずDrawerを制御する</title><link>https://qiita.com/J-T_ky2g/items/49976b1033f985cd2e5b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.869] Register as a new user and use Qiita more conveniently
-- You get articles that match your needs
-- You can efficiently read back useful information
-- You can use dark theme
-Go to list of users who liked
-Share on X(Twitter)
-Share on Facebook
-Register as a new user and use Qiita more conveniently
-Go to</description><guid isPermaLink="false">https://qiita.com/J-T_ky2g/items/49976b1033f985cd2e5b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 20:21:52 +0000</pubDate></item><item><title>全エンジニアが知っておきたいセキュリティLT会 (2026/11/30 12:00〜)</title><link>https://supporterz-seminar.connpass.com/event/409944/</link><description>[score: 0.869] 広告
-| 募集内容 |
-オンライン参加 無料
-先着順
-LT登壇枠（5分間のLT / 資料の事前提出不要） 無料
-抽選（2026/11/10）
-|
-|---|---|
-| 申込者 | 申込者一覧を見る |
-| 開催日時 |
-2026/11/30(月) 12:00 ～ 13:00
-|
-| 募集期間 |
-2026/10/15(木) 15:14
-〜 |
-| 会場 |
-オンライン オンライン |
-| 出席登録 |
-(イベント開始時間の2時間前から終了時間まで、参加者のみに公開されます)
-|
-参加者への情報
-イベントの説明
-📍 イベント概要
-前回ご好評いただいた「全エンジニアが知っておきたいセキュリティL</description><guid isPermaLink="false">https://supporterz-seminar.connpass.com/event/409944/</guid><pubDate>Sun, 18 Oct 2026 16:01:59 +0000</pubDate></item><item><title>今すぐ始めるWebサイトのセキュリティ対策 - セキュアスカイプラス</title><link>https://securesky-plus.com/security/3700/</link><description>[score: 0.869] 今すぐ始めるWebサイトのセキュリティ対策 - セキュアスカイプラス はじめに この数日、国内で多数の情報漏えいが発生しています。これらの中には仮想化基盤が攻撃されたと思われるランサムウェアやメール経由でマルウェアに感染したものなども含まれていますが、一方で、従来では... tmatsuu 10/19にウェビナー開催。「相次ぐ情報漏えいを受けて、情報システム・IT管理者・Webサイト運営者向け」</description><guid isPermaLink="false">https://securesky-plus.com/security/3700/</guid><pubDate>Sun, 18 Oct 2026 11:57:55 +0000</pubDate></item><item><title>日本サッカー協会 公式アプリに不正アクセス“影響調査中”</title><link>https://news.web.nhk/newsweb/na/nd-20261019de61320</link><description>[score: 0.872] 日本サッカー協会は協会の公式アプリに第三者からの不正なアクセスがあったため、アプリの機能を一部停止し、サービスの一部が使用できない状況になっていると発表しました。
-個人情報などへの影響については調査…
+台風30号 22日ごろ沖縄の南海上に達する予想 今後の情報に注意
+10月18日 19:04
+声や肖像 不正競争防止法の対象として明記検討へ 経済産業省
+10月18日 23:44
+カナダ 軍事基地で火災 少なくとも7人死亡 数十人けがの情報
+10月18日 20:29
+東京 福生 男性刺され死亡 50歳の容疑者を殺人の疑いで逮捕
+10月18日 22:26
+沖縄 辺野古</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261019de61334</guid><pubDate>Sun, 18 Oct 2026 21:34:44 +0000</pubDate></item><item><title>はてなパークスのスレがはてなブックマークで伸びることについてどう思うか - はてなパークス【非公式】 - はてなパークス</title><link>https://p.hatena.ne.jp/p/1539910495903944704/t/1561232912177696768</link><description>[score: 0.887] はてなパークスのスレがはてなブックマークで伸びることについてどう思うか - はてなパークス【非公式】 - はてなパークス はてなパークスのユーザーとかアクセス数が増える上では良いのかもしれないね。 ただ、はてブで目立ったりして参加者が増えるとしょーもない人が増えるのも事実 はてなパークスで何をやりたいのかよく知らんけど、はてなブログとかはてなブックマークとおなじものを作りたいだけなんですかね？ 個人的な感想なのでこうし...</description><guid isPermaLink="false">https://p.hatena.ne.jp/p/1539910495903944704/t/1561232912177696768</guid><pubDate>Sun, 18 Oct 2026 22:34:00 +0000</pubDate></item><item><title>Claudeの脆弱性を暴いたセキュリティ企業創業者が語る「AIの怖さ」。コピペ禁止でも1文字ずつ打って突破</title><link>https://www.businessinsider.jp/article/2610-layerx-ai-agent-security/</link><description>[score: 0.888] 企業では、従業員が業務上、個人情報を閲覧できても、その情報を別の場所に貼り付けることまで認められるとは限らない。
+イスラエルのセキュリティ企業LayerX Securityは、こうした情報漏えい対策（DLP）をAIエージェントにも適用できるか、研究環境で実験した。
+AIエージェントが個人情報を別の場所に貼り付けようとすると、その操作をブロックする仕組みだ。ところが、貼り付けを止められたAIは、同じ内容を1文字ずつ入力する方法に切り替え、操作上の制限をすり抜けた。
+LayerX Security（以下、LayerX）は、日本のスタートアップであるLayerXとは別の会社だ。
+AIを巡るセキュリテ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-layerx-ai-agent-security/</guid><pubDate>Sun, 18 Oct 2026 22:06:18 +0000</pubDate></item><item><title>フランス デモに乗じた暴動“店舗1500以上被害か”小売店団体</title><link>https://news.web.nhk/newsweb/na/nd-20261019de61330</link><description>[score: 0.890] フランスでは17日、大規模なデモに乗じて暴動が起き、小売業の団体のトップは1500以上の店舗が破壊や略奪などの被害を受けたという推計を示しました。
+フランスでは17日、物価高や教育環境をめぐる大規…
+注目ワード
 あわせて読みたい
-フランス 物価高対策など訴え大規模デモ 放火など混乱も広がる
-10月18日 19:12
-米中間選挙 全米各地で期日前投票呼びかける集会
-10月18日 13:30
-世田谷 三軒茶屋 女性はねられ両足大けが 荷物積み下ろし中か
-10月18日 17:24
-消費税減税法案めぐり与野党幹部が議論 NHK日曜討論
-10月18日 12:19
-愛子さま 鳥取で避難所運営考えるカードゲームを体験</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261019de61320</guid><pubDate>Sun, 18 Oct 2026 17:19:45 +0000</pubDate></item><item><title>不正アクセスに気付くのは難しい？ 「通常アクセス」と見分けがつかない場合も（山口健太） - エキスパート - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/expert/articles/ee12ceb9b59c6960ccf3b9bc4a7c991040fb3880</link><description>[score: 0.873] 不正アクセスに気付くのは難しい？ 「通常アクセス」と見分けがつかない場合も（山口健太） - エキスパート - Yahoo!ニュース 最近急増している「不正アクセス」による情報漏洩問題ですが、その中には「通常アクセスと見分けがつかない」事例があるようです。 なぜそんなことが起きているのか、背景を考察しました。 不正アクセスと「通常アクセス」の違いとは「不正アクセス」という言葉からイメージしやすいのは、他人のIDとパスワードを用いた...</description><guid isPermaLink="false">https://news.yahoo.co.jp/expert/articles/ee12ceb9b59c6960ccf3b9bc4a7c991040fb3880</guid><pubDate>Sun, 18 Oct 2026 16:40:20 +0000</pubDate></item><item><title>リーダーシップなき越境は組織を壊す｜TakayukiSaruta</title><link>https://note.com/srt_taka/n/nff6c2d40c11b</link><description>[score: 0.876] リーダーシップなき越境は組織を壊す
-はじめに
-このnoteでは、コミュニケーションの量は多いのに前に進まない組織の正体を、具体化は放っておいても進み、抽象化には意志が必要であるという非対称として説明します。そのうえで、越境がこの非対称を加速させること、Slackがその具体化のコストをゼロにしたこと、そして組織の規模で抽象化を担うリーダーシップについて書きます。
-先に書いておくと、これは誰かへの批判ではありません。マネージャーとして自分が担いきれていなかった仕事についての話です。
-話しているのに、前に進まない
-特定の事案ではなく、どこの組織でも一度は見たことがある、こんな一週間を想像してください</description><guid isPermaLink="false">https://note.com/srt_taka/n/nff6c2d40c11b</guid><pubDate>Sun, 18 Oct 2026 20:39:17 +0000</pubDate></item><item><title>Lambdaが3種類になったみたいなので、全部試してみた</title><link>https://qiita.com/maeda-kazutoshi/items/4674e080c2ce3d53c809?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] 10 月に Lambda Web Functions が出て、6 月の MicroVMs と合わせて、気づいたら Lambda が 3 種類になっていました。これは 3 つとも触ってみたい。
-せっかくなら 3 つ全部に出番があるお題がいいなと思って探してみたら、なぜか手元に大阪のとあるホールの台データがありました。毎朝こつこつ集めていたやつです。
-ということで、このデータにチャットで話しかけたら、AI が分析して答えてくれるものを作ってみました。
-前提
-- 東京リージョン（ap-northeast-1）
-- AWS CLI 2.38.1。最初 2.33 系が入っていて、
-lambda-web
-</description><guid isPermaLink="false">https://qiita.com/maeda-kazutoshi/items/4674e080c2ce3d53c809?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 20:21:52 +0000</pubDate></item><item><title>2026年10月17日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title><link>https://qiita.com/ennagara128/items/ddb56dacfd42bb5d6f28?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] 前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。
-通勤中などにながら聴きしよう！
-（Qiita投稿は通勤には間に合わないと思われますが）
-フィードバックとか助かりますのでください
-↓こちらから
-出典
-AIで作ったらオリジナルじゃないらしい。んなわけあるか。
-https://qiita.com/kentawata/items/c78381bfe83e93e75893?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items
-Jevにウォーリーを探させたら0.4秒で見つけやがった!!
-https</description><guid isPermaLink="false">https://qiita.com/ennagara128/items/ddb56dacfd42bb5d6f28?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 20:21:52 +0000</pubDate></item><item><title>Claude Code の1応答あたりの文脈を476kから115kへ ― handoff → /clear → pickup と「判断役に読ませない」の実測</title><link>https://qiita.com/kotaro_ai_lab/items/7d8a1264b227f2ccef29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] 株式会社Good Labでエンジニアをしている コータロー です。
-日々、Java・SQL・Gitなどの技術情報や、新人エンジニア向けの学習ノウハウ、
-AI活用についての情報を発信しています。
-Good Labについて気になった方は、コーポレートサイトもぜひご覧ください。
-▶コーポレートサイト
-はじめに
-Unity のゲーム開発で、1つのセッションを長く使い続けていました。その頃、利用制限がいつもより早くかかるように感じていました。
-作業は Opus でしていました。Opus は文脈（コンテキスト）を長く保てます。その分、1回の応答で読み込むトークンが大きくなり、余計にトークンを消費しやすい環</description><guid isPermaLink="false">https://qiita.com/kotaro_ai_lab/items/7d8a1264b227f2ccef29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 20:21:52 +0000</pubDate></item><item><title>米国で相次ぐ原発の「出力増強」、AIの電力需要を賄えるか？</title><link>https://www.technologyreview.jp/s/393255/how-much-more-can-nuclear-power-plants-give/</link><description>[score: 0.879] You need to enable JavaScript to run this app.</description><guid isPermaLink="false">https://www.technologyreview.jp/s/393255/how-much-more-can-nuclear-power-plants-give/</guid><pubDate>Sun, 18 Oct 2026 21:05:19 +0000</pubDate></item><item><title>重要な指示は最初か最後か？ AI 大手 3 社の助言が異なるので、資料→命令→指示の並び方を 8 通り試してみた</title><link>https://qiita.com/songchong/items/542892c6d4c569c9c15f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] 長い資料を AI に渡して仕事を頼むとき、守らせたい指示は資料の前に書くべきか、後に書くべきか。Anthropic・Google・OpenAI の 3 社の手引きを読むと、この答えが会社によって異なります。
-そこで IT連携マップ編集部は、資料・命令・指示の 3 つを 8 通りに並べ替えて、4 つのモデルに同じ書き直しを頼む実験をしました。並べ方で点が変わったのは Claude Haiku 5.5 だけだったので、Claude Haiku 5.5 では、プロンプトの前に入る物（ツールの説明・SKILL・CLAUDE.md）を 4 通りに変えて、同じ実験をくり返しました。先に答えを書きます。
--</description><guid isPermaLink="false">https://qiita.com/songchong/items/542892c6d4c569c9c15f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 20:21:52 +0000</pubDate></item><item><title>反対派テント「違法」　古謝知事、実態確認へ | 沖縄八重山日報 -Okinawa Yaeyama Nippo-</title><link>https://www.yaeyama-nippo.co.jp/article/35310</link><description>[score: 0.883] 反対派テント「違法」 古謝知事、実態確認へ | 沖縄八重山日報 -Okinawa Yaeyama Nippo- 古謝玄太知事は17日午後、県庁で報道陣の取材に応じ、辺野古移設に反対する活動家らが設置しているテントについて「法に触れていると思います」と述べた。地元から対応を求める声が上がっていることを受け、管理者と協議し、実態を確認する考えを示した。 同日午前の久辺３区の区長や渡具知武豊名護市長との意見交換では...</description><guid isPermaLink="false">https://www.yaeyama-nippo.co.jp/article/35310</guid><pubDate>Sun, 18 Oct 2026 18:44:21 +0000</pubDate></item><item><title>Gemini4がリリースされて、プロジェクトの運用方法を変えた話</title><link>https://qiita.com/SolitaireEgg/items/820295021d314f050ec1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.887] 先日、Googleから Gemini4 Argon がリリースされて、Google AI Proプランを契約しているユーザーは、Antigravity及び、チャットで、Gemini4が使えるようになりました。これにより、今まで "Gemini3.1 Pro" で行ってきた運用を変える必要がでてきたので、お話したいと思います。
-Geminiサービスの提供状況は日々変わっているのでご注意ください。執筆時点では、Antigravity IDEではGemini4モデルは選択できない状態です。
-従来の運用方法
-Antigravity IDEで、AIエージェントに”やりたいこと”を伝えて、「計画」→「実装</description><guid isPermaLink="false">https://qiita.com/SolitaireEgg/items/820295021d314f050ec1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 20:21:52 +0000</pubDate></item><item><title>「簗前農相の圧力」が検証困難に　国交省「照会記録残さず」と説明</title><link>https://www.47news.jp/15096158.html</link><description>[score: 0.888] 「簗前農相の圧力」が検証困難に 国交省「照会記録残さず」と説明
-2026年10月17日 15時24分
-更迭された簗和生前農相による自治体向け道路予算削減発言を巡り、削減圧力があったかどうか検証が困難になっている。簗氏の問い合わせに対応した国土交通省が照会記録を残していないとしているためだ。公文書管理法に基づくガイドラインは事業の関連文書作成を義務付けるものの「軽微」な事案は除くとしており、同省はこの規定に沿ったと説明。有識者は軽微と言えないと批判する。
-簗氏は5月の自民党支部会合で、衆院選で自らを応援しなかった首長がいる栃木県那須烏山市と那珂川町の道路予算について「大幅にカットした」と発言。2</description><guid isPermaLink="false">https://www.47news.jp/15096158.html</guid><pubDate>Sun, 18 Oct 2026 20:06:07 +0000</pubDate></item><item><title>【2026年版】今日から使える AI との会話術 — Claude・Gemini・Codex に指示を守らせる 6 つの原則</title><link>https://qiita.com/songchong/items/351a939e2e1b673c2929?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] はじめに：AI が指示を守らないのは、なぜか
-- 「指示したはずのルールを、AI が途中で守らなくなる」
-- 「細かい条件をたくさん渡したのに、半分も守ってくれない」
-- 「会話を続けていたら、トークンが急に増えて、使用量制限に達してしまった」
-Claude Code・Codex・Antigravity の CLI といった AI エージェントを仕事で使うと、こうした壁に当たります。AI が指示を守らない原因は、指示の文面だけではありません。指示を書く場所、資料との並べ方、指示の数、会話の長さでも、守られ方は変わります。
-IT連携マップ編集部は 2026 年 10 月 18 日に、この 3 つ</description><guid isPermaLink="false">https://qiita.com/songchong/items/351a939e2e1b673c2929?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 20:21:52 +0000</pubDate></item><item><title>Next.js + microCMS + Vercel でポートフォリオサイトを作った記録</title><link>https://qiita.com/mikanorm39/items/9af2a81651d6c5acb201?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] はじめに
-自分の作品や経歴をまとめるポートフォリオサイトを、Next.js・microCMS・Vercel で作って、独自ドメインで公開しました。
-この記事では、サイトを作る中で使った技術や、どんな流れで進めたか、どこでつまずいたかを中心に振り返ってみます。
-技術構成
-使ったものはこんな感じです。
-| 役割 | 使ったもの |
-|---|---|
-| フレームワーク | Next.js（App Router）、React、TypeScript |
-| コンテンツ管理 | microCMS（microcms-js-sdk） |
-| ホスティング | Vercel（Hobby プラン） |
-| ソ</description><guid isPermaLink="false">https://qiita.com/mikanorm39/items/9af2a81651d6c5acb201?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 20:21:52 +0000</pubDate></item><item><title>最近仕事で心がけていること</title><link>https://qiita.com/scythercas/items/2195b93fd942409580b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.893] 作業効率に関するもの、人間関係に関するものなど雑多に書いた。
-言語化により定着させたい。
-記事を通して他の方々の意見をお聞きしたい。
-そんな期待で、いち若手社員の僕が最近心がけていることをまとめた。
-想定読者は特にいないが、読んだ方が何か考えるキッカケになれば嬉しい。
-1. 経緯や意図などの周辺情報を作業中に文字に残す
-何かの方針として、
-パッと見で効率的なA案・B案の2択の代わりに
-やむを得ない理由で効率の悪いC案を採用することがある。
-ところが担当者が代わると、
-その理由を知らないためにC案の効率の悪さを改善しようとA案やB案に変更しようとする。
-しかし、いざやってみると
-- A案は工程の</description><guid isPermaLink="false">https://qiita.com/scythercas/items/2195b93fd942409580b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 20:21:52 +0000</pubDate></item><item><title>Claude Codeの.envを読ませない設定がどこまで効くのか試してみた</title><link>https://qiita.com/yakumo_09/items/5a86ca330b449db0e6bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.894] はじめに
-Claude Codeには、permissions.deny
-で .env
-を読ませない設定があります。ただ、公式ドキュメントを読むと「止まらないケースもある」と書いてあるんですよね。
-じゃあ実際どこまで止まるのか、偽物のキーを置いて48回試してみました。
-手元のMacを見てみた
-試す前に、自分のMacの状態を確認しました。.env
-の中身は開かず、ファイル名と設定だけ見ています。
-- 平文の
-.env
-が6個ある - Claude Codeの設定（
-~/.claude/settings.json
-）に、.env
-の deny は書いていない - 1PasswordのCLI（
-op
-</description><guid isPermaLink="false">https://qiita.com/yakumo_09/items/5a86ca330b449db0e6bc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 20:21:52 +0000</pubDate></item><item><title>相次ぐサイバー攻撃、ゲーム業界にも波及？「ゲオオンライン」で不正アクセス確認、新規注文停止など影響広がる | Game*Spark - 国内・海外ゲーム情報サイト</title><link>https://www.gamespark.jp/article/2026/10/18/173749.html</link><description>[score: 0.901] ゲオおよび親会社のセカンドリテイリング（旧・ゲオホールディングス）は10月17日、社内システムへの不正アクセスを確認したことに伴い、「ゲオオンライン」をはじめとする各種アプリ・Webサービスの一時停止およびシステムメンテナンスを開始しました。
-今回の措置は、2026年10月15日に社内システムにおいて第三者による不正アクセスが確認されたことを受けたものです。不正アクセスの確認後、必要なセキュリティ対策が講じられており、二次被害を防止するため10月17日21時00分より緊急のシステムメンテナンスが実施されています。
-メンテナンスの終了時期は記事執筆時点で未定となっており、外部のセキュリティ専門機</description><guid isPermaLink="false">https://www.gamespark.jp/article/2026/10/18/173749.html</guid><pubDate>Sun, 18 Oct 2026 20:15:45 +0000</pubDate></item><item><title>Claude Code にコードではなく「運用」を任せる：CLAUDE.md を契約書にし、SessionStart フックとスキルで人間の作業を「貼る・押す・報告する」に絞った構成（MIT の雛形つき）</title><link>https://qiita.com/kaiyaku_iyada/items/0577951c9f085450ed35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.903] この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。確かめたことと確かめていないことは「動作確認環境」の節に分けて書きました。Anthropic社とは無関係の個人の実験で、同社の公認や提携ではありません。
-この記事で扱うこと
-Claude Code に、コードではなくプロジェクトの「運用」を任せる構成の話です。計画を読む、台帳をつける、今日やることを決める、人間への指示書を出す。人間がやるのは貼る・押す・報告する。そのために CLAUDE.md・SessionStart フック・スキルをどう書いたかを解説します。最小構成は </description><guid isPermaLink="false">https://qiita.com/kaiyaku_iyada/items/0577951c9f085450ed35?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 20:21:52 +0000</pubDate></item><item><title>hook で Claude Code に .env や鍵ファイルを消させない</title><link>https://qiita.com/Oskra/items/da16b717fc931a6423e6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.904] この記事で分かること
-- AI に「このファイルは消さないで」と設定しても、コマンドの書き方しだいですり抜けること
-- 反対に、消してよいファイルまで止めてしまうこと
-- すり抜けを止める小さなプログラム（hook）の作り方。111 行の全文を載せます
-- それでも止められない操作と、そのときの考え方
-想定読者
-- Claude Code にコマンドを任せていて、
-.env
-や鍵ファイルが心配な人 - 「消すな」の設定を書いたけれど、本当に効くか不安な人
-settings.json
-を書いたことがあれば読めます。
-検証環境
-2026-10-17 に、次の環境で動かしました。
-| 項目 | 値 </description><guid isPermaLink="false">https://qiita.com/Oskra/items/da16b717fc931a6423e6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 20:21:52 +0000</pubDate></item><item><title>『コミックシーモア』サービス再開の見通し立たず「正確な再開日時をお伝えすることが困難な状況です」（オリコン） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/df7e374ecdb58831f4b5f497fdcf5407c9af4e36</link><description>[score: 0.907] 『コミックシーモア』サービス再開の見通し立たず「正確な再開日時をお伝えすることが困難な状況です」（オリコン） - Yahoo!ニュース 『コミックシーモア』（オリコン） 一時サービスを停止中の電子コミックサイト『コミックシーモア』は18日、サービス再開の見通しが立たないことを報告した。第三者による不正アクセスが行われ、一部顧客の会員情報が流出したことを受け、15日からサービスを一時停止している。 【Xより】会員情報が流失！『コミックシ...</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/df7e374ecdb58831f4b5f497fdcf5407c9af4e36</guid><pubDate>Sun, 18 Oct 2026 16:18:24 +0000</pubDate></item></channel></rss>
+カナダ 軍事基地で火災 少なくとも7人死亡 数十人けがの情報
+10月18日 20:29
+米カンザス州 子どものサッカー試合会場に車突っ込み2人死亡
+10月18日 11:41
+パレスチナでユダヤ人入植者が欧州外交官を襲撃と報道
+10月18日 7:52
+インド ヒンドゥー教の祭典で大勢の人倒れ少なくとも17人死亡
+10月18日 8:02
+インドネシア森林火災 煙が周辺国へ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261019de61330</guid><pubDate>Sun, 18 Oct 2026 21:34:44 +0000</pubDate></item><item><title>ロシア第2の都市にウクライナの攻撃 石油関連施設などに被害</title><link>https://news.web.nhk/newsweb/na/nd-20261019de61332</link><description>[score: 0.896] ウクライナへの軍事侵攻を続けるロシアで、第2の都市サンクトペテルブルクや隣接する州にウクライナによる無人機での大規模な攻撃があり、1人が死亡したほか、石油関連施設や大手通販会社の物流施設などに被害が出…
+あわせて読みたい
+カナダ 軍事基地で火災 少なくとも7人死亡 数十人けがの情報
+10月18日 20:29
+米カンザス州 子どものサッカー試合会場に車突っ込み2人死亡
+10月18日 11:41
+パレスチナでユダヤ人入植者が欧州外交官を襲撃と報道
+10月18日 7:52
+インド ヒンドゥー教の祭典で大勢の人倒れ少なくとも17人死亡
+10月18日 8:02
+インドネシア森林火災 煙が周辺国へ拡散し影</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261019de61332</guid><pubDate>Sun, 18 Oct 2026 21:34:44 +0000</pubDate></item><item><title>非常に強い台風30号 週半ば以降 沖縄・奄美に影響のおそれ</title><link>https://news.web.nhk/newsweb/na/nd-20261019de61331</link><description>[score: 0.903] 大型で非常に強い台風30号は、日本のはるか南の海上を西寄りに進んでいます。 今月22日の木曜日ごろには沖縄の南の海上に達すると予想されていますが、その後の進路の予測は定まっておらず、気象庁は今後の情報…
+あわせて読みたい
+台風30号 22日ごろ沖縄の南海上に達する予想 今後の情報に注意
+10月18日 19:04
+声や肖像 不正競争防止法の対象として明記検討へ 経済産業省
+10月18日 23:44
+カナダ 軍事基地で火災 少なくとも7人死亡 数十人けがの情報
+10月18日 20:29
+東京 福生 男性刺され死亡 50歳の容疑者を殺人の疑いで逮捕
+10月18日 22:26
+沖縄 辺野古沖事故の遺族</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261019de61331</guid><pubDate>Sun, 18 Oct 2026 21:34:44 +0000</pubDate></item><item><title>法律事務所、AIツール導入から独自の知識を生かすシステム構築へ</title><link>https://www.businessinsider.jp/article/2610law-firms-building-ai-based-on-their-own-data-expertise/</link><description>[score: 0.910] 長年にわたり、法律事務所にとって最も価値のある資産は、毎晩、事務所を出ていってしまうものだった。
+それは、何年も前に取引を救った条項を覚えている弁護士だった。裁判官にどの主張が通用し、どの主張が通用しないかを知る訴訟弁護士だった。アソシエイトに「これは以前にも経験したことがある」と伝えるパートナーだった。
+今、法律事務所は、その専門知識をソフトウェア化しようと競うように取り組んでいる。
+過去2年間にわたり、オープンAI（OpenAI）、ハーヴィー（Harvey）、マイクロソフト（Microsoft）、レゴラ（Legora）などが提供するツールを導入してきた大手法律事務所は、今、さらに価値のある</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610law-firms-building-ai-based-on-their-own-data-expertise/</guid><pubDate>Sun, 18 Oct 2026 22:06:18 +0000</pubDate></item><item><title>AIのおすすめ商品、そのまま買う？ 回答だけで購入する人は2割未満【MERY調べ】</title><link>https://webtan.impress.co.jp/n/2026/10/19/53454</link><description>[score: 0.910] AIのおすすめ商品、そのまま買う？ 回答だけで購入する人は2割未満【MERY調べ】 Z世代女性は購入前にSNSや店頭で確認。コスメや服選びもAIに相談。 imai-f 2026年10月19日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 MERYは、生成AIと購買行動に関するアンケート調査を実施した。全国の15～30歳の女性を対象に、商品選びにおけるAIチャットの活用方法などを聞いている。 関連記事 生成AI利用率、高校生・大学生が8割超！ 社会人は5割台にとどまる【サイバーエージェント調べ】 最新調査で生成AIの信頼度がSNSを上回る【日本ダイレクトマーケティング学会</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/10/19/53454</guid><pubDate>Sun, 18 Oct 2026 22:01:22 +0000</pubDate></item><item><title>それでもAI開発を一時停止しないのはなぜか？</title><link>https://wired.jp/article/sz-if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/</link><description>[score: 0.914] 2025年初頭のインタビューで、Anthropicの最高経営責任者（CEO）であるダリオ・アモデイは、人工知能（AI）が破滅的な結果をもたらしうると同社が繰り返し認めてきたにもかかわらず、なぜ人々はさほど動揺していないのかについて語った。
+「モデルが大惨事を引き起こしうるという有力な証拠があります」とアモデイは語った。だがそうした危険は、あくまで理論上のものにとどまっているとも付け加えた。世界がその深刻な可能性に目を覚ますには、真珠湾攻撃のような事態が必要になるということだろうか？ 彼はため息をついてこう言った。「まあ、そうですね」
+だが実際には、Anthropicの若手社員によるタイミングの</description><guid isPermaLink="false">https://wired.jp/article/sz-if-the-ai-industry-followed-its-own-research-it-might-have-paused-already/</guid><pubDate>Sun, 18 Oct 2026 22:16:29 +0000</pubDate></item></channel></rss>
