@@ -1,156 +1,130 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 17 Oct 2026 22:48:20 +0000</lastBuildDate><item><title>日本全国の区市町村の歴史を時系列で網羅した「ローカルヒストリア」が夜ふかししても見てしまうくらいに面白い「ウチってこんな歴史なんだ」「まだ準備中！？」</title><link>https://togetter.com/li/2759373</link><description>[score: 0.861] これはすごい
-これすごい 日本中の都道府県、そして市町村を網羅してるのかな 自分の住んでる地域の歴史をこんなに深く知ったの初めて x.com/0arno5/status/…
-2026-10-17 15:28:13わーすごい、こちら！ 史実も細かい、今昔マップみたいなのもある、スライドで昔↔︎今を操作できるの、今昔マップより見やすいのかも。地図の年代が選べないのかもしれないけど！(あちこちの地域は覗いてないから未確認) x.com/0arno5/status/…
-2026-10-17 14:42:19すごい、地図ともリンクしてるし細かい解説もあって読み応えがある。 田舎の何もないと思ってた故郷に</description><guid isPermaLink="false">https://togetter.com/li/2759373</guid><pubDate>Sat, 17 Oct 2026 21:32:21 +0000</pubDate></item><item><title>インドネシア森林火災 煙が周辺国へ拡散し影響広がる</title><link>https://news.web.nhk/newsweb/na/nd-20261017de61042</link><description>[score: 0.861] インドネシアの森林などで続く大規模な火災の煙が、マレーシアをはじめ周辺の国にまで広がり、学校が休みになるなど影響が出ています。
-インドネシアではことし、森林や泥炭地などで火災が相次いでいて、現在も…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 18 Oct 2026 10:07:41 +0000</lastBuildDate><item><title>パスキーは破られていない。破られたのは鍵を預けた金庫だ ── Apple・Googleアカウント経由の証券口座乗っ取り事件</title><link>https://www.kabutec.jp/blog/?p=903</link><description>[score: 0.871] パスキーは破られていない。破られたのは鍵を預けた金庫だ ── Apple・Googleアカウント経由の証券口座乗っ取り
+2026年9月25日時点の公表情報・報道に基づく。被害件数や侵入手口の詳細は未公表であり、今後の続報で内容が変わる可能性がある。
+結論：今回の事案は「パスキーという技術が破られた」のではない。証券口座のパスキーやパスワードを保管していたAppleやGoogleのアカウントそのものが乗っ取られ、そこから鍵が持ち出されたとみられる。攻撃側は、防御が厚くなった証券会社の正面を避け、鍵の保管庫という側面に重心を移した。投資家が守るべき範囲は、証券口座から「スマホにひも付いたクラウドア</description><guid isPermaLink="false">https://www.kabutec.jp/blog/?p=903</guid><pubDate>Sun, 18 Oct 2026 08:00:18 +0000</pubDate></item><item><title>緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった - LayerX エンジニアブログ</title><link>https://tech.layerx.co.jp/entry/2026/09/18/185816</link><description>[score: 0.872] 緊急で社内Jev勉強会を開催したらアイデアがバンバン出て頭が柔らかくなった - LayerX エンジニアブログ こんにちは。バクラク事業部でエンジニアをしているpon)です。 社内で TypeSafe AI の Jev を題材にした勉強会を開催し、社内のエンジニアが50人以上参加してくれました！ 30分の短い会でしたが、終わってみると... Cherenkov</description><guid isPermaLink="false">https://tech.layerx.co.jp/entry/2026/09/18/185816</guid><pubDate>Sun, 18 Oct 2026 08:00:18 +0000</pubDate></item><item><title>フレームワークが動くのを待つな、FSDPを書け — リリース8日後に397B MoEを学習した基盤を全公開</title><link>https://qiita.com/katsuki_ono/items/e656aa1c7e7d70f4a1cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.873] はじめに：フレームワークが動けば、たしかに簡単。動けば。
+LLMのファインチューニングというと、verl・ms-swift・axolotl・DeepSpeedといった学習フレームワークを使うのが定石とされています。
+しかし、日本の共有計算資源（Slurmクラスタ、固定されたドライバ・CUDAバージョン、root権限なし、ノード構成や台数がフレームワークの想定と違う環境）では、この定石が成立しないことが珍しくありません。リリースから時間が経った既存モデルですら、フレームワーク側の依存関係やクラスタとの相性問題を解決する作業が、学習そのものより重くなることがあります。
+具体例を挙げます。私が評価し</description><guid isPermaLink="false">https://qiita.com/katsuki_ono/items/e656aa1c7e7d70f4a1cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 08:47:12 +0000</pubDate></item><item><title>AI開発「減速論」の本質：企業経営者が今考えるべきこと</title><link>https://forbesjapan.com/articles/detail/106801?s=ns</link><description>[score: 0.873] 最近、Anthropicのダリオ・アモデイCEOは、モデル開発のスピードに伴うリスクを理由に、AIモデルベンダーに「スピードを緩める」よう提案した。ほぼ同時に、OpenAIのサム・アルトマンとイーロン・マスクの双方が支持を表明した。この一連の流れを契機に、政府や他の著名な技術リーダーたちも意見を述べるようになり、現在ではAIの安全性に関する活発な議論へと発展している。昨日、米政権は新たな「AI特使（AI Czar）」を指名し、AIのリスクと機会を評価するタスクフォースの主導を命じた。これは、先週主要なAI企業のリーダーたちが署名した自発的な安全性協定に続くものだ。この一連の動きは、まだ当分終わ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106801?s=ns</guid><pubDate>Sat, 17 Oct 2026 22:58:16 +0000</pubDate></item><item><title>AIによるProof of Workの終わりと「なぜベストを尽くしたのか」のこれから - Write and Run</title><link>https://diary.hatenablog.jp/entry/2026/10/17/191528</link><description>[score: 0.873] AIによるProof of Workの終わりと「なぜベストを尽くしたのか」のこれから - Write and Run 今年に入ってからというもの、私の YouTube での活動は大きく減ってほぼゼロになった。年始に TCP/IP スタックを24時間で作ったあと、ほとんど更新していない。これには2つの理由がある。1つは仕事が忙しいためであり、もう1つは仕事の方が楽しいためである。 AI の登場により、正しいことを十分に行うコストが激減した...</description><guid isPermaLink="false">https://diary.hatenablog.jp/entry/2026/10/17/191528</guid><pubDate>Sun, 18 Oct 2026 08:09:22 +0000</pubDate></item><item><title>「AI以外ありえない」サイバー攻撃、無差別に会員情報サイト狙う - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOCD158220V11C26A0000000/</link><description>[score: 0.874] 「AI以外ありえない」サイバー攻撃、無差別に会員情報サイト狙う - 日本経済新聞 サイバー攻撃による個人情報の流出が連日報じられ、異常とも言える状況に専門家は調査を続けている。見えてきたのが、これまで攻撃者が見向きもしなかった組織まで片っ端から狙われ、安全と思われたスマートフォ... misshiki %E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3 会員情報サイトへの攻撃が無差別に広がり、従来狙われなかった組織やスマホアプリにも被害。被害企業の技術者は「人でもない、ツールでもない何か」による攻撃と表現し、専門家が調査を続けている。</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOCD158220V11C26A0000000/</guid><pubDate>Sun, 18 Oct 2026 07:00:13 +0000</pubDate></item><item><title>GitHub、プルリクエスト向け「AI Scan」を一般提供</title><link>https://codezine.jp/news/detail/30045</link><description>[score: 0.874] GitHub、プルリクエスト向け「AI Scan」を一般提供 GitHubは10月15日（現地時間）、コードスキャンの「AI Scan for pull requests」の一般提供を開始した。同機能は、CodeQLを補完するもの。PHP、Shell/Bash、Terraform構成（HCL）、Dockerfile、Java向けJSP、C#向けBlazorなど、CodeQLが現在対応していない言語やフレームワークを対象に、プルリクエストの変更から脆弱性...</description><guid isPermaLink="false">https://codezine.jp/news/detail/30045</guid><pubDate>Sun, 18 Oct 2026 09:10:35 +0000</pubDate></item><item><title>「銀のさら」など、最大650万件の個人情報漏えいの恐れ　アプリ注文も停止中　委託先サーバがランサム被害に</title><link>https://www.itmedia.co.jp/news/article/2610/13/2000002232/</link><description>[score: 0.875] 「銀のさら」など、最大650万件の個人情報漏えいの恐れ アプリ注文も停止中 委託先サーバがランサム被害に
+宅配すし「銀のさら」などを展開するライドオンエクスプレスホールディングスは10月13日、「銀のさら」「釜寅」「すし上等」の公式サイト・公式アプリに登録された個人情報が、最大約650万件漏えいした可能性があると発表した。7日に公表したサイト・アプリの停止に関する続報で、登録情報を保管していた外部サーバがサイバー攻撃を受けたという。
+漏えいの可能性がある情報は、氏名、住所、電話番号、メールアドレス、性別、生年月日、パスワードのハッシュ値、注文履歴、デリポイント会員ID（3ブランド共通のポイント</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/13/2000002232/</guid><pubDate>Sun, 18 Oct 2026 09:56:05 +0000</pubDate></item><item><title>ClaudeにiOSシミュレーターのスクリーンショットを読ませるのをやめて、操作で増えるコンテキストを43%削減した</title><link>https://zenn.dev/eai/articles/dont-let-agents-see-the-ios-sim-screen</link><description>[score: 0.875] Claude CodeのデスクトップアプリにはiOSシミュレーターを操作するツールがある。個人で作っているiOS向けのMastodonクライアントでは、このツールで実装のたびに画面を確かめさせていた。 しかし、Claudeのコンテキストの大半がスクリーンショットで埋まっているような気がしていた。 そこで、過去のセッションのログ99件を集計して非効率な操作を洗い出し、画面を画像ではなく文字で読む道具を足した。 同じ4つの作業を旧来のやり方と新しいやり方で3回ずつClaudeにやらせて比べた結果は次のとおりである（どれも中央値の和）。 4つの作業の合計 旧来のやり方 新しいやり方 差 ...</description><guid isPermaLink="false">https://zenn.dev/eai/articles/dont-let-agents-see-the-ios-sim-screen</guid><pubDate>Sun, 18 Oct 2026 05:23:08 +0000</pubDate></item><item><title>VS Codeの更新を月1回振り返る[第1回：週次リリース開始から2026年10月まで]</title><link>https://qiita.com/pmc-ko/items/eae66c6623b26e3c30cc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.876] はじめに
+VS Code を起動すると、また更新の通知が来ています。
+週次リリースで改善が早く届くのはよいのですが、今週はパッチの多さに「また更新か……」となってしまいました。
+週に1回の機能更新を追うつもりでも、その後に修正が続くと、何が変わったのかを追い切れません。
+リリースノートを開いてみても情報量が多く、「結局、自分の開発に関係するのはどこ？」となりがちです。
+そこで、今後は月1回くらいのペースで、VS Code の変更を振り返っていこうと思います。
+初回は、週次リリースが始まってからの主な変更をまとめて追いかけます。
+「新機能で何ができるようになったか」と「パッチで何が直ったか」を分</description><guid isPermaLink="false">https://qiita.com/pmc-ko/items/eae66c6623b26e3c30cc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 08:47:12 +0000</pubDate></item><item><title>愛子さま 鳥取で倉吉白壁土蔵群を視察</title><link>https://news.web.nhk/newsweb/na/nd-20261018de61215</link><description>[score: 0.877] 鳥取県を訪問している天皇皇后両陛下の長女の愛子さまは、10年前に鳥取県中部で発生した地震で被害を受けた倉吉市の観光名所、「白壁土蔵群」を訪ねられました。
+防災推進国民大会出席のため、17日から鳥取…
 あわせて読みたい
-非常に強い台風30号 急速に発達 来週後半に沖縄南海上の予想
-10月17日 19:05
-茨城 ひたちなか 男女2人が海で溺れ死亡
-10月18日 2:49
-奨学金受給の高校生 約2割が進学断念や変更を検討 物価高影響
-10月17日 18:23
-スカイチケット運営会社 クレカ情報も最大6000人余流出
-10月17日 11:58
-靖国神社秋の例大祭 高市首相が「真榊」 城内成長戦略相ら</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261017de61042</guid><pubDate>Sat, 17 Oct 2026 16:18:26 +0000</pubDate></item><item><title>折りたためない“横ワイド”画面なHuawei「Pura X View」</title><link>https://www.itmedia.co.jp/mobile/articles/2610/18/news001.html</link><description>[score: 0.861] Apple「iPhone Duo」の発表を受け、先行するSamsungの「Galaxy Z Fold8」など、本体を開くと横にワイドサイズになる中型クラスの折りたたみスマートフォンが注目を集めています。
-このサイズの製品はHuaweiが2026年4月に「Pura X Max」を発売して先行していました。そのHuaweiが、今度は横ワイド型をそのまま1枚のディスプレイにしたモデル「Pura X View」を発売しました。
-Pura X Viewのディスプレイサイズは6.39型で、iPhone Duoの7.7型よりは一回り小型です。カメラは2億画素広角に、5000万画素の3.7倍望遠、800万画素</description><guid isPermaLink="false">https://www.itmedia.co.jp/mobile/articles/2610/18/news001.html</guid><pubDate>Sat, 17 Oct 2026 22:09:16 +0000</pubDate></item><item><title>会社が自分を超えて成長したとき、リーダーに必要なもの</title><link>https://forbesjapan.com/articles/detail/106796?s=ns</link><description>[score: 0.863] 8店舗目か9店舗目に差しかかったころ、私は従業員の名前がわからなくなっていることに気づいた。それは、自分で思っていた以上に気がかりだった。何年もの間、私はサービスレーンに足を踏み入れ、何人かと握手を交わせば、レポートを1枚も見なくても10分以内にその店舗の状況を把握できる人間だった。誰の子どもが大学に入ったばかりか、誰の妻が病気なのかも知っていた。それが私のリーダーシップのあり方だった。そしてそれは、通用しなくなるまでは機能していた。
-問題は、私が関心を失ったことではなかった。問題は数字だった。8州にまたがる40拠点すべてに顔を出すことはできない。しばらくは、飛行機で各地を行き来し、ゼネラルマ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106796?s=ns</guid><pubDate>Sat, 17 Oct 2026 22:30:18 +0000</pubDate></item><item><title>【すごいHaskellたのしく学ぼう!】を読んだ</title><link>https://qiita.com/sigma_devsecops/items/1d1190050012a058f1fb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.865] では素晴らしい提案をしよう
-お前も、Haskellerにならないか?
-杏寿郎、なぜお前が至高の領域に踏み入れないのか教えてやろう
-人間だからだ、(コードが)老いるからだ、死ぬからだ
-Haskellerになろう、杏寿郎
-そうすれば100年でも200年でもコードを書き続けられる、強くなれる
-これは何?
-これを読んだ感想文。
-Amazon以外の入手方法
-自分はpdfが良かったのでAmazonではなく、こちらで購入した。
-英語が読める人は以下で無料で読める
-全体を通しての感想
-界隈では良書として知られており、Haskellについては本書だけ読んだことがあるみたいな人に結構出会うなとは思ってはいたが、想</description><guid isPermaLink="false">https://qiita.com/sigma_devsecops/items/1d1190050012a058f1fb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 17 Oct 2026 20:12:41 +0000</pubDate></item><item><title>事業をスケールさせるために本当に必要なこと</title><link>https://forbesjapan.com/articles/detail/106797?s=ns</link><description>[score: 0.865] 注文は絶え間なく入ってきたが、現場のオペレーションが追いつかなかった。経営陣は新しい設備の導入を承認し、シフトを1つ増やし、主要資材の在庫を積み増した。これらの投資は効果を上げ、現場の生産量は大幅に増加した。
-だが、顧客がその恩恵を受けることはなく、企業の最終利益も増えなかった。
-同社は最大の生産ボトルネックを取り除くことには成功した。ところが残念ながら、そしてある程度予想された通り、数週間のうちに新たなボトルネックが生じた。エンジニアリング部門は図面を十分な速さでリリースできなかった。サプライヤーは改定されたスケジュールへの対応に苦慮した。品質チームは検査と不適合報告に追われた。完成品は積み</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106797?s=ns</guid><pubDate>Sat, 17 Oct 2026 22:30:18 +0000</pubDate></item><item><title>「これ、署名記事だよね？何のことですかこれ？」片山財務相、日経記者を「激詰め」　G20報道で対立、日経側も回答</title><link>https://www.j-cast.com/2026/10/16518530.html?p=all</link><description>[score: 0.866] 「これ、署名記事だよね？何のことですかこれ？」片山財務相、日経記者を「激詰め」 G20報道で対立、日経側も回答 G20財務大臣・中央銀行総裁会議に参加していた片山さつき財務相が日本経済新聞に対し、2026年10月15日に同社が公開した記事について、「事前協議があった」などとする内容を否定する様子の動画が拡散されている。 日経新聞は「取材に基づき報じております」と見解を明らかにした。 「日経さんの記事を否定したいんですけ...</description><guid isPermaLink="false">https://www.j-cast.com/2026/10/16518530.html?p=all</guid><pubDate>Sat, 17 Oct 2026 19:41:31 +0000</pubDate></item><item><title>Figma MCP + Claude Code: Give It Your Real Layout, Variables, and Components</title><link>https://dev.to/juholee/figma-mcp-claude-code-give-it-your-real-layout-variables-and-components-497m</link><description>[score: 0.866] Paste a screenshot of a Figma frame into Claude Code and you get something that looks close: hard-coded hex colors, guessed spacing, a brand-new button component when your repo already has three. The model is reading pixels, so it can’t see your variables, your components, or how the layout is suppo</description><guid isPermaLink="false">https://dev.to/juholee/figma-mcp-claude-code-give-it-your-real-layout-variables-and-components-497m</guid><pubDate>Sat, 17 Oct 2026 21:26:59 +0000</pubDate></item><item><title>野心的なリーダーが自らのキャリアを台無しにする「3つの落とし穴」</title><link>https://forbesjapan.com/articles/detail/106794?s=ns</link><description>[score: 0.869] 野心は悪く言われがちだ。だが現実には、出世を目指して努力することに何の問題もない。
-筆者はシニアリーダーのコーチングに携わっているが、彼らに野心が不足しているケースはほとんどない。彼らは一般的に、困難な課題の達成を好む優秀な人材だ。より大きな責任や影響力を求め、自身のキャリアがステップアップし続けることを望んでいる。
-しかし皮肉なことに、多くのリーダーは自身のキャリアアップに集中すればするほど、かえって自らの足を引っ張ってしまう。もはや役に立たない行動パターンに依存し続ける者もいれば、自分の判断力を過信する者もいる。そして、多忙を極める中で部下にとって何が重要かを見失ってしまう者もいる。
-優秀</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106794?s=ns</guid><pubDate>Sat, 17 Oct 2026 22:30:18 +0000</pubDate></item><item><title>銅製の電源ケーブル50m盗難か 国交省の水位観測所で 宮城 大崎</title><link>https://news.web.nhk/newsweb/na/nd-20261018de61061</link><description>[score: 0.870] 宮城県大崎市のダムの下流にある国土交通省の水位観測所で、銅製の電源ケーブルがおよそ50メートルにわたって切断されてなくなっていることが分かり、国土交通省は盗まれたとみて警察に被害届を出すことにしていま…
+フランス 物価高対策など訴え大規模デモ 放火など混乱も広がる
+10月18日 17:15
+米中間選挙 全米各地で期日前投票呼びかける集会
+10月18日 13:30
+世田谷 三軒茶屋 女性はねられ両足大けが 荷物積み下ろし中か
+10月18日 17:24
+消費税減税法案めぐり与野党幹部が議論 NHK日曜討論
+10月18日 12:19
+愛子さま 鳥取で避難所運営考えるカードゲームを体験
+</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261018de61215</guid><pubDate>Sun, 18 Oct 2026 09:36:17 +0000</pubDate></item><item><title>件数が少ないうちは眠る安全装置が、32日目に目を覚ました 〜Claude Codeと作った「実測勝率ゲート」と、ラベルと実装の食い違い〜</title><link>https://qiita.com/charge0315/items/9a4f9d6a373a18e0cd13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] みなさん、こんにちは！
+「ALPHA FORGE 開発秘話」の第26話です。
+9月11日に入れた安全装置が、32日間ずっと眠っていました。目を覚ましたのは10月13日の朝。短期の候補8件を、1件残らず止めました🧱
+しかも、止めた理由の数字を確かめ直していたら、もう1つ「あれ？」が見つかります。
+日本株のAI銘柄スクリーニング＆継続学習端末「ALPHA FORGE（アルファフォージ）」を、Claude Code と二人三脚で個人開発しています。今回は【事件簿】回。AIと一緒に作った安全装置が、設計どおりに動いた日の話です。
+【要約：この記事で伝えたいこと】
+- 初日に入れた「実測勝率のゲート」は</description><guid isPermaLink="false">https://qiita.com/charge0315/items/9a4f9d6a373a18e0cd13?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 08:47:12 +0000</pubDate></item><item><title>報道官退任 “中間選挙控え重要な広報ポスト空席に” 米NBC</title><link>https://news.web.nhk/newsweb/na/nd-20261018de61125</link><description>[score: 0.877] ホワイトハウスの報道官の職を就任からわずか5日で退いたザカリア氏は16日、SNSにトランプ大統領と写った写真とともに「大統領のために働くことができて光栄だった」などと投稿しました。
+アメリカのNB…
 あわせて読みたい
-愛媛 西条まつり 太鼓台の下敷きで担ぎ手の西条市副市長が死亡
-10月18日 7:10
-非常に強い台風30号 急速に発達 来週後半に沖縄南海上の予想
-10月17日 19:05
-茨城 ひたちなか 男女2人が海で溺れ死亡
-10月18日 2:49
-奨学金受給の高校生 約2割が進学断念や変更を検討 物価高影響
-10月17日 18:23
-靖国神社秋の例大祭 高市首相が「真榊」 城内成長戦</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261018de61061</guid><pubDate>Sat, 17 Oct 2026 20:13:09 +0000</pubDate></item><item><title>東京 調布の道路陥没から6年 補修8割終わるも完了のめど立たず</title><link>https://news.web.nhk/newsweb/na/nd-20261017de61038</link><description>[score: 0.874] 東京 調布市の住宅街で、「東京外かく環状道路」のトンネル工事を原因とする道路の陥没が見つかってから、18日で6年です。地盤の補修はおよそ8割の範囲で終わりましたが、当初の予定より遅れていて、完了のめど…
+米中間選挙 全米各地で期日前投票呼びかける集会
+10月18日 13:30
+米カンザス州 子どものサッカー試合会場に車突っ込み2人死亡
+10月18日 11:41
+パレスチナでユダヤ人入植者が欧州外交官を襲撃と報道
+10月18日 7:52
+インド ヒンドゥー教の祭典で大勢の人倒れ少なくとも17人死亡
+10月18日 8:02
+インドネシア森林火災 煙が周辺国へ拡散し影響広がる
+10月1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261018de61125</guid><pubDate>Sun, 18 Oct 2026 06:09:13 +0000</pubDate></item><item><title>米中間選挙 全米各地で期日前投票呼びかける集会</title><link>https://news.web.nhk/newsweb/na/nd-20261018de61089</link><description>[score: 0.877] アメリカの中間選挙まで2週間あまりとなる中、17日、トランプ大統領を批判する団体が期日前投票を呼びかける集会などをアメリカ各地で一斉に行いました。
+アメリカの中間選挙は4年ごとの大統領選挙の中間の…
 あわせて読みたい
-非常に強い台風30号 急速に発達 来週後半に沖縄南海上の予想
-10月17日 19:05
-茨城 ひたちなか 男女2人が海で溺れ死亡
-10月18日 2:49
-奨学金受給の高校生 約2割が進学断念や変更を検討 物価高影響
-10月17日 18:23
-スカイチケット運営会社 クレカ情報も最大6000人余流出
-10月17日 11:58
-靖国神社秋の例大祭 高市首相が「真榊」 城内成長戦略</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261017de61038</guid><pubDate>Sat, 17 Oct 2026 20:13:09 +0000</pubDate></item><item><title>どの州で司法試験に合格したか問われ、米大統領報道官「中国に移住したとき」…就任５日で退任へ</title><link>https://www.yomiuri.co.jp/world/20261017-GYT1T00282/</link><description>[score: 0.875] どの州で司法試験に合格したか問われ、米大統領報道官「中国に移住したとき」…就任５日で退任へ
-完了しました
-【ワシントン＝栗山紘尚】米ホワイトハウス当局者は１６日、ケイティ・ザカリア大統領報道官が退任すると明らかにした。ザカリア氏は司法試験に合格していないにもかかわらず、「弁護士」を名乗っていたことが経歴詐称だと批判されていた。１２日の就任からわずか５日での退任となる。
-トランプ米大統領は１６日、ホワイトハウスで記者団の取材に応じ、ザカリア氏に対し「あなたは幸せになった方がいい。この仕事は決して楽ではない。正直、もし私があなただったら考え直す」と伝え、退任を促したことを明かした。ザカリア氏は同日</description><guid isPermaLink="false">https://www.yomiuri.co.jp/world/20261017-GYT1T00282/</guid><pubDate>Sat, 17 Oct 2026 20:01:05 +0000</pubDate></item><item><title>秋田 奈良 クマに襲われけが人相次ぐ 警察などが注意呼びかけ</title><link>https://news.web.nhk/newsweb/na/nd-20261018de61063</link><description>[score: 0.875] 17日、秋田県と奈良県であわせて男性2人がクマに襲われてけがをしました。警察や自治体が注意を呼びかけています。
-秋田 大仙 80代男性がクマに襲われけが
-警察によりますと、17日午前10時すぎ、…
+米カンザス州 子どものサッカー試合会場に車突っ込み2人死亡
+10月18日 11:41
+パレスチナでユダヤ人入植者が欧州外交官を襲撃と報道
+10月18日 7:52
+インド ヒンドゥー教の祭典で大勢の人倒れ少なくとも17人死亡
+10月18日 8:02
+インドネシア森林火災 煙が周辺国へ拡散し影響広がる
+10月18日 0:44
+フランス 物価高対策など訴え大規模デモ 放火など混乱も広が</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261018de61089</guid><pubDate>Sun, 18 Oct 2026 04:35:57 +0000</pubDate></item><item><title>【分析】大統領報道官が5日間で解任、トランプ氏と政権にとってひどく恥ずべき事態である理由 - CNN.co.jp</title><link>https://www.cnn.co.jp/usa/35253679.html</link><description>[score: 0.878] ホワイトハウス南庭で記者団に応じるトランプ米大統領を見るケイティ・ザカリア氏＝13日/Julia Demaree Nikhinson/AP （CNN） ケイティ・ザカリア氏は16日、ホワイトハウス報道官としての職位を守るためメディア出演を重ねていた。その中でFOXニュースの番組司会者は、弁護士だと再三主張していたにもかかわらず司法試験に合格していないということを公表しておけばよかったと思うかと尋ねた。 ザカリア氏の答えはこうだった。「そうした質問はされなかった」 そこにこそ問題がある。これは資格の問題ではない。トランプ大統領とホワイトハウスが、ザカリア氏の経歴に関する事実確認を怠っていたという</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35253679.html</guid><pubDate>Sun, 18 Oct 2026 06:52:42 +0000</pubDate></item><item><title>自民 林前総務相 総裁選への言及は“時期尚早”</title><link>https://news.web.nhk/newsweb/na/nd-20261018de61142</link><description>[score: 0.879] 自民党の林前総務大臣は、来年秋に想定される党の総裁選挙について、自身の対応に言及するのは時期尚早だとした上で、まずは日本の中長期的な課題に対する考えをまとめたいという意向を示しました。
+林前総務大…
 あわせて読みたい
-「クマ被害」ニュース 特集サイト
-非常に強い台風30号 急速に発達 来週後半に沖縄南海上の予想
-10月17日 19:05
-茨城 ひたちなか 男女2人が海で溺れ死亡
-10月18日 2:49
-奨学金受給の高校生 約2割が進学断念や変更を検討 物価高影響
-10月17日 18:23
-靖国神社秋の例大祭 高市首相が「真榊」 城内成長戦略相ら参拝
-10月18日 1:25
-DeNAが2年ぶり日本</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261018de61063</guid><pubDate>Sat, 17 Oct 2026 21:11:56 +0000</pubDate></item><item><title>上司のフィードバックを正しく読み解く5つのヒント</title><link>https://forbesjapan.com/articles/detail/106795?s=ns</link><description>[score: 0.876] 金曜日の午後6時40分。新しいマネージャーのピーターは、3週間前にアムステルダムオフィスから異動してきたばかりだ。彼はあなたの戦略メモを差し戻し、2つのセクションにコメントを付けている。「このセクションは弱い」「論理が不明瞭」「書き直し」
-あなたは週末中、メモ全体を書き直す必要があるのかと考え続ける。月曜日になると、ピーターはあなたが心配していることに驚いた様子を見せる。「全体の主張は良い。この2つのセクションを引き締めれば、水曜日に送れる」
-今度は別の上司が、あなたのメモに「方向性はとても良い！少しだけ気になる点があります」と書いて返してきた場面を想像してほしい。安心したあなたは、いくつかの</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106795?s=ns</guid><pubDate>Sat, 17 Oct 2026 22:30:18 +0000</pubDate></item><item><title>企業分離の新潮流、勝敗を分けるオペレーション移行の質</title><link>https://forbesjapan.com/articles/detail/106793?s=ns</link><description>[score: 0.877] いま形成されつつある企業分離の波について、ディールメーカーの大半に説明を求めれば、資金調達の話、ポートフォリオ戦略の話、あるいはプライベートエクイティによる資金投下の話が返ってくるだろう。その3つはいずれも正しい。私はそこに4つ目を加えたい。これは実行の話であり、このサイクルにおける価値の大半は、実行ギャップの部分で獲得されるか、失われることになる。
-案件量の増加は現実のものだ。マッキンゼーの最新M&amp;A調査によると、事業売却は2025年に世界で30%増加し、1.6兆ドル（約253兆円）に達した。「2021年以来の高水準」である。業種を問わず、CEOやPEスポンサーからも同じ声を聞く。取締役会は</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106793?s=ns</guid><pubDate>Sat, 17 Oct 2026 22:30:18 +0000</pubDate></item><item><title>AIは医療を変える、しかし患者の手を握るのは人間だ</title><link>https://forbesjapan.com/articles/detail/106792?s=ns</link><description>[score: 0.880] それがそう呼ばれているかどうかにかかわらず、すべての病院システムがいま、同じ実験を行っている。膨大な患者データにアルゴリズムを導入し、より迅速な診断、より早期の容体悪化の予測、エラーの削減、そして過負荷状態にある医療システムの改善に役立てようとしているのだ。
-その可能性は現実のものだ。リスクもまた現実である。
-AIが医療を救うのではない。リーダーシップが救うのだ
-筆者が最も懸念しているのは技術そのものではない。AIの進展が、医療の指導層がそのガバナンス方法を学ぶ速度を上回っていることだ。私たちは傍観者でいるわけにはいかない。
-医療におけるAIは戦略ではなくツールである。メスが手術のタイミングを</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106792?s=ns</guid><pubDate>Sat, 17 Oct 2026 22:30:18 +0000</pubDate></item><item><title>AIを"ハッキング"してわかった不都合な真実 東証上場企業3,899社の9割が、Gemini・Claude・ChatGPTの"おすすめ"に一度も出てこない</title><link>https://prtimes.jp/main/html/rd/p/000000015.000160942.html</link><description>[score: 0.880] AIを"ハッキング"してわかった不都合な真実 東証上場企業3,899社の9割が、Gemini・Claude・ChatGPTの"おすすめ"に一度も出てこない
-社名を一切教えず891回"本音"を聞き出した非指名検索実態調査(2026年2月-10月)
-AIにビジネスのアドバイスを求める人が増える中、「競合には勝っているのに、なぜかAIには存在すら知られていない」という企業が、東証上場企業の実に9割以上にのぼることが、COOD株式会社(所在地:東京都、代表取締役:鳥濱尚真)の調査で明らかになりました。本調査では、OpenAI ChatGPT、Google Gemini、Anthropic Claude</description><guid isPermaLink="false">https://prtimes.jp/main/html/rd/p/000000015.000160942.html</guid><pubDate>Sat, 17 Oct 2026 18:41:20 +0000</pubDate></item><item><title>「Gemini 4 Argon」の一般提供スタート／Metaが「Muse Wonder」シリーズを発表</title><link>https://www.itmedia.co.jp/pcuser/articles/2610/18/news005.html</link><description>[score: 0.881] うっかり見逃していたけれど、ちょっと気になる――そんなニュースを週末に“一気読み”する連載。今回は、10月11日週を中心に公開された主なニュースを一気にチェックしましょう！
-Googleは10月13日、AIモデル「Gemini 4 Argon」の一般提供を開始した。9月30日の発表時はサイバーセキュリティ担当者向けの先行提供にとどめ、一般向けの時期は示していなかった。
-開発者・企業向けには、AI StudioなどからGemini APIの有料プランで利用できる。一般ユーザー向けには、GeminiアプリとGoogle検索の「AIモード」で、Google AI UltraとGoogle AI Pr</description><guid isPermaLink="false">https://www.itmedia.co.jp/pcuser/articles/2610/18/news005.html</guid><pubDate>Sat, 17 Oct 2026 22:09:16 +0000</pubDate></item><item><title>成果を出す戦略を描く：経営幹部のための実践ガイド</title><link>https://forbesjapan.com/articles/detail/106798?s=ns</link><description>[score: 0.882] 戦略とは、本来何だろうか。それは計画であり、目標であり、達成すべきアイディアだ。しかし、計画だけで成果を上げることは難しい。効果を発揮させるには、戦略を実行へと落とし込み、それをサポートする体制を整え、影響を測定するためのデータを用意する必要がある。
-経営コンサルティング会社ブルックス・インターナショナルCEOのルイ・ダマセノ氏に、計画段階を突破して企業に変革をもたらす方法について話を聞いた。詳細は本ニュースレターの後半でお届けする。
-それでは、次回まで。
-経済指標
-労働市場の減速傾向は、当初の予測以上に進んでいるようだ。労働統計局によると、9月の非農業部門就業者数はわずか2万9000人増にと</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106798?s=ns</guid><pubDate>Sat, 17 Oct 2026 22:30:18 +0000</pubDate></item><item><title>フランス 物価高対策など訴え大規模デモ 放火など混乱も広がる</title><link>https://news.web.nhk/newsweb/na/nd-20261018de61062</link><description>[score: 0.883] フランスでは17日、物価高への対策などを訴える大規模なデモが行われました。教育環境の改善を訴えてきた高校生たちも加わり、全国で55万人が参加する大規模なデモになりましたが、デモに乗じて公共施設が放火さ…
-注目ワード
+林前総務相 来年の自民党総裁選挙“先のことはわからない”
+9月18日 18:59
+自民 林前総務相“一議員として 中長期的な政策課題など議論”
+9月20日 18:33
+高市首相 自民党役員人事と内閣改造の裏側 臨時国会の焦点は
+9月28日 13:44
+台風30号 22日ごろ沖縄の南海上に達する予想 今後の情報に注意
+10月18日 18:32
+消費税減税法案めぐり与野党幹部が議論 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261018de61142</guid><pubDate>Sun, 18 Oct 2026 07:37:28 +0000</pubDate></item><item><title>さくらのクラウドにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について</title><link>https://cloud.sakura.ad.jp/news/2026/10/16/cve-2026-99999/</link><description>[score: 0.879] さくらのクラウドにおけるLinuxカーネルの脆弱性（CVE-2026-99999）への対応状況について 平素よりさくらのクラウドをご利用いただき、誠にありがとうございます。 Linuxカーネルのネットワーク処理に関する脆弱性（CVE-2026-99999、通称「PwnEscape」）について、さくらのクラウドにおける現在の対応状... misshiki %E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3 さくらのクラウドがCVE-2026-99999への対応で、10月16日から新規プロジェクト作成を一時停止。停止による既存リソースの稼働</description><guid isPermaLink="false">https://cloud.sakura.ad.jp/news/2026/10/16/cve-2026-99999/</guid><pubDate>Sun, 18 Oct 2026 07:00:13 +0000</pubDate></item><item><title>「銀のさら」「釜寅」「すし上等」のライドオンエクスプレス、サイバー攻撃で最大約650万件の個人情報漏えいの可能性　公式サイト・アプリを停止中</title><link>https://internet.watch.impress.co.jp/docs/news/2147767.html</link><description>[score: 0.880] 「銀のさら」「釜寅」「すし上等」のライドオンエクスプレス、サイバー攻撃で最大約650万件の個人情報漏えいの可能性 公式サイト・アプリを停止中 yuiseki</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2147767.html</guid><pubDate>Sun, 18 Oct 2026 09:56:05 +0000</pubDate></item><item><title>【Node.js × Supabase × Vercel】匿名お悩み共感ボード「Moyan」をClaude Codeとゼロから1時間で作って公開した</title><link>https://qiita.com/mnoguchi/items/8ca703ba0b45078c7472?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] はじめに
+「もやもやしてるけど、誰にも言えない…」
+そんな気持ちを匿名で吐き出して、共感ボタンで救われる場所を作りました。
+Moyan（モヤン） — 匿名お悩み共感ボード
+🔗 https://moyan-ten.vercel.app/
+今回は Claude Code（AI）と一緒に設計書から作り始めて、公開まで一気に完走しました。
+「コードを全部自分で書く」のではなく「何を作るか・どう設計するか」に集中する開発スタイルの記録でもあります。
+作ったもの
+| 項目 | 内容 |
+|---|---|
+| サービス名 | Moyan（モヤン） |
+| コンセプト | 匿名でもやもやを吐き出し、共感で救</description><guid isPermaLink="false">https://qiita.com/mnoguchi/items/8ca703ba0b45078c7472?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 08:47:12 +0000</pubDate></item><item><title>佳子さま 京都で中途失聴者・難聴者福祉大会に出席</title><link>https://news.web.nhk/newsweb/na/nd-20261018de61183</link><description>[score: 0.881] 秋篠宮ご夫妻の次女の佳子さまは、京都市で開かれた、人生の途中で聴力を失ったり、聞こえにくくなったりした人たちの全国大会に出席されました。
+佳子さまは18日午前、京都市を訪れ、「全国中途失聴者・難聴…
 あわせて読みたい
-トランプ大統領 新たな対ロシア制裁の大半を除外の大統領令
-10月17日 16:24
-北朝鮮メディア AI搭載の新型魚雷の発射実験を実施と報道
-10月17日 16:21
-ローマ教皇がプーチン大統領と電話会談 停戦を要請
-10月17日 15:58
-トランプ大統領が中間選挙前に連日各地で演説
-10月17日 15:39
-AIリスク議論 サイバー攻撃 システムぜい弱性検出後</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261018de61062</guid><pubDate>Sat, 17 Oct 2026 20:13:09 +0000</pubDate></item><item><title>地下壕に隠れ「虚構の勝利」喧伝するプーチン、KGBの心理戦術に基づく真の狙いは</title><link>https://forbesjapan.com/articles/detail/106787?s=ns</link><description>[score: 0.883] ロシア軍の最高司令官ウラジーミル・プーチン大統領は、迷路のように入り組んだ地下壕の中から、ウクライナ各地におけるロシアの軍事的勝利について延々と語り続けている。ウクライナの要衝は押し寄せるロシア軍の手によって次々と陥落しているというのだ。
-同じように地下シェルターに閉じこもり、あるいはロシアの強制収容所に囚われていて、プーチンの厳重な管理下にあるプロパガンダ媒体を通じてしか情報を得られない人々は、もしかするとこうした「征服物語」を信じるのかもしれない。
-しかし、これらの「勝利」の多くは虚構であり、プーチンが絶えず構築し続ける精巧な「代替現実」の一部にすぎない。その目的は、ロシア国民1億4000</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106787?s=ns</guid><pubDate>Sat, 17 Oct 2026 22:30:18 +0000</pubDate></item><item><title>仕事のトラブルで「頭が真っ白」になる人へ。今日からできる "事前準備5つの手順"</title><link>https://studyhacker.net/trouble-emergency-action</link><description>[score: 0.883] 取引先からの急なクレーム、メールの誤送信、納期の遅れ。想定外のトラブルで頭が真っ白になり、動けなくなったことがあるかもしれません。 焦るのは気持ちの弱さのせいとは限らず、緊急時は、人の認知のクセで判断しにくくなるのです。 そこで、トラブルのたびに頭が真っ白になる人に向けて、考えなくても動ける状態を、準備・練習・本番の順につくっていきます。 なお、緊急時の心理の根拠は災害時を扱った研究で、仕事への置き換えは本記事の提案です。 【準備】仕事を始める前に、「失敗するとしたら？」を3つだけ書く 【準備】初動の手順をメモ1枚に書き出す 【練習】そのメモをひとりで一度だけ動かしてみる 【本番】「たぶん平気</description><guid isPermaLink="false">https://studyhacker.net/trouble-emergency-action</guid><pubDate>Sat, 17 Oct 2026 22:19:24 +0000</pubDate></item><item><title>Claude Code でメモアプリを作って Microsoft Store に公開するまでにやった工夫</title><link>https://qiita.com/morststs/items/246bdb871fef835a77a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] はじめに
-マークダウンのメモアプリ Sirusita を、Claude Code にほぼすべて書いてもらって作りました。最後は Microsoft Store で公開しています。
-- 技術スタック: Wails v2（Go）+ Svelte 5 + Monaco Editor
-- 配布: GitHub Releases / Microsoft Store / Web 版（GitHub Pages）
-この記事では、コードの中身よりも「AI に開発を任せるための環境と進め方」で工夫した点をまとめます。どの話も深入りはせず、ほかの人が試せそうなところを広く拾いました。
-全体の流れ
-Docker Sa</description><guid isPermaLink="false">https://qiita.com/morststs/items/246bdb871fef835a77a2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 17 Oct 2026 20:12:41 +0000</pubDate></item><item><title>東京 福生 男性が刃物で刺され死亡 知人の行方捜査</title><link>https://news.web.nhk/newsweb/na/nd-20261018de61068</link><description>[score: 0.886] 18日未明、東京 福生市の路上で40代くらいの男性が刃物で刺されて死亡しました。刺したのは男性の知人とみられ、現場から逃走したということで、警視庁は殺人事件として行方を捜査しています。
-警視庁によ…
+台風30号 22日ごろ沖縄の南海上に達する予想 今後の情報に注意
+10月18日 18:32
+米中間選挙 全米各地で期日前投票呼びかける集会
+10月18日 13:30
+世田谷 三軒茶屋 女性はねられ両足大けが 荷物積み下ろし中か
+10月18日 17:24
+愛子さま 鳥取で避難所運営考えるカードゲームを体験
+10月18日 11:31
+消費税減税法案めぐり与野党幹部が議論 NHK日曜討</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261018de61183</guid><pubDate>Sun, 18 Oct 2026 08:37:33 +0000</pubDate></item><item><title>https://x.com/ImAI_Eruel/status/2111424490240675921</title><link>https://x.com/ImAI_Eruel/status/2111424490240675921</link><description>[score: 0.882] https://x.com/ImAI_Eruel/status/2111424490240675921 misshiki %E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86 今井翔太氏がDeepSeek-V4.1-Flash-1017のベンチマークに注目。アクティブ8B・16BでGPT-6、Opus5、Fableを性能・コストで上回ると述べ、「DeepSeekショック再び」の可能性に言及。</description><guid isPermaLink="false">https://x.com/ImAI_Eruel/status/2111424490240675921</guid><pubDate>Sun, 18 Oct 2026 06:04:43 +0000</pubDate></item><item><title>長射程ミサイル 大規模演習に向け熊本市の駐屯地から搬出</title><link>https://news.web.nhk/newsweb/na/nd-20261018de61184</link><description>[score: 0.883] 自衛隊やアメリカ軍などによる大規模な実動演習が19日から行われるのを前に、射程およそ1000キロの長射程ミサイルが、18日、熊本市の陸上自衛隊の駐屯地から長崎県と佐賀県にまたがる演習場に運び込まれまし…
 あわせて読みたい
-台風30号 急速に発達 23日に沖縄の南海上へ 今後の情報注意
-10月18日 7:30
-茨城 ひたちなか 男女2人が海で溺れ死亡
-10月18日 2:49
-奨学金受給の高校生 約2割が進学断念や変更を検討 物価高影響
-10月17日 18:23
-スカイチケット運営会社 クレカ情報も最大6000人余流出
-10月17日 11:58
-靖国神社秋の例大祭 高市首相が「真榊」 城内成長戦略相ら</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261018de61068</guid><pubDate>Sat, 17 Oct 2026 22:03:59 +0000</pubDate></item><item><title>台風30号 急速に発達 23日に沖縄の南海上へ 今後の情報注意</title><link>https://news.web.nhk/newsweb/na/nd-20261018de61065</link><description>[score: 0.887] 非常に強い台風30号は、日本のはるか南の海上を急速に発達しながら西寄りに進んでいます。23日金曜日ごろには沖縄の南の海上に達すると予想されていますが、その後の進路の予測は定まっておらず、気象庁は今後の…
+台風30号 22日ごろ沖縄の南海上に達する予想 今後の情報に注意
+10月18日 18:32
+米中間選挙 全米各地で期日前投票呼びかける集会
+10月18日 13:30
+世田谷 三軒茶屋 女性はねられ両足大けが 荷物積み下ろし中か
+10月18日 17:24
+愛子さま 鳥取で避難所運営考えるカードゲームを体験
+10月18日 11:31
+消費税減税法案めぐり与野党幹部が議論 NHK日</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261018de61184</guid><pubDate>Sun, 18 Oct 2026 09:06:01 +0000</pubDate></item><item><title>「コードはAIが書けるからIT企業は選ばない」…就職データ分析からみえた理系学生「IT離れ」の実態（AERA DIGITAL） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/e636b945c528662fb40efe09c4b6273da59cb0e1</link><description>[score: 0.883] 「コードはAIが書けるからIT企業は選ばない」…就職データ分析からみえた理系学生「IT離れ」の実態（AERA DIGITAL） - Yahoo!ニュース 就職実績を大きく伸ばしている芝浦工業大の豊洲キャンパス＝2026年6月（撮影／写真映像部・新崎美菜子）（AERA DIGITAL）生成AIの進化により、昨今では「エンジニア不要論」までささやかれるようになった。こうし... misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0 AI</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/e636b945c528662fb40efe09c4b6273da59cb0e1</guid><pubDate>Sun, 18 Oct 2026 08:56:22 +0000</pubDate></item><item><title>Gemini 4 Argonの100万トークンは何がすごい？仕様・料金・制限を公式情報から整理してみた</title><link>https://qiita.com/YuukiYoshida/items/78a045f37dd8a8a2870d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] 2026年10月13日、Googleが新しいAIモデル「Gemini 4 Argon」の一般提供を開始しました。
+今回のモデルは、コーディングや複雑な推論、AIエージェントによる長時間のタスク処理などを想定した、Googleの新しいフラッグシップモデルです。
+特に気になったのが、最大100万トークンという数字。
+ただ、公式ドキュメントを読んでみると、単純に100万トークンを入力できる、あるいは100万トークンの文章を一度に生成できる、という話ではありませんでした。
+従来のGeminiシリーズとは異なる制約や、APIを利用する際に注意したい変更点もあります。
+今回はGoogleの公式情報をもとに</description><guid isPermaLink="false">https://qiita.com/YuukiYoshida/items/78a045f37dd8a8a2870d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 18 Oct 2026 08:47:12 +0000</pubDate></item><item><title>日本企業がサーバーに侵入されまくっている現状を鑑み、「絶対無敵を目指すOS」を作ってみた。耐量子暗号HTTPSサーバー専用OS</title><link>https://wirelesswire.jp/2026/10/94793/</link><description>[score: 0.886] 日本企業がサーバーに侵入されまくっている現状を鑑み、「絶対無敵を目指すOS」を作ってみた。耐量子暗号HTTPSサーバー専用OS 最近、日本の企業がサイバー攻撃によって大変なことになっている。 2025年9月にはアサヒグループホールディングスがランサムウェア攻撃を受け、受注・出荷業務が停止した。翌10月にはアスクルが同様の攻撃を受け、通販サービスの受注・出荷が停止。サプライチェーン全体に影響が波及する事態となった。挙句、本来、イン...</description><guid isPermaLink="false">https://wirelesswire.jp/2026/10/94793/</guid><pubDate>Sun, 18 Oct 2026 09:20:41 +0000</pubDate></item><item><title>https://x.com/darkgaldoggo/status/2111398112426332555</title><link>https://x.com/darkgaldoggo/status/2111398112426332555</link><description>[score: 0.889] https://x.com/darkgaldoggo/status/2111398112426332555 misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3 OpenCodeで使用していたOpenAI・ClaudeのAPIキーの不正利用を利用者が報告。長期間使っていなかったOpenAIのキーによる画像生成を確認し、100ド</description><guid isPermaLink="false">https://x.com/darkgaldoggo/status/2111398112426332555</guid><pubDate>Sun, 18 Oct 2026 08:56:22 +0000</pubDate></item><item><title>ビールカルテル 去年出荷価格引き上げの際各社横並びか</title><link>https://news.web.nhk/newsweb/na/nd-20261018de61206</link><description>[score: 0.889] ビールの価格をめぐってカルテルを結んだ疑いで公正取引委員会の強制調査を受けた大手ビールメーカー4社が、去年出荷価格を引き上げた際に、1リットルあたりの値上げ幅をいずれも20円とし、横並びとなっていたこ…
 あわせて読みたい
-東京 福生 男性が刃物で刺され死亡 知人の行方捜査
-10月18日 6:43
-秋田 奈良 クマに襲われけが人相次ぐ 警察などが注意呼びかけ
-10月18日 5:39
-愛知・名古屋アジアパラ大会 きょう開幕 日本初開催
-10月18日 5:12
-東京 調布の道路陥没から6年 補修8割終わるも完了のめど立たず
-10月18日 5:06
-ゼレンスキー大統領 アメリカのロシア制裁免除に反発
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261018de61065</guid><pubDate>Sat, 17 Oct 2026 21:11:56 +0000</pubDate></item><item><title>普天間のオスプレイ容認で方針転換　沖縄県の古謝知事が安全保障政策で現実路線に</title><link>https://www.sankei.com/article/20261016-5ECA4USUA5LDHEFWQ2RQNDWIDY/</link><description>[score: 0.888] 米軍輸送機MV22オスプレイの配備を巡り沖縄県の古謝玄太知事が16日に普天間飛行場（宜野湾市）への配備を容認する意向を表明したことで、運用自体こそ変わらないが、安全保障政策の現実的な進展が期待される。事故が起きると安全性に懸念の声も上がるが、政府も安全確保を前提に引き続き運用を認めていく考えだ。
-普天間にオスプレイが配備された平成24年10月以前から、当時の仲井真弘多知事が配備計画の見直しを求めるなど歴代知事は配備撤回を求めてきた。オスプレイによる重大事故が懸念され、県民に不安を与えかねないことが主な理由だ。
-これに対し、今年9月13日に投開票された沖縄県知事選で初当選した古謝氏は自衛隊でのオ</description><guid isPermaLink="false">https://www.sankei.com/article/20261016-5ECA4USUA5LDHEFWQ2RQNDWIDY/</guid><pubDate>Sat, 17 Oct 2026 21:43:06 +0000</pubDate></item><item><title>ゼレンスキー大統領 アメリカのロシア制裁免除に反発</title><link>https://news.web.nhk/newsweb/na/nd-20261017de61037</link><description>[score: 0.897] アメリカのトランプ大統領は、ロシアへの制裁を強化するための新たな法律について、制裁の大半の適用を免除する大統領令に署名しました。ウクライナのゼレンスキー大統領は「ロシア側を喜ばせるだけだ」と強く反発す…
+フランス 物価高対策など訴え大規模デモ 放火など混乱も広がる
+10月18日 17:15
+米中間選挙 全米各地で期日前投票呼びかける集会
+10月18日 13:30
+世田谷 三軒茶屋 女性はねられ両足大けが 荷物積み下ろし中か
+10月18日 17:24
+消費税減税法案めぐり与野党幹部が議論 NHK日曜討論
+10月18日 12:19
+愛子さま 鳥取で避難所運営考えるカードゲームを体</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261018de61206</guid><pubDate>Sun, 18 Oct 2026 09:06:01 +0000</pubDate></item><item><title>沖縄 辺野古沖事故の遺族が現場近くの海岸で献花</title><link>https://news.web.nhk/newsweb/na/nd-20261018de61179</link><description>[score: 0.891] ことし3月、沖縄県での研修旅行中に船の転覆事故で亡くなった同志社国際高校の女子生徒の遺族が、18日、名護市辺野古の現場近くを訪れ、花を手向け、手を合わせました。
+ことし3月、アメリカ軍普天間基地の…
 あわせて読みたい
-トランプ大統領 新たな対ロシア制裁の大半を除外の大統領令
-10月17日 16:24
-ローマ教皇がプーチン大統領と電話会談 停戦を要請
-10月17日 15:58
-トランプ大統領が中間選挙前に連日各地で演説
-10月17日 15:39
-国連事務総長選び 6回目の投票も常任理事国の反対で難航
-10月17日 10:15
-アメリカの財政赤字314兆円 過去3番目 利払い費増加などで
-10</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261017de61037</guid><pubDate>Sat, 17 Oct 2026 20:13:09 +0000</pubDate></item><item><title>AnthropicのAI時代のコードレビュー術 - Claude Codeによる自動レビューと人間の役割｜npaka</title><link>https://note.com/npaka/n/ndb4b0f424ced</link><description>[score: 0.902] AnthropicのAI時代のコードレビュー術 - Claude Codeによる自動レビューと人間の役割｜npaka 1. はじめに2026年10月、Anthropicは「How the Claude Code team does code review」という技術記事を公開しました。 この記事では、AIによるコード生成が急増する中、Anthropicがどのようにコードレビューを自動化し、品質と開発速度を両立しているのかを紹介しています。 Anthropicでは、Claude Code自身のコードの約9...</description><guid isPermaLink="false">https://note.com/npaka/n/ndb4b0f424ced</guid><pubDate>Sat, 17 Oct 2026 22:21:47 +0000</pubDate></item><item><title>ゼレンスキー氏「衛星通信制限で支障」トランプ氏関与否定</title><link>https://news.web.nhk/newsweb/na/nd-20261018de61066</link><description>[score: 0.903] ウクライナのゼレンスキー大統領は17日、アメリカの宇宙開発企業「スペースX」が手がける衛星通信サービスの利用が一部制限されているため、ロシア軍の無人機の迎撃などに支障が出ていると主張しました。
-その…
-あわせて読みたい
-トランプ大統領 新たな対ロシア制裁の大半を除外の大統領令
-10月17日 16:24
-北朝鮮メディア AI搭載の新型魚雷の発射実験を実施と報道
-10月17日 16:21
-ローマ教皇がプーチン大統領と電話会談 停戦を要請
-10月17日 15:58
-トランプ大統領が中間選挙前に連日各地で演説
-10月17日 15:39
-AIリスク議論 サイバー攻撃 システムぜい弱性検出後数秒で悪用
-1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261018de61066</guid><pubDate>Sat, 17 Oct 2026 22:03:59 +0000</pubDate></item><item><title>コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開</title><link>https://pc.watch.impress.co.jp/docs/news/2149045.html</link><description>[score: 0.905] ニュース
-コード系でOpus 5超え「DeepSeek-V4.1-Flash-1017」無償公開
-2026年10月17日 22:29
-前バージョンの登場からわずか37日、DeepSeekの“Flash”がまた強くなった。DeepSeekは10月17日(日本時間)、AIモデル「DeepSeek-V4.1-Flash-1017」を発表した。同日のうちに、オープンウェイト(モデルの重み)はMITライセンスのもとHugging Faceで無償公開され、商用利用も認められる。総パラメータ数552B(5,520億)ながら、コード修正ベンチマーク「DeepSWE v1.1」は77.0で、Anthropicの</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2149045.html</guid><pubDate>Sat, 17 Oct 2026 18:07:59 +0000</pubDate></item></channel></rss>
+台風30号 22日ごろ沖縄の南海上に達する予想 今後の情報に注意
+10月18日 18:32
+米中間選挙 全米各地で期日前投票呼びかける集会
+10月18日 13:30
+世田谷 三軒茶屋 女性はねられ両足大けが 荷物積み下ろし中か
+10月18日 17:24
+愛子さま 鳥取で避難所運営考えるカードゲームを体験
+10月18日 11:31
+消費税減税法案めぐり与野党幹部が議論 NHK日曜討</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261018de61179</guid><pubDate>Sun, 18 Oct 2026 09:36:17 +0000</pubDate></item><item><title>AI検索普及、ゼロクリック率68%に上昇　揺らぐサイト集客 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC050C20V01C26A0000000/</link><description>[score: 0.893] AI検索普及、ゼロクリック率68%に上昇 揺らぐサイト集客 - 日本経済新聞 約250万人の消費者パネルのウェブ行動ログデータを基にコンサルティング事業を手掛けるヴァリューズ（東京・港）の調査によると、検索結果から外部サイトへ遷移せず、画面上で情報収集を終える、いわゆる「ゼロクリック」行動の割合は、2025年9月の63.5%から2026年7月には68.1%へ上昇したという。人工知能（AI）による要...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC050C20V01C26A0000000/</guid><pubDate>Sun, 18 Oct 2026 07:19:01 +0000</pubDate></item><item><title>【2026年10月版】生成AI主要8サービス料金早見表 ―― 上位モデル「GPT 6 Astra」や「Gemini 4 Argon」が登場</title><link>https://www.businessinsider.jp/article/2610-how-much-did-major-generative-ai-service-fees/</link><description>[score: 0.896] - 9月から10月頭にかけて、各社の新モデルの公開が相次いだ。
+- 一方で、トランプ大統領がAIを「SI（Super Intelligence）」と呼ぶように押し進めるなどテクノロジーとは別の動きもあった。
+- 2026年10月15日時点における、生成AI主要8サービスの代表的な個人向け料金プラン早見表を見ていこう。
+9月の生成AIサービスを振り返ると、主要各社のモデル更新がかつてない速さで続いた。
+OpenAIは3日に「GPT-6 Astra」、22日に「GPT-6 Sol・Luna」、29日に「GPT-6.1 Sol」を投入。Anthropicは1日の「Claude Fable 5.1/M</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-how-much-did-major-generative-ai-service-fees/</guid><pubDate>Sun, 18 Oct 2026 02:34:36 +0000</pubDate></item></channel></rss>
