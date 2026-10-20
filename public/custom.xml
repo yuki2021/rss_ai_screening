@@ -1,114 +1,129 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 20 Oct 2026 00:04:03 +0000</lastBuildDate><item><title>答えではなく「問い」を求めよ──テック幹部ディーナ・ビンガムが説く「逆方向」の思考法</title><link>https://forbesjapan.com/articles/detail/106891?s=ns</link><description>[score: 0.877] 直感に反しているように見えて、完璧に理にかなっている主張──私はこうした意見にどうしても抗えない。惹きつけられ、探求してしまうのだ。そして時に、それがあまりにも明快で、追及せずにはいられなくなることがある。25年以上IBMの幹部を務め、企業のオペレーショナル・エクセレンスや変革の推進を支援してきたディーナ・ビンガムの話を最近聞いた時もまさにそうだった。一体どういうことだろうか。
-私の興味を惹きつけた彼女の言葉とは何だったのか。なぜ私は、これほど直感に反する言葉にそれほど唖然としたのだろうか。
-あらゆる業界でAI（人工知能）が議論の中心となっているような時代に、実績豊かなこのIT幹部は、拍子抜け</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106891?s=ns</guid><pubDate>Mon, 19 Oct 2026 22:11:42 +0000</pubDate></item><item><title>Apple、AIで服を脱がすアプリや顔交換アプリの「性的ディープフェイク」規制強化　App Store審査ガイドライン改訂で開発者に対応責任</title><link>https://www.techno-edge.net/article/2026/10/20/5609.html</link><description>[score: 0.877] AppleがApp Storeの審査ガイドラインを改訂し、人物の画像をAIで裸や下着にする「脱衣(ヌーディファイ)」アプリなど、「同意のない性的画像」(NCII)を生成できるアプリへの規制を強化しました。
-画像や動画を生成できるAIアプリ全般に「同意のない性的画像」を防ぐ責任を課し、審査通過後に問題の機能を加える抜け道も新しい条項で禁じました。
-■ 汎用AIアプリにも性的画像対策の責任
-露骨な性的画像は、もともとApp Storeのガイドラインで禁止されています。今回の改訂についての告知では、実在人物の性的画像を本人の同意なく作るアプリもこの禁止に含まれると明言しました。
-(ただし、写っている</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/10/20/5609.html</guid><pubDate>Mon, 19 Oct 2026 23:31:46 +0000</pubDate></item><item><title>マツリカがAI活用の構想から定着まで支援する「Sozo AI Solutions」提供開始、6サービスを展開</title><link>https://webtan.impress.co.jp/n/2026/10/20/53473</link><description>[score: 0.877] マツリカがAI活用の構想から定着まで支援する「Sozo AI Solutions」提供開始、6サービスを展開 日々の業務の中でAIを活用できる仕組みづくりを支援する新しい「Sozo事業」を始動 noboru.kojima 2026年10月20日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 営業・マーケティング領域のAIソリューションを開発・提供するマツリカは、企業のAX(AIトランスフォーメーション：AIを活用した業務・組織の変革)を加速する「Sozo AI Solutions(ソウゾウAI ソリューションズ)」の提供を開始すると10月19日に発表した。「構想する」「</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/10/20/53473</guid><pubDate>Mon, 19 Oct 2026 22:11:25 +0000</pubDate></item><item><title>サイバー攻撃受け情報漏えい、中国語のＡＩエージェント悪用か…国内８０社への攻撃巡り痕跡</title><link>https://www.yomiuri.co.jp/national/20261019-GYT1T00477/</link><description>[score: 0.879] サイバー攻撃受け情報漏えい、中国語のＡＩエージェント悪用か…国内８０社への攻撃巡り痕跡
-完了しました
-国内の企業・団体がサイバー攻撃を受けて個人情報が大量漏えいしている問題で、システムの
-「ＧＭＯサイバーセキュリティｂｙイエラエ」（東京）が、サイバー攻撃を受けた国内の被害企業から依頼を受け、外部機関と連携して調査した。
-その結果、９月１８日～１０月１８日の間に国内企業への攻撃で使われた海外の公開サーバー６台が特定された。６台を解析したところ、いずれも中国語のＡＩエージェント「ＡＲＴＥＸ（アルテックス）」がサーバー上で使われた痕跡が見つかった。他のＡＩエージェントの形跡はなかったことから、同社は</description><guid isPermaLink="false">https://www.yomiuri.co.jp/national/20261019-GYT1T00477/</guid><pubDate>Mon, 19 Oct 2026 21:19:39 +0000</pubDate></item><item><title>短い指示だけであとは丸投げ——ハッカーがAIで日本含む4か国100社超に侵入していたとの報告</title><link>https://www.techno-edge.net/article/2026/10/20/5607.html</link><description>[score: 0.879] サイバーセキュリティ企業NorForgeは2026年10月19日、ハッカーがAIエージェントを駆使して米国・カナダ・オーストラリア・日本の企業100社超のウェブサイトへの侵入に成功していたとの調査報告を公表しました。
-被害を受けた企業のなかにはJohn Deere、SharkNinja、Cumminsといった大手企業も含まれ、AIによってサイバー攻撃を実行する側のハードルがいかに下がっているかを示す事例として注目されます。
-報告書によれば、ハッカーがAIに与えた指示はわずか100字未満の中国語プロンプトだけで、あとはAIエージェントが自律的にターゲットの脆弱性を探し、侵入を試みたとのこと。全体</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/10/20/5607.html</guid><pubDate>Mon, 19 Oct 2026 21:51:21 +0000</pubDate></item><item><title>米国の判断「説明困難」、支援巡りゼレンスキー氏が疑問 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPQlFyZjhaTVdCTk1RYm5WQnlyY0Y5a2ZPdXI2SXRKT19EZjR5Wjh1b2pCRTBqMk5JZVdIMGNmLV9sM2hBMnpjS1dMcjU1SHVHem1jSlBLcnJtaDR1d2NfZk1HSmlHVDVLTTFCX0VQRWtqNGNMemVQcVpGLWJwbFRqeW5nNlpiZw?oc=5</link><description>[score: 0.879] 米国の判断「説明困難」、支援巡りゼレンスキー氏が疑問 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxPQlFyZjhaTVdCTk1RYm5WQnlyY0Y5a2ZPdXI2SXRKT19EZjR5Wjh1b2pCRTBqMk5JZVdIMGNmLV9sM2hBMnpjS1dMcjU1SHVHem1jSlBLcnJtaDR1d2NfZk1HSmlHVDVLTTFCX0VQRWtqNGNMemVQcVpGLWJwbFRqeW5nNlpiZw?oc=5</guid><pubDate>Mon, 19 Oct 2026 22:34:48 +0000</pubDate></item><item><title>アンソロピック「ロボットと組めばAIは肉体労働にも及ぶ」。それでも庭師の仕事はまだ安全かもしれない理由</title><link>https://www.businessinsider.jp/article/2610-anthropic-ai-robots-gardening-jobs-automation/</link><description>[score: 0.880] アンソロピック（Anthropic）のAI雇用レポートが、AIには雑草を抜くことも、バラとタンポポを見分けることもできないため、庭師は最も安全な職種のひとつだと示唆していたのを覚えているだろうか。私は2026年の初め、ニュースレター「AI Insider」でそのことを冗談のネタにした。
-ところが、アンソロピックはこの研究をアップデートし、私たち全員をもう少し不安にさせている。
-今回は、AIとロボットを組み合わせると何が起こるのかという、より大きな問いを投げかけている。この変化によって、多くの肉体労働が、影響の大きさを示す尺度ではるかに高い位置に押し上げられる。理屈の上では筋が通っている。実際に</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-anthropic-ai-robots-gardening-jobs-automation/</guid><pubDate>Mon, 19 Oct 2026 22:26:55 +0000</pubDate></item><item><title>最近Gemini使い始めたけど、明らかにchatGPTの方が優秀じゃないか？「Geminiはやる気あるバカってイメージ」「嘘しかつかないので使うのやめました」</title><link>https://togetter.com/li/2760356</link><description>[score: 0.880] み💙❤️
-@TO_Emi_vl_Cule
-@fcbcdfdj21pg8_o 課題とかはジェミニの方が優秀 トラッシュトークとかちょっとしたことならチャッピー 料理の話とかね
-2026-10-19 16:25:10
-ばん⭐️⭐️
-@p8g6bcl
-@fcbcdfdj21pg8_o Geminiは使うモデルによって結構変わるイメージあります🤔課金しないならチャッピーのが使い勝手いいような気もします！
-2026-10-19 10:29:38
-ラテンクレ
-@fcbcdfdj21pg8_o
-@p8g6bcl どっちもplus使ってて、Geminiはめっちゃ出力速いけど精度低いって感じです笑笑 ばんさんは</description><guid isPermaLink="false">https://togetter.com/li/2760356</guid><pubDate>Mon, 19 Oct 2026 21:39:40 +0000</pubDate></item><item><title>ネットの不快広告「×」押しても次々と　アクセス稼ぎ、自主規制頼み - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUD078P40X00C26A9000000/</link><description>[score: 0.881] ネットの不快広告「×」押しても次々と アクセス稼ぎ、自主規制頼み
-インターネットなどの広告を巡る苦情が急増している。業界団体が受けた苦情は2025年度は過去最多で1万2千件を超えた。画面上から広告を消しづらい設定や体の老廃物などを大げさに見せる表示への不満が目立つ。「不快な広告」を包括的に規制する法規定はなく、自主規制頼みだ。
-耳あかが次々に取れる様子をアニメーションで過剰に表現――。近年はネット上でこうした表示が散見される。広告を消すため「×」ボタンを押して...
-※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。
-この投稿は現在非表示に設定されています
-(更新)</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUD078P40X00C26A9000000/</guid><pubDate>Mon, 19 Oct 2026 23:43:32 +0000</pubDate></item><item><title>食料品の消費税減税関連法案 きょう衆議院で審議入り</title><link>https://news.web.nhk/newsweb/na/nd-20261019de61870</link><description>[score: 0.882] 今の国会で最大の焦点となる食料品の消費税減税関連法案は20日、衆議院で審議入りします。与党側ができるだけ多くの党の賛同を得て成立させたい考えなのに対し、野党側は物価高対策としての効果や具体的な財源など…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 20 Oct 2026 10:39:42 +0000</lastBuildDate><item><title>ニデック“永守氏など経営陣に賠償責任”調査結果を公表</title><link>https://news.web.nhk/newsweb/na/nd-20261020de62376</link><description>[score: 0.879] 不正会計や品質をめぐる不適切行為が相次いで判明した電子部品大手の「ニデック」は、これまでの経営陣の法的な責任を調べた外部の専門家による調査結果を発表しました。創業者の永守重信氏を含む歴代の経営トップな…
 あわせて読みたい
-火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功
-10月20日 8:25
+あす北～西日本で激しい雨か 北日本は荒天に 季節外れの暑さも
+10月20日 19:08
+台風30号 沖縄の先島諸島に23日から接近へ 西日本に影響可能性
+10月20日 18:59
+東大の総長選めぐり 文部科学省が選考経緯の検証を要請
+10月20日 12:37
+大阪地裁前で男性刺される 逮捕の容疑者 金銭に関する不満か
+10月20日 17:59
+火星衛星探査機「MMX」 火星へ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261020de62376</guid><pubDate>Tue, 20 Oct 2026 09:21:34 +0000</pubDate></item><item><title>日本企業狙う不正アクセスにAI　攻撃者が自立型侵入テスト「ARTEX」を悪用　GMOイエラエ調査</title><link>https://www.itmedia.co.jp/news/article/2610/20/2000002423/</link><description>[score: 0.879] 日本企業狙う不正アクセスにAI 攻撃者が自立型侵入テスト「ARTEX」を悪用 GMOイエラエ調査 ARTEXは、中国で開発されたオープンソースの侵入テスト自動化ツール。本来は、外部のLLM（大規模言語モデル）と連携してシステムの脆弱性を見つけ、サイバー攻撃の対策に役立てるものだが、米セキュリティ企業CrowdStrikeも、9月下旬～10月上旬に韓国の金融機関を狙ったサイバー攻撃でARTEXが悪用されたと報告していた。...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/20/2000002423/</guid><pubDate>Tue, 20 Oct 2026 08:45:34 +0000</pubDate></item><item><title>Codexでゲームを作っていたら、小さなAI開発組織を回す実験になった</title><link>https://qiita.com/Masato_Iwasaki/items/7e5241176f3eead2a2f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.879] ゲームを作ってみようとCodexを使い始めたら、気付けばAIに役割を付け、Sprintまで回していました。ゲーム作りの横で、AIの仕事の割り振りまで試し始めています。
+1. 最初は、Codexにゲームを一本作ってもらった
+ゲーム開発の苦労を味わってみたい、というところから始めました。ChatGPT Plusを契約したので、じゃあCodexも試してみようと、自宅PCで個人開発を始めました。題材に選んだのがProject Ashfallという小さなブラウザゲームです。敵に印を付け、敵同士を縫うように移動してまとめて起爆する「灰縫い」が、遊びの中心です。
+最初の依頼文はChatGPTと相談して作りま</description><guid isPermaLink="false">https://qiita.com/Masato_Iwasaki/items/7e5241176f3eead2a2f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 20 Oct 2026 08:14:26 +0000</pubDate></item><item><title>ニフティも情報漏えい、光回線の申込データ最大54万件</title><link>https://www.watch.impress.co.jp/docs/news/2149561.html</link><description>[score: 0.879] ニュース
+ニフティも情報漏えい、光回線の申込データ最大54万件
+2026年10月20日 13:09
+ニフティは19日、インターネット回線の申込みや受付を管理するシステムに外部からの不正なアクセスを確認したと発表した。最大54万2,513件の個人情報が、情報漏えいの対象になった可能性がある。
+同社は10月19日10時20分ごろに外部からの不正アクセスを確認し、直ちに通信元からのアクセスを遮断した。不正アクセスのあったシステムは、ニフティ側で情報を登録するための管理用ツールで、ユーザーが直接アクセスする申込フォームなどのWebサイトとは異なるという。
+情報漏えいの対象件数は最大で54万2,513件</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2149561.html</guid><pubDate>Tue, 20 Oct 2026 04:14:20 +0000</pubDate></item><item><title>ノルウェーの16歳未満ＳＮＳ禁止に有害規定、ＴｉｋＴｏｋなど対象 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9QTG1XblRDYVQxZGlQQkhVY3NiczI5QXlyT0p6MDhBd3NQdEZyalNkWXBBektGd3YwMTJCQTViOGFsd19xcE1xc0VkQnQzRVVHMXVhUUE5N2Z6RUpaNURqMTI4TmFGRU53ek4zcEJzM3k1bXRaUHUwSE1ycktyMTg?oc=5</link><description>[score: 0.879] ノルウェーの16歳未満ＳＮＳ禁止に有害規定、ＴｉｋＴｏｋなど対象 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9QTG1XblRDYVQxZGlQQkhVY3NiczI5QXlyT0p6MDhBd3NQdEZyalNkWXBBektGd3YwMTJCQTViOGFsd19xcE1xc0VkQnQzRVVHMXVhUUE5N2Z6RUpaNURqMTI4TmFGRU53ek4zcEJzM3k1bXRaUHUwSE1ycktyMTg?oc=5</guid><pubDate>Tue, 20 Oct 2026 02:20:14 +0000</pubDate></item><item><title>弊社サービスへの不正アクセスに伴う一連の対応について</title><link>https://raiden.site.ktaiwork.jp/archives/4597</link><description>[score: 0.879] 10月20日 14時00分更新 【第13報】
+不正アクセスにより、多大なるご迷惑とご心配をおかけいたしますことを深くお詫び申し上げます。
+10月16日15時30分更新【第10報】個人情報保護委員会への代行報告の件
+でお知らせさせていただいていました内容につきまして以下の要領にてメールさせていただきましたので、内容ご確認の上、ご入力願います。
+件名：【重要】 弊社サービスへの不正アクセス発生に伴う、個人情報保護委員会様への報告代行のご案内
+（10月19日15時58分送信）
+対象：
+SpeeCAN RAIDEN
+(raiden.ktaiwork.jp, raiden2.ktaiwork.jp, r</description><guid isPermaLink="false">https://raiden.site.ktaiwork.jp/archives/4597</guid><pubDate>Tue, 20 Oct 2026 08:00:50 +0000</pubDate></item><item><title>過去最低の31％ トランプ大統領の支持率 ロイター通信など調査 不支持は66％ 中間選挙を前に逆風か - TBS NEWS DIG</title><link>https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qM0FWQjVvdTZZcDl5WUN3Qmw4MnhFMWphRS0taVVHRXhMNVphT29Vd3NuYnBSQk1ZTGRwSW1zLWRCZGFQQ2RNTlNhMkhGSENBNVItc2Zncw?oc=5</link><description>[score: 0.880] 過去最低の31％ トランプ大統領の支持率 ロイター通信など調査 不支持は66％ 中間選挙を前に逆風か TBS NEWS DIG</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiV0FVX3lxTE5qM0FWQjVvdTZZcDl5WUN3Qmw4MnhFMWphRS0taVVHRXhMNVphT29Vd3NuYnBSQk1ZTGRwSW1zLWRCZGFQQ2RNTlNhMkhGSENBNVItc2Zncw?oc=5</guid><pubDate>Tue, 20 Oct 2026 00:24:53 +0000</pubDate></item><item><title>Claude Code の cross-session messaging で、1 つの文書を複数のセッションと並列に編集する</title><link>https://qiita.com/megmogmog1965/items/503394c2e67881949b95?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] はじめに
+本記事では、Claude Code の複数のセッションと、1 つの文書を並列に編集する方法を紹介します。論点ごとにセッションを分け、人間がそれぞれのセッションと直接やり取りして修正案を承認します。決まった内容は cross-session messaging でほかのセッションに伝えます。
+本記事で紹介する指示は、サンプルコードとして Claude Code の plugin としても公開しています。
+背景
+仕様書や設計書、明確なプロンプトでゴールを示せば、AI は実装やテストを自律的に、しかも並列で進められるようになりました。作業を自分で計画し、ゴールに届いたかどうかもコンパイラや</description><guid isPermaLink="false">https://qiita.com/megmogmog1965/items/503394c2e67881949b95?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 20 Oct 2026 08:14:26 +0000</pubDate></item><item><title>人間のAIに対する判断移譲 - 西尾泰和の外部脳</title><link>https://scrapbox.io/nishio/%E4%BA%BA%E9%96%93%E3%81%AEAI%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%88%A4%E6%96%AD%E7%A7%BB%E8%AD%B2</link><description>[score: 0.880] 人間のAIに対する判断移譲
+2026-10-20
+人間とAIの関係の議論で「最終判断は人間がやる」などといった議論があり、これは数年前の段階ではまあ妥当なものだったが、2024~2026年の2年間で起きたことを踏まえると解像度が低すぎると感じている。
+この期間に「作業をAIに任せる」に加えて、「実行を許可する判断」「人間に質問するかどうかの判断」も委ねるようになった。
+背景にある問題意識としては、AIと人間の速度差が開いていって、人間の承認待ちがボトルネックになったこと。
+As AI becomes a thousand, perhaps ten thousand times faster t</description><guid isPermaLink="false">https://scrapbox.io/nishio/%E4%BA%BA%E9%96%93%E3%81%AEAI%E3%81%AB%E5%AF%BE%E3%81%99%E3%82%8B%E5%88%A4%E6%96%AD%E7%A7%BB%E8%AD%B2</guid><pubDate>Tue, 20 Oct 2026 09:05:39 +0000</pubDate></item><item><title>仕事をAIに頼り切る人は危険。組織で替えが効かない人材になるための6つの行動習慣</title><link>https://forbesjapan.com/articles/detail/106280?s=ns</link><description>[score: 0.880] キャリアアップを目指すなら、誰よりも懸命に働くことが当然の戦略に思えるかもしれない。誰よりも早く出社し、最後に退社し、あらゆる仕事を引き受け、同僚より多くの成果を出す。だが、ビジネスの最前線（フロントランナー）に立ちたいなら、職場における評価の物差しは変わりつつある。
+AIは、誰に対してもより多くの成果物を生み出す力を与える。これからのキャリア上の優位性は、単にどれだけ多くの仕事をこなせるかではない。適応し、測定可能な価値を生み出し、判断力を発揮し、素早く学び、組織にとって替えの効かない存在になれるかどうかである。
+PwCが新たに発表した「Global Workforce Hopes and </description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106280?s=ns</guid><pubDate>Tue, 20 Oct 2026 08:04:32 +0000</pubDate></item><item><title>Claude Code × Figma MCP で作ったデザインを別のAIに検査させる — デザインのグラフエンジニアリング - Qiita</title><link>https://qiita.com/vivi-koh/items/fc957950ba9fd21c1d1b</link><description>[score: 0.883] Claude Code × Figma MCP で作ったデザインを別のAIに検査させる — デザインのグラフエンジニアリング - Qiita Claude Codeで完璧なFigmaを出力させたい Claude Codeに「この画面、Figmaに起こして」と頼むと、Figma上に数分でフレームが出てきます。 ただ、一見して完成品でもデザイナー的には未完成です。 配置や既存画面の情報設計を無視していることも多く、そこは押さえていても色にはデザイントークンの変数を当てずにカラー...</description><guid isPermaLink="false">https://qiita.com/vivi-koh/items/fc957950ba9fd21c1d1b</guid><pubDate>Tue, 20 Oct 2026 10:14:38 +0000</pubDate></item><item><title>「どの国のモデルか」は本質ではない　「中国製LLMは危険な指示を実行」発言で話題の専門家に補足してもらった</title><link>https://www.itmedia.co.jp/aiplus/article/2610/20/2000002430/</link><description>[score: 0.883] 「どの国のモデルか」は本質ではない 「中国製LLMは危険な指示を実行」発言で話題の専門家に補足してもらった（1/2 ページ）
+中国企業が開発したLLMは、危険な指示をそのまま受け取って実行してしまう――テレビ高知の取材でのセキュリティの専門家の回答が話題だ。
+これに対してXや転載先のYahoo!ニュースのコメントでは中国製モデルを危険視する見方が相次いでいるが、「モデルの国籍は関係ないのでは」といった指摘もある。
+中国製LLMは本当に危険なのか。そして、一連の情報漏えい騒動とAIの関係について、問題の本質はどこにあるのか。渦中の専門家、VLCセキュリティラボの中本有哉代表に聞いた。
+中国製LL</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2610/20/2000002430/</guid><pubDate>Tue, 20 Oct 2026 09:18:19 +0000</pubDate></item><item><title>日本企業への不正アクセス、中国のAIツール「ARTEX」使用を確認</title><link>https://www.watch.impress.co.jp/docs/news/2149749.html</link><description>[score: 0.884] ニュース
+日本企業への不正アクセス、中国のAIツール「ARTEX」使用を確認
+2026年10月20日 18:35
+GMOサイバー犯罪対策センターは19日、日本企業を狙った一連の不正アクセスについて、中国で開発されたAIツール「ARTEX(アーテックス)」が攻撃に使われていたことを確認したと発表した。さらに調査を進めた結果、日本企業を標的とするAIを利用した攻撃インフラを新たに6台発見した。
+ARTEXは、中国で開発されたAIによる自律型ペネトレーションテストツール。大規模言語モデル(LLM)と連携し、脆弱性の探索や侵入テストなどを自動化する。もともとはオープンソースとして公開されていたが、サイ</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2149749.html</guid><pubDate>Tue, 20 Oct 2026 09:48:59 +0000</pubDate></item><item><title>約22万円の新型「Mac mini」で初めてのローカルAI体験　ストレージの価格高騰対策にピッタリかも</title><link>https://www.itmedia.co.jp/pcuser/articles/2610/20/news074.html</link><description>[score: 0.884] 世間を見てみると、最近は「ローカルAI」が注目を集めている。要するにLLM（大規模言語モデル）をはじめとする生成AIを手元のPCやワークステーションで動かすということなのだが、個人で取り組む人も見受けられる。
+だが、いろいろ見ていると、「自作PCにNVIDIAの『GeForce RTX 5090』を複数枚組み込みました！」とか、「M5 Ultraチップ積んだ『Mac Studio』を買い増した！」とか、数百万円するマシンで動かすという、ある意味で“豪気”な話ばかり聞こえてくる。
+筆者は、市井のMacユーザーなので、そんな金額スケールでは、とても手が届かない。もうちょっと気軽に生成AIは動かせな</description><guid isPermaLink="false">https://www.itmedia.co.jp/pcuser/articles/2610/20/news074.html</guid><pubDate>Tue, 20 Oct 2026 10:23:37 +0000</pubDate></item><item><title>ふるさとチョイス 445万件の個人情報流出を発表</title><link>https://news.web.nhk/newsweb/na/nd-20261020de62437</link><description>[score: 0.884] ふるさと納税の仲介サイト「ふるさとチョイス」を運営するトラストバンクは、顧客の氏名やメールアドレス、それに住所などの個人情報、445万件あまりが外部に流出したと発表しました。
+会社ではサイトで不正…
+あわせて読みたい
+あす北～西日本で激しい雨か 北日本は荒天に 季節外れの暑さも
+10月20日 19:08
+台風30号 沖縄の先島諸島に23日から接近へ 西日本に影響可能性
+10月20日 18:59
+「ふるさとチョイス」で不正アクセス疑い 阪急阪神百貨店でも
+10月19日 19:23
 不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社
 10月20日 7:48
-ロシアによる記者拘束から1週間 政府「領事面会」強く求める
-10月20日 5:18
+大阪地裁前で男性刺される 逮</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261020de62437</guid><pubDate>Tue, 20 Oct 2026 10:22:34 +0000</pubDate></item><item><title>AI にリバースエンジニアリングさせる REA を触って、持ち帰ったのは「証拠付きで進める」考え方でした</title><link>https://zenn.dev/flinters_blog/articles/3b377ce568d676</link><description>[score: 0.884] はじめに こんにちは。FLINTERSの河内です。 社内で毎週開いている AI 活用の勉強会で、今回（2026-10-19）は REA（Reverse Engineer Anything）を取り上げました。担当は川上さんです。AI エージェントにバイナリやアプリを解析させるためのツールで、10月に入ってから GitHub のスターが急に伸びています。 結論から書くと、REA を使いこなすところまでは行けませんでした。題材選びでつまずき、コマンドの引数でつまずき、最後は別のスキルに切り替えています。それでも私がこの回で一番面白いと思ったのは、REA の設計思想でした。REA は、エージ...</description><guid isPermaLink="false">https://zenn.dev/flinters_blog/articles/3b377ce568d676</guid><pubDate>Tue, 20 Oct 2026 09:57:54 +0000</pubDate></item><item><title>トランプ大統領 接戦の農業州で農家に支援約束</title><link>https://news.web.nhk/newsweb/na/nd-20261020de62212</link><description>[score: 0.885] アメリカのトランプ大統領は中間選挙が2週間後に迫る中、上院議員選挙で接戦が伝えられる中西部カンザス州で演説し、主要な産業の農業への新たな支援策を打ち出して共和党候補への支持を呼びかけました。
+2週…
+あわせて読みたい
+あす北～西日本で激しい雨か 北日本は荒天に 季節外れの暑さも
+10月20日 19:08
+台風30号 沖縄の先島諸島に23日から接近へ 西日本に影響可能性
+10月20日 18:59
+東大の総長選めぐり 文部科学省が選考経緯の検証を要請
+10月20日 12:37
+大阪地裁前で男性刺される 逮捕の容疑者 金銭に関する不満か
+10月20日 17:59
+火星衛星探査機「MMX」 火星へ向か</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261020de62212</guid><pubDate>Tue, 20 Oct 2026 07:58:31 +0000</pubDate></item><item><title>自動運転トラック 一般道で初成功 来年1月の商用運行目指す</title><link>https://news.web.nhk/newsweb/na/nd-20261020de62347</link><description>[score: 0.885] 自動運転トラックの実用化に向けて、高速道路だけでなく、国内で初めて一般道の一部区間での自動運転にシステム開発会社が成功したことが分かりました。この会社では来年1月から商用運行の開始を目指す方針です。 …
+あわせて読みたい
+無人の自動運転タクシー 日本でサービス開始の計画
+9月15日 14:11
+JR東日本が新しいコード決済開始 なぜ鉄道会社が？【Q＆A】
+10月20日 17:47
+盛岡 東北道で車6台絡む事故 1台が炎上 1人死亡
+10月20日 5:09
+台風30号 沖縄の先島諸島に23日から接近へ 西日本に影響可能性
+10月20日 18:59
+火星衛星探査機「MMX」 火星へ向かう軌道に 打</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261020de62347</guid><pubDate>Tue, 20 Oct 2026 09:21:34 +0000</pubDate></item><item><title>食料品の消費税減税関連法案 首相“法案の早期成立目指す”</title><link>https://news.web.nhk/newsweb/na/nd-20261020de61967</link><description>[score: 0.887] 今の国会で最大の焦点となる食料品の消費税減税関連法案が衆議院で審議入りしました。高市総理大臣は、できるだけ早く、減税による負担の軽減を実感してもらえるよう法案の早期成立を目指すとともに、2年後には責任…
+あわせて読みたい
+食料品の消費税減税の課題 財源確保や消費者への影響は
+10月9日 12:49
+食料品の消費税減税関連法案 衆議院で審議入り
+10月20日 13:03
+台風30号 沖縄の先島諸島に23日から接近へ 西日本に影響可能性
+10月20日 18:59
+暖冬で太平洋側中心に降水量多い見込み 気象庁3か月予報
+10月20日 16:53
+あす北～西日本で激しい雨か 北日本は荒天に 季節外れの</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261020de61967</guid><pubDate>Tue, 20 Oct 2026 09:21:34 +0000</pubDate></item><item><title>AI時代の開発プロセスとチームのあり方を考える</title><link>https://qiita.com/kizuku_tabata/items/6d5b58ad0cb832d2a4c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.887] はじめに
+最近、Claude CodeやCodexといったAIコーディングツールを、ツール開発や提案用のPoC（概念実証）開発で活用する機会が増えてきました。
+また、Google Apps Script（GAS）を使ったちょっとした業務改善などでも、AIを活用することがあります。
+実際に使ってみると、単純にコードを書く時間が短くなるだけでなく、開発に対する考え方そのものが少しずつ変わってきていると感じます。
+例えば、最初から細かい設計を固めて実装に入るのではなく、まずAIに作ってもらい、動かしてみて、気になったところを修正する。ある程度形になった段階で、設計書や仕様を整理する。
+こうした進め方</description><guid isPermaLink="false">https://qiita.com/kizuku_tabata/items/6d5b58ad0cb832d2a4c5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 20 Oct 2026 08:14:26 +0000</pubDate></item><item><title>フランス首相 状況次第で新たな外出禁止令求める考え</title><link>https://news.web.nhk/newsweb/na/nd-20261020de62412</link><description>[score: 0.888] フランスでは大規模なデモに乗じて起きた暴動を受けて19日夜から一部の都市で夜間の外出禁止令が出されました。一夜明けて、大きな混乱は報告されていませんが、ルコルニュ首相は必要であれば20日夜も、各県に外…
+あわせて読みたい
+トランプ大統領と距離置く共和党の候補相次ぐ いったいなぜ？
+10月20日 7:24
 米 中間選挙まで2週間 下院は民主党過半数うかがう 上院は接戦
 10月20日 5:37
-世界最大級ファンド「ブラックストー</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261019de61870</guid><pubDate>Mon, 19 Oct 2026 22:06:24 +0000</pubDate></item><item><title>東・西日本で大気不安定に 台風30号の最新情報 確認を</title><link>https://news.web.nhk/newsweb/na/nd-20261019de61878</link><description>[score: 0.882] 前線が停滞する影響で、東日本と西日本を中心に大気の状態が非常に不安定になっていて、北陸で雨雲が発達しています。気象庁は低い土地の浸水や川の増水に警戒するとともに、落雷や竜巻などの激しい突風、ひょうに注…
+トランプ大統領 習主席・プーチン大統領との3者会談実現に意欲
+10月20日 18:16
+フランスでデモ乗じた暴動受け一部の都市で外出禁止令
+10月20日 7:56
+北朝鮮 キム・ヨジョン氏 韓国へ拡声機放送</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261020de62412</guid><pubDate>Tue, 20 Oct 2026 10:22:34 +0000</pubDate></item><item><title>トランプ大統領 習主席・プーチン大統領との3者会談実現に意欲</title><link>https://news.web.nhk/newsweb/na/nd-20261020de61930</link><description>[score: 0.889] アメリカのトランプ大統領は、来月、中国で開かれるAPEC＝アジア太平洋経済協力会議の首脳会議にあわせて、中国の習近平国家主席、ロシアのプーチン大統領との3者での首脳会談の実現に意欲を示しました。
+…
 あわせて読みたい
-火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功
-10月20日 8:25
-不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社
-10月20日 7:48
-食料品の消費税減税関連法案 きょう衆議院で審議入り
-10月20日 5:10
-ロシアによる記者拘束から1週間 政府「領事面会」強く求める
-10月20日 5:18
-米 中間選挙まで2週間 下院は民主党過半数うか</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261019de61878</guid><pubDate>Mon, 19 Oct 2026 22:06:24 +0000</pubDate></item><item><title>AGIの不確実性に挑む経営者へ──「パスカルの賭け」という処方箋</title><link>https://forbesjapan.com/articles/detail/106893?s=ns</link><description>[score: 0.883] ここ数カ月、大企業がかつてない規模でエージェント導入に投資するなか、AIが再びニュースの見出しを賑わせている。昨夏の懸念であった「AIは本当にインパクトをもたらすのか」は、より実存的な恐れへと姿を変えた。すなわち「AIのインパクトは大きすぎるのではないか」という問いである。
-Mythos 5、Fable 5、ChatGPT-5.6のローンチ時に米当局が課した規制は警鐘となり、7月にOpenAIが発表した、テスト中のモデルが「訓練用のケージ」から脱出したことで引き起こされたサイバー攻撃の件が、それをさらに強めた。汎用人工知能（AGI）をめぐる議論が再び俎上に上がり、その派生的な論点である「労働の</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106893?s=ns</guid><pubDate>Mon, 19 Oct 2026 22:11:42 +0000</pubDate></item><item><title>【速報】メール配信会社、900万件情報流出の恐れ</title><link>https://www.47news.jp/15106450.html</link><description>[score: 0.883] 【速報】メール配信会社、900万件情報流出の恐れ
-2026年10月19日 20時24分
-メール配信サービスを手がけるユミルリンクは19日、外部から不正アクセスを受けたと発表した。メールアドレスを含む個人情報延べ約900万件が流出した可能性があるという。
-栃木県警全職員の情報流出か アルカディア不正アクセスで
-05時00分
-下野新聞
-H2Oで顧客126万件漏えい 各社で不正アクセス相次ぐ
-00時45分
-共同通信
-【速報】ジェトロ、743件の個人情報漏えい
-10月19日
-共同通信
-【速報】電子書籍レンタが停止、不正アクセスか
-10月19日
-共同通信
-【速報】ソフトバンク、契約者向けサイト停止
-10</description><guid isPermaLink="false">https://www.47news.jp/15106450.html</guid><pubDate>Mon, 19 Oct 2026 22:19:14 +0000</pubDate></item><item><title>ウェブを吸い尽くしたAI企業が次に狙うのは、あなたの「仕事の進め方」</title><link>https://www.businessinsider.jp/article/2610-ai-workplace-data-training-agents-robots/</link><description>[score: 0.883] AI企業はすでにウェブの大部分をスクレイピングしてきた。いま、彼らが追い求めているのは、さらに価値の高いもの、つまり人間が実際にどのように働いているかを示すデータだ。
-これが、Business Insiderの新シリーズ「The AI Data Grab」のテーマだ。10月12日からの1週間で、職場データをめぐる競争が加速していることを示す3本の記事を公開した。
-チャールズ・ロレット（Charles Rollet）、トム・カーター（Tom Carter）、スティーブン・カウンシル（Stephen Council）の各記者による1本は、急成長する企業記録の市場を取り上げている。
-AI企業は企業に</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-ai-workplace-data-training-agents-robots/</guid><pubDate>Mon, 19 Oct 2026 21:28:51 +0000</pubDate></item><item><title>米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令</title><link>https://www.itmedia.co.jp/news/article/2610/20/2000002405/</link><description>[score: 0.885] 米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令
-米国土安全保障省（DHS）は10月20日（現地時間）付の官報で、国土安全保障長官が中国DeepSeekの製品を連邦政府の民間行政機関の調達とITシステムから排除する命令を出したと公示した。
-命令は2点。1つは、DeepSeekとその関連会社が開発したIT製品およびサービスを、連邦民間機関の調達対象から除外すること。もう1つは、DeepSeekとその関連会社の製品に加え、DeepSeekの実装を用いて開発された第三者の製品およびサービスも、民間機関のITシステムから排除することだ。
-命令は2018年制定の「連邦調達サプライ</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/20/2000002405/</guid><pubDate>Mon, 19 Oct 2026 23:33:22 +0000</pubDate></item><item><title>「米国のAI」も「中国のAI」も存在しない</title><link>https://forbesjapan.com/articles/detail/106886?s=ns</link><description>[score: 0.885] 「米国の」人工知能（AI）などというものは存在しない。「中国の」AIなるものについても同じことが言える。
-実際には、米国と中国の間では優秀な技術人材が驚くほど入り混じっており、彼らの多くはAIの飛躍的な進歩を実現することに精力を注いでいる。大事なのは、現状を米中が通商戦争を繰り広げているというふうな対立構図で捉えないことだ。むしろ、中国人は米国拠点のAI開発を高く評価し、そこで働いてもいれば、米国人もまた中国発の技術構想を高く評価し、投資を通じてその発展を後押ししてきた。この事実にこそ注目すべきなのだ。
-この主張を裏づける事例はたくさんあるが、中国の新興AI企業の一社である月之暗面（ムーンショ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106886?s=ns</guid><pubDate>Mon, 19 Oct 2026 22:11:42 +0000</pubDate></item><item><title>America.govが問う、米国民はAIエージェントに行動を委ねるのか</title><link>https://forbesjapan.com/articles/detail/106904?s=ns</link><description>[score: 0.885] 先週ホワイトハウスが発表したAIエージェント関連の動きのなかで、最も重要なのはAmerica.govかもしれない。人工知能を「スーパーインテリジェンス（超知能）」と呼ぶよう命じた大統領令のほうが大きな注目を集めたとしても、だ。
-9月29日、トランプ大統領は「America.gov」を開設し、連邦政府サービスの唯一のオンライン総合窓口として同サイトを運用するよう、一般調達局（GSA）、ナショナル・デザイン・スタジオ、行政管理予算局（OMB）に指示する大統領令に署名した。
-現在、このサイトは2万9000以上の政府ウェブサイトから取得した情報を用いて質問に回答しており、チャットボットのバックエンドに</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106904?s=ns</guid><pubDate>Mon, 19 Oct 2026 23:07:36 +0000</pubDate></item><item><title>起訴側、収監中の元OpenAIエンジニアはサウジ王室関係者と常時連絡を取り、政府資金で出国準備と主張 — BigGo ファイナンス</title><link>https://finance.biggo.jp/news/ae75d001-12d5-4dc4-87e8-87d43889f6b3</link><description>[score: 0.886] 起訴側、収監中の元OpenAIエンジニアはサウジ王室関係者と常時連絡を取り、政府資金で出国準備と主張 — BigGo ファイナンス 米連邦検察は、元OpenAIエンジニアのアブドゥルラフマン・アルフォザン被告の保釈を認めず身柄拘束を求める申立書を日曜に提出した。同被告がサウジ王室関係者とWhatsAppで頻繁に連絡を取り、サウジのAI構想への... bulldra やっぱりVIVANT的な話になってる</description><guid isPermaLink="false">https://finance.biggo.jp/news/ae75d001-12d5-4dc4-87e8-87d43889f6b3</guid><pubDate>Mon, 19 Oct 2026 22:31:59 +0000</pubDate></item><item><title>電力は競争優位になる　AI時代にデータセンター事業者が発電所を自ら持つ理由</title><link>https://forbesjapan.com/articles/detail/106905?s=ns</link><description>[score: 0.886] 今日のAIモデルの訓練と運用には膨大な量の電力が必要とされており、J.P.モルガンの試算によると、全米上位5社のハイパースケーラーは2026年だけで6970億ドル（約110兆円）を設備投資に費やすという。その投資の多くは、データセンターやコンピューティング能力など、AIシステムの構築と運用に必要なインフラに関連している。
-過去20年の大半において、データセンターと送電網（グリッド）との関係は至ってシンプルだった。コンセントを挿し、光熱費を支払い、電気がどこから来るかは他の誰かに任せておけばよかった。しかし、AIの規模拡大に伴い、そのモデルを維持することはますます困難になっている。
-これは、デー</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106905?s=ns</guid><pubDate>Mon, 19 Oct 2026 23:07:36 +0000</pubDate></item><item><title>Claude Codeの会話を55分放っておいたら、272,422トークンが13,522に圧縮されていました ― アイドル圧縮の観測</title><link>https://zenn.dev/ojisan_ai_lab/articles/claude-code-idle-compaction-20261019</link><description>[score: 0.887] Claude Code のターミナルで27万トークンの会話を claude --resume で開いて1行だけ送り、あとは何も打たずに置いておきました。55.6分後、その会話は13,522トークンまで圧縮されていました。 前々回の記事で、同じ会話でも1時間あけて戻ると、キャッシュから読める割合が6.1%まで落ちると書きました。その1時間が切れる少し前に、放置された会話を要約しておく「アイドル圧縮」が、10月14日の Claude Code v2.1.299 のリリースノートに載っています。 この記事は、公式に書いてあることと、おじさんの環境で実際に起きたことを分けて並べたものです。 ! ...</description><guid isPermaLink="false">https://zenn.dev/ojisan_ai_lab/articles/claude-code-idle-compaction-20261019</guid><pubDate>Mon, 19 Oct 2026 21:49:39 +0000</pubDate></item><item><title>AI検索はJavaScriptを読めるのか？ GeminiとCopilotが好成績</title><link>https://www.suzukikenichi.com/blog/can-ai-search-read-javascript-gemini-and-copilot-perform-well/</link><description>[score: 0.887] [レベル: 上級]
-AI 検索プラットフォームが JavaScript で描画されるコンテンツを読めるかどうかをGSQi の Glenn Gabe（グレン・ゲイブ）氏が再び検証しました。
-2025 年 8 月に公開した記事の続報で、434 日後の公開です。
-結果を大ざっぱに言うと、Gemini と Copilot は JavaScript をレンダリングできました。
-しかし、そのほかの AI プラットフォームは適切に JavaScript をレンダリングできませんでした。
-3 つのテスト結果
-ゲイブ氏が試した検証方法は前回と同じです。
-ChatGPT、Claude、Perplexity、Gem</description><guid isPermaLink="false">https://www.suzukikenichi.com/blog/can-ai-search-read-javascript-gemini-and-copilot-perform-well/</guid><pubDate>Mon, 19 Oct 2026 22:15:56 +0000</pubDate></item><item><title>トランプ氏、ニューメキシコ州を「ニューアメリカ」に改称要求</title><link>https://www.cnn.co.jp/usa/35253749.html</link><description>[score: 0.887] 米ニューメキシコ州サンタフェで並んで掲揚される州旗と星条旗/Robert Alexander/Getty Images/File （CNN） トランプ米大統領は19日、ニューメキシコ州の名称を「ニューアメリカ」に変更するよう求めた。自身の政治的思惑に沿って地名の変更を目指す動きの新たな事例となった。 トランプ氏は、中間選挙に向けた集会が開かれるカンザス州へ出発する直前、SNSに「ニューメキシコ州は直ちに名称をニューアメリカに変更すべきだ。我々はメキシコではない。アメリカ合衆国だ！」と投稿した。 ニューメキシコ州は民主党が優勢で、トランプ氏は2024年の大統領選で同州において6ポイント差で敗北し</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35253749.html</guid><pubDate>Mon, 19 Oct 2026 23:50:42 +0000</pubDate></item><item><title>GMO系「国内不正アクセス、中国製AIソフトの使用確認」 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC198NI0Z11C26A0000000/</link><description>[score: 0.887] この記事は会員限定記事です
-GMO系「国内不正アクセス、中国製AIソフトの使用確認」
-GMOインターネットグループのGMOサイバーセキュリティbyイエラエ（東京・渋谷）は19日、国内への不正アクセス事案について、中国のエンジニアが開発した人工知能（AI）ソフト「ARTEX」が使われていたことを確認したと同社のブログで発表した。
-同ソフトは韓国の金融機関へのサイバー攻撃で使われたとされるが、日本向けの攻撃での使用が明らかになるのは初めてとみられる。
-調査にあたった福森大喜氏は日本経...
-インターネット上に個人の氏名や住所、メールアドレスなど個人情報が流出する事案が相次いでいます。最新のニュース</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC198NI0Z11C26A0000000/</guid><pubDate>Mon, 19 Oct 2026 23:00:16 +0000</pubDate></item><item><title>Claude Codeでプロンプトインジェクションに備える</title><link>https://zenn.dev/luxiar/articles/a341a2df29dcfe</link><description>[score: 0.888] はじめに 昨今はAIによる作業の割合が大きく増え、AI前提の開発が当たり前になりつつあると感じます。私自身、調査から計画、実行、レビューまですべての作業でClaudeを活用しています。 便利な反面、AIを狙った攻撃やAIを悪用した攻撃も登場しており、企業への不正アクセスや個人情報漏洩のニュースを目にする機会も増えました。 AIを活用する上で、こういった話を他人事とせず、個人レベルでどういった対策をすべきか考えていく必要があります。 本記事では、プロンプトインジェクション[1]を取り上げ、Claude Codeを利用する開発者個人ができる対策を紹介します。 背景 Claude Co...</description><guid isPermaLink="false">https://zenn.dev/luxiar/articles/a341a2df29dcfe</guid><pubDate>Mon, 19 Oct 2026 21:49:39 +0000</pubDate></item><item><title>AI業界に移れば時代を先取りできると思っていた。2年後、私は取り残され、AIの話題に疲れ果てている</title><link>https://www.businessinsider.jp/article/2610-work-in-ai-burned-out-cant-keep-up-career/</link><description>[score: 0.888] キャリアの大半において、私は弁護士だった。法律の世界では、専門性が積み上がっていく仕組みにどこか安心感があった。実務経験が長くなるほど、知識が増えていった。
-しかし、厳しい職業で何年も働いたあと、私は燃え尽きてしまった。法律を楽しめなくなったわけではない。ただ、変化が必要だった。
-約2年前、AIこそが未来だと考え、私はキャリアの軸をAIへ移し始めた。10年後に目を覚まして、自分の知らないうちにテクノロジーによって自分の職業が変わっていたと気づくのは避けたかった。
-自分にできる最も賢明なキャリア上の選択に思えた。いまは、そう確信できなくなっている。
-AIIブームに早く加わることは、完璧なキャリア</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-work-in-ai-burned-out-cant-keep-up-career/</guid><pubDate>Mon, 19 Oct 2026 22:26:55 +0000</pubDate></item><item><title>イーロン・マスク氏、米国の子ども全員に「SpaceX株を1株ずつ」配布すると宣言</title><link>https://japan.cnet.com/article/35253730/</link><description>[score: 0.889] イーロン・マスク氏、米国の子ども全員に「SpaceX株を1株ずつ」配布すると宣言 イーロン・マスク氏は10月19日（日本時間）、2027年に米国のすべての子どもに、自身が保有する宇宙開発企業SpaceXの株式を1株ずつ贈る意向をXで表明した。 SpaceX本社でのマスク氏（右、2019年10月撮影。出典：NASA、撮影：NASA/Aubrey Gemignani） ※クリックすると拡大画像が見られます マスク氏は「来年、米国のすべて...</description><guid isPermaLink="false">https://japan.cnet.com/article/35253730/</guid><pubDate>Mon, 19 Oct 2026 22:19:14 +0000</pubDate></item><item><title>AIで最大の成果を上げるエージェンシーは、作業の高速化には使わない</title><link>https://forbesjapan.com/articles/detail/106899?s=ns</link><description>[score: 0.890] AIを最大限活用するエージェンシーは、スピードアップのために使っていない
-現在、多くのエージェンシーに足を踏み入れると、AIのワークフローはこんな具合だ。ブリーフを貼り付け、より速い初稿を手に入れ、昼食前に納品する。これは確かな生産性の向上であり、やめさせたいとは思わない。しかしこれは、こうしたツールが持つ能力の浅い部分にすぎず、それを戦略のすべてだと捉えてしまうと、エージェンシーはよりよい仕事ではなく、より速い凡庸さを手に入れることになる。
-私はAIエージェントを、優秀なチーフ・オブ・スタッフと同じように使うのが好きだ。初稿を書かせるためではなく、初稿と議論させるために。戦略、メディアプラン</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106899?s=ns</guid><pubDate>Mon, 19 Oct 2026 23:07:36 +0000</pubDate></item><item><title>AIが若手の採用を減らし、ボトルネックは「人間の注意」に アンソロピックで起きた変化</title><link>https://www.watch.impress.co.jp/docs/news/2149442.html</link><description>[score: 0.890] ニュース
-AIが若手の採用を減らし、ボトルネックは「人間の注意」に アンソロピックで起きた変化
-2026年10月20日 08:00
-Anthropicは16日(米国時間)、AIが雇用に与える影響についてのレポートを発表した。公開された2本のレポートでは、AnthropicにおけるAI活用の変化とともに採用や雇用の現場の変化について説明している。ジュニアレベルのエンジニアが減少し、働き方も大きく変わった一方で、AIを駆使する人々の中でも「失業」への懸念は高いとする。
-AnthropicはAI導入の最前線(フロンティア)企業であり、AIによって採用のあり方も変化したという。過去1年間で、従業員にお</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2149442.html</guid><pubDate>Mon, 19 Oct 2026 23:09:06 +0000</pubDate></item><item><title>トランプ大統領と距離置く共和党の候補相次ぐ いったいなぜ？</title><link>https://news.web.nhk/newsweb/na/nd-20261019de61784</link><description>[score: 0.891] 候補者の公式ウェブサイトからトランプ大統領の名前や写真が消え、集会への参加も見送られる。
-アメリカの中間選挙まで2週間となる中、与党・共和党の候補の間でトランプ大統領と距離を置く動きが相次いでいます…
-あわせて読みたい
-【アメリカ中間選挙2026 特集ページ】
-「あなたの取り締まりは行き過ぎ」 共和党内からも異論噴出？
-10月13日 20:40
-トランプ大統領の支持は追い風か逆風か 共和党候補の本音は？
-10月12日 11:20
-「監視社会」か「治安の維持」か カメラをめぐる論争
-10月7日 12:10
-バンス副大統領の故郷にいって評判を聞いてみた
-10月4日 14:26
-アメリカ経済の光と影</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261019de61784</guid><pubDate>Mon, 19 Oct 2026 23:01:54 +0000</pubDate></item><item><title>盗聴容疑の元オープンＡＩ従業員、サウジ政府が支援か 米検察主張 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPaU1qMkZhM0V6T3JnY0luaERWeTBlWDN2cUxvVnVaZ2VGN0w1U1gwU1dNZVVDX3ZsVEUzWEJMbVQtUjJrakVlbnRXVDVRNFRqdG9NbXdXSjlyUm9Rdm9zSUFqRDlBdks0M0FFMlBHRVVaQURFemhKLThTc09zUWFqNklwTjItWkE?oc=5</link><description>[score: 0.916] 盗聴容疑の元オープンＡＩ従業員、サウジ政府が支援か 米検察主張 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxPaU1qMkZhM0V6T3JnY0luaERWeTBlWDN2cUxvVnVaZ2VGN0w1U1gwU1dNZVVDX3ZsVEUzWEJMbVQtUjJrakVlbnRXVDVRNFRqdG9NbXdXSjlyUm9Rdm9zSUFqRDlBdks0M0FFMlBHRVVaQURFemhKLThTc09zUWFqNklwTjItWkE?oc=5</guid><pubDate>Mon, 19 Oct 2026 22:34:48 +0000</pubDate></item></channel></rss>
+トランプ大統領と距離置く共和党の候補相次ぐ いったいなぜ？
+10月20日 7:24
+米 中間選挙まで2週間 下院は民主党過半数うかがう 上院は接戦
+10月20日 5:37
+米国務長官は和平目指す姿勢強調もウクライナは不満表明
+10月20日 6:34
+フランスでデモ乗じた暴動受け一部の都市で外出禁止令
+10月20日 7:56
+北朝鮮 キム・ヨジョン氏 韓国へ拡声機放送再開などを警告</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261020de61930</guid><pubDate>Tue, 20 Oct 2026 09:21:34 +0000</pubDate></item><item><title>AIを利用したレガシーコード改善</title><link>https://zenn.dev/naoyuki1212/articles/20261019-legacy-code-with-ai</link><description>[score: 0.891] 以前作ったExcelの差分比較ツールが、テストがなく、依存関係も古いままになっていました。 今回、Claude Codeに3つのゴールを渡して、レガシーコードの改善を進めてもらいました。 今回のアプローチは、『レガシーコード改善ガイド』（マイケル・C・フェザーズ著）の帯に書かれているように、テストがないコードはレガシーコードだ という理解を前提にしています。 そのため、まずテストを用意することを最初のゴールにしました。 この記事では、どんな順番で何を依頼し、AIがどう進め、人間が何を判断したのかをまとめます。 環境 作業期間：2026/10/18-2026/10/19 モデル：Cl...</description><guid isPermaLink="false">https://zenn.dev/naoyuki1212/articles/20261019-legacy-code-with-ai</guid><pubDate>Tue, 20 Oct 2026 09:57:54 +0000</pubDate></item><item><title>NECの委託先にサイバー攻撃　正規アカウント悪用し顧客のサーバ暗号化、個人情報の漏えいも</title><link>https://www.itmedia.co.jp/news/article/2610/20/2000002433/</link><description>[score: 0.892] NECの委託先にサイバー攻撃 正規アカウント悪用し顧客のサーバ暗号化、個人情報の漏えいも
+NECは10月20日、システム開発・保守業務の委託先が9月下旬にサイバー攻撃を受け、その影響でNECの顧客に不正アクセスや情報漏えいの被害が出たと発表した。攻撃者が窃取した正規アカウントの認証情報を悪用したもので、漏えいした情報には個人情報も含まれる。影響のあった複数の顧客にはすでに個別に連絡しており、NECは顧客対応と全容の早期解明を進めている。
+攻撃者は、委託先の端末から正規アカウントを使って顧客のシステム環境に不正アクセスし、サーバ内のファイルを暗号化。これにより各種システムが使えない状態になったと</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/20/2000002433/</guid><pubDate>Tue, 20 Oct 2026 10:23:37 +0000</pubDate></item><item><title>SEOはもう古い。最新のAIマーケティング「AEO」とは何か…急増中の新鋭スタートアップ30社リスト</title><link>https://www.businessinsider.jp/article/seo-aeo-ai-chatbots-search-startups-chatgpt-openai-google-d/</link><description>[score: 0.892] SEO（検索エンジン最適化）とは、ウェブサイトやその他のオンラインコンテンツを、ユーザーがGoogleで検索した際に目立つようにする技術だ。
+Googleが意図的に不透明なルールを設定し、ウェブサイト運営者がそのルールに対して調整を行い、システムを攻略しようとする相互作用の周辺には、専門家、アドバイザー、グル（そして詐欺師）からなる巨大な産業が形成されている。
+しかし、生成AI、大規模言語モデル（LLM）、AIチャットボットの台頭は、この状況を急速に根本から変えつつある。
+SEOはデジタルマーケティング戦略の柱として長年機能してきたが、新たなパラダイムが急速にその地位を脅かしている。「アンサー</description><guid isPermaLink="false">https://www.businessinsider.jp/article/seo-aeo-ai-chatbots-search-startups-chatgpt-openai-google-d/</guid><pubDate>Tue, 20 Oct 2026 08:40:10 +0000</pubDate></item><item><title>Claude Code で CI 待ち時間を 18 分から 4 分台に短縮する【GitHub Actions】</title><link>https://zenn.dev/edash_tech_blog/articles/5b90aa33bd8d49</link><description>[score: 0.896] はじめに こんにちは。e-dash でエンジニアをしている iakito です。 AI コーディングエージェントを使って開発していると、実装と一緒にテストも増えていき、気づいたときには膨大な量になっていることがあります。私が担当しているプロダクトも例外ではなく、PR CI の待ち時間は長いときで 18 分を超え、日々の開発で地味なストレスになっていました。 本記事では、Claude Code を使ってこの待ち時間を 4 分台まで短縮した取り組みを紹介します。 背景 CI 改善の対象は日々開発をしている Next.js（TypeScript）のアプリケーションです。テストには Vi...</description><guid isPermaLink="false">https://zenn.dev/edash_tech_blog/articles/5b90aa33bd8d49</guid><pubDate>Tue, 20 Oct 2026 09:57:54 +0000</pubDate></item><item><title>OpenAIのスパイ容疑者は「サウジアラビア政府文書」というフォルダにアクセスしていた</title><link>https://gigazine.net/news/20261020-openai-spy-access-saudi-gov-folder/</link><description>[score: 0.898] OpenAIのスパイ容疑者は「サウジアラビア政府文書」というフォルダにアクセスしていた
+2026年10月13日、OpenAIのオフィスに盗聴器を仕掛けた容疑でサウジアラビア国籍の従業員が逮捕されたことが公表されました。この男について多くのことが分かってきています。
+US-v-Alfozan-Memo-in-Support-of-Motion-for-Detention-10-18-26.pdf
+(PDFファイル)https://cdn.arstechnica.net/wp-content/uploads/2026/10/US-v-Alfozan-Memo-in-Support-of-Motio</description><guid isPermaLink="false">https://gigazine.net/news/20261020-openai-spy-access-saudi-gov-folder/</guid><pubDate>Tue, 20 Oct 2026 05:14:05 +0000</pubDate></item><item><title>委託先への不正アクセスに起因するお客さまのシステム障害、情報漏えいに関するお詫び</title><link>https://jpn.nec.com/news/info/20261020.html</link><description>[score: 0.900] 委託先への不正アクセスに起因するお客さまのシステム障害、情報漏えいに関するお詫び 当社がシステム開発および保守業務を委託している企業（以下「委託先」）が9月下旬にサイバー攻撃を受け、窃取された正規アカウントの認証情報が悪用されたことにより、当社のお客さまにおいて、不正アクセスによる被害の発生や個人情報を含む情報の漏えいを確認しました。影響のあった複数のお客さまには既に個別に連絡...</description><guid isPermaLink="false">https://jpn.nec.com/news/info/20261020.html</guid><pubDate>Tue, 20 Oct 2026 10:14:38 +0000</pubDate></item><item><title>【特集】 Xeon Platinumをスマホから使える!? Claudeのクラウドセッション</title><link>https://pc.watch.impress.co.jp/docs/topic/feature/2149014.html</link><description>[score: 0.900] 特集
+Xeon Platinumをスマホから使える!? Claudeのクラウドセッション
+2026年10月20日 06:03
+必要なデータだけGitHubに転送して、あとはPCの電源を切ったまま、Androidアプリを1本仕立ててしまった。しかも指示の大半はショッピングモールで買い物しながら、スマホでポチポチっと伝えるだけだった……。
+使ったのはAnthropicの「クラウドセッション」、もとい「Claude Code on the web」だ。2025年10月にリサーチプレビューとして提供が始まり、今年(2026年)の9月に正式版に変わった。そのタイミングで、250ドル(約3万9,750円！</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2149014.html</guid><pubDate>Tue, 20 Oct 2026 08:04:47 +0000</pubDate></item><item><title>トランプ氏支持率、最低を更新 31％、ロイター世論調査 - 47NEWS</title><link>https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RZHJzQU1OOVhRVzBEd25SVGZ1a3dZbjdOdmZHTlRkV2hyNUF2ZDNLSEl4eEZqc1FTREJ5aE5xZ0Joc2hSdzdjVF9Oaw?oc=5</link><description>[score: 0.914] トランプ氏支持率、最低を更新 31％、ロイター世論調査 47NEWS</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiS0FVX3lxTE5RZHJzQU1OOVhRVzBEd25SVGZ1a3dZbjdOdmZHTlRkV2hyNUF2ZDNLSEl4eEZqc1FTREJ5aE5xZ0Joc2hSdzdjVF9Oaw?oc=5</guid><pubDate>Tue, 20 Oct 2026 06:06:55 +0000</pubDate></item></channel></rss>
