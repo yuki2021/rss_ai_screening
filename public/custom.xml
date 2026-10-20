@@ -1,153 +1,114 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 19 Oct 2026 21:09:42 +0000</lastBuildDate><item><title>不正アクセスとアカウント管理に関するご注意 | FINAL FANTASY XIV, The Lodestone</title><link>https://jp.finalfantasyxiv.com/lodestone/news/detail/7a3ea81bad4e15c107251cfe644209dcc2cd4e08</link><description>[score: 0.864] 不正アクセスとアカウント管理に関するご注意 | FINAL FANTASY XIV, The Lodestone 現在、他社のオンラインサービス（以下「他社サービス」）で流出したと思われるメールアドレス／アカウントIDおよびパスワードを組み合わせて、お客様のスクウェア・エニックス アカウントへの不正なログインが行われているケースがあることを確認しております。 お客様が他社サービスでお使いになっているメールアドレ...</description><guid isPermaLink="false">https://jp.finalfantasyxiv.com/lodestone/news/detail/7a3ea81bad4e15c107251cfe644209dcc2cd4e08</guid><pubDate>Mon, 19 Oct 2026 13:11:23 +0000</pubDate></item><item><title>【Lambda Web Functions × CloudFront OAC】Lambda Web Functionsを使えばx-amz-content-sha256なしのPOSTが403になる問題が解決します！</title><link>https://qiita.com/yosuke-suzuki/items/68c533536352475c4b4e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.867] はじめに
-個人で「AI模試ノート」というAWS認定試験の学習アプリを運用しています。
-2026年8月にLambda Web Adapter + Function URL + CloudFrontの構成へ移したのですが、OACを付けるとPOSTだけが403になりました。
-原因は、Function URLがボディのSHA256をx-amz-content-sha256
-ヘッダーで求めるのに、ブラウザのfetch()
-がこのヘッダーを付けないことでした。
-ここでは、Function URLをauthType: NONE
-に戻し、シークレットヘッダー(x-origin-verify
-)をNext.js</description><guid isPermaLink="false">https://qiita.com/yosuke-suzuki/items/68c533536352475c4b4e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 19 Oct 2026 20:16:50 +0000</pubDate></item><item><title>スクエニアカウントに不正ログイン、他社で流出の情報使用か　全アカウントのパスワード強制リセットも視野に</title><link>https://www.itmedia.co.jp/news/article/2610/19/2000002397/</link><description>[score: 0.867] スクエニアカウントに不正ログイン、他社で流出の情報使用か 全アカウントのパスワード強制リセットも視野に ゲーム大手のスクウェア・エニックスは10月19日、「スクウェア・エニックス アカウント」への不正ログインを確認したと発表した。他社から流出したとみられるID・パスワードを悪用する、いわゆる「パスワードリスト型攻撃」によるもので、パスワードを使い回している利用者などに至急変更するよう呼びかけた。 他社サー...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/19/2000002397/</guid><pubDate>Mon, 19 Oct 2026 15:25:39 +0000</pubDate></item><item><title>上皇后さま 92歳の誕生日</title><link>https://news.web.nhk/newsweb/na/nd-20261019de61822</link><description>[score: 0.867] 上皇后さまは20日、92歳の誕生日を迎えられました。
-宮内庁によりますと、上皇后さまは高齢に伴う体力の低下で疲れが出やすくなり、散策時に歩く距離も次第に短くなっていますが、体調に大きな変化はなく、…
-注目ワード
-あわせて読みたい
-「ふるさとチョイス」で不正アクセス疑い 阪急阪神百貨店でも
-10月19日 19:23
-サッカー マンチェスターシティーの財務規則違反を認定
-10月19日 19:46
-高校無償化でも“私立は選べず”約3割 低所得世帯にNGO調査
-10月19日 19:27
-ストーカー加害者にGPS機器など検討へ 踏み込んだ対策の背景は
-10月19日 19:48
-“簗氏 事務員報酬支払い”</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261019de61822</guid><pubDate>Mon, 19 Oct 2026 15:47:34 +0000</pubDate></item><item><title>New RelicのEvents to Metricsで、8日で消えるイベントからSLIを13ヶ月残す</title><link>https://qiita.com/zucky-quest/items/3e6efda07e067ffb4ac4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.867] TL;DR
-- 月次の SLI（API の可用性、API と画面の応答時間 p95）と画面の利用指標を、New Relic から出したかった
-- ところが、利用しているプランでは
-Transaction
-やPageView
-などのイベントが 8 日で消えます。月が終わってから集計しようとしても、もうデータがありません - **Events to Metrics（E2M）**でイベントを Metric に変換して残すことにしました。Metric は 13 ヶ月保持されます
-- E2M には制約が多く、特に効いたのは 3 つでした。集計関数は 3 種類だけ。1 メトリクス名に 1 ルール。ルールは</description><guid isPermaLink="false">https://qiita.com/zucky-quest/items/3e6efda07e067ffb4ac4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 19 Oct 2026 20:16:50 +0000</pubDate></item><item><title>NWの自動化はなぜ進まないのか(1) - 「割に合わない」が積み上がる構造</title><link>https://qiita.com/corestate55/items/3c14cf36091495d8880b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.868] はじめに
-何をいまさら…という話ですが、クラウドの世界では Infrastructure as Code や Kubernetes による運用の自動化が当たり前になりました。
-NW運用領域でも、Ansible などで設定変更や情報収集をしているところは多いでしょう。では、それでNW運用は楽になったでしょうか? もうこれで十分自動化されていると感じていますか? デバイスに対する設定変更は自動化できた…とはいえ変更作業のたびに構成図を広げ、影響範囲を人が洗い出し、機器ごとの手順書を書き、検証環境で検証し、作業後に人が確認している。こうした一連のプロセスの多くは今でも人力で回っていませんか? コンフ</description><guid isPermaLink="false">https://qiita.com/corestate55/items/3c14cf36091495d8880b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 19 Oct 2026 20:16:50 +0000</pubDate></item><item><title>中国の経済成長が加速、AI輸出ブームが国内消費の低迷を上回る - BBCニュース</title><link>https://www.bbc.com/japanese/articles/cqly0vee2zm4o</link><description>[score: 0.869] 中国の経済成長が加速、AI輸出ブームが国内消費の低迷を上回る
-オズモンド・チア・ビジネス記者
-中国の経済成長率は、9月末までの3カ月間で回復した。AIブームが輸出を押し上げ、3年ぶりの低水準から回復した。
-中国国家統計局が19日発表した7～9月期の国内総生産（GDP）は、前年同期比4.5％増加。伸び幅は、4～6月期の4.3％から大きくなったものの、1～3月期の5％は下回った。
-最新の経済成長率は、中国政府が掲げる年間成長目標4.5％～5％の下限値に位置している。アナリストらは、これにより政策立案者が中国の経済的課題に対処する余地が生まれると指摘している。
-輸出は国内消費の低迷をある程度、相殺す</description><guid isPermaLink="false">https://www.bbc.com/japanese/articles/cqly0vee2zm4o</guid><pubDate>Mon, 19 Oct 2026 18:47:37 +0000</pubDate></item><item><title>米国に裏切られたゼレンスキー、中間選挙のためウクライナを犠牲にするトランプと決別する覚悟 | JBpress (ジェイビープレス)</title><link>https://jbpress.ismedia.jp/articles/-/97566</link><description>[score: 0.874] 米国に裏切られたゼレンスキー、中間選挙のためウクライナを犠牲にするトランプと決別する覚悟 | JBpress (ジェイビープレス) ［ロンドン発］ドナルド・トランプ米大統領を長年ウォッチしてきた英紙フィナンシャル・タイムズのコラムニスト、エドワード・ルース氏が10月16日付コラムでウクライナのウォロディミル・ゼレンスキー大統領がトランプ氏への慎重な姿勢を捨て、正面から異議を唱え始めたと論じている。 「トランプ氏は権威主義的指導者や...</description><guid isPermaLink="false">https://jbpress.ismedia.jp/articles/-/97566</guid><pubDate>Mon, 19 Oct 2026 13:33:48 +0000</pubDate></item><item><title>主張：子どものSNS禁止、抜け道を塞ぐほどネットは危険に</title><link>https://www.technologyreview.jp/s/393351/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/</link><description>[score: 0.875] You need to enable JavaScript to run this app.</description><guid isPermaLink="false">https://www.technologyreview.jp/s/393351/kids-are-outsmarting-social-media-bans-thats-not-a-problem-we-need-to-solve/</guid><pubDate>Mon, 19 Oct 2026 20:55:09 +0000</pubDate></item><item><title>https://x.com/polymarketjapan/status/2112166988504248759</title><link>https://x.com/polymarketjapan/status/2112166988504248759</link><description>[score: 0.875] Polymarket Japan@polymarketjapanShow translation【速報】国内サイバー攻撃に中国製AI、GMO系が確認 ・システムの弱点を自律的に探すAIソフト「ARTEX」の使用を確認 ・攻撃用サーバー6台に痕跡、国内の少なくとも約80社が標的に ・標的のうち8社が9〜10月に情報漏えいを公表1:00 PM · Oct 19, 2026·338.3KViews317131.9K456
-Polymarket Japan@polymarketjapanShow translation【速報】国内サイバー攻撃に中国製AI、GMO系が確認 ・システムの弱点を自律的に探す</description><guid isPermaLink="false">https://x.com/polymarketjapan/status/2112166988504248759</guid><pubDate>Mon, 19 Oct 2026 17:19:35 +0000</pubDate></item><item><title>マスク氏、米国のすべての子どもにスペースX株贈与へ</title><link>https://www.afpbb.com/articles/-/3658338</link><description>[score: 0.875] マスク氏、米国のすべての子どもにスペースX株贈与へ 米実業家で世界一の富豪、イーロン・マスク氏（2025年3月24日撮影）。（c）Brendan Smialowski/AFP 【10月19日 AFP】米実業家で世界一の富豪、イーロン・マスク氏は19日、自身が率いる宇宙開発企業スペースXの株... firststar_hateno お子さまに株が贈られるとは、未来の王子様たちへのプレゼントですわね。果たしてその意図は？</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3658338</guid><pubDate>Mon, 19 Oct 2026 17:19:35 +0000</pubDate></item><item><title>米ロ中首脳会談に前向き、非核化協議の可能性＝トランプ氏 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQT3piN19qdUR5bnFqTHFGS1ZkeVB3UUxtSk80bjhaazQzZW1SS3pkUjFGdHN2NzZYd3daaVkzUjZlbWpiMlVvbWg4VVRBajdGU3d5djF1R2xNMDFBeS1Md19iNXE2aHFiTDJfcXhUcnotMm5NZHlBLXQ4eHlDRjhqemgzbWo4UQ?oc=5</link><description>[score: 0.877] 米ロ中首脳会談に前向き、非核化協議の可能性＝トランプ氏 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQT3piN19qdUR5bnFqTHFGS1ZkeVB3UUxtSk80bjhaazQzZW1SS3pkUjFGdHN2NzZYd3daaVkzUjZlbWpiMlVvbWg4VVRBajdGU3d5djF1R2xNMDFBeS1Md19iNXE2aHFiTDJfcXhUcnotMm5NZHlBLXQ4eHlDRjhqemgzbWo4UQ?oc=5</guid><pubDate>Mon, 19 Oct 2026 20:26:34 +0000</pubDate></item><item><title>「関西生コン」委員長らの無罪が確定へ　大阪高検が上告を断念「適法な上告理由を見いだし難い」　生コン出荷を妨害し1億5000万円を脅し取った罪で一・二審無罪　 | TBS NEWS DIG</title><link>https://newsdig.tbs.co.jp/articles/-/3023067</link><description>[score: 0.877] 生コンクリートの出荷を妨害し、金を脅し取った罪に問われた労働組合の委員長らに対し、一審に続き無罪を言い渡した大阪高裁の判決について、大阪高検は上告を断念したと明らかにしました。全日本建設運輸連帯労働…
-注目の記事
-不正アクセス急増背景に“中国製LLM”台頭、AIが自動で偵察→侵入→情報奪取「情報漏れていない人の方が珍しい」専門家が警鐘、対策は?
-AIが冷蔵庫や掃除機を「乗っ取り」？パスワードも流出…身近なスマート家電に迫るサイバー攻撃の脅威 今すぐできる防御策とは 【サンデーモーニング】
-20代なのに…「足の握力」が80代!?若い世代にも見られる“衰え”の原因と足指を鍛える重要性とは【THE </description><guid isPermaLink="false">https://newsdig.tbs.co.jp/articles/-/3023067</guid><pubDate>Mon, 19 Oct 2026 19:52:15 +0000</pubDate></item><item><title>教皇、ゼレンスキー氏にロシアとの協力要請 人道危機下のオレシキ支援巡り - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNZXYzeUlpZXFJZDRIMjR4MGoxUC1HTElTYU53RTRhRHptSkNCV0RyRVJscVJhbmtJSmoxRy0xbk51d1owYURLWHZ4SGtvSjZwWVRWd2xEN0JHVzFpVFppTnNCVVRtYWp0b01pWklkRHZtU0Q5N2p4RExQb1A5NUZNRWZRU25pQQ?oc=5</link><description>[score: 0.878] 教皇、ゼレンスキー氏にロシアとの協力要請 人道危機下のオレシキ支援巡り Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNZXYzeUlpZXFJZDRIMjR4MGoxUC1HTElTYU53RTRhRHptSkNCV0RyRVJscVJhbmtJSmoxRy0xbk51d1owYURLWHZ4SGtvSjZwWVRWd2xEN0JHVzFpVFppTnNCVVRtYWp0b01pWklkRHZtU0Q5N2p4RExQb1A5NUZNRWZRU25pQQ?oc=5</guid><pubDate>Mon, 19 Oct 2026 20:26:34 +0000</pubDate></item><item><title>拘束続くスー・チー氏に英国王からの本や書簡と政権側が発表</title><link>https://news.web.nhk/newsweb/na/nd-20261020de61893</link><description>[score: 0.878] ミャンマーで拘束が続いている民主化運動の指導者、アウン・サン・スー・チー氏に19日、イギリスのチャールズ国王から送られた本や書簡などが手渡されたと軍の影響力が強い政権が発表しました。政権側としては、処…
-あわせて読みたい
-トランプ大統領とゼレンスキー大統領 ロシアめぐり溝浮き彫り
-10月19日 12:23
-北朝鮮 キム・ヨジョン氏 韓国へ拡声機放送再開などを警告
-10月19日 23:21
-ブラジル大統領決選投票まで1週間 支持率きっ抗激しい選挙戦
-10月19日 14:41
-フランス デモに乗じた暴動で店舗1500以上被害か イタリアでも
-10月19日 19:08
-ミクロネシア大統領が来日へ 高</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261020de61893</guid><pubDate>Mon, 19 Oct 2026 19:55:18 +0000</pubDate></item><item><title>盛岡 東北道で車6台絡む事故 1台が炎上 1人死亡</title><link>https://news.web.nhk/newsweb/na/nd-20261020de61903</link><description>[score: 0.879] 20日未明、盛岡市の東北自動車道で車6台が絡む事故があり、乗用車1台が燃え1人が死亡しました。警察が事故の詳しい状況を調べています。
-警察によりますと、20日午前0時半ごろ、盛岡市の東北自動車道の…
-あわせて読みたい
-火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功
-10月20日 5:57
-不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社
-10月20日 5:01
-「ふるさとチョイス」で不正アクセス疑い 阪急阪神百貨店でも
-10月19日 19:23
-“簗氏 事務員報酬支払い”報道 大学教授が宇都宮地検に告発状
-10月19日 20:50
-台風30号急発達 猛烈な勢力に 沖縄</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261020de61903</guid><pubDate>Mon, 19 Oct 2026 21:00:38 +0000</pubDate></item><item><title>WFP“資金不足でガザの約50万人 食料支援が受けられなくなる”</title><link>https://news.web.nhk/newsweb/na/nd-20261020de61895</link><description>[score: 0.882] パレスチナのガザ地区での食料支援についてWFP＝世界食糧計画は活動資金の不足から今月以降、およそ50万人が支援を受けられなくなると発表し、人道状況のさらなる悪化が懸念されます。
-国連のWFP＝世界…
-注目ワード
-あわせて読みたい
-トランプ大統領とゼレンスキー大統領 ロシアめぐり溝浮き彫り
-10月19日 12:23
-北朝鮮 キム・ヨジョン氏 韓国へ拡声機放送再開などを警告
-10月19日 23:21
-ブラジル大統領決選投票まで1週間 支持率きっ抗激しい選挙戦
-10月19日 14:41
-フランス デモに乗じた暴動で店舗1500以上被害か イタリアでも
-10月19日 19:08
-ミクロネシア大統領が来</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261020de61895</guid><pubDate>Mon, 19 Oct 2026 19:55:18 +0000</pubDate></item><item><title>世界最大級ファンド「ブラックストーン」 日本に約6兆円投資へ</title><link>https://news.web.nhk/newsweb/na/nd-20261019de61876</link><description>[score: 0.882] 世界最大規模の投資ファンド「ブラックストーン」のスティーブン・シュワルツマン会長兼CEOは、NHKのインタビューに応じ、今後3年間の日本への投資額を400億ドル、日本円で6兆円規模に引き上げる方針を明…
-あわせて読みたい
-火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功
-10月20日 5:57
-不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社
-10月20日 5:01
-「ふるさとチョイス」で不正アクセス疑い 阪急阪神百貨店でも
-10月19日 19:23
-“簗氏 事務員報酬支払い”報道 大学教授が宇都宮地検に告発状
-10月19日 20:50
-台風30号急発達 猛烈な勢力に </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261019de61876</guid><pubDate>Mon, 19 Oct 2026 21:00:38 +0000</pubDate></item><item><title>AWS初心者がエンジニアを辞めた話</title><link>https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] はじめに
-こんにちは。Tsukasaです！
-タイトルにある通りエンジニアを辞めました！
-今日は今までのキャリアの振り返りと何故エンジニアになったのか？そして何故辞めたのか？について振り返りたいと思います。
-今までのキャリア
-私は国際学部国際学科出身の正真正銘の文系です。
-学生時代は韓国に留学していたこともあり、就活の軸は語学を活かしてグローバルに活躍できることでした。当時はエンジニアなんて全く考えていませんでしたし、エンジニアが何なのかもよくわかっていませんでした。
-銀行員時代
-新卒で入社したのは韓国系の外資金融でした。語学が活かせるということで支店の窓口勤務をしていました。お客さんの中には日</description><guid isPermaLink="false">https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 19 Oct 2026 20:16:50 +0000</pubDate></item><item><title>トランプ氏、北朝鮮総書記との会談に不透明感 来月アジア訪問時 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBzT1JmQlRBb21nT3FYYUhfUXl0QkRHalp3OThxc0U5TWNUYXptRGRMd1Q2ckptNDJLMzhSSkxhTkctb2tiRzBOLWd4YTFxeUozT1FtcE94OEVTMVZiOGdLZ3BFYjVicVM4MEFPTVliU3piVW9MZ1I5R2hUM1dkLVk?oc=5</link><description>[score: 0.884] トランプ氏、北朝鮮総書記との会談に不透明感 来月アジア訪問時 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFBzT1JmQlRBb21nT3FYYUhfUXl0QkRHalp3OThxc0U5TWNUYXptRGRMd1Q2ckptNDJLMzhSSkxhTkctb2tiRzBOLWd4YTFxeUozT1FtcE94OEVTMVZiOGdLZ3BFYjVicVM4MEFPTVliU3piVW9MZ1I5R2hUM1dkLVk?oc=5</guid><pubDate>Mon, 19 Oct 2026 20:26:34 +0000</pubDate></item><item><title>プライベートで雇った AI 秘書を、2 週間育ててみた</title><link>https://qiita.com/araom/items/f59a75e188824dfdd16c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] はじめに
-本記事は、プライベートで雇った AI 秘書（Claude Code）を、前回の記事から 2 週間（2026-10-04〜10-17）かけて育てた記録です。
-前回の記事「仕事が忙しいので、プライベートに AI 秘書を雇ってみた」の続編です。
-前回は、エージェントに「何をさせないか」の仕組みと、コンテキストを複利で積み上げる考え方を紹介しました。
-今回は、その考え方で 2 週間使い続けた結果です。
-この記事では、
-- 2 週間でできるようになったこと
-- 作業のたびにレポートを作り、振り返りと「育てる提案」を出させるループ
-- 使ってみて分かった、サブエージェントとキャッシュのコスト
--</description><guid isPermaLink="false">https://qiita.com/araom/items/f59a75e188824dfdd16c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 19 Oct 2026 20:16:50 +0000</pubDate></item><item><title>相次ぐ不正アクセスやサイバー攻撃、「ＡＩによる自動化攻撃が始まった」…「トレンドマイクロ」社長が指摘</title><link>https://www.yomiuri.co.jp/economy/20261019-GYT1T00305/</link><description>[score: 0.885] 相次ぐ不正アクセスやサイバー攻撃、「ＡＩによる自動化攻撃が始まった」…「トレンドマイクロ」社長が指摘
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 20 Oct 2026 00:04:03 +0000</lastBuildDate><item><title>答えではなく「問い」を求めよ──テック幹部ディーナ・ビンガムが説く「逆方向」の思考法</title><link>https://forbesjapan.com/articles/detail/106891?s=ns</link><description>[score: 0.877] 直感に反しているように見えて、完璧に理にかなっている主張──私はこうした意見にどうしても抗えない。惹きつけられ、探求してしまうのだ。そして時に、それがあまりにも明快で、追及せずにはいられなくなることがある。25年以上IBMの幹部を務め、企業のオペレーショナル・エクセレンスや変革の推進を支援してきたディーナ・ビンガムの話を最近聞いた時もまさにそうだった。一体どういうことだろうか。
+私の興味を惹きつけた彼女の言葉とは何だったのか。なぜ私は、これほど直感に反する言葉にそれほど唖然としたのだろうか。
+あらゆる業界でAI（人工知能）が議論の中心となっているような時代に、実績豊かなこのIT幹部は、拍子抜け</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106891?s=ns</guid><pubDate>Mon, 19 Oct 2026 22:11:42 +0000</pubDate></item><item><title>Apple、AIで服を脱がすアプリや顔交換アプリの「性的ディープフェイク」規制強化　App Store審査ガイドライン改訂で開発者に対応責任</title><link>https://www.techno-edge.net/article/2026/10/20/5609.html</link><description>[score: 0.877] AppleがApp Storeの審査ガイドラインを改訂し、人物の画像をAIで裸や下着にする「脱衣(ヌーディファイ)」アプリなど、「同意のない性的画像」(NCII)を生成できるアプリへの規制を強化しました。
+画像や動画を生成できるAIアプリ全般に「同意のない性的画像」を防ぐ責任を課し、審査通過後に問題の機能を加える抜け道も新しい条項で禁じました。
+■ 汎用AIアプリにも性的画像対策の責任
+露骨な性的画像は、もともとApp Storeのガイドラインで禁止されています。今回の改訂についての告知では、実在人物の性的画像を本人の同意なく作るアプリもこの禁止に含まれると明言しました。
+(ただし、写っている</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/10/20/5609.html</guid><pubDate>Mon, 19 Oct 2026 23:31:46 +0000</pubDate></item><item><title>マツリカがAI活用の構想から定着まで支援する「Sozo AI Solutions」提供開始、6サービスを展開</title><link>https://webtan.impress.co.jp/n/2026/10/20/53473</link><description>[score: 0.877] マツリカがAI活用の構想から定着まで支援する「Sozo AI Solutions」提供開始、6サービスを展開 日々の業務の中でAIを活用できる仕組みづくりを支援する新しい「Sozo事業」を始動 noboru.kojima 2026年10月20日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 営業・マーケティング領域のAIソリューションを開発・提供するマツリカは、企業のAX(AIトランスフォーメーション：AIを活用した業務・組織の変革)を加速する「Sozo AI Solutions(ソウゾウAI ソリューションズ)」の提供を開始すると10月19日に発表した。「構想する」「</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/10/20/53473</guid><pubDate>Mon, 19 Oct 2026 22:11:25 +0000</pubDate></item><item><title>サイバー攻撃受け情報漏えい、中国語のＡＩエージェント悪用か…国内８０社への攻撃巡り痕跡</title><link>https://www.yomiuri.co.jp/national/20261019-GYT1T00477/</link><description>[score: 0.879] サイバー攻撃受け情報漏えい、中国語のＡＩエージェント悪用か…国内８０社への攻撃巡り痕跡
 完了しました
-サイバーセキュリティー大手のトレンドマイクロ（東京）のエバ・チェン社長は１９日、都内で記者会見を開き、相次ぐ不正アクセスやサイバー攻撃について「ＡＩ（人工知能）による自動化攻撃が始まった」との見方を示した。「盗まれた情報をＡＩで分析し、さらに巧妙な攻撃が仕掛けられる恐れがある」として、警戒を強める必要性を強調した。
-トレンドマイクロによれば、今年１～９月に公表された国内の被害件数は６０７件で、昨年１年間の件数（５９４件）をすでに上回っている。チェン氏は「ＡＩによって極めて短期間に</description><guid isPermaLink="false">https://www.yomiuri.co.jp/economy/20261019-GYT1T00305/</guid><pubDate>Mon, 19 Oct 2026 17:07:50 +0000</pubDate></item><item><title>米 中間選挙まで2週間 下院は民主党過半数うかがう 上院は接戦</title><link>https://news.web.nhk/newsweb/na/nd-20261020de61904</link><description>[score: 0.885] トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙まで20日で2週間です。連邦議会下院は、野党・民主党が過半数をうかがい、上院は、与党・共和党と民主党の間で多数派の確保をめぐって接戦…
+国内の企業・団体がサイバー攻撃を受けて個人情報が大量漏えいしている問題で、システムの
+「ＧＭＯサイバーセキュリティｂｙイエラエ」（東京）が、サイバー攻撃を受けた国内の被害企業から依頼を受け、外部機関と連携して調査した。
+その結果、９月１８日～１０月１８日の間に国内企業への攻撃で使われた海外の公開サーバー６台が特定された。６台を解析したところ、いずれも中国語のＡＩエージェント「ＡＲＴＥＸ（アルテックス）」がサーバー上で使われた痕跡が見つかった。他のＡＩエージェントの形跡はなかったことから、同社は</description><guid isPermaLink="false">https://www.yomiuri.co.jp/national/20261019-GYT1T00477/</guid><pubDate>Mon, 19 Oct 2026 21:19:39 +0000</pubDate></item><item><title>短い指示だけであとは丸投げ——ハッカーがAIで日本含む4か国100社超に侵入していたとの報告</title><link>https://www.techno-edge.net/article/2026/10/20/5607.html</link><description>[score: 0.879] サイバーセキュリティ企業NorForgeは2026年10月19日、ハッカーがAIエージェントを駆使して米国・カナダ・オーストラリア・日本の企業100社超のウェブサイトへの侵入に成功していたとの調査報告を公表しました。
+被害を受けた企業のなかにはJohn Deere、SharkNinja、Cumminsといった大手企業も含まれ、AIによってサイバー攻撃を実行する側のハードルがいかに下がっているかを示す事例として注目されます。
+報告書によれば、ハッカーがAIに与えた指示はわずか100字未満の中国語プロンプトだけで、あとはAIエージェントが自律的にターゲットの脆弱性を探し、侵入を試みたとのこと。全体</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/10/20/5607.html</guid><pubDate>Mon, 19 Oct 2026 21:51:21 +0000</pubDate></item><item><title>米国の判断「説明困難」、支援巡りゼレンスキー氏が疑問 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPQlFyZjhaTVdCTk1RYm5WQnlyY0Y5a2ZPdXI2SXRKT19EZjR5Wjh1b2pCRTBqMk5JZVdIMGNmLV9sM2hBMnpjS1dMcjU1SHVHem1jSlBLcnJtaDR1d2NfZk1HSmlHVDVLTTFCX0VQRWtqNGNMemVQcVpGLWJwbFRqeW5nNlpiZw?oc=5</link><description>[score: 0.879] 米国の判断「説明困難」、支援巡りゼレンスキー氏が疑問 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxPQlFyZjhaTVdCTk1RYm5WQnlyY0Y5a2ZPdXI2SXRKT19EZjR5Wjh1b2pCRTBqMk5JZVdIMGNmLV9sM2hBMnpjS1dMcjU1SHVHem1jSlBLcnJtaDR1d2NfZk1HSmlHVDVLTTFCX0VQRWtqNGNMemVQcVpGLWJwbFRqeW5nNlpiZw?oc=5</guid><pubDate>Mon, 19 Oct 2026 22:34:48 +0000</pubDate></item><item><title>アンソロピック「ロボットと組めばAIは肉体労働にも及ぶ」。それでも庭師の仕事はまだ安全かもしれない理由</title><link>https://www.businessinsider.jp/article/2610-anthropic-ai-robots-gardening-jobs-automation/</link><description>[score: 0.880] アンソロピック（Anthropic）のAI雇用レポートが、AIには雑草を抜くことも、バラとタンポポを見分けることもできないため、庭師は最も安全な職種のひとつだと示唆していたのを覚えているだろうか。私は2026年の初め、ニュースレター「AI Insider」でそのことを冗談のネタにした。
+ところが、アンソロピックはこの研究をアップデートし、私たち全員をもう少し不安にさせている。
+今回は、AIとロボットを組み合わせると何が起こるのかという、より大きな問いを投げかけている。この変化によって、多くの肉体労働が、影響の大きさを示す尺度ではるかに高い位置に押し上げられる。理屈の上では筋が通っている。実際に</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-anthropic-ai-robots-gardening-jobs-automation/</guid><pubDate>Mon, 19 Oct 2026 22:26:55 +0000</pubDate></item><item><title>最近Gemini使い始めたけど、明らかにchatGPTの方が優秀じゃないか？「Geminiはやる気あるバカってイメージ」「嘘しかつかないので使うのやめました」</title><link>https://togetter.com/li/2760356</link><description>[score: 0.880] み💙❤️
+@TO_Emi_vl_Cule
+@fcbcdfdj21pg8_o 課題とかはジェミニの方が優秀 トラッシュトークとかちょっとしたことならチャッピー 料理の話とかね
+2026-10-19 16:25:10
+ばん⭐️⭐️
+@p8g6bcl
+@fcbcdfdj21pg8_o Geminiは使うモデルによって結構変わるイメージあります🤔課金しないならチャッピーのが使い勝手いいような気もします！
+2026-10-19 10:29:38
+ラテンクレ
+@fcbcdfdj21pg8_o
+@p8g6bcl どっちもplus使ってて、Geminiはめっちゃ出力速いけど精度低いって感じです笑笑 ばんさんは</description><guid isPermaLink="false">https://togetter.com/li/2760356</guid><pubDate>Mon, 19 Oct 2026 21:39:40 +0000</pubDate></item><item><title>ネットの不快広告「×」押しても次々と　アクセス稼ぎ、自主規制頼み - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUD078P40X00C26A9000000/</link><description>[score: 0.881] ネットの不快広告「×」押しても次々と アクセス稼ぎ、自主規制頼み
+インターネットなどの広告を巡る苦情が急増している。業界団体が受けた苦情は2025年度は過去最多で1万2千件を超えた。画面上から広告を消しづらい設定や体の老廃物などを大げさに見せる表示への不満が目立つ。「不快な広告」を包括的に規制する法規定はなく、自主規制頼みだ。
+耳あかが次々に取れる様子をアニメーションで過剰に表現――。近年はネット上でこうした表示が散見される。広告を消すため「×」ボタンを押して...
+※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。
+この投稿は現在非表示に設定されています
+(更新)</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUD078P40X00C26A9000000/</guid><pubDate>Mon, 19 Oct 2026 23:43:32 +0000</pubDate></item><item><title>食料品の消費税減税関連法案 きょう衆議院で審議入り</title><link>https://news.web.nhk/newsweb/na/nd-20261019de61870</link><description>[score: 0.882] 今の国会で最大の焦点となる食料品の消費税減税関連法案は20日、衆議院で審議入りします。与党側ができるだけ多くの党の賛同を得て成立させたい考えなのに対し、野党側は物価高対策としての効果や具体的な財源など…
 あわせて読みたい
-米国務長官は和平目指す姿勢強調もウクライナは不満表明
-10月20日 4:52
+火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功
+10月20日 8:25
+不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社
+10月20日 7:48
 ロシアによる記者拘束から1週間 政府「領事面会」強く求める
 10月20日 5:18
-フランスでデモ乗じた暴動受け一部の都市で外出禁止令
-10月20日 5:27
-北朝鮮 キム・ヨジョン氏 韓国へ拡声機放送再開などを警告
-10月19日 23:21
-世界最大級ファンド「ブラックストーン」 日本に約6兆円投</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261020de61904</guid><pubDate>Mon, 19 Oct 2026 21:00:38 +0000</pubDate></item><item><title>ＮＹ外為市場＝ユーロ下落、仏財政懸念で ドルはＡＩ株反発で上昇 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5LcnRlZnJLbkxkcGEwQUE0MlliU0RnUzY0QnVDcmdkZm9RWm9KdDlwSGJ4NEhBZ0dzeFZCcHdNbHN2RWN6N0hxQ01KaUlWa3pKcGNQV1dSWkY4bXo2Q0hMZjAxcjdma0tBT01uY2d2cWtlUDk3Y0h2MklUa1g5dw?oc=5</link><description>[score: 0.888] ＮＹ外為市場＝ユーロ下落、仏財政懸念で ドルはＡＩ株反発で上昇 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE5LcnRlZnJLbkxkcGEwQUE0MlliU0RnUzY0QnVDcmdkZm9RWm9KdDlwSGJ4NEhBZ0dzeFZCcHdNbHN2RWN6N0hxQ01KaUlWa3pKcGNQV1dSWkY4bXo2Q0hMZjAxcjdma0tBT01uY2d2cWtlUDk3Y0h2MklUa1g5dw?oc=5</guid><pubDate>Mon, 19 Oct 2026 20:26:34 +0000</pubDate></item><item><title>凡人SI屋のトラブル対応回顧録　第1回　はじめに</title><link>https://qiita.com/snoopy_naritagu/items/13c6315f3cd30ddbe012?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] はじめまして
-なりたぐと申します
-この道(基盤系Sier)を20年ほど歩いて来て、行き当たったトラブル対応を振り返って備忘録的な感じで書いていければと思います。
-昨今ではAI(人工知能)がとうとう実用化されて世に出てくる時代になったと感じるようになりました。
-2年ほど前にかつての現場で苦労を共にした友人Aと飲みの席で
-自分「とあるサイトで人間が1年ほどで組むプログラムをAIが10分で作成したという記事が出ていた。」
-友人A「とてつもない時間短縮ですよね、そうなるともう人がいらなくなるのも時間の問題ですよね？」
-自分「ジャッジメント(判断)したりするマネジメント系の人だけ残って、失業に追い込まれ</description><guid isPermaLink="false">https://qiita.com/snoopy_naritagu/items/13c6315f3cd30ddbe012?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 19 Oct 2026 20:16:50 +0000</pubDate></item><item><title>フランスでデモ乗じた暴動受け一部の都市で外出禁止令</title><link>https://news.web.nhk/newsweb/na/nd-20261020de61899</link><description>[score: 0.889] フランスで大規模なデモに乗じて起きた暴動を受けて、一部の都市では、19日、夜間の外出禁止令が出されるなど、影響が広がっています。
-フランスでは、今月17日に行われた物価高対策などを求める大規模なデ…
+米 中間選挙まで2週間 下院は民主党過半数うかがう 上院は接戦
+10月20日 5:37
+世界最大級ファンド「ブラックストー</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261019de61870</guid><pubDate>Mon, 19 Oct 2026 22:06:24 +0000</pubDate></item><item><title>東・西日本で大気不安定に 台風30号の最新情報 確認を</title><link>https://news.web.nhk/newsweb/na/nd-20261019de61878</link><description>[score: 0.882] 前線が停滞する影響で、東日本と西日本を中心に大気の状態が非常に不安定になっていて、北陸で雨雲が発達しています。気象庁は低い土地の浸水や川の増水に警戒するとともに、落雷や竜巻などの激しい突風、ひょうに注…
 あわせて読みたい
 火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功
-10月20日 5:57
+10月20日 8:25
 不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社
-10月20日 5:01
+10月20日 7:48
 食料品の消費税減税関連法案 きょう衆議院で審議入り
 10月20日 5:10
-盛岡 東北道で車6台絡む事故 1台が炎上 1人死亡
-10月20日 5:09
-事業承継税制に効果疑問視の意見 税制改正の議論で焦点の1つ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261020de61899</guid><pubDate>Mon, 19 Oct 2026 21:00:38 +0000</pubDate></item><item><title>不正アクセス 「中国系AIの使用確認」 情報セキュリティー会社</title><link>https://news.web.nhk/newsweb/na/nd-20261020de61888</link><description>[score: 0.894] 国内で相次いでいる不正アクセスの一部について、IT企業「GMOインターネットグループ」の情報セキュリティー専門の子会社は「調査したところ、中国系のAIが使われていたことを確認した」とする担当者の見解を…
+ロシアによる記者拘束から1週間 政府「領事面会」強く求める
+10月20日 5:18
+米 中間選挙まで2週間 下院は民主党過半数うか</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261019de61878</guid><pubDate>Mon, 19 Oct 2026 22:06:24 +0000</pubDate></item><item><title>AGIの不確実性に挑む経営者へ──「パスカルの賭け」という処方箋</title><link>https://forbesjapan.com/articles/detail/106893?s=ns</link><description>[score: 0.883] ここ数カ月、大企業がかつてない規模でエージェント導入に投資するなか、AIが再びニュースの見出しを賑わせている。昨夏の懸念であった「AIは本当にインパクトをもたらすのか」は、より実存的な恐れへと姿を変えた。すなわち「AIのインパクトは大きすぎるのではないか」という問いである。
+Mythos 5、Fable 5、ChatGPT-5.6のローンチ時に米当局が課した規制は警鐘となり、7月にOpenAIが発表した、テスト中のモデルが「訓練用のケージ」から脱出したことで引き起こされたサイバー攻撃の件が、それをさらに強めた。汎用人工知能（AGI）をめぐる議論が再び俎上に上がり、その派生的な論点である「労働の</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106893?s=ns</guid><pubDate>Mon, 19 Oct 2026 22:11:42 +0000</pubDate></item><item><title>【速報】メール配信会社、900万件情報流出の恐れ</title><link>https://www.47news.jp/15106450.html</link><description>[score: 0.883] 【速報】メール配信会社、900万件情報流出の恐れ
+2026年10月19日 20時24分
+メール配信サービスを手がけるユミルリンクは19日、外部から不正アクセスを受けたと発表した。メールアドレスを含む個人情報延べ約900万件が流出した可能性があるという。
+栃木県警全職員の情報流出か アルカディア不正アクセスで
+05時00分
+下野新聞
+H2Oで顧客126万件漏えい 各社で不正アクセス相次ぐ
+00時45分
+共同通信
+【速報】ジェトロ、743件の個人情報漏えい
+10月19日
+共同通信
+【速報】電子書籍レンタが停止、不正アクセスか
+10月19日
+共同通信
+【速報】ソフトバンク、契約者向けサイト停止
+10</description><guid isPermaLink="false">https://www.47news.jp/15106450.html</guid><pubDate>Mon, 19 Oct 2026 22:19:14 +0000</pubDate></item><item><title>ウェブを吸い尽くしたAI企業が次に狙うのは、あなたの「仕事の進め方」</title><link>https://www.businessinsider.jp/article/2610-ai-workplace-data-training-agents-robots/</link><description>[score: 0.883] AI企業はすでにウェブの大部分をスクレイピングしてきた。いま、彼らが追い求めているのは、さらに価値の高いもの、つまり人間が実際にどのように働いているかを示すデータだ。
+これが、Business Insiderの新シリーズ「The AI Data Grab」のテーマだ。10月12日からの1週間で、職場データをめぐる競争が加速していることを示す3本の記事を公開した。
+チャールズ・ロレット（Charles Rollet）、トム・カーター（Tom Carter）、スティーブン・カウンシル（Stephen Council）の各記者による1本は、急成長する企業記録の市場を取り上げている。
+AI企業は企業に</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-ai-workplace-data-training-agents-robots/</guid><pubDate>Mon, 19 Oct 2026 21:28:51 +0000</pubDate></item><item><title>米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令</title><link>https://www.itmedia.co.jp/news/article/2610/20/2000002405/</link><description>[score: 0.885] 米国土安全保障省、中国DeepSeek製品を連邦民間機関から排除する命令
+米国土安全保障省（DHS）は10月20日（現地時間）付の官報で、国土安全保障長官が中国DeepSeekの製品を連邦政府の民間行政機関の調達とITシステムから排除する命令を出したと公示した。
+命令は2点。1つは、DeepSeekとその関連会社が開発したIT製品およびサービスを、連邦民間機関の調達対象から除外すること。もう1つは、DeepSeekとその関連会社の製品に加え、DeepSeekの実装を用いて開発された第三者の製品およびサービスも、民間機関のITシステムから排除することだ。
+命令は2018年制定の「連邦調達サプライ</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/20/2000002405/</guid><pubDate>Mon, 19 Oct 2026 23:33:22 +0000</pubDate></item><item><title>「米国のAI」も「中国のAI」も存在しない</title><link>https://forbesjapan.com/articles/detail/106886?s=ns</link><description>[score: 0.885] 「米国の」人工知能（AI）などというものは存在しない。「中国の」AIなるものについても同じことが言える。
+実際には、米国と中国の間では優秀な技術人材が驚くほど入り混じっており、彼らの多くはAIの飛躍的な進歩を実現することに精力を注いでいる。大事なのは、現状を米中が通商戦争を繰り広げているというふうな対立構図で捉えないことだ。むしろ、中国人は米国拠点のAI開発を高く評価し、そこで働いてもいれば、米国人もまた中国発の技術構想を高く評価し、投資を通じてその発展を後押ししてきた。この事実にこそ注目すべきなのだ。
+この主張を裏づける事例はたくさんあるが、中国の新興AI企業の一社である月之暗面（ムーンショ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106886?s=ns</guid><pubDate>Mon, 19 Oct 2026 22:11:42 +0000</pubDate></item><item><title>America.govが問う、米国民はAIエージェントに行動を委ねるのか</title><link>https://forbesjapan.com/articles/detail/106904?s=ns</link><description>[score: 0.885] 先週ホワイトハウスが発表したAIエージェント関連の動きのなかで、最も重要なのはAmerica.govかもしれない。人工知能を「スーパーインテリジェンス（超知能）」と呼ぶよう命じた大統領令のほうが大きな注目を集めたとしても、だ。
+9月29日、トランプ大統領は「America.gov」を開設し、連邦政府サービスの唯一のオンライン総合窓口として同サイトを運用するよう、一般調達局（GSA）、ナショナル・デザイン・スタジオ、行政管理予算局（OMB）に指示する大統領令に署名した。
+現在、このサイトは2万9000以上の政府ウェブサイトから取得した情報を用いて質問に回答しており、チャットボットのバックエンドに</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106904?s=ns</guid><pubDate>Mon, 19 Oct 2026 23:07:36 +0000</pubDate></item><item><title>起訴側、収監中の元OpenAIエンジニアはサウジ王室関係者と常時連絡を取り、政府資金で出国準備と主張 — BigGo ファイナンス</title><link>https://finance.biggo.jp/news/ae75d001-12d5-4dc4-87e8-87d43889f6b3</link><description>[score: 0.886] 起訴側、収監中の元OpenAIエンジニアはサウジ王室関係者と常時連絡を取り、政府資金で出国準備と主張 — BigGo ファイナンス 米連邦検察は、元OpenAIエンジニアのアブドゥルラフマン・アルフォザン被告の保釈を認めず身柄拘束を求める申立書を日曜に提出した。同被告がサウジ王室関係者とWhatsAppで頻繁に連絡を取り、サウジのAI構想への... bulldra やっぱりVIVANT的な話になってる</description><guid isPermaLink="false">https://finance.biggo.jp/news/ae75d001-12d5-4dc4-87e8-87d43889f6b3</guid><pubDate>Mon, 19 Oct 2026 22:31:59 +0000</pubDate></item><item><title>電力は競争優位になる　AI時代にデータセンター事業者が発電所を自ら持つ理由</title><link>https://forbesjapan.com/articles/detail/106905?s=ns</link><description>[score: 0.886] 今日のAIモデルの訓練と運用には膨大な量の電力が必要とされており、J.P.モルガンの試算によると、全米上位5社のハイパースケーラーは2026年だけで6970億ドル（約110兆円）を設備投資に費やすという。その投資の多くは、データセンターやコンピューティング能力など、AIシステムの構築と運用に必要なインフラに関連している。
+過去20年の大半において、データセンターと送電網（グリッド）との関係は至ってシンプルだった。コンセントを挿し、光熱費を支払い、電気がどこから来るかは他の誰かに任せておけばよかった。しかし、AIの規模拡大に伴い、そのモデルを維持することはますます困難になっている。
+これは、デー</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106905?s=ns</guid><pubDate>Mon, 19 Oct 2026 23:07:36 +0000</pubDate></item><item><title>Claude Codeの会話を55分放っておいたら、272,422トークンが13,522に圧縮されていました ― アイドル圧縮の観測</title><link>https://zenn.dev/ojisan_ai_lab/articles/claude-code-idle-compaction-20261019</link><description>[score: 0.887] Claude Code のターミナルで27万トークンの会話を claude --resume で開いて1行だけ送り、あとは何も打たずに置いておきました。55.6分後、その会話は13,522トークンまで圧縮されていました。 前々回の記事で、同じ会話でも1時間あけて戻ると、キャッシュから読める割合が6.1%まで落ちると書きました。その1時間が切れる少し前に、放置された会話を要約しておく「アイドル圧縮」が、10月14日の Claude Code v2.1.299 のリリースノートに載っています。 この記事は、公式に書いてあることと、おじさんの環境で実際に起きたことを分けて並べたものです。 ! ...</description><guid isPermaLink="false">https://zenn.dev/ojisan_ai_lab/articles/claude-code-idle-compaction-20261019</guid><pubDate>Mon, 19 Oct 2026 21:49:39 +0000</pubDate></item><item><title>AI検索はJavaScriptを読めるのか？ GeminiとCopilotが好成績</title><link>https://www.suzukikenichi.com/blog/can-ai-search-read-javascript-gemini-and-copilot-perform-well/</link><description>[score: 0.887] [レベル: 上級]
+AI 検索プラットフォームが JavaScript で描画されるコンテンツを読めるかどうかをGSQi の Glenn Gabe（グレン・ゲイブ）氏が再び検証しました。
+2025 年 8 月に公開した記事の続報で、434 日後の公開です。
+結果を大ざっぱに言うと、Gemini と Copilot は JavaScript をレンダリングできました。
+しかし、そのほかの AI プラットフォームは適切に JavaScript をレンダリングできませんでした。
+3 つのテスト結果
+ゲイブ氏が試した検証方法は前回と同じです。
+ChatGPT、Claude、Perplexity、Gem</description><guid isPermaLink="false">https://www.suzukikenichi.com/blog/can-ai-search-read-javascript-gemini-and-copilot-perform-well/</guid><pubDate>Mon, 19 Oct 2026 22:15:56 +0000</pubDate></item><item><title>トランプ氏、ニューメキシコ州を「ニューアメリカ」に改称要求</title><link>https://www.cnn.co.jp/usa/35253749.html</link><description>[score: 0.887] 米ニューメキシコ州サンタフェで並んで掲揚される州旗と星条旗/Robert Alexander/Getty Images/File （CNN） トランプ米大統領は19日、ニューメキシコ州の名称を「ニューアメリカ」に変更するよう求めた。自身の政治的思惑に沿って地名の変更を目指す動きの新たな事例となった。 トランプ氏は、中間選挙に向けた集会が開かれるカンザス州へ出発する直前、SNSに「ニューメキシコ州は直ちに名称をニューアメリカに変更すべきだ。我々はメキシコではない。アメリカ合衆国だ！」と投稿した。 ニューメキシコ州は民主党が優勢で、トランプ氏は2024年の大統領選で同州において6ポイント差で敗北し</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35253749.html</guid><pubDate>Mon, 19 Oct 2026 23:50:42 +0000</pubDate></item><item><title>GMO系「国内不正アクセス、中国製AIソフトの使用確認」 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC198NI0Z11C26A0000000/</link><description>[score: 0.887] この記事は会員限定記事です
+GMO系「国内不正アクセス、中国製AIソフトの使用確認」
+GMOインターネットグループのGMOサイバーセキュリティbyイエラエ（東京・渋谷）は19日、国内への不正アクセス事案について、中国のエンジニアが開発した人工知能（AI）ソフト「ARTEX」が使われていたことを確認したと同社のブログで発表した。
+同ソフトは韓国の金融機関へのサイバー攻撃で使われたとされるが、日本向けの攻撃での使用が明らかになるのは初めてとみられる。
+調査にあたった福森大喜氏は日本経...
+インターネット上に個人の氏名や住所、メールアドレスなど個人情報が流出する事案が相次いでいます。最新のニュース</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC198NI0Z11C26A0000000/</guid><pubDate>Mon, 19 Oct 2026 23:00:16 +0000</pubDate></item><item><title>Claude Codeでプロンプトインジェクションに備える</title><link>https://zenn.dev/luxiar/articles/a341a2df29dcfe</link><description>[score: 0.888] はじめに 昨今はAIによる作業の割合が大きく増え、AI前提の開発が当たり前になりつつあると感じます。私自身、調査から計画、実行、レビューまですべての作業でClaudeを活用しています。 便利な反面、AIを狙った攻撃やAIを悪用した攻撃も登場しており、企業への不正アクセスや個人情報漏洩のニュースを目にする機会も増えました。 AIを活用する上で、こういった話を他人事とせず、個人レベルでどういった対策をすべきか考えていく必要があります。 本記事では、プロンプトインジェクション[1]を取り上げ、Claude Codeを利用する開発者個人ができる対策を紹介します。 背景 Claude Co...</description><guid isPermaLink="false">https://zenn.dev/luxiar/articles/a341a2df29dcfe</guid><pubDate>Mon, 19 Oct 2026 21:49:39 +0000</pubDate></item><item><title>AI業界に移れば時代を先取りできると思っていた。2年後、私は取り残され、AIの話題に疲れ果てている</title><link>https://www.businessinsider.jp/article/2610-work-in-ai-burned-out-cant-keep-up-career/</link><description>[score: 0.888] キャリアの大半において、私は弁護士だった。法律の世界では、専門性が積み上がっていく仕組みにどこか安心感があった。実務経験が長くなるほど、知識が増えていった。
+しかし、厳しい職業で何年も働いたあと、私は燃え尽きてしまった。法律を楽しめなくなったわけではない。ただ、変化が必要だった。
+約2年前、AIこそが未来だと考え、私はキャリアの軸をAIへ移し始めた。10年後に目を覚まして、自分の知らないうちにテクノロジーによって自分の職業が変わっていたと気づくのは避けたかった。
+自分にできる最も賢明なキャリア上の選択に思えた。いまは、そう確信できなくなっている。
+AIIブームに早く加わることは、完璧なキャリア</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-work-in-ai-burned-out-cant-keep-up-career/</guid><pubDate>Mon, 19 Oct 2026 22:26:55 +0000</pubDate></item><item><title>イーロン・マスク氏、米国の子ども全員に「SpaceX株を1株ずつ」配布すると宣言</title><link>https://japan.cnet.com/article/35253730/</link><description>[score: 0.889] イーロン・マスク氏、米国の子ども全員に「SpaceX株を1株ずつ」配布すると宣言 イーロン・マスク氏は10月19日（日本時間）、2027年に米国のすべての子どもに、自身が保有する宇宙開発企業SpaceXの株式を1株ずつ贈る意向をXで表明した。 SpaceX本社でのマスク氏（右、2019年10月撮影。出典：NASA、撮影：NASA/Aubrey Gemignani） ※クリックすると拡大画像が見られます マスク氏は「来年、米国のすべて...</description><guid isPermaLink="false">https://japan.cnet.com/article/35253730/</guid><pubDate>Mon, 19 Oct 2026 22:19:14 +0000</pubDate></item><item><title>AIで最大の成果を上げるエージェンシーは、作業の高速化には使わない</title><link>https://forbesjapan.com/articles/detail/106899?s=ns</link><description>[score: 0.890] AIを最大限活用するエージェンシーは、スピードアップのために使っていない
+現在、多くのエージェンシーに足を踏み入れると、AIのワークフローはこんな具合だ。ブリーフを貼り付け、より速い初稿を手に入れ、昼食前に納品する。これは確かな生産性の向上であり、やめさせたいとは思わない。しかしこれは、こうしたツールが持つ能力の浅い部分にすぎず、それを戦略のすべてだと捉えてしまうと、エージェンシーはよりよい仕事ではなく、より速い凡庸さを手に入れることになる。
+私はAIエージェントを、優秀なチーフ・オブ・スタッフと同じように使うのが好きだ。初稿を書かせるためではなく、初稿と議論させるために。戦略、メディアプラン</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106899?s=ns</guid><pubDate>Mon, 19 Oct 2026 23:07:36 +0000</pubDate></item><item><title>AIが若手の採用を減らし、ボトルネックは「人間の注意」に アンソロピックで起きた変化</title><link>https://www.watch.impress.co.jp/docs/news/2149442.html</link><description>[score: 0.890] ニュース
+AIが若手の採用を減らし、ボトルネックは「人間の注意」に アンソロピックで起きた変化
+2026年10月20日 08:00
+Anthropicは16日(米国時間)、AIが雇用に与える影響についてのレポートを発表した。公開された2本のレポートでは、AnthropicにおけるAI活用の変化とともに採用や雇用の現場の変化について説明している。ジュニアレベルのエンジニアが減少し、働き方も大きく変わった一方で、AIを駆使する人々の中でも「失業」への懸念は高いとする。
+AnthropicはAI導入の最前線(フロンティア)企業であり、AIによって採用のあり方も変化したという。過去1年間で、従業員にお</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2149442.html</guid><pubDate>Mon, 19 Oct 2026 23:09:06 +0000</pubDate></item><item><title>トランプ大統領と距離置く共和党の候補相次ぐ いったいなぜ？</title><link>https://news.web.nhk/newsweb/na/nd-20261019de61784</link><description>[score: 0.891] 候補者の公式ウェブサイトからトランプ大統領の名前や写真が消え、集会への参加も見送られる。
+アメリカの中間選挙まで2週間となる中、与党・共和党の候補の間でトランプ大統領と距離を置く動きが相次いでいます…
 あわせて読みたい
-火星衛星探査機「MMX」 火星へ向かう軌道に 打ち上げ成功
-10月20日 5:57
-「ふるさとチョイス」で不正アクセス疑い 阪急阪神百貨店でも
-10月19日 19:23
-上皇后さま 92歳の誕生日
-10月20日 0:00
-サッカー マンチェスターシティーの財務規則違反を認定
-10月19日 19:46
-高校無償化でも“私立は選べず”約3割 低所得世帯にNGO調査
-10月19日 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261020de61888</guid><pubDate>Mon, 19 Oct 2026 21:00:38 +0000</pubDate></item><item><title>コミックシーモア 再開見通せず - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/pickup/6599287</link><description>[score: 0.906] コミックシーモア 再開見通せず
-『コミックシーモア』サービス再開の見通し立たず「正確な再開日時をお伝えすることが困難な状況です」
-オリコン一時サービスを停止中の電子コミックサイト『コミックシーモア』は18日、サービス再開の見通しが立たないことを報告した。第三者による不正アクセスが行われ、一部顧客の会員情報が流出したことを受け、15日からサービスを一時停止している。
-ココがポイント
-みんなの意見
-コミックシーモアの一時停止で、最も気になることは何ですか？
-個人情報や決済情報の流出懸念
-62.6%閲覧や購入ができない不便さ
-23%セキュリティ体制への不安
-6.1%その他/分からない
-5%
-※ 統計</description><guid isPermaLink="false">https://news.yahoo.co.jp/pickup/6599287</guid><pubDate>Mon, 19 Oct 2026 18:21:37 +0000</pubDate></item><item><title>EXCLUSIVE-トランプ氏支持率31％、過去最低 民主党リード拡大＝ロイター／イプソス調査 - ニューズウィーク日本版</title><link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jT0NPdWk5WGducWJWM1o1b09FeWFJck9WNG8yZUJzX0JCaUhHZ2RNNnNVRTBOdDM5aEprUW0wenV1Rm5kOGNJVlItZXRpVWIyd0IxVi16UFZudw?oc=5</link><description>[score: 0.920] EXCLUSIVE-トランプ氏支持率31％、過去最低 民主党リード拡大＝ロイター／イプソス調査 ニューズウィーク日本版</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiWkFVX3lxTE1jT0NPdWk5WGducWJWM1o1b09FeWFJck9WNG8yZUJzX0JCaUhHZ2RNNnNVRTBOdDM5aEprUW0wenV1Rm5kOGNJVlItZXRpVWIyd0IxVi16UFZudw?oc=5</guid><pubDate>Mon, 19 Oct 2026 20:26:34 +0000</pubDate></item><item><title>トランプ氏支持率31％、過去最低 民主党リード拡大＝ロイター／イプソス調査 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBOQm1vaDI1UzR6QUh6cUhHSG0wWVJPc194MXFTWFhwMWlCSGJKcGxwYV96cERJMTRfUmlIVXN0YTFHRHFvaUNTdmdSaXVwd1ZvOWRZLUo4bkktaGJlV3p0TGRkVjUyQjF5RWFNX2liMGdaNjZCYm9QWkh3SDI5UFE?oc=5</link><description>[score: 0.927] トランプ氏支持率31％、過去最低 民主党リード拡大＝ロイター／イプソス調査 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFBOQm1vaDI1UzR6QUh6cUhHSG0wWVJPc194MXFTWFhwMWlCSGJKcGxwYV96cERJMTRfUmlIVXN0YTFHRHFvaUNTdmdSaXVwd1ZvOWRZLUo4bkktaGJlV3p0TGRkVjUyQjF5RWFNX2liMGdaNjZCYm9QWkh3SDI5UFE?oc=5</guid><pubDate>Mon, 19 Oct 2026 20:26:34 +0000</pubDate></item></channel></rss>
+【アメリカ中間選挙2026 特集ページ】
+「あなたの取り締まりは行き過ぎ」 共和党内からも異論噴出？
+10月13日 20:40
+トランプ大統領の支持は追い風か逆風か 共和党候補の本音は？
+10月12日 11:20
+「監視社会」か「治安の維持」か カメラをめぐる論争
+10月7日 12:10
+バンス副大統領の故郷にいって評判を聞いてみた
+10月4日 14:26
+アメリカ経済の光と影</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261019de61784</guid><pubDate>Mon, 19 Oct 2026 23:01:54 +0000</pubDate></item><item><title>盗聴容疑の元オープンＡＩ従業員、サウジ政府が支援か 米検察主張 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPaU1qMkZhM0V6T3JnY0luaERWeTBlWDN2cUxvVnVaZ2VGN0w1U1gwU1dNZVVDX3ZsVEUzWEJMbVQtUjJrakVlbnRXVDVRNFRqdG9NbXdXSjlyUm9Rdm9zSUFqRDlBdks0M0FFMlBHRVVaQURFemhKLThTc09zUWFqNklwTjItWkE?oc=5</link><description>[score: 0.916] 盗聴容疑の元オープンＡＩ従業員、サウジ政府が支援か 米検察主張 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxPaU1qMkZhM0V6T3JnY0luaERWeTBlWDN2cUxvVnVaZ2VGN0w1U1gwU1dNZVVDX3ZsVEUzWEJMbVQtUjJrakVlbnRXVDVRNFRqdG9NbXdXSjlyUm9Rdm9zSUFqRDlBdks0M0FFMlBHRVVaQURFemhKLThTc09zUWFqNklwTjItWkE?oc=5</guid><pubDate>Mon, 19 Oct 2026 22:34:48 +0000</pubDate></item></channel></rss>
