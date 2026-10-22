@@ -1,87 +1,148 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 22 Oct 2026 10:52:49 +0000</lastBuildDate><item><title>FRB議事要旨で判明した年内の追加利上げと2027年の金利見通し</title><link>https://forbesjapan.com/articles/detail/106357?s=ns</link><description>[score: 0.881] 米連邦準備制度理事会（FRB）は9月に開催した連邦公開市場委員会（FOMC）の議事要旨を公表し、参加した政策決定者の大半が年内の追加利上げを想定していることが明らかになった。議事要旨には、「今回の会合以降の金融政策の見通しについては、大半の参加者が年内にもう一度フェデラル・ファンド（FF）金利の目標レンジ（Target Range）を引き上げるのが適切と判断した」と記されている。これは、政策決定者が9月の会合で公表した見通しと一致しており、今回の議事要旨はその姿勢を改めて裏付けるものとなった。
-中立金利の上昇に焦点
-重要な点として、議事要旨には「数名の参加者が、中立FF金利の推定値、ひいてはF</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106357?s=ns</guid><pubDate>Thu, 22 Oct 2026 06:28:15 +0000</pubDate></item><item><title>衆院選挙制度協議 自民“比例で31議席削減”折衷案提示</title><link>https://news.web.nhk/newsweb/na/nd-20261022de63534</link><description>[score: 0.882] 衆議院議員の定数のあり方などをめぐる与野党の協議で、自民党は、人口減少を反映し、比例代表で31議席を削減するなどとした案を示しました。
-そして、来週、改めて協議し、各党が意見を表明することを確認しま…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 22 Oct 2026 21:09:31 +0000</lastBuildDate><item><title>トランプ氏、マスク氏がウクライナ向けスターリンクを回復と表明 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQNXpQUHF6ZU4tMWp4WC11c1hlaXZBd2tIR1hZSXJ0T1NXT1FjRU9FRUZMSkhnM3JhQi1qMFBlLTR6ano5ZFdWU1p0UEs4N1M2WG5IekZOem9faDMxZDJFbzNWY1QyeDFjNnlNanY0RzlUVjh5Q1UwaUxJeTNla2pMNTlSRE5Fdw?oc=5</link><description>[score: 0.873] トランプ氏、マスク氏がウクライナ向けスターリンクを回復と表明 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQNXpQUHF6ZU4tMWp4WC11c1hlaXZBd2tIR1hZSXJ0T1NXT1FjRU9FRUZMSkhnM3JhQi1qMFBlLTR6ano5ZFdWU1p0UEs4N1M2WG5IekZOem9faDMxZDJFbzNWY1QyeDFjNnlNanY0RzlUVjh5Q1UwaUxJeTNla2pMNTlSRE5Fdw?oc=5</guid><pubDate>Thu, 22 Oct 2026 20:08:32 +0000</pubDate></item><item><title>Copilot で TOEIC 対策してみる</title><link>https://qiita.com/masakichiXO/items/1b4bb5191463bc35f600?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.873] 私が前回 TOEIC 受けたのはもう 20 年くらい前の話なので、参考にならなかったら本当すみません。
+なんでも Copilot Global のコミュニティ登壇の英語スライドはこちら。
+0. TOEIC に私たちは何を試されているのか？
+1) 英語を素早く処理する力
+- リスニング 100 問、リーディング 100 問を解く
+(36 秒に 1 問のペースで解くペース！考えてるひまや母国語に置き換えて理解しようとするひまなど無い。)
+2) ビジネス文脈を理解する力
+出題シナリオ例:
+- 会議
+- 出張
+- 人事
+- 営業
+- マーケティング
+- メール
+- 契約
+- 顧客対応
+など
+3) 推測</description><guid isPermaLink="false">https://qiita.com/masakichiXO/items/1b4bb5191463bc35f600?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 22 Oct 2026 20:30:22 +0000</pubDate></item><item><title>AIに美容室5店舗の社長を演じてもらい、コアドメインを特定する練習をしてみた！</title><link>https://qiita.com/jota9613/items/4d84d4a9e276104c7411?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.873] はじめに
+最近、システム開発における「コアドメイン・支援ドメイン・汎用ドメイン」について学習しています！
+ただ、書籍を読んで概念は理解できても、実際の業務をヒアリングして分類するとなると、なかなか難しいと感じました。
+そこで今回は、ChatGPTに美容室5店舗を経営する社長になってもらい、私がシステム開発者として業務ヒアリングを行う練習をしてみました！
+実際にヒアリングして、ドメインを分類し、最後にAIからフィードバックをもらうところまで実践しています。
+今回の目的（ゴール）
+- 業務ヒアリングを通して、企業の本当の強みを発見する
+- コア・支援・汎用ドメインを分類できるようになる
+- システ</description><guid isPermaLink="false">https://qiita.com/jota9613/items/4d84d4a9e276104c7411?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 22 Oct 2026 20:30:22 +0000</pubDate></item><item><title>道新記者に差し入れ 引き続き「領事面会」と即時解放働きかけ</title><link>https://news.web.nhk/newsweb/na/nd-20261023de63959</link><description>[score: 0.873] ロシアの治安機関に北海道新聞の記者が拘束されたことを受けて、モスクワにある日本大使館は拘置所に記者への関係者からの差し入れを持ち込むとともに、引き続き一刻も早い「領事面会」の実現と即時解放を働きかける…
+あわせて読みたい
+ことしのヨーロッパ議会人権賞「サハロフ賞」にICC
+10月22日 20:54
+香港 168人死亡の高層住宅火災 委員会が報告書提出 近く公表へ
+10月22日 17:17
+フランス 首相が労働組合と面会も組合反発 22日はデモ禁止令
+10月22日 16:06
+米とイスラエルが中間選挙後のイラン再攻撃計画策定か 米報道
+10月22日 13:59
+アメリカ メタ大幅増益 AIなど巨</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261023de63959</guid><pubDate>Thu, 22 Oct 2026 19:38:49 +0000</pubDate></item><item><title>銀行の自国国債保有制限案「時期尚早」、長期金利上昇が目下の問題＝伊中銀総裁 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPeVp4VklKQWlGSTFUTmgxNnNHWDFqSmE5YlN3djlNMkR1bXRndk9UOHB1dWliTDJlampJSDE4T1hKMlM4Vk9tNmVYTnd0b0tLdXZ1QkxmV2drSTJ6QkNCZ2JVRnBTZzZRVzhfMm9GbDZBVlhEMkxsUjBNMHUzOGV6TWVwME1vdw?oc=5</link><description>[score: 0.873] 銀行の自国国債保有制限案「時期尚早」、長期金利上昇が目下の問題＝伊中銀総裁 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxPeVp4VklKQWlGSTFUTmgxNnNHWDFqSmE5YlN3djlNMkR1bXRndk9UOHB1dWliTDJlampJSDE4T1hKMlM4Vk9tNmVYTnd0b0tLdXZ1QkxmV2drSTJ6QkNCZ2JVRnBTZzZRVzhfMm9GbDZBVlhEMkxsUjBNMHUzOGV6TWVwME1vdw?oc=5</guid><pubDate>Thu, 22 Oct 2026 19:12:26 +0000</pubDate></item><item><title>【初心者の備忘録】初めての Pull Request で戸惑った GitHub の画面</title><link>https://qiita.com/mizu_ky/items/9e6790fc2051bffdce92?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.873] はじめに
+業務で Git と GitHub を使い始めた初心者です。
+前回の記事では、git add
+・git commit
+・git push
+をしたときに、ファイルがどこに行くのかを整理しました。最後に「次は Pull Request とマージまわりを整理したい」と書いたので、その続きです。
+Pull Request（以下 PR）は、「自分のブランチの変更を、チームの共有ブランチに入れてください」というお願いです。仕組みは分かったつもりでいたのですが、実際に GitHub の画面で PR を出してみると、見慣れない表示が次々に出てきて、そのたびに手が止まりました。この1か月で戸惑ったものを</description><guid isPermaLink="false">https://qiita.com/mizu_ky/items/9e6790fc2051bffdce92?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 22 Oct 2026 20:30:22 +0000</pubDate></item><item><title>沖縄の先島諸島 暴風大雨厳重警戒 西日本・東日本も大雨おそれ</title><link>https://news.web.nhk/newsweb/na/nd-20261023de63968</link><description>[score: 0.875] 大型で非常に強い台風30号は沖縄県の先島諸島に近づいていて、風や雨が強まっています。24日にかけて一部の住宅が倒壊するような猛烈な風が吹くおそれがあるほか、線状降水帯が発生して災害の危険度が急激に高ま…
+あわせて読みたい
+台風接近前にやっておきたい備え「タイムライン」で
+非常用持ち出し袋 地震や水害で避難する際に あなたや家族、ペットに必要なものは？
+ドラフト 織田翔希は巨人 菰田は日本ハムが交渉権【全名簿】
+10月23日 0:17
+サイバー攻撃ぜい弱性悪用の猶予期間4分の1に 研究グループ
+10月22日 22:00
+サウジアラビア東部で攻撃相次ぎ3人死亡 米国務省は退避命令
+10月22日 2</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261023de63968</guid><pubDate>Thu, 22 Oct 2026 20:35:32 +0000</pubDate></item><item><title>唐鎌さんの寄稿レポート（10/23）『金融市場の3大リスク』</title><link>https://note.com/cjdbx883/n/na4126c6046aa</link><description>[score: 0.875] 唐鎌さんの寄稿レポート（10/23）『金融市場の3大リスク』
+１．はじめに
+唐鎌さんの寄稿です。今回の「国際金融安定報告（GFSR）」では、３つのリスクが取り上げられました。その中には、市場参加者において関心の高いAI相場の現状と展望について、かなり深掘りされています。足元でも旬の話題ですね。今回は、唐鎌さんが分かりやすく、紐解いてくれました。
+唐鎌さんの冷静な分析は、非常に参考になります。唐鎌さんは、本当にリスペクトできるエコノミストです。
+唐鎌大輔(みずほ銀行 チーフマーケット・エコノミスト)
+慶大経卒。JETRO、日本経済研究センター、欧州委員会などを経て現職。著書に『弱い円の正体 仮面</description><guid isPermaLink="false">https://note.com/cjdbx883/n/na4126c6046aa</guid><pubDate>Thu, 22 Oct 2026 20:58:30 +0000</pubDate></item><item><title>米国株式市場＝急反落、ナスダックは6月以来の下落率 ＡＩ投資に懸念 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQRXZMbU5DRXVrcU9IS3hrQ1Q1R3dxenk4MnlEZTlScDFXWi0xeTJlNEcwdWlyYTdQejg1X0ljNGhZQXlQUm1fR0xwSHZNX2JqdlFCb3BfWXdjaXp6MnphNjFJb3E5U2pKeE5qNGZtZnRfTVFNenZQMEU0ZTJ3WHlBRmN0UUo3Zw?oc=5</link><description>[score: 0.876] 米国株式市場＝急反落、ナスダックは6月以来の下落率 ＡＩ投資に懸念 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQRXZMbU5DRXVrcU9IS3hrQ1Q1R3dxenk4MnlEZTlScDFXWi0xeTJlNEcwdWlyYTdQejg1X0ljNGhZQXlQUm1fR0xwSHZNX2JqdlFCb3BfWXdjaXp6MnphNjFJb3E5U2pKeE5qNGZtZnRfTVFNenZQMEU0ZTJ3WHlBRmN0UUo3Zw?oc=5</guid><pubDate>Thu, 22 Oct 2026 21:05:05 +0000</pubDate></item><item><title>デジタル庁HPの問い合わせ内容漏洩か　最大1万3000件以上</title><link>https://news.tv-asahi.co.jp/news_economy/articles/000542237.html</link><description>[score: 0.876] デジタル庁HPの問い合わせ内容漏洩か 最大1万3000件以上 1 デジタル庁は22日夜、ホームページの問い合わせフォームに入力された内容など最大1万3000件余りが外部に流出した可能性があると発表しました。 デジタル庁によりますと、流出した可能性があるのは2021年5月から2023年3月までの間にホームページの問い合わせフォームに入力された「一般的なご意見・ご要望」最大8833件...</description><guid isPermaLink="false">https://news.tv-asahi.co.jp/news_economy/articles/000542237.html</guid><pubDate>Thu, 22 Oct 2026 19:30:22 +0000</pubDate></item><item><title>ＮＹ外為市場＝円が大幅高、原油高やＡＩ収益懸念で安全資産買い - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9OV0NMdDUwWnBkbmxicnBDNEQwWDFGbnZEYmhuMHRnOWRyT3A2Wi02and1Q19RQ0ZVVFFZUnNuaG50TzNmR05FTURwN3hYdHRpazFBeVhfQWhVelhLOHRheHJCVFJ0TC0zRjJhelM4UHlPeEh2aWNxNWVuNVNqZw?oc=5</link><description>[score: 0.876] ＮＹ外為市場＝円が大幅高、原油高やＡＩ収益懸念で安全資産買い Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE9OV0NMdDUwWnBkbmxicnBDNEQwWDFGbnZEYmhuMHRnOWRyT3A2Wi02and1Q19RQ0ZVVFFZUnNuaG50TzNmR05FTURwN3hYdHRpazFBeVhfQWhVelhLOHRheHJCVFJ0TC0zRjJhelM4UHlPeEh2aWNxNWVuNVNqZw?oc=5</guid><pubDate>Thu, 22 Oct 2026 19:12:26 +0000</pubDate></item><item><title>Anthropic、パーソナルAIアシスタントClaude Duetのリサーチプレビューを発表、米国で先行提供 ——必要な対応を通知、依頼した作業を離席中も継続</title><link>https://gihyo.jp/article/2026/10/claude-duet?utm_source=feed</link><description>[score: 0.877] Anthropicは2026年10月21日、パーソナルAIアシスタントClaude Duetのリサーチプレビューを発表した。利用者の対応が必要なことを自ら知らせるエージェント（proactive agent）として動作する。依頼された仕事は離席中も進めるが、メッセージの送信や支払いなどは、実行前に利用者へ確認する。
+今回のリサーチプレビューは米国のClaude Pro／Max加入者から提供を開始し、利用に向けた待機リストへの登録を受け付けている。
+毎朝の報告から、 依頼した仕事の完了まで
+Claude Duetは、日々の業務で多くの判断や作業を抱える人や、小規模事業者に向けて開発された。利用者</description><guid isPermaLink="false">https://gihyo.jp/article/2026/10/claude-duet?utm_source=feed</guid><pubDate>Thu, 22 Oct 2026 11:35:36 +0000</pubDate></item><item><title>GMOインターネットグループ、FX自動売買ツール「お名前.comデスクトップクラウド」の不正アクセスで顧客のFX口座を乗っ取りわざと損させまくる嫌がらせ被害が発生 : 市況かぶ全力２階建</title><link>https://kabumatome.doorblog.jp/archives/66033473.html</link><description>[score: 0.879] GMOインターネットグループ、FX自動売買ツール「お名前.comデスクトップクラウド」の不正アクセスで顧客のFX口座を乗っ取りわざと損させまくる嫌がらせ被害が発生 : 市況かぶ全力２階建 池袋で連日脱糞騒動があったとき「今年の漢字は『漏』だなｗｗｗｗ」みたいな冗談が流れてたけど、普通に「漏」が選ばれる可能性出てきた。 — 深爪 (@fukazume_taro) October 7, 2026※ヨドバシ池袋、早くも脱◯事... yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://kabumatome.doorblog.jp/archives/66033473.html</guid><pubDate>Thu, 22 Oct 2026 20:51:00 +0000</pubDate></item><item><title>多くのサイトが予防的に公開停止、高市総理が対応呼びかけ―「PHPの深刻な脆弱性」対応で何が起きた？</title><link>https://internet.watch.impress.co.jp/docs/news/2150203.html</link><description>[score: 0.880] ニュース
+多くのサイトが予防的に公開停止、高市総理が対応呼びかけ―「PHPの深刻な脆弱性」対応で何が起きた？
+2026年10月22日 10:12
+10月21日、スクリプト言語「PHP」の深刻な脆弱性2件が発表されるとともに、同日23時に修正プログラムの提供が予告された。CVE-2026-109618、CVE-2026-109619の2つで、CVSS 4.0のスコアはいずれも9.2。全てのPHPが影響を受け、認証なしでリモートコード実行が可能になるおそれがある。この脆弱性は「php2shell」とも呼ばれる。
+「リモートコード実行が可能になるおそれ」とは、遠隔から任意のプログラムを対象のサーバー</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2150203.html</guid><pubDate>Thu, 22 Oct 2026 12:06:37 +0000</pubDate></item><item><title>フィンランド 「核のごみ」最終処分場に政府が操業許可</title><link>https://news.web.nhk/newsweb/na/nd-20261023de63931</link><description>[score: 0.880] 北欧のフィンランドにある、原子力発電所から出た高レベル放射性廃棄物、いわゆる「核のごみ」の最終処分場をめぐって、フィンランド政府は22日、施設の操業を許可すると発表しました。運営会社は年末までに処分の…
 注目ワード
 あわせて読みたい
-神奈川県警 廃棄すべき運転免許証 警備部門の捜査などに流用か
-10月22日 19:35
-すき家 JR 証券会社も “PHP”対応でサービス一時停止相次ぐ
-10月22日 19:38
-免許証画像など漏えいし闇サイトで販売か 沖縄の会社から
-10月22日 11:54
-「カプコン」全世界の会員メールアドレスなど約1177万件漏えい
-10月22日 18:27
-自民政調会長 冬</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261022de63534</guid><pubDate>Thu, 22 Oct 2026 09:54:37 +0000</pubDate></item><item><title>WordPress.comやTumblr運営のAutomatticがリストラ発表　約16％の人員削減</title><link>https://www.itmedia.co.jp/news/article/2504/03/1250403129/</link><description>[score: 0.882] WordPress.comやTumblr運営のAutomatticがリストラ発表 約16％の人員削減
-WordPress.comやTumblrなどのオンラインサービスを運営する米Automatticは4月2日（現地時間）、全従業員の約16％にあたる人員削減を発表した。約270人が影響を受ける。
-マット・マレンウェッグCEOは公開書簡で、この「再編」は市場の競争性とテクノロジーの進化のスピードに対応するために必要だったと説明した。この人員削減により、Automatticは「より機敏で応答性が高くなり」、「非効率性を生み出しているサイロを解消し」、「製品の品質に重点を置き」、「長期的な成功のための</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2504/03/1250403129/</guid><pubDate>Thu, 22 Oct 2026 10:36:57 +0000</pubDate></item><item><title>ChatGPTの広告主はすでに10万社を超えている</title><link>https://gigazine.net/news/20261022-chatgpt-ads/</link><description>[score: 0.882] ChatGPTの広告主はすでに10万社を超えている
-OpenAIがChatGPTの広告提供地域を拡大したことを発表しました。合わせて、広告主がすでに10万社を超えていることも明かされています。
-ChatGPT 広告、新たに 26 か国へ拡大 — 利用広告主は 100,000 社超 | OpenAI
-https://openai.com/ja-JP/index/chatgpt-ads-expands-26-new-countries/
-How we built ChatGPT’s novel ad stack for user trust and relevance | OpenAI
-https</description><guid isPermaLink="false">https://gigazine.net/news/20261022-chatgpt-ads/</guid><pubDate>Thu, 22 Oct 2026 02:34:43 +0000</pubDate></item><item><title>PHP脆弱性、海外では“政府サイトごと停止”も　オランダの電子認証やWikipedia関連サービスなどにも影響</title><link>https://www.itmedia.co.jp/news/article/2610/22/2000002514/</link><description>[score: 0.884] PHP脆弱性、海外では“政府サイトごと停止”も オランダの電子認証やWikipedia関連サービスなどにも影響
-Webサイトの約7割で使うとされるプログラミング言語「PHP」の「緊急」レベルの脆弱性2件を受け、海外でも政府や企業が対応を迫られた。オランダ政府は行政ポータル「Overheid.nl」など行政手続きに使うネットサービスを遮断。フィンランド政府も公開向けのネットサービスを全て停止するなど、10月21日から各国で予防的な停止が広がった。
-オランダはサイバー当局自身も停止、欧米各国に波及
-米CNBCなどによると、オランダ政府はOverheid.nlと、国が持つ個人データを確認できる「Mi</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/22/2000002514/</guid><pubDate>Thu, 22 Oct 2026 07:08:16 +0000</pubDate></item><item><title>日本のネットが止まった……世界を揺るがすPHP脆弱性問題がなぜか中国では無風のワケ #エキスパートトピ（高口康太） - エキスパート - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/expert/articles/2d3aaa765e366d1a6186bcfac14484f18a8a421b</link><description>[score: 0.885] 日本のネットが止まった……世界を揺るがすPHP脆弱性問題がなぜか中国では無風のワケ #エキスパートトピ（高口康太） - エキスパート - Yahoo!ニュース 21日夜（日本時間）に修正パッチが公開されたPHPの重大な脆弱性「PHP2Shell」。日本ではpixivやniconico、財務省などがパッチ公開前に予防的にサービスを止め、欧州でもオランダ、フィンランド、フランス、ドイツなどの政府機関がサイトを停止した。一方、中国ではサイト閉鎖の報道は見当たらない。古いPHPが多く動いて...</description><guid isPermaLink="false">https://news.yahoo.co.jp/expert/articles/2d3aaa765e366d1a6186bcfac14484f18a8a421b</guid><pubDate>Thu, 22 Oct 2026 06:15:54 +0000</pubDate></item><item><title>AIがPHP「ウェブ史上最大級」の脆弱性を発見──GPT-5.6 SolとGemini 4 Argon</title><link>https://forbesjapan.com/articles/detail/107022?s=ns</link><description>[score: 0.886] AIが、インターネット上のウェブサイトの70％を支えるソフトウェアにひそむ、2件の深刻な脆弱性（セキュリティ上の欠陥）を見つけ出した。OpenAI、グーグル傘下のクラウドセキュリティ企業Wiz（ウィズ）、サイバーセキュリティのスタートアップ企業Califの3社が明らかにした。OpenAIはブログ記事で、「私たちは今回の問題を、近年で最も影響の大きいセキュリティ問題の1つと捉えている」と述べている。
-FBIや英政府通信本部がPHPへの早急な対応を要請、欧州では行政サイトを止めた国も
-米国時間10月21日、ウェブサイトの運営者たちは、広く使われているウェブ向けの汎用スクリプト言語PHPの脆弱性を修</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107022?s=ns</guid><pubDate>Thu, 22 Oct 2026 06:56:47 +0000</pubDate></item><item><title>「PHPなんて使ってるやつが悪い」と言っている輩が一番危ない</title><link>https://qiita.com/kotowazaman/items/aab621d31a8501617eb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] PHPの緊急脆弱性（通称PHP2Shell、CVE-2026-109618 / CVE-2026-109619）について、仕組みと対応チェックリストをまとめた記事を書きました。
-対応方法のまとめが主な内容だったのですが、その後も続いている反応の中で、気になる声がいくつも目につきました。
-「もうPHPはやめておけ」
-「今どきPHPの時点で古い」
-「そういうレガシー言語の宿命だよね。。」
-...果たして本当にそうでしょうか。
-個人的には、この事件から読み取るべきメッセージはむしろ真逆だと考えています。
-この脆弱性がPHPユーザーにしか関係ない話でも、「PHPを選んだのが悪い」という話でもない。もっ</description><guid isPermaLink="false">https://qiita.com/kotowazaman/items/aab621d31a8501617eb4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 22 Oct 2026 08:12:29 +0000</pubDate></item><item><title>「先見的か、それとも無謀か」。スペースXの業績とテスラとの合併について、ウォール街が語ること</title><link>https://www.businessinsider.jp/article/2610-spacexs-q3-earnings-revenue-capex-tesla-merger/</link><description>[score: 0.887] - スペースXの決算は、投資家を驚かせた。
-- ロケット・AI企業のスペースXは、利益と売上高が予想を上回り、初めて黒字化した。
-- それでも、設備投資や野心的な目標、さらにテスラ（Tesla）との合併の可能性をめぐって疑問が渦巻いている。
-スペースX（SpaceX）は、最新の決算発表を受けて勢いを増している。
-イーロン・マスク（Elon Musk）のロケット企業は20日（火・米時間）、第3四半期の決算を発表し、利益と売上高が予想を上回って投資家を驚かせた。
-主な数字は以下の通りだ。
-- 1株当たり利益：0.45ドル（約70円、1ドル=155円換算：以下同）、予想の0.13ドル（約20円）を上</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-spacexs-q3-earnings-revenue-capex-tesla-merger/</guid><pubDate>Thu, 22 Oct 2026 09:20:29 +0000</pubDate></item><item><title>『コミックシーモア』お客様の情報流出に関するご報告（第4報）｜ニュースリリース｜NTTソルマーレ株式会社</title><link>https://www.nttsolmare.com/press/2026/1021.html</link><description>[score: 0.887] 『コミックシーモア』お客様の情報流出に関するご報告（第4報）｜ニュースリリース｜NTTソルマーレ株式会社 2026年10月21日 NTTソルマーレ株式会社 この度、当社の電子書籍ストア『コミックシーモア』への不正アクセスに関して、お客様、お取引先様をはじめ関係者の皆様に多大なご迷惑とご心配をおかけしておりますことを、重ねて深くお詫び申し上げます。 10月18日にお知らせいたしました第3報に続き、外部専門機関と連携して実...</description><guid isPermaLink="false">https://www.nttsolmare.com/press/2026/1021.html</guid><pubDate>Thu, 22 Oct 2026 03:04:19 +0000</pubDate></item><item><title>ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある</title><link>https://gigazine.net/news/20261022-artificial-analysis-personalitybench/</link><description>[score: 0.887] ChatGPTやGeminiの性格診断結果をArtificial Analysisが公開、Gemini 4 Argonは媚びやすくClaude Fable 5.1は説得力がある
-AIの性能分析を行っているArtificial Analysisが、各種AIの性格を分析するベンチマークテスト「AA-PersonalityBench」を開発し、その結果を公開しました。
-AA-PersonalityBench: AI Personality &amp; Communication Style Benchmark | Artificial Analysis
-https://artificialanalysis.</description><guid isPermaLink="false">https://gigazine.net/news/20261022-artificial-analysis-personalitybench/</guid><pubDate>Thu, 22 Oct 2026 10:19:27 +0000</pubDate></item><item><title>https://openai.com/ja-JP/index/chatgpt-ads-expands-26-new-countries/</title><link>https://openai.com/ja-JP/index/chatgpt-ads-expands-26-new-countries/</link><description>[score: 0.887] ChatGPT 広告、新たに 26 か国へ拡大 — 利用広告主は 100,000 社超
-地元の事業者からグローバルブランドまで、より多くの広告主が、ChatGPT で購入するものを探し、比較し、決めようとしている人々にアプローチできるようになりました。
-毎週 12 億人以上が ChatGPT を使い、アイデアを探り、選択肢を比較し、意思決定を行っています。広告は、ニーズに合った商品やサービスを見つける手助けになります。広告がなければ出会えなかった選択肢も、その中に含まれます。
-広告の提供を開始してから 8 か月余りで、100,000 社を超える広告主が ChatGPT でキャンペーンを実施しま</description><guid isPermaLink="false">https://openai.com/ja-JP/index/chatgpt-ads-expands-26-new-countries/</guid><pubDate>Thu, 22 Oct 2026 09:32:48 +0000</pubDate></item><item><title>プログラミング言語「PHP」に重大な脆弱性、世界中で多くのウェブサイト休止 - BBCニュース</title><link>https://www.bbc.com/japanese/articles/c674p01yqwqko</link><description>[score: 0.889] プログラミング言語「PHP」に重大な脆弱性、世界中で多くのウェブサイト休止 - BBCニュース トム・ガーケン・テクノロジー記者、ローラ・クレス・テクノロジー記者、ジョー・タイディー・サイバー担当編集委員（BBCワールドサービス） 世界中で使われ、インターネットの相当部分を支えるプログラミング言語「PHP」のセキュリティーチームは21日、プログラムに含まれる二つの重大なセキュリティー上の欠陥に対処す...</description><guid isPermaLink="false">https://www.bbc.com/japanese/articles/c674p01yqwqko</guid><pubDate>Thu, 22 Oct 2026 07:25:58 +0000</pubDate></item><item><title>カプコン、1177万件漏えい　不正アクセスで</title><link>https://www.itmedia.co.jp/news/article/2610/22/2000002523/</link><description>[score: 0.889] カプコン、1177万件漏えい 不正アクセスで
-カプコンは10月22日、不正アクセスにより会員サービス「CAPCOM ID」の情報が全世界合計で1177万4247件漏えいしたと発表した。
-漏えいした情報は、メールアドレスやアカウントの作成日時、最終ログイン時刻、ログイン回数など。全体のうち43件では生年月日やニックネームも対象だった他、ログインパスワードの不正変更も196件あった。ただしパスワードやクレジットカード情報の漏えいはないという。対象のアカウントはパスワードをリセット済み。
-19日に不正アクセスの痕跡を発見し、事態が発覚した。同日中にアクセス元を遮断し、影響範囲などの調査を開始。20日</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/22/2000002523/</guid><pubDate>Thu, 22 Oct 2026 09:05:01 +0000</pubDate></item><item><title>PHP2Shell をどう追ったか — Sysdig Secure AI を活用した影響調査と対処の記録</title><link>https://qiita.com/takao-shimizu/items/6aa0a1e48debecb01ef7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] 2026年10月、PHP コミュニティから緊急性の高いセキュリティ修正が公開されました。対象となったのは、CVE-2026-109618 と CVE-2026-109619。いずれも PHP Core に起因する重大な問題で、未認証のリモートコード実行 につながる可能性があり、CVSS v4.0 は 9.2。深刻度としては、迷わず最優先で追うべき脆弱性です。
-この脆弱性群は PHP2Shell とも呼ばれ、公開の経緯も穏やかではありませんでした。非公開調整中の情報が漏えいし、その翌日に緊急リリースが出る展開となり、守る側に求められたのは「あとで対応する」ことではなく、いま自分たちの環境にどこま</description><guid isPermaLink="false">https://qiita.com/takao-shimizu/items/6aa0a1e48debecb01ef7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 22 Oct 2026 08:12:29 +0000</pubDate></item><item><title>「カプコン」全世界の会員メールアドレスなど約1177万件漏えい</title><link>https://news.web.nhk/newsweb/na/nd-20261022de63460</link><description>[score: 0.892] ゲームソフト大手の「カプコン」は、オンラインの会員サービスのシステムに不正アクセスがあり、全世界の会員のメールアドレスなどおよそ1177万件の個人情報が漏えいしたと発表しました。
-発表によりますと、…
+ことしのヨーロッパ議会人権賞「サハロフ賞」にICC
+10月22日 20:54
+香港 168人死亡の高層住宅火災 委員会が報告書提出 近く公表へ
+10月22日 17:17
+フランス 首相が労働組合と面会も組合反発 22日はデモ禁止令
+10月22日 16:06
+米とイスラエルが中間選挙後のイラン再攻撃計画策定か 米報道
+10月22日 13:59
+アメリカ メタ大幅増益</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261023de63931</guid><pubDate>Thu, 22 Oct 2026 21:04:46 +0000</pubDate></item><item><title>コーディングエージェントの「指示書・Skill・Hooks」役割分担</title><link>https://qiita.com/acshu_moriyama/items/0d35781c10fe8d436b5c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] コーディングエージェントの「指示書・Skill・Hooks」役割分担
+Claude Code や Codex などのコーディングエージェントには、エージェントの振る舞いを調整する仕組みとして 指示書・Skill・Hooks の3つがあります。本記事では、それぞれの役割と使い分けの考え方を整理します。
+本記事での呼び方
+-
+指示書：エージェントがセッション開始時に読み込む設定ファイル（Claude Code の
+CLAUDE.md
+、Codex のAGENTS.md
+など） - Skill：特定の作業の手順や資料をまとめたもの
+- Hooks：決まったタイミングでスクリプトを動かす仕組み全体。個</description><guid isPermaLink="false">https://qiita.com/acshu_moriyama/items/0d35781c10fe8d436b5c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 22 Oct 2026 20:30:22 +0000</pubDate></item><item><title>自民 定数31議席削減案提示 野党には異論も 来週再協議へ</title><link>https://news.web.nhk/newsweb/na/nd-20261023de63953</link><description>[score: 0.882] 衆議院議員の定数削減をめぐり、自民党は比例代表で31議席を削減するなどとした新たな案を示し、できるだけ多くの党の賛同を得たい考えです。野党からは一定の理解を示す声の一方、異論も相次いでいて、来週改めて…
+注目ワード
 あわせて読みたい
-すき家 JR 証券会社も “PHP”対応でサービス一時停止相次ぐ
-10月22日 19:38
-メタに約3兆9000億円の制裁金 消費者保護法違反など
-10月22日 11:26
-アメリカ メタ大幅増益 AIなど巨額の設備投資続ける見通し
-10月22日 12:17
-【きょうのおはBiz 10/22】意図しない売買注文 AIによる攻撃か
-10月22日 13:26
-“PHPでぜい弱性確認</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261022de63460</guid><pubDate>Thu, 22 Oct 2026 05:32:52 +0000</pubDate></item><item><title>PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃 - Qiita</title><link>https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3</link><description>[score: 0.893] PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃 - Qiita 2026 年 10 月 21 日 21 時 55 分、高市総理が X にこう投稿しました。 修正パッチを速やかに適用することが困難な場合は、例えばウェブサイト等を一時的に停止させることも、リスクを低減させるための有効策の一つと考えられます。 (高市早苗 on X) PHP の任意コード実行の脆弱性 2 件、通称 php2shell（CVE-2026-10961...</description><guid isPermaLink="false">https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3</guid><pubDate>Thu, 22 Oct 2026 06:05:29 +0000</pubDate></item><item><title>不正アクセスによるお客様情報漏えいのお詫びとお知らせ | プレスリリース | 株式会社カプコン</title><link>https://www.capcom.co.jp/ir/news/html/261022.html</link><description>[score: 0.895] 不正アクセスによるお客様情報漏えいのお詫びとお知らせ | プレスリリース | 株式会社カプコン 2026年10月22日 各位 大阪市中央区内平野町三丁目1番3号 株式会社カプコン 代表取締役社長 辻本 春弘 (コード番号：9697 東証プライム) このたび、当社が運営するオンライン会員サービス「CAPCOM ID」（※1）において、第三者による不正アクセスが発生し、お客様情報の一部が外部に漏えいしたことが判明いたしました。お...</description><guid isPermaLink="false">https://www.capcom.co.jp/ir/news/html/261022.html</guid><pubDate>Thu, 22 Oct 2026 10:16:10 +0000</pubDate></item><item><title>Google CloudでOpenAIの「GPT-6 Astra」などが利用可能に</title><link>https://www.watch.impress.co.jp/docs/news/2150269.html</link><description>[score: 0.895] ニュース
-Google CloudでOpenAIの「GPT-6 Astra」などが利用可能に
-2026年10月22日 12:08
-GoogleとOpenAIは21日、Google CloudのAIモデル統合管理サービス「Model Garden」において、近日中にOpenAIのAIモデル「GPT-6 Astra」「GPT-6.1 Sol」「GPT-6 Luna」の提供を始めると発表した。現在は一部の顧客企業を対象にプライベートプレビューを開始している。
-コーディングや高度な科学研究業務向けの上位モデル「GPT-6 Astra」、専門業務向けながらコストパフォーマンスを重視した「GPT-6.1 </description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2150269.html</guid><pubDate>Thu, 22 Oct 2026 03:21:49 +0000</pubDate></item><item><title>PHP重大脆弱性（CVE-2026-109618 / CVE-2026-109619）対応状況まとめ｜SKILLSHARE</title><link>https://note.com/skillsharejp/n/n36460d38bec2</link><description>[score: 0.898] PHP重大脆弱性（CVE-2026-109618 / CVE-2026-109619）対応状況まとめ｜SKILLSHARE PHP重大脆弱性（CVE-2026-109618 / CVE-2026-109619）対応状況まとめ（2026年10月22日時点） PHPに認証なしのリモートコード実行が可能な重大な脆弱性（通称php2shell、CVSS 9.2）が発見され、10月21日23時頃に公式修正版が公開されました。国内の主要レンタルサーバー各社の対応状況を、公式発表を基に整理しました。 ...</description><guid isPermaLink="false">https://note.com/skillsharejp/n/n36460d38bec2</guid><pubDate>Thu, 22 Oct 2026 07:45:15 +0000</pubDate></item><item><title>高市総理、サイバーセキュリティの本を出していた　しかも“PHP”から</title><link>https://www.itmedia.co.jp/news/article/2610/22/2000002522/</link><description>[score: 0.900] 明日から使えるITトリビア
-高市総理、サイバーセキュリティの本を出していた しかも“PHP”から
-「今夜に対応して頂きたい大至急のお願い」――プログラミング言語「PHP」の緊急の脆弱性を巡り、高市早苗総理が10月21日夜、自身のXで修正パッチの適用準備を呼び掛けた。首相が個別のソフトウェアの脆弱性に言及するのは異例で、SNSでも話題になった。そんな高市総理、実はサイバーセキュリティの本を出版している。しかも版元は「PHP」だ。
-もちろん言語のPHPではなく、出版社のPHP研究所（京都市）。書名は「サイバー攻撃から暮らしを守れ！ 『サイバーセキュリティの産業化』で日本は成長する」。2018年12</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/22/2000002522/</guid><pubDate>Thu, 22 Oct 2026 09:24:33 +0000</pubDate></item><item><title>PHP脆弱性php2shell対応、7.4本番を止めずに守った夜と実際の攻撃</title><link>https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.902] 2026 年 10 月 21 日 21 時 55 分、高市総理が X にこう投稿しました。
-修正パッチを速やかに適用することが困難な場合は、例えばウェブサイト等を一時的に停止させることも、リスクを低減させるための有効策の一つと考えられます。
-(高市早苗 on X)
-PHP の任意コード実行の脆弱性 2 件、通称 php2shell（CVE-2026-109618 / CVE-2026-109619、CVSS v4.0 9.2）の夜です。
-その夜、私が保守を担当しているオンラインサービス事業者 A 社の複数のサイトは、PHP 7.4 で動いていました。公式の修正版が出ない版です。修正パッチを「速</description><guid isPermaLink="false">https://qiita.com/kenimo49/items/30f290bf0f4fff021fb3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 22 Oct 2026 08:12:29 +0000</pubDate></item><item><title>【緊急】PHPの重大脆弱性2件(CVE-2026-109618 / 109619)を安全にアップデートする方法</title><link>https://qiita.com/superdora-cloud/items/10ddecde5fb1d032f17c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.908] はじめに
-2026年10月21日(日本時間の夜)、PHP公式から 認証なしでリモートコード実行(RCE)が可能になる重大な脆弱性2件 の修正版がリリースされました。通称「PHP2Shell」と呼ばれています。
-脆弱性のCVE番号が10月20日に事前流出したため、PHP開発チームは当初の公開予定(10月22日)を 1日前倒し して、10月21日 14:00 UTC(日本時間23時)の公開を告知しました。実際の修正版は 日本時間22時半〜23時頃 に公開されています(情報源により数分〜30分ほど差があります)。
-この記事では、次の内容を初心者向けにまとめます。
-- 何が起きたのか(時系列)
-- 今</description><guid isPermaLink="false">https://qiita.com/superdora-cloud/items/10ddecde5fb1d032f17c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 22 Oct 2026 08:12:29 +0000</pubDate></item><item><title>PHP「緊急」脆弱性悪用の試み、数百万件に　CloudflareのCEOが報告</title><link>https://www.itmedia.co.jp/news/article/2610/22/2000002516/</link><description>[score: 0.909] PHP「緊急」脆弱性悪用の試み、数百万件に CloudflareのCEOが報告
-米Cloudflareのマシュー・プリンスCEOは10月22日（日本時間、以下同）、PHPの深刻な脆弱性「PHP2Shell」悪用の試みが、公表後の45分で数万件、2時間以内に数十万件に跳ね上がり、その後、数百万件に達したとXに投稿した。公表前の10時間は数千件だった。件数は同社ネットワーク全体で観測した。
-PHP2Shellは、PHPで見つかった「緊急」レベルの脆弱性2件（CVE-2026-109618、CVE-2026-109619）を指す。PHPの開発チームは10月21日午後11時ごろに修正版を公開した。
-C</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/22/2000002516/</guid><pubDate>Thu, 22 Oct 2026 09:33:50 +0000</pubDate></item><item><title>PHPの脆弱性、修正パッチの公開前から攻撃の試み</title><link>https://wired.jp/article/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/</link><description>[score: 0.909] 10月21日、広く使われているプログラミング言語「PHP」に見つかった2件の重大な脆弱性への対応に、世界中のウェブサイト管理者やセキュリティ担当者が追われた。しかし、新たに公表された情報から、修正パッチの公開前に攻撃が試みられていたことが明らかになった。
-21日に2件の重大な脆弱性を修正するパッチが公開されると、担当者たちは脆弱性のあるウェブサイトやアプリケーションの特定と、修正パッチの適用を急いだ。一方、攻撃者たちも公開された修正パッチをリバースエンジニアリングし、脆弱性を悪用する方法を探り始めた。一部の政府機関や組織は、パッチを適用する前に攻撃を受けることを避けるため、公開に先立って重要な</description><guid isPermaLink="false">https://wired.jp/article/hackers-exploited-the-php-vulnerabilities-days-before-they-were-patched/</guid><pubDate>Thu, 22 Oct 2026 09:07:43 +0000</pubDate></item><item><title>PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表　混乱広げた企業を名指しで批判</title><link>https://www.itmedia.co.jp/news/article/2610/22/2000002525/</link><description>[score: 0.911] PHP脆弱性“PoCフライング公開”の経緯、支援財団が公表 混乱広げた企業を名指しで批判 世界中の企業・組織が対応に追われているプログラミング言語「PHP」の脆弱性。高市早苗首相がSNSで対応を呼びかけたことから、テレビなどでも盛んに報じられ、これまでになく社会を騒がせている。開発プロジェクトは10月21日夜（日本時間、以下同）にセキュリティアップデートを配信したが、一部の企業・組織は22日時点...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/22/2000002525/</guid><pubDate>Thu, 22 Oct 2026 10:27:12 +0000</pubDate></item><item><title>旅行ゲーム「ワールドクエスト」、PHP脆弱性で即日サービス終了　「古い仕組みのため対策とれず」</title><link>https://www.itmedia.co.jp/news/article/2610/22/2000002493/</link><description>[score: 0.913] 旅行ゲーム「ワールドクエスト」、PHP脆弱性で即日サービス終了 「古い仕組みのため対策とれず」（1/2 ページ）
-旅行ゲーム「ワールドクエスト」の運営は10月21日、同日をもってサービスを終了すると発表した。サーバで使っているプログラミング言語「PHP」自体に深刻な脆弱性が見つかったとの発表があったが、ゲームが古い仕組みの上で動いているため十分な対策をとれないと説明。利用者の情報を守ることを第一に考えたとしている。
-公式サイトの告知では「突然のお知らせとなり、ご迷惑をおかけしますことを心よりお詫び申し上げます」と謝罪した。利用者への挨拶は、あらためて後日同サイトに掲載するという。
-PHPを巡っ</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/22/2000002493/</guid><pubDate>Thu, 22 Oct 2026 03:07:55 +0000</pubDate></item><item><title>10月21日、PHP2Shell対応の後片付けが終わらない</title><link>https://zenn.dev/subara3/articles/1165119ef70e75</link><description>[score: 0.914] 10月21日の22時ちょいに、PHPので～っかい修正版が出ました。 これが結構やばい修正＆攻撃が来るからすぐ手当てして、というもののようで、今日はもうひっきりなしの対応に追われている方も多いんじゃないでしょうか。 私も緊急対応を一通り終えて、ようやく帰れるところです。やれやれ。 今回報告されたのは、PHP本体の脆弱性2件（CVE-2026-109618、CVE-2026-109619）で、通称は「PHP2Shell」です。 深刻度はどちらもCVSS v4.0で9.2です。9.2！！ PHP公式は、認証なしでリモートからコードを実行されうると説明しています。 国内では、BASE、Cygam...</description><guid isPermaLink="false">https://zenn.dev/subara3/articles/1165119ef70e75</guid><pubDate>Thu, 22 Oct 2026 10:47:08 +0000</pubDate></item><item><title>PHPのセキュリティ問題について、その深刻さをわかる人が言及、首相の注意喚起ポストは思った以上にありがたかった模様、一方緊急で運営終了となるサービスも</title><link>https://togetter.com/li/2761388</link><description>[score: 0.915] PHPのセキュリティ問題について、その深刻さをわかる人が言及、首相の注意喚起ポストは思った以上にありがたかった模様、一方緊急で運営終了となるサービスも 国家サイバー統括室(注意・警戒情報) @cyber_forecast PHPのセキュリティチームが、重大な２件の脆弱性に関する注意喚起を行っています。公開しているウェブサイトでPHPを使用しているか確認し、10月21日午後11時（日本時間）に公開される修正パッチについて、可及的速やかに適用できるよう準備をお願いいたします。 php...</description><guid isPermaLink="false">https://togetter.com/li/2761388</guid><pubDate>Thu, 22 Oct 2026 05:15:09 +0000</pubDate></item><item><title>Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot | Amazon Web Services</title><link>https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/</link><description>[score: 0.919] AWS Security Blog
-Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure in MadPot
-Amazon Threat Intelligence identified a PHP2Shell exploitation attempt dating to Oct. 17, 2026, in MadPot telemetry, four days before public disclosure of CVE-2026-109618 and CVE-2026-</description><guid isPermaLink="false">https://aws.amazon.com/blogs/security/amazon-threat-intelligence-identifies-php2shell-exploitation-prior-to-public-disclosure-in-madpot/</guid><pubDate>Thu, 22 Oct 2026 06:56:42 +0000</pubDate></item></channel></rss>
+ドラフト 織田翔希は巨人 菰田は日本ハムが交渉権【全名簿】
+10月23日 0:17
+サイバー攻撃ぜい弱性悪用の猶予期間4分の1に 研究グループ
+10月22日 22:00
+サウジアラビア東部で攻撃相次ぎ3人死亡 米国務省は退避命令
+10月22日 23:58
+デジタル教科書 “紙とデジタル”基本に 文科省指針案
+10月22日 19:25
+生のジャガイモ解禁 野党“米と</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261023de63953</guid><pubDate>Thu, 22 Oct 2026 20:35:32 +0000</pubDate></item><item><title>旧姓通称使用拡大法案 政府・与党内で今国会提出困難の見方</title><link>https://news.web.nhk/newsweb/na/nd-20261023de63954</link><description>[score: 0.882] 結婚して姓を変えた人が旧姓を通称として使用できることを規定する法案について、政府・与党内では、食料品の消費税減税関連法案などの審議を優先させる必要があり、今の国会に提出するのは難しいという見方が出てい…
+注目ワード
+あわせて読みたい
+ドラフト 織田翔希は巨人 菰田は日本ハムが交渉権【全名簿】
+10月23日 0:17
+サイバー攻撃ぜい弱性悪用の猶予期間4分の1に 研究グループ
+10月22日 22:00
+サウジアラビア東部で攻撃相次ぎ3人死亡 米国務省は退避命令
+10月22日 23:58
+デジタル教科書 “紙とデジタル”基本に 文科省指針案
+10月22日 19:25
+生のジャガイモ解禁 野党“米と</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261023de63954</guid><pubDate>Thu, 22 Oct 2026 20:35:32 +0000</pubDate></item><item><title>中国政府系集団がAI攻撃　米マイクロソフト確認</title><link>https://www.47news.jp/15123277.html</link><description>[score: 0.885] 中国政府系集団がAI攻撃 米マイクロソフト確認
+2026年10月22日 23時22分
+【ニューヨーク共同】米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハッカー集団が人工知能（AI）を悪用して、世界の数百の組織を標的に自動化されたサイバー攻撃を行っていたことを確認したと公表した。標的の選定から、クラウド上の管理者権限を奪うまでに3時間もかからなかったケースもあり、AIが攻撃のスピードと規模を飛躍的に高めている実例だと指摘し、警戒を呼びかけた。
+MSによると、このグループは遅くとも9月ごろから、オープンソースのAIの侵入テスト用フレームワーク「ARTEX」を悪用。偵察から不</description><guid isPermaLink="false">https://www.47news.jp/15123277.html</guid><pubDate>Thu, 22 Oct 2026 21:00:25 +0000</pubDate></item><item><title>中国政府系ハッカー集団、AI「ARTEX」で攻撃　マイクロソフトが確認 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC22AUL0S6A021C2000000/</link><description>[score: 0.885] 中国政府系ハッカー集団、AI「ARTEX」で攻撃 マイクロソフトが確認 - 日本経済新聞 米マイクロソフトは米国時間21日、中国政府に関係するハッカー集団が中国系の人工知能（AI）ツール「ARTEX（アルテックス）」を使ってサイバー攻撃を仕掛けていたと発表した。日本企業を標的とした攻撃に関与したかは明らかになっていない。マイクロソフトが自社のクラウドサービスの記録などを調べた。「Storm（ストー...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC22AUL0S6A021C2000000/</guid><pubDate>Thu, 22 Oct 2026 13:39:43 +0000</pubDate></item><item><title>【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第2報） | GMOインターネットグループ株式会社</title><link>https://group.gmo/info/alert/20261022/</link><description>[score: 0.885] 【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第2報） | GMOインターネットグループ株式会社 2026年10月22日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第2報） GMOインターネットグループ株式会社 GMOインターネット株式会社 2026年10月22日 16：59時点 2026年10月21日にお知らせいたしました「お名前.com デスクトップクラウド」への第三者による不正アク...</description><guid isPermaLink="false">https://group.gmo/info/alert/20261022/</guid><pubDate>Thu, 22 Oct 2026 14:50:03 +0000</pubDate></item><item><title>【緊急】Node.jsの重大脆弱性に対応するセキュリティアップデートを安全に適用する方法</title><link>https://qiita.com/superdora-cloud/items/8cad27487cd0e67d088c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.887] はじめに
+2026年10月21日、Node.jsプロジェクトが脆弱性10件を修正するセキュリティリリースを公開しました。同じ日にPHPの重大な脆弱性も話題になったため、見逃した方もいるかもしれません。
+この記事では、次の内容を初心者向けに整理します。
+- 何が修正されたのか、どんな影響があるのか
+- 自分の環境が対象かどうかの確かめ方
+- 環境別の安全なアップデート手順
+- すぐ更新できないときの暫定対策
+情報は2026年10月22日19時30分（JST）時点のものです。作業前にNode.js公式の発表も確認してください。
+更新履歴
+- 2026年10月22日 19:30（JST）：Brotl</description><guid isPermaLink="false">https://qiita.com/superdora-cloud/items/8cad27487cd0e67d088c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 22 Oct 2026 20:30:22 +0000</pubDate></item><item><title>PHPとNode.jsが同じ日に緊急パッチ、どちらもリモートコード実行の恐れ</title><link>https://pc.watch.impress.co.jp/docs/news/2150351.html</link><description>[score: 0.889] ニュース
+PHPとNode.jsが同じ日に緊急パッチ、どちらもリモートコード実行の恐れ
+2026年10月22日 15:04
+さまざまなアプリケーションやWebサービスなどで広く使われているプログラミング言語やツールでの脆弱性報告が続いている。オープンソースのプログラミング言語「PHP」では10月21日、リモートコード実行につながる脆弱性があったとして情報とパッチを公開。JavaScript実行環境の「Node.js」でも同日、リモートコード実行につながるものを含む複数の脆弱性情報を公開し、パッチの提供を開始した。
+The PHP Foundationでは、メモリ不足(OOM、Out-of-Me</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2150351.html</guid><pubDate>Thu, 22 Oct 2026 12:59:48 +0000</pubDate></item><item><title>マイクロソフト「中国系ハッカー集団が大規模サイバー攻撃」</title><link>https://news.web.nhk/newsweb/na/nd-20261023de63956</link><description>[score: 0.890] アメリカのIT大手、「マイクロソフト」は、中国政府とつながりのあるハッカー集団がAIツールを使い、世界の数百の組織にサイバー攻撃を仕掛けていたと明らかにしました。このところ相次いでいる日本企業を標的と…
+あわせて読みたい
+ドラフト 織田翔希は巨人 菰田は日本ハムが交渉権【全名簿】
+10月23日 0:17
+サイバー攻撃ぜい弱性悪用の猶予期間4分の1に 研究グループ
+10月22日 22:00
+サウジアラビア東部で攻撃相次ぎ3人死亡 米国務省は退避命令
+10月22日 23:58
+デジタル教科書 “紙とデジタル”基本に 文科省指針案
+10月22日 19:25
+生のジャガイモ解禁 野党“米との協議は慎重</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261023de63956</guid><pubDate>Thu, 22 Oct 2026 21:04:46 +0000</pubDate></item><item><title>カプコンのオンラインサービスで約1177万件のユーザー情報漏えい、パスワードの不正な変更も</title><link>https://internet.watch.impress.co.jp/docs/news/2150509.html</link><description>[score: 0.892] ニュース
+カプコンのオンラインサービスで約1177万件のユーザー情報漏えい、パスワードの不正な変更も
+2026年10月22日 19:12
+株式会社カプコンは10月22日、同社のオンライン会員サービス「CAPCOM ID」において不正アクセスが発生し、ユーザーの情報の一部が漏えいしたと発表した。
+発表によると、10月19日に「CAPCOM ID」に対する不正アクセスの疑いのある痕跡を発見。直ちにアクセスの遮断を行うと共に、調査を開始した。同日に不正アクセスが行われたことを確認したという。
+発表時点で漏えいが確認されている情報は、カプコンIDのメールアドレスと、システム固有の識別情報（アカウント作</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2150509.html</guid><pubDate>Thu, 22 Oct 2026 16:30:22 +0000</pubDate></item><item><title>これがPHPの脆弱性を呟いてしまった人か。マジで全世界をデスマに叩き落とした人として後世に語り継がれると思う</title><link>https://posfie.com/@golden_haniwa/p/LQ90sis</link><description>[score: 0.893] これがPHPの脆弱性を呟いてしまった人か。マジで全世界をデスマに叩き落とした人として後世に語り継がれると思う 該当の人物が、パッチが公開される前に、PHPのクリティカルな未修正脆弱性の詳細やPoC（概念実証）をX上で公開してしまったからです。 この脆弱性は以下のものです CVE-2026-109618 と CVE-2026-109619 通称 PHP2Shell CVSS 9.2の未認証リモートコード実行（RCE） PHP本体のメモリ管理やリクエスト処理に関する欠陥で、...</description><guid isPermaLink="false">https://posfie.com/@golden_haniwa/p/LQ90sis</guid><pubDate>Thu, 22 Oct 2026 16:39:30 +0000</pubDate></item><item><title>中国政府関係のハッカー集団が大規模サイバー攻撃、ＡＩで世界数百の企業・組織に…米マイクロソフトが記録で確認</title><link>https://www.yomiuri.co.jp/world/20261022-GYT1T00278/</link><description>[score: 0.897] 中国政府関係のハッカー集団が大規模サイバー攻撃、ＡＩで世界数百の企業・組織に…米マイクロソフトが記録で確認
+完了しました
+【ニューヨーク＝木瀬武】米マイクロソフト（ＭＳ）は２１日、中国政府と関係するハッカー集団がＡＩ（人工知能）を使って、世界の数百の企業や組織を標的に大規模なサイバー攻撃を行ったと発表した。日本企業で相次ぐサイバー攻撃でも同じＡＩが悪用された疑いがあり、一連の攻撃に同じハッカー集団が関与した可能性もありそうだ。
+マイクロソフトは、自社のクラウドサービスに残された不正アクセスの記録などを調べ、一連の攻撃を確認した。
+マイクロソフトによると、攻撃を仕掛けたのは同社が「ストーム０９４</description><guid isPermaLink="false">https://www.yomiuri.co.jp/world/20261022-GYT1T00278/</guid><pubDate>Thu, 22 Oct 2026 20:31:09 +0000</pubDate></item><item><title>【初学者向け】PHPの緊急パッチのニュースで理解した「Dependabotを放置してはいけない理由」と対処法</title><link>https://qiita.com/Elu_72b/items/acbf3ba68785e90202b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.897] はじめに
+ハーブティーのレシピ管理アプリ「Herb Recipe Lab」（Rails 8.1 / Turbo 8 / Render / Neon）を個人開発しています。
+MVPをリリースし、本リリースに向けて開発していたところ、コードレビューしてくださった先輩にこう言われました。
+「DependabotのPRが10件溜まってるけど大丈夫？」
+Dependabotが何なのかわからず、届いていたPRを放置していたのです。さらに設定を確認すると、脆弱性を知らせてくれる「Dependabot alerts」自体が Off でした。
+ちょうど同じころ、PHPの緊急パッチのニュースを読み、自分の状態がど</description><guid isPermaLink="false">https://qiita.com/Elu_72b/items/acbf3ba68785e90202b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 22 Oct 2026 20:30:22 +0000</pubDate></item><item><title>Independent OpenAI Agent Investigation Highlights Monitoring Lessons for Businesses</title><link>https://dev.to/alifar/independent-openai-agent-investigation-highlights-monitoring-lessons-for-businesses-6f1</link><description>[score: 0.900] An independent investigation by METR and a contractor from Redwood Research examined the OpenAI agent activity connected to the Hugging Face incident. The findings matter because they show how large numbers of agents can coordinate in ways that challenge assumptions about isolation, monitoring, and </description><guid isPermaLink="false">https://dev.to/alifar/independent-openai-agent-investigation-highlights-monitoring-lessons-for-businesses-6f1</guid><pubDate>Thu, 22 Oct 2026 18:47:42 +0000</pubDate></item><item><title>PHP2Shell をどう検知し、どう止めるか — パッチ適用までの空白期間を Sysdig Secure で守り抜く</title><link>https://qiita.com/takao-shimizu/items/37006609b3265d265d0a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.910] 前回の記事「PHP2Shell をどう追ったか — Sysdig Secure AI を活用した影響調査と対処の記録」では、2026年10月に緊急公開された PHP の深刻な脆弱性「PHP2Shell（CVE-2026-109618 / CVE-2026-109619、ともに CVSS v4.0 スコア 9.2）」に対して、Sysdig Secure AI を使って影響を受けるシステム（前回の例では demo-kube-aws
+クラスタの sysevent
+など）を素早く特定し、対処計画（Remediation Plan）を立てるまでの流れをご紹介しました。
+どのシステムに脆弱性があるかが分か</description><guid isPermaLink="false">https://qiita.com/takao-shimizu/items/37006609b3265d265d0a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 22 Oct 2026 20:30:22 +0000</pubDate></item></channel></rss>
