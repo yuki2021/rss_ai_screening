@@ -1,85 +1,129 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 22 Oct 2026 23:47:36 +0000</lastBuildDate><item><title>ナイキの構造改革、人員削減に伴う長引く「不確実性」に懸念の声</title><link>https://forbesjapan.com/articles/detail/107041?s=ns</link><description>[score: 0.873] 10月1日、ナイキのエリオット・ヒル最高経営責任者（CEO）は、同社が事業運営モデルを変更する意向であり、その構造改革に伴い人員削減が必要になることを認めた。ヒルCEOは、どれだけの雇用が消滅するのか、どこで削減が行われるのか、あるいはどの従業員が影響を受けるのかについては明確にしなかった。同氏によると、それらの決定は2027年以降に順次開始されるという。
-従業員にとっては、自らの職業上および経済的な将来に関する不確実な状態が何カ月も続くことになる。
-明確な時期を示さないナイキとは対照的に、メタが今年4月に発表した計画では、全従業員の約10％に相当する約8000人の人員削減を行うことが従業員に</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107041?s=ns</guid><pubDate>Thu, 22 Oct 2026 23:27:37 +0000</pubDate></item><item><title>デジタル庁、問い合わせフォーム入力情報1万件超が漏洩か - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUA22BWN0S6A021C2000000/</link><description>[score: 0.874] デジタル庁、問い合わせフォーム入力情報1万件超が漏洩か
-デジタル庁は22日、問い合わせフォームを委託していた企業が不正アクセスを受けて1万3000件超の氏名やメールアドレスをはじめとした個人情報が漏洩した可能性があると発表した。情報が悪用されるなどの二次被害は確認されていない。
-同庁によると、2021年5月〜23年3月に同庁ホームページの問い合わせフォームに入力した内容が流出した可能性がある。「一般的な意見・要望」や「採用」「接種証明書アプリ」などへの問い合わせ内容、氏名、電話番号、メールアドレスが対象という。
-デジタル庁はホームページ運営の一部にウェブサイト制作ツールを手掛けるStudio（</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUA22BWN0S6A021C2000000/</guid><pubDate>Thu, 22 Oct 2026 22:30:49 +0000</pubDate></item><item><title>市場に奪われる前に自ら価格を再設定せよ　AI時代の収益戦略</title><link>https://forbesjapan.com/articles/detail/107079?s=ns</link><description>[score: 0.874] AIはクライアントが対価を支払う対象を変えるだろう。経営者は、市場が自分たちに代わって行動する前に、複雑さに依存した既存の売上を自ら縮小させる必要があるかもしれない。
-クライアント業務の自動化を推進することは、経営陣に頭の痛い問題をもたらす。最初の影響として売上規模が縮小する可能性があるからだ。
-例えば、ヘルスケアの取引で現在100ドル（約1万円）の売上があり、利益率が30%〜35%程度だとしよう。従来の直感に従えば、その100ドル（約1万円）をできるだけ長く守ろうとするはずだ。
-しかし、その直感こそが危険をはらむ。
-その業務をより自動化されたモデルに移行した場合、明日には同じクライアントから</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107079?s=ns</guid><pubDate>Thu, 22 Oct 2026 23:27:37 +0000</pubDate></item><item><title>Geminiで作ったツールやGemini Notebookを社内で共有する方法</title><link>https://webtan.impress.co.jp/e/2026/10/23/53444</link><description>[score: 0.874] Geminiで作ったツールやGemini Notebookを社内で共有する方法 yotsuya 2026年10月23日 マーケターが知っておきたいAI シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 Geminiで業務用のツールを作れば手作業が減ります。Gemini Notebook（旧NotebookLM）のソースに資料を追加しておけば、そのつど探さなくても、その範囲の中から答えが返ってきます。どちらも、自分の作業はその分だけ速くなります。ただ、作ったものが自分の手元にあるうちは、効果も自分1人分のままです。 同じ業務をしている人に渡せば、1人分の時短がチーム分になり、</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/10/23/53444</guid><pubDate>Thu, 22 Oct 2026 22:50:34 +0000</pubDate></item><item><title>Oracle Javaに55件の脆弱性　IPAが「早急に適用を」と促す対象は</title><link>https://www.itmedia.co.jp/enterprise/articles/2610/22/news058.html</link><description>[score: 0.874] Oracle Javaに55件の脆弱性 IPAが「早急に適用を」と促す対象は Oracle Java SE 27 Oracle Java SE 26.0.2 Oracle Java SE 25.0.4.1 Oracle Java SE 21.0.12.1 Oracle Java SE 17.0.20.1 Oracle Java SE 11.0.32.1 Oracle Java SE 8 Update 503 Oracle Java SE 8 Update 503-perf Oracleは、サポート対象外のバージョンについては今回の脆弱性の有無を検証していないものの、影響を受...</description><guid isPermaLink="false">https://www.itmedia.co.jp/enterprise/articles/2610/22/news058.html</guid><pubDate>Thu, 22 Oct 2026 23:02:04 +0000</pubDate></item><item><title>ウォーレン・バフェットの古典的なアドバイスは今なお有効…「S&amp;P500を買い、仕事に戻る」</title><link>https://www.businessinsider.jp/article/2610-warren-buffett-investing-advice-stocks-spx-index-funds-strategy-berkshire/</link><description>[score: 0.876] - ウォーレン・バフェットは、あらゆる投資家が低コストのS&amp;P500インデックスファンドを保有すべきだと、繰り返し語っている。
-- 10月6日にS&amp;P500が過去最高値を更新したことで、このビジネス界のアイコンによる助言は、今なお成果を上げ続けていることが示された。
-- バフェットは、自身の手法であれば高額な手数料を回避でき、投資の知識や特別な努力も必要ないと述べている。
-ウォーレン・バフェット（Warren Buffett）は、自身のような投資判断ができる人はほとんどいないため、一般の投資家は同じことをしようとすべきではないと述べている。一方で、彼が長年勧めてきた低コストのS&amp;P500インデ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-warren-buffett-investing-advice-stocks-spx-index-funds-strategy-berkshire/</guid><pubDate>Thu, 22 Oct 2026 22:02:55 +0000</pubDate></item><item><title>Claude CodeやCodexで並列開発していたら、Macのストレージが残り8GBになったので掃除した</title><link>https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1</link><description>[score: 0.877] ! クライアント案件のリポジトリ名は伏せています。容量の数字は、dfとduで実際に測った値です。 1TBのMacBook Airで、ストレージの空きが8GBまで減っていました。 Claude Codeに「ストレージがほぼないので整理したい」と頼んで、何が容量を使っているかを調べてもらいながら掃除しました。原因はほとんどが開発まわりで、最終的に空きは約380GBまで戻りました。 最近はClaude CodeやCodexに作業を並列でお願いすることが多く、そのたびにGitのworktreeが作られます。このやり方だと溜まりやすいものがいくつか分かったので、消した順に紹介します。 何が容...</description><guid isPermaLink="false">https://zenn.dev/yoshinani_dev/articles/0c17dec1c082a1</guid><pubDate>Thu, 22 Oct 2026 23:06:39 +0000</pubDate></item><item><title>「Gemini Notebook」で名刺を文字起こしして管理！ PFUの小型スキャナー「ScanSnap iX110」活用【自宅Wi-Fiの“わからない”をスッキリ！】</title><link>https://internet.watch.impress.co.jp/docs/column/homewifi/2149233.html</link><description>[score: 0.878] 自宅Wi-Fiの“わからない”をスッキリ！
-【使いこなし編】第302回
-「Gemini Notebook」で名刺を文字起こしして管理！ PFUの小型スキャナー「ScanSnap iX110」活用
-2026年10月22日 06:00
-バッテリー内蔵でどこでも使えるハンディ型のドキュメントスキャナー「ScanSnap iX110」の活用を、第297回から実践している。
-前回からAIを利用して、スキャンしたドキュメントから文字情報を抽出し、活用するさまざまな方法を実践している。今回は、スキャンした名刺の文字情報をAIで読み取り、スプレッドシートで管理する方法を試してみる。
-この先の実践は、自宅内でS</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/column/homewifi/2149233.html</guid><pubDate>Thu, 22 Oct 2026 22:40:26 +0000</pubDate></item><item><title>ＡＩ外部評価機関、オープンＡＩのシステムに脆弱性特定 監視回避に悪用の恐れ - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBSaktXVXNvSG12X01QZmRHNWtiQmJFUC1OcUUtR1ZRdGRKZlRtYVhPUjE3dzI2VXlqQVo1UEM1OFVfM2pOVFFXcG9mTVByd2l5blRWdFZjTmJybnI2Ri0wa1hRTWx3SWQyX3poMm9PVzBPZnlMSkk4Vk01UHcxZw?oc=5</link><description>[score: 0.878] ＡＩ外部評価機関、オープンＡＩのシステムに脆弱性特定 監視回避に悪用の恐れ Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFBSaktXVXNvSG12X01QZmRHNWtiQmJFUC1OcUUtR1ZRdGRKZlRtYVhPUjE3dzI2VXlqQVo1UEM1OFVfM2pOVFFXcG9mTVByd2l5blRWdFZjTmJybnI2Ri0wa1hRTWx3SWQyX3poMm9PVzBPZnlMSkk4Vk01UHcxZw?oc=5</guid><pubDate>Thu, 22 Oct 2026 22:09:26 +0000</pubDate></item><item><title>マイクロソフトが広報戦略を転換、社員を公的な「声」に</title><link>https://forbesjapan.com/articles/detail/107042?s=ns</link><description>[score: 0.878] マイクロソフトは、コミュニケーションチームをマーケティング部門から外し、コーポレート、対外、法務を統括する副会長兼社長のブラッド・スミス氏の下に移管する。これは9月24日に送付された社内メモによって明らかになった。だが、報告系統の変更以上に、このメモは今後マイクロソフトがどのように情報発信していこうとしているのか──すなわち、社員を公的な声の重要な一部にしていく方針──を示している。
-CEOのサティア・ナデラ氏はメモの中で、「かつてないほど断片化し、ノイズが多くなった」メディア環境において、同社は「すべてのステークホルダーと直接つながる新たな方法を見つける必要がある」と述べた。そして、エンジニ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107042?s=ns</guid><pubDate>Thu, 22 Oct 2026 23:27:37 +0000</pubDate></item><item><title>公開からわずか1年で、なぜTOPPANはパーパスサイトをリニューアルしたのか？ グローバル発信にかけた執念とプロジェクトの全貌</title><link>https://webtan.impress.co.jp/e/2026/10/23/53436</link><description>[score: 0.880] 公開からわずか1年で、なぜTOPPANはパーパスサイトをリニューアルしたのか？ グローバル発信にかけた執念とプロジェクトの全貌 匿名 2026年10月23日 Webサイトリニューアル特集 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 TOPPANホールディングス株式会社（以下、TOPPAN）は2025年、グループ全体にパーパスを浸透させるための特設サイト「TOPPAN's Purpose Special Site」を公開し、2026年3月にリニューアルを実施した。サイトの企画・制作を担った広報本部の渡邊慎悟氏と穂苅美夏氏に、サイトに込めた狙いとリニューアルの中身を聞いた</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/10/23/53436</guid><pubDate>Thu, 22 Oct 2026 22:50:34 +0000</pubDate></item><item><title>「GEOは無駄」なのか？ AI トラフィックをめぐる 3 つの調査とその反論</title><link>https://www.suzukikenichi.com/blog/is-geo-a-waste-of-time-three-studies-on-ai-traffic-and-its-rebuttal/</link><description>[score: 0.880] [レベル: 上級]
-AI 検索への最適化、いわゆる GEO にどこまで力を入れるべきでしょうか？
-この問いについて、同じ週に次の 3 つの調査が公開されました。
-- AI Referral Traffic 2026: How Much, And Does It Convert? by The SEO Works
-- GEO is a distraction by Marie Haynes
-- Does AI drive more direct traffic? by Kevin Indig
-3 つとも GA4 のデータを分析しています。
-そして、AI からのトラフィックは小さいという結果を示し</description><guid isPermaLink="false">https://www.suzukikenichi.com/blog/is-geo-a-waste-of-time-three-studies-on-ai-traffic-and-its-rebuttal/</guid><pubDate>Thu, 22 Oct 2026 22:30:25 +0000</pubDate></item><item><title>「660万件流出」判明の3日前、タイムズカーは何を伝えた？　企業の命運を分ける「初報の鉄則」</title><link>https://www.itmedia.co.jp/business/articles/2610/23/news019.html</link><description>[score: 0.881] 「Webシステムに不正アクセスの形跡があります。顧客データが抜かれたかもしれません」
-平日の朝、情報システム部門から飛び込んできた一報。侵入経路も、漏えいした件数も、盗まれたデータの全容すらまだ分かりません。経営陣の背筋を冷たい汗が伝います。
-「全て調査が完了してから発表すべきか、それとも今すぐ頭を下げるべきか」
-多くの企業がこの初動判断を誤り、隠蔽（いんぺい）を疑われて致命的な二次炎上を引き起こしてきました。ですが、カーシェア大手「タイムズカー」を運営するタイムズモビリティが下した決断は違いました。 「約660万件のアカウント流出」という衝撃的な全貌が判明する3日前、同社はいち早く世に向けて</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2610/23/news019.html</guid><pubDate>Thu, 22 Oct 2026 22:56:17 +0000</pubDate></item><item><title>AIバブルの崩壊は、投資家が“注目していない”場所から起こる可能性がある。エコノミストによる指摘</title><link>https://www.businessinsider.jp/article/2610-ai-bubble-burst-stock-market-risks-politics-debt-chips/</link><description>[score: 0.882] - 巨額の設備投資が報われるのか投資家が疑問視するなか、AIバブルへの懸念が高まっている。
-- TSロンバード（TS Lombard）は、債務の増大、半導体の供給過剰の可能性、政治的な反発が、AI関連投資を脅かす可能性があると警告している。
-- 同社のエコノミストによると、AI業界の収益成長の大部分は、依然として業界内での支出によるものだ。
-AIバブルへの懸念が高まるなか、あるエコノミストは、投資家がAIブームにおける別の脆弱性を見落としている可能性があると警告している。
-「引き金はAIブームの内部要因である必要はない。外部要因の可能性もある」と、グローバルデータ・TSロンバード（Global</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-ai-bubble-burst-stock-market-risks-politics-debt-chips/</guid><pubDate>Thu, 22 Oct 2026 23:05:55 +0000</pubDate></item><item><title>ナスダック指数一時2.9％下落 AI投資への懸念が再燃</title><link>https://news.web.nhk/newsweb/na/nd-20261023de63980</link><description>[score: 0.882] 22日のニューヨーク株式市場では半導体などの銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は一時、2.9％の大幅な下落となりました。AI開発への巨額投資の持続性に対する投資家の懸念…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 23 Oct 2026 10:45:34 +0000</lastBuildDate><item><title>チームみらい安野氏「電力、水道、医療などの停止を伴う被害を想定すべき」　デジ庁に緊急提言へ、AI悪用のサイバー攻撃受け</title><link>https://www.itmedia.co.jp/aiplus/article/2610/22/2000002518/</link><description>[score: 0.886] チームみらい安野氏「電力、水道、医療などの停止を伴う被害を想定すべき」 デジ庁に緊急提言へ、AI悪用のサイバー攻撃受け 安野氏は会見の冒頭、相次ぐ情報漏えいやプログラミング言語「PHP」の脆弱性、インドの認証局eMudhraで秘密鍵が漏えいした問題などに触れ、今後もこういった問題に速やかに対策を講じるため、チームみらいとして... misshiki %E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3 チームみらいの安野氏が、AI悪用のサイバー攻撃による電力・水道・医療の停止も想定すべきと警告。10月23日にデジタル庁へ緊急提言を提出・公</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2610/22/2000002518/</guid><pubDate>Fri, 23 Oct 2026 09:56:25 +0000</pubDate></item><item><title>佐川急便、不正アクセスで個人情報流出の恐れ　最大のべ5300万件 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC236SI0T21C26A0000000/</link><description>[score: 0.886] 佐川急便、不正アクセスで個人情報流出の恐れ 最大のべ5300万件
+佐川急便は23日、荷物の配送状況をインターネットで確認するサービスへの不正アクセスで最大約5323万件分の氏名や住所などの個人情報が流出した可能性があると発表した。システムの点検や安全面での対策が完了したため、同日からサービスは再開した。
+「お荷物問い合わせサービス」の利用者の個人情報で、6月21日から9月30日までの間の送り主や宛先の氏名や住所、電話番号などが流出した可能性があるという。
+同じ顧客の情報であっても複数の送り主から届いている場合は別件として集計しているので、実人数とは一致しない。実際に外部へ流出したことを確認した</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC236SI0T21C26A0000000/</guid><pubDate>Fri, 23 Oct 2026 09:56:25 +0000</pubDate></item><item><title>佐川急便、個人情報最大5323万件流出の可能性　9月末の不正アクセス</title><link>https://www.reuters.com/jp/economy/THLYWAITZBII3JDOU7LOAV6CDU-2026-10-23/</link><description>[score: 0.887] 佐川急便、個人情報最大5323万件流出の可能性 9月末の不正アクセス yuiseki</description><guid isPermaLink="false">https://www.reuters.com/jp/economy/THLYWAITZBII3JDOU7LOAV6CDU-2026-10-23/</guid><pubDate>Fri, 23 Oct 2026 09:56:25 +0000</pubDate></item><item><title>タイムズカーWebシステムへの不正アクセスによる個人情報漏えいに関するご報告と今後の対応について（タイムズカーWebシステムへの不正アクセスによる情報漏えい関連・第5報）｜パーク２４株式会社</title><link>https://www.park24.co.jp/news/2026/10/20261023-1.html</link><description>[score: 0.887] タイムズカーWebシステムへの不正アクセスによる個人情報漏えいに関するご報告と今後の対応について（タイムズカーWebシステムへの不正アクセスによる情報漏えい関連・第5報）｜パーク２４株式会社 タイムズカーWebシステムへの不正アクセスによる個人情報漏えいに関するご報告と今後の対応について （タイムズカーWebシステムへの不正アクセスによる情報漏えい関連・第5報） 2026年10月23日 このたび、当社グループが運営するタイムズカーのWebシステムに対する第三者による不正アクセスにより、お客様情報の漏えい（...</description><guid isPermaLink="false">https://www.park24.co.jp/news/2026/10/20261023-1.html</guid><pubDate>Fri, 23 Oct 2026 10:05:53 +0000</pubDate></item><item><title>AmazonはPHP2Shell脆弱性を悪用した攻撃を公開4日前に検出していた</title><link>https://gigazine.net/news/20261023-amazon-knew-php2shell/</link><description>[score: 0.887] AmazonはPHP2Shell脆弱性を悪用した攻撃を公開4日前に検出していた
+Amazonの脅威情報チーム「Amazon Threat Intelligence」は、PHPの脆弱(ぜいじゃく)性「PHP2Shell」を悪用しようとする攻撃を、脆弱性が一般公開される4日前に検出していたと発表しました。情報公開後には攻撃が広範に確認されており、Amazonは早急なセキュリティ更新と過去の攻撃履歴の調査を呼びかけています。
+Amazon Threat Intelligence identifies PHP2Shell exploitation prior to public disclosure </description><guid isPermaLink="false">https://gigazine.net/news/20261023-amazon-knew-php2shell/</guid><pubDate>Fri, 23 Oct 2026 02:52:15 +0000</pubDate></item><item><title>自殺対策白書 去年の自殺者数は過去最少も小中高生は最多に</title><link>https://news.web.nhk/newsweb/na/nd-20261023de64024</link><description>[score: 0.888] 1 / 1
+ことしの自殺対策白書が23日、閣議決定され、去年の自殺者数は過去最も少なくなったものの、小中高生の自殺者数は過去最も多くなるなど、減少傾向にない属性もあるとして必要な支援を継続して受けられる仕組みが求…
+注目ワード
 あわせて読みたい
-「長征」から90年 習主席が中国共産党の結束呼びかけ
-10月23日 1:40
-モンゴル自然保護区で大規模火災 通信大手KDDIが謝罪
-10月23日 2:34
-道新記者に差し入れ 引き続き「領事面会」と即時解放働きかけ
-10月23日 4:04
-マイクロソフト「中国政府とつながりある集団がサイバー攻撃」
-10月23日 8:30
-ことしのヨーロッパ議会人権賞「サハロフ賞」にICC
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261023de63980</guid><pubDate>Thu, 22 Oct 2026 23:37:41 +0000</pubDate></item><item><title>年末商戦のAIショッピング流入は130%増へ　「推薦される」ための5つの方法</title><link>https://forbesjapan.com/articles/detail/107028?s=ns</link><description>[score: 0.883] 米国の消費者は今年の年末商戦期に、オンラインで2751億ドル（約43兆5000億円）を支出すると予測されている。前年から6.7%増だ。QuickBooksは、消費者が年末商戦期に中小企業で1180億ドル（約18兆6000億円）を支出すると予測している。また同社の調査では、中小企業の46%が、AI搭載の検索またはショッピングツールを通じて見つけられやすくするための対策を講じていた。Adobeは、小売サイトへのAIアシスタント経由のトラフィックが前年比130%増加すると見込んでいる。感謝祭当日だけでも、AdobeはAI経由の訪問が159%増加すると予測している。
-理由は単純だ。買い手は店舗やウェブ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107028?s=ns</guid><pubDate>Thu, 22 Oct 2026 22:29:03 +0000</pubDate></item><item><title>Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について｜デジタル庁</title><link>https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22</link><description>[score: 0.883] Studio 株式会社における不正アクセスによる個人情報の漏えいの可能性について
-公開日：2026年10月22日
-今般、デジタル庁（デジタル改革関連法案準備室を含む。）がホームページ運営の一部にそのサービスを利用していたStudio株式会社が、第三者からの不正アクセスを受け、個人情報が外部に漏えいした可能性があることが判明しました。
-1 概要
-Studio 株式会社から、第三者が同社のクラウド環境に不正にアクセスをし、環境内のデータを外部から取得できる状態にしていたことを確認した旨の報告が、令和8年（2026年）10 月16日にありました。以下のStudio 株式会社の発表をご確認ください。
-</description><guid isPermaLink="false">https://www.digital.go.jp/press/a0a8f66c-b32d-4695-9372-bcd5d4280f22</guid><pubDate>Thu, 22 Oct 2026 21:55:33 +0000</pubDate></item><item><title>中国政府系集団がAIで大規模攻撃　世界数百の組織標的に　米マイクロソフト確認</title><link>https://www.sankei.com/article/20261022-4666XKHORFPQFPMIMILRS2WD7I/</link><description>[score: 0.885] 米IT大手マイクロソフト（MS）は21日、中国政府と関係があるとするハッカー集団が人工知能（AI）を悪用して、世界の数百の組織を標的に自動化されたサイバー攻撃を行っていたことを確認したと公表した。標的の選定から、クラウド上の管理者権限を奪うまでに3時間もかからなかったケースもあり、AIが攻撃のスピードと規模を飛躍的に高めている実例だと指摘し、警戒を呼びかけた。
-MSによると、このグループは遅くとも9月ごろから、オープンソースのAIの侵入テスト用フレームワーク「ARTEX」を悪用。偵察から不正なログイン、データ持ち出しまでを、ほとんど人手を介さずに進めたとみられる。
-ハッカー集団は「Storm―</description><guid isPermaLink="false">https://www.sankei.com/article/20261022-4666XKHORFPQFPMIMILRS2WD7I/</guid><pubDate>Thu, 22 Oct 2026 21:21:32 +0000</pubDate></item><item><title>不正アクセスによるお客様情報流出の可能性および一部サービス停止のお知らせ - バルテック</title><link>https://www.webjapan.co.jp/maintenance/serviceteishi261022/</link><description>[score: 0.888] 不正アクセスによるお客様情報流出の可能性および一部サービス停止のお知らせ - バルテック ■流出原因に関するお知らせの訂正について 第一報では、流出の原因について「PHPの脆弱性を標的としたサイバー攻撃」とお知らせしておりましたが、誤報でした。 大変申し訳ございません。 今回の事象はPHPの脆弱... yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://www.webjapan.co.jp/maintenance/serviceteishi261022/</guid><pubDate>Thu, 22 Oct 2026 22:52:49 +0000</pubDate></item><item><title>【QA】PHPにぜい弱性発見 AI時代に求められる対応とは?</title><link>https://news.web.nhk/newsweb/na/nd-20261022de63922</link><description>[score: 0.889] 「PHP」と呼ばれるプログラミング言語に重大なぜい弱性が見つかったことを受けて、企業や行政機関などは対応に追われています。その影響はわれわれ生活者にも。
-利用しているウェブサービスがストップし、不便…
+台風30号 先島諸島に最接近 暴風や大雨に厳重警戒【ライブ】
+10月23日 19:39
+GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も
+10月23日 19:06
+作家の村上龍さん死去「コインロッカー・ベイビーズ」74歳
+10月23日 19:37
+デジタル庁 最大1万3000件余の個人情報が漏えいの可能性
+10月23日 12:10
+赤澤</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261023de64024</guid><pubDate>Fri, 23 Oct 2026 06:54:19 +0000</pubDate></item><item><title>PHPの脆弱性をHacker Newsにリークした人物が「秘密だと知らなかった」と謝罪</title><link>https://gigazine.net/news/20261023-php-rce-unknowingly/</link><description>[score: 0.889] ウェブサイトやウェブアプリの開発に広く使われているプログラミング言語「PHP」に深刻な脆弱(ぜいじゃく)性が見つかったことで、日本時間の2026年10月21日23時にセキュリティ更新プログラムおよび詳細情報が公開されることがアナウンスされ、多くのウェブサイトやサービスが緊急メンテナンス入りする騒動に発展しました。この件はもともと、PHPセキュリティチームがパッチを公開予定でしたが、ソーシャルニュースサイトのHacker Newsで脆弱性情報が漏えいしたため、前倒しになりました。これを投稿したユーザーがHacker Newsに再度登場し、「PHPの情報公開禁止について何も知らず、とんでもない形で</description><guid isPermaLink="false">https://gigazine.net/news/20261023-php-rce-unknowingly/</guid><pubDate>Fri, 23 Oct 2026 04:17:22 +0000</pubDate></item><item><title>Security RX Agentがパブリックプレビューになったので、試してみた。</title><link>https://qiita.com/seamoooooo/items/db67af6b63029ba32eea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] New Relic Security RXの新機能「Security RX Agent」がパブリックプレビューになったので試してみました。Security RXが見つけた脆弱性をAIが分析し、修正計画入りのGitHub Issueを作成。そこからコーディングエージェント（今回はClaude）がPull Requestを作るところまで、画面のクリックだけでつながります。
+Security RX Agentは2026年10月時点でパブリックプレビューです。仕様や画面は今後変わる可能性があります。ご利用いただくには、New RelicのアカウントIDを担当の営業までご連絡いただく必要があります。アカ</description><guid isPermaLink="false">https://qiita.com/seamoooooo/items/db67af6b63029ba32eea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 23 Oct 2026 09:03:22 +0000</pubDate></item><item><title>ゼレンスキー氏、トランプ氏との間に「個人的な確執はない」　CNNインタビュー</title><link>https://www.cnn.co.jp/world/35253884.html</link><description>[score: 0.891] ゼレンスキー氏、トランプ氏との間に「個人的な確執はない」 （CNN） ウクライナのゼレンスキー大統領は22日、CNNのインタビューに応じた。トランプ米大統領との激しい対立を受け、ウクライナではトランプ氏が再びロシア寄りに転じたのではないかとの懸念が広がっているが、ゼレンスキー氏はこの問題に正面から言及し、トランプ氏との間に個人的な確執はないと説明。一方で、ロシアのプーチン大統領に歩み寄れば「プーチン氏をいっそう強力にする」だけだと訴えた。 米国とウクライナの関係はここ数週間で大きく悪化している。 トランプ氏がロシア産燃料を購入する合意を発表し、ロシアを孤立させる国際的な取り組みを根底から覆した</description><guid isPermaLink="false">https://www.cnn.co.jp/world/35253884.html</guid><pubDate>Fri, 23 Oct 2026 06:15:43 +0000</pubDate></item><item><title>PHP2Shellへの対応を振り返って - コドモン Product Team Blog</title><link>https://tech.codmon.com/entry/2026/10/23/173909</link><description>[score: 0.891] PHP2Shellへの対応を振り返って - コドモン Product Team Blog はじめに コドモンでプロダクト開発部長を務めております、松浦です。 2026年10月21日、PHPの脆弱性（通称「PHP2Shell」）への対策として、コドモンのサービスを日中に一時停止しました。 施設の先生方、保護者の皆さま、自治体や販売代理店の皆さまには、十分な事前のご案内ができないまま、長い時間にわたりご不便をお...</description><guid isPermaLink="false">https://tech.codmon.com/entry/2026/10/23/173909</guid><pubDate>Fri, 23 Oct 2026 10:02:28 +0000</pubDate></item><item><title>佐川急便 流出した個人情報は最大5300万件超の可能性</title><link>https://news.web.nhk/newsweb/na/nd-20261023de64285</link><description>[score: 0.891] 1 / 1
+宅配大手の佐川急便は、不正アクセスを受けて外部に流出したおそれがあると発表していた個人情報について、荷物の送り主と送り先の氏名や住所など、最大で5323万件に上る可能性があると明らかにしました。
+会…
 あわせて読みたい
-免許証画像など漏えいし闇サイトで販売か 沖縄の会社から
-10月22日 11:54
-AI改革推進会議 弁護士などのAI活用ルール整理へ
-10月22日 18:25
-サイバー攻撃ぜい弱性悪用の猶予期間4分の1に 研究グループ
-10月22日 22:00
-ドラフト 織田翔希は巨人 菰田は日本ハムが交渉権【全名簿】
-10月23日 0:17
-デジタル教科書 “紙とデジタル”基本に 文科省指針</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261022de63922</guid><pubDate>Thu, 22 Oct 2026 22:37:20 +0000</pubDate></item><item><title>トランプ米大統領のロシア産軽油の輸出解禁、価格への影響は限定的か</title><link>https://forbesjapan.com/articles/detail/107067?s=ns</link><description>[score: 0.893] ドナルド・トランプ米大統領は、制裁対象となっていたロシア産ディーゼル燃料（軽油）を国際市場に再投入する方針について、市場の信頼回復に向けた措置と説明している。だが、市場の取引心理を大きく変える可能性は低いとみられる。
-同大統領は11日、ウクライナ侵攻を理由にロシアに科された軽油の輸出に対する制裁を一時的に解除することで、ロシアのウラジーミル・プーチン大統領と合意に達したと発表した。トランプ大統領はさらに、プーチン大統領が30万トンの軽油を「米国を含む国際市場へ直ちに」供給することに合意したと述べた。これに続き、11月には50万トン、12月には100万トンが供給される予定だ。
-米エネルギー省の報</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107067?s=ns</guid><pubDate>Thu, 22 Oct 2026 22:02:20 +0000</pubDate></item><item><title>わずか4カ月で279万人！ BeReal.を超えた新SNS「setlog（セットログ）」とは？【ヴァリューズ調べ】</title><link>https://webtan.impress.co.jp/n/2026/10/23/53484</link><description>[score: 0.893] わずか4カ月で279万人！ BeReal.を超えた新SNS「setlog（セットログ）」とは？【ヴァリューズ調べ】 SNS利用者数ランキング、LINEとYouTubeは安定の上位。新興SNSの勢力図に変化？ imai-f 2026年10月23日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 ヴァリューズは、国内30のSNSアプリを対象に、「SNSユーザー数ランキング」調査を実施した。各アプリの月間アクティブユーザー数（MAU）や利用頻度などを、同社の分析ツール「Dockpit（ドックピット）」で分析している。 関連記事 「BeReal.」が驚異の成長率937%！「Thr</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/10/23/53484</guid><pubDate>Thu, 22 Oct 2026 21:55:12 +0000</pubDate></item><item><title>架空の統計データをウェブサイトで公開したらChatGPTが引用しまくっていたことが判明</title><link>https://gigazine.net/news/20261021-ai-read-fake-statistics/</link><description>[score: 0.894] 架空の統計データをウェブサイトで公開したらChatGPTが引用しまくっていたことが判明 AI検索ツールの開発に携わる研究者が、約5万ページ分の偽の統計データを保有するウェブサイトを立ち上げてAIに読まれるかどうかを検証するという実験を行いました。その結果、AIから大量のアクセスがあり、さらに... yuiseki</description><guid isPermaLink="false">https://gigazine.net/news/20261021-ai-read-fake-statistics/</guid><pubDate>Thu, 22 Oct 2026 22:52:49 +0000</pubDate></item><item><title>PHP欠陥でサイト止めた日本、止めなかった米国　脆弱性は8月に発見 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/</link><description>[score: 0.896] PHP欠陥でサイト止めた日本、止めなかった米国 脆弱性は8月に発見
-【シリコンバレー=伴正春、ニューヨーク=西邨紘子】プログラム言語「PHP」で見つかった欠陥を受け、多くの日本企業がウェブサイトを一時停止した。一方、震源地の米国ではサイトを継続する企業が大半だった。先端技術を持つテック企業が政府と綿密に連携して対応した防衛体制の違いも大きい。
-クラウド最大手アマゾン、顧客に呼びかけ
-「ただちにPHPを最新版に更新し、不審な通信記録がないか調べてください」。クラウ...
-※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。
-この投稿は現在非表示に設定されています
-(更新</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOGN22C6A0S6A021C2000000/</guid><pubDate>Thu, 22 Oct 2026 23:12:51 +0000</pubDate></item><item><title>Anthropic、先回りしてユーザーを助ける秘書エージェント「Claude Duet」を発表／まずは米国の「Pro」「Max」ユーザーを対象にウェイトリスト方式で研究プレビュー</title><link>https://forest.watch.impress.co.jp/docs/news/2150199.html</link><description>[score: 0.901] ニュース
-Anthropic、先回りしてユーザーを助ける秘書エージェント「Claude Duet」を発表
-まずは米国の「Pro」「Max」ユーザーを対象にウェイトリスト方式で研究プレビュー
-2026年10月22日 14:40
-米Anthropicは10月21日（現地時間、以下同）、「Claude Duet」を発表した。同日より研究プレビュー（research preview）として、米国の「Pro」「Max」プランの契約者からウェイトリスト方式で提供が始まっている。現時点で日本での提供時期は明らかにされていない。
-「Claude Duet」は、ユーザーからの指示を待つだけでなく、注意すべき事柄</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2150199.html</guid><pubDate>Thu, 22 Oct 2026 21:55:33 +0000</pubDate></item><item><title>PHPの脆弱性への対応に伴うメンテナンス完了と経緯のご報告 - ロリポップ！レンタルサーバー</title><link>https://lolipop.jp/info/news/8239/</link><description>[score: 0.902] PHPの脆弱性への対応に伴うメンテナンス完了と経緯のご報告 - ロリポップ！レンタルサーバー 平素はロリポップをご利用いただき、誠にありがとうございます。 2026年10月21日(水)に公開されたPHPの重大な脆弱性（CVE-2026-109618 / CVE-2026-109619）への対応として実施しておりましたメンテナンスにつきまして、修正の適用が完了し、2026年10月22日(木) 13時頃にお客様のサイトの表示を再開いたしました。 公式の...</description><guid isPermaLink="false">https://lolipop.jp/info/news/8239/</guid><pubDate>Thu, 22 Oct 2026 22:51:17 +0000</pubDate></item><item><title>【サービス終了のお知らせ】 ワールドクエストのサーバーで使っているPHPそのものに、深刻な脆弱性が発見されたとの発表がありました。古い仕組みのため十分な対策がとれず、皆さまの情報を守るため、本日でサービスを終了いたします。突然のお知らせとなり申し訳ありません。</title><link>https://x.com/w_quest_com/status/2112912257256722693</link><description>[score: 0.907] ワールドクエスト公式@w_quest_comShow translation【サービス終了のお知らせ】 ワールドクエストのサーバーで使っているPHPそのものに、深刻な脆弱性が発見されたとの発表がありました。古い仕組みのため十分な対策がとれず、皆さまの情報を守るため、本日でサービスを終了いたします。突然のお知らせとなり申し訳ありません。2:21 PM · Oct 21, 2026·9.5MViews10713K64K8.3K
-ワールドクエスト公式@w_quest_comShow translation【サービス終了のお知らせ】 ワールドクエストのサーバーで使っているPHPそのものに、深刻な脆弱性</description><guid isPermaLink="false">https://x.com/w_quest_com/status/2112912257256722693</guid><pubDate>Thu, 22 Oct 2026 22:52:49 +0000</pubDate></item><item><title>「18歳です」は通用しない?　SNSの「AI年齢推定」 は子どもを本当に守れるのか</title><link>https://www.watch.impress.co.jp/docs/topic/2150456.html</link><description>[score: 0.909] トピック
-「18歳です」は通用しない? SNSの「AI年齢推定」 は子どもを本当に守れるのか
-2026年10月23日 08:20
-16歳未満のSNS利用を禁じたオーストラリアを筆頭に、子どものSNS利用を年齢で制限する動きが世界へ広がっています。EU(欧州連合)の欧州委員会も2026年9月、「EU子ども法案(EU KIDS Act)」を発表しました。EU全域で13歳未満のSNS利用を禁止し、自分のアカウントを作れる最低年齢を15歳とする内容です。
-これに対し日本は、一律禁止には慎重です。総務省の有識者会議は2026年6月の報告書案で、SNSが青少年のコミュニケーション手段になっていること、サー</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/topic/2150456.html</guid><pubDate>Thu, 22 Oct 2026 23:24:08 +0000</pubDate></item><item><title>無料で使えるAI｢ローカルLLM｣の進化がすごいよって話 | ギズモード・ジャパン</title><link>https://www.gizmodo.jp/article/2026_local_llm_matome-bij/</link><description>[score: 0.910] 無料で使えるAI｢ローカルLLM｣の進化がすごいよって話 | ギズモード・ジャパン 1. ローカルLLMの高性能化が止まらない「Gemma-4-31B」で画像認識をしているところ。同モデルはGoogleが2026年4月にリリースした非常に高性能なローカルLLMImage: かみやまたくみ2026年のローカルLLMで特徴的なの... yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://www.gizmodo.jp/article/2026_local_llm_matome-bij/</guid><pubDate>Thu, 22 Oct 2026 22:52:49 +0000</pubDate></item><item><title>PHP2Shell、公表4日前に悪用の試み　「公表日より前にさかのぼって調査を」とAmazon</title><link>https://www.itmedia.co.jp/news/article/2610/23/2000002530/</link><description>[score: 0.911] PHP2Shell、公表4日前に悪用の試み 「公表日より前にさかのぼって調査を」とAmazon
-米Amazonの脅威インテリジェンスチーム「Amazon Threat Intelligence」は10月21日（米国時間）、PHPの「緊急」レベルの脆弱性2件（CVE-2026-109618、CVE-2026-109619、通称「PHP2Shell」）を悪用しようとする試みを、脆弱性公表の4日前に当たる10月17日に観測していたと、AWSの公式ブログで明らかにした。攻撃者をおびき寄せるために運用しているハニーポット「MadPot」で検知したという。
-PHPの開発チームは、修正版を公開する日本時間2</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/23/2000002530/</guid><pubDate>Thu, 22 Oct 2026 22:56:17 +0000</pubDate></item></channel></rss>
+台風30号 先島諸島に最接近 暴風や大雨に厳重警戒【ライブ】
+10月23日 19:15
+GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も
+10月23日 19:06
+作家の村上龍さん死去「コインロッカー・ベイビーズ」74歳
+10月23日 19:37
+デジタル庁 最大1万3000件余の個人情報が漏えいの可能性
+10月23日 12:10
+赤澤経産相「ホワイ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261023de64285</guid><pubDate>Fri, 23 Oct 2026 07:22:23 +0000</pubDate></item><item><title>【重要】第三者によるログインの恐れと今後の対応について</title><link>https://blog.syosetu.com/article/view/article_id/5278/</link><description>[score: 0.892] いつも小説家になろうグループをご利用いただき、誠にありがとうございます。
+この度、小説家になろうグループの一部のアカウントに対し、登録ユーザ様ご本人ではない第三者によるログインが行われていた可能性があることを確認いたしました。
+調査の結果、第三者が外部で不正に取得したログイン情報等を用い、ログインを試みた可能性があると判断しております。
+本件の影響範囲、及び今後の対応について以下の通りお知らせいたします。
+▼経緯
+2026年10月20日（火）、215件のアカウントに対して、いくつかの共通する接続環境からログインが行われていた可能性があることを検知いたしました。
+こちらについて調査を行いましたと</description><guid isPermaLink="false">https://blog.syosetu.com/article/view/article_id/5278/</guid><pubDate>Fri, 23 Oct 2026 10:05:53 +0000</pubDate></item><item><title>お名前 .com デスクトップクラウドへの不正アクセスについてまとめてみた - piyolog</title><link>https://piyolog.hatenadiary.jp/entry/2026/10/23/014520</link><description>[score: 0.894] お名前 .com デスクトップクラウドへの不正アクセスについてまとめてみた - piyolog 2026年10月22日、GMOインターネットは、「お名前.com デスクトップクラウド」への不正アクセスにより、サーバー内に保存されていた取引口座のログイン情報等が第三者に取得され、不正に利用された可能性があると公表しました。ここでは関連する情報をまとめます。 メンテナンス告知から始まった全プランの停止 「お名前....</description><guid isPermaLink="false">https://piyolog.hatenadiary.jp/entry/2026/10/23/014520</guid><pubDate>Fri, 23 Oct 2026 01:41:49 +0000</pubDate></item><item><title>「お名前.com」 のFX自動売買VPS、不正アクセスで金銭被害か　「600万円の損失」「55万円なくなった」……報告相次ぐ</title><link>https://www.itmedia.co.jp/news/article/2610/23/2000002532/</link><description>[score: 0.894] 「お名前.com」 のFX自動売買VPS、不正アクセスで金銭被害か 「600万円の損失」「55万円なくなった」……報告相次ぐ サービスを提供するGMOインターネットは10月22日、サーバ内に保存されていた取引口座のログイン情報などが第三者に取得され、不正に利用された可能性があると発表した。ユーザーに対し、口座のパスワードを至急変更し、ログオフ（セッションの切断）するよう求めている。サービスは全プランで停止中だ。 お名前.com デス...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/23/2000002532/</guid><pubDate>Fri, 23 Oct 2026 02:22:35 +0000</pubDate></item><item><title>PHPの脆弱性をHacker Newsにリークした人物が「秘密だと知らなかった」と謝罪 - ライブドアニュース</title><link>https://news.livedoor.com/article/detail/32638127/</link><description>[score: 0.895] PHPの脆弱性をHacker Newsにリークした人物が「秘密だと知らなかった」と謝罪 - ライブドアニュース 2026年10月23日 13時10分 リンクをコピーする by ライブドアニュース編集部 ざっくり言うと この記事の見出しと要約は、ライブドアニュースが独自の機能で作成したものです。試験提供中の機能のため、記事本文と併せてご確認ください。 PHPの脆弱性情報をHacker Newsに投稿した人物がした 公開禁止の期間があると知らず...</description><guid isPermaLink="false">https://news.livedoor.com/article/detail/32638127/</guid><pubDate>Fri, 23 Oct 2026 09:36:45 +0000</pubDate></item><item><title>「タイムズカー」運転免許証など画像流出の痕跡146万件</title><link>https://news.web.nhk/newsweb/na/nd-20261023de64213</link><description>[score: 0.896] 1 / 1
+子会社が運営する「タイムズカー」のシステムが不正アクセスを受けたパーク24は、個人情報の漏えいについて現時点の調査結果を公表し、運転免許証などの画像データ、およそ146万件について流出した痕跡が確認さ…
+あわせて読みたい
+GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も
+10月23日 19:06
+作家の村上龍さん死去「コインロッカー・ベイビーズ」74歳
+10月23日 19:37
+デジタル庁 最大1万3000件余の個人情報が漏えいの可能性
+10月23日 12:10
+赤澤経産相「ホワイトハッカー」チーム 11月立ち上げ方針表明
+10月23日 12:03
+PHPぜい弱性 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261023de64213</guid><pubDate>Fri, 23 Oct 2026 08:22:28 +0000</pubDate></item><item><title>GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も</title><link>https://news.web.nhk/newsweb/na/nd-20261023de64076</link><description>[score: 0.897] 1 / 1
+IT大手のGMOインターネットグループは、FX＝外国為替証拠金取引などを行う投資家向けに提供している自動取引のサーバーが不正アクセスを受け、利用者の取引口座のIDやパスワードなどが不正に取得された可能…
+あわせて読みたい
+【情報漏えい】対策どうする 二次被害に遭わないためには
+台風30号 先島諸島に最接近 暴風や大雨に厳重警戒【ライブ】
+10月23日 19:15
+作家の村上龍さん死去「コインロッカー・ベイビーズ」74歳
+10月23日 19:37
+デジタル庁 最大1万3000件余の個人情報が漏えいの可能性
+10月23日 12:10
+赤澤経産相「ホワイトハッカー」チーム 11月立ち上げ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261023de64076</guid><pubDate>Fri, 23 Oct 2026 03:31:25 +0000</pubDate></item><item><title>PHPの脆弱性に関するSeesaaブログ・Seesaa Wikiへの影響について</title><link>https://info.seesaa.net/article/php-vulnerability-20261023.html</link><description>[score: 0.897] PHPの脆弱性に関するSeesaaブログ・Seesaa Wikiへの影響について いつもSeesaaブログ・Seesaa Wikiをご利用いただき、誠にありがとうございます。2026年10月21日に公表されたPHPの脆弱性（CVE-2026-109618、CVE-2026-109619）について、お問い合わせをいただいております。Seesa... unfallen_castle 「SeesaaブログおよびSeesaa Wikiでは、PHPを使用していないため、今回の脆弱性による影響はございません。」</description><guid isPermaLink="false">https://info.seesaa.net/article/php-vulnerability-20261023.html</guid><pubDate>Fri, 23 Oct 2026 09:56:25 +0000</pubDate></item><item><title>ネパール ヒマラヤ山脈で2人の遺体見つかる 不明の日本人か</title><link>https://news.web.nhk/newsweb/na/nd-20261023de64496</link><description>[score: 0.898] 1 / 1
+ネパール中部の地元当局は、ヒマラヤ山脈で23日に2人が遺体で見つかったと明らかにしました。
+ヒマラヤ山脈では今月15日以降、登山中だった日本人男性2人の行方が分からなくなっていて、当局はこの2人の可…
+あわせて読みたい
+ネパールのヒマラヤで登山中だった日本人2人が行方不明
+10月22日 4:37
+台風30号 先島諸島に最接近 暴風や大雨に厳重警戒【ライブ】
+10月23日 19:15
+GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も
+10月23日 19:06
+作家の村上龍さん死去「コインロッカー・ベイビーズ」74歳
+10月23日 19:37
+デジタル庁 最大1万300</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261023de64496</guid><pubDate>Fri, 23 Oct 2026 10:23:32 +0000</pubDate></item><item><title>お名前.comデスクトップクラウドで不正アクセス　FXで不正利用も発生</title><link>https://www.watch.impress.co.jp/docs/news/2150663.html</link><description>[score: 0.899] ニュース
+お名前.comデスクトップクラウドで不正アクセス FXで不正利用も発生
+2026年10月23日 12:46
+GMOインターネットグループは22日、VPSサービス「お名前.com デスクトップクラウド」において発生した第三者からの不正アクセスに関連して、顧客に対しパスワード変更およびログオフの実施を呼びかけた。
+同サービスでは10月20日、一部顧客のサーバー環境において第三者による不正なプログラムの設置を確認。同日中に緊急メンテナンスを実施し、新規の利用申し込みやコントロールパネルへのログインを停止した。翌21日には全プランのサーバーを停止し、この時点で顧客に対しパスワードの変更を行な</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2150663.html</guid><pubDate>Fri, 23 Oct 2026 03:59:33 +0000</pubDate></item><item><title>AIペネトレーションテスト基盤「Cairn」の作業ディレクトリから見えた攻撃活動についてまとめてみた - piyolog</title><link>https://piyolog.hatenadiary.jp/entry/2026/10/23/065256</link><description>[score: 0.901] AIペネトレーションテスト基盤「Cairn」の作業ディレクトリから見えた攻撃活動についてまとめてみた - piyolog 2026年10月19日、セキュリティ企業のVULONEは、公開状態のまま放置されていた攻撃者のAIエージェント基盤を調べ、アジアをはじめとする地域の政府機関や企業への攻撃の記録が残っていたとする報告を公表しました。ここでは関連する情報をまとめます。 公開されていた攻撃者の作業ディレクトリ VULONEは、オープンソース...</description><guid isPermaLink="false">https://piyolog.hatenadiary.jp/entry/2026/10/23/065256</guid><pubDate>Fri, 23 Oct 2026 09:54:59 +0000</pubDate></item><item><title>顧客説明で「高市さんが言ってたから！」と言えるのが強すぎる！ PHPの緊急メンテで見えたトップダウンとAI時代の脆弱性対応</title><link>https://qiita.com/shinkai_/items/a45455b514bf9d32275a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.903] はじめに
+10月21日の夜、「緊急メンテナンス」の文字を日本中のWEBサイトで目にしました。
+きっかけはPHPの重大な脆弱性です。
+国内の有名サービスや自治体のサイトが、次々と止まりました。
+その騒動のさなか、話題になったのが首相がXでパッチ適用を呼びかけたことです。
+個別のソフトウェアの脆弱性に、首相が自分のアカウントで直接触れるのは異例です。
+この記事では、このニュースをエンジニア目線で整理してみます。
+政治的な支持や不支持の話ではなく、あくまで現場の仕事にどう影響しそうかという話です。
+何が起きたのか
+まず事実を整理します。
+PHPの開発プロジェクトは、「緊急」レベルの脆弱性2件を修正し</description><guid isPermaLink="false">https://qiita.com/shinkai_/items/a45455b514bf9d32275a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 23 Oct 2026 09:03:22 +0000</pubDate></item><item><title>PHP脆弱性問題は“また起こる”　事件の裏にあったエンジニアの根深い課題</title><link>https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news038.html</link><description>[score: 0.903] 多くの日本企業を混乱の渦に巻き込んだPHP脆弱性問題。深夜のアップデート対応に追われた担当者もいることだろう。この問題はなぜ起きたのか。その背景には一朝一夕ではいかない開発者全体に関わる根深い課題があった。
+この記事は会員限定です。会員登録（無料）すると全てご覧いただけます。
+PHPの開発元であるThe PHP Groupは2026年10月21日（現地時間、以下同）、認証なしのリモートコード実行（RCE）につながる重大な脆弱（ぜいじゃく）性「CVE-2026-109618」と「CVE-2026-109619」の2件を修正したPHPのセキュリティアップデートを公開した。
+修正版はPHP 8.5.</description><guid isPermaLink="false">https://atmarkit.itmedia.co.jp/ait/articles/2610/23/news038.html</guid><pubDate>Fri, 23 Oct 2026 07:55:37 +0000</pubDate></item><item><title>2秒で失った400万円　GMO系サービスで「意図しないFX取引」：朝日新聞</title><link>https://www.asahi.com/articles/ASVBQ436FVBQOXIE04LM.html</link><description>[score: 0.905] 2秒で失った400万円 GMO系サービスで「意図しないFX取引」
+GMOインターネットが運営するFX（外国為替証拠金取引）関連のサービスが不正アクセスを受けた問題で、「身に覚えのない取引で現金を失った」と訴える顧客が相次いでいる。取引口座のパスワードなどが不正に利用された可能性があり、説明を求める声が上がっている。
+21日午後4時22分。神奈川県内の男性会社員（44）は偶然、FXの取引画面を見ていて異変に気づいた。
+【22分12秒】
+－86万4336円
+【22分13秒】
+－176万7186円
+【22分13秒】
+－152万7716円
+わずか2秒ほどの間に400万円超の損失を出していた。その後も2</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVBQ436FVBQOXIE04LM.html</guid><pubDate>Fri, 23 Oct 2026 06:38:40 +0000</pubDate></item><item><title>「Claude」全機能がGoogle Cloudから利用可能に</title><link>https://www.watch.impress.co.jp/docs/news/2150851.html</link><description>[score: 0.906] ニュース
+「Claude」全機能がGoogle Cloudから利用可能に
+2026年10月23日 19:23
+米Anthropic(アンソロピック)は22日(米国時間)、同社が管理・運用する形で、Google Cloud上で「Claude」の提供を開始した。主に法人を対象として「Claude」のプラットフォームの全機能が提供される。グローバルで利用可能。
+今回一般提供が開始されたのは、「Anthropic管理(Anthropic managed)」の形式で、Google Cloud上でClaude APIの全機能セットを利用できるサービス。最新機能やベータ版への即日アクセスを重視した、機能への</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2150851.html</guid><pubDate>Fri, 23 Oct 2026 10:35:02 +0000</pubDate></item><item><title>PHPの重大な脆弱性、うちの会社は大丈夫？ Web担当者が確認すること</title><link>https://qiita.com/nemui_zzz/items/f0e22400b628140f80cf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.907] 2026年10月22日 日本時間17時時点の情報です。最新の状況は末尾の公式発表で確認してください。
+3行まとめ
+- 10月21日〜22日、FF14やグラブル、ニコニコなどの一部サービスで、「PHPの脆弱性への対応」としてメンテナンスが行われました。いずれも予防のための対応です。
+- 原因は、ウェブサイトの裏側で広く使われる「PHP」本体の弱点2件で、ログインなしで外からサーバーを操作されるおそれがあります。修正版は PHP 8.5.12／8.4.27／8.3.36／8.2.35 です。
+- 自社サイトがPHPで動いているなら、制作会社やサーバー会社に「修正済みか、誰がいつ直すか」を確認してく</description><guid isPermaLink="false">https://qiita.com/nemui_zzz/items/f0e22400b628140f80cf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 23 Oct 2026 09:03:22 +0000</pubDate></item><item><title>「PHP」重大脆弱性問題で長年運営ゲーム2作品が相次いでサービス終了…緊急メンテでは済まなかった老舗ゲーム | Game*Spark - 国内・海外ゲーム情報サイト</title><link>https://www.gamespark.jp/article/2026/10/22/173932.html</link><description>[score: 0.912] プログラミング言語「PHP」に発見された重大な脆弱性の影響が、オンラインゲームの運営にも広がっています。
+10月21日夜から『ウマ娘 プリティーダービー』『グランブルーファンタジー』など多数のゲームが緊急メンテナンスを実施した一方、長年にわたってサービスを続けてきた『ワールドクエスト』『僕の魔界を救って！』の2作品は、脆弱性への対応が困難としてサービス終了を発表しました。
+深刻度9.2の脆弱性「PHP2Shell」、国内でも緊急対応相次ぐ
+今回問題となったのは、Webサイトやオンラインサービスなどの開発に広く使われているプログラミング言語「PHP」の重大な脆弱性です。
+PHPの開発チームは現地</description><guid isPermaLink="false">https://www.gamespark.jp/article/2026/10/22/173932.html</guid><pubDate>Fri, 23 Oct 2026 09:42:05 +0000</pubDate></item><item><title>サイバー攻撃AIツール「ARTEX」とは　中国政府と連携する攻撃者も使用、各国で悪用確認</title><link>https://www.itmedia.co.jp/aiplus/article/2610/23/2000002552/</link><description>[score: 0.912] サイバー攻撃AIツール「ARTEX」とは 中国政府と連携する攻撃者も使用、各国で悪用確認（1/2 ページ）
+相次ぐ情報漏えいの報道で連日名前が挙がるAIツール「ARTEX」。中国語話者の開発者が「GitHub」で公開していたオープンソースの自律型ペネトレーションテスト（侵入テスト）ツールだ。米Microsoftは10月21日（現地時間、以下同）、中国政府と連携する攻撃者がARTEXで攻撃を自動化していると発表した。韓国や日本でも同ツールの悪用が確認されている。
+ARTEXとはどのようなツールで、なぜ悪用されるのか。韓国のセキュリティベンダーAhnLabの検証を軸に整理する。
+目的を与えるだけで</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2610/23/2000002552/</guid><pubDate>Fri, 23 Oct 2026 09:11:02 +0000</pubDate></item><item><title>岩井コスモ証券会長 不正アクセスで陳謝 不正取引125万株</title><link>https://news.web.nhk/newsweb/na/nd-20261023de64214</link><description>[score: 0.918] 1 / 1
+「岩井コスモ証券」で、不正アクセスによって顧客が意図しない株の売買が行われた問題で、会社の沖津会長は23日に開いた会見で、陳謝するとともに不正な取引は125万株に上ることを明らかにしました。
+「岩…
+あわせて読みたい
+GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も
+10月23日 19:06
+デジタル庁 最大1万3000件余の個人情報が漏えいの可能性
+10月23日 12:10
+赤澤経産相「ホワイトハッカー」チーム 11月立ち上げ方針表明
+10月23日 12:03
+PHPぜい弱性 厚労省 31システム一時停止 情報漏えい確認されず
+10月23日 13:27
+台風30号</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261023de64214</guid><pubDate>Fri, 23 Oct 2026 10:23:32 +0000</pubDate></item><item><title>信託報酬0%「ゼロカン」、誰が費用を払うのか？ SBI証券が“こどもNISA専用”にした本当の理由</title><link>https://www.businessinsider.jp/article/2610-sbi-kodomo-nisa-zerokan-trust-fee/</link><description>[score: 0.919] - SBI証券が10月1日に発表した「ゼロカン」は、信託報酬0%の投資信託だ。ただし買えるのはこどもNISAだけ。
+- その8日後には楽天証券も信託報酬ゼロの投信を出すと表明した。なぜ子ども専用なのか。費用は誰が負担しているのか。
+- SBI証券とSBIアセットマネジメントに聞くと、信託報酬ゼロの負担を引き受けているのは売り手のSBI証券ではなかった。
+信託報酬は年0.00%。
+SBI証券が発表した「SBI・ゼロ・オールカントリー・インデックス・ファンド」、愛称ゼロカンは、全世界の株式に投資するオルカン型のインデックス投信だ。
+「SNS上でもすごい話題になりました」と、SBI証券リテールマーケ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-sbi-kodomo-nisa-zerokan-trust-fee/</guid><pubDate>Fri, 23 Oct 2026 09:03:55 +0000</pubDate></item></channel></rss>
