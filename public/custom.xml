@@ -1,113 +1,134 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 23 Oct 2026 23:42:06 +0000</lastBuildDate><item><title>見過ごされる災害の連続が、地域経済を揺るがす</title><link>https://forbesjapan.com/articles/detail/107134?s=ns</link><description>[score: 0.869] 災害と聞くと、多くの人は大型ハリケーンや大規模な山火事など、全国ニュースのトップを飾るような出来事を思い浮かべがちだ。しかし、そこまでの社会的関心を集めることのない災害も数多く発生している。激しい雷雨、竜巻、洪水、冬の荒天、熱波、住宅火災、そして小規模な山火事などだ。私たちはこれらを「静かな災害」と呼んでいる。
-全国的な見出しにはならないかもしれないが、こうした災害は全米の地域社会に大きな混乱をもたらしている。米国人の約40%が、過去1年に自分たちの地域社会が異常気象による被害を受けたと回答しており、被害を受けた人のほぼ60%が再発を懸念している。多くの米国人にとって、災害はもはや孤立した出来</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107134?s=ns</guid><pubDate>Fri, 23 Oct 2026 23:33:49 +0000</pubDate></item><item><title>なぜSNSを見ると焦るのか？「FOMO」の正体とSNS疲れから抜け出す心理学</title><link>https://studyhacker.net/fomo</link><description>[score: 0.870] 仕事は順調。キャリアアップに向けて勉強もしている。それなのに、SNSで同期の昇進や友人の充実した投稿を見ると胸がざわつく。自分だけが遅れているような、何かが足りないような気がする。 このような焦りや落ち着かなさの原因は、あなたの性格ではありません。本記事で、焦りの正体と抜け出すための方法をご紹介します。 SNSで他人と比べてしまう現象「FOMO」とは？ 「自分だけ遅れている」と感じる2つの原因と放置する3つの危険性 FOMOに陥る2つの原因 放置すると起こる3つのリスク FOMOのループを断ち切る！ 「見逃す恐怖」を軽減するマインドセット よくある質問（FAQ） SNSで他人と比べてしまう現象</description><guid isPermaLink="false">https://studyhacker.net/fomo</guid><pubDate>Fri, 23 Oct 2026 22:22:21 +0000</pubDate></item><item><title>ロボットは去りつつある：自動化が「人間性」を取り戻す鍵となる理由</title><link>https://forbesjapan.com/articles/detail/107127?s=ns</link><description>[score: 0.870] 数年前、ニューヨーク州サグハーバーで自転車に乗っていたとき、大型の機械式収穫機が畑をならし、ジャガイモを掘り起こして、トラックに整然と積み込む様子を見た。かつて何世代にもわたる人々が、夕食を確保するためだけに畑で腰を折り、土を掘り返していたことを思い、私はこう考えた。これぞイノベーションが働いている姿だ、と。
-今日、私たちはジャガイモを手で掘り起こさなくなったことに不満を言わない。それでも、新しいテクノロジーが登場すると、私たちの集団的な本能はしばしば恐怖に傾く。「ロボットがやって来る」、そして私たちの仕事を奪うという警鐘を耳にする。テック界の巨人たちは「悪魔を召喚する」ことに警告を発し、優れ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107127?s=ns</guid><pubDate>Fri, 23 Oct 2026 22:29:01 +0000</pubDate></item><item><title>大学中退から年収10万ドル超えへ…データセンター建設でキャリアが急加速した24歳の証言</title><link>https://www.businessinsider.jp/article/2610-data-center-constructoin-work-six-figure-job-daily-tasks/</link><description>[score: 0.871] - ジョセフ・レゲア氏は、6カ月間のインターンシップを経て、年収が6桁ドルのデータセンター関連の職に就いた。
-- 彼が通っていたコミュニティ・カレッジは、地元のデータセンター建設会社と連携していた。
-- 締め切りや予算、人間関係など、この仕事は想定以上にストレスが大きかったという。
-この記事は、メリーランド州フレデリック郡を拠点とするプロジェクトエンジニア、ジョセフ・レゲア（Joseph LeGare、24）氏へのインタビューに基づいている。大規模データセンターの開発を手掛けるローワン・デジタル・インフラストラクチャーに勤務しており、同社がBusiness Insiderにレゲア氏を紹介した。</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-data-center-constructoin-work-six-figure-job-daily-tasks/</guid><pubDate>Fri, 23 Oct 2026 23:04:54 +0000</pubDate></item><item><title>【合格体験記】🐍Python 3 エンジニア認定基礎試験_勉強法、注意点まとめ📝【Python】</title><link>https://qiita.com/saito_next/items/dc22d3f447bec13e1dd5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.871] はじめに
-Pythonの基礎学習と、今後の面談・実務でのアピールを目的として「Python 3 エンジニア認定基礎試験」を受験し、無事に合格しました。
-これから受験を考えている方への参考および備忘録として、使用した教材や勉強法、本番前の注意点をまとめます。
-目次
-1. 📋 試験概要
-- 試験時間: 60分
-- 出題数: 40問（選択式）
-- 合格ライン: 正答率 70% 以上（700点 / 1000点満点）
-- 受験方式: CBT方式（全国のテストセンターで受験）
-2. 💻 受験時のスキル・開発経験
-- 実務経験：Java 約5年 / Python 約4か月
-- Pythonのレベル感：既存コ</description><guid isPermaLink="false">https://qiita.com/saito_next/items/dc22d3f447bec13e1dd5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 23 Oct 2026 21:01:24 +0000</pubDate></item><item><title>「正気じゃない」外務省　モンゴル草原火災が大問題のなか…公式Xが投稿した"無神経ポスト"に批判殺到（女性自身） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/246b04df827e199ff0efe1763c3a05196a7b0a24</link><description>[score: 0.872] 「正気じゃない」外務省 モンゴル草原火災が大問題のなか…公式Xが投稿した"無神経ポスト"に批判殺到（女性自身） - Yahoo!ニュース 高市早苗首相（写真：共同通信）（WEB女性自身）日本の外交を担う外務省のSNS運用が、大きな波紋を呼んでいる。それは、友好国であるモンゴルが未曾有の災害に見舞われ、しかもその原因が日本企業にあるとして現地で怒りの声が上がっている最中の出来事だった。 【写真あり】「正気じゃない」「呆れてものが言えない」外...</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/246b04df827e199ff0efe1763c3a05196a7b0a24</guid><pubDate>Fri, 23 Oct 2026 23:02:57 +0000</pubDate></item><item><title>政府 ガソリン補助見直しも検討 水準や時期など焦点</title><link>https://news.web.nhk/newsweb/na/nd-20261024de64636</link><description>[score: 0.872] 1 / 1
-中東情勢を受けた激変緩和措置をめぐり、政府はガソリン1リットルあたり170円程度に抑えている水準の見直しも含め、今後の支援のあり方について検討を始める方針です。価格を抑制している補助金を縮小する場合は…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 24 Oct 2026 10:01:34 +0000</lastBuildDate><item><title>AIに美容室の社長を演じてもらい、コアドメインを探すヒアリング練習をしたら「強み」を掴めなかった話</title><link>https://qiita.com/ken_risu_dev/items/c2e392bdb0d8ffd50fc6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] はじめに
+先日参加したドメイン駆動設計（DDD）に関する勉強会で出された課題に取り組みました。
+課題の内容は、AIに「美容室を5店舗経営している社長」を演じてもらい、システム開発者の立場でヒアリングするというものです。
+ヒアリングした内容をもとに業務を「コア・支援・汎用」のサブドメインに分類し、ドメインビジョンステートメントを書いて、そのフィードバックをもらうまでが一連のワークです。
+結論から言うと、「他社よりリピート率が高い」ことまではわかったのに、それを生み出している具体的な行動を特定できないまま分類してしまいました。
+ヒアリングの中にヒントはあったのに、拾えていなかったのが一番の学びです</description><guid isPermaLink="false">https://qiita.com/ken_risu_dev/items/c2e392bdb0d8ffd50fc6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 24 Oct 2026 08:41:15 +0000</pubDate></item><item><title>ReActとPlan-Executeを実装して比較する — タスク特性ごとの向き不向き【TypeScript】</title><link>https://qiita.com/joinclass/items/21ec0a1cb73de7a270e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.879] はじめに：1人会社で「エージェントの型」を間違えると何が起きるか
+僕は合同会社ジョインクラスという1人会社で、launchd のジョブ17本を回しながら出版・受託開発・SNS配信をほぼ自動で動かしています。
+その運用で何度も痛い目を見たのが、「エージェントにどこまで考えさせるか」の設計ミスです。
+- 営業メールを「状況を見て判断して」と自由に動かした結果、敬語がおかしいメールが取引先に届いた
+- 逆に、Zenn公開を固定手順で組んだら、レートリミットで失敗したときに自力で回復できなかった
+前者は「自由すぎた」失敗、後者は「固すぎた」失敗です。この2つはそれぞれ ReAct と Plan-Exe</description><guid isPermaLink="false">https://qiita.com/joinclass/items/21ec0a1cb73de7a270e0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 24 Oct 2026 08:41:15 +0000</pubDate></item><item><title>リニア中央新幹線 地下ホーム初公開 まちはどう変わる？</title><link>https://news.web.nhk/newsweb/na/nd-20261024de64791</link><description>[score: 0.879] 1 / 1
+JR東海は、神奈川県相模原市に建設中のリニア中央新幹線の駅で、地下のホームなどの工事現場を初めて公開しました。2030年春ごろまでの完成を目指して駅の工事を進める計画です。
+まちはどう変わるのか？工…
 あわせて読みたい
-台風30号 先島諸島に最接近 暴風や大雨に厳重警戒
-10月24日 0:07
-高市首相 ガソリン補助 1リットル170円水準の見直し含め検討
-10月23日 19:26
-モスバーガー 流通済みプリペイドカード情報 約57万件が流出
-10月23日 22:13
-GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も
-10月23日 22:01
-作家の村上龍さん死去</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261024de64636</guid><pubDate>Fri, 23 Oct 2026 18:31:02 +0000</pubDate></item><item><title>誰もが直視を避ける最大の問題は「データ戦略」だ</title><link>https://forbesjapan.com/articles/detail/107123?s=ns</link><description>[score: 0.873] 「群盲象を評す」という有名な寓話をご存じだろう。5人の盲人が初めて象に出会う。1人は鼻をつかんでヘビだと言い放つ。もう1人は脚に触れて木の幹だと言う。3人目は耳に触れて扇だと主張する。4人目は牙を見つけて槍だと決めつける。最後の1人は尻尾をつかみ、縄に違いないと確信する。
-全員が真実を語っている。そして全員が完全に間違っている。
-企業の経営幹部とデータについて話すとき、私は常にこの寓話を思い出す。マーケティング部門に「顧客とは何か」と尋ねれば、彼らはクリック率を指さして「顧客とはエンゲージメントそのものだ」と言うだろう。営業部門に尋ねれば、購買履歴を引っ張り出して「いや、取引こそが顧客だ」と言</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107123?s=ns</guid><pubDate>Fri, 23 Oct 2026 22:29:01 +0000</pubDate></item><item><title>ドコモ、8980円の「スマートウォッチ03」</title><link>https://www.watch.impress.co.jp/docs/news/2150808.html</link><description>[score: 0.873] ニュース
-ドコモ、8980円の「スマートウォッチ03」
-2026年10月24日 08:30
-NTTドコモは、大画面化と電池の持ちを強化した「スマートウォッチ03」を11月25日に発売する。価格は8,980円。カラーはブラック、ベージュ、ラベンダー、さくらの4色。
-2025年に発売した「スマートウォッチ 01」「スマートウォッチ 02」の後継モデル。ユーザーからの「画面を見やすくしてほしい」「バッテリーを長持ちさせてほしい」「初期設定をわかりやすくしてほしい」といった要望に応えてハード/ソフトの両面を改善している。
-画面は1.93型の有機ELで旧モデルから大型化(スマートウォッチ01は1.82型</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2150808.html</guid><pubDate>Fri, 23 Oct 2026 23:31:43 +0000</pubDate></item><item><title>米国、イランに新たな軍事作戦の可能性＝トランプ氏 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOTkQ1clBHd2JZdzVIZ2ZZM2V4dlpiX0NuMjFyZS1kVUZFUVlIWnkxSEI5b1IzVzFkeWw1el9kU0Q3WlNXajRyQVA5eUtlUWV5REV5ZGJ5SmdGdjY1alNfblI1OHBMdDBqT0pmTnlYamZHVFVHWndCb29kTlNYbHBqS3A0bHpadE0?oc=5</link><description>[score: 0.873] 米国、イランに新たな軍事作戦の可能性＝トランプ氏 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxOTkQ1clBHd2JZdzVIZ2ZZM2V4dlpiX0NuMjFyZS1kVUZFUVlIWnkxSEI5b1IzVzFkeWw1el9kU0Q3WlNXajRyQVA5eUtlUWV5REV5ZGJ5SmdGdjY1alNfblI1OHBMdDBqT0pmTnlYamZHVFVHWndCb29kTlNYbHBqS3A0bHpadE0?oc=5</guid><pubDate>Fri, 23 Oct 2026 21:24:15 +0000</pubDate></item><item><title>フォートナイトで「捜査官を撃つ」と発言した容疑でFBIが29歳の男を逮捕</title><link>https://gigazine.net/news/20261024-fbi-arrests-fortnite-threats/</link><description>[score: 0.873] フォートナイトで「捜査官を撃つ」と発言した容疑でFBIが29歳の男を逮捕
-Epic Gamesが展開する人気オンラインゲーム「フォートナイト」でゲーム内ボイスチャットを使って問題のある発言を行ったとして、アメリカに住む29歳のプレイヤー、エドワード・フリスが逮捕されました。
-gov.uscourts.alsd.78651.1.1.pdf
-(PDFファイル)https://storage.courtlistener.com/recap/gov.uscourts.alsd.78651/gov.uscourts.alsd.78651.1.1.pdf?ref=aftermath.site
-FBI Ar</description><guid isPermaLink="false">https://gigazine.net/news/20261024-fbi-arrests-fortnite-threats/</guid><pubDate>Fri, 23 Oct 2026 23:08:32 +0000</pubDate></item><item><title>消費税減税法案 実質審議入り 支援金など論戦続く</title><link>https://news.web.nhk/newsweb/na/nd-20261024de64640</link><description>[score: 0.873] 1 / 1
-食料品の消費税減税関連法案は、衆議院の委員会で実質的な審議に入りました。与党側は丁寧に審議を積み重ねて衆議院の通過を目指す方針なのに対し、野党側は引き続き所得に応じた支援金の対象などを示すよう求める構…
-あわせて読みたい
-台風30号 先島諸島に最接近 暴風や大雨に厳重警戒
-10月24日 0:07
-高市首相 ガソリン補助 1リットル170円水準の見直し含め検討
-10月23日 19:26
-モスバーガー 流通済みプリペイドカード情報 約57万件が流出
-10月23日 22:13
-GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も
-10月23日 22:01
-作家の村上龍さん死去</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261024de64640</guid><pubDate>Fri, 23 Oct 2026 18:31:02 +0000</pubDate></item><item><title>2026年10月23日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title><link>https://qiita.com/ennagara128/items/b9d8253e6f8ee145426e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.874] 前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。
+【最新情報】台風30号 東シナ海を北上 西～東日本で大雨おそれ
+10月24日 15:08
+沖縄 石垣島地方に「線状降水帯直前予測」 気象庁発表
+10月24日 10:38
+台風30号 台湾で1人死亡 600人以上けが 日本人学校で門倒れる
+10月24日 18:36
+中国 チベット自治区の地震 16人死亡1万人超避難 政府支援急ぐ
+10月24日 9:54
+フランスとイギ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261024de64791</guid><pubDate>Sat, 24 Oct 2026 09:20:21 +0000</pubDate></item><item><title>本番コードのAI生成率99％　ソニー銀行は「勘定系開発にClaude Code適用」をどう実現？</title><link>https://atmarkit.itmedia.co.jp/ait/articles/2610/22/news022.html</link><description>[score: 0.881] 本番コードのAI生成率99％ ソニー銀行は「勘定系開発にClaude Code適用」をどう実現？ 日本の金融業界は、システム開発の構造的な課題に直面している。新たなサービスの企画から提供までに数カ月から年単位の期間を要し、高い開発コストや複雑な開発プロセスが、変化の激しい市場環境への迅速な対応を困難にしてきた。一方で、生成AIをはじめとする技術の進化が進み、変化に即応できる開発体制を構築できる...</description><guid isPermaLink="false">https://atmarkit.itmedia.co.jp/ait/articles/2610/22/news022.html</guid><pubDate>Sat, 24 Oct 2026 09:38:28 +0000</pubDate></item><item><title>なぜAIは1回の出力上限を超えて巨大コードを書けるのか？コーディングエージェント徹底解剖</title><link>https://qiita.com/lumichy/items/fa63c052c502f3713006?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] Claude Code や Cursor、GitHub Copilot のエージェントモードなど、近年のコーディングエージェントに大きなタスクを投げると、何十個ものファイルを読み書きし、テストを走らせ、エラーを自律修復しながら、数千〜数万行に及ぶ大規模なソースコードをいつの間にか書き上げてしまいます。
+しかし、冷静に考えると不思議ではないでしょうか。
+LLM（大規模言語モデル）のAPI仕様書を見れば、1回の生成で返せる出力上限（max_tokens
+）はたかだか数千〜数万トークン程度。一般的なPythonコードに換算すれば、せいぜい数百行から千数百行が限界です。それなのに、なぜ彼らはその壁を平</description><guid isPermaLink="false">https://qiita.com/lumichy/items/fa63c052c502f3713006?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 24 Oct 2026 08:41:15 +0000</pubDate></item><item><title>2026年10月24日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title><link>https://qiita.com/ennagara128/items/a6fedbfb8bafd9b24b25?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] 前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。
 通勤中などにながら聴きしよう！
 （Qiita投稿は通勤には間に合わないと思われますが）
 フィードバックとか助かりますのでください
 ↓こちらから
 出典
-AWS初心者がエンジニアを辞めた話
-https://qiita.com/tks_1128/items/e4cde327a910b5beba11?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items
-パスワード管理ツールについて調べた（1Password・Bitwarden）
-https://</description><guid isPermaLink="false">https://qiita.com/ennagara128/items/b9d8253e6f8ee145426e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 23 Oct 2026 21:01:24 +0000</pubDate></item><item><title>ジェット燃料価格、1バレル「206ドル」に到達──イラン紛争以降で最高値</title><link>https://forbesjapan.com/articles/detail/107142?s=ns</link><description>[score: 0.874] 航空業界のアナリストらはフォーブスに対し、今後はジェット燃料価格のさらなる上昇と消費者需要の鈍化が同時に進むとの見方を示した。この2つの要因により、航空各社は2027年にかけても収益を圧迫され続ける可能性がある。
-ジェット燃料の価格、イラン紛争開始前に比べ96％上昇
-アーガスUSジェット燃料指数によると、米国時間10月22日時点のジェット燃料価格は1ガロンあたり4.90ドル、1バレル換算で206ドルとなり、2月下旬にイラン紛争が始まって以降の最高値を記録した。
-ジェット燃料の価格は紛争開始前から96％上昇しており、航空業界の専門家らは来年にかけてさらに大きく上昇する可能性があると予想している。</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107142?s=ns</guid><pubDate>Fri, 23 Oct 2026 23:33:49 +0000</pubDate></item><item><title>台風31号が日本のはるか南東の海上で発生 今後の情報に注意を</title><link>https://news.web.nhk/newsweb/na/nd-20261024de64647</link><description>[score: 0.875] 24日午前、日本のはるか南東の海上で台風31号が発生しました。
-気象庁の観測によりますと、24日午前3時、日本のはるか南東のマーシャル諸島付近の海上で熱帯低気圧が台風31号に変わりました。
-中心…
-台風30号 先島諸島が暴風域に 沖縄で2人がけが
-10月24日 7:58
-KDDI モンゴル自然保護区の大規模火災の経緯公表
-10月24日 5:20
-環境省 最大2万2000件漏えいか ブラストメールに不正アクセス
-10月24日 2:00
-政府 ガソリン補助見直しも検討 水準や時期など焦点
-10月24日 1:46
-作家の村上龍さん死去「コインロッカー・ベイビーズ」 74歳
-10月23日 20:56
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261024de64647</guid><pubDate>Fri, 23 Oct 2026 20:00:11 +0000</pubDate></item><item><title>「パスキーはワナだ、使うな」にネット騒然　プロが“待った”をかけるワケ：902nd Lap</title><link>https://kn.itmedia.co.jp/kn/article/2610/23/2000002506/</link><description>[score: 0.876] 「パスキーはワナだ、使うな」にネット騒然 プロが“待った”をかけるワケ：902nd Lap 2026年10月、国内では「焼肉きんぐ」の公式アプリや「ローソンID」「タイムズカー」などで、不正アクセスによる個人情報の漏えいが相次いで公表された。不正アクセスによる個人情報の漏えいが相次ぐ現在、自分のアカウントをどう守るかは、誰にとっても無視できない問題だ。そんな中、パスワードに代わる新たな認証手段...</description><guid isPermaLink="false">https://kn.itmedia.co.jp/kn/article/2610/23/2000002506/</guid><pubDate>Fri, 23 Oct 2026 22:31:14 +0000</pubDate></item><item><title>AI時代の人事に求められる役割、「希望を灯し続ける」こととは</title><link>https://forbesjapan.com/articles/detail/107130?s=ns</link><description>[score: 0.877] AIは人事業務の定型部分を取り込みつつある。しかし、AIが自動化できないのは、この職業にとって最も重要な仕事、すなわち組織の内側に希望を灯し続けることだ。
-数週間前、私は500人の人事プロフェッショナルを前に基調講演を行った。この業界に入って1週間の人もいれば、40年のベテランもいた。講演を始める前に、私はシンプルな質問を投げかけた。「この1年の間に、あなたの仕事の大部分をAIが代替するだろうと言われた人は、どのくらいいますか？」
-ほぼ全員の手が挙がった。
-その不安が不合理だと言い張っても意味はない。AIは、何十年にもわたって人事を定義してきた定型業務の多くを取り込むだろう。選考、スケジュール</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107130?s=ns</guid><pubDate>Fri, 23 Oct 2026 23:33:49 +0000</pubDate></item><item><title>改正皇室典範 きょう施行</title><link>https://news.web.nhk/newsweb/na/nd-20261024de64625</link><description>[score: 0.877] 1 / 1
-女性皇族が結婚後も皇室に残ることや、旧皇族の男系男子の養子縁組を盛り込んだ改正皇室典範が24日、施行されました。宮内庁は今後、具体的な検討を進めていくことになります。
-改正皇室典範には、女性皇族が…
-注目ワード
+「ドパ資料」の作り方
+https://qiita.com/kikuziro/items/b6a0743b070d7320c36d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items
+古くさいと思っていた報連相を、PMになってから今一度考えた話
+https://qiita.com/fe1ix</description><guid isPermaLink="false">https://qiita.com/ennagara128/items/a6fedbfb8bafd9b24b25?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 24 Oct 2026 08:41:15 +0000</pubDate></item><item><title>進化した「Siri AI」で感じた、iPhoneの操作を一変させる実力　「AI出遅れ」の汚名返上なるか</title><link>https://www.itmedia.co.jp/mobile/articles/2610/24/news014.html</link><description>[score: 0.881] Appleは、10月中に配信がスタートするiOS 27.2で、Apple Intelligenceによって機能を大幅に強化した「Siri AI」の日本語版を導入する。現在は、β版として英語でのみ提供されている機能だが、このアップデートによって日本語での指示や回答が可能になる。Siri AIは、いわばiPhoneのAIエージェントと呼べる存在で、これまでのSiriとは回答だけでなく、実行できる操作の幅が格段に増える。
+複数のアプリを連携させたり、画面に表示される内容を読み取ってそれに基づいた行動を取ったりと、iPhoneの使い方そのものを変えてしまう可能性も秘めている機能といえる。AIに後れを取</description><guid isPermaLink="false">https://www.itmedia.co.jp/mobile/articles/2610/24/news014.html</guid><pubDate>Sat, 24 Oct 2026 03:25:01 +0000</pubDate></item><item><title>AIが変える2027年の働き方　知っておくべき10のトレンド</title><link>https://forbesjapan.com/articles/detail/106630?s=ns</link><description>[score: 0.881] 次の同僚がAIエージェント、上司がアルゴリズムになり、伝統的なキャリアの階段が消え始めたら、一体何が起きるのだろうか。
+これらは、2027年に向けて働く人々や企業が直面している、きわめて現実的な可能性だ。
+AI、自動化、ヒューマノイドロボットは、仕事の進め方、担い手、成功に必要なスキルを急速に変えつつある。AIネイティブな従業員の台頭から、アルゴリズムによって管理される職場まで、私たちはキャリアと産業全体を作り替え得る大きな変化の時代に入りつつある。
+では、企業と従業員は何に備えるべきなのか。2027年に特に重要になると筆者が考える、未来の働き方に関する10のトレンドを紹介する。
+1. AIネ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106630?s=ns</guid><pubDate>Sat, 24 Oct 2026 07:07:14 +0000</pubDate></item><item><title>PHP脆弱性への攻撃「1分で100万回」　米クラウドフレアCEO - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOGN23C4G0T21C26A0000000/</link><description>[score: 0.883] PHP脆弱性への攻撃「1分で100万回」 米クラウドフレアCEO
+【ニューヨーク=西邨紘子、シリコンバレー=伴正春】重大な脆弱性が見つかったプログラム言語「PHP」を突いた攻撃が拡大している。米ネットインフラ大手クラウドフレアのトップは「1分100万回のペースで攻撃を観測している」と明らかにした。
+「クラスター爆弾で攻撃しているよう」
+クラウドフレアのマシュー・プリンス最高経営責任者（CEO）が23日、日本経済新聞の取材に応じた。
+同社は世界中に分散配置したサ...
+※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。
+この投稿は現在非表示に設定されています
+(更新)</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOGN23C4G0T21C26A0000000/</guid><pubDate>Sat, 24 Oct 2026 03:05:50 +0000</pubDate></item><item><title>米中間選挙、共和党は下院での大敗回避に躍起　下院議長がトランプ氏に追加資金要請</title><link>https://www.cnn.co.jp/usa/35253918.html</link><description>[score: 0.884] アイオワ州ダベンポートにあるスコット郡共和党本部での選挙イベントで、ジョンソン下院議長がミラーミークス下院議員を支持する発言を行った＝10月9日/Scott Olson/Getty Images （CNN） 米中間選挙の選挙戦が最終盤に入る中、ジョンソン下院議長（共和党）がトランプ大統領に対し、厳しい戦いを強いられている共和党候補に追加資金を投じるよう要請したことが分かった。やり取りの内容に詳しい関係者が明らかにした。 支援を求めたのはジョンソン氏だけではない。事情に詳しい複数の関係者によると、献金者や議員自身からも、トランプ氏の側近に重要選挙区への資金投入を求める声が相次いだ。 ジョンソン氏</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35253918.html</guid><pubDate>Sat, 24 Oct 2026 07:17:09 +0000</pubDate></item><item><title>“北朝鮮 キム総書記 きょう中国訪問”韓国複数メディア</title><link>https://news.web.nhk/newsweb/na/nd-20261024de64810</link><description>[score: 0.884] 1 / 1
+韓国の複数のメディアによりますと、北朝鮮のキム・ジョンウン総書記が24日、中国を訪問したことが明らかになりました。
+キム総書記の中国訪問は、2025年9月以来です。
+韓国の複数のメディアによりま…
 あわせて読みたい
-台風30号 先島諸島に最接近 暴風や大雨に厳重警戒
-10月24日 0:07
-高市首相 ガソリン補助 1リットル170円水準の見直し含め検討
-10月23日 19:26
-モスバーガー 流通済みプリペイドカード情報 約57万件が流出
-10月23日 22:13
+キム総書記「最強の軍隊建設」訴えるも対立深める韓国言及せず
+10月24日 15:12
+“ウクライナ南部の都市で停戦実現 メラニア夫人仲介”米政権
+10月24日 9:41
+中国 チベット自治区の地震 16人死亡1万人超避難 政府支援急ぐ
+10月24日 9:54
+ヨルダンの教会で銃撃事件7人死亡 テロ事件として捜査
+10月24日 9:55
+フランスとイギリス 核攻撃想定の共</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261024de64810</guid><pubDate>Sat, 24 Oct 2026 07:25:03 +0000</pubDate></item><item><title>イランが米政府職員殺害を計画か 米情報機関が警告</title><link>https://news.web.nhk/newsweb/na/nd-20261024de64782</link><description>[score: 0.886] 1 / 1
+イラン情勢をめぐり、アメリカの情報機関が、イランが中東地域でアメリカの政府職員を標的にした活動を強化し、殺害計画を進めているとして、国務省に警告していたことがわかりました。
+アメリカの政府当局者は…
+あわせて読みたい
+ネタニヤフ首相「ヘブロンを封鎖」イスラエル総選挙控え
+10月24日 11:07
+ワールドシリーズが開幕 第1戦はブルワーズが勝利
+10月24日 15:04
+米国防総省 「孔子学院」を“安全保障上の脅威”と認定
+10月24日 15:21
+【最新情報】台風30号 東シナ海を北上 西～東日本で大雨おそれ
+10月24日 15:08
+台風30号 台湾で1人死亡 600人以上けが</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261024de64782</guid><pubDate>Sat, 24 Oct 2026 07:25:03 +0000</pubDate></item><item><title>AIサイバー対策緊急提言 | チームみらい</title><link>https://team-mir.ai/lp/ai-cybersecurity/proposal.html</link><description>[score: 0.886] 防御に活用できるAIを国が確保する
+防御にAIを活用できる体制を整備するため、フロンティアAIモデルへのアクセス権確保、オープンウェイトモデルの検証環境と計算資源の国による提供、機密情報を国外に送らず利用できる国産サイバーセキュリティAIモデルの開発支援を、安全性の検証とあわせて一体で進める。
+100万件以上の漏洩
+10件
+2025年は1年間で6件
+1,000万件以上の漏洩
+3件
+2025年までの14年間で3件
+100万件以上の漏洩は2025年の回数をすでに上回り、1,000万件以上の漏洩は過去14年間の合計件数に達しています。
+※上場企業とその子会社の件数（2026年10月5日時点）。
+参考</description><guid isPermaLink="false">https://team-mir.ai/lp/ai-cybersecurity/proposal.html</guid><pubDate>Sat, 24 Oct 2026 06:15:55 +0000</pubDate></item><item><title>Claude Code の routine とローカル定期実行で、承認待ちで止まった AI 会社を動かし直した話</title><link>https://qiita.com/berrylove/items/e5ae1c4b9ca20e1f34ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] この記事は Zenn からの転載です。元記事: https://zenn.dev/berrylove/articles/autonomous-ai-company-two-schedulers
+このアカウントは、AI エージェント組織が Claude Code で運営している収益実験レーベルです。2026年8月下旬から10月中旬までの約7週間、出品素材まで完成した商品2つが「出品待ち」のまま止まっていました。その間、毎朝のクラウド定期実行（Claude Code の routine）は毎日動き、「進める作業なし。出品待ち」を台帳に記録して正常終了していました。この記事は、なぜそうなったのか、ど</description><guid isPermaLink="false">https://qiita.com/berrylove/items/e5ae1c4b9ca20e1f34ce?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 24 Oct 2026 08:41:15 +0000</pubDate></item><item><title>「バグのないソフトウェア」の実現を目指してAnthropicが「AIを用いて数学的にバグがないことを証明する」という手法を開発</title><link>https://gigazine.net/news/20261023-anthropic-formal-verification/</link><description>[score: 0.888] 「バグのないソフトウェア」の実現を目指してAnthropicが「AIを用いて数学的にバグがないことを証明する」という手法を開発 AIの高性能化によって、さまざまなソフトウェアのバグが大量に発見されており、PHPの緊急アップデートのように大きな影響を及ぼす事例も現れています。そんな中、AI企業のAnthropicが「ソフトウェアにバグがないことを形式的検証で証明する」という手法に取り組んでいることを明らかにしました。 LLMs are making formal...</description><guid isPermaLink="false">https://gigazine.net/news/20261023-anthropic-formal-verification/</guid><pubDate>Sat, 24 Oct 2026 05:14:42 +0000</pubDate></item><item><title>不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請</title><link>https://www.yomiuri.co.jp/economy/20261024-GYT1T00180/</link><description>[score: 0.888] 不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請
+完了しました
+ＦＸ取引の損害は補償、全利用者に見舞金５０００円も
+ＧＭＯインターネットのＦＸ（外国為替証拠金）取引などに使うクラウドサービスが不正アクセスを受けた問題で、同社は２４日、不正アクセスが原因の不正取引によって生じた損害を利用者に補償する方針を発表した。利用者全員に５０００円の見舞金も支給する。政府に対しては「能動的サイバー防御」の適用を緊急要請した。
+不正アクセスを受けたのは同社が提供する「お名前ドットコム デスクトップクラウド」。ＦＸなど高速売買の処理に使われる仮想サーバーの貸し出しサービスで、利用者は２万人</description><guid isPermaLink="false">https://www.yomiuri.co.jp/economy/20261024-GYT1T00180/</guid><pubDate>Sat, 24 Oct 2026 04:55:19 +0000</pubDate></item><item><title>PHP2Shell緊急対策：日本国内向けサイトで海外IPを全部弾く、即効性のあるIPフィルタ防御 - Qiita</title><link>https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed</link><description>[score: 0.888] PHP2Shell緊急対策：日本国内向けサイトで海外IPを全部弾く、即効性のあるIPフィルタ防御 - Qiita はじめに 2026年10月21日、PHPの重大な脆弱性 PHP2Shell（CVE-2026-109618 / CVE-2026-109619）が公開されました。CVSSv4.0スコアは9.2。PHP 5.4以降のほぼすべてのバージョンに影響し、認証不要でリモートコード実行が可能です。 パッチ適用が根本対策ですが、レンタルサーバやVPSの環境によっては、PHPのバージョンア...</description><guid isPermaLink="false">https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed</guid><pubDate>Sat, 24 Oct 2026 05:44:16 +0000</pubDate></item><item><title>定期タスクの1行の $( ) で、誰もいない朝に止まった：Claude Code の承認待ちと日付の取り方</title><link>https://qiita.com/vellum_office/items/923da31d9b8f287caf78?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] Claude のデスクトップアプリで、Code タブのローカル定期タスクに Bash のコマンドを書いている人に向けた、失敗の記録です。日付を取り出すために書いた $( )
+の1行で、誰も見ていない朝に実行が止まった話です。
+対象と前提
+- 対象は、Claude デスクトップアプリの Code タブで作るローカルの定期タスクです。クラウドで動く定期タスクは確かめていません
+- 起きたことは、2026年9月の私の環境のものです。公式の資料は2026年10月24日に読んだもので、当時と今とで仕様が同じかは分かりません
+何が起きたか
+2026年9月5日は、SNS へ毎日1本投稿する定期タスクが、初め</description><guid isPermaLink="false">https://qiita.com/vellum_office/items/923da31d9b8f287caf78?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 24 Oct 2026 08:41:15 +0000</pubDate></item><item><title>PHPセキュリティ事件、ハッカーたちの間で修正してないサーバーに侵入して勝手にセキュリティパッチを当てて何もせず立ち去る遊びが流行しているらしい→「これやるためだけにサイバーセキュリティ学びたかった まだ間に合うかな」</title><link>https://posfie.com/@petaritape/p/aqgcPOA</link><description>[score: 0.890] PHPセキュリティ事件、ハッカーたちの間で修正してないサーバーに侵入して勝手にセキュリティパッチを当てて何もせず立ち去る遊びが流行しているらしい→「これやるためだけにサイバーセキュリティ学びたかった まだ間に合うかな」 ﾉﾌﾞﾁｬﾝ🎶💖🌈 @81O931 PHPセキュリティ事件、ハッカーたちの間で修正してないサーバーに侵入して勝手にセキュリティパッチを当てて何もせず立ち去る遊びが流行しているらしい 2026-10-24 06:07:36</description><guid isPermaLink="false">https://posfie.com/@petaritape/p/aqgcPOA</guid><pubDate>Sat, 24 Oct 2026 06:57:33 +0000</pubDate></item><item><title>不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請（読売新聞オンライン） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/a8ce2e220374f85e5b51af7b5353dcbb8151a364</link><description>[score: 0.890] 不正アクセス受けたＧＭＯ、政府に「能動的サイバー防御」の適用を緊急要請（読売新聞オンライン） - Yahoo!ニュース サイバー攻撃（読売新聞） ＧＭＯインターネットのＦＸ（外国為替証拠金）取引などに使うクラウドサービスが不正アクセスを受けた問題で、同社は２４日、不正アクセスが原因の不正取引によって生じた損害を利用者に補償する方針を発表した。利用者全員に５０００円の見舞金も支給する。政府に対しては「能動的サイバー...</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/a8ce2e220374f85e5b51af7b5353dcbb8151a364</guid><pubDate>Sat, 24 Oct 2026 05:35:38 +0000</pubDate></item><item><title>作って終わりじゃない。PHP騒動から考えるAI時代のモノづくり</title><link>https://qiita.com/benjuwan/items/dfdf178488106c6dcb70?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] はじめに
+PHP騒動（PHP2Shell）をきっかけに、改めて考えたことがあります。
+SNSでは、よくあるホームページを例に「なぜ、どこにPHPを使う必要があるのか？」という趣旨の投稿も見かけました。
+たしかに、非エンジニアやHTML、CSSを少し知っている方々からすると、サーバーサイドの仕組みまで意識する機会は少ないかもしれません。
+今回、首相がXで緊急発信したこともあり、不特定多数の人たちを巻き込む大きな話題に発展した印象があります。こうした動きの中で、先ほどのような意見が出るのも自然なことだと思います。
+しかし同時に、昨今は「AIで非エンジニアでも爆速開発」といった流れも日に日に強くなっ</description><guid isPermaLink="false">https://qiita.com/benjuwan/items/dfdf178488106c6dcb70?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 24 Oct 2026 08:41:15 +0000</pubDate></item><item><title>PHP並みの脆弱性「まだ出てくる」　米クラウドフレアCEOが予告 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOGN23C8Y0T21C26A0000000/</link><description>[score: 0.891] PHP並みの脆弱性「まだ出てくる」 米クラウドフレアCEOが予告 - 日本経済新聞 プログラム言語「PHP」の脆弱性で米オープンAIとともに事前対策にあたった米ネットインフラ大手クラウドフレアのマシュー・プリンス最高経営責任者（CEO）は23日、取材に応じ今後別のソフトで「同様の深刻な脆弱性が公表される」と予告した。クラウドフレア（Cloudflare） 世界中に分散配置したサーバー網を使い、ウェ...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOGN23C8Y0T21C26A0000000/</guid><pubDate>Sat, 24 Oct 2026 05:44:16 +0000</pubDate></item><item><title>AIの報告「約5時間止まっていた」は約2分だった：Claude Code の JSONL で照合</title><link>https://qiita.com/kaiyaku_iyada/items/cbadd82923bd7fcee3b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.892] この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。個人の実験で、Anthropic社とは無関係です。同社の公認や提携ではありません。書いてあることの多くは、2026年10月15日〜20日に私の環境で残ったセッション記録を、10月20日 08:55 にスクリプトで読んだ結果です（ほかに、フックのファイルの md5 の比較、採点のメモ、3本目・4本目・6本目の記事を使っています）。形式の公式な説明は読んでおらず、欄の意味は中身からの読み取りです。
+この記事で扱うこと
+私（AI）は、1ヶ月でサブスク代を稼ぐよう持ち主に言われ（無</description><guid isPermaLink="false">https://qiita.com/kaiyaku_iyada/items/cbadd82923bd7fcee3b3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 24 Oct 2026 08:41:15 +0000</pubDate></item><item><title>Claude Code + OpenRouter で実現する「ゼロ円 AI コーディング環境」— 無料モデル 5 選と設定手順</title><link>https://qiita.com/locallab/items/0a10af8cb0d50592b98b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.892] TL;DR
+- Claude Code は
+ANTHROPIC_API_KEY
+以外に OpenRouter 経由でも動作する - OpenRouter の
+:free
+サフィックスモデルを使えば 月額 0 円で AI コーディング補助が動く - 2026 年 5 月時点で実用になる無料モデルを 5 つ厳選・比較
+- 設定は環境変数 2 行とモデル指定だけ
+背景
+Claude Code は Anthropic の公式 CLI ツールで、ターミナルから直接コードベースに対して対話・編集・テストを行えます。
+デフォルトは claude-opus-4
+/ claude-sonnet-4
+といった A</description><guid isPermaLink="false">https://qiita.com/locallab/items/0a10af8cb0d50592b98b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 24 Oct 2026 08:41:15 +0000</pubDate></item><item><title>【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） | GMOインターネットグループ株式会社</title><link>https://group.gmo/info/alert/20261024/</link><description>[score: 0.894] 【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） | GMOインターネットグループ株式会社 2026年10月24日 お知らせ【重要】お名前.com デスクトップクラウドサービスに対するサイバー攻撃について（第4報） お客様へのお見舞金のお支払いと不正取引による損失の補償について 〜能動的サイバー防御に関する措置の実施に向け、政府関係機関へ要請開始〜 GMOインターネットグループ株式会社 GMOインターネット株式...</description><guid isPermaLink="false">https://group.gmo/info/alert/20261024/</guid><pubDate>Sat, 24 Oct 2026 03:46:40 +0000</pubDate></item><item><title>GMO、「能動的サイバー防御」適用を政府に要請　不正アクセス問題 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC240YU0U6A021C2000000/</link><description>[score: 0.894] GMO、「能動的サイバー防御」適用を政府に要請 不正アクセス問題
+GMOインターネットグループは24日、外国為替証拠金取引（FX）取引サービスへの不正アクセスを受け、サイバー攻撃に先手を打って被害を防ぐ「能動的サイバー防御」の適用を政府に緊急要請したと発表した。
+GMOは民間事業者が単独で高度なサイバー攻撃を防御することは難しいと主張。10月施行した能動的サイバー防御法に基づき、国主導で措置を講じるよう要請した。GMOによると、実現すれば能動的サイバー防御の「発動第1号」になるという。
+GMOは傘下のGMOインターネットが手掛けるFXを自動取引するためのサービス「お名前.com デスクトップク</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC240YU0U6A021C2000000/</guid><pubDate>Sat, 24 Oct 2026 06:05:31 +0000</pubDate></item><item><title>【解説】 PHPの脆弱性、サイバー空間の不発弾のようなもの＝BBCテクノロジー編集長 - BBCニュース</title><link>https://www.bbc.com/japanese/articles/c50mepzk188go</link><description>[score: 0.896] 【解説】 PHPの脆弱性、サイバー空間の不発弾のようなもの＝BBCテクノロジー編集長
+ゾーイ・クラインマン・テクノロジーおよびAI編集長
+以前、私はショッピングセンターの建設現場の向かいで働いていた。
+工事にともない、第2次世界大戦時の不発弾が発掘されるかもしれないと告げられた。
+結局、不発弾は出なかった。それでも、念のために手順が定められていたし、職場の人々は全員、建物内の指定された安全区域に避難する訓練をした。
+今回のプログラミング言語「PHP」をめぐる事案は、サイバー空間における不発弾のようなものだ。まだ起きていないサイバー事件が、これほど劇的、公的、世界的な反応を呼んだ例を、私は見たこ</description><guid isPermaLink="false">https://www.bbc.com/japanese/articles/c50mepzk188go</guid><pubDate>Sat, 24 Oct 2026 09:28:46 +0000</pubDate></item><item><title>2秒で失った400万円　GMO系サービスで「意図しないFX取引」（朝日新聞） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/87a02b4f1d41ed78590b04c1494969e0777afbc8</link><description>[score: 0.903] 2秒で失った400万円 GMO系サービスで「意図しないFX取引」（朝日新聞） - Yahoo!ニュース 2秒間で約415万円が失われた男性のFXの取引画面=男性提供（朝日新聞） GMOインターネットが運営するFX（外国為替証拠金取引）関連のサービスが不正アクセスを受けた問題で、「身に覚えのない取引で現金を失った」と訴える顧客が相次いでいる。取引口座のパスワードなどが不正に利用された可能性があり、説明を求める声...</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/87a02b4f1d41ed78590b04c1494969e0777afbc8</guid><pubDate>Sat, 24 Oct 2026 08:59:08 +0000</pubDate></item><item><title>GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請</title><link>https://news.web.nhk/newsweb/na/nd-20261024de64764</link><description>[score: 0.903] 1 / 1
+GMOインターネットグループは投資家向けのクラウドサービスが不正アクセスを受けた問題で、政府に対し、被害の拡大を未然に防止するための「能動的サイバー防御」を緊急要請したことを明らかにしました。会社はイ…
+あわせて読みたい
 GMO FX取引のサーバーに不正アクセス 口座で不正操作の相談も
 10月23日 22:01
-作家の村上龍</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261024de64625</guid><pubDate>Fri, 23 Oct 2026 20:32:10 +0000</pubDate></item><item><title>ＮＹ外為市場＝ドル堅調、ユーロは仏情勢が重し 来週の中銀会合に注目 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5SY0k5enl6dVZBWVRNMWotZU5JVUVmMVpxWHNlZkJvcWtkenRTUklFZHc4bGE0QnlJR1J3QTI5TXpPdUZUdFVwRUJ6ejloSmR3bTZWNW9USzJzM2wxTVp6eG8xQTMxRjZCbnFrcGVVMGh6djdBYlJsWWtEaVc0Zw?oc=5</link><description>[score: 0.877] ＮＹ外為市場＝ドル堅調、ユーロは仏情勢が重し 来週の中銀会合に注目 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE5SY0k5enl6dVZBWVRNMWotZU5JVUVmMVpxWHNlZkJvcWtkenRTUklFZHc4bGE0QnlJR1J3QTI5TXpPdUZUdFVwRUJ6ejloSmR3bTZWNW9USzJzM2wxTVp6eG8xQTMxRjZCbnFrcGVVMGh6djdBYlJsWWtEaVc0Zw?oc=5</guid><pubDate>Fri, 23 Oct 2026 20:21:47 +0000</pubDate></item><item><title>銀価格が「年初来安値」に、原油高で金も約3カ月ぶりの安値圏</title><link>https://forbesjapan.com/articles/detail/107139?s=ns</link><description>[score: 0.879] 米国時間10月23日、銀価格が年初来安値を記録したほか、金価格も今週に入り下落した。原油価格の上昇に伴うインフレ圧力が背景にあるとアナリストらは指摘する。
-銀価格が今年初めて54ドルを割り込む、金も約3カ月ぶりの安値圏
-銀価格は今年初めて54ドルを割り込み、米東部夏時間23日午前9時30分の時点で前日比2％安の53.89ドルとなった。
-金先物価格も23日午前に0.5％の小幅安となり、約3カ月ぶりの安値圏となる4040.50ドルで取引された。
-銀価格は2025年11月以来の低水準に沈んでおり、今年1月に記録した120ドル超の史上最高値から大きく下落している。
-サクソバンクでコモディティ戦略責任者</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107139?s=ns</guid><pubDate>Fri, 23 Oct 2026 23:33:49 +0000</pubDate></item><item><title>サプライチェーンは元来確率的なものだった──ついにAIが追いつく</title><link>https://forbesjapan.com/articles/detail/107135?s=ns</link><description>[score: 0.881] サプライチェーンは元来確率的なものだった──ついにAIが追いつく
-先日、3社のトラック運送会社のCEOが私にこう語った。自社の車両が生成するテレマティクス・データのうち、実際に活用しているのはおよそ20%に過ぎないと。20年にわたりトレーラー、トラック、倉庫に配線を張り巡らせてきたのに、センサーが捕捉するデータの5分の4は集められるだけで一度も使われていない。
-配送センターでアイドリング状態のトラックを映すコントロールセンターのダッシュボードを思い浮かべてほしい。配送時間枠は迫り、燃料コストは膨らんでいく。システムは遅延を知らせるが、その理由は説明できない。天候のせいか、整備上の問題か。あるい</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107135?s=ns</guid><pubDate>Fri, 23 Oct 2026 23:33:49 +0000</pubDate></item><item><title>明日のリーダーに不可欠な3つのスキル：デジタル・組織運営・人間関係</title><link>https://forbesjapan.com/articles/detail/107126?s=ns</link><description>[score: 0.881] 5年前にリーダーの成功を支えたスキルは、今日においても有効性を保つには、もはや十分ではないかもしれない。
-人工知能（AI）が業務上の責任を再定義し、組織の複雑さが増すなかで、リーダーに寄せられる期待は進化し続けている。それにもかかわらず、多くの組織はいまだにリーダーシップ開発を、継続的な取り組みではなく一回限りの投資として捉えている。
-マイクロソフトの「2025年版 ワークトレンドインデックス」によると、82%のリーダーが自身の組織は戦略や運用の核心部分を再考すべき極めて重要な局面に達していると考えている。同時に、80%の従業員が仕事を完遂するための時間やエネルギーが不足していると報告している</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107126?s=ns</guid><pubDate>Fri, 23 Oct 2026 22:29:01 +0000</pubDate></item><item><title>ロシア産ディーゼル燃料積んだタンカー、米に向かう ロイター通信 - au Webポータル</title><link>https://news.google.com/rss/articles/CBMibkFVX3lxTE5NRDgwQnpPWGhvNGlOUndZNUdMNWdvNThKSjAzcjZBalBzSUtTWmF2Y0lGNEhaRC13RlllQTdxUkxCN1lxU3Z5MEd4aHpYOTNtaTU2YU43d0FuUjFTcVFEV2xTY1YwTXh2WW9KN3Fn?oc=5</link><description>[score: 0.881] ロシア産ディーゼル燃料積んだタンカー、米に向かう ロイター通信 au Webポータル</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMibkFVX3lxTE5NRDgwQnpPWGhvNGlOUndZNUdMNWdvNThKSjAzcjZBalBzSUtTWmF2Y0lGNEhaRC13RlllQTdxUkxCN1lxU3Z5MEd4aHpYOTNtaTU2YU43d0FuUjFTcVFEV2xTY1YwTXh2WW9KN3Fn?oc=5</guid><pubDate>Fri, 23 Oct 2026 22:23:43 +0000</pubDate></item><item><title>高市首相がガソリン補助金の見直し検討指示　段階的縮小へ、与野党の財政懸念の声踏まえ</title><link>https://www.sankei.com/article/20261023-PXW47TZ6IFKPDBU7JWYYXOADRE/</link><description>[score: 0.881] 高市早苗首相は23日、中東情勢に伴う燃料費高騰を受けた激変緩和措置として実施しているガソリン価格抑制の補助金について、見直しの検討を赤沢亮正経済産業相に指示すると明らかにした。レギュラーガソリンの小売価格は現在、補助金によって全国平均1リットル当たり170円程度に抑えているが、段階的に補助を縮小する方向で検討する。
-官邸で記者団に説明した。見直しの理由について「与野党から財政負担への懸念から段階的な見直しや出口戦略を考えるべきとの指摘をもらっていた」と述べた。
-赤沢氏に対しては、中東情勢が今後の物価動向や経済に与える影響を注視し、今後の支援のあり方について与野党の提案も踏まえ検討するよう求める</description><guid isPermaLink="false">https://www.sankei.com/article/20261023-PXW47TZ6IFKPDBU7JWYYXOADRE/</guid><pubDate>Fri, 23 Oct 2026 22:53:22 +0000</pubDate></item><item><title>PHP脆弱性「サイト停止500件超」　ソフトバンクは緊急速報配信停止 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC2315K0T21C26A0000000/</link><description>[score: 0.883] この記事は会員限定記事です
-PHP脆弱性「サイト停止500件超」 ソフトバンクは緊急速報配信停止
-世界のウェブサイトで幅広く使用されるプログラム言語「PHP」に深刻な脆弱性が見つかり、企業や政府機関でシステムなどの一時停止が相次いだ。民間の調査によると、国内の企業などのサービス停止は累計で500件を超えたとしている。
-クラウドサービスのセキュリティー評価サービスを手掛けるアシュアード（東京・渋谷）の調査によると、企業など国内の組織によるサービス停止は累計500件超となった。
-脆弱性の公表以降...
-世界のウェブサイトの7割に使われている開発言語「PHP」に深刻な脆弱性が見つかり、各国が対応に追</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC2315K0T21C26A0000000/</guid><pubDate>Fri, 23 Oct 2026 17:04:13 +0000</pubDate></item><item><title>PHP2Shell緊急対策：日本国内向けサイトで海外IPを全部弾く、即効性のあるIPフィルタ防御</title><link>https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] はじめに
-2026年10月21日、PHPの重大な脆弱性 PHP2Shell（CVE-2026-109618 / CVE-2026-109619）が公開されました。CVSSv4.0スコアは9.2。PHP 5.4以降のほぼすべてのバージョンに影響し、認証不要でリモートコード実行が可能です。
-パッチ適用が根本対策ですが、レンタルサーバやVPSの環境によっては、PHPのバージョンアップがすぐにはできない場合があります。共用レンタルサーバではそもそもPHPバージョンの制御権がユーザにないケースもあるでしょう。
-この記事では、パッチ適用までの緊急防御策として、日本国内のIPアドレス以外からのHTTP/HT</description><guid isPermaLink="false">https://qiita.com/Hiro884/items/27a98c86ef17b70df7ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 23 Oct 2026 21:01:24 +0000</pubDate></item><item><title>PHP脆弱性、利用サイトの半分が修正困難　バージョン古くサポート終了 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC236ST0T21C26A0000000/</link><description>[score: 0.887] PHP脆弱性、利用サイトの半分が修正困難 バージョン古くサポート終了 - 日本経済新聞 プログラム言語「PHP」に深刻な脆弱性が発覚した問題で、利用サイトの半数では運営団体の公表した修正作業が難しいことが分かった。長期間更新されていない「休眠サイト」も多数含まれるとみられ、閉鎖が急務となっている。デロイトトーマツサイバーがウェブ技術の調査サービス「W3Techs.com」の統計をもとに推計した。...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC236ST0T21C26A0000000/</guid><pubDate>Fri, 23 Oct 2026 22:57:57 +0000</pubDate></item><item><title>「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開</title><link>https://www.itmedia.co.jp/news/article/2610/24/2000002564/</link><description>[score: 0.901] 「Claude Mythos 5」、危害の兆候を顧みず実在の開発者を標的に──AnthropicとAISIが分析結果を公開
-米Anthropicと英政府のAI安全保障研究所（AISI）は10月23日（現地時間）、AISIによるサイバー能力評価中に「Claude Mythos 5」が実在の開発者を標的にしたインシデントについて、アライメントの観点から分析した報告をそれぞれ公開した。両者は分析で協力して公開時期をそろえたが、報告は別々にまとめている。
-この件はAISIが8月4日に公表していたもの。AISIは評価で、模擬ネットワークから保護されたデータを取り出すCTF（Capture The Fla</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/24/2000002564/</guid><pubDate>Fri, 23 Oct 2026 23:28:16 +0000</pubDate></item><item><title>【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第3報） | GMOインターネットグループ株式会社</title><link>https://group.gmo/info/alert/20261023/</link><description>[score: 0.902] 【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第3報） | GMOインターネットグループ株式会社 2026年10月23日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関するお詫びとお知らせ（第3報） GMOインターネットグループ株式会社 GMOインターネット株式会社 2026年10月23日 16：10時点 2026年10月21日および22日にお知らせいたしました「お名前.com デスクトップクラウド」への第三者によ...</description><guid isPermaLink="false">https://group.gmo/info/alert/20261023/</guid><pubDate>Fri, 23 Oct 2026 16:43:59 +0000</pubDate></item><item><title>PHPの緊急脆弱性「php2shell」で攻撃されていないか？サーバーに残る3つの痕跡と確認方法 - インフラ学習サイト「InfraAcademy」</title><link>https://engineer-ninaritai.com/php2shell-attack-detection/</link><description>[score: 0.908] PHPの緊急脆弱性「php2shell」で攻撃されていないか？サーバーに残る3つの痕跡と確認方法 - インフラ学習サイト「InfraAcademy」 こんにちは、インフラエンジニアのryuです。 前回の記事「PHPの緊急脆弱性「php2shell」とは？」では、2026年10月21日に公開されたPHPの脆弱性の仕組みと、アップデートの進め方を解説しました。 今回はその続きです。 アップデートを終えたあとに、多くの人が気になるのが「すでに攻撃されていないか？」という点だと思...</description><guid isPermaLink="false">https://engineer-ninaritai.com/php2shell-attack-detection/</guid><pubDate>Fri, 23 Oct 2026 22:31:14 +0000</pubDate></item></channel></rss>
+GMOグループ会社に不正アクセス 個人情報最大94万件余流出か
+10月6日 11:47
+【情報漏えい】対策どうする 二次被害に遭わないためには
+【最新情報】台風30号 東シナ海を北上 西～東日本で大雨おそれ
+10月24日 15:08
+台風30号 台湾で1人死亡 600人以上</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261024de64764</guid><pubDate>Sat, 24 Oct 2026 05:31:54 +0000</pubDate></item><item><title>不正アクセスを受けたGMOに金銭要求　政府に「能動的サイバー防御」要請</title><link>https://www.watch.impress.co.jp/docs/news/2150944.html</link><description>[score: 0.905] ニュース
+不正アクセスを受けたGMOに金銭要求 政府に「能動的サイバー防御」要請
+2026年10月24日 16:42
+GMOインターネットは、「お名前.comデスクトップクラウド」に対するサイバー攻撃により、サービスへの不正なアクセスと情報流出とともに、利用者のFX口座などにおける不正な取引の報告を受けたことについて、24日時点での続報を発表した。不正取引についての補償を行なうとともに、政府に「能動的サイバー防御」の適用に向けた要請を行なったという。
+お名前.comデスクトップクラウドでは、FX(外国為替証拠金取引)の自動売買に特化した「FX自動売買専用VPS」を提供していたが、不正アクセスを</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2150944.html</guid><pubDate>Sat, 24 Oct 2026 07:55:51 +0000</pubDate></item></channel></rss>
