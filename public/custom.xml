@@ -1,141 +1,163 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 25 Oct 2026 10:24:19 +0000</lastBuildDate><item><title>【Rails】bin/rails generate scaffoldコマンド実行時にPendingMigrationErrorで処理が中断されてしまう問題について</title><link>https://qiita.com/ryo0427/items/818f8737e88877e13404?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.870] ※10/23追記
-この記事の結論としてGemのバグが原因であると推測しましたが、どうやら原因は別にあるようです。
-詳しく調査後に追記しますので結論部分は鵜呑みにされませんようご注意ください。
-不正確な情報を発信してしまい申し訳ございません。
-※10/25更に追記
-筆者の手元にあるrails_helper.rb
-のコード
-rescue ActiveRecord::PendingMigrationError =&gt; e
-puts e.to_s.strip
-exit 1
-end
-テンプレートver8.0のrails_helper.rb
-のコード
-rescue ActiveRecord::Pending</description><guid isPermaLink="false">https://qiita.com/ryo0427/items/818f8737e88877e13404?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 08:43:16 +0000</pubDate></item><item><title>オバマ氏、中間選挙で「愚行に歯止め」と訴え トランプ政権を痛烈批判 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE43aW1fZjZYZDhzQjA0bDNkNnJXdHlVd2dyX2RmTW04SFNPLWM3VkV6NzFFTzlhWkJ3NjI0VHhJRUJ5LTg0MWVtb3N0VFl3TkpqX3RxcUZVRGtJaEpCMFpuaVlNdmVMNHNpVXNkbGNjRGxwby1kUlltUXhmTFBHaGM?oc=5</link><description>[score: 0.871] オバマ氏、中間選挙で「愚行に歯止め」と訴え トランプ政権を痛烈批判 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE43aW1fZjZYZDhzQjA0bDNkNnJXdHlVd2dyX2RmTW04SFNPLWM3VkV6NzFFTzlhWkJ3NjI0VHhJRUJ5LTg0MWVtb3N0VFl3TkpqX3RxcUZVRGtJaEpCMFpuaVlNdmVMNHNpVXNkbGNjRGxwby1kUlltUXhmTFBHaGM?oc=5</guid><pubDate>Sun, 25 Oct 2026 06:47:43 +0000</pubDate></item><item><title>1枚0.3秒!!Cloudflareの爆速抽出モデルClairicを試してみた</title><link>https://qiita.com/kikuziro/items/3f23603152b409d4a6ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.872] 🎬 取引文書を 爆速分類→テキスト抽出
-書類の画像をまとめてアップロードして分類から項目の抽出まで流れる様子です。シュバババーっと仕分けして内容を抽出してくれています。この記事では検証内容や結果について記載していきます。
-👀 対象読者
-- Cloudflareの"Clef"・"Clairic"がどんなもんか知りたい方
-- 判断/抽出特化モデル（System Oneモデル）に興味がある人
-🧐 はじめに
-Cloudflareから"抽出特化"のclairicが出ました。今まで話題になっていた"判断特化"と今回出た"抽出特化"の2つのモデルを使って「書類を仕分けて中身まで爆速で抜き出す」という検証をや</description><guid isPermaLink="false">https://qiita.com/kikuziro/items/3f23603152b409d4a6ca?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 08:43:16 +0000</pubDate></item><item><title>思いつきが現実になる世界でこわい - 運河</title><link>https://uiuret.hatenablog.com/entry/2026/10/25/080436</link><description>[score: 0.872] 僕はプログラマーなのだが、最近は1行もプログラムを自分で書いていない。プログラムを書いてないどころか、ほとんど読んでいない。
-仕事では最低限すべてのコードに目を通してレビューをやってはいるが、もはやその必要もあまりなく儀式的にやっているだけになっている。
-AIで頭がおかしくなった、という記事を書いたのが8ヶ月前で、またこの数ヶ月で世界は加速したように感じる。
-9月は特に毎週がクリスマスみたいで、GPT-6 Astra や DeepSeek など新しいAI技術が次々に出てきて興奮が止まらなかった。9月下旬の Claude Opus 5.5 の登場で最後の一撃を食らったように感じる。
-Opus 5</description><guid isPermaLink="false">https://uiuret.hatenablog.com/entry/2026/10/25/080436</guid><pubDate>Sun, 25 Oct 2026 04:58:29 +0000</pubDate></item><item><title>LLMにローグライクを遊ばせて分かった、測り方の落とし穴</title><link>https://qiita.com/tamaki_omoto/items/f49a97ff8c202c7a33e6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.873] はじめに
-ローカルの LLM に、ターン制のローグライク Dungeon Crawl Stone Soup（DCSS）を遊ばせていました。
-目標は「生きたまま、できるだけ深い階に着く」。プロンプトを直し、道具を足し、比べる。これを何週間も繰り返しました。
-振り返ると、直したことの多くは効いていませんでした。正確に言うと、効いたかどうかを測れていませんでした。
-この記事は、その間に引っかかった「測り方の落とし穴」の記録です。LLM エージェントを改良していて、「良くなった気がする」で止まっている人の参考になればと思います。
-構成
-┌───────────────────────────┐
-│ 指</description><guid isPermaLink="false">https://qiita.com/tamaki_omoto/items/f49a97ff8c202c7a33e6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 08:43:16 +0000</pubDate></item><item><title>あきれた、日経、女子枠問題に「男子ならくさらず実力を」｜NENENENE@研究</title><link>https://note.com/kunitakeyuto/n/n2cafab1e68ff</link><description>[score: 0.873] あきれた、日経、女子枠問題に「男子ならくさらず実力を」
-・日経電子版の受験コラム「受験考」（10月24日）が、女子枠について男子受験生に「くさらず実力を磨き抜いてほしい」と呼びかけ
-・女子には「萎縮せず堂々と」、男子には「くさらず」
-・「男なら我慢しろ」というステレオタイプを押し付け
-2026年10月24日、日本経済新聞電子版の受験コラム「受験考」に、「増える大学入試の理系女子枠、『納得感』なお不足」という記事が掲載された。2024年度の東京工業大学（現東京科学大学）に続き、2026年度から京都大学や大阪大学などでも女子枠が導入されたことを受けたコラムである。
-問題は、末尾で男子受験生に向けら</description><guid isPermaLink="false">https://note.com/kunitakeyuto/n/n2cafab1e68ff</guid><pubDate>Sun, 25 Oct 2026 08:48:46 +0000</pubDate></item><item><title>芸能人よりインフルエンサーを選ぶ若者が7割超、企業に迫る共創の形</title><link>https://forbesjapan.com/articles/detail/106943?s=ns</link><description>[score: 0.874] スマートフォンの普及に伴い、日常生活の中でSNSに触れる時間は長くなり、情報収集の起点もテレビからSNSへと移行が進む現代。かつて憧れの象徴といえばテレビや映画で活躍する芸能人であったが、デジタルネイティブ世代にとっては、画面越しに日々目にするインフルエンサーの存在感が急速に増している。そんなインフルエンサーに対する若者の意識について、ワカモノリサーチが全国の14歳から20歳の男女を対象に調査を実施、その結果を公開した。
-それによると、まず「芸能人とインフルエンサー、どちらに影響されていますか？」という問いに対し、「芸能人」の26.1％を大きく引き離し、「インフルエンサー」が73.9％に達する</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106943?s=ns</guid><pubDate>Sun, 25 Oct 2026 09:43:23 +0000</pubDate></item><item><title>子供産んで家事して育児して働いて金折半ねって、女にとってどんな罰ゲームだよ</title><link>https://anond.hatelabo.jp/20261025125143</link><description>[score: 0.875] 最近よく聞く「共働きなんだから家事も育児も生活費も完全に折半ね」という現代的な夫婦のあり方。
-でも、よーく考えてみてほしい。
-自分の身体をボロボロにして命がけで子供を産み（産む性別は選べない）、ホルモンバランスが狂った中で育児の初期を回し、その上で社会人としてのキャリアを維持して働き続け、家事も育児も「完全折半」って、冷静に計算してどう考えても女性側の負担が圧倒的に重すぎやしないか？
-「いや、男も稼いでるし家事も分担してるじゃん」と言うかもしれない。
-だけど、生物学的な初期ハンデ（妊娠・出産・授乳）を完全に無視して「はい、ここからスタートラインは一緒、あとは全部50:50ね」とされるのって、た</description><guid isPermaLink="false">https://anond.hatelabo.jp/20261025125143</guid><pubDate>Sun, 25 Oct 2026 08:09:59 +0000</pubDate></item><item><title>eMudhra事件でWebアプリ開発者が点検すべきこと</title><link>https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] 2026年10月、認証局eMudhraの中間CA秘密鍵が極端に弱く、公開情報から復元できる問題が明らかになりました。復元した秘密鍵を用いて攻撃者が他人のドメインの証明書を偽造できるため、インターネットの信頼基盤が揺らぐ事件です。
-ただし、この事件を正しく理解することはなかなか大変です。HTTPS通信の仕組みやPKIの枠組み、証明書ストアがどこに保存されているかを理解しないと、「フィッシングサイトが作りやすくなっただけでしょ？OSからルート証明書を削除すれば問題ないのかな？」程度だと問題を過小評価します。
-この記事では、証明書の仕組みを解説したうえで、アプリ開発者がどこを点検し、何から対処すべき</description><guid isPermaLink="false">https://qiita.com/autotaker1984/items/ef99b5791fe799a4ca66?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 08:43:16 +0000</pubDate></item><item><title>「もうプロンプトは書かない」　Claude Code生みの親が明かす“ループエンジニアリング”の衝撃</title><link>https://www.itmedia.co.jp/business/articles/2610/24/news009.html</link><description>[score: 0.878] 「もうプロンプトは書かない」 Claude Code生みの親が明かす“ループエンジニアリング”の衝撃 「私はもうClaudeにプロンプトを打っていない。ループが走っていて、そのループがClaudeにプロンプトを打ち、何をすべきか判断している。私の仕事はループを書くことだ」――。 AIコーディングツールの代名詞となっ... defiant %E3%82%B3%E3%83%BC%E3%83%89%E7%94%9F%E6%88%90AItechfeed この記事をおすすめしました</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2610/24/news009.html</guid><pubDate>Sun, 25 Oct 2026 03:30:21 +0000</pubDate></item><item><title>ECブランドがAI検索で埋もれないための5つのステップ</title><link>https://forbesjapan.com/articles/detail/107205?s=ns</link><description>[score: 0.879] 「アクセス数が落ちているが、EC向けのAI検索が原因なのだろうか」——こうした質問を筆者は常時受けており、データもそれを裏付けている。オーソリタス（Authoritas）によると、Googleの「AIによる概要（AI Overviews）」は、ページのオーガニック検索結果1位を平均で1200〜1500ピクセル押し下げている。これは、ほとんどのデバイスにおける画面全体に相当する高さだ。さらに悪いことに、エイチレフス（Ahrefs）のデータによると、AIによる概要が表示されるたびに、1位のオーガニッククリック率（CTR）は58%も低下するという。
-本ガイドでは、現在のEC事業者が直面しているこの最</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107205?s=ns</guid><pubDate>Sun, 25 Oct 2026 08:40:33 +0000</pubDate></item><item><title>日米で大規模実動演習 長射程ミサイルを初使用</title><link>https://news.web.nhk/newsweb/na/nd-20261025de65243</link><description>[score: 0.879] 今月、自衛隊やアメリカ軍は5万人以上が参加する大規模な実動演習を日本各地で実施しています。今回、防衛省が「反撃能力」としても使うとする長射程ミサイルが日米の実動演習で初めて使用され、25日、公開されま…
-あわせて読みたい
-長射程ミサイル 大規模演習に向け熊本市の駐屯地から搬出
-10月18日 17:45
-防衛省の研究費提供制度に過去最多560件の応募 根強い懸念も
-10月23日 19:36
-【台風30号情報】前線の活動活発に 西・東日本で大雨のおそれ
-10月25日 19:07
-和歌山県北部に「線状降水帯直前予測」
-10月25日 11:09
-消費税減税法案めぐり与野党国対委員長らが議論 NHK日曜</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261025de65243</guid><pubDate>Sun, 25 Oct 2026 09:27:24 +0000</pubDate></item><item><title>福島県知事選挙 開票や出口調査 当選情報はこちらで【速報】</title><link>https://news.web.nhk/newsweb/na/nd-20261025de65086</link><description>[score: 0.879] この記事は、現在リアルタイムで更新中です。
-東日本大震災からの復興など現職の県政運営の評価が争点となった福島県知事選挙は、現職の内堀雅雄氏（62）が新人6人を抑えて4回目の当選を確実にしました。
-福島県知事選挙の投票は、午後7時までに締め切…
-相次ぐ“独身偽装” 被害の実態を追う
-回答率わずか3％？アメリカの世論調査は信頼できるのか
-AI“なりすまし”どう防ぐ？ 相次ぐ流出 「本人認証」最前線
-隣の家の視線が不安…“目隠し”を求めて裁判に その結果は？
-高市政権1年 成果と課題 今後は
-供給不安はどうなった？ 原油の“いま”を探る
-『あなたは接客業に向いていない』なぜそこまで言われなければ
-「</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261025de65086</guid><pubDate>Sun, 25 Oct 2026 09:27:24 +0000</pubDate></item><item><title>弊社で50歳代後半から60歳代の社員が「業務の属人化」を強烈に推し進めている生き残りムーブ、なぜ問題になってないかというとほぼ全管理職がこれだから「気持ちはわかる」</title><link>https://togetter.com/li/2762629</link><description>[score: 0.879] 弊社で50歳代後半から60歳代の社員が「業務の属人化」を強烈に推し進めている生き残りムーブ、なぜ問題になってないかというとほぼ全管理職がこれだから「気持ちはわかる」 酒しか信じない特許事務所（仮） @exnp2ip 残念ながら弊社で全く問題になってないんだけど50歳代後半から60歳代社員が「業務の属人化」を強烈に推し進めている。 「私しかできない仕事だ。若い世代には任せられない。」と。 要は後がないおっさんの生き残りムーブ。 なぜ問題になってないかというとほぼ全管理職がこれだ...</description><guid isPermaLink="false">https://togetter.com/li/2762629</guid><pubDate>Sun, 25 Oct 2026 10:19:44 +0000</pubDate></item><item><title>メタのAI「Muse」が日本上陸、利便性とプライバシーを両立する「10の対策」</title><link>https://forbesjapan.com/articles/detail/106913?s=ns</link><description>[score: 0.881] メタ（Meta）は、利用者に代わって作業を進めるパーソナルAIエージェント「Muse」について、日本での提供を2026年10月23日に開始した。iOS、Android向けアプリとウェブ版で利用できる。
-MuseやChatGPTなど、利用者の情報を記憶する機能を持つAIサービスは、過去のやり取りから好みや事情を覚え、回答をその人に合わせて変えられる。例えば、短いメールを好むことや菜食主義者であること、家族がどんな贈り物を喜ぶか、誰の誕生日が近いかまで覚えておける。
-利用者に合わせてAIの回答や提案を調整する仕組みを「パーソナライズ（個人化）」と呼ぶ。便利な回答を得られるのは、AIが利用者に関する</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106913?s=ns</guid><pubDate>Sun, 25 Oct 2026 07:46:24 +0000</pubDate></item><item><title>世界最強だった米軍をここまで「弱く」「不人気に」した…ヘグセス国防長官の「罪状」（ニューズウィーク日本版） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/48ec2cddf3c9960b8b28e8e67b7c9aa5528d1311</link><description>[score: 0.881] 世界最強だった米軍をここまで「弱く」「不人気に」した…ヘグセス国防長官の「罪状」（ニューズウィーク日本版） - Yahoo!ニュース イラン戦争の泥沼化や強権的な言動で批判を浴びたヘグセス国防長官が、ついにトランプ大統領に見捨てられる？ 暴走するヘグセスが失脚する日は近い？ Eric Lee-Reuters10月初旬、米国防総省は英南部のフェアフォ... firststar_hateno ヘグセス氏、兵士のファッションチェックをしているかのようですわね。軍の強さは見た目ではなく、心に宿るものですのよ！</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/48ec2cddf3c9960b8b28e8e67b7c9aa5528d1311</guid><pubDate>Sun, 25 Oct 2026 07:23:11 +0000</pubDate></item><item><title>30年勤めた会社を退職して50歳、転職活動は正社員だとエントリー落ち続きなのでパートに切り替えるも20社エントリー落ち「年齢がこれほど重要とは」→アドバイスが集まる</title><link>https://togetter.com/li/2762500</link><description>[score: 0.882] 30年勤めた会社を退職して50歳、転職活動は正社員だとエントリー落ち続きなのでパートに切り替えるも20社エントリー落ち「年齢がこれほど重要とは」→アドバイスが集まる yui @hatimitsu7332 50歳。昨年 会社が閉鎖して30年勤めた会社を退社。 転職活動も正社員はエントリー落ち続きでパートにきりかえた。 8時間×週5のパートで現時点で20社エントリー落ち。スーパーの野菜カット・品出し・飲食店の仕込み・レジ・部品検査・事務・ピッキング全て面接までいけない😢 年齢がこれほど重要とは...</description><guid isPermaLink="false">https://togetter.com/li/2762500</guid><pubDate>Sun, 25 Oct 2026 09:38:54 +0000</pubDate></item><item><title>ハロウィーンイベントで突風 乳児含む4人けが 静岡 三島</title><link>https://news.web.nhk/newsweb/na/nd-20261025de65278</link><description>[score: 0.883] 静岡県三島市で行われていたハロウィーンのイベントの会場で、突風によって簡易テントが舞い上がり、生後6か月の女の子を含むあわせて4人がテントの支柱にあたるなどして軽いけがをしました。
-警察によります…
-あわせて読みたい
-【台風30号情報】前線の活動活発に 西・東日本で大雨のおそれ
-10月25日 19:07
-【速報中】日本シリーズ ソフトバンクが正木のHRで先制 DeNA戦
-10月25日 19:06
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 25 Oct 2026 21:09:47 +0000</lastBuildDate><item><title>台風30号 東シナ海で温帯低気圧に変わる(午後9時)</title><link>https://news.web.nhk/newsweb/na/nd-20261025de65365</link><description>[score: 0.862] 気象庁の観測によりますと、台風30号は午後9時に東シナ海で温帯低気圧に変わりました。
 消費税減税法案めぐり与野党国対委員長らが議論 NHK日曜討論
 10月25日 12:01
 誰にいくら支給？どうなる新たな支援金制度【経済コラム】
 10月25日 11:29
-オバマ元大統領が接戦州入り“歯</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261025de65278</guid><pubDate>Sun, 25 Oct 2026 09:56:27 +0000</pubDate></item><item><title>Haiku 5.5 に書かせた確信度は当てになるか。同じ306問を3回聞いたら、1問ずつはぶれても0.8以上は8割当たった</title><link>https://qiita.com/suwa_nobu/items/8dec346a727f0199fefb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] Hacker News で「Using LLM for confidence scoring is a bad idea」という記事が198ポイントを集めていました（2026-10-23 時点）。LLM が書く確信度は、正しさと照らして訓練されていない、という主張です。
-It was never scored on whether the confidence that it writes matches how often it is correct.
-同じ質問でも「0.85」のときと「0.7」のときがある、とも書かれています。ただ、記事に実験はありません。
-手元に、Claude Haiku</description><guid isPermaLink="false">https://qiita.com/suwa_nobu/items/8dec346a727f0199fefb?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 08:43:16 +0000</pubDate></item><item><title>働く人の「83％」が同僚ではなくAIに助けを求めている</title><link>https://forbesjapan.com/articles/detail/106224?s=ns</link><description>[score: 0.884] 同僚を人工知能（AI）に置き換えたいと強く思っているだろうか。もしそうなら、あなたは職場における2つの複雑な感情のうちの1つを経験している可能性が高い。コーチングプラットフォームBetterUp（ベターアップ）が最近実施した調査によると、職場で自分の価値をあまり感じていない人は、同僚をAIで代替する可能性が1.5倍高く、心理的安全性が低い人では2.1倍高い。職場で人々が内向的になれば、当然ながら協働もうまくいかなくなる。「企業はこれまで、個人がAIを導入・活用する準備ができているかどうかにあまりにも重点を置いてきたため、『木を見て森を見ず』の状態になっていた」と、BetterUp Labsのチ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106224?s=ns</guid><pubDate>Sun, 25 Oct 2026 09:43:23 +0000</pubDate></item><item><title>美容室チェーンの社長ヒアリングから学ぶドメイン駆動設計</title><link>https://qiita.com/gensan64311466/items/8e434fa991619f123f74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] はじめに
-プライベートで参加しているコミュニティの勉強会でドメイン駆動設計について学習しました。知識を学んでも中々、設計を使いこなすことができないため、AIを使用した架空の設定を通して実践していきます。AIが演じる美容室チェーンの社長にヒアリングを行い、その会社の業務を洗い出します。そして洗い出した業務をコア、支援、汎用に分類します。ドメインビジョンステートメントという他社にはない価値、その会社の強みを数行にまとめたものを作成します。
-目的
-会社の社長からのヒアリングを通して、業務を洗い出すだけでなく、競合他社に負けない強みを掘り出します。そして、コア業務を見抜く練習を行います。
-実践
-以下の</description><guid isPermaLink="false">https://qiita.com/gensan64311466/items/8e434fa991619f123f74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 08:43:16 +0000</pubDate></item><item><title>ソフトバンク 気象庁の緊急地震速報と津波警報の配信を再開</title><link>https://news.web.nhk/newsweb/na/nd-20261025de65231</link><description>[score: 0.886] 通信大手のソフトバンクは、システムの安全性を確認する緊急のメンテナンスのため配信を停止していた災害関連の速報メールについて、25日、気象庁の緊急地震速報と津波警報の配信を再開したと発表しました。
-…
-あわせて読みたい
+オバマ元大統領が接戦州入り“歯止めかける最後で最大の機会”
+10月25日 16:32
+揺らぐ米政治の“常識” 若者たちが問い直すイスラエル支持
+10月25日 11:47
 GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請
 10月24日 18:57
-【台風30号情報】前線の活動活発に 西・東日本で大雨のおそれ
-10月25日 19:07
-和歌山県北部に「線状降水帯直前予測」
-10月25日 11:09
-消費税減税法案めぐり与野党国対委員長らが議論 NHK日曜討論
-10月25日 12:01
-誰にいくら支給？どうなる新たな支援金制度【経済コラム】</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261025de65231</guid><pubDate>Sun, 25 Oct 2026 08:58:24 +0000</pubDate></item><item><title>「AI意思決定モデル」群雄割拠、OpenAIやクラウドフレアなどJev以降20モデルが登場</title><link>https://forbesjapan.com/articles/detail/106576?s=ns</link><description>[score: 0.886] 2026年9月に登場したTypeSafeのAIモデル「Jev」は、多くの大規模言語モデル（LLM）が想定していなかった用途で注目を集めた。会話文を長々と生成する代わりに、ソフトウェアが必要とする判断を直接返す機能だ。OpenAI、マイクロソフト、クラウドフレア、パープレキシティ（Perplexity）に加え、小規模な開発企業も競合製品を投入し、無料で利用できるモデルも登場した。
-会話文を生成せず確率を返す「意思決定AI」の仕組み
-独立系の開発者は、学習済みの重みを公開する「オープンウェイト」型モデルも提供している。自社のコンピューターで動かせるものもあり、意思決定に特化したAIは従来のLLMと</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106576?s=ns</guid><pubDate>Sun, 25 Oct 2026 05:52:41 +0000</pubDate></item><item><title>電子漫画「ピッコマ」 顧客のメールアドレス約100万件流出</title><link>https://news.web.nhk/newsweb/na/nd-20261025de65227</link><description>[score: 0.886] 電子漫画などを提供する「ピッコマ」の運営会社は、メールの配信で利用している企業が不正アクセスを受けたことから、顧客のメールアドレスおよそ100万件が流出したと発表しました。
-会社の発表によりますと…
+ウクライナ南部で限定停戦 大統領は人道状況改善に期待示す
+10月25日 8:16
+お笑</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261025de65365</guid><pubDate>Sun, 25 Oct 2026 13:17:35 +0000</pubDate></item><item><title>AIによる脆弱性発見が加速、専門家「混乱期の始まり」</title><link>https://www.afpbb.com/articles/-/3659236</link><description>[score: 0.862] AIによる脆弱性発見が加速、専門家「混乱期の始まり」 コンピューター画面のバイナリーコードに浮かぶパッドロックのシルエット（2026年10月21日撮影）。(c)Kirill KUDRYAVTSEV/AFP 【10月25日 AFP】世界中のウェブサイトの多くで使われているプログラミング言語「PHP」に二つの重大な脆弱（ぜいじゃく）性が見つかり、企業や政府機関は今週、修正プログラムの適用に追われた...</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3659236</guid><pubDate>Sun, 25 Oct 2026 11:11:10 +0000</pubDate></item><item><title>「山の木の実ぜんぶ乗せフルーツタルト」を作った動画をアップしたら、「サムネがAIっぽい」と批判されてしまった「知らないものはAIに見える時代になった？」</title><link>https://togetter.com/li/2762761</link><description>[score: 0.863] 「山の木の実ぜんぶ乗せフルーツタルト」を作った動画をアップしたら、「サムネがAIっぽい」と批判されてしまった「知らないものはAIに見える時代になった？」 野草研究所 @wild_grasses このサムネを『生成AI使うな！気持ち悪い』と断じてくる方がチラホラいますが、残念ながら完全実写なんですよね サルナシは実在する果実なのであって、『見た事ない物は偽物でキモい』って感覚が社会化してるなら、それは結構深刻だと思う 自然界はAIに負けず劣らず意味不明なモノで溢れてます...</description><guid isPermaLink="false">https://togetter.com/li/2762761</guid><pubDate>Sun, 25 Oct 2026 15:18:52 +0000</pubDate></item><item><title>外国語上達の早さの違い、聴覚の精度が左右　英大や東北大学など解明 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOSG221ZL0S6A021C2000000/</link><description>[score: 0.864] 外国語上達の早さの違い、聴覚の精度が左右 英大や東北大学など解明
+英ユニバーシティー・カレッジ・ロンドン（UCL）や東北大学などの研究グループは外国語の上達の早さに、耳から聞いた情報を処理する脳活動の違いがあることを明らかにした。語学習得の才能がある人はわずかな音の違いを聞き分ける力に優れ、母語の干渉を受けずに外国語を理解している可能性がある。
+外国語の学習では同じように練習しても上達の早さに大きな個人差がある。従来は留学経験や発音練習といった学習経験に焦点を当てて研究されてきた。ただ、近年は音の高さや響きなどの微細な違いを聞き分ける聴覚精度も習得能力に関係すると考えられている。
+研究グループ</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOSG221ZL0S6A021C2000000/</guid><pubDate>Sun, 25 Oct 2026 20:59:17 +0000</pubDate></item><item><title>斎藤知事支えた片山氏敗れる　自民系前市議が初当選　兵庫県議補選：朝日新聞</title><link>https://www.asahi.com/articles/ASVBQ45SSVBQOXIE01MM.html</link><description>[score: 0.865] 斎藤知事支えた片山氏敗れる 自民系前市議が初当選 兵庫県議補選
+自民党県議の死去に伴う兵庫県議補選高砂市選挙区（被選挙数1）が25日に投開票され、自民が推薦する前高砂市議の島津明香氏（38）が、斎藤元彦知事の側近だった元副知事の片山安孝氏（66）を破り、初当選した。当日有権者数は7万1432人、投票率は29.23%（前回32.59%）。
+開票の結果、島津氏は1万2943票を獲得。片山氏は7489票だった。
+選挙では、斎藤知事に対する姿勢が焦点の一つになった。
+島津氏は前高砂市議で26歳で初当選し、3期務めた。今回、「弔い選挙」を掲げる自民県連の推薦を受けたが、「幅広い支持を得たい」と無所属で臨</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVBQ45SSVBQOXIE01MM.html</guid><pubDate>Sun, 25 Oct 2026 20:37:43 +0000</pubDate></item><item><title>デザインのコンセプト練習4</title><link>https://qiita.com/a_kawasaki/items/3ebff5b3927c4ff534e5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.865] デザイン練習続き
+先端的な未来感で先月ラフを描いたので、今月はラフを詰めていきました。
+作っていくうちに、色はこっちの方がイメージに近いなと思い、先月のラフでは白っぽかったですが、やっぱり黒基調に転向させました。
+デザインの意図を言語化する
+街並みの上にネットワークパターン
+都市部と技術の接続をイメージしました。見た人が未来都市で先端技術を使って働くイメージを沸かせられるように、ビル群のイラストもあえて少し変わった形に強調してます。そして、ここで前衛アートの概念（既存のものとは違う理解しがたいイメージ）を利用してます。よく見る既存のビルの形だとありきたりなので、あえて少しだけ変わった形にするこ</description><guid isPermaLink="false">https://qiita.com/a_kawasaki/items/3ebff5b3927c4ff534e5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 20:14:13 +0000</pubDate></item><item><title>GMOへの攻撃者、利用者PCの乗っ取りを画策　会社は注意喚起 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC250PP0V21C26A0000000/</link><description>[score: 0.866] この記事は会員限定記事です
+GMOへの攻撃者、利用者PCの乗っ取りを画策 会社は注意喚起
+GMOインターネットグループのクラウドサービスが不正アクセスを受けた問題で、攻撃者を名乗る人物と同社との駆け引きが続いている。攻撃者側は27日正午までに身代金を支払わなければサービス利用者のパソコン（PC）を乗っ取ると予告した。PC内の個人的な情報を拡散すると脅し、圧力を強めている。
+身代金支払期限は27日正午
+攻撃者側は24日、自らのウェブサイト上でGMO側への要求内容を公開した。ランサムウエ...
+インターネット上に個人の氏名や住所、メールアドレスなど個人情報が流出する事案が相次いでいます。最新のニュ</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC250PP0V21C26A0000000/</guid><pubDate>Sun, 25 Oct 2026 12:09:12 +0000</pubDate></item><item><title>【2026年10月最新】Copilotの明日から使える便利なアップデートをわかりやすく解説します</title><link>https://www.youtube.com/watch?v=WoWK_RdpL3k</link><description>[score: 0.866] About
+Press
+Copyright
+Contact us
+Creators
+Advertise
+Developers
+Terms
+Privacy
+Policy &amp; Safety
+How YouTube works
+Test new features
+NFL Sunday Ticket
+© 2026 Google LLC</description><guid isPermaLink="false">https://www.youtube.com/watch?v=WoWK_RdpL3k</guid><pubDate>Sun, 25 Oct 2026 19:03:25 +0000</pubDate></item><item><title>美容室ヒアリングからみるコアドメインの考え方</title><link>https://qiita.com/o68606007/items/1d2493da81e969fc5e02?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.867] はじめに
+ドメイン駆動設計についての記事です。
+今回は業務をサブ、支援、汎用の3つに分類することを行いました。
+背景・目的
+事業（ビジネスドメイン）は、各業務ごと（サブドメイン）に分類できます。
+そのうち、競争力を生み出している部分がサブコアドメイン、サブコアドメインを支える業務が支援ドメイン、その他が汎用ドメインとなります。
+下記のようにも分類されます。
+練習として、実際に課題を15分間で挑戦してみました。もし時間があればやってみてください。
+課題
+Chatgptに以下のプロンプトを出しました。もし時間があればやってみてください。
+あなたは美容室を5店舗経営している社長です。
+私はシステム開</description><guid isPermaLink="false">https://qiita.com/o68606007/items/1d2493da81e969fc5e02?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 20:14:13 +0000</pubDate></item><item><title>「スマホを向けるだけ」で麻雀の点数を出したくて、牌認識をブラウザの中だけで動かした</title><link>https://qiita.com/hiroshiasayadev-prog/items/d792cc85dde2d7cfd75c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.870] はじめに
+麻雀の点数計算は面倒です。符と翻を数え、親か子か、ツモかロンかで表を引く。覚えていても間違えますし、間違えるとそのあとのカラオケ代が変わります。
+牌を写真に撮って点数を出すサービスはすでにありましたが、対局中に使うと、撮って、認識させて、間違っていたら直す、という手順が毎回挟まります。欲しかったのは、手牌にスマホを向けておくだけで点数まで進んでくれるものでした。それで、カメラを向けるだけで手牌・副露・ドラを読み取り、点数計算まで進むWebアプリ「mjtensu」を作りました。
+この記事は、作り始めに要求をどう置き、そこから構成と評価をどう決めたかの全体像です。モデルの軽量化や評価基盤</description><guid isPermaLink="false">https://qiita.com/hiroshiasayadev-prog/items/d792cc85dde2d7cfd75c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 20:14:13 +0000</pubDate></item><item><title>壊れた計算式を「AIなし」で直すマクロを作ってもらった話 ── #DIV/0! が 0.17秒で消えた朝</title><link>https://qiita.com/shu15511551/items/686fbd8bf5366fc150f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.872] はじめに
+前回の記事は、マクロのコードを読まなくなった私の机の上で、散らばっていた窓を一枚にまとめた「統合マクロフォーム」の話でした。
+あの記事のあと、番頭役のオーパス先生（Claude Opus）がバリバリと働いてくれていたのですが……またまたやってきました、使用量制限です。
+上限に達してしまい、オーパス先生はしばしのお休みに入ってしまいました。
+というわけで、留守を預かる私の机の前には、再び「Google ブラザーズ」の二人に座ってもらっています。知恵袋として設計や指示を整えてくれる兄貴分の「ゴンちゃん」（Gemini 4 Argon）と、キーボードを叩いて猛烈なスピードでコードを直してく</description><guid isPermaLink="false">https://qiita.com/shu15511551/items/686fbd8bf5366fc150f5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 20:14:13 +0000</pubDate></item><item><title>ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka</title><link>https://note.com/npaka/n/na5ad6472d68c</link><description>[score: 0.872] ソフトウェアの脆弱性情報をいち早く入手する - CVE・CISA KEV・JPCERT/CC・OSV｜npaka 1. はじめにソフトウェアの「脆弱性」は、悪用されると不正アクセスや情報漏洩につながる危険性があります。そのため、脆弱性情報をいち早く入手し、対策することが重要です。 今回は、世界中の脆弱性情報を確認できる代表的な4つの情報源と、その活用方法を紹介します。 2. 脆弱性情報が公開されるまでの流れ脆弱性情報...</description><guid isPermaLink="false">https://note.com/npaka/n/na5ad6472d68c</guid><pubDate>Sun, 25 Oct 2026 19:55:26 +0000</pubDate></item><item><title>エージェントとワークフローが混じってしまったので責務を分け直した</title><link>https://qiita.com/Tachiuo/items/3c9a6bc9e1eb2b05a346?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.873] AIエージェントを使って、情報収集やポッドキャスト制作などを自動化しています。
+最初は、仕事に必要な能力を作り、それらを順番につなげればよいと考えていました。ところが、安定して動かすために条件や検査を足していくうちに、エージェントとワークフローが混じってしまいました。
+たとえば、ある能力を別の仕事から呼び出そうとすると、元のワークフローの前工程や資料一式まで必要になる。一方で、実行を管理するはずの仕組みが、何を比較し、何を採用するかまで決めている。
+動かすための修正はしているのに、直す場所が増えていく。今回の改造では、個別の不具合を直す前に、この責務の分け方を見直しました。
+この記事では、その</description><guid isPermaLink="false">https://qiita.com/Tachiuo/items/3c9a6bc9e1eb2b05a346?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 20:14:13 +0000</pubDate></item><item><title>長崎 漁港で男性死亡 台風に備え船を見に行ったか</title><link>https://news.web.nhk/newsweb/na/nd-20261025de65387</link><description>[score: 0.875] 1 / 1
+25日午後、長崎県南島原市の漁港で、70代の漁師の男性が海に沈んでいるのが発見され、死亡しました。警察は、男性が台風に備えて船の様子を見に行き、何らかの理由で海に転落した可能性があると見て、当時の状況…
+注目ワード
 あわせて読みたい
+台風30号は温帯低気圧に 西～東日本で大雨のおそれ
+10月26日 5:28
+ソフトバンクが2試合続けて延長制す 川村が決勝HR【詳報】
+10月26日 4:52
+福島県知事選挙 現職の内堀雅雄氏が4回目の当選
+10月26日 5:16
+新潟市長選挙 現職の中原八一氏 3回目の当選
+10月26日 1:02
+那覇市長選挙 現職の知念覚氏 2回目の当選
+10月2</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261025de65387</guid><pubDate>Sun, 25 Oct 2026 19:09:59 +0000</pubDate></item><item><title>PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside</title><link>https://inside.pixiv.blog/2026/10/22/193321</link><description>[score: 0.875] PHP 8.5.12の緊急リリースにpixivはどう対応したか - pixiv inside こんにちは、Platform Division Infrastructure Unitのpicopicoです。 2026年10月21日、PHPに深刻な脆弱性（通称PHP2Shell）が見つかり、緊急のセキュリティリリースが予告されました。今回の脆弱性への対応にあ... wasai PHPpixiv%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3</description><guid isPermaLink="false">https://inside.pixiv.blog/2026/10/22/193321</guid><pubDate>Sun, 25 Oct 2026 12:30:34 +0000</pubDate></item><item><title>GMO社長 能動的サイバー防御「国民生活への影響照らし検討を」</title><link>https://news.web.nhk/newsweb/na/nd-20261025de65362</link><description>[score: 0.876] 1 / 1
+GMOインターネットグループの熊谷正寿社長は、不正アクセスの問題を受けて「能動的サイバー防御」を政府に要請したことについて、自身のブログで「国民生活への影響に照らして適用可能性を検討してもらいたい」と…
+あわせて読みたい
+政府に緊急要請のGMO 被害拡大防げるか 利用者に呼びかけ強化
+10月25日 8:31
 GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請
 10月24日 18:57
-【台風30号情報】前線の活動活発に 西・東日本で大雨のおそれ
-10月25日 19:07
-和歌山県北部に「線状降水帯直前予測」
-10月25日 11:09
-消費税減税法案めぐり与野党国対委員長らが議論 NHK日曜討論
-10月25日 12:01
-誰にいくら支給？どうなる新たな支援金制度【経済コラム】</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261025de65227</guid><pubDate>Sun, 25 Oct 2026 08:58:24 +0000</pubDate></item><item><title>「コードレビューは死ぬ、ターミナルも消える」——海外著名エンジニアが予測するAI時代のソフトウェア開発の未来</title><link>https://qiita.com/softbase/items/fb72de63c975fcbbd2f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] AIはソフトウェア開発を効率化するだけなのか。それとも、ソフトウェアエンジニアリングという仕事そのものを根本から変えてしまうのか。
-2026年9月19日、ソフトウェアエンジニアの Thorsten Ball氏 が、X（旧Twitter）で「What I believe about the future of software development（私が考えるソフトウェア開発の未来）」という文章を公開しました。
-その内容は、従来の開発常識を覆す、非常に大胆なものです。
-例えば、以下のような予測が提示されています。
-- コードレビューは消滅する
-- ユニットテストも不要になるかもしれない
-- コ</description><guid isPermaLink="false">https://qiita.com/softbase/items/fb72de63c975fcbbd2f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 08:43:16 +0000</pubDate></item><item><title>GMO、政府へ能動的サイバー防御「要請」　不正アクセスで情報流出：朝日新聞</title><link>https://www.asahi.com/articles/ASVBS12XPVBSUTIL002M.html</link><description>[score: 0.889] GMO、政府へ能動的サイバー防御「要請」 不正アクセスで情報流出：朝日新聞 GMOインターネットが提供するFX（外国為替証拠金取引）関連のサービスが不正アクセスを受けた問題で、同社は24日、顧客の情報が外部に持ち出されたことを認めたうえで、サービスの利用者全員に見舞金5千円… netafull “警察と自衛隊が攻撃元のコンピューターに侵入して「無害化」を狙うが、実行するには攻撃経路を特定して攻撃元をたどる必要がある。”</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVBS12XPVBSUTIL002M.html</guid><pubDate>Sun, 25 Oct 2026 06:28:38 +0000</pubDate></item><item><title>知らぬ間にＦＸ「取引」、一瞬で１１９万円消失…ＧＭＯに安心感あったのに「これ現実なの？」</title><link>https://www.yomiuri.co.jp/national/20261024-GYT1T00360/</link><description>[score: 0.891] 知らぬ間にＦＸ「取引」、一瞬で１１９万円消失…ＧＭＯに安心感あったのに「これ現実なの？」
-完了しました
-一瞬で１１９万円が――。ＧＭＯインターネットのクラウドサービスが不正アクセスを受けた問題では、ＦＸ（外国為替証拠金）取引を行う個人投資家らが、将来の蓄えや子どもの教育費などを目的に運用していた資産の一部を一夜にして失った。個人情報が公開されるリスクもあり、不安を募らせている。（村上藍、木村誠）
-頭真っ白に
-「これ、現実なの？」
-大阪府の会社員女性（３７）は２２日朝、スマートフォンで自身のＦＸ口座を見て頭が真っ白になった。前日には約３００万円あった残高が、約１２０万円に減っていた。
-取引履歴を</description><guid isPermaLink="false">https://www.yomiuri.co.jp/national/20261024-GYT1T00360/</guid><pubDate>Sun, 25 Oct 2026 03:31:11 +0000</pubDate></item><item><title>自民“比例31議席削減 法案成立を” 野党 理解示す声や異論も</title><link>https://news.web.nhk/newsweb/na/nd-20261025de65143</link><description>[score: 0.892] 衆議院議員の定数削減をめぐって、NHKの日曜討論に、衆議院に議席を持つ与野党の国会対策委員長らが出演し、自民党は比例代表で31議席を削減するなどとした案で合意できれば今の国会に法案を提出し、成立を目指…
+電子漫画「ピッコマ」 顧客のメールアドレス約100万件流出
+10月25日 17:49
+ゼレンスキー氏“通信は復旧” マスク氏“利用規約に違反”
+10月25日 19:24
+ソフトバンク 気象庁</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261025de65362</guid><pubDate>Sun, 25 Oct 2026 13:17:35 +0000</pubDate></item><item><title>バドミントン協会がスポーツと自然環境学ぶ勉強会を初開催</title><link>https://news.web.nhk/newsweb/na/nd-20261025de65369</link><description>[score: 0.877] 1 / 1
+スポーツと自然環境の関係性やその保護について子どもたちに学んでもらおうと、バドミントンの競技団体が、小学生を対象にした勉強会を初めて開きました。
+バドミントンでは、競技で使用される「シャトル」に水…
 あわせて読みたい
-消費税減税法案めぐり与野党国対委員長らが議論 NHK日曜討論
-10月25日 12:01
-【台風30号情報】前線の活動活発に 西・東日本で大雨のおそれ
-10月25日 19:07
-GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請
-10月24日 18:57
-フランスで再び大規模なデモ 内相“暴力封じ込めた”強調
-10月25日 6:17
-キム総書記訪中 米朝交渉再開可能性</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261025de65143</guid><pubDate>Sun, 25 Oct 2026 05:59:32 +0000</pubDate></item><item><title>那覇の女性強盗殺人事件 米海兵隊員を起訴</title><link>https://news.web.nhk/newsweb/na/nd-20261025de65279</link><description>[score: 0.893] 沖縄に駐留するアメリカ海兵隊の20歳の兵士が那覇市で女性を殺害し、財布などを奪ったとして逮捕された事件で、検察は、25日、この兵士を強盗殺人の罪で起訴しました。
-起訴されたのは、沖縄県の普天間基地…
-相次ぐ“独身偽装” 被害の実態を追う
-回答率わずか3％？アメリカの世論調査は信頼できるのか
-AI“なりすまし”どう防ぐ？ 相次ぐ流出 「本人認証」最前線
-隣の家の視線が不安…“目隠し”を求めて裁判に その結果は？
-高市政権1年 成果と課題 今後は
-供給不安はどうなった？ 原油の“いま”を探る
-『あなたは接客業に向いていない』なぜそこまで言われなければ
-「声を上げ続けて」 500日拘束された記者が語</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261025de65279</guid><pubDate>Sun, 25 Oct 2026 09:56:27 +0000</pubDate></item><item><title>知らぬ間にＦＸ「取引」、一瞬で１１９万円消失…ＧＭＯに安心感あったのに「これ現実なの？」（読売新聞オンライン） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/200278051d4e847b124b82018c7edbd0e16dc553</link><description>[score: 0.895] 知らぬ間にＦＸ「取引」、一瞬で１１９万円消失…ＧＭＯに安心感あったのに「これ現実なの？」（読売新聞オンライン） - Yahoo!ニュース １１９万円超の損失が出た女性の取引画面＝女性提供（読売新聞） 一瞬で１１９万円が――。ＧＭＯインターネットのクラウドサービスが不正アクセスを受けた問題では、ＦＸ（外国為替証拠金）取引を行う個人投資家らが、将来の蓄えや子どもの教育費などを目的に運用していた資産の一部を一夜にして失った。個人情報が公開...</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/200278051d4e847b124b82018c7edbd0e16dc553</guid><pubDate>Sun, 25 Oct 2026 05:29:47 +0000</pubDate></item></channel></rss>
+台風30号は温帯低気圧に 西～東日本で大雨のおそれ
+10月26日 5:28
+ソフトバンクが2試合続けて延長制す 川村が決勝HR【詳報】
+10月26日 4:52
+福島県知事選挙 現職の内堀雅雄氏が4回目の当選
+10月26日 5:16
+新潟市長選挙 現職の中原八一氏 3回目の当選
+10月26日 1:02
+那覇市長選挙 現職の知念覚氏 2回目の当選
+10月26日 1:14
+</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261025de65369</guid><pubDate>Sun, 25 Oct 2026 19:09:59 +0000</pubDate></item><item><title>著名人なりすまし詐欺広告拡散　Google、Metaなど大手IT企業5社に対策要請　デジタル庁など（2026年8月7日掲載）｜日テレNEWS NNN</title><link>https://news.ntv.co.jp/category/economy/2edffeb0367c479389dddaf8b41416fd</link><description>[score: 0.877] 著名人なりすまし詐欺広告拡散 Google、Metaなど大手IT企業5社に対策要請 デジタル庁など
+SNSなどで著名人になりすました詐欺広告が拡散されている問題について、デジタル庁などが、GoogleやMetaなどの大手IT企業5社に対して、対策の実施を要請しました。
+著名人の肖像や音声を無断で利用した「なりすまし詐欺広告」がSNSなどで拡散されている問題をめぐり、デジタル庁や警察庁などは、合同で大手IT企業に対策を要請しました。
+要請を受けたのは、Google、LINEヤフー、Meta、TikTok Japan、Xの5社です。
+具体的には、広告主の本人確認をマイナンバーカードなどで確実に実施</description><guid isPermaLink="false">https://news.ntv.co.jp/category/economy/2edffeb0367c479389dddaf8b41416fd</guid><pubDate>Sun, 25 Oct 2026 18:06:13 +0000</pubDate></item><item><title>LLM が書いた返信を人の承認なしで送る前に「事実台帳に無い主張」を列挙させて止める（fail-closed の関門）</title><link>https://qiita.com/suikou0/items/d77b4a2158248f618849?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.879] SNS で質問している人への返信の下書きを LLM に作らせ、人が1本ずつ承認してから送る運用をしていました。ところが、承認待ちの間に候補が古くなって、見送りの半分近くが「間に合わなかった」ものでした。
+そこで承認をやめて自動で送ることにしました。ただ、人の目の代わりになる検査が要ります。いちばん怖いのは、それらしいけれど確かめていない事実を言い切ることです。この記事は、LLM に「台帳に無い主張」を列挙させて、1つでもあれば送らない関門の作り方です。
+問題：既存の検査は「知っている誤り」しか止められない
+検査はすでに3つありました。
+- 文面の検査：長さ・宣伝の語・URL・決まり文句など
+-</description><guid isPermaLink="false">https://qiita.com/suikou0/items/d77b4a2158248f618849?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 20:14:13 +0000</pubDate></item><item><title>【個人開発】SSR / SSG / ISRとキャッシュを使い分けた技術ブログを作りました【Next.js/TypeScript/microCMS】</title><link>https://qiita.com/takahiro_honda/items/19f15f755afbd922afe7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] はじめに
+Next.js 16 × microCMS × Vercelで、個人の技術ブログ 「KAIZEN 技術ブログ」 を作りました。その感想を書いていきます。
+なぜ作ったのか
+-
+プラットフォーム依存ではない発信する場所がほしかった
+- プラットフォーム依存ではなく、自分のドメインでコンテンツを育てるメディアを1から設計・構築してみたかったため作成に至りました。
+-
+Next.jsのレンダリングとキャッシュのアウトプット
+- SSR / SSG / ISRやキャッシュの技術、より良いディレクトリ構成の検証、各設計のアウトプットも兼ねて作成しております。
+記事を書くだけならQiitaやZen</description><guid isPermaLink="false">https://qiita.com/takahiro_honda/items/19f15f755afbd922afe7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 20:14:13 +0000</pubDate></item><item><title>Webは誰のためのものか？ AIエージェント急増で「人間優先」揺らぐ</title><link>https://www.technologyreview.jp/s/393467/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/</link><description>[score: 0.880] You need to enable JavaScript to run this app.</description><guid isPermaLink="false">https://www.technologyreview.jp/s/393467/making-the-internet-better-for-ai-agents-might-make-it-worse-for-everyone-else/</guid><pubDate>Sun, 25 Oct 2026 21:00:37 +0000</pubDate></item><item><title>高市内閣支持率、横ばい62%　簗前農相の辞任「首相対応に問題」48% - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUA217630R21C26A0000000/</link><description>[score: 0.881] 高市内閣支持率、横ばい62% 簗前農相の辞任「首相対応に問題」48% - 日本経済新聞 日本経済新聞社とテレビ東京は23~25日に世論調査をした。高市早苗内閣の支持率は62%と9月の前回調査から横ばいだった。不支持は31%で2ポイント低下した。簗和生氏の農相辞任に関して首相の対応に「問題があったと思う」は48%だった。内閣を「支持する」と答えたのは自民党支持層で89%と前回からほぼ横ばいだった。野党支...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUA217630R21C26A0000000/</guid><pubDate>Sun, 25 Oct 2026 20:26:51 +0000</pubDate></item><item><title>ラズパイ初心者が、第一子誕生をきっかけにClaudeとの壁打ちだけで見守りロボットを作ってみた(1) 設計編 ― ぬいぐるみ案をAIとの相談で自ら却下するまで</title><link>https://qiita.com/Haradasn/items/5ca041c6fdf418092d59?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.882] はじめに
+先日、第一子が生まれました。
+夜中に何度も起きてはベビーベッドをのぞきに行く生活の中で、ふと「市販のベビーモニターって、結局ただの監視カメラなんだよな」と思うようになりました。異常があれば通知してくれるのはありがたいけれど、もう少し、赤ちゃんのそばに"温かいもの"がいてくれたらいいのに——そんな思いつきから、赤ちゃんに語りかけてくれる見守りロボットを作ってみることにしました。
+最終的に出来上がったものはこんな感じです(動きを検知すると、顔を向けて見に来てくれます)。
+この記事では、ここに至るまでの設計・組み立て・デバッグの全過程を5回に分けて書いていきます。
+せっかくなので、設計から</description><guid isPermaLink="false">https://qiita.com/Haradasn/items/5ca041c6fdf418092d59?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 20:14:13 +0000</pubDate></item><item><title>【解説】クリーンアーキテクチャとは何か？ 炎上議論はなぜ起きるのか？</title><link>https://qiita.com/Sicut_study/items/3c1995d2a3f1695a18a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] はじめに
+こんにちは、Watanabe Jin(@Sicut_study)です。
+2026年8月末、クリーンアーキテクチャでコードが汚くなったというYouTube動画が投稿されました。
+公開から間もなく2.3万回再生され、コメント欄には議論が集まりました。
+Xでもそこから火が付き、連日議論されていました。
+この議論、クリーンアーキテクチャに限らず、ときどきSNSで起きていませんか？
+お互いに正しそうなことを言っている。
+なのに、わかりあえていない。
+そしてSNSの議論を見るたびに思うのです。
+「本当は何が正しいのか」
+「なぜこのような議論が、何度も同じ型で起きるのか」
+「どこがズレているのか、</description><guid isPermaLink="false">https://qiita.com/Sicut_study/items/3c1995d2a3f1695a18a7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 20:14:13 +0000</pubDate></item><item><title>AI に資料を毎回貼るな！ファイル・SKILL・AGENTS.md 活用でトークン課金最大 6 割減？ 6 つの方法を試してみた</title><link>https://qiita.com/songchong/items/235bed0f8c72f268477e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] 我々が運営する IT連携マップの技術ガイド（プロンプトキャッシュとは など）では、「前のやり取りと先頭が同じ部分はキャッシュから読まれ、料金が大きく下がる」という仕組みを解説してきました。プロンプトキャッシュは、AI エージェントと AI サービス側（Anthropic や Google など）が自動で使います。一方、資料や指示を「ユーザープロンプトに直接貼る」「外部ファイル（article.md）」「SKILL」「AGENTS.md」など、渡し方の違いによってトークンの消費はどう変わるのかという疑問が、常に残ります。
+そこで IT連携マップ編集部は、資料と指示の 6 つの渡し方を、Claud</description><guid isPermaLink="false">https://qiita.com/songchong/items/235bed0f8c72f268477e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 20:14:13 +0000</pubDate></item><item><title>トークン代 9 割減？プロンプトキャッシュの仕組みと効果の実測 — 保持時間が過ぎるとコスト 11 倍に</title><link>https://qiita.com/songchong/items/7144594b0ad9529a168b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] AI エージェントの料金の話では、よく「プロンプトキャッシュで入力が 9 割安くなる」と言われます。上の図のとおり、キャッシュから読む料金は、Claude Sonnet 5.5 で通常の入力の 0.05 倍（95% 引き）、OpenAI の GPT-5.6 以降と Gemini 3.8 Flash で 0.1 倍（90% 引き）です。では、プロンプトキャッシュはどう働き、実際の会話では、どの部分が安くなり、どの部分で費用がかかっているのでしょうか。作業を中断して時間があくと、どうなるのでしょうか。
+IT連携マップ編集部は、各社の公式文書を読み、Claude Code（サブスクリプション）と A</description><guid isPermaLink="false">https://qiita.com/songchong/items/7144594b0ad9529a168b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 20:14:13 +0000</pubDate></item><item><title>Claude Code の「ブロック済み」を1か月信じていた。フックは何も止めていなかった</title><link>https://qiita.com/devoctane/items/eb3ac408041b2f04c780?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.893] 自分のリポジトリの CLAUDE.md
+に、こう書いていた。
+PreToolUse Hook で
+rm -rf
+/git push --force
+/git reset --hard
+をブロック済み。
+2026-10-25、この一文が嘘だったと分かった。フックは1度も何も止めていなかった。書いた当時の自分は、止まるところを1回も見ていない。見ないまま、約1か月その一文を信じていた。
+技術的な中身は短い。ただ、失敗の本体は技術ではなく「検証せずに"済み"と書いたこと」にあるので、その流れを順に書く。
+旧設定
+効いていなかったのは、これだ。
+if echo "$CLAUDE_TOOL_INPUT"</description><guid isPermaLink="false">https://qiita.com/devoctane/items/eb3ac408041b2f04c780?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 20:14:13 +0000</pubDate></item><item><title>AIに「答えを言わないで」と頼んでRustを学んだ2週間の日記 ― 生成AI時代に、新しい技術をちゃんと身につけるためのメモ</title><link>https://qiita.com/zumiraku/items/1c456a902613f281356c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.896] 2週間前の日曜日から、Rust の勉強を始めました。
+仕事では PHP と Python と TypeScript が中心で、Rust はずっと「いつかやる」リストに入っていたものです。今回、重い腰を上げたのには理由があります。
+最近、新しいライブラリやフレームワークを触るとき、AI に聞けばだいたい動くコードがすぐ出てきます。それで仕事は回る。でも、1か月後に同じことをもう一度やろうとすると、何ひとつ覚えていない。そういうことが、ここ1年でずいぶん増えた気がしていました。
+AI のおかげで「できる」ことは増えたのに、「分かる」ことは増えていないのではないか。
+それを確かめたくて、ひとつルール</description><guid isPermaLink="false">https://qiita.com/zumiraku/items/1c456a902613f281356c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 20:14:13 +0000</pubDate></item><item><title>人間がコードを書く時代は終わる</title><link>https://qiita.com/sogenasano/items/53f85a23a6c83af61484?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.898] AI にコードを書かせるようになって、3年ほどが経った。
+最初はチャット欄にコードを貼る使い方だったが、その間に、自分の仕事のやり方はまるごと変わった。今は設計も実装もまず AI に任せ、自分はその理解に追いつく側に回っている。
+ここでいう AI は、チャットで質問に答えてくれる AI のことではない。Cline 以降の、自分でコードを読み、どこを直すかを考え、実装まで終わらせるコーディングエージェントのことだ。
+こうした変化の先で、人間がコードを書く時代は終わると私は考えている。現場で毎日 AI と働いている一人のエンジニアとして、そう考えるに至った経緯と、それでも今日をどう働くかについて書</description><guid isPermaLink="false">https://qiita.com/sogenasano/items/53f85a23a6c83af61484?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 20:14:13 +0000</pubDate></item><item><title>【個人開発】AI課金沼にサヨナラ：月20ドルで最新Gemini 4 Argon &amp; Claude Sonnet 5.5をフル活用する僕のリアル構成</title><link>https://qiita.com/hooosberg/items/d9c77e58ec3ae5f8ade1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.900] 個人開発や副業プロジェクトを進めていると、気づけばChatGPT Plus、Claude Proなど複数のサブスクに毎月100〜200ドルも溶かしている人が少なくありません。
+しかし、ログを冷静に振り返ると、高価なフロンティアモデルの枠を簡単なリファクタリングや型変換などの些細な作業で無駄に消費しているケースが大半です。
+今回は、僕が実際に毎日運用している「月20ドル以内」のミニマルかつ堅牢なAI開発スタックをシェアします。
+1. なぜ単体のClaude Pro課金を卒業したのか？
+海外の個人開発者にとって、ブラウザ版のClaude Proに頼る運用は「すでにアカウント停止されたか、これから停</description><guid isPermaLink="false">https://qiita.com/hooosberg/items/d9c77e58ec3ae5f8ade1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 25 Oct 2026 20:14:13 +0000</pubDate></item></channel></rss>
