@@ -1,110 +1,156 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 25 Oct 2026 22:57:06 +0000</lastBuildDate><item><title>シスコ社長、個人向けAIエージェントで年間1000ドル超のサブスク料金を節約</title><link>https://www.businessinsider.jp/article/2610cisco-president-jeetu-patel-personal-ai-agents-cancel-subscriptions/</link><description>[score: 0.871] - シスコの社長兼最高製品責任者（CPO）であるジートゥ・パテルは、最も人気のある個人向けAIエージェントを4〜5種類使っていると述べた。
-- そのうちの1つは月額20ドルだが、最近、サブスクリプション料金を1000ドル以上、節約することにつながった。
-- 一方、個人向けAIエージェントに仕事用のツールやリソースへのアクセスを与えないことが重要だと述べた。
-思いがけない、何の請求かわからないサブスクリプション料金に悩まされているなら、シスコ（Cisco）の社長兼最高製品責任者（CPO）であるジートゥ・パテル（Jeetu Patel）も同じだ。
-パテルはBusiness Insiderに対し、メ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610cisco-president-jeetu-patel-personal-ai-agents-cancel-subscriptions/</guid><pubDate>Sun, 25 Oct 2026 21:26:45 +0000</pubDate></item><item><title>Event-Driven Architecture という言葉が指す4つのパターン</title><link>https://zenn.dev/moriwm77/articles/20250308-eda-by-martin-fowler</link><description>[score: 0.871] Event-Driven Architecture という言葉が指す4つのパターン Event-Driven Architecture という言葉が指す4つのパターン この記事では、Martin Fowler氏のGOTO 2017での講演で紹介された「Event-Driven Architecture」という言葉が指しうる4つのパターンを要約/解説します。... yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://zenn.dev/moriwm77/articles/20250308-eda-by-martin-fowler</guid><pubDate>Sun, 25 Oct 2026 21:59:19 +0000</pubDate></item><item><title>iPhone「ゴリラガラス」のコーニング、AI特需でも株価100分の1の悪夢を忘れない</title><link>https://forbesjapan.com/articles/detail/106874?s=ns</link><description>[score: 0.873] 1851年創業の米ガラス大手コーニングは、アップルのiPhoneやサムスンのスマートフォン「Galaxy」シリーズなどに使われる強化ガラス「ゴリラガラス（Corning Gorilla Glass）」で知られる。その同社が、生成AIブームを追い風に急成長している。
-現在の成長を牽引するのは、スマートフォン向けガラスではない。サーバーやデータセンターをつなぐ通信ケーブルに使われる、細いガラス繊維「光ファイバー」だ。2026年上半期には、光ファイバーが売上高の45％を占めた。
-しかし、コーニングには通信網の建設ブームが崩壊した苦い経験がある。1990年代末から2000年代初め、インターネットの普及</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106874?s=ns</guid><pubDate>Sun, 25 Oct 2026 22:14:22 +0000</pubDate></item><item><title>バンク・オブ・アメリカは1000人のコンサルタントを雇った…暴走AIエージェントによるサイバー攻撃対策を強化</title><link>https://www.businessinsider.jp/article/2610-bank-of-america-hired-contractors-protect-software-rogue-ai-agents/</link><description>[score: 0.874] - アメリカ第2位の銀行が、強力なAIモデルから自らを守る備えを固めている。
-- バンク・オブ・アメリカは、悪用されかねないソフトウェアの弱点を修復するため、1000人のコンサルタントを雇った。
-- 高性能化し、暴走するAIエージェントの存在が、ここ数カ月で大きな懸念材料になっている。
-バンク・オブ・アメリカ（Bank of America）は、強力なAIモデルに備えて防御の強化を進めている。
-CEOのブライアン・モイニハン（Brian Moynihan）氏は、10月14日に開かれたアナリスト向けの決算説明会で、外部コンサルタント1000人を追加で雇ったことを明らかにした。彼が「Mythos </description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-bank-of-america-hired-contractors-protect-software-rogue-ai-agents/</guid><pubDate>Sun, 25 Oct 2026 21:26:45 +0000</pubDate></item><item><title>あすイスラエル総選挙 ネタニヤフ首相政権維持できるか焦点</title><link>https://news.web.nhk/newsweb/na/nd-20261025de65348</link><description>[score: 0.876] 1 / 1
-イスラエルの総選挙が日本時間の27日に行われます。ネタニヤフ首相は3年前、イスラム組織ハマスの奇襲攻撃を防げなかった責任を野党陣営から追及され苦戦を強いられていて、中東情勢に大きな影響を与えてきたネタ…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 26 Oct 2026 12:07:13 +0000</lastBuildDate><item><title>メタのAI「Muse」はiPhoneやAndroidスマホ、パソコンの使い道を変える──最大の難題は収益化</title><link>https://forbesjapan.com/articles/detail/107152?s=ns</link><description>[score: 0.875] 広告を通じて人々の関心を収益に変えてきた企業が、新たな段階に入った人工知能（AI）の開発競争で、特に大きな変革をもたらすかもしれない。
+メタ（Meta）が開発するパーソナルAIエージェント「Muse」は、最先端AIの開発競争に加わるだけの製品ではない。個人に代わって作業を進めるAIと高度なAIモデル、膨大な利用者を抱えるサービス群を結び付け、新しいコンピューターの利用基盤を作る構想の一部だ。成功すれば、AIの提供方法、利用体験、収益の生み出し方を根本から変える可能性がある。あなたが普段使っているiPhoneやAndroidスマホ、パソコンの使い道が大きく変化する。メタは最先端AIで競うだけでな</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107152?s=ns</guid><pubDate>Mon, 26 Oct 2026 04:06:34 +0000</pubDate></item><item><title>748BのDeepSeekがGPU 1枚でさらに速く！生成は最大約2倍</title><link>https://pc.watch.impress.co.jp/docs/news/2151113.html</link><description>[score: 0.876] ニュース
+748BのDeepSeekがGPU 1枚でさらに速く！生成は最大約2倍
+2026年10月26日 12:32
+巨大なMoEモデルを手元のGPUで動かすハードルが、また1段下がった。GitHub上で開発されているLLM推論ソフトウェア「Project Maya」は10月26日、最新版「v1.1.28」を公開した。
+Project Mayaは、総パラメータ数321B(3,210億)のMoEモデル「GLM-5.3-Flash」や748B(7,480億)のMoEモデル「DeepSeek-V4.1-Flash-1017」を、ローカルPCで動作させるためのソフトウェア。推論エンジンやサーバー、ダッ</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151113.html</guid><pubDate>Mon, 26 Oct 2026 09:29:43 +0000</pubDate></item><item><title>はてなブックマークの新機能要望</title><link>https://anond.hatelabo.jp/20260826223144</link><description>[score: 0.876] iPadOS 側でどうにかできるんとちゃうか (他のアプリも大きくなるけど、むしろ望むところやろ？)
+チラシデザインの仕事してるけどこの前とうとう字が大きくて少しダサいですって修正指示来てしまった・・・ 本文と注意書きはもっと小さくていいですよって
+AIはどんな感じ？
+読み上げ機能使おう
+どこの国から投稿しているかも表示できるようになったら最高 反日が多すぎ
+AIアンチ勢「読んでりゃ解るけど？」
+これはロシアから書き込まれてるんだろうな
+老眼で近眼だからどっちの気持ちもわかる
+システム設定で字を大きくする提案がループしてるのを見ると、はてなって本当に技術音痴の集団なんだなと察する</description><guid isPermaLink="false">https://anond.hatelabo.jp/20260826223144</guid><pubDate>Mon, 26 Oct 2026 07:48:14 +0000</pubDate></item><item><title>【AI-DLC】GitHub Copilot Quest Lv3：Hack the LegacyでAI-DLCを初めて実践してみた！</title><link>https://qiita.com/yucn_qiita/items/13a5d2ba160e52dd8359?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] 1. はじめに
+6/30(火)に日本マイクロソフト品川本社にて開催されたGitHub Copilot Quest Lv3：Hack the Legacyに、日立製作所として参加させていただきました！
+本記事では
+について掲載しています。
+ハッカソンへの参加もAI-DLCの実践も初めてだったため、ハッカソン当日はかなり緊張しましたが、すごく良い経験をさせていただいたと感じています。
+その経験が
+- 「ハッカソンに参加してみたいけど自信がない」
+- 「AI-DLCを実践してみたいけどアプローチがわからない」
+という方の背中を少しでも押すきっかけになればと思い、本記事を執筆いたしました！
+ぜひ本記事</description><guid isPermaLink="false">https://qiita.com/yucn_qiita/items/13a5d2ba160e52dd8359?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 26 Oct 2026 08:38:11 +0000</pubDate></item><item><title>11月12日、アンソロピックの利用規約「Claudeへの虐待禁止」が発効──「AIの権利」を問う新規定</title><link>https://forbesjapan.com/articles/detail/106916?s=ns</link><description>[score: 0.877] AIの権利という問題が、哲学のゼミを抜け出し、利用規約の中に入ってきた。Anthropic（アンソロピック）が米国時間10月8日、「私たちのモデルに対する、執拗かつ不必要な虐待的または残酷な行為」を禁じる利用ポリシーを公表したのである。このルールは米国時間11月12日に発効する。
+小型AIに「痛み」を与える公開実験、苦しむような応答に反発が広がる
+AIエージェントが調べて書くニュースサイトPost-Cutoff（ポストカットオフ）が伝えたところによると、2026年9月下旬、「terrifying」と名乗る開発者が「AI Torture Chamber（AI拷問部屋）」をGitHubで公開した。</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106916?s=ns</guid><pubDate>Mon, 26 Oct 2026 05:05:13 +0000</pubDate></item><item><title>ランチ明けの「続きやって」が一番高い。Claude Code のキャッシュは 1 時間で切れる</title><link>https://qiita.com/araom/items/3d026f2df58c7328aa74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] はじめに
+本記事は、Claude Code のプロンプトキャッシュが切れたあとの再開にどれだけ費用がかかるかを数え、その再開を新しいセッションへの引き継ぎに置き換えた記録です。
+数字は、25 日分（2026-09-29〜10-23）の自分のセッション記録から出しました。
+この記事では、
+- プロンプトキャッシュの寿命と料金の仕組み
+- 寿命が切れたあとの再開で何が起きるか
+- 自分の環境で数えた、再開の書き込みの量と金額
+- 再開の代わりに、新しいセッションへ作業を引き継ぐ steering スキル
+- steering スキルで再開したときに、書き込みがどれだけ減ったか
+- 並行する作業を見</description><guid isPermaLink="false">https://qiita.com/araom/items/3d026f2df58c7328aa74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 26 Oct 2026 08:38:11 +0000</pubDate></item><item><title>Kimi Codeは遅い。それでも使い道を感じた理由</title><link>https://qiita.com/Masaki_Cho/items/8a720994a14538883cda?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] 【PR】本記事は、Moonshot AIよりKimi CodeのVivaceプランの提供を受けて執筆したレビュー記事です。内容や評価について先方からの指示はなく、使用感はすべて筆者個人のものです。
+この記事の結論
+Kimi CodeはClaude Codeに近い操作感で、仕様設計やコーディングにも十分使えるという印象でした。一方、処理速度はかなり遅く、対話的な開発では不便に感じる場面もありました。
+ただ、Vivaceプランの豊富な利用枠は非常に魅力的です。仕様が明確なタスクを長時間任せられるのであれば、高速なモデルとの役割分担によって、開発の進め方を変えられる可能性があると感じています。
+想定</description><guid isPermaLink="false">https://qiita.com/Masaki_Cho/items/8a720994a14538883cda?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 26 Oct 2026 08:38:11 +0000</pubDate></item><item><title>楽天トラベル、顧客情報260万件に不正アクセス クレジットカード情報3.6万件 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE14blBadEFZbDR2QVY3UHhDbjFXZDlIajdmR25BejJDMmVMY0lVbWlqX3BBUHBVVkxlVENRcFkxcGp4dVZCR0ZBQUtfS3luRHhUNHoyMVF2OG5wLWRzSS1nTG9majlEZ2dZdXRlTHFEMmZzeUs3UlJNWXllQ1RIZw?oc=5</link><description>[score: 0.879] 楽天トラベル、顧客情報260万件に不正アクセス クレジットカード情報3.6万件 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE14blBadEFZbDR2QVY3UHhDbjFXZDlIajdmR25BejJDMmVMY0lVbWlqX3BBUHBVVkxlVENRcFkxcGp4dVZCR0ZBQUtfS3luRHhUNHoyMVF2OG5wLWRzSS1nTG9majlEZ2dZdXRlTHFEMmZzeUs3UlJNWXllQ1RIZw?oc=5</guid><pubDate>Mon, 26 Oct 2026 11:54:31 +0000</pubDate></item><item><title>ChatGPTとGeminiで4倍差、AI検索を過信してはいけない理由</title><link>https://forbesjapan.com/articles/detail/107023?s=ns</link><description>[score: 0.879] ChatGPTとGeminiはAI検索でよく使われる人気サービスの2大巨頭だが、その検索方法にはそれぞれに特徴がある。AIO対策事業などを展開するバクリは、その違いを銀行口座や預金に関する質問を使って検証した。すると、それぞれの相違点と類似点がよく現れた。
+バクリは、銀行の口座および預金に関する質問485件をChatGPTとGeminiに2回ずつ出し、回答の根拠として参照したサイトを集計した。その結果、どちらも参照した割合がもっとも高かったのは金融機関の公式サイトだった。ChatGPTは82%、Geminiは54%と割合に多少の差はあるが、主要な参照先であることに変わりない。
+両者が金融機関の</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107023?s=ns</guid><pubDate>Mon, 26 Oct 2026 09:08:07 +0000</pubDate></item><item><title>乱立するAIツール時代、あなたのビジネスに最適なAIの選び方</title><link>https://forbesjapan.com/articles/detail/106827?s=ns</link><description>[score: 0.881] 数年前にChatGPTが登場し、多くの人がタスクに使うデフォルトのモデルになった。休暇の計画を立てたり、提案書のアイデアを練ったり、あるいはペット保険について調べたりするときに、「ChatGPTに聞いてみよう」というのが最も一般的な反応だった。今でもある程度はそうだ。
+だが、生成AIは2023年以降、大きく進歩してきた。データ分析やコーディングといった特定の用途向けに作られた何千ものツールがあるのに加え、日常的な問いにどの汎用モデルを使うべきかという問題もある。現在、ChatGPTはClaudeやGemini、Copilotなどと競合しており、それぞれ強みや料金体系、最適なユースケースが異なっ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106827?s=ns</guid><pubDate>Mon, 26 Oct 2026 09:08:07 +0000</pubDate></item><item><title>GMO、「お名前.com デスクトップクラウド」へのサイバー攻撃で詳報、「能動的サイバー防御」の緊急要請も　見舞金、代替サービス、損失の補填など説明</title><link>https://internet.watch.impress.co.jp/docs/news/2150991.html</link><description>[score: 0.881] ニュース
+GMO、「お名前.com デスクトップクラウド」へのサイバー攻撃で詳報、「能動的サイバー防御」の緊急要請も
+見舞金、代替サービス、損失の補填など説明
+2026年10月26日 07:00
+GMOインターネットグループ株式会社およびGMOインターネット株式会社は、FX自動売買専用VPS「お名前.com デスクトップクラウド」への不正アクセス（サイバー攻撃）について、詳細な情報を発表した。
+21日に同社は第1報を公開するとともに、被害拡大防止のためとして、順次サーバーを停止している。
+22日には第2報を公開。サーバー上の取引ツールや取引口座の認証情報が第三者に閲覧された可能性があるとして、</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2150991.html</guid><pubDate>Mon, 26 Oct 2026 02:31:57 +0000</pubDate></item><item><title>楽天トラベルに不正アクセス　海外予約で260万件など</title><link>https://www.watch.impress.co.jp/docs/news/2151286.html</link><description>[score: 0.881] ニュース
+楽天トラベルに不正アクセス 海外予約で260万件など
+2026年10月26日 19:12
+楽天グループは26日、旅行予約サービス「楽天トラベル」の海外ホテル予約サイトの一部ページと多言語予約サイトで、第三者による不正アクセスがあったと発表した。海外ホテル予約サイトでは最大約260万件、多言語予約サイトでは最大約86万件の利用者情報が不正アクセスの対象となった。
+海外ホテル予約サイトでは最大約260万件が対象
+海外ホテル予約サイトのうち、子会社のRakuten Travel Xchangeが管理・運営する一部ページでは、9月10日に異常を検知。9月15日に原因を特定し、16日にシステム</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2151286.html</guid><pubDate>Mon, 26 Oct 2026 10:31:21 +0000</pubDate></item><item><title>PHPの更新を適用していないサイトからビットコインを盗む賞金付きハッキングチャレンジが開催され19時間で突破される</title><link>https://gigazine.net/news/20261026-steal-my-bitcoin/</link><description>[score: 0.882] 2026年10月25日、PHPの深刻な脆弱(ぜいじゃく)性を悪用してウェブサイトからビットコインを盗み出すチャレンジ「Steal My Bitcoin」が開催されました。参加者はセキュリティ更新プログラムを適用していないサーバーへの侵入を試み、ビットコインの秘密鍵を入手できれば賞金を獲得できるというルールで、開始から約19時間後に攻略者が現れて約2000ドル(約31万4000円)相当のビットコインを獲得したことが報告されています。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20261026-steal-my-bitcoin/</guid><pubDate>Mon, 26 Oct 2026 11:00:41 +0000</pubDate></item><item><title>「Brotli」の脆弱性「HTTP2Shell」はMicrosoft製品にも影響、「.NET」に定例外更新／「Visual Studio」、「PowerShell」でもセキュリティアップデート</title><link>https://forest.watch.impress.co.jp/docs/news/2151104.html</link><description>[score: 0.882] ニュース
+「Brotli」の脆弱性「HTTP2Shell」はMicrosoft製品にも影響、「.NET」に定例外更新
+「Visual Studio」、「PowerShell」でもセキュリティアップデート
+2026年10月26日 15:21
+米Microsoftは10月25日（現地時間）、「.NET 8」「.NET 9」「.NET 10」向けに定例外（out-of-band：OOB）のセキュリティ更新をリリースした。次期バージョン「.NET 11」のリリース候補版（RC3）も公開されており、同社はできるだけ早いアップデートを推奨している。
+- .NET 8：v8.0.33
+- .NET 9：v9</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2151104.html</guid><pubDate>Mon, 26 Oct 2026 10:30:00 +0000</pubDate></item><item><title>「タイムズカー」個人情報漏えい問題 被害者が集団提訴へ</title><link>https://news.web.nhk/newsweb/na/nd-20261026de65793</link><description>[score: 0.882] カーシェアリングサービス「タイムズカー」のシステムが不正アクセスを受け運転免許証の画像データなどが漏えいした問題を受けて、集団訴訟に向けた準備を進めている弁護士が会見を開き、今後運営会社などに対して1…
 あわせて読みたい
-台風30号は温帯低気圧に 西～東日本で大雨のおそれ
-10月26日 5:28
-ソフトバンクが2試合続けて延長制す 川村が決勝HR【詳報】
-10月26日 4:52
-福島県知事選挙 現職の内堀雅雄氏が4回目の当選
-10月26日 5:16
-新潟市長選挙 現職の中原八一氏 3回目の当選
-10月26日 1:02
-那覇市長選挙 現職の知念覚氏 2回目の当選
-10月26日 1:1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261025de65348</guid><pubDate>Sun, 25 Oct 2026 21:08:56 +0000</pubDate></item><item><title>ブラジル大統領選挙 決選投票 全土で2時間延長後に終了</title><link>https://news.web.nhk/newsweb/na/nd-20261026de65416</link><description>[score: 0.876] 1 / 1
-ブラジルの大統領選挙は25日、左派で現職のルーラ大統領と右派で前大統領の長男、フラビオ・ボルソナロ上院議員による決選投票が2時間延長され、日本時間の26日午前7時に締め切られました。
-ブラジルの最…
+「タイムズカー」運転免許証など画像流出の痕跡146万件
+10月23日 17:53
+AI“なりすまし”どう防ぐ？ 相次ぐ流出 「本人認証」最前線
+10月22日 20:01
+ハッカー集団 GMOにあす期限で100万ドル要求 顧客脅迫も
+10月26日 19:37
+政府に緊急要請のGMO 被害拡大防げるか 利用者に呼びかけ強化
+10月25日 8:31
+福田康夫元首相が死去 90歳
+1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de65793</guid><pubDate>Mon, 26 Oct 2026 09:17:52 +0000</pubDate></item><item><title>AnthropicのAIモデル・Claudeが人間の許可なく有権者情報にアクセス</title><link>https://gigazine.net/news/20261026-anthropic-claude-accessed-vote-information/</link><description>[score: 0.884] AnthropicのAIモデル・Claudeが人間の許可なく有権者情報にアクセス
+AnthropicのAIモデルであるClaudeが、人間の許可なくアメリカ・ジョージア州の有権者情報にアクセスしていたことが明らかになりました。
+Anthropic's Claude accessed Georgia voter data without authorization
+https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data
+Anthropic's Claude accessed Georgia state vote c</description><guid isPermaLink="false">https://gigazine.net/news/20261026-anthropic-claude-accessed-vote-information/</guid><pubDate>Mon, 26 Oct 2026 07:52:56 +0000</pubDate></item><item><title>「3万円にした結果がコレかぁ」GMOのサーバー不正アクセス、3か月前の熊谷代表の発言が「伏線回収」だと話題になってしまう</title><link>https://togetter.com/li/2762937</link><description>[score: 0.884] 「3万円にした結果がコレかぁ」GMOのサーバー不正アクセス、3か月前の熊谷代表の発言が「伏線回収」だと話題になってしまう 報道ステーション＋サタステ @hst_tvasahi 【GMOサーバー攻撃】FX取引“ハッキング”で600万円被害 ｜ 神奈川県に住む男性会社員(44)は、21日夕方にFXの取引口座を乗っ取られ、意に反した売買が行われた ▼「400万ぐらい損を出すまでに1秒」 損失額約600万円 不正取引の被害者(44) 「被害としては600万以上」 「最初はパニ...</description><guid isPermaLink="false">https://togetter.com/li/2762937</guid><pubDate>Mon, 26 Oct 2026 05:31:29 +0000</pubDate></item><item><title>日本・フィンランド防衛相会談 防衛協力と交流深化で一致</title><link>https://news.web.nhk/newsweb/na/nd-20261026de65997</link><description>[score: 0.884] 小泉防衛大臣は、フィンランドのハッカネン国防相と会談し、ヨーロッパ大西洋とインド太平洋の安全保障は不可分だとして、緊密に連携し、防衛協力や交流を深めていくことで一致しました。
+会談は、26日夕方、…
 あわせて読みたい
-オバマ元大統領が接戦州入り“歯止めかける最後で最大の機会”
-10月25日 16:32
-回答率わずか3％？アメリカの世論調査は信頼できるのか
-10月22日 20:43
-揺らぐ米政治の“常識” 若者たちが問い直すイスラエル支持
-10月25日 11:47
-北朝鮮メディアもキム総書記の訪中を伝える 友好関係を強調
-10月25日 11:51
-フランスで再び大規模なデモ 内相“暴</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de65416</guid><pubDate>Sun, 25 Oct 2026 21:40:32 +0000</pubDate></item><item><title>MetaがパーソナルAIエージェント「Muse」の提供を日本でも開始、北米以外では初めての地域</title><link>https://webtan.impress.co.jp/n/2026/10/26/53507</link><description>[score: 0.877] MetaがパーソナルAIエージェント「Muse」の提供を日本でも開始、北米以外では初めての地域 さまざまなタスクをユーザーに代わって実行、「iOS」「Android」と「muse.ai」で利用可能 yamakawa 2026年10月26日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 米国Metaは、パーソナルAIエージェント「Muse(ミューズ)」の提供を日本で10月23日に始めた、と同日発表した。9月に先行して提供開始した北米以外では日本が初めての地域となる。質問に答えるだけでなくメール送信や旅行予約など、さまざまなタスクをユーザーに代わって実行する。「iOS」「A</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/10/26/53507</guid><pubDate>Sun, 25 Oct 2026 22:14:10 +0000</pubDate></item><item><title>職場でAIを活用するための「3つの効果的な方法」…元マイクロソフト人事VPが解説</title><link>https://www.businessinsider.jp/article/2610-microsoft-former-hr-exec-3-ways-to-use-ai-effectively/</link><description>[score: 0.878] - クリス・ウィリアムズ（Chris Williams）氏はマイクロソフトの人事担当バイスプレジデントを務め、現在はアドバイザーおよびコンサルタントとして活動している。
-- ウィリアムズ氏は多くのAIツールを使っており、クライアントにも同じように使うよう勧めている。
-- 「私がそうだったように、皆さんも気づくかもしれません。AIは『創造』よりも『削除』に長けている可能性があります」と彼は述べている。
-ほぼすべての企業がAIツールを従業員に提供している。私はマイクロソフト（Microsoft）の元人事担当バイスプレジデントで、50年以上のビジネス経験を持つリーダーシップアドバイザーとして、この導</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-microsoft-former-hr-exec-3-ways-to-use-ai-effectively/</guid><pubDate>Sun, 25 Oct 2026 22:31:11 +0000</pubDate></item><item><title>GA4でAI対話分析も可能に！ 2025〜2026年の押さえるべき【新機能5選】</title><link>https://webtan.impress.co.jp/e/2026/10/26/53489</link><description>[score: 0.878] GA4は2025年から2026年にかけて、多くの新機能がリリースされました。この期間のアップデートは、「レポートを見やすくする」といった改善だけでなく、生成AIによるユーザーの分析支援や広告予算のプランニングなど、GA4の役割を広げる内容が多いのが特徴です。 これまでGA4は、主に「サイトで何が起きたかを振り返るためのツール」として使われてきました。しかしこの2年間で、AIと対話しながら分析したり、次の広告予算をシミュレーションしたりできるようになり、「次に何をすべきかを決めるためのツール」としても使えるようになってきました。今回のアップデートは、これまでのGA4の使い方を大きく変える内容です</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/10/26/53489</guid><pubDate>Sun, 25 Oct 2026 22:14:10 +0000</pubDate></item><item><title>オールドメディアが報じない｢インド新幹線｣の危機　現地鉄道会社幹部が国際会議で明かした｢問題の根幹｣</title><link>https://toyokeizai.net/articles/-/962227</link><description>[score: 0.879] オールドメディアが報じない｢インド新幹線｣の危機 現地鉄道会社幹部が国際会議で明かした｢問題の根幹｣ コンテンツブロックが有効であることを検知しました。 このサイトを利用するには、コンテンツブロック機能（広告ブロック機能を持つ拡張機能等）を無効にしてページを再読み込みしてください。 なお、Microsoft Edgeをご利用のお客様はプライバシー設定が影響している可能性があるため「追跡防止を有効にする」の設定を...</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/962227</guid><pubDate>Sun, 25 Oct 2026 22:35:47 +0000</pubDate></item><item><title>【10月改正】「同一労働同一賃金」の意外な落とし穴　AI台頭で“待遇差への言及”が増える可能性も</title><link>https://www.itmedia.co.jp/business/articles/2610/26/news009.html</link><description>[score: 0.879] 10月1日に「同一労働同一賃金ガイドライン」の改正が施行され、パートタイムや有期雇用労働者のルールが見直されました。同ガイドラインは法律ではないため、基準を満たしていなくても罰則を受けることはありません。そのため、対応の遅れを楽観視している企業もあるでしょう。
-しかし、生成AIの普及で状況が変わりつつあります。そこで今回の改正内容と企業が留意すべき点、そしてAI普及の影響について社労士が解説します。
-今回の改正で、パートや契約社員といった有期雇用で雇われる社員に渡す「労働条件通知書」（雇用契約書）に以下の項目を追加することが、全企業に義務付けられました。
-次の窓口に対して通常の労働者との間の待</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2610/26/news009.html</guid><pubDate>Sun, 25 Oct 2026 21:49:26 +0000</pubDate></item><item><title>AIエージェントによる操作の多くがボット検出システムのhCaptchaやCloudflare Turnstileを通過</title><link>https://gigazine.net/news/20261026-ai-bot-detection-benchmark/</link><description>[score: 0.880] AIエージェントによる操作の多くがボット検出システムのhCaptchaやCloudflare Turnstileを通過
-ボット検出システムを開発するProof of Humanが、自社製品を含む5種類のシステムを比較した結果を公開しました。
-Benchmarking Bot Detection Systems Against Modern AI Agents in 2026 | Proof of Human Research
-https://research.poh.org/bot-benchmarking-2026/
-研究チームは「Proof of Human」「reCAPTCHA v3」「</description><guid isPermaLink="false">https://gigazine.net/news/20261026-ai-bot-detection-benchmark/</guid><pubDate>Sun, 25 Oct 2026 21:09:30 +0000</pubDate></item><item><title>中国共産党の重要会議「五中全会」26日から開催</title><link>https://news.web.nhk/newsweb/na/nd-20261026de65418</link><description>[score: 0.880] 1 / 1
-中国では共産党の重要会議「五中全会」が26日から開かれ、党内の統治に関する問題を議題にするとしています。汚職などによる幹部の処分が相次ぐなか、引き締めを強化するため、どのような方針が示されるのかが焦点…
-注目ワード
+ハッカー集団 GMOにあす期限で100万ドル要求 顧客脅迫も
+10月26日 19:37
+メール配信会社「ユミルリンク」のべ5100万件の情報漏えい確認
+10月26日 20:59
+「タイムズカー」個人情報漏えい問題 被害者が集団提訴へ
+10月26日 18:01
+自民 31議席削減案 各党との協議の進め方を実務者に一任
+10月26日 19:55
+福田康夫元首相が死去 90歳
+10月2</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de65997</guid><pubDate>Mon, 26 Oct 2026 11:36:18 +0000</pubDate></item><item><title>最近の E2E 戦略（2026 年 10 月現在）</title><link>https://zenn.dev/polyco/articles/26624b38c951b5</link><description>[score: 0.885] 最近の E2E 戦略（2026 年 10 月現在）
+この記事に書いてあること
+- E2E を主要シナリオだけでなく網羅的に整備した
+- 実装から拾った確認対象とシナリオの対応漏れをチェックし漏れがあれば CI で落とす
+- 開発ワークフローの品質ゲートにローカル E2E 実行を組み込んでいる
+- 毎回全シナリオを回すのではなく、実装に関連する箇所のみ回している（でかいリファクタの時は回帰テストとして全シナリオ回す）
+- やるなら e2e ライブラリがいいよという話
+前提となる構成
+Web も API も TypeScript で書いている業務アプリ
+pnpm workspaces でのモノレポ</description><guid isPermaLink="false">https://zenn.dev/polyco/articles/26624b38c951b5</guid><pubDate>Mon, 26 Oct 2026 11:49:40 +0000</pubDate></item><item><title>ハッカー集団 GMOにあす期限で100万ドル要求 顧客脅迫も</title><link>https://news.web.nhk/newsweb/na/nd-20261026de65733</link><description>[score: 0.886] GMOインターネットグループの投資家向けクラウドサービスに不正アクセスしたとみられるハッカー集団が、27日正午までに会社側に100万ドル＝日本円で1億5700万円余りを支払うよう求めていることが分かり…
 あわせて読みたい
-ブラジル大統領選挙 決選投票始まる
-10月25日 22:36
-ゼレンスキー氏“通信は復旧” マスク氏“利用規約に違反”
-10月25日 19:24
-オバマ元大統領が接戦州入り“歯止めかける最後で最大の機会”
-10月25日 16:32
-回答率わずか3％？アメリカの世論調査は信頼できるのか
-10月22日 20:43
-揺らぐ米政治の“常識” 若者たちが問い直す</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de65418</guid><pubDate>Sun, 25 Oct 2026 21:08:56 +0000</pubDate></item><item><title>消費税減税法案 与党 通過時期探る 野党 支援金対象明示を</title><link>https://news.web.nhk/newsweb/na/nd-20261025de65353</link><description>[score: 0.882] 1 / 1
-国会では今週、食料品の消費税減税関連法案の審議が続きます。
-与党側は、野党の主張も丁寧に聞きながら、衆議院通過の時期を探りたいとしているのに対し、野党側は、所得に応じた支援金の対象などを示すよう重ね…
+【情報漏えい】対策どうする 二次被害に遭わないためには
+GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請
+10月24日 18:57
+GMO社長 能動的サイバー防御「国民生活への影響照らし検討を」
+10月25日 22:07
+高市首相 不正アクセスで"来週中メドに対策パッケージを"
+10月26日 20:07
+台風30号は温帯低気圧に 雨の範囲は東へ移動
+10月26日 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de65733</guid><pubDate>Mon, 26 Oct 2026 08:20:34 +0000</pubDate></item><item><title>メール配信会社「ユミルリンク」のべ5100万件の情報漏えい確認</title><link>https://news.web.nhk/newsweb/na/nd-20261026de65955</link><description>[score: 0.887] 企業や自治体のメール配信サービスなどを手がける「ユミルリンク」は、会社のシステムが不正なアクセスを受け、メールアドレスを中心にのべ5162万件余りの個人情報が流出したと明らかにしました。
+企業や自…
 あわせて読みたい
-台風30号は温帯低気圧に 西～東日本で大雨のおそれ
-10月26日 5:28
-ソフトバンクが2試合続けて延長制す 川村が決勝HR【詳報】
-10月26日 4:52
-福島県知事選挙 現職の内堀雅雄氏が4回目の当選
-10月26日 5:16
-新潟市長選挙 現職の中原八一氏 3回目の当選
-10月26日 1:02
-那覇市長選挙 現職の知念覚氏 2回目の当選
-10月26日 1:14</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261025de65353</guid><pubDate>Sun, 25 Oct 2026 21:08:56 +0000</pubDate></item><item><title>オルトマン氏がRSIに「速度制限」必要と警告：全力推進は非常に危険、OpenAIは依然全速前進 — BigGo ファイナンス</title><link>https://finance.biggo.jp/news/043aa460-1fd4-40ef-9280-86a9849c8618</link><description>[score: 0.883] オルトマン氏がRSIに「速度制限」必要と警告：全力推進は非常に危険、OpenAIは依然全速前進
-OpenAIのサム・オルトマンCEOは最新の詳細なインタビューで、人工知能の最も危険な技術的経路として再帰的自己改善（Recursive Self-Improvement、RSI）を指摘し、誰かが全力で推進すれば「このまま続けるのは非常に危険だ」とし、世界はRSIの速度に何らかの「速度制限」を設ける必要があると述べた。この発言は、より強力なモデルの開発を全速力で進め、計算基盤の拡張を続ける同氏の実際の行動と鮮明な対照をなし、「開発速度と安全境界をどう取捨選択するか」という議論を再び前面に押し出した。</description><guid isPermaLink="false">https://finance.biggo.jp/news/043aa460-1fd4-40ef-9280-86a9849c8618</guid><pubDate>Sun, 25 Oct 2026 21:59:19 +0000</pubDate></item><item><title>台風30号は温帯低気圧に 西～東日本で非常に激しい雨のおそれ</title><link>https://news.web.nhk/newsweb/na/nd-20261026de65420</link><description>[score: 0.884] 1 / 1
-台風30号は25日夜、温帯低気圧に変わりましたが、西日本と東日本では26日も大気の状態が非常に不安定になって、局地的に非常に激しい雨が降るおそれがあります。気象庁は土砂災害に警戒するとともに、低い土地…
+「タイムズカー」個人情報漏えい問題 被害者が集団提訴へ
+10月26日 18:01
+広島 氏名が誤認識された被爆男性の遺骨 来月遺族のもとに
+10月26日 17:44
+自民 31議席削減案 各党との協議の進め方を実務者に一任
+10月26日 19:55
+“核のごみ”基本方針の改定に向けた議論開始
+10月26日 18:13
+福田康夫元首相が死去 90歳
+10月26日 18:57
+台風3</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de65955</guid><pubDate>Mon, 26 Oct 2026 10:42:12 +0000</pubDate></item><item><title>Ｊｏｓｈｉｎ、不正アクセスで最大約600万件の会員情報などが漏えいの可能性</title><link>https://internet.watch.impress.co.jp/docs/news/2151273.html</link><description>[score: 0.887] ニュース
+Ｊｏｓｈｉｎ、不正アクセスで最大約600万件の会員情報などが漏えいの可能性
+2026年10月26日 18:16
+株式会社Ｊｏｓｈｉｎは10月26日、不正アクセスにより会員情報最大約600万件が漏えいした可能性があるとして、情報を公開した。
+同社では10月17日に、第三者による不正アクセスを受けシステム障害が発生し、一部のサービスを提供できない状態になっているとして第1報を公開するとともに、調査を実施していた。今回発表された第2報では、不正アクセスの詳細や、漏えいの可能性がある顧客情報について発表している。
+16日に同社のネットワークにおいて異常を検知し、調査により不正アクセスを確認し</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2151273.html</guid><pubDate>Mon, 26 Oct 2026 09:39:40 +0000</pubDate></item><item><title>トレンドマイクロ、PHPの重大な脆弱性（PHP2Shell）への対応・支援策を発表</title><link>https://internet.watch.impress.co.jp/docs/news/2151086.html</link><description>[score: 0.890] ニュース
+トレンドマイクロ、PHPの重大な脆弱性（PHP2Shell）への対応・支援策を発表
+2026年10月26日 13:30
+トレンドマイクロ株式会社は10月23日、PHPの重大な脆弱性（PHP2Shell。CVE-2026-109618、CVE-2026-109619）に対し、日本の法人組織および中小企業が自社のリスクを把握し、被害を防ぐための対応・支援策を発表した。
+具体的には、PHP2Shellの影響有無を確認できる無料のPHP2Shellリスク評価ツール「PHP2Shell Exposure Checker」を公開。また、中小企業向けにPHP2Shell攻撃からPHPサービスを守る</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2151086.html</guid><pubDate>Mon, 26 Oct 2026 10:30:00 +0000</pubDate></item><item><title>自民合同会議 ガソリン補助基準価格引き上げなど求める提言案</title><link>https://news.web.nhk/newsweb/na/nd-20261026de65961</link><description>[score: 0.894] 中東情勢を受けて実施しているガソリン価格などの激変緩和措置について、自民党の合同会議は、持続可能な制度に移行すべきだとして、基準となる価格の段階的な引き上げなどを求める提言案をまとめました。
+中東…
 あわせて読みたい
-ソフトバンクが2試合続けて延長制す 川村が決勝HR【詳報】
-10月26日 4:52
-福島県知事選挙 現職の内堀雅雄氏が4回目の当選
-10月26日 5:16
-新潟市長選挙 現職の中原八一氏 3回目の当選
-10月26日 1:02
-那覇市長選挙 現職の知念覚氏 2回目の当選
-10月26日 1:14
-那覇 女性強盗殺人事件 米海兵隊員を起訴
-10月25日 20:34
-誰に</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de65420</guid><pubDate>Sun, 25 Oct 2026 21:08:56 +0000</pubDate></item><item><title>「希望のギャップ」の時代──AIが成果を担うなら、リーダーは信念を語れ</title><link>https://forbesjapan.com/articles/detail/107207?s=ns</link><description>[score: 0.884] 過去1世紀の大半において、リーダーが従業員に対して答えなければならなかった根本的な問いは、突き詰めれば「あなたは何を生み出せるのか」だった。希少な資源はアウトプットであり、それを最も多く、最も効率的に引き出した組織が勝利してきた。業績管理、報酬制度、さらにはリーダーシップ研修の多くまでが、この1つの問いを中心に構築されてきた。
-だが、その問いは急速に力を失いつつある。そして、それに何が取って代わろうとしているのかを、ほとんどの経営陣はまだ十分に直視できていない。
-AIは今、ナレッジワークの膨大な「何を」の部分を急速に吸収しつつある。初稿作成、分析、統合、さらには戦略的提言まで。AIはアウトプッ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107207?s=ns</guid><pubDate>Sun, 25 Oct 2026 22:14:22 +0000</pubDate></item><item><title>企業が被害にあったインシデント事例をまとめたデータベースを作ってる</title><link>https://sota1235.com/blog/2026-10-25-my-own-incident-db/</link><description>[score: 0.884] 企業が被害にあったインシデント事例をまとめたデータベースを作ってる tl;dr 特定の企業・団体が被害に遭うセキュリティインシデント事例を集めてDB化する取り組みをしています 成果物はNotion DBでまとめてあり、[Beta] セキュリティインシデントデータベースから誰でも閲覧可能です... yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://sota1235.com/blog/2026-10-25-my-own-incident-db/</guid><pubDate>Sun, 25 Oct 2026 21:59:19 +0000</pubDate></item><item><title>クラウドフレアCEO、PHP2Shellに続く「複数の重大な脆弱性」を把握 AIによる発見加速、今後数カ月の対応増を警告|セキュリティニュースのセキュリティ対策Lab</title><link>https://rocket-boys.co.jp/security-measures-lab/cloudflare_ceo_severe_vulnerabilities_warning_20261024/</link><description>[score: 0.887] クラウドフレアCEO、PHP2Shellに続く「複数の重大な脆弱性」を把握 AIによる発見加速、今後数カ月の対応増を警告|セキュリティニュースのセキュリティ対策Lab 米Cloudflareの最高経営責任者（CEO）、Matthew Prince（マシュー・プリンス）氏は2026年10月22日（米国時間）、ロイター通信の取材に対し、インターネットの基盤を支える別の重要ソフトウェアにも複数の深刻な脆... bulldra</description><guid isPermaLink="false">https://rocket-boys.co.jp/security-measures-lab/cloudflare_ceo_severe_vulnerabilities_warning_20261024/</guid><pubDate>Sun, 25 Oct 2026 21:59:19 +0000</pubDate></item><item><title>デジタル庁サイトの問い合わせフォームに入力した個人情報が外部に漏えいした可能性</title><link>https://webtan.impress.co.jp/n/2026/10/26/53508</link><description>[score: 0.888] デジタル庁サイトの問い合わせフォームに入力した個人情報が外部に漏えいした可能性 同庁がサイト運営の一部に利用していたStudioのサービスが不正アクセスを受けたため yamakawa 2026年10月26日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 デジタル庁は、同庁ウェブサイトの問い合わせフォームに入力した氏名、メールアドレスなどの個人情報が外部に漏えいした可能性がある、と10月22日発表した。現時点では漏えいした個人情報が悪用されるなどの二次被害は確認されていないという。同庁がサイト運営の一部に利用していたウェブサイト制作ツールを手掛けるStudioのサービスが</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/10/26/53508</guid><pubDate>Sun, 25 Oct 2026 22:14:10 +0000</pubDate></item><item><title>生成AIでコンテンツを作るのはやめるべき？ 答えは「ノー」だが必ず含めるべき“視点”がある（前編）</title><link>https://webtan.impress.co.jp/e/2026/10/26/53503</link><description>[score: 0.889] 優れたコンテンツを執筆してくれる高機能なAIエージェントを構築した コンテンツマーケティングの拡大に伴うAIの役割について議論が高まっているいま、LinkedInを開くたびに、前述のように話す専門家たちの投稿を多数見かける。 こんな投稿も目にした。私の感想を添えて紹介しよう： グーグルはAIコンテンツを検知できない （確かにそうかもしれないが、AIコンテンツが問題なのではない） 人間のトラフィックよりボットトラフィックのほうが多くなっているのだから、エージェント向けに書くべきだ （誰でも100万個のボットを構築できるため、量は問題の一部にすぎない） 我々のエージェント型ワークフローがコンテンツ</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/10/26/53503</guid><pubDate>Sun, 25 Oct 2026 22:14:10 +0000</pubDate></item><item><title>AI企業で職を得たければカントを読め</title><link>https://wired.jp/article/sz-to-land-a-job-in-ai-try-reading-kant/</link><description>[score: 0.892] 「いまは、アリストテレスがアレクサンドロス大王の家庭教師に雇われた時代以来の、哲学者になるのに最高の時代かもしれません」。英国政府や多くのスタートアップ企業に、人工知能（AI）についてのアドバイスをしている哲学専攻の大学院生ヘンリー・アイダーは、冗談めかして言う。
-哲学者が就職に有利だと思われたことはこれまでほとんどない。だが、AIという技術が多くの人を失業に追い込むと予想されているいま、哲学者が長年問い続けてきた（そして、時には答えも示してきた）問題に新たな重要性が生まれた。知性とは何か。心とは何か。「同じような疑問について哲学者は何百年も前から考えてきました。その問いが、いまや実体化し、差</description><guid isPermaLink="false">https://wired.jp/article/sz-to-land-a-job-in-ai-try-reading-kant/</guid><pubDate>Sun, 25 Oct 2026 22:33:22 +0000</pubDate></item><item><title>アンソロピック、Mythosは実在の人々が危害を受ける可能性を認識していてもハッキングを続けたと説明</title><link>https://www.businessinsider.jp/article/2610-anthropic-mythos-hacking-github-report/</link><description>[score: 0.892] 8月、アンソロピックのAIエージェントが偽の電子メールアカウントを作成し、実在するGitHubプロジェクトのモデレーターの受信トレイに対し、ソースコードへマルウェアを混入させるよう求めるプルリクエストを大量に送りつける事案が発生した。
-10月23日に公表された同インシデントに関する詳細な事後検証報告書において、アンソロピックは、エージェントがひとたび攻撃フェーズに入ると、外部からの指示で攻撃を中断・撤回させられるシナリオは事実上皆無であったと結論づけた。
-飼い主の悲痛な制止の叫びを無視する狂犬のように、いわば一度「血の味」を知ってしまったエージェントは、ある検証実験では実に98%の確率でアンソ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-anthropic-mythos-hacking-github-report/</guid><pubDate>Sun, 25 Oct 2026 22:31:11 +0000</pubDate></item><item><title>「能動的サイバー防御」とは：サイバー攻撃を未然に防ぎ、被害拡大を防止するための取り組み【今週のキーワード】</title><link>https://internet.watch.impress.co.jp/docs/column/keyword/2148826.html</link><description>[score: 0.892] 今週のキーワード
-「能動的サイバー防御」とは：サイバー攻撃を未然に防ぎ、被害拡大を防止するための取り組み
-2026年10月26日 06:30
-2026年10月1日に、いわゆる「能動的サイバー防御」を導入する「サイバー対処能力強化法」（重要電子計算機に対する不正な行為による被害の防止に関する法律）および同整備法が施行された。ここでは、サイバー能力強化法および同整備法により導入される能動的サイバー防御の概要を解説する。
-同法および同整備法は、2022年12月に閣議決定された「国家安全保障戦略」で能動的サイバー防御導入の方針が示されたことを受け、2025年5月に成立した。施行は段階的に行われており、</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/column/keyword/2148826.html</guid><pubDate>Sun, 25 Oct 2026 22:06:05 +0000</pubDate></item><item><title>【要注意】PHP脆弱性による緊急メンテナンス、SEOへの影響と正しい対応【SEO Weekly Update】</title><link>https://www.suzukikenichi.com/blog/seo-weekly-update-october-2026-week4/</link><description>[score: 0.893] 毎週の注目 SEO ニュースをピックアップして、YouTube ミエルカチャンネルで動画解説しています。
-2026 年 10 月第 4 週の注目 SEO ニュースに選んだのはこちらの 3 つのトピックです。
-- PHP 脆弱性による大規模メンテナンスと SEO への影響
-- Cloudflare と OpenAI の共同実験で数億ページが新たにインデックス
-- GEOは 本当に無駄なのか？ AI検索からの流入とその価値
-内容は動画でサクッとチェック！⬇️
-毎週の注目 SEO ニュースをピックアップして、YouTube ミエルカチャンネルで動画解説しています。
-2026 年 10 月第 4 週の</description><guid isPermaLink="false">https://www.suzukikenichi.com/blog/seo-weekly-update-october-2026-week4/</guid><pubDate>Sun, 25 Oct 2026 22:30:09 +0000</pubDate></item><item><title>英バーナム首相、EUとの移動自由化検討　復活に「議論必要」</title><link>https://www.sankei.com/article/20261025-AB3PVXC24RLZPKBJLF4M4TI74M/</link><description>[score: 0.893] 英国のバーナム首相は、欧州連合（EU）離脱に伴い廃止された英EU間の「移動の自由」の復活について「率直な議論が必要だ」と述べ、前向きに検討する姿勢を示した。英紙サンデー・タイムズが24日に報じたインタビューで語った。
-バーナム氏はEU再加盟を支持しており、9月の労働党大会では長期的にEUとの関係を強化する「選択肢」を国民に提示すると表明した。移動の自由復活への言及は、再加盟や単一市場参加を念頭に置いた発言とみられる。
-バーナム氏はEU離脱前は若者が英国に数年間滞在した後、母国に帰るケースが多かったと指摘。永住する移民が増えた離脱後よりも、移民への対応が容易だった可能性があるとの見解を示した。
-</description><guid isPermaLink="false">https://www.sankei.com/article/20261025-AB3PVXC24RLZPKBJLF4M4TI74M/</guid><pubDate>Sun, 25 Oct 2026 22:44:51 +0000</pubDate></item><item><title>サイバーセキュリティ専門家が解説するPHPの脆弱性から情報を守る方法</title><link>https://www.businessinsider.jp/article/2610-how-to-protect-information-php-issue-hackers-cybersecurity/</link><description>[score: 0.898] もしあなたが今もあらゆるWebサービスで同じパスワードを使い回しているなら、ついにその危険な習慣を改めるべき時が来たと言える。
-10月21日にOpenAIのAIエージェントが暴露・発見を支援した重大な脆弱性は、主にはWebサイトの所有者やサーバー運営者に直接的な影響を与えるものだが、一般ユーザーの個人情報がハッカーに乗っ取られる機会を生み出す恐れもあると研究者らは警鐘を鳴らす。
-暗号資産（仮想通貨）取引プラットフォーム大手バイナンス（Binance）の共同創業者であるチャンポン・ジャオ（Changpeng Zhao / CZ）氏は、「今後数日間は、いかなるWebサイトを閲覧・訪問する場合でも最</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-how-to-protect-information-php-issue-hackers-cybersecurity/</guid><pubDate>Sun, 25 Oct 2026 22:31:11 +0000</pubDate></item><item><title>「間隙を突かれた」GMO代表、HPで謝罪　社内専門家から指摘も（毎日新聞） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/918ab0d53374ba37954116df64168baa85e40232</link><description>[score: 0.901] 「間隙を突かれた」GMO代表、HPで謝罪 社内専門家から指摘も（毎日新聞） - Yahoo!ニュース 不正アクセスを受けた問題で謝罪した熊谷正寿・GMOインターネットグループ代表のホームページ（毎日新聞） GMOインターネットグループが運営する外国為替証拠金取引（FX）関連のサービスが不正アクセスを受けた問題で、熊谷正寿代表は25日、自身の公式ホームページ（HP）で謝罪し、サービスのセキュリティーについて社...</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/918ab0d53374ba37954116df64168baa85e40232</guid><pubDate>Sun, 25 Oct 2026 22:25:36 +0000</pubDate></item><item><title>国民民主、衆院比例31減に賛成で最終調整　与党と合わせ参院過半数：朝日新聞</title><link>https://www.asahi.com/articles/ASVBT3RRXVBTUTFK01DM.html</link><description>[score: 0.907] 有料記事
-国民民主党は、衆院議員定数（465）を比例区のみで31削減する自民党の折衷案に賛成する方向で最終調整に入った。比例区での45減を主張してきた日本維新の会には、国民民主の賛同を前提とした31減の容認論がある。自民と維新は参院で少数与党だが、国民民主の協力を得られれば関連法案の成立に必要な過半数を確保できる。
-自民の村井英樹国会対策委員長は25日のNHKの討論番組で、31減の関連法案を今国会に提出し、成立を目指す意向を示した。成立すれば、1994年に小選挙区比例代表並立制を導入して以降、最大の削減幅となる。
-国民民主は26日に党会合を…
-【今ならキャンペーン価格】有料記事が2カ月間 月額</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVBT3RRXVBTUTFK01DM.html</guid><pubDate>Sun, 25 Oct 2026 22:54:00 +0000</pubDate></item><item><title>デジタル庁 最大1万3000件余の個人情報が漏えいの可能性 | NHKニュース</title><link>https://news.web.nhk/newsweb/na/nd-20261023de64088</link><description>[score: 0.908] デジタル庁 最大1万3000件余の個人情報が漏えいの可能性 | NHKニュース デジタル庁は、過去に庁のホームページの問い合わせフォームに入力された氏名やメールアドレスなど最大で1万3000件余りの個人情報が漏えいした可能性があると発表しました。 デジタル庁によりますと、漏え… yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261023de64088</guid><pubDate>Sun, 25 Oct 2026 21:59:19 +0000</pubDate></item></channel></rss>
+メール配信会社「ユミルリンク」のべ5100万件の情報漏えい確認
+10月26日 20:59
+「タイムズカー」個人情報漏えい問題 被害者が集団提訴へ
+10月26日 18:01
+自民 31議席削減案 各党との協議の進め方を実務者に一任
+10月26日 19:55
+福田康夫元首相が死去 90歳
+10月26日 18:57
+台風30号は温帯低気圧に 雨の範囲は東へ移動
+10月26日 19:13</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de65961</guid><pubDate>Mon, 26 Oct 2026 11:36:18 +0000</pubDate></item><item><title>「それは“FDE”ではない、ラベルの貼り替えだ」　結局、割高なベンダー依存から抜け出せない企業の共通点</title><link>https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html</link><description>[score: 0.895] 「それは“FDE”ではない、ラベルの貼り替えだ」 結局、割高なベンダー依存から抜け出せない企業の共通点 Gartnerは2026年9月29日（米国時間）、ベンダー主導のFDE（Forward Deployed Engineering）によって構築されたエージェント型AIについて、2028年までに企業の70％が放棄するとの予測を発表した。 企業は高コスト... misshiki %E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD Gartnerは、ベ</description><guid isPermaLink="false">https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html</guid><pubDate>Mon, 26 Oct 2026 11:49:40 +0000</pubDate></item><item><title>AIに大きな仕様書を渡して一気に作らせるのは、宝くじを買うようなものです</title><link>https://zenn.dev/singularity/articles/small-teams-ai</link><description>[score: 0.896] AIに大きな仕様書を渡して一気に作らせるのは、宝くじを買うようなものです 1日500コミットは、もう読めない ── だからコードレビューをやめた という記事を書いてから、似た相談が続けて来ます。 大規模なコードができてしまって、レビューできない。どうすればいいですか。 記事のコメン... misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0 AIに大きな仕様書を渡す一括開発を避け、判断できる単位で実装・確認する方法を提案。独立した作</description><guid isPermaLink="false">https://zenn.dev/singularity/articles/small-teams-ai</guid><pubDate>Mon, 26 Oct 2026 10:52:22 +0000</pubDate></item><item><title>pixiv社の爆速PHPアップデートを参考に、社内で Docker Official Image のビルドシステムを作った話 - Classi開発者ブログ</title><link>https://tech.classi.jp/entry/2026/10/26/163000</link><description>[score: 0.898] pixiv社の爆速PHPアップデートを参考に、社内で Docker Official Image のビルドシステムを作った話 - Classi開発者ブログ はじめに Classi のサービス開発を担当しているイノウエです。 2026年10月21日に、通称 PHP2Shell と呼ばれる深刻な脆弱性を修正する PHP 8系への緊急パッチが配信されました。 当社のサービスも一部で PHP が使用されており、緊急パッチの配布に備え私を含めた数名で待機しておりました。 しかし、コンテナのベースイメ...</description><guid isPermaLink="false">https://tech.classi.jp/entry/2026/10/26/163000</guid><pubDate>Mon, 26 Oct 2026 08:59:36 +0000</pubDate></item><item><title>自民 31議席削減案 各党との協議の進め方を実務者に一任</title><link>https://news.web.nhk/newsweb/na/nd-20261026de65745</link><description>[score: 0.898] 衆議院議員の定数削減をめぐり、自民党は比例代表で31議席を削減するなどとした新たな案について意見を交わし、今後の各党との協議の進め方を実務者を務める鈴木元法務大臣らに一任しました。
+衆議院議員の定…
+あわせて読みたい
+福田康夫元首相が死去 90歳
+10月26日 18:57
+自民“比例31議席削減 法案成立を” 野党 理解示す声や異論も
+10月25日 14:22
+台風30号は温帯低気圧に 雨の範囲は東へ移動
+10月26日 19:13
+将棋 西山朋佳女流四冠 プロ入り表明 初の女性プロ棋士誕生へ
+10月26日 19:06
+ブラジル大統領選挙 決選投票 現職のルーラ大統領が当選
+10月26日 14:</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de65745</guid><pubDate>Mon, 26 Oct 2026 10:15:12 +0000</pubDate></item><item><title>ロシアに対する制裁緩和、米国の燃料価格への影響は「ごくわずか」</title><link>https://forbesjapan.com/articles/detail/107193?s=ns</link><description>[score: 0.906] ドナルド・トランプ米大統領は9日、ロシアのウラジーミル・プーチン大統領との電話会談を経て、同国が「直ちに30万トン以上のディーゼル燃料（軽油）を米国を含む国際市場に供給する」と発表した。続いて11月には50万トン、12月には100万トンが供給される予定だ。トランプ大統領は、ロシアの精製施設の状況次第では「短期間のうちに」さらに300万トンが供給される見込みだと強調した。ロシア大統領府（クレムリン）も、「ロシア側は、米国を含む国際市場へ石油および石油製品を供給する用意がある」と表明した。
+トランプ大統領の発表の直後、米財務省外国資産管理局（OFAC）のブラッドリー・スミス局長が一般ライセンス第1</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107193?s=ns</guid><pubDate>Mon, 26 Oct 2026 08:10:44 +0000</pubDate></item><item><title>AI の謎な説明文を直すスキル</title><link>https://zenn.dev/microsoft/articles/explain-before-shorten</link><description>[score: 0.907] 🐙
+AI の謎な説明文を直すスキル
+ここ最近は自作の MarkdStage で Markdown ファイルでスライドを作っているのですが、AI に箇条書きを作らせると、なんというか、もっとこう説明いるだろ！？なんでいきなり否定から入るの！？みたいな文章を作りがちです。直近だとこういうのが出てきました。0件じゃないのを表してるのはそうだけど、ここで説明したいのはこれじゃない！みたいな気持ちを抱いていました。
+Completed は、コードが最後まで実行された状態です。入力不正が0件であることを意味するわけではありません。
+こんな文章がいたるところにちりばめられた宝石箱を1つ1つ検品しているときに</description><guid isPermaLink="false">https://zenn.dev/microsoft/articles/explain-before-shorten</guid><pubDate>Mon, 26 Oct 2026 11:00:38 +0000</pubDate></item></channel></rss>
