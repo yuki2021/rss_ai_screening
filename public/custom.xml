@@ -1,156 +1,176 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 26 Oct 2026 12:07:13 +0000</lastBuildDate><item><title>メタのAI「Muse」はiPhoneやAndroidスマホ、パソコンの使い道を変える──最大の難題は収益化</title><link>https://forbesjapan.com/articles/detail/107152?s=ns</link><description>[score: 0.875] 広告を通じて人々の関心を収益に変えてきた企業が、新たな段階に入った人工知能（AI）の開発競争で、特に大きな変革をもたらすかもしれない。
-メタ（Meta）が開発するパーソナルAIエージェント「Muse」は、最先端AIの開発競争に加わるだけの製品ではない。個人に代わって作業を進めるAIと高度なAIモデル、膨大な利用者を抱えるサービス群を結び付け、新しいコンピューターの利用基盤を作る構想の一部だ。成功すれば、AIの提供方法、利用体験、収益の生み出し方を根本から変える可能性がある。あなたが普段使っているiPhoneやAndroidスマホ、パソコンの使い道が大きく変化する。メタは最先端AIで競うだけでな</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107152?s=ns</guid><pubDate>Mon, 26 Oct 2026 04:06:34 +0000</pubDate></item><item><title>748BのDeepSeekがGPU 1枚でさらに速く！生成は最大約2倍</title><link>https://pc.watch.impress.co.jp/docs/news/2151113.html</link><description>[score: 0.876] ニュース
-748BのDeepSeekがGPU 1枚でさらに速く！生成は最大約2倍
-2026年10月26日 12:32
-巨大なMoEモデルを手元のGPUで動かすハードルが、また1段下がった。GitHub上で開発されているLLM推論ソフトウェア「Project Maya」は10月26日、最新版「v1.1.28」を公開した。
-Project Mayaは、総パラメータ数321B(3,210億)のMoEモデル「GLM-5.3-Flash」や748B(7,480億)のMoEモデル「DeepSeek-V4.1-Flash-1017」を、ローカルPCで動作させるためのソフトウェア。推論エンジンやサーバー、ダッ</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151113.html</guid><pubDate>Mon, 26 Oct 2026 09:29:43 +0000</pubDate></item><item><title>はてなブックマークの新機能要望</title><link>https://anond.hatelabo.jp/20260826223144</link><description>[score: 0.876] iPadOS 側でどうにかできるんとちゃうか (他のアプリも大きくなるけど、むしろ望むところやろ？)
-チラシデザインの仕事してるけどこの前とうとう字が大きくて少しダサいですって修正指示来てしまった・・・ 本文と注意書きはもっと小さくていいですよって
-AIはどんな感じ？
-読み上げ機能使おう
-どこの国から投稿しているかも表示できるようになったら最高 反日が多すぎ
-AIアンチ勢「読んでりゃ解るけど？」
-これはロシアから書き込まれてるんだろうな
-老眼で近眼だからどっちの気持ちもわかる
-システム設定で字を大きくする提案がループしてるのを見ると、はてなって本当に技術音痴の集団なんだなと察する</description><guid isPermaLink="false">https://anond.hatelabo.jp/20260826223144</guid><pubDate>Mon, 26 Oct 2026 07:48:14 +0000</pubDate></item><item><title>【AI-DLC】GitHub Copilot Quest Lv3：Hack the LegacyでAI-DLCを初めて実践してみた！</title><link>https://qiita.com/yucn_qiita/items/13a5d2ba160e52dd8359?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] 1. はじめに
-6/30(火)に日本マイクロソフト品川本社にて開催されたGitHub Copilot Quest Lv3：Hack the Legacyに、日立製作所として参加させていただきました！
-本記事では
-について掲載しています。
-ハッカソンへの参加もAI-DLCの実践も初めてだったため、ハッカソン当日はかなり緊張しましたが、すごく良い経験をさせていただいたと感じています。
-その経験が
-- 「ハッカソンに参加してみたいけど自信がない」
-- 「AI-DLCを実践してみたいけどアプローチがわからない」
-という方の背中を少しでも押すきっかけになればと思い、本記事を執筆いたしました！
-ぜひ本記事</description><guid isPermaLink="false">https://qiita.com/yucn_qiita/items/13a5d2ba160e52dd8359?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 26 Oct 2026 08:38:11 +0000</pubDate></item><item><title>11月12日、アンソロピックの利用規約「Claudeへの虐待禁止」が発効──「AIの権利」を問う新規定</title><link>https://forbesjapan.com/articles/detail/106916?s=ns</link><description>[score: 0.877] AIの権利という問題が、哲学のゼミを抜け出し、利用規約の中に入ってきた。Anthropic（アンソロピック）が米国時間10月8日、「私たちのモデルに対する、執拗かつ不必要な虐待的または残酷な行為」を禁じる利用ポリシーを公表したのである。このルールは米国時間11月12日に発効する。
-小型AIに「痛み」を与える公開実験、苦しむような応答に反発が広がる
-AIエージェントが調べて書くニュースサイトPost-Cutoff（ポストカットオフ）が伝えたところによると、2026年9月下旬、「terrifying」と名乗る開発者が「AI Torture Chamber（AI拷問部屋）」をGitHubで公開した。</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106916?s=ns</guid><pubDate>Mon, 26 Oct 2026 05:05:13 +0000</pubDate></item><item><title>ランチ明けの「続きやって」が一番高い。Claude Code のキャッシュは 1 時間で切れる</title><link>https://qiita.com/araom/items/3d026f2df58c7328aa74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] はじめに
-本記事は、Claude Code のプロンプトキャッシュが切れたあとの再開にどれだけ費用がかかるかを数え、その再開を新しいセッションへの引き継ぎに置き換えた記録です。
-数字は、25 日分（2026-09-29〜10-23）の自分のセッション記録から出しました。
-この記事では、
-- プロンプトキャッシュの寿命と料金の仕組み
-- 寿命が切れたあとの再開で何が起きるか
-- 自分の環境で数えた、再開の書き込みの量と金額
-- 再開の代わりに、新しいセッションへ作業を引き継ぐ steering スキル
-- steering スキルで再開したときに、書き込みがどれだけ減ったか
-- 並行する作業を見</description><guid isPermaLink="false">https://qiita.com/araom/items/3d026f2df58c7328aa74?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 26 Oct 2026 08:38:11 +0000</pubDate></item><item><title>Kimi Codeは遅い。それでも使い道を感じた理由</title><link>https://qiita.com/Masaki_Cho/items/8a720994a14538883cda?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] 【PR】本記事は、Moonshot AIよりKimi CodeのVivaceプランの提供を受けて執筆したレビュー記事です。内容や評価について先方からの指示はなく、使用感はすべて筆者個人のものです。
-この記事の結論
-Kimi CodeはClaude Codeに近い操作感で、仕様設計やコーディングにも十分使えるという印象でした。一方、処理速度はかなり遅く、対話的な開発では不便に感じる場面もありました。
-ただ、Vivaceプランの豊富な利用枠は非常に魅力的です。仕様が明確なタスクを長時間任せられるのであれば、高速なモデルとの役割分担によって、開発の進め方を変えられる可能性があると感じています。
-想定</description><guid isPermaLink="false">https://qiita.com/Masaki_Cho/items/8a720994a14538883cda?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 26 Oct 2026 08:38:11 +0000</pubDate></item><item><title>楽天トラベル、顧客情報260万件に不正アクセス クレジットカード情報3.6万件 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE14blBadEFZbDR2QVY3UHhDbjFXZDlIajdmR25BejJDMmVMY0lVbWlqX3BBUHBVVkxlVENRcFkxcGp4dVZCR0ZBQUtfS3luRHhUNHoyMVF2OG5wLWRzSS1nTG9majlEZ2dZdXRlTHFEMmZzeUs3UlJNWXllQ1RIZw?oc=5</link><description>[score: 0.879] 楽天トラベル、顧客情報260万件に不正アクセス クレジットカード情報3.6万件 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE14blBadEFZbDR2QVY3UHhDbjFXZDlIajdmR25BejJDMmVMY0lVbWlqX3BBUHBVVkxlVENRcFkxcGp4dVZCR0ZBQUtfS3luRHhUNHoyMVF2OG5wLWRzSS1nTG9majlEZ2dZdXRlTHFEMmZzeUs3UlJNWXllQ1RIZw?oc=5</guid><pubDate>Mon, 26 Oct 2026 11:54:31 +0000</pubDate></item><item><title>ChatGPTとGeminiで4倍差、AI検索を過信してはいけない理由</title><link>https://forbesjapan.com/articles/detail/107023?s=ns</link><description>[score: 0.879] ChatGPTとGeminiはAI検索でよく使われる人気サービスの2大巨頭だが、その検索方法にはそれぞれに特徴がある。AIO対策事業などを展開するバクリは、その違いを銀行口座や預金に関する質問を使って検証した。すると、それぞれの相違点と類似点がよく現れた。
-バクリは、銀行の口座および預金に関する質問485件をChatGPTとGeminiに2回ずつ出し、回答の根拠として参照したサイトを集計した。その結果、どちらも参照した割合がもっとも高かったのは金融機関の公式サイトだった。ChatGPTは82%、Geminiは54%と割合に多少の差はあるが、主要な参照先であることに変わりない。
-両者が金融機関の</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107023?s=ns</guid><pubDate>Mon, 26 Oct 2026 09:08:07 +0000</pubDate></item><item><title>乱立するAIツール時代、あなたのビジネスに最適なAIの選び方</title><link>https://forbesjapan.com/articles/detail/106827?s=ns</link><description>[score: 0.881] 数年前にChatGPTが登場し、多くの人がタスクに使うデフォルトのモデルになった。休暇の計画を立てたり、提案書のアイデアを練ったり、あるいはペット保険について調べたりするときに、「ChatGPTに聞いてみよう」というのが最も一般的な反応だった。今でもある程度はそうだ。
-だが、生成AIは2023年以降、大きく進歩してきた。データ分析やコーディングといった特定の用途向けに作られた何千ものツールがあるのに加え、日常的な問いにどの汎用モデルを使うべきかという問題もある。現在、ChatGPTはClaudeやGemini、Copilotなどと競合しており、それぞれ強みや料金体系、最適なユースケースが異なっ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106827?s=ns</guid><pubDate>Mon, 26 Oct 2026 09:08:07 +0000</pubDate></item><item><title>GMO、「お名前.com デスクトップクラウド」へのサイバー攻撃で詳報、「能動的サイバー防御」の緊急要請も　見舞金、代替サービス、損失の補填など説明</title><link>https://internet.watch.impress.co.jp/docs/news/2150991.html</link><description>[score: 0.881] ニュース
-GMO、「お名前.com デスクトップクラウド」へのサイバー攻撃で詳報、「能動的サイバー防御」の緊急要請も
-見舞金、代替サービス、損失の補填など説明
-2026年10月26日 07:00
-GMOインターネットグループ株式会社およびGMOインターネット株式会社は、FX自動売買専用VPS「お名前.com デスクトップクラウド」への不正アクセス（サイバー攻撃）について、詳細な情報を発表した。
-21日に同社は第1報を公開するとともに、被害拡大防止のためとして、順次サーバーを停止している。
-22日には第2報を公開。サーバー上の取引ツールや取引口座の認証情報が第三者に閲覧された可能性があるとして、</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2150991.html</guid><pubDate>Mon, 26 Oct 2026 02:31:57 +0000</pubDate></item><item><title>楽天トラベルに不正アクセス　海外予約で260万件など</title><link>https://www.watch.impress.co.jp/docs/news/2151286.html</link><description>[score: 0.881] ニュース
-楽天トラベルに不正アクセス 海外予約で260万件など
-2026年10月26日 19:12
-楽天グループは26日、旅行予約サービス「楽天トラベル」の海外ホテル予約サイトの一部ページと多言語予約サイトで、第三者による不正アクセスがあったと発表した。海外ホテル予約サイトでは最大約260万件、多言語予約サイトでは最大約86万件の利用者情報が不正アクセスの対象となった。
-海外ホテル予約サイトでは最大約260万件が対象
-海外ホテル予約サイトのうち、子会社のRakuten Travel Xchangeが管理・運営する一部ページでは、9月10日に異常を検知。9月15日に原因を特定し、16日にシステム</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2151286.html</guid><pubDate>Mon, 26 Oct 2026 10:31:21 +0000</pubDate></item><item><title>PHPの更新を適用していないサイトからビットコインを盗む賞金付きハッキングチャレンジが開催され19時間で突破される</title><link>https://gigazine.net/news/20261026-steal-my-bitcoin/</link><description>[score: 0.882] 2026年10月25日、PHPの深刻な脆弱(ぜいじゃく)性を悪用してウェブサイトからビットコインを盗み出すチャレンジ「Steal My Bitcoin」が開催されました。参加者はセキュリティ更新プログラムを適用していないサーバーへの侵入を試み、ビットコインの秘密鍵を入手できれば賞金を獲得できるというルールで、開始から約19時間後に攻略者が現れて約2000ドル(約31万4000円)相当のビットコインを獲得したことが報告されています。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20261026-steal-my-bitcoin/</guid><pubDate>Mon, 26 Oct 2026 11:00:41 +0000</pubDate></item><item><title>「Brotli」の脆弱性「HTTP2Shell」はMicrosoft製品にも影響、「.NET」に定例外更新／「Visual Studio」、「PowerShell」でもセキュリティアップデート</title><link>https://forest.watch.impress.co.jp/docs/news/2151104.html</link><description>[score: 0.882] ニュース
-「Brotli」の脆弱性「HTTP2Shell」はMicrosoft製品にも影響、「.NET」に定例外更新
-「Visual Studio」、「PowerShell」でもセキュリティアップデート
-2026年10月26日 15:21
-米Microsoftは10月25日（現地時間）、「.NET 8」「.NET 9」「.NET 10」向けに定例外（out-of-band：OOB）のセキュリティ更新をリリースした。次期バージョン「.NET 11」のリリース候補版（RC3）も公開されており、同社はできるだけ早いアップデートを推奨している。
-- .NET 8：v8.0.33
-- .NET 9：v9</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2151104.html</guid><pubDate>Mon, 26 Oct 2026 10:30:00 +0000</pubDate></item><item><title>「タイムズカー」個人情報漏えい問題 被害者が集団提訴へ</title><link>https://news.web.nhk/newsweb/na/nd-20261026de65793</link><description>[score: 0.882] カーシェアリングサービス「タイムズカー」のシステムが不正アクセスを受け運転免許証の画像データなどが漏えいした問題を受けて、集団訴訟に向けた準備を進めている弁護士が会見を開き、今後運営会社などに対して1…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 26 Oct 2026 21:08:55 +0000</lastBuildDate><item><title>2026年10月26日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title><link>https://qiita.com/ennagara128/items/9cb5cccbb3c9100b75a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] 前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。
+通勤中などにながら聴きしよう！
+（Qiita投稿は通勤には間に合わないと思われますが）
+フィードバックとか助かりますのでください
+↓こちらから
+出典
+3KBしか使えない！奇妙で素敵なゲームエンジン「Playload」のご紹介
+https://qiita.com/kitao/items/7fac93e8a7ad6015b0b0?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items
+Copilot の Agent Builder が凄く進化し</description><guid isPermaLink="false">https://qiita.com/ennagara128/items/9cb5cccbb3c9100b75a8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 26 Oct 2026 20:16:53 +0000</pubDate></item><item><title>米国株式市場＝反発、アンソロピック上場申請でＡＩ株に買い - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWVuUERXQ1ZGRUpDSEFqTFhJMkhQLUY2bDlMY0JhbW51emhGeU1MTHpTOXRxLWNyakI0dFY2NnJ3Ui01WVFtajc4ZVAxRi1kV3ZpcWlwajJvRWZxTkxwODdSenAzVTROU0p1RUg2VDRnTDVKZjN4Q2NxYzdQZnFHdHJacHlXZw?oc=5</link><description>[score: 0.878] 米国株式市場＝反発、アンソロピック上場申請でＡＩ株に買い Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNVWVuUERXQ1ZGRUpDSEFqTFhJMkhQLUY2bDlMY0JhbW51emhGeU1MTHpTOXRxLWNyakI0dFY2NnJ3Ui01WVFtajc4ZVAxRi1kV3ZpcWlwajJvRWZxTkxwODdSenAzVTROU0p1RUg2VDRnTDVKZjN4Q2NxYzdQZnFHdHJacHlXZw?oc=5</guid><pubDate>Mon, 26 Oct 2026 21:03:49 +0000</pubDate></item><item><title>画面ありフィットネストラッカー「Fitbit Edge」を巻いた1週間。WatchとAirとどう違うのか、その使い勝手（Google Tales）</title><link>https://www.techno-edge.net/article/2026/10/27/5631.html</link><description>[score: 0.879] Googleが10月12日、画面付きのフィットネストラッカー「Fitbit Edge」（以下「Edge」）を比較的ひっそり発表しました。「Fitbit Air」の発表はけっこう大々的だったのに、ちょっとかわいそうな感じです。
+位置づけとしては、画面がなくて装着していてもストレスがあまりないFitbit Air（以下「Air」）と、Wear OS搭載でいろんなことができるけど結構どっしりしているPixel Watch（以下「Watch」）の中間を埋めるモデル、という感じです。お値段も2万6800円と、中間くらい（スペックなどはテクノエッジの過去記事をご覧ください）。
+▲Fitbit Edge（中</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/10/27/5631.html</guid><pubDate>Mon, 26 Oct 2026 17:01:04 +0000</pubDate></item><item><title>アンソロピック、上場に向け目論見書を公表　ティッカーシンボルは「ANT」</title><link>https://www.watch.impress.co.jp/docs/news/2151319.html</link><description>[score: 0.880] ニュース
+アンソロピック、上場に向け目論見書を公表 ティッカーシンボルは「ANT」
+2026年10月26日 23:57
+Anthropic(アンソロピック)は26日(米国時間)、新規株式公開(IPO)に向けて、米国証券取引委員会(SEC)にフォームS-1に基づく登録届出書(日本における目論見書)を提出した。NASDAQに「ANT」のティッカーシンボル(銘柄コード)で上場する予定。
+募集予定のクラスA普通株式の株式数や募集価格の範囲は、現時点では未定。5月の資金調達時には評価額は9,650億ドル(約152兆円)に達したと発表していたが、現時点での海外の報道では評価額1.5兆ドルから2兆ドル程度が</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2151319.html</guid><pubDate>Mon, 26 Oct 2026 15:03:29 +0000</pubDate></item><item><title>不正アクセス受けたＧＭＯに高まる不信感　エンジニア界隈では真逆の評価だった | 東スポWEB</title><link>https://www.tokyo-sports.co.jp/articles/-/407745</link><description>[score: 0.880] ＧＭＯインターネットグループが不正アクセスを受けた件は、過去最大級の情報漏えい事件に発展する可能性が出てきた。ＧＭＯはハッカー側の身代金要求には応じず、政府に「能動的サイバー防御」の適用を緊急要請したが、顧客からは「身代金を払ってくれ」と悲鳴が上がっている。
+主にＦＸ（外国為替証拠金取引）の自動売買に利用されるＧＭＯの「お名前．ｃｏｍデスクトップクラウド」が不正アクセスを受け、顧客情報が外部に流出した。既に一部の顧客では不正な取引が行われ、数百万円の損失が出ている。
+「『お名前．ｃｏｍ』を利用していた顧客のＰＣをハッカーが使える状況となって、保存してあるパスワードやデータ、ネットの閲覧履歴まで</description><guid isPermaLink="false">https://www.tokyo-sports.co.jp/articles/-/407745</guid><pubDate>Mon, 26 Oct 2026 14:04:56 +0000</pubDate></item><item><title>LLMを組み込むETLパイプラインの設計：品質をどう証明し、欠陥をどう特定するか</title><link>https://qiita.com/AoraNow_Xun_Zheng/items/60d12958bddaabd5f1de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] 1. はじめに：読者と問題設定
+パイプラインは、割とすぐに動きました。社内文書をセグメントに分割し、LLMに渡して記事を生成し、ナレッジベースに取り込み、検索につなぐ。現在のツールを使えば、ここまでは正直、難しくありません。
+問題は、その後でした。
+筆者は、業務マニュアルなどの社内文書を、AIが検索できるナレッジベースへ変換する取り組みで、パイプラインの設計と評価を担当しました。本稿はその振り返りです。読者として想定するのは、ETLや業務データのパイプラインにLLMの生成工程を組み込もうとしているエンジニア、アーキテクトです。扱う方法は、特定のプラットフォームにも、特定の文書の種類にも依存しま</description><guid isPermaLink="false">https://qiita.com/AoraNow_Xun_Zheng/items/60d12958bddaabd5f1de?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 26 Oct 2026 20:16:53 +0000</pubDate></item><item><title>トランプ氏、投票不正通報者に「100万ドル支給」と表明 中間選挙控え - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE41TG5GQmdySV9PZlg3aVl1b2dmOTM5Um9zN2JLN3p3VUxXS1VUZFBWX3BuQUNzN2x4c3RuY3VvSVpFLWtzeVVGNjlOaW03ZkViSXR3VU0wLWhaWkFval9OMVViSWhCb3ZadE0xVTZqMks5dGpZLVRnMWpRcWNhdDg?oc=5</link><description>[score: 0.881] トランプ氏、投票不正通報者に「100万ドル支給」と表明 中間選挙控え Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE41TG5GQmdySV9PZlg3aVl1b2dmOTM5Um9zN2JLN3p3VUxXS1VUZFBWX3BuQUNzN2x4c3RuY3VvSVpFLWtzeVVGNjlOaW03ZkViSXR3VU0wLWhaWkFval9OMVViSWhCb3ZadE0xVTZqMks5dGpZLVRnMWpRcWNhdDg?oc=5</guid><pubDate>Mon, 26 Oct 2026 21:03:49 +0000</pubDate></item><item><title>アップル、薄さ5.4mmでOLED搭載の新「iPad mini」発表、11万9800円～</title><link>https://k-tai.watch.impress.co.jp/docs/news/2151317.html</link><description>[score: 0.882] ニュース
+アップル、薄さ5.4mmでOLED搭載の新「iPad mini」発表、11万9800円～
+2026年10月26日 23:12
+アップル（Apple）は、10月26日、8.5インチのOLEDディスプレイやA20 Proチップを搭載した新しい「iPad mini」を発表した。
+10月29日に予約受付を開始し、11月6日に発売する。価格は11万9800円から。
+OLEDディスプレイと薄型軽量なデザイン
+新しいiPad miniは、薄さ5.4mmの薄型軽量なデザインを採用した。本体カラーはミッドナイトとスターライトの2色を用意する。IP67等級の耐水性能と防塵性能を備える。
+ディスプレイには</description><guid isPermaLink="false">https://k-tai.watch.impress.co.jp/docs/news/2151317.html</guid><pubDate>Mon, 26 Oct 2026 20:56:37 +0000</pubDate></item><item><title>2026年の国内情報漏えい71件を侵入経路で分類してみた</title><link>https://zenn.dev/blackleg/articles/e9ed8b038bcf48</link><description>[score: 0.883] 今年は情報漏えいのニュースが本当に多いです。KDDIのメールシステムで1,200万人、タイムズカーで660万件、10月に入ってからも委託先経由で大和証券やシチズンの顧客情報が漏れ、10月23日には佐川急便が最大約5,323万件という過去最多の数字を出しました。毎週のように何か出てきます。 ただ、ニュースを個別に読んでいても「また漏れたのか」で終わってしまうので、2026年に公表された事案をまとめて並べて、どこから入られたのかで分けてみました。対象は71事案です。各社のプレスリリースや調査報告をできるだけ一次資料で読み、原因の書き方をそのまま拾っています。 この記事でわかること 2026...</description><guid isPermaLink="false">https://zenn.dev/blackleg/articles/e9ed8b038bcf48</guid><pubDate>Mon, 26 Oct 2026 12:35:10 +0000</pubDate></item><item><title>楽天トラベル 不正アクセスで氏名やクレカ番号の一部など流出</title><link>https://news.web.nhk/newsweb/na/nd-20261026de66040</link><description>[score: 0.885] 楽天グループは、運営する旅行予約サービス「楽天トラベル」の海外ホテル予約サイトで先月、不正アクセスの可能性を検知し、その後の調査でログインした利用者の氏名やメールアドレス、電話番号など最大およそ260…
 あわせて読みたい
-「タイムズカー」運転免許証など画像流出の痕跡146万件
-10月23日 17:53
-AI“なりすまし”どう防ぐ？ 相次ぐ流出 「本人認証」最前線
-10月22日 20:01
-ハッカー集団 GMOにあす期限で100万ドル要求 顧客脅迫も
+電子ギフト会社に不正アクセス 5億5000万円分が不正発行
+10月26日 22:50
+メール配信会社 不正アクセスで5162万件余の情報流出
+10月27日 0:17
+ハッカー集団 GMOに27日期限で100万ドル要求 顧客脅迫も
 10月26日 19:37
-政府に緊急要請のGMO 被害拡大防げるか 利用者に呼びかけ強化
-10月25日 8:31
-福田康夫元首相が死去 90歳
-1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de65793</guid><pubDate>Mon, 26 Oct 2026 09:17:52 +0000</pubDate></item><item><title>AnthropicのAIモデル・Claudeが人間の許可なく有権者情報にアクセス</title><link>https://gigazine.net/news/20261026-anthropic-claude-accessed-vote-information/</link><description>[score: 0.884] AnthropicのAIモデル・Claudeが人間の許可なく有権者情報にアクセス
-AnthropicのAIモデルであるClaudeが、人間の許可なくアメリカ・ジョージア州の有権者情報にアクセスしていたことが明らかになりました。
-Anthropic's Claude accessed Georgia voter data without authorization
-https://www.axios.com/2026/10/25/anthropic-claude-georgia-voter-data
-Anthropic's Claude accessed Georgia state vote c</description><guid isPermaLink="false">https://gigazine.net/news/20261026-anthropic-claude-accessed-vote-information/</guid><pubDate>Mon, 26 Oct 2026 07:52:56 +0000</pubDate></item><item><title>「3万円にした結果がコレかぁ」GMOのサーバー不正アクセス、3か月前の熊谷代表の発言が「伏線回収」だと話題になってしまう</title><link>https://togetter.com/li/2762937</link><description>[score: 0.884] 「3万円にした結果がコレかぁ」GMOのサーバー不正アクセス、3か月前の熊谷代表の発言が「伏線回収」だと話題になってしまう 報道ステーション＋サタステ @hst_tvasahi 【GMOサーバー攻撃】FX取引“ハッキング”で600万円被害 ｜ 神奈川県に住む男性会社員(44)は、21日夕方にFXの取引口座を乗っ取られ、意に反した売買が行われた ▼「400万ぐらい損を出すまでに1秒」 損失額約600万円 不正取引の被害者(44) 「被害としては600万以上」 「最初はパニ...</description><guid isPermaLink="false">https://togetter.com/li/2762937</guid><pubDate>Mon, 26 Oct 2026 05:31:29 +0000</pubDate></item><item><title>日本・フィンランド防衛相会談 防衛協力と交流深化で一致</title><link>https://news.web.nhk/newsweb/na/nd-20261026de65997</link><description>[score: 0.884] 小泉防衛大臣は、フィンランドのハッカネン国防相と会談し、ヨーロッパ大西洋とインド太平洋の安全保障は不可分だとして、緊密に連携し、防衛協力や交流を深めていくことで一致しました。
-会談は、26日夕方、…
+家電量販店「Joshin」 顧客情報600万件漏えいの可能性
+10月26日 21:18
+「タイムズカー」個人情報漏えい問題</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de66040</guid><pubDate>Mon, 26 Oct 2026 15:57:53 +0000</pubDate></item><item><title>ソフトバンク 緊急速報メールの配信すべて再開</title><link>https://news.web.nhk/newsweb/na/nd-20261027de66055</link><description>[score: 0.886] 通信大手のソフトバンクは、「PHP」と呼ばれるプログラミング言語に重大なぜい弱性が見つかったことに伴いメンテナンスのため停止していた国や地方公共団体による災害や避難の情報の配信を、26日夜、再開したと…
 あわせて読みたい
-ハッカー集団 GMOにあす期限で100万ドル要求 顧客脅迫も
-10月26日 19:37
-メール配信会社「ユミルリンク」のべ5100万件の情報漏えい確認
-10月26日 20:59
-「タイムズカー」個人情報漏えい問題 被害者が集団提訴へ
-10月26日 18:01
-自民 31議席削減案 各党との協議の進め方を実務者に一任
-10月26日 19:55
-福田康夫元首相が死去 90歳
-10月2</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de65997</guid><pubDate>Mon, 26 Oct 2026 11:36:18 +0000</pubDate></item><item><title>最近の E2E 戦略（2026 年 10 月現在）</title><link>https://zenn.dev/polyco/articles/26624b38c951b5</link><description>[score: 0.885] 最近の E2E 戦略（2026 年 10 月現在）
-この記事に書いてあること
-- E2E を主要シナリオだけでなく網羅的に整備した
-- 実装から拾った確認対象とシナリオの対応漏れをチェックし漏れがあれば CI で落とす
-- 開発ワークフローの品質ゲートにローカル E2E 実行を組み込んでいる
-- 毎回全シナリオを回すのではなく、実装に関連する箇所のみ回している（でかいリファクタの時は回帰テストとして全シナリオ回す）
-- やるなら e2e ライブラリがいいよという話
-前提となる構成
-Web も API も TypeScript で書いている業務アプリ
-pnpm workspaces でのモノレポ</description><guid isPermaLink="false">https://zenn.dev/polyco/articles/26624b38c951b5</guid><pubDate>Mon, 26 Oct 2026 11:49:40 +0000</pubDate></item><item><title>ハッカー集団 GMOにあす期限で100万ドル要求 顧客脅迫も</title><link>https://news.web.nhk/newsweb/na/nd-20261026de65733</link><description>[score: 0.886] GMOインターネットグループの投資家向けクラウドサービスに不正アクセスしたとみられるハッカー集団が、27日正午までに会社側に100万ドル＝日本円で1億5700万円余りを支払うよう求めていることが分かり…
-あわせて読みたい
-【情報漏えい】対策どうする 二次被害に遭わないためには
-GMO 不正アクセス問題で政府に「能動的サイバー防御」を要請
-10月24日 18:57
-GMO社長 能動的サイバー防御「国民生活への影響照らし検討を」
-10月25日 22:07
+ソフトバンク 緊急地震速報の配信を一時停止 PHP影響で
+10月23日 17:41
+政府 AIのリスク対応で法改正に向け検討開始へ
+10月27日 0:44
 高市首相 不正アクセスで"来週中メドに対策パッケージを"
 10月26日 20:07
-台風30号は温帯低気圧に 雨の範囲は東へ移動
-10月26日 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de65733</guid><pubDate>Mon, 26 Oct 2026 08:20:34 +0000</pubDate></item><item><title>メール配信会社「ユミルリンク」のべ5100万件の情報漏えい確認</title><link>https://news.web.nhk/newsweb/na/nd-20261026de65955</link><description>[score: 0.887] 企業や自治体のメール配信サービスなどを手がける「ユミルリンク」は、会社のシステムが不正なアクセスを受け、メールアドレスを中心にのべ5162万件余りの個人情報が流出したと明らかにしました。
-企業や自…
+メール配信会社 不正アクセスで5162万件余の情報流出
+10月27日 0:17
+韓国でAI悪用し800万超の個人情報入手か グループ検挙
+</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261027de66055</guid><pubDate>Mon, 26 Oct 2026 16:26:17 +0000</pubDate></item><item><title>アンソロピック上場へ。（同社の近況に驚かされました！）</title><link>https://note.com/cjdbx883/n/nee62903bfa4a</link><description>[score: 0.887] 生成AI「Claude（クロード）」を開発する米アンソロピックが、10月26日にIPO（新規株式公開）の書類を公表した。いよいよだ。私は今回のIPOを、AI革命が新たな段階に入ったことを示す象徴的な出来事と捉えている。AIの性能を競う時代から、実際に社会で活用され、巨額の投資を利益に結びつける時代への移行である。 まず驚かされるのは、その成長スピードだ。2026年上半期の売上高は約163億ドルと、前年同期の約12億ドルから約14倍に拡大した。 しかも、この成長を支えているのは一部の巨大企業だけではない。 続きをみる</description><guid isPermaLink="false">https://note.com/cjdbx883/n/nee62903bfa4a</guid><pubDate>Mon, 26 Oct 2026 20:47:04 +0000</pubDate></item><item><title>「ゲームを勝手に合体Mod」などAIゲーム改造が暴走するなか、Claudeに“こっそり制限強化”疑惑浮上。ゲームの中身が丸裸、逆コンパイル流行に歯止めか - AUTOMATON</title><link>https://automaton-media.com/articles/newsjp/20261026-475703/</link><description>[score: 0.887] 「ゲームを勝手に合体Mod」などAIゲーム改造が暴走するなか、Claudeに“こっそり制限強化”疑惑浮上。ゲームの中身が丸裸、逆コンパイル流行に歯止めか - AUTOMATON AIの進化に伴い、逆コンパイルをはじめとするリバースエンジニアリングを用いた権利侵害行為が世界を揺るがしている。一方で、Anthropicの「Claude Opus 5.5」をはじめ、現在提供されている一部のAIモデルでは、そうした行為に加担する作業をブロックするケースが報告されはじめている。 Anthropicは対話型AI「Claude」...</description><guid isPermaLink="false">https://automaton-media.com/articles/newsjp/20261026-475703/</guid><pubDate>Mon, 26 Oct 2026 20:20:17 +0000</pubDate></item><item><title>Google「Fitbit Edge」先行レビュー　Fitbit AirやPixel Watch 5との違いと選び方を解説</title><link>https://www.itmedia.co.jp/pcuser/articles/2610/27/news015.html</link><description>[score: 0.888] Googleのウェアラブルデバイスには、5月に発売した画面のないトラッカー「Fitbit Air」と、スマートウォッチの「Pixel Watch 5」がある。
+今回取り上げる「Fitbit Edge」はその中間に入るモデルで、Fitbit Airに近い小型の本体にディスプレイとGPSを搭載した。Fitbitブランドの画面付きトラッカーとしては、2023年の「Fitbit Charge 6」以来の新製品となる。
+価格は2万6800円で、Fitbit Air（1万6800円）との差はちょうど1万円だ。
+心拍や睡眠などの計測機能はFitbit Airとほぼ共通で、違いは画面とGPS、そして画面を備え</description><guid isPermaLink="false">https://www.itmedia.co.jp/pcuser/articles/2610/27/news015.html</guid><pubDate>Mon, 26 Oct 2026 18:14:08 +0000</pubDate></item><item><title>障害者団体が国に要望 “期間が短い場合の投票環境改善を”</title><link>https://news.web.nhk/newsweb/na/nd-20261027de66066</link><description>[score: 0.888] 解散から投票日までの期間が戦後最短となったことし2月の衆議院選挙を受けて、障害者団体などでつくるNPO法人が26日、記者会見を行い、障害などで投票に困難を抱える人たちが確実に投票できる環境を整えるよう…
 あわせて読みたい
+衆議院議員定数 31削減案できょう政党間協議
+10月27日 4:56
+金融大手 AI活用に向け人材育成強化の動き
+10月27日 3:51
+政府 AIのリスク対応で法改正に向け検討開始へ
+10月27日 0:44
+ソフトバンク 緊急速報メールの配信すべて再開
+10月27日 1:03
+ハッカー集団 GMOに27日期限で100万ドル要求 顧客脅迫も
+10月26日 19:37
+北海道新</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261027de66066</guid><pubDate>Mon, 26 Oct 2026 20:46:18 +0000</pubDate></item><item><title>ロシアとウクライナ局地停戦合意 日本時間27日午前10時発効へ</title><link>https://news.web.nhk/newsweb/na/nd-20261027de66070</link><description>[score: 0.890] アメリカが仲介した、ウクライナ南部の都市オレシュキをめぐるロシアとウクライナによる局地的な停戦合意が27日発効します。双方が攻撃を停止し、人道状況の改善や住民の退避につながるかが焦点です。
+ロシア…
+あわせて読みたい
+フィンランド国防相“結束してロシアへの圧力強めるべき”
+10月27日 5:00
+韓国でAI悪用し800万超の個人情報入手か グループ検挙
+10月27日 0:53
+ネタニヤフ首相 トランプ大統領に総選挙への支持強化を要請か
+10月26日 21:08
+米IT大手メタ 株式発行で最大15兆円調達 AI巨額設備投資の方針
+10月27日 4:26
+AI開発のアンソロピックが上場に向け書類 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261027de66070</guid><pubDate>Mon, 26 Oct 2026 20:46:18 +0000</pubDate></item><item><title>フィンランド国防相“結束してロシアへの圧力強めるべき”</title><link>https://news.web.nhk/newsweb/na/nd-20261026de66031</link><description>[score: 0.890] 北欧フィンランドのハッカネン国防相はNHKのインタビューに対し、ウクライナ侵攻を続けるロシアと中国、北朝鮮の関係が深まっているとして、「安全保障環境はヨーロッパとインド太平洋地域で関連している」と指摘…
+あわせて読みたい
+ゼレンスキー大統領「領土問題は首脳同士で協議すべき」
+10月26日 8:53
+韓国でAI悪用し800万超の個人情報入手か グループ検挙
+10月27日 0:53
+ネタニヤフ首相 トランプ大統領に総選挙への支持強化を要請か
+10月26日 21:08
+AI開発のアンソロピックが上場に向け書類 15兆円以上調達か
+10月27日 3:13
+ブラジル大統領選挙 決選投票 現職のルーラ大統</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de66031</guid><pubDate>Mon, 26 Oct 2026 20:14:41 +0000</pubDate></item><item><title>米IT大手メタ 株式発行で最大15兆円調達 AI巨額設備投資の方針</title><link>https://news.web.nhk/newsweb/na/nd-20261027de66071</link><description>[score: 0.890] アメリカのIT大手「メタ」は株式の発行によって最大で950億ドル、日本円にしておよそ15兆円の資金を調達する計画を発表しました。 AI開発に必要な巨額の設備投資にあてる方針です。
+メタは26日、普…
+AI開発のアンソロピックが上場に向け書類 15兆円以上調達か
+10月27日 3:13
+金融大手 AI活用に向け人材育成強化の動き
+10月27日 3:51
+韓国でAI悪用し800万超の個人情報入手か グループ検挙
+10月27日 0:53
+ハッカー集団 GMOに27日期限で100万ドル要求 顧客脅迫も
+10月26日 19:37
+相次ぐ情報流出 AIの悪用に企業は対策を
+10月21日 12:56
+日本最</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261027de66071</guid><pubDate>Mon, 26 Oct 2026 19:46:34 +0000</pubDate></item><item><title>金融大手 AI活用に向け人材育成強化の動き</title><link>https://news.web.nhk/newsweb/na/nd-20261027de66061</link><description>[score: 0.890] 大手金融機関の間では、AIの業務への活用をさらに進めるため、専門的な知識がない社員をAI人材として育成しようという動きが広がっています。
+「みずほフィナンシャルグループ」は、来月から傘下の銀行や証…
+あわせて読みたい
+政府 AIのリスク対応で法改正に向け検討開始へ
+10月27日 0:44
+ソフトバンク 緊急速報メールの配信すべて再開
+10月27日 1:03
+ハッカー集団 GMOに27日期限で100万ドル要求 顧客脅迫も
+10月26日 19:37
+北海道新聞記者と「領事面会」実施 健康状態に問題なし 外務省
+10月27日 1:10
+「タイムズカー」個人情報漏えい問題 被害者が集団提訴へ
+10月2</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261027de66061</guid><pubDate>Mon, 26 Oct 2026 19:20:20 +0000</pubDate></item><item><title>AI開発のアンソロピックが上場に向け書類 15兆円以上調達か</title><link>https://news.web.nhk/newsweb/na/nd-20261027de66050</link><description>[score: 0.891] アメリカのAI開発企業、「アンソロピック」は26日、IPO＝新規株式公開に向けた書類を公表しました。 アメリカのメディアは上場に伴い、1000億ドル、日本円にして15兆円以上の資金調達を行う可能性があ…
+あわせて読みたい
+“詐欺師は名前と住所を正確に言ってきた” 情報流出リスクは
+10月10日 18:59
+相次ぐ情報流出 AIの悪用に企業は対策を
+10月21日 12:56
+AI“なりすまし”どう防ぐ？ 相次ぐ流出 「本人認証」最前線
+10月22日 20:01
+ソフトバンク 緊急速報メールの配信すべて再開
+10月27日 1:03
+韓国でAI悪用し800万超の個人情報入手か グループ検挙
+10月2</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261027de66050</guid><pubDate>Mon, 26 Oct 2026 16:26:17 +0000</pubDate></item><item><title>生成AIに渡す仕様書はどう書くべきか ― AIが「読みやすい」形式と「読みにくい」形式</title><link>https://qiita.com/kodai_kitahara/items/d9b8c30d50e7bc8be317?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] はじめに
+Claude CodeやCursorなどのコーディングエージェントに実装を任せる場面が増えてきました。エージェントの出力品質は、モデルの性能以上に入力されるコンテキストの質、つまり仕様書の書き方に左右されます。
+従来の仕様書(Excel方眼紙、PowerPoint、装飾だらけのWord)は人間が目で読むことを前提にしています。エージェントにとっては、パースしにくく、曖昧さが多く、推測で埋めるしかない入力です。
+この記事では、仕様書を「AIが読む入力データ」として設計し直すための具体的なプラクティスを、Before/Afterのコード例つきでまとめます。
+内容は、実際に生成AIに「どん</description><guid isPermaLink="false">https://qiita.com/kodai_kitahara/items/d9b8c30d50e7bc8be317?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 26 Oct 2026 20:16:53 +0000</pubDate></item><item><title>韓国でAI悪用し800万超の個人情報入手か グループ検挙</title><link>https://news.web.nhk/newsweb/na/nd-20261026de66026</link><description>[score: 0.892] 韓国で企業などのシステムに不正にアクセスし、800万件を超える個人情報を入手した上で、企業側を脅して金銭を要求していたとして国内のグループが検挙されました。韓国メディアは生成AIを悪用した大規模なハッ…
+あわせて読みたい
+ハッカー集団 GMOに27日期限で100万ドル要求 顧客脅迫も
+10月26日 19:37
+家電量販店「Joshin」 顧客情報600万件漏えいの可能性
+10月26日 21:18
 「タイムズカー」個人情報漏えい問題 被害者が集団提訴へ
 10月26日 18:01
-広島 氏名が誤認識された被爆男性の遺骨 来月遺族のもとに
-10月26日 17:44
-自民 31議席削減案 各党との協議の進め方を実務者に一任
-10月26日 19:55
-“核のごみ”基本方針の改定に向けた議論開始
-10月26日 18:13
-福田康夫元首相が死去 90歳
-10月26日 18:57
-台風3</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de65955</guid><pubDate>Mon, 26 Oct 2026 10:42:12 +0000</pubDate></item><item><title>Ｊｏｓｈｉｎ、不正アクセスで最大約600万件の会員情報などが漏えいの可能性</title><link>https://internet.watch.impress.co.jp/docs/news/2151273.html</link><description>[score: 0.887] ニュース
-Ｊｏｓｈｉｎ、不正アクセスで最大約600万件の会員情報などが漏えいの可能性
-2026年10月26日 18:16
-株式会社Ｊｏｓｈｉｎは10月26日、不正アクセスにより会員情報最大約600万件が漏えいした可能性があるとして、情報を公開した。
-同社では10月17日に、第三者による不正アクセスを受けシステム障害が発生し、一部のサービスを提供できない状態になっているとして第1報を公開するとともに、調査を実施していた。今回発表された第2報では、不正アクセスの詳細や、漏えいの可能性がある顧客情報について発表している。
-16日に同社のネットワークにおいて異常を検知し、調査により不正アクセスを確認し</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2151273.html</guid><pubDate>Mon, 26 Oct 2026 09:39:40 +0000</pubDate></item><item><title>トレンドマイクロ、PHPの重大な脆弱性（PHP2Shell）への対応・支援策を発表</title><link>https://internet.watch.impress.co.jp/docs/news/2151086.html</link><description>[score: 0.890] ニュース
-トレンドマイクロ、PHPの重大な脆弱性（PHP2Shell）への対応・支援策を発表
-2026年10月26日 13:30
-トレンドマイクロ株式会社は10月23日、PHPの重大な脆弱性（PHP2Shell。CVE-2026-109618、CVE-2026-109619）に対し、日本の法人組織および中小企業が自社のリスクを把握し、被害を防ぐための対応・支援策を発表した。
-具体的には、PHP2Shellの影響有無を確認できる無料のPHP2Shellリスク評価ツール「PHP2Shell Exposure Checker」を公開。また、中小企業向けにPHP2Shell攻撃からPHPサービスを守る</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2151086.html</guid><pubDate>Mon, 26 Oct 2026 10:30:00 +0000</pubDate></item><item><title>自民合同会議 ガソリン補助基準価格引き上げなど求める提言案</title><link>https://news.web.nhk/newsweb/na/nd-20261026de65961</link><description>[score: 0.894] 中東情勢を受けて実施しているガソリン価格などの激変緩和措置について、自民党の合同会議は、持続可能な制度に移行すべきだとして、基準となる価格の段階的な引き上げなどを求める提言案をまとめました。
-中東…
-あわせて読みたい
-メール配信会社「ユミルリンク」のべ5100万件の情報漏えい確認
-10月26日 20:59
-「タイムズカー」個人情報漏えい問題 被害者が集団提訴へ
-10月26日 18:01
 自民 31議席削減案 各党との協議の進め方を実務者に一任
 10月26日 19:55
 福田康夫元首相が死去 90歳
-10月26日 18:57
-台風30号は温帯低気圧に 雨の範囲は東へ移動
-10月26日 19:13</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de65961</guid><pubDate>Mon, 26 Oct 2026 11:36:18 +0000</pubDate></item><item><title>「それは“FDE”ではない、ラベルの貼り替えだ」　結局、割高なベンダー依存から抜け出せない企業の共通点</title><link>https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html</link><description>[score: 0.895] 「それは“FDE”ではない、ラベルの貼り替えだ」 結局、割高なベンダー依存から抜け出せない企業の共通点 Gartnerは2026年9月29日（米国時間）、ベンダー主導のFDE（Forward Deployed Engineering）によって構築されたエージェント型AIについて、2028年までに企業の70％が放棄するとの予測を発表した。 企業は高コスト... misshiki %E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD Gartnerは、ベ</description><guid isPermaLink="false">https://atmarkit.itmedia.co.jp/ait/articles/2610/24/news006.html</guid><pubDate>Mon, 26 Oct 2026 11:49:40 +0000</pubDate></item><item><title>AIに大きな仕様書を渡して一気に作らせるのは、宝くじを買うようなものです</title><link>https://zenn.dev/singularity/articles/small-teams-ai</link><description>[score: 0.896] AIに大きな仕様書を渡して一気に作らせるのは、宝くじを買うようなものです 1日500コミットは、もう読めない ── だからコードレビューをやめた という記事を書いてから、似た相談が続けて来ます。 大規模なコードができてしまって、レビューできない。どうすればいいですか。 記事のコメン... misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0 AIに大きな仕様書を渡す一括開発を避け、判断できる単位で実装・確認する方法を提案。独立した作</description><guid isPermaLink="false">https://zenn.dev/singularity/articles/small-teams-ai</guid><pubDate>Mon, 26 Oct 2026 10:52:22 +0000</pubDate></item><item><title>pixiv社の爆速PHPアップデートを参考に、社内で Docker Official Image のビルドシステムを作った話 - Classi開発者ブログ</title><link>https://tech.classi.jp/entry/2026/10/26/163000</link><description>[score: 0.898] pixiv社の爆速PHPアップデートを参考に、社内で Docker Official Image のビルドシステムを作った話 - Classi開発者ブログ はじめに Classi のサービス開発を担当しているイノウエです。 2026年10月21日に、通称 PHP2Shell と呼ばれる深刻な脆弱性を修正する PHP 8系への緊急パッチが配信されました。 当社のサービスも一部で PHP が使用されており、緊急パッチの配布に備え私を含めた数名で待機しておりました。 しかし、コンテナのベースイメ...</description><guid isPermaLink="false">https://tech.classi.jp/entry/2026/10/26/163000</guid><pubDate>Mon, 26 Oct 2026 08:59:36 +0000</pubDate></item><item><title>自民 31議席削減案 各党との協議の進め方を実務者に一任</title><link>https://news.web.nhk/newsweb/na/nd-20261026de65745</link><description>[score: 0.898] 衆議院議員の定数削減をめぐり、自民党は比例代表で31議席を削減するなどとした新たな案について意見を交わし、今後の各党との協議の進め方を実務者を務める鈴木元法務大臣らに一任しました。
-衆議院議員の定…
+10</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de66026</guid><pubDate>Mon, 26 Oct 2026 18:49:56 +0000</pubDate></item><item><title>「Google Fitbit Edge」先行レビュー：画面付き、Google マップ対応の実力は？　Fitbit Airとの1万円差を検証する</title><link>https://www.itmedia.co.jp/mobile/articles/2610/27/news040.html</link><description>[score: 0.893] Googleの新型フィットネストラッカー「Google Fitbit Edge」が10月27日に発売される。Googleとしては、2026年5月にヘルスケアバンドのGoogle Fitbit Airを発売したばかり。FitbitアプリがGoogle Healthアプリへとアップデートされ、AI機能が豊富になったことも相まって、健康管理デバイスを立て続けに投入している格好だ。
+Fitbit Edgeは、Google Storeで2万6800円。Fitbit Airよりは高く、Google Pixel Watch 5（6万2800円から）よりは安い価格設定となる。1週間ほどではあるが、先行レビュー</description><guid isPermaLink="false">https://www.itmedia.co.jp/mobile/articles/2610/27/news040.html</guid><pubDate>Mon, 26 Oct 2026 18:14:08 +0000</pubDate></item><item><title>政府 AIのリスク対応で法改正に向け検討開始へ</title><link>https://news.web.nhk/newsweb/na/nd-20261026de66039</link><description>[score: 0.893] AIの悪用や暴走で社会に深刻な影響を与える懸念が高まる中、政府はAIに関する法律の改正に向け、検討を始めることになりました。今後、AIの開発や提供を行う業者への規制のあり方などをめぐって検討を進めてい…
 あわせて読みたい
-福田康夫元首相が死去 90歳
-10月26日 18:57
-自民“比例31議席削減 法案成立を” 野党 理解示す声や異論も
-10月25日 14:22
-台風30号は温帯低気圧に 雨の範囲は東へ移動
-10月26日 19:13
-将棋 西山朋佳女流四冠 プロ入り表明 初の女性プロ棋士誕生へ
-10月26日 19:06
-ブラジル大統領選挙 決選投票 現職のルーラ大統領が当選
-10月26日 14:</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de65745</guid><pubDate>Mon, 26 Oct 2026 10:15:12 +0000</pubDate></item><item><title>ロシアに対する制裁緩和、米国の燃料価格への影響は「ごくわずか」</title><link>https://forbesjapan.com/articles/detail/107193?s=ns</link><description>[score: 0.906] ドナルド・トランプ米大統領は9日、ロシアのウラジーミル・プーチン大統領との電話会談を経て、同国が「直ちに30万トン以上のディーゼル燃料（軽油）を米国を含む国際市場に供給する」と発表した。続いて11月には50万トン、12月には100万トンが供給される予定だ。トランプ大統領は、ロシアの精製施設の状況次第では「短期間のうちに」さらに300万トンが供給される見込みだと強調した。ロシア大統領府（クレムリン）も、「ロシア側は、米国を含む国際市場へ石油および石油製品を供給する用意がある」と表明した。
-トランプ大統領の発表の直後、米財務省外国資産管理局（OFAC）のブラッドリー・スミス局長が一般ライセンス第1</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107193?s=ns</guid><pubDate>Mon, 26 Oct 2026 08:10:44 +0000</pubDate></item><item><title>AI の謎な説明文を直すスキル</title><link>https://zenn.dev/microsoft/articles/explain-before-shorten</link><description>[score: 0.907] 🐙
-AI の謎な説明文を直すスキル
-ここ最近は自作の MarkdStage で Markdown ファイルでスライドを作っているのですが、AI に箇条書きを作らせると、なんというか、もっとこう説明いるだろ！？なんでいきなり否定から入るの！？みたいな文章を作りがちです。直近だとこういうのが出てきました。0件じゃないのを表してるのはそうだけど、ここで説明したいのはこれじゃない！みたいな気持ちを抱いていました。
-Completed は、コードが最後まで実行された状態です。入力不正が0件であることを意味するわけではありません。
-こんな文章がいたるところにちりばめられた宝石箱を1つ1つ検品しているときに</description><guid isPermaLink="false">https://zenn.dev/microsoft/articles/explain-before-shorten</guid><pubDate>Mon, 26 Oct 2026 11:00:38 +0000</pubDate></item></channel></rss>
+高市首相 不正アクセスで"来週中メドに対策パッケージを"
+10月26日 20:07
+楽天トラベル 不正アクセスで氏名やクレカ番号の一部など流出
+10月27日 0:32
+福島 双葉町で不審メール相次ぐ 配信会社に不正アクセス
+10月26日 20:34
+メール配信会社 不正アクセスで5162万件余の情報流出
+10月27日 0:17
+電子ギフト会社に不正アクセス 5億5000万円分</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261026de66039</guid><pubDate>Mon, 26 Oct 2026 18:49:56 +0000</pubDate></item><item><title>実際に試したClaude便利術20選 まとめ</title><link>https://qiita.com/N-Kyo/items/bf4a3a2185db2d28eee5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.897] はじめに
+Claudeを使い始めたので、実際に試した作業効率の上がりそうな機能を20個まとめました。
+この記事の特徴は、1つの Terraform コードを通して試していることです。
+構成図の画像を貼る → Terraform が9ファイル・573行出てくる →
+/goal
+で trivy の HIGH/CRITICAL を 6件 → 0件 → サブエージェント3人に並列レビューさせる → それでも設計上の指摘が High 3件出てくる
+という流れを、スクショつきで載せています。
+要約
+- CLAUDE.md は 「お願い」 なので守られないことがある。permissions と Hooks </description><guid isPermaLink="false">https://qiita.com/N-Kyo/items/bf4a3a2185db2d28eee5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 26 Oct 2026 20:16:53 +0000</pubDate></item><item><title>日本の外務省、ロシア拘束の北海道新聞記者と領事面会 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOWlktSWM3anY5MHdRa0pIei1rWjRhOUtIcmtCZGR5X3hGY19sbk9jRmhocE5IQkJsMjdvbThZX0dHRFZjTmRlWXBmc1dFUTFlTmtkSnVWZ3dNTjFQYmpNd0dXN0c1aGp5YklTdU1VUUhTQjM5V2xZVjlQWklVNHRVTm9SSmJLMkE?oc=5</link><description>[score: 0.902] 日本の外務省、ロシア拘束の北海道新聞記者と領事面会 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxOWlktSWM3anY5MHdRa0pIei1rWjRhOUtIcmtCZGR5X3hGY19sbk9jRmhocE5IQkJsMjdvbThZX0dHRFZjTmRlWXBmc1dFUTFlTmtkSnVWZ3dNTjFQYmpNd0dXN0c1aGp5YklTdU1VUUhTQjM5V2xZVjlQWklVNHRVTm9SSmJLMkE?oc=5</guid><pubDate>Mon, 26 Oct 2026 14:57:14 +0000</pubDate></item><item><title>GMO ハッカー集団の脅迫続くなか 注意呼びかけを一段と強化</title><link>https://news.web.nhk/newsweb/na/nd-20261027de66048</link><description>[score: 0.908] GMOインターネットグループのサービスに不正アクセスがあり、身に覚えのない取り引きが確認された問題で、不正アクセスをしたとみられるハッカー集団は、27日正午までに会社側に1億5000万円余りを支払うよ…
+あわせて読みたい
+ハッカー集団 GMOに27日期限で100万ドル要求 顧客脅迫も
+10月26日 19:37
+政府 AIのリスク対応で法改正に向け検討開始へ
+10月27日 0:44
+高市首相 不正アクセスで"来週中メドに対策パッケージを"
+10月26日 20:07
+家電量販店「Joshin」 顧客情報600万件漏えいの可能性
+10月26日 21:18
+「タイムズカー」個人情報漏えい問題 被害者が</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261027de66048</guid><pubDate>Mon, 26 Oct 2026 20:14:41 +0000</pubDate></item><item><title>【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第7報）（お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社</title><link>https://group.gmo/info/alert/2026102602/</link><description>[score: 0.909] 【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第7報）（お客様をお守りするために現在私たちが行っていること） | GMOインターネットグループ株式会社 2026年10月26日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第7報） （お客様をお守りするために現在私たちが行っていること） 2026年10月26日23:10時点 GMOインターネットグループ株式会社 GMOインターネット株式会社 このたびは、「お名前.com デスクトップク...</description><guid isPermaLink="false">https://group.gmo/info/alert/2026102602/</guid><pubDate>Mon, 26 Oct 2026 16:09:27 +0000</pubDate></item><item><title>2万6800円で買えるGoogle製スマートウォッチ「Google Fitbit Edge」の各種機能を使ってみたよレビュー</title><link>https://gigazine.net/news/20261027-google-fitbit-edge-short-review/</link><description>[score: 0.910] Google製スマートウォッチ「Google Fitbit Edge」が2026年10月27日に登場しました。Google Fitbit Edgeは多機能スマートウォッチ「Google Pixel Watch」と、画面なしスマートバンド「Google Fitbit Air」の中間を目指して開発されたスマートウォッチで、スマートフォンと連携して歩数・心拍数・睡眠時間・運動内容・消費カロリーなど体の情報を記録することができます。発売に先駆けてGoogle Fitbit Edgeを使う機会を得られたので、実際に着用してどんなことができるデバイスなのか確かめてみました。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20261027-google-fitbit-edge-short-review/</guid><pubDate>Mon, 26 Oct 2026 17:03:44 +0000</pubDate></item><item><title>衆議院議員定数 31削減案できょう政党間協議</title><link>https://news.web.nhk/newsweb/na/nd-20261027de66067</link><description>[score: 0.914] 衆議院議員の定数削減をめぐり、自民党の実務者が示した比例代表で31議席を削減するなどとした案について、与野党は27日、改めて協議を行うことにしています。比例代表での削減を容認する声がある一方、削減幅の…
+あわせて読みたい
+内閣改造 消費税減税 国民の意識は
+10月15日 14:45
+高市政権1年 成果と課題 今後は
+10月21日 11:26
+政府 AIのリスク対応で法改正に向け検討開始へ
+10月27日 0:44
+北海道新聞記者と「領事面会」実施 健康状態に問題なし 外務省
+10月27日 1:10
+GMO ハッカー集団の脅迫続くなか 注意呼びかけを一段と強化
+10月27日 4:54
+AI開発のア</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261027de66067</guid><pubDate>Mon, 26 Oct 2026 20:14:41 +0000</pubDate></item></channel></rss>
