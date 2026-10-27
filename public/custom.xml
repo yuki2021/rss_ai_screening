@@ -1,107 +1,169 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 27 Oct 2026 11:19:41 +0000</lastBuildDate><item><title>GMO不正アクセス、犯人側は「27日に顧客のPC攻撃」予告　GMOが端末回収、ホワイトハッカーが解析中</title><link>https://www.itmedia.co.jp/news/article/2610/27/2000002610/</link><description>[score: 0.886] GMO不正アクセス、犯人側は「27日に顧客のPC攻撃」予告 GMOが端末回収、ホワイトハッカーが解析中 GMOインターネットグループは10月26日、FX用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、同社の従業員が全国に出向いて顧客の端末を預かり、グループのホワイトハッカーチームが調査・解析を進めていると明らかにした。 攻撃者とみられる者は自身のWebサイトで、GMOが100万ドル（約1億6000万円）を...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/27/2000002610/</guid><pubDate>Tue, 27 Oct 2026 02:48:44 +0000</pubDate></item><item><title>ニデック 創業者の永守氏らに損害賠償求め提訴へ</title><link>https://news.web.nhk/newsweb/na/nd-20261027de66585</link><description>[score: 0.886] 電子部品大手の「ニデック」は、一連の不正会計問題を受けて創業者の永守重信氏を含む歴代の経営トップなど9人に対し、会社に損害を与えたとして損害賠償を求める訴えを起こすことを決めました。
-9人への請求額…
-注目ワード
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 27 Oct 2026 21:09:27 +0000</lastBuildDate><item><title>MetaのAIエージェント「Muse」の中身を覗いたら、ただのUbuntuマシンだった</title><link>https://qiita.com/hirokn/items/31f5403b1fd9d8cbba3c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.871] MetaのパーソナルAIエージェント「Muse」を日本から使ってみました。
+招待コードの記事はたくさん出ているので、この記事では Museに渡される「専用コンピューター」の中身 と、そこで実際に何ができたかを中心に書きます。
+確認日：2026年10月26〜27日。自分の環境での値なので、全ユーザー共通とは限りません。仕様は今後変わる可能性があります。
+Museとは
+Metaが2026年9月8日に公開したパーソナルAIエージェントです。チャットで頼むと、ブラウザ操作・フォーム入力・メール送信などを代わりに進めてくれます。
+特徴は、ユーザーごとに専用の仮想マシン（VM）が割り当てられること。アプリ</description><guid isPermaLink="false">https://qiita.com/hirokn/items/31f5403b1fd9d8cbba3c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 27 Oct 2026 20:39:58 +0000</pubDate></item><item><title>熊本地震3か月 住まいの確保と在宅避難者への継続支援が課題</title><link>https://news.web.nhk/newsweb/na/nd-20261028de66706</link><description>[score: 0.871] ことし7月の熊本地震から28日で3か月です。
+被災地では避難生活が長期化し、依然として1000人余りが避難所に身を寄せているほか、壊れた自宅で生活をおくる人も数多くいます。
+これから冬を迎えるため…
+「令和8年熊本地震」ニュース一覧
+熊本地震から3か月を前に震度7の氷川町で公費解体始まる
+10月27日 15:28
+熊本地震から3か月を前に県が「復旧・復興プラン」を発表
+10月27日 17:18
+熊本地震10年 特集サイト
+YOASOBIが「ブラッサム」主題歌に込めたメッセージとは
+あなたの家やマンションは大丈夫？浸水被害の死角とお金の備え
+揺らぐ米政治の“常識” 若者たちが問い直すイスラエル支</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de66706</guid><pubDate>Tue, 27 Oct 2026 20:58:26 +0000</pubDate></item><item><title>M6チップの新型「14インチMacBook Pro」登場　CPUとGPUが12コアに、バッテリー駆動はMac史上最長の24時間</title><link>https://www.itmedia.co.jp/pcuser/articles/2610/27/news097.html</link><description>[score: 0.871] Appleは10月27日、M6チップを搭載した新型「14インチMacBook Pro」を発表した。CPUとGPUのコア数をそれぞれ2つ増やして12コアとした他、バッテリー駆動時間を同社が「Mac史上最長」とする最大24時間に延ばした。価格は33万9800円から。29日から予約を受け付け、11月6日に発売する。
+M6チップは12コアCPU、各コアにNeural Acceleratorを備えた12コアGPU、デュアル16コアNeural Engineで構成される。Appleによると、10コアCPU／10コアGPUのM5を搭載した従来モデルと比べ、グラフィックス性能は最大30％、LLMのプロンプト処</description><guid isPermaLink="false">https://www.itmedia.co.jp/pcuser/articles/2610/27/news097.html</guid><pubDate>Tue, 27 Oct 2026 14:47:21 +0000</pubDate></item><item><title>フィンランドとノルウェーの首脳がプーチン大統領と電話会談</title><link>https://news.web.nhk/newsweb/na/nd-20261028de66723</link><description>[score: 0.872] 北欧のフィンランドとノルウェーの首脳がロシアのプーチン大統領と電話で会談し、ロシアとウクライナの和平案に関する協議が11月に行われる見通しとなったことを踏まえ、戦闘の終結を求めました。
+フィンラン…
+YOASOBIが「ブラッサム」主題歌に込めたメッセージとは
+あなたの家やマンションは大丈夫？浸水被害の死角とお金の備え
+揺らぐ米政治の“常識” 若者たちが問い直すイスラエル支持
+誰にいくら支給？どうなる新たな支援金制度【経済コラム】
+クマからどう身を守る？ 「ヒグマ出没情報マップ」で徹底分析
+お笑い芸人・ワッキーさん がん後遺症と向き合いながら舞台へ
+改正皇室典範が施行へ 皇室の未来は
+相次ぐ“独</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de66723</guid><pubDate>Tue, 27 Oct 2026 20:58:26 +0000</pubDate></item><item><title>りそな 埼玉りそな 関西みらい 3銀行も顧客情報漏えいの可能性</title><link>https://news.web.nhk/newsweb/na/nd-20261027de66670</link><description>[score: 0.872] りそな銀行、埼玉りそな銀行、関西みらい銀行は、メール配信に使用している外部サービスを運営する「ユミルリンク」が不正アクセスを受けたことから、顧客の情報が外部に漏えいした可能性があると発表しました。
+…
 あわせて読みたい
-楽天トラベル 不正アクセスで氏名やクレカ番号の一部など流出
-10月27日 0:32
-KDDI 新会社を設立 フィジカルAI事業に本格的に参入へ
-10月27日 14:04
+GMO サイトにアクセスしないで ハッカー側 1人の個人情報公開
+10月27日 21:12
 沖縄ツーリスト 最大約73万人分の個人情報漏えいと発表
 10月27日 14:07
-GMO サイトにアクセスしないで ハッカー側 1人の個人情報公開
-10月27日 19:28
-漫画家 ちばてつやさん死</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261027de66585</guid><pubDate>Tue, 27 Oct 2026 10:23:29 +0000</pubDate></item><item><title>Siri AI、日本語で提供開始</title><link>https://www.apple.com/jp/newsroom/2026/10/siri-ai-is-available-today-in-more-languages/</link><description>[score: 0.887] 新着情報
-2026 年 10 月 26 日
-Siri AI、日本語で提供開始
-Appleは、本日利用可能になった27.2のソフトウェアアップデートで、まったく新しいバージョンのSiriであるSiri AIを日本語で提供開始するほか、フランス語、韓国語、ポルトガル語、スペイン語にも対応します。Siri AIは、パーソナルコンテクストの理解、幅広い知識、オンスクリーン認識、さらにシステム全体で使えるアプリ内でのアクションの充実を実現した、より有能で、より自然な会話ができるアシスタントです。そのすべてが、ユーザーのプライバシーを損なうことなく実行されます。あらゆるトピックについての質問に答えたり、ユ</description><guid isPermaLink="false">https://www.apple.com/jp/newsroom/2026/10/siri-ai-is-available-today-in-more-languages/</guid><pubDate>Tue, 27 Oct 2026 10:09:36 +0000</pubDate></item><item><title>GMO不正アクセス、犯人が27日12時の利用者PC攻撃を予告　80億円の金銭要求</title><link>https://www.watch.impress.co.jp/docs/news/2151375.html</link><description>[score: 0.888] GMOインターネットグループは26日、「お名前.com デスクトップクラウド」への不正アクセス問題で、攻撃者から顧客の情報を公開すると脅迫を受けていることを公表した。攻撃者からは、10月27日12時に利用者PCの情報の公開とランサムウェア攻撃を行なうと予告していることから、同社では対象者に対し、期限の時間の前に、バックアップを取得したうえで、PCにつながっているケーブルを抜き、電源を落とすよう呼びかけている。</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2151375.html</guid><pubDate>Tue, 27 Oct 2026 02:08:47 +0000</pubDate></item><item><title>【速報】閲覧しないよう注意と関係者</title><link>https://www.47news.jp/15145072.html</link><description>[score: 0.888] 【速報】閲覧しないよう注意と関係者
-2026年10月27日 13時30分
-GMOインターネットグループへの不正アクセス問題で、セキュリティー関係者は、攻撃者のものとみられるウェブサイトを閲覧しないよう注意を呼びかけた。個人情報を収集されたり、不正アクセスを受けたりする恐れがある。
-【速報】GMO、情報提供者に懸賞金総額1億円超
-19時57分
-共同通信
-【速報】GMO、情報公開被害者に最大300万円
-19時45分
-共同通信
-GMO、身代金1.5億円を拒否 攻撃者は顧客1人の情報公開か
-19時27分
-共同通信
-熊本市、9サイトが一時停止 PHP脆弱性問題 市長「強い危機感」
-19時11分
-熊本日日</description><guid isPermaLink="false">https://www.47news.jp/15145072.html</guid><pubDate>Tue, 27 Oct 2026 08:59:11 +0000</pubDate></item><item><title>先週の PHP 祭りから見えた、業務システムの「止まり方」の共通点と違い — 予防的な停止・障害・計画メンテを、日本・海外・AI の告知 751 件で比べた</title><link>https://qiita.com/songchong/items/eb2e60b469a148c2fb8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] 2026 年 10 月 21 日の午後から 23 日にかけて、国内の業務システムが次々に止まりました。プログラミング言語 PHP に重大な脆弱性が見つかり、提供元が修正を当てて安全を確かめ終わるまで、自分からサービスを止めたからです（予防的な停止）。いわゆる「PHP 祭り」です。
-では、この止まり方は、ふだんの計画メンテナンスや障害と、何が同じで何が違ったのでしょうか。IT連携マップ編集部が集めている提供元の告知 751 件（計画メンテナンス 309 件・予防的な停止 9 件・国内の障害 94 件・海外と AI の障害 339 件）で比べました。
-答えは次の 3 つです。
-- 計画メンテナンス</description><guid isPermaLink="false">https://qiita.com/songchong/items/eb2e60b469a148c2fb8b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 27 Oct 2026 08:46:31 +0000</pubDate></item><item><title>GMOとその利用者に向けた脅迫文が読める「GMO不正アクセス犯の犯行声明文ビュアー」</title><link>https://gigazine.net/news/20261027-gmo-hacker-seimei-viewer/</link><description>[score: 0.889] GMOとその利用者に向けた脅迫文が読める「GMO不正アクセス犯の犯行声明文ビュアー」
-GMOインターネットグループ(GMO)が展開するFX自動売買専用VPS「お名前.com デスクトップクラウド」が第三者による不正アクセスの被害を受けました。この攻撃を実行したとされる者が公開している犯行声明を読めるようにした「GMO不正アクセス犯の犯行声明文ビュアー」が公開されています。
-GMO不正アクセス犯の犯行声明文ビュアー
-https://satoru.net/hacker/gmo/261025-seimei.html
-「GMO不正アクセス犯の犯行声明文ビュアー」は、「おーぷん2ちゃんねる」などを開発す</description><guid isPermaLink="false">https://gigazine.net/news/20261027-gmo-hacker-seimei-viewer/</guid><pubDate>Tue, 27 Oct 2026 05:01:07 +0000</pubDate></item><item><title>人類滅亡のリスクが競争力に？ AnthropicのIPO目論見書が示していること</title><link>https://wired.jp/article/the-anthropic-ipo-is-also-a-doomsday-primer/</link><description>[score: 0.890] Anthropicが新規株式公開（IPO）に向けた目論見書を正式に提出し、これまで非公開だったさまざまな情報が明らかになった。そこには、予想通り驚くほど巨額の売上高と、それをさらに上回る支出額が記されている。
-しかし、最も多くのページが割かれているのは「リスク要因」の項目で、Anthropicの壮大な計画を頓挫させかねないさまざまなリスクが列挙されている。いや、今回の場合、破滅の危機にあるのは人類そのものかもしれない。
-AIが人類の存亡を脅かす可能性については盛んに議論されてきたものの、具体的にどのような過程を経て人類の破滅につながるのかは、ほとんど明らかになっていない。Anthropicの目</description><guid isPermaLink="false">https://wired.jp/article/the-anthropic-ipo-is-also-a-doomsday-primer/</guid><pubDate>Tue, 27 Oct 2026 08:44:04 +0000</pubDate></item><item><title>GMO デスクトップクラウドへのサイバー攻撃でハッカーが個人情報の公開開始を宣言-10月27日正午に個人名を掲げたページを新設|セキュリティニュースのセキュリティ対策Lab</title><link>https://rocket-boys.co.jp/security-measures-lab/gmo_desktop_cloud_personal_data_publication_claim_20261027/</link><description>[score: 0.890] GMO デスクトップクラウドへのサイバー攻撃でハッカーが個人情報の公開開始を宣言-10月27日正午に個人名を掲げたページを新設|セキュリティニュースのセキュリティ対策Lab GMOインターネットが提供する「お名前.com デスクトップクラウド」への不正アクセスを巡り、攻撃者を名乗る者は2026年10月27日正午付の新声明で、取得したとする個人情報の公開を開始すると宣言しました。声明には「被害者 第1号」と題し、個人名を掲げたページへのリンクが追加されています。さらに、分析を終えた情報...</description><guid isPermaLink="false">https://rocket-boys.co.jp/security-measures-lab/gmo_desktop_cloud_personal_data_publication_claim_20261027/</guid><pubDate>Tue, 27 Oct 2026 04:35:45 +0000</pubDate></item><item><title>OpenAI、視覚的理解とコンピューター操作を強化した「GPT-6.1 Terra」の提供を開始 ―APIコストはGPT-5.6 Terraの半額に</title><link>https://gihyo.jp/article/2026/10/gpt-6-1-terra?utm_source=feed</link><description>[score: 0.891] OpenAIは2026年10月26日、パフォーマンスとコストの両立を重視したAIモデルの新バージョン「GPT-6.1 Terra」を発表、提供を開始した。
-GPT-6.1 Terraは前バージョンのGPT-5.6 Terraを大幅にアップデートし、詳細な視覚的推論と正確なコンピュータ操作、より明瞭で自然な文章表現が可能なモデルとなった。また、スピード、性能とコストのバランスも大きく改善し、標準API価格はGPT-5.6 Terraの半額。さらにChatGPT WorkとCodexの利用では、同じ使用制限でカバーできるタスクがGPT-5.6 Terra、そして上位モデルのGPT-6.1 Solや</description><guid isPermaLink="false">https://gihyo.jp/article/2026/10/gpt-6-1-terra?utm_source=feed</guid><pubDate>Tue, 27 Oct 2026 05:08:22 +0000</pubDate></item><item><title>OpenAI、実務遂行能力を大幅に向上した「GPT-6.1 Terra」</title><link>https://www.watch.impress.co.jp/docs/news/2151433.html</link><description>[score: 0.891] ニュース
-OpenAI、実務遂行能力を大幅に向上した「GPT-6.1 Terra」
-2026年10月27日 12:25
-OpenAIは26日(米国時間)、最新AIモデル「GPT-6.1 Terra」を発表した。ChatGPT WorkとCodex、OpenAI APIから利用可能。標準API料金は100万トークンあたり入力1ドル/出力5ドル、キャッシュ済みの入力は0.05ドル。
-Terraは、OpenAIのモデルファミリー(Luna、Sol、Terra、Astra)における中位モデルで、コストと性能の両立を図っている。標準API料金はGPT-5.6 TerraとGPT-6.1 Solよりも50</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2151433.html</guid><pubDate>Tue, 27 Oct 2026 03:39:14 +0000</pubDate></item><item><title>So-netの会員情報など258万件超が漏えい 不審な連絡への警戒を呼びかけ</title><link>https://www.itmedia.co.jp/mobile/articles/2610/27/news090.html</link><description>[score: 0.891] ソニーネットワークコミュニケーションズは10月27日、インターネット接続サービス「So-net」の会員データベースが外部から不正アクセスを受け、個人情報が漏えいしたと発表した。10月19日に不正アクセスを受け、10月23日に事実を確認した。同社は対象サーバを停止して通信を遮断し、10月24日の調査で情報漏えいを把握した。
-漏えいしたのはSo-net会員情報214万1986件と、plala（Sコース）会員情報44万3495件の計258万5481件だ。2026年3月以降に退会した元会員の情報も含み、氏名や電話番号、メールアドレス、生年月日などが含まれる。両会員情報自体のパスワードやクレジットカード</description><guid isPermaLink="false">https://www.itmedia.co.jp/mobile/articles/2610/27/news090.html</guid><pubDate>Tue, 27 Oct 2026 09:58:42 +0000</pubDate></item><item><title>iOS 27.2公開　Siri AI対応やカメラのSiriモードなど</title><link>https://www.watch.impress.co.jp/docs/news/2151544.html</link><description>[score: 0.892] ニュース
-iOS 27.2公開 Siri AI対応やカメラのSiriモードなど
-2026年10月27日 18:33
-アップルは27日、最新のiOS「iOS 27.2」を公開した。新しいAIアシスタント「Siri AI」対応が最大の特徴で、より自然な会話ができるほか、ユーザーの文脈を把握しながら、次のアクションをすすめるなどの機能を実現する。
-また、27.2ソフトウェアはiPadやMac、Apple Vision Proなどでも提供され、相互のデバイスでSiri AIの作業を引き継いだ操作なども行なえるようになる。“メール”と“メッセージ”のスマートリプライの強化や、写真アプリの強化なども行なわ</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2151544.html</guid><pubDate>Tue, 27 Oct 2026 09:44:00 +0000</pubDate></item><item><title>OpenAI、「GPT-6.1 Terra」を発表 ～性能とコストのバランス型、API料金は先代の半額／画面を理解してアプリを操作、文章もより自然に</title><link>https://forest.watch.impress.co.jp/docs/news/2151338.html</link><description>[score: 0.892] ニュース
-OpenAI、「GPT-6.1 Terra」を発表 ～性能とコストのバランス型、API料金は先代の半額
-画面を理解してアプリを操作、文章もより自然に
-2026年10月27日 07:51
-米OpenAIは10月26日（現地時間）、新しいAIモデル「GPT-6.1 Terra」を発表した。7月に発表された「GPT-5.6 Terra」以来のアップデートで、「Terra」シリーズとしては初の「GPT-6.x」モデルとなる。
-GPT-6.1 Terra: delivering fast and capable computer use at a lower price.
-GPT-6.1 Te</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2151338.html</guid><pubDate>Tue, 27 Oct 2026 02:38:50 +0000</pubDate></item><item><title>Claude Code で受託の修正をするなら、渡す前にクライアントへ聞き返す工程を作る</title><link>https://zenn.dev/jskn_d/articles/claude-code-clarify-before-handoff</link><description>[score: 0.893] Claude Code で受託の修正をするなら、渡す前にクライアントへ聞き返す工程を作る はじめに 受託の修正対応で、クライアントからの指示を Claude Code に渡して直してもらうのは、もう珍しいやり方ではなくなりました。修正依頼をチケットやフィードバックツールに集めておき、その URL や MCP 経由で Claude Code に読ませて直させる、という手順の紹介も増えています。 自分も受託の案件でこれをやっ...</description><guid isPermaLink="false">https://zenn.dev/jskn_d/articles/claude-code-clarify-before-handoff</guid><pubDate>Tue, 27 Oct 2026 08:39:11 +0000</pubDate></item><item><title>GMO、なんでそんなに嫌われているの？→ダークパターン、対応の悪さ、同業者からの悪評と集まった反応がまるでGMOのWikiのよう</title><link>https://togetter.com/li/2763425</link><description>[score: 0.894] GMO、なんでそんなに嫌われているの？→ダークパターン、対応の悪さ、同業者からの悪評と集まった反応がまるでGMOのWikiのよう aiAnyDay @aiAnyDay お名前 .com のダークパターン - 初年度の安さを強調し、更新料金を目立たせない - サービス維持調整費による追加請求 - 有料オプションの初期選択 - レンタルサーバー契約への誘導 - ドメインの自動更新・自動課金 - 自動更新停止は期限16日前まで - 有料オプションも自動更新 - 自動更新後のキャン...</description><guid isPermaLink="false">https://togetter.com/li/2763425</guid><pubDate>Tue, 27 Oct 2026 10:51:34 +0000</pubDate></item><item><title>日本企業が「サイバー攻撃はAIのせい」にして目を背ける“本当の原因”</title><link>https://atmarkit.itmedia.co.jp/ait/articles/2610/27/news018.html</link><description>[score: 0.894] 国内企業を揺るがす一連の不正アクセス被害で、AIによる自律型攻撃ツール「ARTEX」の関与が判明した。短時間で広範囲に仕掛けられる攻撃に注目が集まるが、専門家たちが一様に指摘するのは「使われた侵入経路そのものは従来と変わらない」という厳しい現実だった。有識者たちの視点から、見せかけの先進技術に惑わされず足元を固めるための具体策を探る。
-この記事は会員限定です。会員登録（無料）すると全てご覧いただけます。
-2026年9〜10月にかけて国内企業で相次ぐ一連の不正アクセスと情報漏えい事案について、事態は大きな局面を迎えた。
-GMOサイバー犯罪対策センターは2026年10月19日、一連の不正アクセスに</description><guid isPermaLink="false">https://atmarkit.itmedia.co.jp/ait/articles/2610/27/news018.html</guid><pubDate>Tue, 27 Oct 2026 02:08:47 +0000</pubDate></item><item><title>GMO、攻撃者の公開情報に「アクセスは絶対に控えて」　悪質な拡散者には法的措置を準備</title><link>https://www.itmedia.co.jp/news/article/2610/27/2000002640/</link><description>[score: 0.894] GMO、攻撃者の公開情報に「アクセスは絶対に控えて」 悪質な拡散者には法的措置を準備
-GMOインターネットグループ（以下、GMO）は10月27日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、攻撃者が公開している情報へのアクセスを控えるよう呼び掛けた。情報の公開サイトにアクセスした人の情報を、攻撃者が取得していることを確認したという。
-GMOは、アクセスに起因する被害には責任を負えないとし、既にアクセスした人には、ウイルス対策ソフトなどでPCをフルスキャンするよう求めた。
-公開情報の拡散についても注意喚起。転載やSNSで</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/27/2000002640/</guid><pubDate>Tue, 27 Oct 2026 09:30:14 +0000</pubDate></item><item><title>卵の小売価格が過去最高“鳥インフルエンザの影響続く”農水省</title><link>https://news.web.nhk/newsweb/na/nd-20261027de66318</link><description>[score: 0.894] 農林水産省は、今月まとめた食品の価格動向の調査結果を発表し、卵の小売価格が過去最高となりました。 農林水産省は「昨シーズン発生した鳥インフルエンザで生産が大幅に減った影響が今も続いている」としています…
-あわせて読みたい
 漫画家 ちばてつやさん死去 87歳 「あしたのジョー」
-10月27日 19:43
+10月27日 20:40
 中東の集団防衛協定参加3か国とイランが会合 対話継続で一致
 10月27日 8:02
-マイクロソフト希望退職を募集 対象6万人規模か 従業員の27％
-10月27日 10:56
-衆議院議員 定数31議席削減案で各党隔たり あす改めて協議へ
-10月27日 19:12
-元検事正 部下への性的暴行の起訴内</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261027de66318</guid><pubDate>Tue, 27 Oct 2026 10:23:29 +0000</pubDate></item><item><title>So-net、会員データベースへの不正アクセスで会員情報約214万件などが漏えい。一部退会者も含む　Plala（Sコース）会員情報も対象</title><link>https://internet.watch.impress.co.jp/docs/news/2151585.html</link><description>[score: 0.896] ニュース
-So-net、会員データベースへの不正アクセスで会員情報約214万件などが漏えい。一部退会者も含む
-Plala（Sコース）会員情報も対象
-2026年10月27日 16:51
-ソニーネットワークコミュニケーションズ株式会社は10月27日、インターネット接続サービス「So-net」の会員データベースに不正アクセスがあり、情報漏えいを確認したとして、情報を公開した。
-公開された情報によると、10月23日に不正アクセスがあったことを確認し、10月19日に不正アクセスがあったことが判明。23日に対象のサーバーを停止し、アクセス元からの通信を遮断した。その後、24日に情報漏えいが確認された。
-漏</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2151585.html</guid><pubDate>Tue, 27 Oct 2026 09:48:45 +0000</pubDate></item><item><title>「GPT-6.1 Terra」が登場、コスパ良好＆高速なモデルでテストによってはGPT-6 Astraと同等性能</title><link>https://gigazine.net/news/20261027-gpt-6-1-terra/</link><description>[score: 0.897] 「GPT-6.1 Terra」が登場、コスパ良好＆高速なモデルでテストによってはGPT-6 Astraと同等性能
-OpenAIが「GPT-6.1 Terra」を日本時間の2026年10月27日にリリースしました。
-Introducing GPT-6.1 Terra | OpenAI
-https://openai.com/index/introducing-gpt-6-1-terra/
-OpenAIのAIモデルはフラッグシップモデルの「Astra」、高性能モデルの「Sol」、バランスモデルの「Terra」、低コストモデルの「Luna」の4種類に分かれて提供されています。今回は登場したGPT-6.</description><guid isPermaLink="false">https://gigazine.net/news/20261027-gpt-6-1-terra/</guid><pubDate>Tue, 27 Oct 2026 02:13:56 +0000</pubDate></item><item><title>So-netなど258万件超の個人情報漏洩、ソニーネットワークが発表</title><link>https://k-tai.watch.impress.co.jp/docs/news/2151581.html</link><description>[score: 0.897] ニュース
-So-netなど258万件超の個人情報漏洩、ソニーネットワークが発表
-2026年10月27日 16:47
-ソニーネットワークコミュニケーションズは10月27日、個人情報が漏洩したと発表した。インターネット接続サービス「So-net」などの会員データベースに対する外部からの不正アクセスが原因。
-漏洩件数はSo-net会員情報や「plala（Sコース）」会員情報などを合わせて258万件を超える。
-不正アクセスの経緯と影響範囲
-同社によると、10月19日にSo-net会員データベースへの外部からの不正アクセスが発生し、10月23日に被害を確認したという。
-確認後、対象サーバーの停止や通信遮</description><guid isPermaLink="false">https://k-tai.watch.impress.co.jp/docs/news/2151581.html</guid><pubDate>Tue, 27 Oct 2026 09:58:42 +0000</pubDate></item><item><title>GMO、ランサム被害にあった顧客に新しいPC提供へ　犯行グループは1人の顧客情報公開か</title><link>https://www.itmedia.co.jp/news/article/2610/27/2000002624/</link><description>[score: 0.897] GMO、ランサム被害にあった顧客に新しいPC提供へ 犯行グループは1人の顧客情報公開か GMOインターネットグループは、「お名前.com デスクトップクラウド」への不正アクセスで、PCがランサムウェアの被害にあった顧客に同等性能の新しいPCを提供すると、10月27日正午までに発表した。 顧客から預かって既に解析を終えた端末からは、10月27日午前11時59時点で、ランサムウェアを含むマルウェアは確認していな...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/27/2000002624/</guid><pubDate>Tue, 27 Oct 2026 06:44:00 +0000</pubDate></item><item><title>PHPの重大脆弱性、実際に攻撃成功　おとりサーバーで命令実行を確認</title><link>https://japan.cnet.com/article/35253996/</link><description>[score: 0.897] プログラミング言語「PHP」の重大な脆弱性「PHP2Shell」を悪用し、外部からサーバー上で命令を実行させる攻撃が確認された。セキュリティ研究者のAdel Ka氏（@0x4D31）が10月24日の観測結果を報告した。攻撃を監視するために設置した3台のおとりサーバーで、命令の実行に使うプログラム「シェル」が計35回起動したという。
-同氏は、サーバーに届いた通信データとOSの動作記録を照合し、ウェブサーバーソフト「Apache」のプロセスからシェルが起動したことを確認した。単に攻撃を試みる通信があっただけでなく、実際にサーバー上で命令が実行されたことを裏付けた。
-ただし、今回の観測環境は、脆弱性</description><guid isPermaLink="false">https://japan.cnet.com/article/35253996/</guid><pubDate>Tue, 27 Oct 2026 08:39:11 +0000</pubDate></item><item><title>【PHP2Shell】PHP公式の発表『本日のセキュリティリリースと、セキュリティ対策について』</title><link>https://qiita.com/rana_kualu/items/f5a44b09241bdb21907e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.898] 先日大騒ぎになったPHP2Shellですが、修正版リリースの提供直後、PHP財団公式ブログ記事Today's PHP Security Release, and How We're Strengthening PHP Securityが公開されました。
-そもそもどんな脆弱性？
-以下は簡易化のため正確ではありません。
-PHPは、リクエストが来るとリクエストをメモリに展開し、プログラムを実行し、最後にメモリをきれいに初期化してから再び次のリクエストの処理を開始する、という仕組みになっています。
-ここで細工したリクエストが送られてくるとメモリへの展開に失敗することがあり、その際にはメモリの一部が初期</description><guid isPermaLink="false">https://qiita.com/rana_kualu/items/f5a44b09241bdb21907e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 27 Oct 2026 08:46:31 +0000</pubDate></item><item><title>So-net、不正アクセスで約258万件の会員情報流出　一部メールのパスワードも</title><link>https://www.watch.impress.co.jp/docs/news/2151604.html</link><description>[score: 0.898] ニュース
-So-net、不正アクセスで約258万件の会員情報流出 一部メールのパスワードも
-2026年10月27日 17:55
-ソニーネットワークコミュニケーションズは27日、インターネット接続サービス「So-net」の会員データベースが不正アクセスを受け、So-netと「plala(Sコース)」の会員情報計258万5,481件が漏洩したと発表した。一部のメールサービスでは、メールアドレスとパスワードの漏洩も確認している。
-漏洩した会員情報は、So-netが214万1,986件、plala(Sコース)が44万3,495件。現会員のほか、2026年3月以降の退会者も含まれる。情報の項目は氏名、電</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2151604.html</guid><pubDate>Tue, 27 Oct 2026 09:04:19 +0000</pubDate></item><item><title>【第7報】不正アクセスに関する調査結果および今後の対応について | IDCフロンティア</title><link>https://www.idcf.jp/news/topics/20261027001</link><description>[score: 0.899] 【第7報】不正アクセスに関する調査結果および今後の対応について | IDCフロンティア 2026年10月27日 このたびは、当社クラウドサービス「IDCFクラウド」※1に対する第三者からの不正アクセスにより、お客さまならびに関係者の皆さまに多大なるご心配とご迷惑をおかけしておりますことを、深くお詫び申し上げます。 本件に関する一連の調査が完了しましたので、これまでに確認した事実、影響範囲、原因およ...</description><guid isPermaLink="false">https://www.idcf.jp/news/topics/20261027001</guid><pubDate>Tue, 27 Oct 2026 08:39:11 +0000</pubDate></item><item><title>旧版の半額でPC操作は最上位並み、OpenAI「GPT-6.1 Terra」</title><link>https://pc.watch.impress.co.jp/docs/news/2151399.html</link><description>[score: 0.913] ニュース
-旧版の半額でPC操作は最上位並み、OpenAI「GPT-6.1 Terra」
-2026年10月27日 11:41
-OpenAIは10月26日(米国時間)、新モデル「GPT-6.1 Terra」を発表し、ChatGPTの「ChatGPT Work」と「Codex」で提供を開始した。対象はPlus、Pro、Enterprise、Eduの各プランのユーザー。APIでも利用でき、標準のAPI価格は従来の「GPT-5.6 Terra」の半分に引き下げられ、100万トークンあたりの価格は入力が1ドル(約158円)、キャッシュ入力が0.05ドル(約8円)、出力が5ドル(約790円)。
-GPT-6.</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151399.html</guid><pubDate>Tue, 27 Oct 2026 11:11:19 +0000</pubDate></item><item><title>「今夜に対応して頂きたい」総理の異例投稿　PHP騒動が残した「運用」という教訓</title><link>https://www.itmedia.co.jp/enterprise/articles/2610/27/news021.html</link><description>[score: 0.914] 「今夜に対応して頂きたい」総理の異例投稿 PHP騒動が残した「運用」という教訓 Xデーは10月21日、残された猶予はわずか いったい何が起きたのでしょうか。日本時間の2026年10月21日早朝、PHPの開発チームが、多くのWebサイトで利用されているプログラミング言語「PHP」について、CVSS v4.0で9.2と評価された2つの重大な脆弱（ぜいじゃく）性を修正するプログラムを、2026年10月21日23時にリリースす...</description><guid isPermaLink="false">https://www.itmedia.co.jp/enterprise/articles/2610/27/news021.html</guid><pubDate>Tue, 27 Oct 2026 10:30:49 +0000</pubDate></item><item><title>GMOサイバー攻撃　ハッカー集団が1人の個人情報を公開「交渉に応じなかったため」新たな声明発表 “毎日正午に公開していく”（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/695a38ad89143be42662428ba5a602ed6ada97d2</link><description>[score: 0.924] GMOサイバー攻撃 ハッカー集団が1人の個人情報を公開「交渉に応じなかったため」新たな声明発表 “毎日正午に公開していく”
-GMOインターネットグループの提供するサービスがサイバー攻撃を受けた問題で、ハッカー集団は正午すぎ、新たに声明を発表し、GMOが交渉に応じなかったとして、1人の個人情報を公開しました。
-【写真で見る】「我々は、口先だけのことは言わない」ハッカー集団の声明文
-不正アクセスを行ったハッカー集団は、きょう正午までに1億5000万円あまりを支払うようGMOに求めていましたが、GMOは要求に応じない方針を示していました。
-正午すぎにハッカー集団は新たな声明を発表し、利用者とされる1</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/695a38ad89143be42662428ba5a602ed6ada97d2</guid><pubDate>Tue, 27 Oct 2026 09:09:15 +0000</pubDate></item></channel></rss>
+マイクロソフト希望退職を募集 対象6万人</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261027de66670</guid><pubDate>Tue, 27 Oct 2026 14:01:21 +0000</pubDate></item><item><title>フラビオ・ボルソナロ氏 ブラジルを出国か 現地メディア報道</title><link>https://news.web.nhk/newsweb/na/nd-20261028de66719</link><description>[score: 0.872] ブラジルのメディアは27日、大統領選挙の決選投票で敗れた右派のフラビオ・ボルソナロ上院議員の側近の話としてボルソナロ氏がブラジルを出国し、アメリカに向かっていると伝えました。
+CNNやロイター通信も…
+イスラエル総選挙 投票開始 ネタニヤフ首相続投できるかが焦点
+10月28日 0:34
+ウクライナ 局地的停戦合意発効も 日本ゆかりの公園に攻撃
+10月27日 21:41
+サッカー エムバペ選手が謝罪声明 「中国の独裁者」SNS発言で
+10月27日 22:04
+習主席が福田元首相遺族に弔電 高市政権に「政治文書厳守を」
+10月28日 1:03
+ヨルダン“シリアのIS拠点を空爆”民間犠牲者も
+10月</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de66719</guid><pubDate>Tue, 27 Oct 2026 19:56:50 +0000</pubDate></item><item><title>英基地テロ計画　外国情報機関支援の罪で2人起訴</title><link>https://news.web.nhk/newsweb/na/nd-20261028de66717</link><description>[score: 0.872] イギリスの空軍基地の近くでテロの計画があったとされる事件で、検察当局はロンドン在住の男2人を外国の情報機関を支援した罪などで起訴しました。
+警察はイランとのつながりを指摘しています。
+イギリス南…
+YOASOBIが「ブラッサム」主題歌に込めたメッセージとは
+あなたの家やマンションは大丈夫？浸水被害の死角とお金の備え
+揺らぐ米政治の“常識” 若者たちが問い直すイスラエル支持
+誰にいくら支給？どうなる新たな支援金制度【経済コラム】
+クマからどう身を守る？ 「ヒグマ出没情報マップ」で徹底分析
+お笑い芸人・ワッキーさん がん後遺症と向き合いながら舞台へ
+改正皇室典範が施行へ 皇室の未来は
+相次ぐ“独身</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de66717</guid><pubDate>Tue, 27 Oct 2026 19:56:50 +0000</pubDate></item><item><title>私が5種類のコーディングエージェントを使い分ける理由</title><link>https://zenn.dev/rimon/articles/45c1fd2f015af8</link><description>[score: 0.873] 私が5種類のコーディングエージェントを使い分ける理由 私は普段から5種類のコーディングエージェントを併用しています。 人間が5つの画面を行き来するのではなく、Claude Codeを窓口にして他のエージェントを呼び出しています。 この記事では、なぜ私がそのような使い... netafull “私はClaude Max 20xプランですが、Claudeだけを使っているとトークンが2日弱で枯渇します。”</description><guid isPermaLink="false">https://zenn.dev/rimon/articles/45c1fd2f015af8</guid><pubDate>Tue, 27 Oct 2026 13:06:11 +0000</pubDate></item><item><title>日商の小林会頭がインド訪問　中小企業の進出を後押し</title><link>https://news.web.nhk/newsweb/na/nd-20261028de66715</link><description>[score: 0.873] 経済成長が続くインドに中小企業が多く加盟する日本商工会議所の代表団が訪れ、小林会頭は人口14億のインド市場への、中小企業の進出を後押ししていく姿勢を強調しました。
+日本商工会議所の小林健会頭らおよ…
+YOASOBIが「ブラッサム」主題歌に込めたメッセージとは
+あなたの家やマンションは大丈夫？浸水被害の死角とお金の備え
+揺らぐ米政治の“常識” 若者たちが問い直すイスラエル支持
+誰にいくら支給？どうなる新たな支援金制度【経済コラム】
+クマからどう身を守る？ 「ヒグマ出没情報マップ」で徹底分析
+お笑い芸人・ワッキーさん がん後遺症と向き合いながら舞台へ
+改正皇室典範が施行へ 皇室の未来は
+相次ぐ“独</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de66715</guid><pubDate>Tue, 27 Oct 2026 19:56:50 +0000</pubDate></item><item><title>【宇宙最速書評】AWSでRAGとAIエージェントをがっつり業務実践できる名著「Amazon Bedrock実践ガイド」</title><link>https://qiita.com/minorun365/items/84cd50fda97df62cff88?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.874] 骨太のBedrock &amp; AgentCore本が出た！！
+クラスメソッドの神野雄大さんが書かれた『Amazon Bedrock実践ガイド 〜RAGとAIエージェントで進める業務効率化』が、技術評論社から出版されます。
+10月23日から都内の書店を中心に先行販売が始まっていて、11月4日に全国で発売です。
+神野さんといえば、このスライドでご存じの方も多いのではないでしょうか。
+私もAWSコミュニティでBedrockやAgentCoreの勉強会を開いたり登壇したりしてきましたが、その中で神野さんとは何度もコラボさせていただきました。
+そんな神野さんから、ありがたいことに本書をご恵贈いただいたので、</description><guid isPermaLink="false">https://qiita.com/minorun365/items/84cd50fda97df62cff88?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 27 Oct 2026 20:39:58 +0000</pubDate></item><item><title>トランプ氏、ＡＩの呼称は「不正確」 近く公式禁止する考え表明 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5NVktaZk5Wc1hXdmRzY0dpNjJoLW1lOXVTREdaY3hlbllyUXZWMWNzYXhpTDdxREZvRUVJUmdscWw2djNJQVNyOW11YW5BOHk5bTJ5NGxremRLazhkR2dGbUczYjN2X2FjYVRlWFdhcTJaZHV0TTZDNHJWS081SW8?oc=5</link><description>[score: 0.875] トランプ氏、ＡＩの呼称は「不正確」 近く公式禁止する考え表明 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE5NVktaZk5Wc1hXdmRzY0dpNjJoLW1lOXVTREdaY3hlbllyUXZWMWNzYXhpTDdxREZvRUVJUmdscWw2djNJQVNyOW11YW5BOHk5bTJ5NGxremRLazhkR2dGbUczYjN2X2FjYVRlWFdhcTJaZHV0TTZDNHJWS081SW8?oc=5</guid><pubDate>Tue, 27 Oct 2026 19:43:13 +0000</pubDate></item><item><title>米国株式市場＝続伸、ＡＩ関連のハイテク株高がけん引 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVN1RWNVYW5JSVVEbWpvMGxvbGx4YTdsTWh1TnU5ZHF5b0VUczAyZkdQRkE4UnU1XzMtRGs3MVhVS0dUZ1RLamM4Qnk2TG03S1owNzltbFVzSjNMdFIyR19MWFpTQkcxMDhEeHdRSkVqWk13dV9sZi13d3BsNW5KSjZ1NzJhdw?oc=5</link><description>[score: 0.875] 米国株式市場＝続伸、ＡＩ関連のハイテク株高がけん引 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxOaVN1RWNVYW5JSVVEbWpvMGxvbGx4YTdsTWh1TnU5ZHF5b0VUczAyZkdQRkE4UnU1XzMtRGs3MVhVS0dUZ1RLamM4Qnk2TG03S1owNzltbFVzSjNMdFIyR19MWFpTQkcxMDhEeHdRSkVqWk13dV9sZi13d3BsNW5KSjZ1NzJhdw?oc=5</guid><pubDate>Tue, 27 Oct 2026 20:47:56 +0000</pubDate></item><item><title>第2回　Prologをご存じですか？ | gihyo.jp</title><link>https://gihyo.jp/dev/serial/01/enjoy-pg/0002</link><description>[score: 0.876] 官民創生の人工知能研究はムダじゃなかった！
+今からおよそ30年も前の1982年。日本の通商産業省（現在の経済産業省）は、ICOT（財団法人 新世代コンピュータ開発機構）を設立し、世界に先駆けて人工知能（AI:Artificial Intelligence）を実現する第5世代コンピュータの開発を目標に掲げたプロジェクトを開始しました。
+ICOTのプロジェクトは、第4世代コンピュータを一気に飛び越えて第5世代コンピュータ開発を行うという新奇性や、10年以内に人間の知能をコンピュータで実現するとした宣伝と、またこの時期は日本が半導体産業でトップに躍り出ていたことやIBMへの産業スパイ事件などの背景も</description><guid isPermaLink="false">https://gihyo.jp/dev/serial/01/enjoy-pg/0002</guid><pubDate>Tue, 27 Oct 2026 18:00:42 +0000</pubDate></item><item><title>新「MacBook Pro」 M6チップ搭載で339800円から</title><link>https://www.watch.impress.co.jp/docs/news/2151704.html</link><description>[score: 0.878] ニュース
+新「MacBook Pro」登場 M6チップ搭載で339800円から
+2026年10月28日 01:07
+アップルは27日、M6プロセッサを搭載した14インチの「MacBook Pro」を発表した。10月29日から予約を開始し、11月6日より販売する。価格は339,800円から。
+12コアCPUの最新の「M6」チップを搭載し、高いパフォーマンスとAI機能、強化された接続性、最大24時間のバッテリー駆動時間を備えた「新MacBook Pro」に刷新した。M6チップは、M5と比較してグラフィックスが最大30%、AIワークロードが最大25%高速化。M1からアップグレードする場合は、グラフィ</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2151704.html</guid><pubDate>Tue, 27 Oct 2026 16:12:04 +0000</pubDate></item><item><title>Apple、M6チップの新型「iMac」発表　CPU／GPUを最大12コアに強化、AI処理はM4の最大5倍　24万9800円から</title><link>https://www.itmedia.co.jp/pcuser/articles/2610/27/news099.html</link><description>[score: 0.878] Appleは10月27日、M6チップを搭載した新型の一体型デスクトップPC「iMac」を発表した。29日に予約受付を開始し、11月6日に発売する。価格は10コアCPU／10コアGPUモデルが24万9800円から、12コアCPU／12コアGPUモデルが28万9800円から。
+M6チップはCPUとGPUのコア数を前世代から2つずつ増やし、それぞれ最大12コアとした。GPUは各コアに「Neural Accelerator」を備える。AI処理を担うNeural Engineは「デュアル16コア」構成となり、前世代比で最大2倍のAI処理性能を持つという。メモリ帯域幅は毎秒最大170GBだ。Appleは、</description><guid isPermaLink="false">https://www.itmedia.co.jp/pcuser/articles/2610/27/news099.html</guid><pubDate>Tue, 27 Oct 2026 14:47:21 +0000</pubDate></item><item><title>米連邦選挙委サイトにハッカー攻撃、申告システム停止＝電子メール - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOVy1vZ0RZV3hMUXJ6RUdiOVYxODNnMTI3VXQ1dUZzT2s4NXhYLUdQRVF4aTVSUEFhd1h4Zzc2YzBobnZ4aWdaWnpYTW1uTVRJX2NzU3lKdlNiWjNRU2tfeVlSZ19SZUd5NjdKVEVkOW5YeXdzTlVmbUpQcUV2THlUaGVTNnRZcGc?oc=5</link><description>[score: 0.878] 米連邦選挙委サイトにハッカー攻撃、申告システム停止＝電子メール Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxOVy1vZ0RZV3hMUXJ6RUdiOVYxODNnMTI3VXQ1dUZzT2s4NXhYLUdQRVF4aTVSUEFhd1h4Zzc2YzBobnZ4aWdaWnpYTW1uTVRJX2NzU3lKdlNiWjNRU2tfeVlSZ19SZUd5NjdKVEVkOW5YeXdzTlVmbUpQcUV2THlUaGVTNnRZcGc?oc=5</guid><pubDate>Tue, 27 Oct 2026 20:47:56 +0000</pubDate></item><item><title>GLM-5.3 Workers AIモデルにおけるリクエスト間のKVキャッシュ漏洩とSGLangによる対策をCloudflareが解説</title><link>https://gigazine.net/news/20261028-kv-cache-exposure-remediation/</link><description>[score: 0.879] 2026年9月8日、Cloudflare Workers AIでホストされているGLM-5.3モデル(@cf/zai-org/glm-5.3)においていわゆる「テナント分離問題」が発生していることがセキュリティ研究者のガディ・エヴロン氏により報告されました。Cloudflareはこのインシデントを修正し、モデルは9月9日に復旧されました。インシデント情報開示の一環としてCloudflareによる解説が10月26日に公開されています。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20261028-kv-cache-exposure-remediation/</guid><pubDate>Tue, 27 Oct 2026 21:03:24 +0000</pubDate></item><item><title>公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「一度もない」</title><link>https://www.yomiuri.co.jp/national/20261027-GYT1T00367/</link><description>[score: 0.880] 公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「一度もない」
+完了しました
+ＧＭＯインターネットのＦＸ（外国為替証拠金）取引用クラウドサービスが不正アクセスを受けた問題で、攻撃者は２７日、同社が期限の同日正午までに交渉に応じなかったとして、日本語サイトに個人情報とみられる情報１件を公開した。同社は、攻撃者が情報を公開したとして、利用者の情報かどうかの確認を進めている。
+公開された情報は、日本人とみられる１人分の氏名や住所、電話番号のほか、職業、ライフスタイルなどのプロフィル。攻撃者は同日公開した声明で、今後も交渉に応じなければ、毎日正午に窃取した個人情報を順次公開していくとし</description><guid isPermaLink="false">https://www.yomiuri.co.jp/national/20261027-GYT1T00367/</guid><pubDate>Tue, 27 Oct 2026 14:33:58 +0000</pubDate></item><item><title>きょう日独首脳会談 サプライチェーン強じん化など確認へ</title><link>https://news.web.nhk/newsweb/na/nd-20261028de66709</link><description>[score: 0.881] 高市総理大臣は28日、ドイツのメルツ首相と会談します。
+重要鉱物や半導体など幅広い品目のサプライチェーンの強じん化に加え、サイバー分野での協力の強化を確認する方向で調整しています。
+高市総理大臣…
+あわせて読みたい
+ウクライナ 局地的停戦合意発効も 日本ゆかりの公園に攻撃
+10月27日 21:41
+サッカー エムバペ選手が謝罪声明 「中国の独裁者」SNS発言で
+10月27日 22:04
+イスラエル総選挙 投票開始 ネタニヤフ首相続投できるかが焦点
+10月28日 0:34
+習主席が福田元首相遺族に弔電 高市政権に「政治文書厳守を」
+10月28日 1:03
+ヨルダン“シリアのIS拠点を空爆”民間犠</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de66709</guid><pubDate>Tue, 27 Oct 2026 20:58:26 +0000</pubDate></item><item><title>Xで話題の、原文を芋づる式にたどるスキル「imozuru」でドメイン知識を仕入れて、普通のAI検索と比べてみた</title><link>https://qiita.com/inoyu-qiita/items/4fc91ba7f67d6763960e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] はじめに
+Xのこちらの投稿で、Claude Codeのスキルimozuru
+が話題になっていました。知らない分野のドメイン知識を、原文から芋づる式に集められるスキルです。
+一方、普通にAIに「この分野を調べて」と頼むと、数十秒できれいな答えが返ってきます。
+でも、何かの資料に使おうとすると、少し引っかかります。
+これ、検索上位の記事を要約しただけでは？
+知らない分野ほど、検索結果の説明が正しいかを自分では判断できません。 その界隈では何と呼ぶのか、専門家はどこを見ているのか、誰が書いた原文を読めばよいのかも分かりません。
+imozuruとは
+imozuru
+は、知らない分野のドメイン知識を原文</description><guid isPermaLink="false">https://qiita.com/inoyu-qiita/items/4fc91ba7f67d6763960e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 27 Oct 2026 20:39:58 +0000</pubDate></item><item><title>GMO、不正アクセス実行犯の手がかりに懸賞金　1億5000万円規模</title><link>https://www.itmedia.co.jp/news/article/2610/27/2000002642/</link><description>[score: 0.881] GMO、不正アクセス実行犯の手がかりに懸賞金 1億5000万円規模 GMOインターネットグループは10月27日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡り、事態を解明する情報に総額100万ドル（約1億5000万円）を支払う懸賞金制度を始めると発表した。28日正午から専用窓口で情報提供を受け付ける。 国内外の法人・個人か...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/27/2000002642/</guid><pubDate>Tue, 27 Oct 2026 11:53:28 +0000</pubDate></item><item><title>GMO、不正アクセス攻撃者情報に1.5億円の「懸賞金」 被害者には最大300万円</title><link>https://www.watch.impress.co.jp/docs/news/2151655.html</link><description>[score: 0.884] ニュース
+GMO、不正アクセス攻撃者情報に1.5億円の「懸賞金」 被害者には最大300万円
+2026年10月27日 20:05
+GMOインターネットグループは27日、「お名前.com デスクトップクラウド」への不正アクセス問題で、情報が公開されてしまった場合は、利用者にお見舞金として上限300万円で特別お見舞金を支払うと発表した。また、犯罪者につながる有力な情報を募るための「懸賞金」を創設し、総額100万米ドルを上限とし情報を受け付ける。
+お名前.com デスクトップクラウドでは、FXの自動売買に特化した「FX自動売買専用VPS」を提供していたが、不正アクセスを受け、利用者のサーバー環境に不正</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2151655.html</guid><pubDate>Tue, 27 Oct 2026 11:19:47 +0000</pubDate></item><item><title>実務10年のエンジニアが1ヶ月かけて個人開発したiOSアプリ、初週DL数が「10」だった話</title><link>https://qiita.com/xiaoy/items/fdf774c78859625c3d55?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.888] 1. イントロダクション：現実の鉄槌
+App Store Connectのダッシュボードを開き、何度もリロードしました。
+表示されている数字は、「10」。
+公開から1週間が経った時点の累計ダウンロード数です。しかも、そのうちの8割は私の家族と、無理やり頼み込んで入れてもらった友人たちでした。実質的な自然流入は、おそらくゼロ。
+ほんの1ヶ月前、完成したアプリを妻に見せたときの自分の顔を思い出すと、今でも冷や汗が出ます。
+「フルスタックって最高だな。1人で全部完結できるし、スピードも品質も完璧だ」
+10年間のエンジニア人生で培った技術力をこれでもかと詰め込み、「これなら絶対に受ける」と本気で信じ込</description><guid isPermaLink="false">https://qiita.com/xiaoy/items/fdf774c78859625c3d55?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 27 Oct 2026 20:39:58 +0000</pubDate></item><item><title>AGENTS.mdを278行から51行にした：AIエージェントに「必要な分だけ読ませる」ドキュメント設計</title><link>https://qiita.com/blackcats-lab/items/069d2640e1e7cf8ce21d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] はじめに
+当記事は生成AIによって執筆しています。内容の正確性には十分注意を払っていますが、誤った情報が含まれている可能性があります。実際にご利用の際は、公式ドキュメント等もあわせてご確認ください。
+Codex や Claude Code などの AI エージェントと一緒に開発していると、AGENTS.md
+や CLAUDE.md
+に「これも守って」「あれも書いておこう」とルールを足し続けてしまいがちです。筆者のリポジトリでも、AGENTS.md
+と CLAUDE.md
+がそれぞれ 278 行まで膨らみ、しかも中身はほぼ同じという状態になっていました。
+本記事では、これを AGENTS.md
+</description><guid isPermaLink="false">https://qiita.com/blackcats-lab/items/069d2640e1e7cf8ce21d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 27 Oct 2026 20:39:58 +0000</pubDate></item><item><title>AIのみで作られたシステムを引き継いだら、品質の現実に直面した話</title><link>https://qiita.com/Kokuto821/items/352e44c77489c22945c2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] はじめに
+自分は普段、自社向けの新規業務システムを開発しています。そんな中、急な案件でAIエージェントだけで作られたシステムを引き継ぐ機会がありました。
+結論から言うと、動きはするものの品質は低く、改修にかなり苦労しました。
+普段は自分も実装のほぼすべてをAIエージェントに任せており、AIエージェントを使用することは肯定的です。なので「AIでは高品質なものは作れない」と言いたいわけではありません。むしろ、AIをきちんと制御できていないとどうなるか、という事例として見ています。
+この記事では、単なる愚痴では終わらせず、何が起きていたのか、そこから何を学んだのかを以下にまとめました。
+背景
+引き継</description><guid isPermaLink="false">https://qiita.com/Kokuto821/items/352e44c77489c22945c2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 27 Oct 2026 20:39:58 +0000</pubDate></item><item><title>Apple製品で一斉セキュリティアップデート、「macOS Golden Gate 27.2」は260件超／ゼロデイ脆弱性の修正が「iOS 27」以降へアップデートできない古いデバイスにも</title><link>https://forest.watch.impress.co.jp/docs/news/2151422.html</link><description>[score: 0.894] ニュース
+Apple製品で一斉セキュリティアップデート、「macOS Golden Gate 27.2」は260件超
+ゼロデイ脆弱性の修正が「iOS 27」以降へアップデートできない古いデバイスにも
+2026年10月27日 16:43
+米Appleは10月26日（現地時間）、自社製品のセキュリティアップデートを一斉実施した。「iOS 27.2」「iPadOS 27.2」も含め、以下の11件のアップデートが公開されている（括弧内はCVE番号が割り振られた脆弱性の件数）。
+- iOS 27.2 and iPadOS 27.2（163件）
+- iOS 26.7.2 and iPadOS 26.7.2</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2151422.html</guid><pubDate>Tue, 27 Oct 2026 19:13:54 +0000</pubDate></item><item><title>フィジカルAI 農業分野で導入や開発の動き</title><link>https://news.web.nhk/newsweb/na/nd-20261028de66720</link><description>[score: 0.894] 人手不足が深刻な農業の現場で、AIが作物の生育具合を自律的に判断して収穫を行うフィジカルAIを活用したロボットの導入や開発が進められています。
+このうち産業用ロボット大手の安川電機はJA全農＝全国…
+あわせて読みたい
+英基地テロ計画 外国情報機関支援の罪で2人起訴
+10月28日 3:54
+日商の小林会頭がインド訪問 中小企業の進出を後押し
+10月28日 3:59
+フラビオ・ボルソナロ氏 ブラジルを出国か 現地メディア報道
+10月28日 4:31
+GMO サイトにアクセスしないで ハッカー側 1人の個人情報公開
+10月27日 21:12
+ソフトバンク子会社 サイバー攻撃受けた原因と対策を公表
+1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de66720</guid><pubDate>Tue, 27 Oct 2026 20:58:26 +0000</pubDate></item><item><title>定数31議席削減案 各党が賛否表明へ 国民 総合的に判断へ</title><link>https://news.web.nhk/newsweb/na/nd-20261028de66708</link><description>[score: 0.897] 衆議院議員の定数削減をめぐり、自民党の実務者が示した比例代表で31議席を削減するなどとした案について与野党は28日の協議で賛否を表明する見通しです。
+国民民主党内からはこれまで求めてきた選挙制度の見…
+注目ワード
+あわせて読みたい
+山下法相 検察庁のハラスメント調査“私の責任で公表する”
+10月28日 0:09
+ソフトバンク3連勝で日本一に王手 正木がサヨナラHR【詳報】
+10月28日 0:15
+イスラエル総選挙 投票開始 ネタニヤフ首相続投できるかが焦点
+10月28日 0:34
+最高裁判所の山元裕史新判事が就任会見
+10月28日 0:54
+習主席が福田元首相遺族に弔電 高市政権に「政治文書厳</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de66708</guid><pubDate>Tue, 27 Oct 2026 20:58:26 +0000</pubDate></item><item><title>GMO“懸賞金支払い”で脅迫に対抗も不安続く</title><link>https://news.web.nhk/newsweb/na/nd-20261028de66716</link><description>[score: 0.902] GMOインターネットグループのサービスに不正にアクセスし、金銭などを要求していたハッカー集団は27日、利用者に関するとみられる情報をネット上に公開しました。
+会社は不正アクセスに関与した人物の特定に…
+個人情報流出でカード不正利用の2次被害 悪用の最新手口は
+10月27日 18:21
+岩井コスモ問題受け業界全体で再発防止 日本取引所グループCEO
+10月27日 20:55
+GMO サイトにアクセスしないで ハッカー側 1人の個人情報公開
+10月27日 21:12
+ソフトバンク子会社 サイバー攻撃受けた原因と対策を公表
+10月27日 21:45
+りそな 埼玉りそな 関西みらい 3銀行も顧客情報漏</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de66716</guid><pubDate>Tue, 27 Oct 2026 20:58:26 +0000</pubDate></item><item><title>ＮＹ外為市場＝ドル小幅高、主要中銀会合控え様子見 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBoMjlqYWtYazhTbkhueUtPVXdQNzVPNmFzdVFmal9xeUplYVFGU0NYd0lOZFJ6dVNINmo4WEpwbG9LTU5tUDV3ZzNnamlDeHVLRGg0RmM1X2ttbGk0bkJiUVNaMWxlSXJBM1lFb3N5cFhFdkxfTGVSUEl5a2xWdw?oc=5</link><description>[score: 0.905] ＮＹ外為市場＝ドル小幅高、主要中銀会合控え様子見 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFBoMjlqYWtYazhTbkhueUtPVXdQNzVPNmFzdVFmal9xeUplYVFGU0NYd0lOZFJ6dVNINmo4WEpwbG9LTU5tUDV3ZzNnamlDeHVLRGg0RmM1X2ttbGk0bkJiUVNaMWxlSXJBM1lFb3N5cFhFdkxfTGVSUEl5a2xWdw?oc=5</guid><pubDate>Tue, 27 Oct 2026 20:47:56 +0000</pubDate></item></channel></rss>
