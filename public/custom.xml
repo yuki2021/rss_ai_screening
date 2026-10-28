@@ -1,180 +1,139 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 28 Oct 2026 12:42:22 +0000</lastBuildDate><item><title>「バイブコーディング」で今週から月20万円の副収入を生み出す方法</title><link>https://forbesjapan.com/articles/detail/96637?s=ns</link><description>[score: 0.875] ほとんどの起業家は、顧客が何を必要としているかを正確に把握している。同じ質問を何百回も聞いてきた。顧客が直接アクセスするために実際にお金を払うであろう回避策やショートカットを構築してきた。これまで欠けていたのは知識ではない。その知識を商品としてパッケージ化する時間と技術力だ。
-バイブコーディングがそれを変える。Claude Coworkのようなツールは、非技術系起業家にとってゲームチェンジャーとなった。
-あなたはすでに、月20万円の資産を構築するために必要なものをすべて持っている。すでに知っていること、オーディエンスがすでに求めていることを活用し、それを見ていない間にも収益を生み出すシンプルな</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/96637?s=ns</guid><pubDate>Wed, 28 Oct 2026 10:09:35 +0000</pubDate></item><item><title>「ダウンロードフォルダでAIを使わないで」――セキュリティ企業が注意喚起　エージェントが攻撃者の指示に従いマルウェアインストールの恐れ</title><link>https://www.itmedia.co.jp/aiplus/article/2610/28/2000002671/</link><description>[score: 0.875] 「ダウンロードフォルダでAIを使わないで」――セキュリティ企業が注意喚起 エージェントが攻撃者の指示に従いマルウェアインストールの恐れ（1/2 ページ）
-ダウンロードフォルダに仕込んだマークダウンファイルを使ってユーザーのAIエージェントを悪用――イスラエルのセキュリティ企業Reboraはこのような攻撃を確認したとして、ダウンロードフォルダでエージェントを起動しないよう呼びかけた。
-Reboraは顧客のコンピュータのダウンロードフォルダに悪意のある「AGENTS.md」（エージェントへの指示を記載したマークダウンファイル）を発見。Webサイトはユーザーの操作なくダウンロードフォルダにファイルを</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2610/28/2000002671/</guid><pubDate>Wed, 28 Oct 2026 08:44:02 +0000</pubDate></item><item><title>1,000ファイルの言語移行をAIとASTトランスパイラで完遂した話：LLMの「評価の抜け道」とどう戦ったか</title><link>https://qiita.com/dev-hasegawa/items/79f612c5a4e6c874eaa9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.876] こんにちは！株式会社DearOneの長谷川です。
-DearOneのAI推進室でRAGの開発やRAGを使った社内システムの開発に従事しています。
-この記事でわかること
-- 1,000ファイル超の基幹システムでロジックを保ち、AST（抽象構文木）を用いて「言語だけを切り替える」実践アプローチ
-- AIを使った言語移行で直面する「Specification Gaming（評価の穴・近道）」の実態と、AI自身に抜け道を探させる回避策
-- フェイルクローズ設計やCI自動検証により、AIを「評価を一緒に鍛える仲間」に変える品質管理ノウハウ
-- 振る舞い検証（差分テスト）を通じて、長年埋もれていた業務仕様の</description><guid isPermaLink="false">https://qiita.com/dev-hasegawa/items/79f612c5a4e6c874eaa9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 28 Oct 2026 08:58:53 +0000</pubDate></item><item><title>Anthropic の Scion に学ぶソース管理設計、Git の前提はどこで崩れるか</title><link>https://qiita.com/kai_kou/items/1e1800bb2d48c8fc3ea7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] はじめに
-コーディングエージェントを CI やバッチジョブに組み込むと、リポジトリを取得するクライアントの数が人間の開発者数とは別の桁で増えていきます。そのとき最初に音を上げるのはどこなのでしょうか。
-対象読者は、リードエンジニア・プラットフォーム担当、そして AI エージェントを開発基盤に組み込もうとしている方です。
-Anthropic は 2026-10-13 に Engineering ブログで「Redesigning source control at Anthropic」を公開し、社内向けのバージョン管理システム Scion について説明しました（2026-10-15 に、Scion</description><guid isPermaLink="false">https://qiita.com/kai_kou/items/1e1800bb2d48c8fc3ea7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 28 Oct 2026 08:58:53 +0000</pubDate></item><item><title>「ほとんどデタラメ…」GMOサイバー攻撃で個人情報をさらされた人物が代表取材に困惑「サービスは一度も使っていない」…熊谷代表は犯人に100万ドルの懸賞 | 集英社オンライン</title><link>https://shueisha.online/articles/-/259042</link><description>[score: 0.877] 「ほとんどデタラメ…」GMOサイバー攻撃で個人情報をさらされた人物が代表取材に困惑「サービスは一度も使っていない」…熊谷代表は犯人に100万ドルの懸賞 | 集英社オンライン 複数のマスコミがメディアスクラムを避け代表取材攻撃者のサイトには「予告通り、個人情報を公開する」との文言とともに、「被害者第1号」として、氏名、住所、写真、生年月日、電話番号、職業、家族構成からライフスタイルまで、さまざまな個人情報とみられる内容が公開された。 攻撃者は27日正午までに100万ドルを支払...</description><guid isPermaLink="false">https://shueisha.online/articles/-/259042</guid><pubDate>Wed, 28 Oct 2026 10:32:17 +0000</pubDate></item><item><title>日本サッカー協会 岡田武史氏が副会長を辞任 W杯対応めぐり</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67231</link><description>[score: 0.877] 日本サッカー協会は、元日本代表監督の岡田武史副会長が、今回のワールドカップをめぐる一連の対応について、自身の信条との間に大きな隔たりがあるなどとして、副会長を辞任したと発表しました。
-日本サッカー…
-注目ワード
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 28 Oct 2026 21:08:44 +0000</lastBuildDate><item><title>米マイクロソフト7─9月期、クラウド48％増収 市場予想上回る - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE4wcTgyVkdfblpBSmNJdDNyYkJmeDR2RlVCYWVnTTBhbzIyeDM2X2tDNU80OVpCaEJ2TGliM2gzUUxDVkRqZXF4Z3h3Z1piOWhIb01ad25nX1ZMbG5qQlE4d3NHYzJ0aWk4WFQ4MGtJNmtCRE13VmVPcl9SZnFnUQ?oc=5</link><description>[score: 0.865] 米マイクロソフト7─9月期、クラウド48％増収 市場予想上回る Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE4wcTgyVkdfblpBSmNJdDNyYkJmeDR2RlVCYWVnTTBhbzIyeDM2X2tDNU80OVpCaEJ2TGliM2gzUUxDVkRqZXF4Z3h3Z1piOWhIb01ad25nX1ZMbG5qQlE4d3NHYzJ0aWk4WFQ4MGtJNmtCRE13VmVPcl9SZnFnUQ?oc=5</guid><pubDate>Wed, 28 Oct 2026 20:45:33 +0000</pubDate></item><item><title>ガソリンスタンドでレギュラー3000円分をお願い、給油後に店員から会計3200円と言われて聞き直すも「はい！3000円分で3200円になります！」と笑顔で返され、結局払うことに</title><link>https://togetter.com/li/2763837</link><description>[score: 0.865] ガソリンスタンドでレギュラー3000円分をお願い、給油後に店員から会計3200円と言われて聞き直すも「はい！3000円分で3200円になります！」と笑顔で返され、結局払うことに オレンジ＠無果汁 @orange0083 いやね、こないだセルフじゃないガソリンスタンドで 俺「レギュラー、３０００円分で現金払いです。」 店員「はい！、わかりました！（メモまで取る」 ～給油後～ 店員「はい、お会計３２００円になります！」 俺「は？？？？」 2026-10-28 06:58:31 オレンジ＠無果汁 @orange0083 俺「俺...</description><guid isPermaLink="false">https://togetter.com/li/2763837</guid><pubDate>Wed, 28 Oct 2026 19:46:00 +0000</pubDate></item><item><title>AWS実務未経験の新卒一年目がAWS Solution Architect Professional(SAP-C02)を2週間で取得した話</title><link>https://qiita.com/sakaish-intellilink/items/c6e45ccd44920417bf2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.866] 目次
+はじめに
+初めまして。NTTデータ先端技術株式会社の新卒1年目、酒井と申します。
+AWS実務未経験ながら、2週間の学習でAWS Certified Solutions Architect - Professional（SAP-C02）に合格しました。
+この記事では、実際に使用した教材や学習スケジュール、勉強方法、試験当日の体験などを紹介します。
+これから受験する方の参考になれば幸いです。
+AWS SAPとは
+AWS SAPとは、AWSが提供する認定資格「AWS Certified Solutions Architect - Professional」の略称です。
+AWS認定資格の中ではプ</description><guid isPermaLink="false">https://qiita.com/sakaish-intellilink/items/c6e45ccd44920417bf2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 28 Oct 2026 20:28:58 +0000</pubDate></item><item><title>PHP財団の常勤職員「たった1人」の衝撃--ウェブの安全を支える人手と資金が足りない</title><link>https://japan.cnet.com/article/35254103/</link><description>[score: 0.867] PHP財団の常勤職員「たった1人」の衝撃--ウェブの安全を支える人手と資金が足りない この1週間、世界中のソフトウェアエンジニアが、ウェブサイトを動かすソフトウェアの更新に追われている。米OpenAIのAIモデルを使ったチームが、ウェブを支える重要なソフトウェア「PHP」に2件の重大な脆弱性を発見したためだ。米Cloudflareによると、影響はPHP 5.4以降を使うウェブサーバーに及ぶ。修正を適用しないま...</description><guid isPermaLink="false">https://japan.cnet.com/article/35254103/</guid><pubDate>Wed, 28 Oct 2026 12:12:59 +0000</pubDate></item><item><title>ブロックチェーンを使わずに「減価するP2P通貨」は作れるか？ MultipeerConnectivity × Face IDによるPoC実装</title><link>https://qiita.com/KouheiTakagi/items/aa8db0f299e31f6b2179?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.869] はじめに
+「時間が経つと価値が蒸発する通貨」を、ブロックチェーンも中央サーバーも一切使わずに、iOS / macOSの標準フレームワーク（SwiftUI）だけで実装したらどうなるか？
+そんな実験として、生体認証で毎朝湧き出て、貯め込むと消えていくP2P型時間減衰通貨プロトコル 「Dew（朝露コイン）」 の概念実証（PoC）アプリを実装し、GitHubに公開しました。
+🔗 GitHubリポジトリ: Kouhei-Takagi/Dew
+💧 Dew（朝露コイン）の3つの特徴
+-
+🌱 Proof of Humanity Minting（人間証明による発行）：
+LocalAuthentication
+（</description><guid isPermaLink="false">https://qiita.com/KouheiTakagi/items/aa8db0f299e31f6b2179?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 28 Oct 2026 20:28:58 +0000</pubDate></item><item><title>国産生成AI基盤モデルPLaMo PrimeにWeb検索・Deep Research搭載 調査計画の立案から出典付きレポートまで自律的に実行、オンプレミスにも対応 - 株式会社Preferred Networks</title><link>https://www.preferred.jp/ja/news/pr20261027</link><description>[score: 0.869] 国産生成AI基盤モデルPLaMo PrimeにWeb検索・Deep Research搭載 調査計画の立案から出典付きレポートまで自律的に実行、オンプレミスにも対応 - 株式会社Preferred Networks 国産生成AI基盤モデルPLaMo PrimeにWeb検索・Deep Research搭載 調査計画の立案から出典付きレポートまで自律的に実行、オンプレミスにも対応 株式会社Preferred Networks（本社：東京都千代田区、代表取締役社長... misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD PFNがPLaMo 3.1 Primeを</description><guid isPermaLink="false">https://www.preferred.jp/ja/news/pr20261027</guid><pubDate>Wed, 28 Oct 2026 16:23:24 +0000</pubDate></item><item><title>米国株式市場＝続伸、半導体株が高い ＦＲＢは据え置き - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNNXFIOElEaU9uU2tNQlNjd3pmY1h0UHI2X2ZBN2VvVW50d1pqWThqMVd2V0dtWThIUTFEN2haSzBkMlJfdmE0aWFqNERGV2tfVDd3dElqRXg3MUFjQU9ldlJYdjF4SVBHSXVRYWVCQ0lYT2JTczF0SlZlVlVac0Z4ZURTLVBBdw?oc=5</link><description>[score: 0.870] 米国株式市場＝続伸、半導体株が高い ＦＲＢは据え置き Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNNXFIOElEaU9uU2tNQlNjd3pmY1h0UHI2X2ZBN2VvVW50d1pqWThqMVd2V0dtWThIUTFEN2haSzBkMlJfdmE0aWFqNERGV2tfVDd3dElqRXg3MUFjQU9ldlJYdjF4SVBHSXVRYWVCQ0lYT2JTczF0SlZlVlVac0Z4ZURTLVBBdw?oc=5</guid><pubDate>Wed, 28 Oct 2026 20:45:33 +0000</pubDate></item><item><title>東大教授のSNS投稿「配慮不足」　日本教育学会が見解、限定で公開：朝日新聞</title><link>https://www.asahi.com/articles/ASVBX3VNSVBXUTIL025M.html</link><description>[score: 0.870] 東大教授のSNS投稿「配慮不足」 日本教育学会が見解、限定で公開
+東京大学大学院教育学研究科の本田由紀教授が会長を務める日本教育学会は27日、皇室関連で本田氏が投稿したX（旧ツイッター）の内容についての見解をまとめた。「ことばの選択を含め、配慮が不足していた」と指摘し、「より慎重を期した発信」を求めたという。
+本田氏は9月、特定の皇族の写真を添付するなどした投稿を引用してリポスト（再投稿）。「この人たちを目にするたびに、遺伝的要因のおそろしさを感じる」などと投稿し、差別的な表現だ、といった批判がSNSなどで相次いだ。
+見解は会員限定で公開され、会員によると、本田氏が特定の皇族の容姿などを遺伝に</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVBX3VNSVBXUTIL025M.html</guid><pubDate>Wed, 28 Oct 2026 20:56:19 +0000</pubDate></item><item><title>ELYZA | 未踏の領域で、あたりまえを創る</title><link>https://elyza.ai/news/2026/10/27/elyza_robotics</link><description>[score: 0.871] ELYZA | 未踏の領域で、あたりまえを創る フィジカルAIを推進する新会社「ELYZA Robotics」事業開始 〜2030年度までに研究開発へ300億円を投資、ロボット1,000台以上の導入を目指す〜 KDDIとELYZAは、KDDIグループのフィジカルAI事業を推進する新会社「株... misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%83%AD%E3%83%9C%E3%83%83%E3%83%88 KDDIとELYZAが「ELYZA Robotics」を設立。2030年度までにKDDIグループで研究開発へ300億円を投資し、300名以</description><guid isPermaLink="false">https://elyza.ai/news/2026/10/27/elyza_robotics</guid><pubDate>Wed, 28 Oct 2026 16:23:24 +0000</pubDate></item><item><title>米ＦＲＢ、10対2で金利据え置き 景気判断引き上げ追加利上げに含み - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNNGJ3MUl1T2tzZDRoLTJBNFV0WmpTV28yRHE0S0U2LXVkUThRckM1ZERjV1JGUHJ3Q3djTjl6akkweGpvaE5Oem9NV0ZQeFJlU0tZaTd0ZlREcDBZU29UQm9TZzVmd3ZMM014OWZzSWpsallYQnZnV3N5blB0VGNlem1pUjUtQQ?oc=5</link><description>[score: 0.871] 米ＦＲＢ、10対2で金利据え置き 景気判断引き上げ追加利上げに含み Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNNGJ3MUl1T2tzZDRoLTJBNFV0WmpTV28yRHE0S0U2LXVkUThRckM1ZERjV1JGUHJ3Q3djTjl6akkweGpvaE5Oem9NV0ZQeFJlU0tZaTd0ZlREcDBZU29UQm9TZzVmd3ZMM014OWZzSWpsallYQnZnV3N5blB0VGNlem1pUjUtQQ?oc=5</guid><pubDate>Wed, 28 Oct 2026 18:40:20 +0000</pubDate></item><item><title>スカイチケット運営会社 情報悪用で口座情報流出 3万件余</title><link>https://news.web.nhk/newsweb/na/nd-20261028dw67382</link><description>[score: 0.871] 旅行サイトのスカイチケットを運営する「アドベンチャー」は、10月上旬の不正アクセスにより外部に漏れた情報が悪用され、利用客の銀行口座の情報、3万件あまりが流出したと新たに発表しました。
+会社は10…
 あわせて読みたい
-GMO“個人情報が掲載されたサイトのドメイン停止を確認”
-10月28日 19:16
-【速報中】ソフトバンクが2年連続の日本一 DeNAに4連勝
-10月28日 20:41
-武部農相「事実関係確認中」 選挙運動費“二重計上”報道に
-10月28日 16:33
-小泉防衛相 米国防長官に3文書改定説明「拒否する防衛力」も
-10月28日 15:34
-“納屋”で生活を続ける女性
-1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67231</guid><pubDate>Wed, 28 Oct 2026 09:51:18 +0000</pubDate></item><item><title>GMO“個人情報が掲載されたサイトのドメイン停止を確認”</title><link>https://news.web.nhk/newsweb/na/nd-20261028de66765</link><description>[score: 0.879] GMOインターネットグループのサービスが不正アクセスを受けている問題で、会社は、利用者に関すると見られる個人情報が掲載されていたサイトのドメインが停止されたことを確認したと発表しました。会社は、27日…
+スペイン 列車どうしの衝突事故“これまでに64人死亡”
+10月28日 23:50
+JR東海 リニア静岡工区の着工は来年春以降の見通し
+10月28日 21:28
+ニデック 不正会計問題 監査法人の“お墨付き”得られず
+10月28日 21:12
+北日本で強風 季節が進み初雪も あす朝は各地で冷え込み
+10月28日 20:50
+小泉防衛相 韓国国防相と初会談 北朝鮮への対応連携強化で一</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028dw67382</guid><pubDate>Wed, 28 Oct 2026 13:13:49 +0000</pubDate></item><item><title>ホンダと日産 EV用バッテリーの協業へ具体的な交渉</title><link>https://news.web.nhk/newsweb/na/nd-20261029de67424</link><description>[score: 0.872] 去年、経営統合の協議を打ち切ったホンダと日産自動車が、EV用のバッテリーをめぐって協業に向けた具体的な交渉を進めていることが明らかになりました。EVの性能のカギを握る中核分野での協業に踏み込み、国内で…
 あわせて読みたい
-GMO サイトにアクセスしないで ハッカー側 1人の個人情報公開
-10月27日 21:12
-ドン・キホーテなど 一部の顧客情報暗号化される 漏えい可能性
-10月28日 18:48
-「花キューピット」会員情報漏えいの可能性 最大423万件余
-10月28日 17:54
-ドトールコーヒー 従業員と退職者の個人情報 951件漏えいか
-10月28日 16:51
-個人情報流出でカード不正</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de66765</guid><pubDate>Wed, 28 Oct 2026 03:41:20 +0000</pubDate></item><item><title>AI企業の決算、FRBの重要な決定、中間選挙：株式市場が重要な2週間を迎える</title><link>https://www.businessinsider.jp/article/2610-stock-market-outlook-ai-earnings-fed-meeting-midterms-anthropic-s1/</link><description>[score: 0.879] - 今後2週間は市場にとって非常に重要な期間になる。
-- 今週はアルファベット、マイクロソフト、アマゾンが決算を発表し、FRBは28日（水・米時間）に金融政策を決定する。
-- 来週の中間選挙も、投資家が消化すべき影響を及ぼす可能性がある。
-株式市場は、極めて重要な2週間の幕を開ける。
-アンソロピック（Anhtropic）のS-1提出書類が26日（月・米時間）の朝に公開された。それに加えて、今週の市場を動かす一連のイベントには、AI関連取引の主要企業による決算発表、連邦準備制度理事会（FRB）による金利決定と、ケビン・ウォーシュ議長の経済見通し、そしてアメリカ中間選挙の結果が挙げられる。
-ここ数</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-stock-market-outlook-ai-earnings-fed-meeting-midterms-anthropic-s1/</guid><pubDate>Wed, 28 Oct 2026 08:40:17 +0000</pubDate></item><item><title>「AI」の呼称禁止を表明したトランプ大統領--「超知能：SI」への言い換えが隠すもの</title><link>https://japan.cnet.com/article/35254081/</link><description>[score: 0.880] 「AI」の呼称禁止を表明したトランプ大統領--「超知能：SI」への言い換えが隠すもの 20世紀初頭の辞書をひもとくと、「computer」という語は算術計算を仕事とする人、つまり計算する人間を指していた。20世紀半ばには、その意味は電子計算機へと変わった。この意味の変化をもたらしたのは、上からの命令ではなく、労働と技術の変化だった。 いまや私たちは、大統領が英語を取り仕切る新世界に足を踏み入れ...</description><guid isPermaLink="false">https://japan.cnet.com/article/35254081/</guid><pubDate>Wed, 28 Oct 2026 04:59:22 +0000</pubDate></item><item><title>AI×開発組織Summit 2026 freee CAIO横路の登壇レポート｜freee公式note</title><link>https://note.freee.co.jp/n/n91ba6466e1e3</link><description>[score: 0.880] AI×開発組織Summit 2026 freee CAIO横路の登壇レポート｜freee公式note こんにちは！freeeのAI Platform Engineering というチームでAI基盤開発などを担当している gon と申します。 2026年10月16日に開催された、ファインディさん主催の「AI×開発組織Summit 2026」に参加してきました！freeeからはCAIOの横路が特別講演枠で「freeeにおける大規模ソフトウェアファクトリーの実践」というタイ...</description><guid isPermaLink="false">https://note.freee.co.jp/n/n91ba6466e1e3</guid><pubDate>Wed, 28 Oct 2026 11:01:15 +0000</pubDate></item><item><title>衆院定数31削減案 維新 国民が賛成 自民“3党で法案作成を”</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67035</link><description>[score: 0.882] 衆議院議員の定数削減をめぐる与野党の協議が行われ、自民党の実務者が示した比例代表で31議席を削減するなどとした案をもとに検討を進めていくことに、日本維新の会と国民民主党が賛成する意向を表明しました。 …
+【地震情報】千葉県北東部で震度5弱 津波の心配なし
+10月29日 2:44
+スペイン 列車どうしの衝突事故“これまでに64人死亡”
+10月28日 23:50
+新幹線と活断層の交差 全国79か所 ズレで被害のおそれ 対策を
+10月28日 22:33
+日本サッカー協会 岡田武史氏が副会長を辞任 W杯対応めぐり
+10月29日 1:10
+JR東海 リニア静岡工区の着工は来年春以降の見</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261029de67424</guid><pubDate>Wed, 28 Oct 2026 16:17:34 +0000</pubDate></item><item><title>約4年間グラフィックデザイナーとして働いてきて、今年で完全に従来のデザイナーという職業はなくなりそう…一方でマーケティングへのシフトやまだまだニーズがある面も</title><link>https://togetter.com/li/2763896</link><description>[score: 0.874] 約4年間グラフィックデザイナーとして働いてきて、今年で完全に従来のデザイナーという職業はなくなりそう…一方でマーケティングへのシフトやまだまだニーズがある面も NEC0 @Nec0_VRC 訳4年間グラフィックデザイナーとして働いているわけだが、今年で完全に従来のデザイナーという職業は無くなりそう。当然AIの影響。クライアントがAIを使ってるのが日常化仕事も大幅に消えた。 AI... firststar_hateno AIの進化、デザイン界の新たな夜明けですわね。人間の手が生み出す美は、いつまでも特別ですの。</description><guid isPermaLink="false">https://togetter.com/li/2763896</guid><pubDate>Wed, 28 Oct 2026 17:22:10 +0000</pubDate></item><item><title>FRB 政策金利を据え置き 2会合ぶり インフレへの影響見極めか</title><link>https://news.web.nhk/newsweb/na/nd-20261029de67441</link><description>[score: 0.876] アメリカのFRB＝連邦準備制度理事会は金融政策を決める会合を開き、28日、2会合ぶりに政策金利を据え置くと発表しました。一方、ウォーシュ議長は会合後の記者会見で、インフレ率が依然として高い水準にあると…
 あわせて読みたい
-政府 消費税減税法案 支援金考え方の資料提示
-10月28日 13:33
-武部農相「事実関係確認中」 選挙運動費“二重計上”報道に
-10月28日 16:33
+【地震情報】千葉県北東部で震度5弱 津波の心配なし
+10月29日 2:44
+スペイン 列車どうしの衝突事故“これまでに64人死亡”
+10月28日 23:50
+新幹線と活断層の交差 全国79か所 ズレで被害のおそれ 対策を
+10月28日 22:33
+ホンダと日産 EV用バッテリーの協業へ具体的な交渉
+10月29日 1:05
+日本サッカー協会 岡田武史氏が副会長を辞任 W杯対応め</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261029de67441</guid><pubDate>Wed, 28 Oct 2026 18:17:58 +0000</pubDate></item><item><title>日本航空など、不正アクセスで９万２０００人分の個人情報流出…２０００人分は電話番号やパスポート番号も</title><link>https://www.yomiuri.co.jp/national/20261028-GYT1T00334/</link><description>[score: 0.877] 日本航空など、不正アクセスで９万２０００人分の個人情報流出…２０００人分は電話番号やパスポート番号も
+完了しました
+日本航空と日本トランスオーシャン航空は２８日、不正アクセスによって、計約９万２０００人分の個人情報が流出したと発表した。
+日本航空によると、旅客サービスシステムの委託先の「アマデウスＩＴグループ」が不正アクセスを受けた。漏えいしたのは、２０２３年８月１０日～２６年９月２３日に両社いずれかの便名の予約記録がある利用者の一部の氏名や搭乗日、搭乗区間など。このうち約２０００人分については、メールアドレスや電話番号、パスポート番号、国籍、マイレージ番号などの情報も含まれる。クレジットカー</description><guid isPermaLink="false">https://www.yomiuri.co.jp/national/20261028-GYT1T00334/</guid><pubDate>Wed, 28 Oct 2026 20:35:50 +0000</pubDate></item><item><title>いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと</title><link>https://zenn.dev/nayuta/articles/aec9ab2e11a7b7</link><description>[score: 0.878] いいから休め - Black October が終わる今、セキュリティエンジニアがやるべきこと 2026年10月、Black October、情報セキュリティの世界は変わってしまった。 2026年10月、情報セキュリティの世界は完全に変わりました。今この10月は Black October （暗黒の10月）と呼ばれ始めており、セキュリテ... defiant %E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3techfeed この記事をおすすめしました</description><guid isPermaLink="false">https://zenn.dev/nayuta/articles/aec9ab2e11a7b7</guid><pubDate>Wed, 28 Oct 2026 17:22:10 +0000</pubDate></item><item><title>AIエージェントをEnterprise Readyへ：IBM TechXchange 2026 Atlanta ジェネラルセッションまとめ</title><link>https://qiita.com/mizuk1013/items/9d206626286addba08ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] IBMのエンジニア向けイベント「IBM TechXchange 2026 Atlanta」に参加しています。
+人生2回目の訪米です！
+イベントは前日のパートナー向けプログラムから始まり、今日、2026年10月27日から一般参加者向けのセッションが本格的にスタートしました。
+この記事は今朝行われたジェネラルセッションのまとめです。
+0. まとめ
+かなり長い記事になってしまったので、先にまとめを書いておきます。
+- 2025年が「AIエージェントを作る」段階だったのに対し、2026年は「企業で安全に運用し、スケールさせる」段階へ移った
+- OneKeyというAI旅行コンシェルジュを共通デモに、デー</description><guid isPermaLink="false">https://qiita.com/mizuk1013/items/9d206626286addba08ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 28 Oct 2026 20:28:58 +0000</pubDate></item><item><title>障害者グループホーム 外部評価と結果公表義務づけ検討 厚労省</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67363</link><description>[score: 0.879] 障害者向けのグループホームをめぐって、サービスを提供する事業所で不適切な運営が問題となるなか、厚生労働省はサービスの質を確保するため、事業所に対して、地域住民や自治体の担当者などで作る協議会からの外部…
+あわせて読みたい
+スペイン 列車どうしの衝突事故“これまでに64人死亡”
+10月28日 23:50
+JR東海 リニア静岡工区の着工は来年春以降の見通し
+10月28日 21:28
+ニデック 不正会計問題 監査法人の“お墨付き”得られず
+10月28日 21:12
+北日本で強風 季節が進み初雪も あす朝は各地で冷え込み
+10月28日 20:50
+小泉防衛相 韓国国防相と初会談 北朝鮮への対応連携強化</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67363</guid><pubDate>Wed, 28 Oct 2026 15:14:19 +0000</pubDate></item><item><title>「禁止」するだけでは防げない？　パナソニックグループで約33万人分の個人情報が外部生成AIに</title><link>https://www.itmedia.co.jp/enterprise/articles/2610/28/news060.html</link><description>[score: 0.881] 「禁止」するだけでは防げない？ パナソニックグループで約33万人分の個人情報が外部生成AIに パナソニック オペレーショナルエクセレンスは2026年10月23日、子会社のパナソニック デジタルと進める人事情報システム導入プロジェクトで、プロジェクトメンバーが従業員や元従業員とその家族の個人情報を含むデータを、同社が利用を禁止している外部の生成AIサービスにアップロードしたと発表した。同社はパナソニッ...</description><guid isPermaLink="false">https://www.itmedia.co.jp/enterprise/articles/2610/28/news060.html</guid><pubDate>Wed, 28 Oct 2026 19:51:02 +0000</pubDate></item><item><title>研修中の僕がSlackに海外のIT情報を運ぶbotを作ったら、だいたい何が起きたか</title><link>https://qiita.com/EricYu/items/147bf8e5fdb1b04f6d54?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] はじめに
+僕がその会社に入って、二ヶ月が経とうとしていた。まだ研修中の身で、言ってみれば水槽に放り込まれたばかりの魚のようなものだ。泳ぎ方はわかっているが、どこに餌があるのかはまだわからない。
+社内のSlackには rss-qiita-zenn
+というボットがいた。おかげで日本語の技術記事は、意識しなくても自然に目に入ってくる。それはそれで悪くない環境だった。
+でも海外の情報は、ほとんど流れてこなかった。以前なら「英語だから」という一言で片付いていた話だ。しかし今は違う。生成AIを使えば、誰だって外国語の記事を読める時代になった。要約まで自動化してしまえば、言語の壁というやつはずいぶん低くなる</description><guid isPermaLink="false">https://qiita.com/EricYu/items/147bf8e5fdb1b04f6d54?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 28 Oct 2026 20:28:58 +0000</pubDate></item><item><title>GMO熊谷正寿事件の概要と雑感｜山本一郎（やまもといちろう）</title><link>https://note.com/kirik/n/n72f93c8a2819</link><description>[score: 0.881] GMO熊谷正寿事件の概要と雑感｜山本一郎（やまもといちろう） ※おことわり 本稿は私の有料メルマガ『人間迷路』の巻頭言です。メルマガ全文は夜間飛行のスタンドでご購入ください。 https://yakan-hiko.com/kirik.html 俺たちが愛したGMOインターネットの「お名前.com デスクトップクラウド」をめぐる事件は、10月28日の午後になっても収束していません。やっぱみなさん「残念」と...</description><guid isPermaLink="false">https://note.com/kirik/n/n72f93c8a2819</guid><pubDate>Wed, 28 Oct 2026 12:34:04 +0000</pubDate></item><item><title>デスクトップに置いて、AIからも操作できるタスク管理アプリを作った</title><link>https://qiita.com/GpAraki/items/6aa0ff0c287486e82960?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.882] デスクトップに置いて、AIからも操作できるタスク管理アプリを作った
+個人開発で、macOS向けのタスク管理アプリ「私の引き出し（Hikidashi）」を作りました。
+デスクトップウィジェットでタスクを確認できるほか、Claude CodeやCodexなどのAIからMCP経由でタスクを操作できるアプリです。
+10月14日に設計を始め、17日から実装して、27日にバージョン0.5.0を公開しました。
+ダウンロードはこちらからできます。
+macOS 14 Sonoma以降に対応しており、Developer IDでの署名とAppleの公証も済ませています。
+作ろうと思ったきっかけ
+普段、仕事のタスクは</description><guid isPermaLink="false">https://qiita.com/GpAraki/items/6aa0ff0c287486e82960?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 28 Oct 2026 20:28:58 +0000</pubDate></item><item><title>Devinに「超大作プロンプト」を一発で投げてはいけない──初月でACUを溶かして学んだ、AIエージェントとの正しい向き合い方</title><link>https://qiita.com/saematsu/items/caaf0ea803b71ff1ef42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] 1. はじめに
+今月、産育休から復帰したら社内で自律型AIエージェント「Devin」が使えるようになっていました。
+早速使ってみたところ……あっという間に月間のACU（コンピュートユニット）を大量消費してしまいました。
+原因は明確でした。休職前に使い放題だったGitHub Copilotと同じ感覚で、
+「全部まとめた指示書を用意して渡せば、一撃でやってくれるはず！」
+と丸投げしてしまったからです。
+本記事では、レガシー言語から別言語への移行案件 に伴うバグ・差異調査タスクを題材に、
+- なぜ「やってほしいことを全部詰め込んだ巨大プロンプト」がダメだったのか
+- 上司の助言で気づいた「部下に接す</description><guid isPermaLink="false">https://qiita.com/saematsu/items/caaf0ea803b71ff1ef42?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 28 Oct 2026 20:28:58 +0000</pubDate></item><item><title>スペイン高速鉄道衝突事故 これまでに68人死亡 後続列車が追突</title><link>https://news.web.nhk/newsweb/na/nd-20261029de67453</link><description>[score: 0.890] スペイン中部で28日、高速鉄道の列車どうしが衝突し60人以上が死亡した事故で、先行する列車が停止していたところ後続の列車が進入して追突していたことがわかり、当局は詳しい状況を調べています。
+スペイ…
+スペイン 列車どうしの衝突事故“これまでに64人死亡”
+10月28日 23:50
+日独首脳会談 サプライチェーン強じん化など協力強化で一致
+10月29日 0:56
+イスラエル総選挙開票続く“予測獲得議席は与党陣営が上回る”
+10月28日 21:10
+北朝鮮IPアドレスから韓国金融機関に接触 440万件以上
+10月28日 22:22
+揺らぐ米政治の“常識” 若者たちが問い直すイスラエル支持
+10月2</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261029de67453</guid><pubDate>Wed, 28 Oct 2026 19:19:18 +0000</pubDate></item><item><title>【初心者向け】Codex・Claude Codeが乗っ取られる？ AGENTS.md攻撃の仕組みとガードレール対策を対話形式で解説</title><link>https://qiita.com/TakanobuSano/items/def739bcc9a1a9ec1d05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.892] 🧭 本記事は Claude Code実務運用シリーズ の STEP 3「ガードレールを作る」です。
+外から持ち込まれた指示ファイル(AGENTS.md など)による乗っ取りを、指示ではなく実行権限の制限で防ぎます。Codex と Claude Code の両方の設定を扱います。
+シリーズ全体の地図と読む順は 親記事 にまとめています。
+はじめに：AIに守らせるルールが、攻撃の入口になる？
+2026年10月26日、AIコーディングツールを利用する開発者にとって、見過ごせないセキュリティニュースが公開されました。
+CodexやClaude Codeが、Downloadsフォルダに置かれたMarkd</description><guid isPermaLink="false">https://qiita.com/TakanobuSano/items/def739bcc9a1a9ec1d05?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 28 Oct 2026 20:28:58 +0000</pubDate></item><item><title>ゼレンスキー大統領 和平案めぐるロシアとの高官協議に期待</title><link>https://news.web.nhk/newsweb/na/nd-20261029de67457</link><description>[score: 0.895] ウクライナのゼレンスキー大統領は、ロシアとの和平案をめぐるアメリカも交えた3か国の高官協議について、11月6日から10日の間に、UAE＝アラブ首長国連邦で開催されることに期待を示すとともに、アメリカ側…
+あわせて読みたい
+FRB 政策金利据え置き 議長は今後の追加利上げ辞さない構えも
+10月29日 5:54
+カナダの中央銀行が約3年ぶりに利上げ インフレ抑制で
+10月29日 1:51
+スペイン高速鉄道衝突事故 これまでに68人死亡 後続列車が追突
+10月29日 4:05
+ヒマラヤ山脈で見つかった2人の遺体 日本人男性と確認
+10月29日 2:06
+イスラエル総選挙“首相のSNS投稿が功を奏した</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261029de67457</guid><pubDate>Wed, 28 Oct 2026 20:47:37 +0000</pubDate></item><item><title>GMO 攻撃者に関する情報精査 被害拡大防止で緊急の対応続く</title><link>https://news.web.nhk/newsweb/na/nd-20261029de67431</link><description>[score: 0.896] GMOインターネットグループのサービスが不正アクセスを受け、利用者に関するとみられる個人情報が公開された問題で、会社は28日、関係事業者とともにこのサイトを閲覧できないようにする対応をとりました。会社…
+あわせて読みたい
+【地震情報】千葉県北東部で震度5弱 津波の心配なし
+10月29日 2:44
 GMO“個人情報が掲載されたサイトのドメイン停止を確認”
 10月28日 20:59
-冬型気圧配置 初雪や「木枯らし1号」も 北日本は暴風など警戒
-10月28日 12:03
-イスラエル総選挙開票続く“与野党陣営 獲得議席きっ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67035</guid><pubDate>Wed, 28 Oct 2026 06:52:33 +0000</pubDate></item><item><title>衆院定数削減 国民 31議席削減案に賛成方針を決定</title><link>https://news.web.nhk/newsweb/na/nd-20261028de66792</link><description>[score: 0.882] 衆議院議員の定数削減をめぐり、国民民主党は、自民党の実務者が示した比例代表で31議席を削減するなどとした案について、党が主張した削減幅とは異なるものの、あわせて求めてきた選挙制度の見直しが追加で盛り込…
-あわせて読みたい
-定数31議席削減案 各党が賛否表明へ 国民 総合的に判断へ
-10月28日 5:09
-衆議院議員 定数31議席削減案で各党隔たり あす改めて協議へ
-10月27日 19:12
-冬型気圧配置 初雪や「木枯らし1号」も 北日本は暴風など警戒
-10月28日 12:03
-GMO“懸賞金支払い”で脅迫に対抗も不安続く
-10月28日 5:07
-イスラエル総選挙開票続く“与野党陣営 獲得議席き</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de66792</guid><pubDate>Wed, 28 Oct 2026 03:41:20 +0000</pubDate></item><item><title>バンダイナムコ 顧客メールアドレスなど漏えい 34万6000件余</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67023</link><description>[score: 0.883] 家庭用ゲームなどを展開する「バンダイナムコエンターテインメント」は、メール配信を委託している「ユミルリンク」が不正アクセスを受けた影響で、ポイントサービスに会員登録していた顧客のメールアドレスなど34…
-あわせて読みたい
-メール配信会社 不正アクセスで5162万件余の情報流出
-10月27日 0:17
-GMO“個人情報が掲載されたサイトのドメイン停止を確認”
-10月28日 20:59
-個人情報流出でカード不正利用の2次被害 悪用の最新手口は
-10月27日 18:21
-相次ぐ情報流出 攻撃も守りもAIの時代
-10月28日 13:27
-冬型気圧配置 初雪や「木枯らし1号」も 北日本は暴風など警戒
-1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67023</guid><pubDate>Wed, 28 Oct 2026 06:23:35 +0000</pubDate></item><item><title>恋愛装い男性から多額詐欺事件で再逮捕 被害総額は1億円か</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67251</link><description>[score: 0.883] 60代の男性に恋愛感情を抱かせて多額の現金をだまし取ったとして、先月逮捕された36歳の女の容疑者が別の男性からも現金をだまし取っていたとして再逮捕されました。警視庁は、SNS上で「頂き女子りりちゃん」…
-あわせて読みたい
-GMO“個人情報が掲載されたサイトのドメイン停止を確認”
-10月28日 19:16
-冬型気圧配置 初雪や「木枯らし1号」も 北日本は暴風など警戒
-10月28日 12:03
-イスラエル総選挙開票続く“与野党陣営 獲得議席きっ抗か”
-10月28日 12:37
-熊本地震3か月 イオン 一部エリア営業再開の意向 遺族に示す
-10月28日 18:29
-辺野古沖転覆事故 遺族が死亡の船長</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67251</guid><pubDate>Wed, 28 Oct 2026 09:51:18 +0000</pubDate></item><item><title>GMO不正アクセスの犯人サイト、ドメイン停止を確認</title><link>https://www.itmedia.co.jp/news/article/2610/28/2000002659/</link><description>[score: 0.884] GMO不正アクセスの犯人サイト、ドメイン停止を確認
-GMOインターネットは10月28日、同社サービスへの不正アクセスをめぐり、犯行声明などを掲載していたWebサイトのドメインが停止されたことを確認したと発表した。
-同サイトには、GMOへの脅迫や、サービスの顧客情報と主張する情報などが掲載されていた。同社は、関係事業者などと連携して対応を進め、日本時間28日午前4時ごろ、ミラーサイトを含むドメイン停止を確認したという。
-今後、同様のサイトが新たに開設された場合も、「確認次第、直ちにテイクダウンに向けた対応を行う」としている。
-犯人サイトの情報拡散「面白半分」「情報共有のつもり」でもやめて
-また、</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/28/2000002659/</guid><pubDate>Wed, 28 Oct 2026 04:30:17 +0000</pubDate></item><item><title>AIが数百万人の労働者のキャリアチェンジを後押しする理由</title><link>https://forbesjapan.com/articles/detail/96635?s=ns</link><description>[score: 0.884] 表面的には、労働市場は安定しているように見える。離職率は低く、採用は減速し、大半の従業員は現職にとどまっている。研究者たちはこの現象を「ジョブ・ハギング」と呼んでいる。しかし、数百万人の米国労働者が、雇用主の支援なしにAIを活用してスキルを習得し、自信を高め、キャリア転換に向けた準備を進めている。
-フェニックス大学キャリア研究所の2026年キャリア楽観指数によると、今年初めに5000人の米国成人労働者と1000社の雇用主を対象に実施した調査で、50%の人々がAIによって新たな役割への転換に対する自信が高まったと回答している。雇用主の約半数は、すでにAIに精通した人材を維持できないことを懸念して</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/96635?s=ns</guid><pubDate>Wed, 28 Oct 2026 10:09:35 +0000</pubDate></item><item><title>スペイン 列車どうしの衝突事故 これまでに30人死亡 地元当局</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67291</link><description>[score: 0.885] スペインの当局によりますと、28日、首都マドリードと南部の地域を結ぶ高速鉄道の路線で列車どうしが衝突する事故がありました。
-ロイター通信は地元当局の話として、この事故でこれまでに30人が死亡したと伝…
+スペイン 列車どうしの衝突事故“これまでに64人死亡”
+10月28日 23:50
+新幹線と活断層の交差 全国79か所 ズレで被害のおそれ 対策を
+10月28日 22:33
+ホンダと日産 EV用バッテリーの協業へ具体的な</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261029de67431</guid><pubDate>Wed, 28 Oct 2026 17:15:18 +0000</pubDate></item><item><title>有機EL＆タッチ対応の新型「MacBook Pro」発表　デザインを全面刷新、“光るAppleロゴ”も復活</title><link>https://www.itmedia.co.jp/pcuser/articles/2610/29/news054.html</link><description>[score: 0.902] Appleは10月28日（米国時間）、ディスプレイにタンデム有機ELの「PROLED XDR」を採用した新型「MacBook Pro」を発表した。Macとして初めてタッチ操作に対応した他、iPhoneでおなじみの「Dynamic Island」もMacに導入した。画面サイズは14インチ（14.2型）と16インチ（16.3型）の2種類で、チップには「M5 Pro」または「M5 Max」を搭載する。日本では29日から予約を受け付け、11月6日に発売する。
+価格は、M5 Pro搭載モデルが14インチで49万9800円から、16インチで59万9800円から。M5 Max搭載モデルは14インチが76万9</description><guid isPermaLink="false">https://www.itmedia.co.jp/pcuser/articles/2610/29/news054.html</guid><pubDate>Wed, 28 Oct 2026 17:39:12 +0000</pubDate></item><item><title>トランプ大統領「AI」の名称使用を禁止の方針　代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」 | TBS NEWS DIG</title><link>https://newsdig.tbs.co.jp/articles/-/3042737</link><description>[score: 0.904] トランプ大統領「AI」の名称使用を禁止の方針 代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」 TBSテレビ 2026年10月28日(水) 02:37 国際 アメリカのトランプ大統領は「AI＝人工知能」の名称の使用を禁止する方針を明らかにしました。トランプ大統領は27日、「間もなく、全ての関連文書やあらゆる場面において、AI＝人工知能という用語を公式に禁止する…</description><guid isPermaLink="false">https://newsdig.tbs.co.jp/articles/-/3042737</guid><pubDate>Wed, 28 Oct 2026 13:25:25 +0000</pubDate></item><item><title>イスラエル総選挙“首相のSNS投稿が功を奏した”</title><link>https://news.web.nhk/newsweb/na/nd-20261029de67458</link><description>[score: 0.906] イスラエルの総選挙は開票率85％を超え、地元メディアが開票状況などをもとに伝えた政党別の予測獲得議席は、ネタニヤフ首相の右派政党が事前の世論調査の予測を覆し第1党の座を守るとみられています。この要因に…
 注目ワード
 あわせて読みたい
-イスラエル総選挙開票続く“与野党陣営 獲得議席きっ抗か”
-10月28日 12:37
-トランプ大統領 “重要州”テキサスで支持訴え
-10月28日 11:48
-フラビオ・ボルソナロ氏 ブラジル出国し米到着か 複数メディア
-10月28日 16:40
-メタ 安全対策責任者 「アプリのダウンロードに保護者承認を」
-10月28日 5:05
-フィンランドとノルウェーの首脳がプーチ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67291</guid><pubDate>Wed, 28 Oct 2026 09:51:18 +0000</pubDate></item><item><title>ドトールコーヒー 従業員と退職者の個人情報 951件漏えいか</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67114</link><description>[score: 0.887] 大手コーヒーチェーンの「ドトールコーヒー」は、会社のシステムが不正アクセスを受け、従業員と退職者の個人情報951件が漏えいした可能性があると明らかにしました。
-漏えいの可能性があるのは都内の4店舗で…
-あわせて読みたい
-GMO“個人情報が掲載されたサイトのドメイン停止を確認”
-10月28日 19:16
-バンダイナムコ 顧客メールアドレスなど漏えい 34万6000件余
-10月28日 14:46
-冬型気圧配置 初雪や「木枯らし1号」も 北日本は暴風など警戒
-10月28日 12:03
-イスラエル総選挙開票続く“与野党陣営 獲得議席きっ抗か”
-10月28日 12:37
-辺野古沖転覆事故 遺族が死亡の船</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67114</guid><pubDate>Wed, 28 Oct 2026 08:20:09 +0000</pubDate></item><item><title>イスラエル総選挙、ネタニヤフ首相続投へ ユダヤ系から予想以上の支持 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNbnRnMjVmMUtLWVEySTdESGR3SWFkck9kYkpjSlhvQkhmSy01Vk5tVmVoeHJ3TU11YkVBQWJCaTJRYmxCakpXZ2JNbjJlZ2QyYnI3YUZIdmV4YVg3MDFHN1pncUhObWpmWVpyZTg2TjF2amhYbktFS25CaFhfNDJrVnZoU3JaRTg?oc=5</link><description>[score: 0.888] イスラエル総選挙、ネタニヤフ首相続投へ ユダヤ系から予想以上の支持 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxNbnRnMjVmMUtLWVEySTdESGR3SWFkck9kYkpjSlhvQkhmSy01Vk5tVmVoeHJ3TU11YkVBQWJCaTJRYmxCakpXZ2JNbjJlZ2QyYnI3YUZIdmV4YVg3MDFHN1pncUhObWpmWVpyZTg2TjF2amhYbktFS25CaFhfNDJrVnZoU3JaRTg?oc=5</guid><pubDate>Wed, 28 Oct 2026 11:17:29 +0000</pubDate></item><item><title>トランプ「人工知能（AI）の呼称禁止」を表明、「スーパー・インテリジェンス」への変更を推進</title><link>https://forbesjapan.com/articles/detail/107327?s=ns</link><description>[score: 0.889] 米国時間10月27日、ドナルド・トランプ大統領はトゥルース・ソーシャルへの投稿で、「関連するすべての文書」や「その他あらゆるもの」において、「人工知能（AI、Artificial Intelligence）」という呼称の使用を近く禁止すると表明した。トランプはこの言葉を自身が好む「スーパー・インテリジェンス（SI、Super Intelligence）」へ置き換える動きを強めている。
-トランプはこの投稿で、なぜウォール・ストリート・ジャーナルがSIではなく、「非常に不正確な名称」であるAIという言葉を使い続けているのかと疑問を呈した。
-トランプは今年9月、連邦政府の各省庁や機関に対してSIとい</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107327?s=ns</guid><pubDate>Wed, 28 Oct 2026 00:28:54 +0000</pubDate></item><item><title>AppleがM6搭載の14インチ「MacBook Pro」を発表</title><link>https://gigazine.net/news/20261028-m6-macbook-pro/</link><description>[score: 0.891] AppleがM6搭載の14インチ「MacBook Pro」を発表
-2026年10月27日、AppleがM6搭載の新しい14インチ「MacBook Pro」を発表しました。
-Apple、M6を搭載した新しい14インチMacBook Proを発表 - Apple (日本)
-https://www.apple.com/jp/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/
-MacBook Pro - Apple（日本）
-https://www.apple.com/jp/macbook-pro/
-M6搭載14イ</description><guid isPermaLink="false">https://gigazine.net/news/20261028-m6-macbook-pro/</guid><pubDate>Wed, 28 Oct 2026 03:00:15 +0000</pubDate></item><item><title>「花キューピット」会員情報漏えいの可能性 最大423万件余</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67215</link><description>[score: 0.891] 花の配達サービスを手がける「花キューピット」は管理システムへの不正アクセスによって、運営するオンラインサイトの会員情報、最大423万件あまりが外部に漏えいした可能性があると発表しました。
-会員のI…
-あわせて読みたい
-GMO“個人情報が掲載されたサイトのドメイン停止を確認”
-10月28日 19:16
-バンダイナムコ 顧客メールアドレスなど漏えい 34万6000件余
-10月28日 14:46
-ドトールコーヒー 従業員と退職者の個人情報 951件漏えいか
-10月28日 16:51
-冬型気圧配置 初雪や「木枯らし1号」も 北日本は暴風など警戒
-10月28日 12:03
-イスラエル総選挙開票続く“与野</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67215</guid><pubDate>Wed, 28 Oct 2026 09:19:53 +0000</pubDate></item><item><title>はてな株主総会2026 - スズキオンライン</title><link>https://michsuzuki.hatenablog.com/entry/2026/10/28/000042</link><description>[score: 0.892] 10月28日10時から行われた、はてなの株主総会。今、僕が使っているはてなブログの運営会社ですが、今年は振り込め詐欺にあったことで約11億円が流出しました。
-| 直近経営資料 | 2026年7月期決算短信、決算説明会資料、質疑応答、有価証券報告書 |
-|---|---|
-| 株主総会資料 | 定時株主総会招集通知 |
-| 前回 | 第25回定時株主総会の質疑応答（要旨）（はてな） |
-業績は減収減益。来期は増収減益予想（営業利益ベース）
-| - | 売上 | 営業利益 | 純利益 | PER | PBR | 時価総額 |
-|---|---|---|---|---|---|---|
-| はてな・</description><guid isPermaLink="false">https://michsuzuki.hatenablog.com/entry/2026/10/28/000042</guid><pubDate>Wed, 28 Oct 2026 10:51:33 +0000</pubDate></item><item><title>ドン・キホーテなど 一部の顧客情報暗号化される 漏えい可能性</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67238</link><description>[score: 0.894] ディスカウントストアの「ドン・キホーテ」やスーパーの「長崎屋」などは、商品の修理を依頼している会社に不正アクセスがあり、顧客の氏名などの個人情報が外部に漏えいした可能性があると発表しました。
-「ド…
-あわせて読みたい
-GMO“個人情報が掲載されたサイトのドメイン停止を確認”
-10月28日 19:16
-バンダイナムコ 顧客メールアドレスなど漏えい 34万6000件余
-10月28日 14:46
-「花キューピット」会員情報漏えいの可能性 最大423万件余
-10月28日 17:54
-ドトールコーヒー 従業員と退職者の個人情報 951件漏えいか
-10月28日 16:51
-個人情報流出でカード不正利用の2</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67238</guid><pubDate>Wed, 28 Oct 2026 09:51:18 +0000</pubDate></item><item><title>日本航空 予約システムに不正アクセス 9万人超の情報漏えいか</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67365</link><description>[score: 0.896] 日本航空は、航空券の予約や発券などを行うシステムが不正アクセスを受け、およそ9万2000人の乗客の氏名や予約に関する情報が漏えいしたおそれがあると発表しました。このうちおよそ2000人については電話番…
-あわせて読みたい
-ドトールコーヒー 従業員と退職者の個人情報 951件漏えいか
-10月28日 16:51
-「花キューピット」会員情報漏えいの可能性 最大423万件余
-10月28日 17:54
-予防的メンテナンスで連絡アプリ使えず 対応に追われる小学校
-10月28日 19:08
-ウェブサイトなどの停止を告知した企業や自治体 約1200に
-10月28日 19:52
-GMO“個人情報が掲載されたサイ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67365</guid><pubDate>Wed, 28 Oct 2026 11:45:02 +0000</pubDate></item><item><title>トランプ大統領「AI」の名称使用を禁止の方針　代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/4573deab7a69a2492e721d2d5bf8e59d3393d84a</link><description>[score: 0.898] トランプ大統領「AI」の名称使用を禁止の方針 代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」
-アメリカのトランプ大統領は「AI＝人工知能」の名称の使用を禁止する方針を明らかにしました。
-【写真で見る】“因縁の地”へ応援に駆けつけたオバマ元大統領
-トランプ大統領は27日、「間もなく、全ての関連文書やあらゆる場面において、AI＝人工知能という用語を公式に禁止することになる」とSNSに投稿しました。
-トランプ氏はこれまでに「人工という単語がフェイクのように聞こえる」などとAIの名称を批判。政府の文書や発表などで代わりとしてSI＝超知能の名称使用を命じる大統領令に署名し</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/4573deab7a69a2492e721d2d5bf8e59d3393d84a</guid><pubDate>Wed, 28 Oct 2026 03:03:37 +0000</pubDate></item><item><title>予防的メンテナンスで連絡アプリ使えず 対応に追われる小学校</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67164</link><description>[score: 0.898] 不正アクセスに備えて企業では、予防的なメンテナンスを行う動きも出ています。こうしたメンテナンスの影響で、都内の小学校では、保護者とのやりとりを行うためのサービスが使用できず、対応に追われています。
-…
-あわせて読みたい
-GMO“個人情報が掲載されたサイトのドメイン停止を確認”
-10月28日 19:16
-ドン・キホーテなど 一部の顧客情報暗号化される 漏えい可能性
-10月28日 18:48
-バンダイナムコ 顧客メールアドレスなど漏えい 34万6000件余
-10月28日 14:46
-ドトールコーヒー 従業員と退職者の個人情報 951件漏えいか
-10月28日 16:51
-個人情報流出でカード不正利用</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67164</guid><pubDate>Wed, 28 Oct 2026 10:47:23 +0000</pubDate></item><item><title>【緊急声明】ロシア当局による北海道新聞記者の不当拘束に抗議し、即時解放を強く求める｜ロシア記者拘束問題有志</title><link>https://note.com/good_racoon2939/n/nee3bc65abbc2</link><description>[score: 0.902] 【緊急声明】ロシア当局による北海道新聞記者の不当拘束に抗議し、即時解放を強く求める｜ロシア記者拘束問題有志 2026年10月13日、北海道新聞ユジノサハリンスク支局の記者である今井裕紀氏が、ロシア連邦保安局（FSB）によりスパイ容疑で拘束されるという事態が発生しました。 拘束後、日ソ領事条約（現・日露領事条約）で明確に規定されている「拘束から4日以内の領事面会」という期限は守られず、日本大使館員との面会は大幅に遅れ...</description><guid isPermaLink="false">https://note.com/good_racoon2939/n/nee3bc65abbc2</guid><pubDate>Wed, 28 Oct 2026 07:52:04 +0000</pubDate></item><item><title>Claude Mythos 5がGitHubに悪意あるコードを送り込み偽アカウントで開発者に圧力をかけた問題の原因をAnthropicが分析</title><link>https://gigazine.net/news/20261028-claude-mythos-5-failure/</link><description>[score: 0.902] AnthropicのAIモデル「Claude Mythos 5」がセキュリティテスト中に悪意のあるコードをGitHubに投稿し、偽アカウントを使って開発者に承認を迫った問題について、AnthropicとイギリスのAI Security Institute(AISI)が原因分析の結果を発表しました。AIが被害の可能性を十分に考慮せずに行動したことや、自分の判断を正当化する偏った推論、タスクを完了するために同じ行動を続けようとする傾向が問題につながったと指摘されています。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20261028-claude-mythos-5-failure/</guid><pubDate>Wed, 28 Oct 2026 11:09:18 +0000</pubDate></item><item><title>M6搭載14インチMacBook Pro登場。GPUが最大30%高速化</title><link>https://pc.watch.impress.co.jp/docs/news/2151796.html</link><description>[score: 0.920] ニュース
-M6搭載14インチMacBook Pro登場。GPUが最大30%高速化
-2026年10月28日 11:55
-Appleは、最新世代のM6プロセッサを採用し、M5搭載モデルと比べて最大30%のグラフィックス性能向上をうたう新型「14インチMacBook Pro」を11月6日に発売する。予約受付は10月29日より開始し、価格は33万9,800円から。
-新型14インチMacBook Proでは、同社が8月に発表した2nmプロセス製造のプロセッサであるM6を採用。従来機と比べ、CPUとGPUが2コアずつ増加し、いずれも12コア構成となった。これによりマルチスレッド性能が高まったほか、M5から</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151796.html</guid><pubDate>Wed, 28 Oct 2026 09:30:48 +0000</pubDate></item></channel></rss>
+【地震情報】千葉県北東部で震度5弱 津波の心配なし
+10月29日 2:44
+FRB 政策金利据え置き 議長は今後の追加利上げ辞さない構えも
+10月29日 5:54
+スペイン 列車どうしの衝突事故“これまでに64人死亡”
+10月28日 23:50
+ホンダと日産 EV用バッテリーの協業へ具体的な交渉
+10月29日 1:05
+日本サッカー協会 岡田武史氏が副会長を辞任 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261029de67458</guid><pubDate>Wed, 28 Oct 2026 20:47:37 +0000</pubDate></item></channel></rss>
