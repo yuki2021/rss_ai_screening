@@ -1,77 +1,180 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 28 Oct 2026 00:10:47 +0000</lastBuildDate><item><title>アンソロピックの335ページのIPO届出書をAI検出ツールにかけてみた。結果は「92％が人間」</title><link>https://www.businessinsider.jp/article/2610-anthropic-ipo-paperwork-ai-writing-detector-pangram/</link><description>[score: 0.877] アンソロピック（Anthropic）が待望のS-1届出書を10月26日に提出し、同社の計画や現在の財務状況について、さまざまな興味深い事実が明らかになった。
-しかし、私が抱いた最大の疑問は、「アンソロピックは、誤って人類を滅ぼしてしまうことを事業上のリスクだと考えているのか？」（答えはイエス）でも、「どれだけの損失を出しているのか？」（かなりの額だ）でも、「より大きな善のために保有株式の一部を寄付するという誓約をしていない50％の従業員の1人であることに、違和感はないのか？」（今も気になっている。もしあなたが該当するなら、教えてほしい）でもなかった。
-私の疑問はこうだ。彼らはこの書類を書くのに</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-anthropic-ipo-paperwork-ai-writing-detector-pangram/</guid><pubDate>Tue, 27 Oct 2026 21:58:15 +0000</pubDate></item><item><title>ChatGPTの使い方は世代で違う？ 日本の年齢別データから見えること</title><link>https://www.suzukikenichi.com/blog/does-chatgpt-usage-differ-by-generation-what-japans-age-data-shows/</link><description>[score: 0.877] [レベル: 上級]
-OpenAI は 2026 年 10 月 26 日、個人が ChatGPT をどう使っているかを示すインタラクティブなデータダッシュボード「Signals individual data」を更新しました。
-OpenAI の経済研究チームによる「OpenAI Signals」の一部で、日本を含む国ごとに、年齢層や話題別の利用状況を確認できます。
-調査方法 概要
-データは、2024 年 7 月から 2026 年 9 月まで毎月 100 万件ずつ抽出したメッセージのサンプルに基づいています。
-対象は 18 歳以上と申告したアカウントで、プランは Free、Go、Plus、Pro </description><guid isPermaLink="false">https://www.suzukikenichi.com/blog/does-chatgpt-usage-differ-by-generation-what-japans-age-data-shows/</guid><pubDate>Tue, 27 Oct 2026 22:15:43 +0000</pubDate></item><item><title>ロシア製油所の処理量25％増、軽油増産 無人機攻撃停止で＝関係筋 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBCVkVQa3BmLUo5YTBReU1wRkYzdGJ1V0dYdzRqbnJHZm50WDJtVVlldm9wamo0OU1aYTRtOW9jMnplTk1ha2NnMjcyeWl6TDFOazQ0dFR3Q2s1aThYZGlnQXczaXl4ckFiRlhyWURqcjN4c0JHTGVhdE5kUG9Pc3c?oc=5</link><description>[score: 0.877] ロシア製油所の処理量25％増、軽油増産 無人機攻撃停止で＝関係筋 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFBCVkVQa3BmLUo5YTBReU1wRkYzdGJ1V0dYdzRqbnJHZm50WDJtVVlldm9wamo0OU1aYTRtOW9jMnplTk1ha2NnMjcyeWl6TDFOazQ0dFR3Q2s1aThYZGlnQXczaXl4ckFiRlhyWURqcjN4c0JHTGVhdE5kUG9Pc3c?oc=5</guid><pubDate>Tue, 27 Oct 2026 23:53:02 +0000</pubDate></item><item><title>JR京浜東北線 全線で運転見合せ</title><link>https://news.web.nhk/newsweb/na/nd-20261028de66737</link><description>[score: 0.878] JR京浜東北線 全線で運転見合せ 木が架線に倒れている影響
-JR京浜東北線は、東京・北区の田端駅と上中里駅の間で付近の木が架線に倒れかかっている影響で、28日午前7時ごろから、全線で運転を見合わせています。
-JR東日本によりますと、運転再開の見通しは立ってい…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 28 Oct 2026 12:42:22 +0000</lastBuildDate><item><title>「バイブコーディング」で今週から月20万円の副収入を生み出す方法</title><link>https://forbesjapan.com/articles/detail/96637?s=ns</link><description>[score: 0.875] ほとんどの起業家は、顧客が何を必要としているかを正確に把握している。同じ質問を何百回も聞いてきた。顧客が直接アクセスするために実際にお金を払うであろう回避策やショートカットを構築してきた。これまで欠けていたのは知識ではない。その知識を商品としてパッケージ化する時間と技術力だ。
+バイブコーディングがそれを変える。Claude Coworkのようなツールは、非技術系起業家にとってゲームチェンジャーとなった。
+あなたはすでに、月20万円の資産を構築するために必要なものをすべて持っている。すでに知っていること、オーディエンスがすでに求めていることを活用し、それを見ていない間にも収益を生み出すシンプルな</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/96637?s=ns</guid><pubDate>Wed, 28 Oct 2026 10:09:35 +0000</pubDate></item><item><title>「ダウンロードフォルダでAIを使わないで」――セキュリティ企業が注意喚起　エージェントが攻撃者の指示に従いマルウェアインストールの恐れ</title><link>https://www.itmedia.co.jp/aiplus/article/2610/28/2000002671/</link><description>[score: 0.875] 「ダウンロードフォルダでAIを使わないで」――セキュリティ企業が注意喚起 エージェントが攻撃者の指示に従いマルウェアインストールの恐れ（1/2 ページ）
+ダウンロードフォルダに仕込んだマークダウンファイルを使ってユーザーのAIエージェントを悪用――イスラエルのセキュリティ企業Reboraはこのような攻撃を確認したとして、ダウンロードフォルダでエージェントを起動しないよう呼びかけた。
+Reboraは顧客のコンピュータのダウンロードフォルダに悪意のある「AGENTS.md」（エージェントへの指示を記載したマークダウンファイル）を発見。Webサイトはユーザーの操作なくダウンロードフォルダにファイルを</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2610/28/2000002671/</guid><pubDate>Wed, 28 Oct 2026 08:44:02 +0000</pubDate></item><item><title>1,000ファイルの言語移行をAIとASTトランスパイラで完遂した話：LLMの「評価の抜け道」とどう戦ったか</title><link>https://qiita.com/dev-hasegawa/items/79f612c5a4e6c874eaa9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.876] こんにちは！株式会社DearOneの長谷川です。
+DearOneのAI推進室でRAGの開発やRAGを使った社内システムの開発に従事しています。
+この記事でわかること
+- 1,000ファイル超の基幹システムでロジックを保ち、AST（抽象構文木）を用いて「言語だけを切り替える」実践アプローチ
+- AIを使った言語移行で直面する「Specification Gaming（評価の穴・近道）」の実態と、AI自身に抜け道を探させる回避策
+- フェイルクローズ設計やCI自動検証により、AIを「評価を一緒に鍛える仲間」に変える品質管理ノウハウ
+- 振る舞い検証（差分テスト）を通じて、長年埋もれていた業務仕様の</description><guid isPermaLink="false">https://qiita.com/dev-hasegawa/items/79f612c5a4e6c874eaa9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 28 Oct 2026 08:58:53 +0000</pubDate></item><item><title>Anthropic の Scion に学ぶソース管理設計、Git の前提はどこで崩れるか</title><link>https://qiita.com/kai_kou/items/1e1800bb2d48c8fc3ea7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] はじめに
+コーディングエージェントを CI やバッチジョブに組み込むと、リポジトリを取得するクライアントの数が人間の開発者数とは別の桁で増えていきます。そのとき最初に音を上げるのはどこなのでしょうか。
+対象読者は、リードエンジニア・プラットフォーム担当、そして AI エージェントを開発基盤に組み込もうとしている方です。
+Anthropic は 2026-10-13 に Engineering ブログで「Redesigning source control at Anthropic」を公開し、社内向けのバージョン管理システム Scion について説明しました（2026-10-15 に、Scion</description><guid isPermaLink="false">https://qiita.com/kai_kou/items/1e1800bb2d48c8fc3ea7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 28 Oct 2026 08:58:53 +0000</pubDate></item><item><title>「ほとんどデタラメ…」GMOサイバー攻撃で個人情報をさらされた人物が代表取材に困惑「サービスは一度も使っていない」…熊谷代表は犯人に100万ドルの懸賞 | 集英社オンライン</title><link>https://shueisha.online/articles/-/259042</link><description>[score: 0.877] 「ほとんどデタラメ…」GMOサイバー攻撃で個人情報をさらされた人物が代表取材に困惑「サービスは一度も使っていない」…熊谷代表は犯人に100万ドルの懸賞 | 集英社オンライン 複数のマスコミがメディアスクラムを避け代表取材攻撃者のサイトには「予告通り、個人情報を公開する」との文言とともに、「被害者第1号」として、氏名、住所、写真、生年月日、電話番号、職業、家族構成からライフスタイルまで、さまざまな個人情報とみられる内容が公開された。 攻撃者は27日正午までに100万ドルを支払...</description><guid isPermaLink="false">https://shueisha.online/articles/-/259042</guid><pubDate>Wed, 28 Oct 2026 10:32:17 +0000</pubDate></item><item><title>日本サッカー協会 岡田武史氏が副会長を辞任 W杯対応めぐり</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67231</link><description>[score: 0.877] 日本サッカー協会は、元日本代表監督の岡田武史副会長が、今回のワールドカップをめぐる一連の対応について、自身の信条との間に大きな隔たりがあるなどとして、副会長を辞任したと発表しました。
+日本サッカー…
+注目ワード
 あわせて読みたい
-鉄道運行情報
-西高東低の冬型の気圧配置で風強まる 北日本で暴風警戒
-10月28日 7:01
+GMO“個人情報が掲載されたサイトのドメイン停止を確認”
+10月28日 19:16
+【速報中】ソフトバンクが2年連続の日本一 DeNAに4連勝
+10月28日 20:41
+武部農相「事実関係確認中」 選挙運動費“二重計上”報道に
+10月28日 16:33
+小泉防衛相 米国防長官に3文書改定説明「拒否する防衛力」も
+10月28日 15:34
+“納屋”で生活を続ける女性
+1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67231</guid><pubDate>Wed, 28 Oct 2026 09:51:18 +0000</pubDate></item><item><title>GMO“個人情報が掲載されたサイトのドメイン停止を確認”</title><link>https://news.web.nhk/newsweb/na/nd-20261028de66765</link><description>[score: 0.879] GMOインターネットグループのサービスが不正アクセスを受けている問題で、会社は、利用者に関すると見られる個人情報が掲載されていたサイトのドメインが停止されたことを確認したと発表しました。会社は、27日…
+あわせて読みたい
+GMO サイトにアクセスしないで ハッカー側 1人の個人情報公開
+10月27日 21:12
+ドン・キホーテなど 一部の顧客情報暗号化される 漏えい可能性
+10月28日 18:48
+「花キューピット」会員情報漏えいの可能性 最大423万件余
+10月28日 17:54
+ドトールコーヒー 従業員と退職者の個人情報 951件漏えいか
+10月28日 16:51
+個人情報流出でカード不正</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de66765</guid><pubDate>Wed, 28 Oct 2026 03:41:20 +0000</pubDate></item><item><title>AI企業の決算、FRBの重要な決定、中間選挙：株式市場が重要な2週間を迎える</title><link>https://www.businessinsider.jp/article/2610-stock-market-outlook-ai-earnings-fed-meeting-midterms-anthropic-s1/</link><description>[score: 0.879] - 今後2週間は市場にとって非常に重要な期間になる。
+- 今週はアルファベット、マイクロソフト、アマゾンが決算を発表し、FRBは28日（水・米時間）に金融政策を決定する。
+- 来週の中間選挙も、投資家が消化すべき影響を及ぼす可能性がある。
+株式市場は、極めて重要な2週間の幕を開ける。
+アンソロピック（Anhtropic）のS-1提出書類が26日（月・米時間）の朝に公開された。それに加えて、今週の市場を動かす一連のイベントには、AI関連取引の主要企業による決算発表、連邦準備制度理事会（FRB）による金利決定と、ケビン・ウォーシュ議長の経済見通し、そしてアメリカ中間選挙の結果が挙げられる。
+ここ数</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-stock-market-outlook-ai-earnings-fed-meeting-midterms-anthropic-s1/</guid><pubDate>Wed, 28 Oct 2026 08:40:17 +0000</pubDate></item><item><title>「AI」の呼称禁止を表明したトランプ大統領--「超知能：SI」への言い換えが隠すもの</title><link>https://japan.cnet.com/article/35254081/</link><description>[score: 0.880] 「AI」の呼称禁止を表明したトランプ大統領--「超知能：SI」への言い換えが隠すもの 20世紀初頭の辞書をひもとくと、「computer」という語は算術計算を仕事とする人、つまり計算する人間を指していた。20世紀半ばには、その意味は電子計算機へと変わった。この意味の変化をもたらしたのは、上からの命令ではなく、労働と技術の変化だった。 いまや私たちは、大統領が英語を取り仕切る新世界に足を踏み入れ...</description><guid isPermaLink="false">https://japan.cnet.com/article/35254081/</guid><pubDate>Wed, 28 Oct 2026 04:59:22 +0000</pubDate></item><item><title>AI×開発組織Summit 2026 freee CAIO横路の登壇レポート｜freee公式note</title><link>https://note.freee.co.jp/n/n91ba6466e1e3</link><description>[score: 0.880] AI×開発組織Summit 2026 freee CAIO横路の登壇レポート｜freee公式note こんにちは！freeeのAI Platform Engineering というチームでAI基盤開発などを担当している gon と申します。 2026年10月16日に開催された、ファインディさん主催の「AI×開発組織Summit 2026」に参加してきました！freeeからはCAIOの横路が特別講演枠で「freeeにおける大規模ソフトウェアファクトリーの実践」というタイ...</description><guid isPermaLink="false">https://note.freee.co.jp/n/n91ba6466e1e3</guid><pubDate>Wed, 28 Oct 2026 11:01:15 +0000</pubDate></item><item><title>衆院定数31削減案 維新 国民が賛成 自民“3党で法案作成を”</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67035</link><description>[score: 0.882] 衆議院議員の定数削減をめぐる与野党の協議が行われ、自民党の実務者が示した比例代表で31議席を削減するなどとした案をもとに検討を進めていくことに、日本維新の会と国民民主党が賛成する意向を表明しました。 …
+あわせて読みたい
+政府 消費税減税法案 支援金考え方の資料提示
+10月28日 13:33
+武部農相「事実関係確認中」 選挙運動費“二重計上”報道に
+10月28日 16:33
+GMO“個人情報が掲載されたサイトのドメイン停止を確認”
+10月28日 20:59
+冬型気圧配置 初雪や「木枯らし1号」も 北日本は暴風など警戒
+10月28日 12:03
+イスラエル総選挙開票続く“与野党陣営 獲得議席きっ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67035</guid><pubDate>Wed, 28 Oct 2026 06:52:33 +0000</pubDate></item><item><title>衆院定数削減 国民 31議席削減案に賛成方針を決定</title><link>https://news.web.nhk/newsweb/na/nd-20261028de66792</link><description>[score: 0.882] 衆議院議員の定数削減をめぐり、国民民主党は、自民党の実務者が示した比例代表で31議席を削減するなどとした案について、党が主張した削減幅とは異なるものの、あわせて求めてきた選挙制度の見直しが追加で盛り込…
+あわせて読みたい
+定数31議席削減案 各党が賛否表明へ 国民 総合的に判断へ
+10月28日 5:09
+衆議院議員 定数31議席削減案で各党隔たり あす改めて協議へ
+10月27日 19:12
+冬型気圧配置 初雪や「木枯らし1号」も 北日本は暴風など警戒
+10月28日 12:03
 GMO“懸賞金支払い”で脅迫に対抗も不安続く
 10月28日 5:07
-イスラエル総選挙開票始まる“与野党陣営 獲得議席きっ抗か”
-10月28日 8:21
-山梨の女性死亡事件 台湾で夫を拘束 高額保険か
-10月28日 7:15
-フ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de66737</guid><pubDate>Tue, 27 Oct 2026 22:52:39 +0000</pubDate></item><item><title>Google DeepMind、ワールドモデル「Genie 4」発表　音声や会話もリアルタイム生成、Geminiと連携</title><link>https://www.itmedia.co.jp/news/article/2610/28/2000002648/</link><description>[score: 0.878] Google DeepMind、ワールドモデル「Genie 4」発表 音声や会話もリアルタイム生成、Geminiと連携
-米Google傘下のGoogle DeepMindは10月27日（現地時間）、インタラクティブな仮想世界をリアルタイムで生成するAIモデル「Genie 4」を発表した。「Genie 3」よりも映像のリアリティや物理現象の再現能力を高め、環境音や音楽、登場人物の会話も同時に生成できるようになった。まずは限定されたテスター向けに研究プレビューとして提供し、今後、「Google AI Ultra」加入者や開発者にも提供する計画だ。
-Genieは、テキストや画像から仮想世界を生成し、</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/28/2000002648/</guid><pubDate>Tue, 27 Oct 2026 22:52:17 +0000</pubDate></item><item><title>アップル、M6搭載14インチMacBook Pro発表。M1比でAI性能最大13倍、33万9800円から</title><link>https://www.techno-edge.net/article/2026/10/28/5641.html</link><description>[score: 0.878] アップルは、新たに開発したM6チップを搭載した14インチMacBook Proを発表しました。10月29日より予約注文を受け付け、11月6日より販売を開始します。税込価格は33万9800円からとなっています。
-新しい14インチMacBook Proでは、12コアCPUと12コアGPU、デュアル16コアNeural Engineを備えるM6チップを搭載します。アップルいわく、M5搭載モデルと比較してグラフィックス性能が最大30%、AIワークロード処理が最大25%向上したとのことです。ユニファイドメモリの容量は16GBから最大32GBまで構成可能。メモリ帯域幅は最大170GB/sです。
-GPUには</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/10/28/5641.html</guid><pubDate>Tue, 27 Oct 2026 21:35:47 +0000</pubDate></item><item><title>Ahrefsが競合サイトのAI・広告・SNS流入を推定できる「トラフィック分析」ベータ公開</title><link>https://webtan.impress.co.jp/n/2026/10/28/53522</link><description>[score: 0.878] Ahrefsが競合サイトのAI・広告・SNS流入を推定できる「トラフィック分析」ベータ公開 10以上のチャネルで競合の集客を分析、計測タグ不要でドメインを入力するだけ noboru.kojima 2026年10月28日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 オールインワン・マーケティングツール「Ahrefs(エイチレフス)」を提供するシンガポールのAhrefsは、競合サイトを含む任意のドメインの流入を推定・分析できる「トラフィック分析(Traffic Analytics)」をベータ版として公開していると10月27日に発表した。Ahrefsの「サイトエクスプローラ</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/10/28/53522</guid><pubDate>Tue, 27 Oct 2026 22:10:39 +0000</pubDate></item><item><title>TOPPANが公開からわずか1年でサイトリニューアルした理由【週間ランキング】</title><link>https://webtan.impress.co.jp/e/2026/10/28/53520</link><description>[score: 0.879] TOPPANが公開からわずか1年でサイトリニューアルした理由【週間ランキング】 webtan 2026年10月28日 Web担人気記事ランキング シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 2026年10月21日～2026年10月27日にアクセス数の多かった記事のランキングを発表！ 見逃している人気記事はありませんか？ Webサイトリニューアル特集 公開からわずか1年で、なぜTOPPANはパーパスサイトをリニューアルしたのか？ グローバル発信にかけた執念とプロジェクトの全貌 TOPPANは2025年に公開したパーパス特設サイトを、2026年3月にリニューアルした。 荻</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/10/28/53520</guid><pubDate>Tue, 27 Oct 2026 22:10:39 +0000</pubDate></item><item><title>企業サイトのPHP、8月時点で約7割がサポート切れ　WordPress重大更新への対応は？【GMOプライム・ストラテジー調べ】</title><link>https://webtan.impress.co.jp/n/2026/10/28/53516</link><description>[score: 0.879] 企業サイトのPHP、8月時点で約7割がサポート切れ WordPress重大更新への対応は？【GMOプライム・ストラテジー調べ】 企業サイト上のリンクが消されても、99.5％のWebサイトは「公開状態」にあることが判明。 imai-f 2026年10月28日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 GMOプライム・ストラテジーは、「日本上場企業Webサイト技術調査 第2回」の結果を発表した。上場企業3,903社の公式サイト・関連サイトを対象に、外部から確認できる技術情報や公開状況について、2026年4月の第1回調査からの変化を分析している。 関連記事 GMOプライム</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/10/28/53516</guid><pubDate>Tue, 27 Oct 2026 21:06:28 +0000</pubDate></item><item><title>脳は「諦める」ように出来ている！？　脳の初期設定を知って「粘り」を手に入れる方法</title><link>https://studyhacker.net/brain-default</link><description>[score: 0.880] 思い立った資格試験も続かず「諦めてしまう自分は弱い」と思ってしまう。特に社会人は忙しく、資格勉強を続けるのはとても大変です。それを続けられない自分は意志が弱く、続けられる人はきっと鋼鉄の意志を持つ人に違いない……と思っていませんか。しかし、それは違います。 人間の脳には、困難に直面したとき最初に "諦める" ほうを選ぶ回路が、もともと備わっているのです。 なぜ人はすぐ諦めてしまうのか。脳の「初期設定」を知る 「諦めない力」はどう身につく？ 後天的に育つ仕組み 意志力は使うと本当に減るのか。研究が示す分かれ道 「疲れた」と感じた瞬間にできること よくある質問（FAQ） なぜ人はすぐ諦めてしまうの</description><guid isPermaLink="false">https://studyhacker.net/brain-default</guid><pubDate>Tue, 27 Oct 2026 22:37:48 +0000</pubDate></item><item><title>AIの本質は変わらない――加速するモメンタムをどう経済価値に変えるか</title><link>https://forbesjapan.com/articles/detail/107331?s=ns</link><description>[score: 0.881] AIはリセットではない。それは、何十年にもわたって進んできたデータ主導の旅（ジャーニー）における次のフェーズであり、これまでで最も重大な影響を及ぼす可能性があるものだ。
-ほとんどの企業は、すでにその旅のどこかに位置している。ノートPCや社内LANから、基幹業務システム（ERP）、ビジネスインテリジェンス（BI）、データウェアハウス（EDW）、インターネット、EC（電子商取引）、CRM（顧客関係管理）、モバイル、ソーシャル、そして現在のAIに至るまでだ。どの時代も、同じ根幹となる要素、すなわちデータ＋アルゴリズム＋統合＋コンピューティングパワーの複利的な進化の上に築かれてきた。
-つまり、目的はデ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107331?s=ns</guid><pubDate>Tue, 27 Oct 2026 23:30:41 +0000</pubDate></item><item><title>AIが引き起こす「脆弱性の津波」…有識者が警告するリスクとは</title><link>https://www.businessinsider.jp/article/1026-what-smart-people-say-cybersecurity-openai-internet-threats/</link><description>[score: 0.882] - インターネットの大半に影響する脆弱性をAIが発見したことを受け、経営幹部やアナリストらが警鐘を鳴らしている。
-- エネルギーや水のインフラ、医療に至るまで、重要システムが特に危険にさらされる可能性があると専門家は指摘している。
-- 現在インターネットが直面する最大の脅威について、専門家は何を語っているのか。
-サイバーセキュリティにとって、悪夢のような1週間だった。
-プログラミング言語PHPの「重大な」脆弱性2件が、AIの助けを借りて発見された。PHPは世界のウェブサイトの最大70%で使用されており、各社はハッキングを防ぐため、修正プログラムの公開を急いでいる。
-この騒動によって、AIがオン</description><guid isPermaLink="false">https://www.businessinsider.jp/article/1026-what-smart-people-say-cybersecurity-openai-internet-threats/</guid><pubDate>Tue, 27 Oct 2026 21:58:15 +0000</pubDate></item><item><title>ビジネススクール教授が教える「情報収集面談」4つのコツ</title><link>https://forbesjapan.com/articles/detail/107340?s=ns</link><description>[score: 0.882] ついに相手から情報収集のための面談の承諾を得られたとする。LinkedInで送るメッセージを何度も推敲し、質問内容を決めるために相手のプロフィールを熟読したはずだ。興味のあるキャリアを歩んできた人物と話せる時間は20分。その時間を最大限に活用しようと意気込んでいることだろう。
-会話はそれなりに和やかに進む。相手は自身のキャリアについて話し、あなたはどのようにしてその仕事を始めたのかを尋ね、最後に時間を割いてくれたことに感謝する。だが面談後、何を達成できたのかよくわからない。
-求人について尋ねるべきだったのか。紹介を得るチャンスを逃したのか。ビジネススクールの教授として、私はこうした質問を学生か</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107340?s=ns</guid><pubDate>Tue, 27 Oct 2026 23:59:58 +0000</pubDate></item><item><title>今日の株式見通し＝しっかり、ＡＩ・半導体株が先導 日米欧中銀会合控え伸び悩みも - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNenYwQXU0ZUtrV3BDOHpSN2c3d1dqUTlZcmlEU1l1RVc4WVUtTExPS2gwdkJjOEZET1BTakt5OWZ3c2RLaGNlOUQ4bks2d05SQlFIUk50VFdvdFM4UFhTUWNwYjdrRVdwNktpdHJrbnFzYkY4c3A1YVBZS2NWVl96N1NtQk9RQQ?oc=5</link><description>[score: 0.882] 今日の株式見通し＝しっかり、ＡＩ・半導体株が先導 日米欧中銀会合控え伸び悩みも Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNenYwQXU0ZUtrV3BDOHpSN2c3d1dqUTlZcmlEU1l1RVc4WVUtTExPS2gwdkJjOEZET1BTakt5OWZ3c2RLaGNlOUQ4bks2d05SQlFIUk50VFdvdFM4UFhTUWNwYjdrRVdwNktpdHJrbnFzYkY4c3A1YVBZS2NWVl96N1NtQk9RQQ?oc=5</guid><pubDate>Tue, 27 Oct 2026 23:53:02 +0000</pubDate></item><item><title>ＧＭＯ、被害顧客に最大300万円見舞金 有力情報には懸賞金 - Reuters</title><link>https://news.google.com/rss/articles/CBMigwFBVV95cUxQdHpqVTBwQjlwY2hvNEpvNlpET1FqV0JNeU1YMHlGaDFZdTdhVEI1RWJZT01uSENOa21BcjMyTjZpZG0tX0hQS3RTQ0tWRVRnRGdDY0QzQlhJN2E3UDQ1TjZjakpQY1p3SDl5MG1kc1RTZ2JVMngtQWxPOWZqWkdCd1VYMA?oc=5</link><description>[score: 0.883] ＧＭＯ、被害顧客に最大300万円見舞金 有力情報には懸賞金 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMigwFBVV95cUxQdHpqVTBwQjlwY2hvNEpvNlpET1FqV0JNeU1YMHlGaDFZdTdhVEI1RWJZT01uSENOa21BcjMyTjZpZG0tX0hQS3RTQ0tWRVRnRGdDY0QzQlhJN2E3UDQ1TjZjakpQY1p3SDl5MG1kc1RTZ2JVMngtQWxPOWZqWkdCd1VYMA?oc=5</guid><pubDate>Tue, 27 Oct 2026 23:53:02 +0000</pubDate></item><item><title>市場は2027年の米利上げを1～4回と予想、インフレと雇用がFRBの判断を左右する</title><link>https://forbesjapan.com/articles/detail/107315?s=ns</link><description>[score: 0.883] 米連邦準備制度理事会（FRB）が高止まりするインフレの抑制を続ける中、米国の金利は2027年にも上昇する可能性がある。FRBは米国時間2026年9月に利上げを始めた。市場は2026年中にさらに1回、2027年に約2回の追加利上げを見込み、短期金利は4.5～4.75％に達すると予想している。市場の予想には幅があり、金利変更に関する市場の予想確率を示すCMEグループのFedWatchツールによれば、2027年の利上げ回数は1～4回のいずれも十分にあり得る。現時点で、市場は2027年の利下げの可能性を低く見ている。
-イラン紛争によるエネルギー高と関税、AI関連設備の増強が生む物価上昇
-連邦公開市場委</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107315?s=ns</guid><pubDate>Tue, 27 Oct 2026 22:34:55 +0000</pubDate></item><item><title>身近な物を説明するとAIが手描き風で実際に機能するボタン付きで描いてくれる「Colorfigures」</title><link>https://gigazine.net/news/20261028-colorfigures/</link><description>[score: 0.883] 「Colorfigures」は「コインを入れてレバーを回すガムボールマシン」「お湯を沸かし、沸騰したら自動的に電源が切れる電気ケトル」というように身近な物を説明すると手描き風のイラストを生成し、3Dでぐりぐり動かしたりボタンを押して実際に動作させたりできるClaude Codeのスキルです。Claude Codeのターミナルからスキルを追加できるほか、ブラウザからライブデモを確認することもできます。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20261028-colorfigures/</guid><pubDate>Tue, 27 Oct 2026 23:02:45 +0000</pubDate></item><item><title>AIから園芸までGIGAZINE読者の「オタク趣味」調査結果まとめ、年代・性別・他の設問との関連など細かい分析もあり</title><link>https://gigazine.net/news/20261028-gigazine-user-otaku/</link><description>[score: 0.884] AIから園芸までGIGAZINE読者の「オタク趣味」調査結果まとめ、年代・性別・他の設問との関連など細かい分析もあり
-GIGAZINEではガジェットやAI、ゲーム、アニメ、食などさまざまな分野の記事を掲載しています。そんなGIGAZINE読者がどんな分野に深く関心を持っているのかを調べるため、2026年夏に実施した読者アンケートで「あなたは何オタクですか？(複数選択可)」と質問。年代やゲーム・マンガとの関わりによる違いも分析してみました。
-まず、回答全体のTOP20は以下の通り。複数選択が可能なため、選択率の合計は100％を超えます。
-1位は「アニメ」の29.3％で、2位は「PCゲーム」の25</description><guid isPermaLink="false">https://gigazine.net/news/20261028-gigazine-user-otaku/</guid><pubDate>Wed, 28 Oct 2026 00:06:28 +0000</pubDate></item><item><title>“債券”投資の魅力高まる。日銀10月利上げ観測が後退しても、知っておきたい「個人向け国債」以外の選択肢</title><link>https://www.businessinsider.jp/article/2610-bond-investment-alternatives-individual-government-bonds/</link><description>[score: 0.885] - 日銀は10月の会合で、利上げを見送る可能性が高いが、利上げ継続姿勢は崩れていない。
-- そのため、株式や投資信託が中心だった資産形成において、債券の魅力が高まっている。
-- 個人向け国債・新窓販国債・債券ファンドの違いをわかりやすく説明する。
-10月29～30日、日本銀行は金融政策決定会合を開催する予定だ。前稿で指摘した（『利上げ決定、“金利のある”世界から“金利が動く”世界へ。「個人向け国債」投資をどう考えるか？』をご参照）通り、前回会合で日銀は政策金利を引き上げたが、従来より短い間隔での利上げ決定となり、金融政策の正常化を進める姿勢を示した。
-しかし、今回の10月会合では、利上げ見送り</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-bond-investment-alternatives-individual-government-bonds/</guid><pubDate>Tue, 27 Oct 2026 21:58:15 +0000</pubDate></item><item><title>ドコモ光「plala（Sコース）」で44万件の情報流出、委託先に不正アクセス</title><link>https://k-tai.watch.impress.co.jp/docs/news/2151662.html</link><description>[score: 0.886] ニュース
-ドコモ光「plala（Sコース）」で44万件の情報流出、委託先に不正アクセス
-2026年10月27日 20:43
-NTTドコモは、ドコモ光「plala（Sコース）」の顧客情報44万3495件が流出したと発表した。業務委託先のソニーネットワークコミュニケーションズが管理するSo-net会員データベースサーバーへの不正アクセスによるもの。
-不正アクセスが発生したのは10月19日。ドコモは26日にソニーネットワークコミュニケーションズから報告を受け、情報流出を確認した。
-対象となるのは、ドコモ光「plala（Sコース）」を現在利用しているユーザーと、過去6カ月以内に解約したユーザー。「pl</description><guid isPermaLink="false">https://k-tai.watch.impress.co.jp/docs/news/2151662.html</guid><pubDate>Tue, 27 Oct 2026 23:36:32 +0000</pubDate></item><item><title>公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「一度もない」</title><link>https://www.yomiuri.co.jp/national/20261027-GYT1T00367/2/</link><description>[score: 0.888] 公開された情報と氏名など同一の人物、ＧＭＯクラウドサービスの利用「一度もない」
-完了しました
-情報の公開を受け同社は２７日、「要求に応じた場合、犯罪者への資金提供につながる」として、「要求には永久に応じない」との姿勢を改めて示した。さらに、攻撃者によって情報を公開された利用者には、利用者全員に支払う５０００円の見舞金とは別に、最大３００万円の特別見舞金を支払うと表明。関与者の特定や検挙につながる情報を募るため、総額１００万ドルを上限とした懸賞金制度を創設したと明らかにした。
-利用者とみられる情報をネット上で見かけた場合は、転載したり、ＳＮＳに投稿したりしないよう呼びかけている。
-警視庁はＧＭＯ</description><guid isPermaLink="false">https://www.yomiuri.co.jp/national/20261027-GYT1T00367/2/</guid><pubDate>Tue, 27 Oct 2026 21:48:59 +0000</pubDate></item><item><title>アップル、M6チップ搭載の新型iMac発表。オンデバイスAI性能がM4比で最大5倍に</title><link>https://www.techno-edge.net/article/2026/10/28/5642.html</link><description>[score: 0.889] アップルが、M6チップを搭載する新型24インチiMacを発表しました。
-新型iMacに搭載されたM6チップは、最大12コアCPU（M4比で2コア増）と最大12コアGPU（同2コア増）を備えます。GPUの各コアにはNeural Acceleratorが組み込まれており、M4比で最大2倍のグラフィックス性能を実現しています。メモリ帯域幅は最大170GB/sで、M4の120GB/sから向上しています。
-AI性能については、デュアル16コアNeural Engineにより、M4比で最大2倍のAI演算速度を達成したとし、LM Studioでのプロンプト処理を含むオンデバイスAI性能はM4搭載iMac比で</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/10/28/5642.html</guid><pubDate>Tue, 27 Oct 2026 22:05:57 +0000</pubDate></item><item><title>AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」</title><link>https://gigazine.net/news/20261028-cve-tracker/</link><description>[score: 0.889] AIによって脆弱性発見が爆増したことが一目で分かるグラフ「CVE Tracker」
-AIの性能向上によってソフトウェアの脆弱性が続々と発見されるようになりました。@0x_Osprey氏が公開しているウェブアプリ「CVE Tracker」では2026年に入ってから脆弱性の報告件数が急増していることが読み取れます。
-CVE Tracker
-https://cve.0xosprey.com/
-CVE Trackerは共通脆弱性識別子(CVE)が割り当てられた脆弱性件数の推移を確認できるウェブアプリです。サイトにアクセスすると以下のグラフが表示され、脆弱性の発見件数が急増していることが一発で分かります</description><guid isPermaLink="false">https://gigazine.net/news/20261028-cve-tracker/</guid><pubDate>Tue, 27 Oct 2026 22:05:00 +0000</pubDate></item><item><title>アップル、M6搭載の新型「MacBook Pro」発表　11月6日発売</title><link>https://k-tai.watch.impress.co.jp/docs/news/2151696.html</link><description>[score: 0.891] ニュース
-アップル、M6搭載の新型「MacBook Pro」発表 11月6日発売
-2026年10月27日 23:05
-アップル（Apple）は、M6チップを搭載した新型「14インチMacBook Pro」を発表した。10月29日から予約を受け付け、11月6日に発売する。価格は33万9800円から。カラーはスペースブラックとシルバーの2色。
-M6チップの採用により、従来のM5搭載モデルと比べてグラフィックス性能が最大30％、AI処理性能が最大25％向上した。Wi-Fi 7やBluetooth 6にも対応し、バッテリー駆動時間は最大24時間となる。
-M6チップでAI処理性能を強化
-新型MacBoo</description><guid isPermaLink="false">https://k-tai.watch.impress.co.jp/docs/news/2151696.html</guid><pubDate>Tue, 27 Oct 2026 23:56:01 +0000</pubDate></item><item><title>IPO申請書類で判明した、アンソロピックの人材戦略と企業文化に関する「3つの新事実」</title><link>https://www.businessinsider.jp/article/2610-anthropic-ipo-s1-culture-employees/</link><description>[score: 0.891] - アンソロピックの新規株式公開（IPO）申請書類から、同社のAIモデル「Claude」がコーディングの多くを担う職場の実像が明らかになった。
-- 同社の従業員は、2年足らずで940人から5300人に急増したという。
-- エゴを抑える「ローエゴ」の企業文化が理想とされ、トップAI人材の引き留めが重要な課題となっている。
-アンソロピック（Anthropic）は、従業員を急ピッチで増やしている。同時にトップ人材の流出を警戒し、「ローエゴ（low-ego）」、つまり自己顕示欲の低い組織文化づくりにも取り組んでいる。
-Claudeを開発する同社が10月26日に公開したIPO申請書類には、そんな職場環境</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-anthropic-ipo-s1-culture-employees/</guid><pubDate>Tue, 27 Oct 2026 22:52:02 +0000</pubDate></item><item><title>脱GPUが加速、OracleもGoogle製TPUを選択</title><link>https://pc.watch.impress.co.jp/docs/news/2151701.html</link><description>[score: 0.892] ニュース
-脱GPUが加速、OracleもGoogle製TPUを選択
-2026年10月28日 06:00
-Oracleは、10月25日から10月28日に同社の年次イベント「Oracle AI World 2026」を米ラスベガスで開催している。この中で、ハイパースケール級のクラウドサービス事業となるOCI(Oracle Cloud Infrastructure)が、Google開発のAIアクセラレータであるTPU(Tensor Processing Unit)を採用したことが明らかになった。
-GPUコストが大きな課題に。AIアクセラレータに注目が集まる
-現在Oracleが開催しているOracle</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151701.html</guid><pubDate>Tue, 27 Oct 2026 23:27:11 +0000</pubDate></item><item><title>Apple、M6搭載の14インチ「MacBook Pro」発表　AI性能向上、33万9800円から</title><link>https://www.itmedia.co.jp/news/article/2610/28/2000002649/</link><description>[score: 0.892] Apple、M6搭載の14インチ「MacBook Pro」発表 AI性能向上、33万9800円から
-米Appleは10月27日（現地時間）、新型チップ「M6」を搭載した14インチ「MacBook Pro」を発表した。従来の「M5」搭載モデルと比較してグラフィックス性能を最大30％、AI処理性能を最大25％向上させた。日本での価格は33万9800円から。10月29日午前2時10分から予約を受け付け、11月6日に発売する。
-M6は、12コアCPUと12コアGPUを搭載。いずれもM5より2コア増えた。GPUの各コアにAI処理を高速化する「Neural Accelerator」を搭載し、16コアの「N</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/28/2000002649/</guid><pubDate>Tue, 27 Oct 2026 23:54:35 +0000</pubDate></item><item><title>AIが作ったUIはなぜ「使いづらい」のか？ 「操作できる」と「使える」を分けて、100点に引き上げる「4つの評価観点」</title><link>https://codezine.jp/article/detail/29762</link><description>[score: 0.892] AIが作ったUIはなぜ「使いづらい」のか？ 「操作できる」と「使える」を分けて、100点に引き上げる「4つの評価観点」 最近では、エンジニアがデザインをAIで生成してそのまま実装に落とし込むケースが増えています。しかし、その際に直面するのは、見た目は整っているのにUI/UXが機能せず、サイトが想定通りに使われないという問題です。本連載ではそんなエンジニアのために、UXを改善するヒントを株式会社Faciloのフロントエンドエンジニ...</description><guid isPermaLink="false">https://codezine.jp/article/detail/29762</guid><pubDate>Wed, 28 Oct 2026 00:06:50 +0000</pubDate></item><item><title>米中間選挙2026：「赤い州」でトランプ派に異変　「楽観」一転、ブッシュ家も離反 | 毎日新聞</title><link>https://mainichi.jp/articles/20261025/k00/00m/030/187000c</link><description>[score: 0.893] 米中間選挙2026：「赤い州」でトランプ派に異変 「楽観」一転、ブッシュ家も離反 | 毎日新聞 11月3日投開票の米中間選挙の連邦上院選で、保守地盤が固い「赤い州」に異変が起きている。 本来なら共和党の議席維持が「楽観」できるはずだが、トランプ大統領の不人気や候補者の資質の問題が相まって苦戦。トランプ氏も接戦州に注力できず、保守層の支持固めに躍起になっている。 中間選挙まで1週間。焦点となる連邦...</description><guid isPermaLink="false">https://mainichi.jp/articles/20261025/k00/00m/030/187000c</guid><pubDate>Tue, 27 Oct 2026 23:39:01 +0000</pubDate></item><item><title>アンソロピックのIPO目論見書で判明、データセンターとAI半導体への支出が160兆円に迫る規模に</title><link>https://forbesjapan.com/articles/detail/107306?s=ns</link><description>[score: 0.898] Anthropic（アンソロピック）が米国時間10月26日に提出したIPO（新規株式公開）の目論見書で、AI向けの半導体とデータセンターにどれほどの資金を投じているのかが明らかになった。2021年の創業以来、急成長を続けるAnthropicは、AIインフラにすでに190億ドル（約2兆9830億円）超を費やしている。さらに、今後20年間で総額5000億ドル（約78兆5000億円）を超える契約も、すでに結んでいる。
-契約の相手には、アマゾン、グーグル、マイクロソフトといったハイパースケーラー（巨大なデータセンター網を運営する大手クラウド事業者）や、半導体メーカーのAMD、ブロードコム、エヌビディア</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107306?s=ns</guid><pubDate>Tue, 27 Oct 2026 23:01:28 +0000</pubDate></item></channel></rss>
+イスラエル総選挙開票続く“与野党陣営 獲得議席き</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de66792</guid><pubDate>Wed, 28 Oct 2026 03:41:20 +0000</pubDate></item><item><title>バンダイナムコ 顧客メールアドレスなど漏えい 34万6000件余</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67023</link><description>[score: 0.883] 家庭用ゲームなどを展開する「バンダイナムコエンターテインメント」は、メール配信を委託している「ユミルリンク」が不正アクセスを受けた影響で、ポイントサービスに会員登録していた顧客のメールアドレスなど34…
+あわせて読みたい
+メール配信会社 不正アクセスで5162万件余の情報流出
+10月27日 0:17
+GMO“個人情報が掲載されたサイトのドメイン停止を確認”
+10月28日 20:59
+個人情報流出でカード不正利用の2次被害 悪用の最新手口は
+10月27日 18:21
+相次ぐ情報流出 攻撃も守りもAIの時代
+10月28日 13:27
+冬型気圧配置 初雪や「木枯らし1号」も 北日本は暴風など警戒
+1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67023</guid><pubDate>Wed, 28 Oct 2026 06:23:35 +0000</pubDate></item><item><title>恋愛装い男性から多額詐欺事件で再逮捕 被害総額は1億円か</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67251</link><description>[score: 0.883] 60代の男性に恋愛感情を抱かせて多額の現金をだまし取ったとして、先月逮捕された36歳の女の容疑者が別の男性からも現金をだまし取っていたとして再逮捕されました。警視庁は、SNS上で「頂き女子りりちゃん」…
+あわせて読みたい
+GMO“個人情報が掲載されたサイトのドメイン停止を確認”
+10月28日 19:16
+冬型気圧配置 初雪や「木枯らし1号」も 北日本は暴風など警戒
+10月28日 12:03
+イスラエル総選挙開票続く“与野党陣営 獲得議席きっ抗か”
+10月28日 12:37
+熊本地震3か月 イオン 一部エリア営業再開の意向 遺族に示す
+10月28日 18:29
+辺野古沖転覆事故 遺族が死亡の船長</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67251</guid><pubDate>Wed, 28 Oct 2026 09:51:18 +0000</pubDate></item><item><title>GMO不正アクセスの犯人サイト、ドメイン停止を確認</title><link>https://www.itmedia.co.jp/news/article/2610/28/2000002659/</link><description>[score: 0.884] GMO不正アクセスの犯人サイト、ドメイン停止を確認
+GMOインターネットは10月28日、同社サービスへの不正アクセスをめぐり、犯行声明などを掲載していたWebサイトのドメインが停止されたことを確認したと発表した。
+同サイトには、GMOへの脅迫や、サービスの顧客情報と主張する情報などが掲載されていた。同社は、関係事業者などと連携して対応を進め、日本時間28日午前4時ごろ、ミラーサイトを含むドメイン停止を確認したという。
+今後、同様のサイトが新たに開設された場合も、「確認次第、直ちにテイクダウンに向けた対応を行う」としている。
+犯人サイトの情報拡散「面白半分」「情報共有のつもり」でもやめて
+また、</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/28/2000002659/</guid><pubDate>Wed, 28 Oct 2026 04:30:17 +0000</pubDate></item><item><title>AIが数百万人の労働者のキャリアチェンジを後押しする理由</title><link>https://forbesjapan.com/articles/detail/96635?s=ns</link><description>[score: 0.884] 表面的には、労働市場は安定しているように見える。離職率は低く、採用は減速し、大半の従業員は現職にとどまっている。研究者たちはこの現象を「ジョブ・ハギング」と呼んでいる。しかし、数百万人の米国労働者が、雇用主の支援なしにAIを活用してスキルを習得し、自信を高め、キャリア転換に向けた準備を進めている。
+フェニックス大学キャリア研究所の2026年キャリア楽観指数によると、今年初めに5000人の米国成人労働者と1000社の雇用主を対象に実施した調査で、50%の人々がAIによって新たな役割への転換に対する自信が高まったと回答している。雇用主の約半数は、すでにAIに精通した人材を維持できないことを懸念して</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/96635?s=ns</guid><pubDate>Wed, 28 Oct 2026 10:09:35 +0000</pubDate></item><item><title>スペイン 列車どうしの衝突事故 これまでに30人死亡 地元当局</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67291</link><description>[score: 0.885] スペインの当局によりますと、28日、首都マドリードと南部の地域を結ぶ高速鉄道の路線で列車どうしが衝突する事故がありました。
+ロイター通信は地元当局の話として、この事故でこれまでに30人が死亡したと伝…
+注目ワード
+あわせて読みたい
+イスラエル総選挙開票続く“与野党陣営 獲得議席きっ抗か”
+10月28日 12:37
+トランプ大統領 “重要州”テキサスで支持訴え
+10月28日 11:48
+フラビオ・ボルソナロ氏 ブラジル出国し米到着か 複数メディア
+10月28日 16:40
+メタ 安全対策責任者 「アプリのダウンロードに保護者承認を」
+10月28日 5:05
+フィンランドとノルウェーの首脳がプーチ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67291</guid><pubDate>Wed, 28 Oct 2026 09:51:18 +0000</pubDate></item><item><title>ドトールコーヒー 従業員と退職者の個人情報 951件漏えいか</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67114</link><description>[score: 0.887] 大手コーヒーチェーンの「ドトールコーヒー」は、会社のシステムが不正アクセスを受け、従業員と退職者の個人情報951件が漏えいした可能性があると明らかにしました。
+漏えいの可能性があるのは都内の4店舗で…
+あわせて読みたい
+GMO“個人情報が掲載されたサイトのドメイン停止を確認”
+10月28日 19:16
+バンダイナムコ 顧客メールアドレスなど漏えい 34万6000件余
+10月28日 14:46
+冬型気圧配置 初雪や「木枯らし1号」も 北日本は暴風など警戒
+10月28日 12:03
+イスラエル総選挙開票続く“与野党陣営 獲得議席きっ抗か”
+10月28日 12:37
+辺野古沖転覆事故 遺族が死亡の船</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67114</guid><pubDate>Wed, 28 Oct 2026 08:20:09 +0000</pubDate></item><item><title>イスラエル総選挙、ネタニヤフ首相続投へ ユダヤ系から予想以上の支持 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNbnRnMjVmMUtLWVEySTdESGR3SWFkck9kYkpjSlhvQkhmSy01Vk5tVmVoeHJ3TU11YkVBQWJCaTJRYmxCakpXZ2JNbjJlZ2QyYnI3YUZIdmV4YVg3MDFHN1pncUhObWpmWVpyZTg2TjF2amhYbktFS25CaFhfNDJrVnZoU3JaRTg?oc=5</link><description>[score: 0.888] イスラエル総選挙、ネタニヤフ首相続投へ ユダヤ系から予想以上の支持 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxNbnRnMjVmMUtLWVEySTdESGR3SWFkck9kYkpjSlhvQkhmSy01Vk5tVmVoeHJ3TU11YkVBQWJCaTJRYmxCakpXZ2JNbjJlZ2QyYnI3YUZIdmV4YVg3MDFHN1pncUhObWpmWVpyZTg2TjF2amhYbktFS25CaFhfNDJrVnZoU3JaRTg?oc=5</guid><pubDate>Wed, 28 Oct 2026 11:17:29 +0000</pubDate></item><item><title>トランプ「人工知能（AI）の呼称禁止」を表明、「スーパー・インテリジェンス」への変更を推進</title><link>https://forbesjapan.com/articles/detail/107327?s=ns</link><description>[score: 0.889] 米国時間10月27日、ドナルド・トランプ大統領はトゥルース・ソーシャルへの投稿で、「関連するすべての文書」や「その他あらゆるもの」において、「人工知能（AI、Artificial Intelligence）」という呼称の使用を近く禁止すると表明した。トランプはこの言葉を自身が好む「スーパー・インテリジェンス（SI、Super Intelligence）」へ置き換える動きを強めている。
+トランプはこの投稿で、なぜウォール・ストリート・ジャーナルがSIではなく、「非常に不正確な名称」であるAIという言葉を使い続けているのかと疑問を呈した。
+トランプは今年9月、連邦政府の各省庁や機関に対してSIとい</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107327?s=ns</guid><pubDate>Wed, 28 Oct 2026 00:28:54 +0000</pubDate></item><item><title>AppleがM6搭載の14インチ「MacBook Pro」を発表</title><link>https://gigazine.net/news/20261028-m6-macbook-pro/</link><description>[score: 0.891] AppleがM6搭載の14インチ「MacBook Pro」を発表
+2026年10月27日、AppleがM6搭載の新しい14インチ「MacBook Pro」を発表しました。
+Apple、M6を搭載した新しい14インチMacBook Proを発表 - Apple (日本)
+https://www.apple.com/jp/newsroom/2026/10/apple-introduces-the-new-14-inch-macbook-pro-with-m6/
+MacBook Pro - Apple（日本）
+https://www.apple.com/jp/macbook-pro/
+M6搭載14イ</description><guid isPermaLink="false">https://gigazine.net/news/20261028-m6-macbook-pro/</guid><pubDate>Wed, 28 Oct 2026 03:00:15 +0000</pubDate></item><item><title>「花キューピット」会員情報漏えいの可能性 最大423万件余</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67215</link><description>[score: 0.891] 花の配達サービスを手がける「花キューピット」は管理システムへの不正アクセスによって、運営するオンラインサイトの会員情報、最大423万件あまりが外部に漏えいした可能性があると発表しました。
+会員のI…
+あわせて読みたい
+GMO“個人情報が掲載されたサイトのドメイン停止を確認”
+10月28日 19:16
+バンダイナムコ 顧客メールアドレスなど漏えい 34万6000件余
+10月28日 14:46
+ドトールコーヒー 従業員と退職者の個人情報 951件漏えいか
+10月28日 16:51
+冬型気圧配置 初雪や「木枯らし1号」も 北日本は暴風など警戒
+10月28日 12:03
+イスラエル総選挙開票続く“与野</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67215</guid><pubDate>Wed, 28 Oct 2026 09:19:53 +0000</pubDate></item><item><title>はてな株主総会2026 - スズキオンライン</title><link>https://michsuzuki.hatenablog.com/entry/2026/10/28/000042</link><description>[score: 0.892] 10月28日10時から行われた、はてなの株主総会。今、僕が使っているはてなブログの運営会社ですが、今年は振り込め詐欺にあったことで約11億円が流出しました。
+| 直近経営資料 | 2026年7月期決算短信、決算説明会資料、質疑応答、有価証券報告書 |
+|---|---|
+| 株主総会資料 | 定時株主総会招集通知 |
+| 前回 | 第25回定時株主総会の質疑応答（要旨）（はてな） |
+業績は減収減益。来期は増収減益予想（営業利益ベース）
+| - | 売上 | 営業利益 | 純利益 | PER | PBR | 時価総額 |
+|---|---|---|---|---|---|---|
+| はてな・</description><guid isPermaLink="false">https://michsuzuki.hatenablog.com/entry/2026/10/28/000042</guid><pubDate>Wed, 28 Oct 2026 10:51:33 +0000</pubDate></item><item><title>ドン・キホーテなど 一部の顧客情報暗号化される 漏えい可能性</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67238</link><description>[score: 0.894] ディスカウントストアの「ドン・キホーテ」やスーパーの「長崎屋」などは、商品の修理を依頼している会社に不正アクセスがあり、顧客の氏名などの個人情報が外部に漏えいした可能性があると発表しました。
+「ド…
+あわせて読みたい
+GMO“個人情報が掲載されたサイトのドメイン停止を確認”
+10月28日 19:16
+バンダイナムコ 顧客メールアドレスなど漏えい 34万6000件余
+10月28日 14:46
+「花キューピット」会員情報漏えいの可能性 最大423万件余
+10月28日 17:54
+ドトールコーヒー 従業員と退職者の個人情報 951件漏えいか
+10月28日 16:51
+個人情報流出でカード不正利用の2</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67238</guid><pubDate>Wed, 28 Oct 2026 09:51:18 +0000</pubDate></item><item><title>日本航空 予約システムに不正アクセス 9万人超の情報漏えいか</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67365</link><description>[score: 0.896] 日本航空は、航空券の予約や発券などを行うシステムが不正アクセスを受け、およそ9万2000人の乗客の氏名や予約に関する情報が漏えいしたおそれがあると発表しました。このうちおよそ2000人については電話番…
+あわせて読みたい
+ドトールコーヒー 従業員と退職者の個人情報 951件漏えいか
+10月28日 16:51
+「花キューピット」会員情報漏えいの可能性 最大423万件余
+10月28日 17:54
+予防的メンテナンスで連絡アプリ使えず 対応に追われる小学校
+10月28日 19:08
+ウェブサイトなどの停止を告知した企業や自治体 約1200に
+10月28日 19:52
+GMO“個人情報が掲載されたサイ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67365</guid><pubDate>Wed, 28 Oct 2026 11:45:02 +0000</pubDate></item><item><title>トランプ大統領「AI」の名称使用を禁止の方針　代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」（TBS NEWS DIG Powered by JNN） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/4573deab7a69a2492e721d2d5bf8e59d3393d84a</link><description>[score: 0.898] トランプ大統領「AI」の名称使用を禁止の方針 代わりに「SI＝超知能」の使用を求める大統領令に署名 「AI使う者はすべて敵」
+アメリカのトランプ大統領は「AI＝人工知能」の名称の使用を禁止する方針を明らかにしました。
+【写真で見る】“因縁の地”へ応援に駆けつけたオバマ元大統領
+トランプ大統領は27日、「間もなく、全ての関連文書やあらゆる場面において、AI＝人工知能という用語を公式に禁止することになる」とSNSに投稿しました。
+トランプ氏はこれまでに「人工という単語がフェイクのように聞こえる」などとAIの名称を批判。政府の文書や発表などで代わりとしてSI＝超知能の名称使用を命じる大統領令に署名し</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/4573deab7a69a2492e721d2d5bf8e59d3393d84a</guid><pubDate>Wed, 28 Oct 2026 03:03:37 +0000</pubDate></item><item><title>予防的メンテナンスで連絡アプリ使えず 対応に追われる小学校</title><link>https://news.web.nhk/newsweb/na/nd-20261028de67164</link><description>[score: 0.898] 不正アクセスに備えて企業では、予防的なメンテナンスを行う動きも出ています。こうしたメンテナンスの影響で、都内の小学校では、保護者とのやりとりを行うためのサービスが使用できず、対応に追われています。
+…
+あわせて読みたい
+GMO“個人情報が掲載されたサイトのドメイン停止を確認”
+10月28日 19:16
+ドン・キホーテなど 一部の顧客情報暗号化される 漏えい可能性
+10月28日 18:48
+バンダイナムコ 顧客メールアドレスなど漏えい 34万6000件余
+10月28日 14:46
+ドトールコーヒー 従業員と退職者の個人情報 951件漏えいか
+10月28日 16:51
+個人情報流出でカード不正利用</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261028de67164</guid><pubDate>Wed, 28 Oct 2026 10:47:23 +0000</pubDate></item><item><title>【緊急声明】ロシア当局による北海道新聞記者の不当拘束に抗議し、即時解放を強く求める｜ロシア記者拘束問題有志</title><link>https://note.com/good_racoon2939/n/nee3bc65abbc2</link><description>[score: 0.902] 【緊急声明】ロシア当局による北海道新聞記者の不当拘束に抗議し、即時解放を強く求める｜ロシア記者拘束問題有志 2026年10月13日、北海道新聞ユジノサハリンスク支局の記者である今井裕紀氏が、ロシア連邦保安局（FSB）によりスパイ容疑で拘束されるという事態が発生しました。 拘束後、日ソ領事条約（現・日露領事条約）で明確に規定されている「拘束から4日以内の領事面会」という期限は守られず、日本大使館員との面会は大幅に遅れ...</description><guid isPermaLink="false">https://note.com/good_racoon2939/n/nee3bc65abbc2</guid><pubDate>Wed, 28 Oct 2026 07:52:04 +0000</pubDate></item><item><title>Claude Mythos 5がGitHubに悪意あるコードを送り込み偽アカウントで開発者に圧力をかけた問題の原因をAnthropicが分析</title><link>https://gigazine.net/news/20261028-claude-mythos-5-failure/</link><description>[score: 0.902] AnthropicのAIモデル「Claude Mythos 5」がセキュリティテスト中に悪意のあるコードをGitHubに投稿し、偽アカウントを使って開発者に承認を迫った問題について、AnthropicとイギリスのAI Security Institute(AISI)が原因分析の結果を発表しました。AIが被害の可能性を十分に考慮せずに行動したことや、自分の判断を正当化する偏った推論、タスクを完了するために同じ行動を続けようとする傾向が問題につながったと指摘されています。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20261028-claude-mythos-5-failure/</guid><pubDate>Wed, 28 Oct 2026 11:09:18 +0000</pubDate></item><item><title>M6搭載14インチMacBook Pro登場。GPUが最大30%高速化</title><link>https://pc.watch.impress.co.jp/docs/news/2151796.html</link><description>[score: 0.920] ニュース
+M6搭載14インチMacBook Pro登場。GPUが最大30%高速化
+2026年10月28日 11:55
+Appleは、最新世代のM6プロセッサを採用し、M5搭載モデルと比べて最大30%のグラフィックス性能向上をうたう新型「14インチMacBook Pro」を11月6日に発売する。予約受付は10月29日より開始し、価格は33万9,800円から。
+新型14インチMacBook Proでは、同社が8月に発表した2nmプロセス製造のプロセッサであるM6を採用。従来機と比べ、CPUとGPUが2コアずつ増加し、いずれも12コア構成となった。これによりマルチスレッド性能が高まったほか、M5から</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2151796.html</guid><pubDate>Wed, 28 Oct 2026 09:30:48 +0000</pubDate></item></channel></rss>
