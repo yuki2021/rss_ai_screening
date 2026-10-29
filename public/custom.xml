@@ -1,59 +1,142 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 29 Oct 2026 00:33:53 +0000</lastBuildDate><item><title>DNAと「対話できる」。Hugging Faceの新モデル、Carbon-Xとは</title><link>https://wired.jp/article/hugging-face-new-ai-biology-model-chat-with-dna/</link><description>[score: 0.875] AIプラットフォームのHugging Faceは10月22日、DNAを理解するための新たなオープンモデルを公開した。ノートPCのローカル環境でも動作可能だという。
-中国の北京中関村学院とイタリアのフェデリコ2世ナポリ大学の研究者らが共同開発したモデルで、ゲノムの塩基配列と自然言語を使って訓練されている。DNAの変化が遺伝子の働きや健康に及ぼす影響などについて、自然言語で質問し、回答を得ることができる。
-Hugging Faceの上級研究科学者であるルイス・タンストールは、このツールは研究者による新薬や遺伝子治療の開発を支援することを目的としており、患者が自身のゲノムを理解する際にも役立つ可能性</description><guid isPermaLink="false">https://wired.jp/article/hugging-face-new-ai-biology-model-chat-with-dna/</guid><pubDate>Wed, 28 Oct 2026 23:31:46 +0000</pubDate></item><item><title>原油先物上昇、中東の供給不安再燃 米在庫が予想外に減少 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5PRU52VktKXzN3SUp5eW1ETldvUnRyS1FYTUVTMW1nZVh5VC10MzJsei1Ncl8tTllNcnB4VERpUldoX0ZUbGI2Umx3RFNhZFdhTjdNaEExM05RblM1RTE2cllSV2ZKSTJEaFVNeFQwWlNpTUdZd0J5U2tVMEV4UTA?oc=5</link><description>[score: 0.876] 原油先物上昇、中東の供給不安再燃 米在庫が予想外に減少 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE5PRU52VktKXzN3SUp5eW1ETldvUnRyS1FYTUVTMW1nZVh5VC10MzJsei1Ncl8tTllNcnB4VERpUldoX0ZUbGI2Umx3RFNhZFdhTjdNaEExM05RblM1RTE2cllSV2ZKSTJEaFVNeFQwWlNpTUdZd0J5U2tVMEV4UTA?oc=5</guid><pubDate>Wed, 28 Oct 2026 22:45:33 +0000</pubDate></item><item><title>https://korben.info/ja/anthropic-mithril-baishu-claude-hitori-biotech.html</title><link>https://korben.info/ja/anthropic-mithril-baishu-claude-hitori-biotech.html</link><description>[score: 0.876] AnthropicがMithrilを買収、Claudeで回す「たった一人のバイオ企業」
-Cody Tranbarger氏は、1週間前まで無名の存在でした。彼のバイオ企業Mithril Medicineには、本人以外の従業員は一人もいたことがありません。それでもAnthropicは火曜日、創薬分野での野心を加速させるためにこの会社を買収すると発表しました。
-さらにこの人物は、Xで医薬品研究の分析を発信し、かなり多くのフォロワーを集めていた匿名アカウント「Professor Oak」の正体でもありました。アカウント名は、アニメでポケモンを配る博士にちなんだものです。本人は「サプライズその1、Ant</description><guid isPermaLink="false">https://korben.info/ja/anthropic-mithril-baishu-claude-hitori-biotech.html</guid><pubDate>Wed, 28 Oct 2026 21:21:58 +0000</pubDate></item><item><title>「やめ時がわからない」ほど作り込んでしまう人をラクにする思考法</title><link>https://diamond.jp/articles/-/401978</link><description>[score: 0.877] 完璧を求めすぎて仕事を終えられない。やらなければいけないことを先延ばししてしまう。そんなときの対処法を、『おい、とりあえず終わらせろ』の著者、nwiizo（ぬうぃぞう）氏が伝えます。（構成／ダイヤモンド社書籍編集局）
-気づけば、また作り込んでいる。
-図表の位置を直し、言葉を言い換え、念のため参考資料も足しておく。
-どれも、悪いことではない。けれど、どこでやめていいのかわからない。
-「ここまでやれば十分」と誰かに言ってもらえたら、どれだけラクだろう。
-そんなふうに思ったことはないでしょうか。
-実は、「やめ時」は、勘や気合いではなく、考え方で決められます。
-「どこで止めるか」を明確にする
-「良い感</description><guid isPermaLink="false">https://diamond.jp/articles/-/401978</guid><pubDate>Wed, 28 Oct 2026 22:46:15 +0000</pubDate></item><item><title>現代AI入門: 大規模言語モデルから思考するシステムへ — Test-Time Scaling, Loop, Harness, RSI</title><link>https://speakerdeck.com/stillpedant/thinking-systems?slide=6</link><description>[score: 0.877] 現代AI入門: 大規模言語モデルから思考するシステムへ — Test-Time Scaling, Loop, Harness, RSI 基盤モデルを中心に発展してきた「現代AI」を構成するトピックの中から、比較的新しく、かつ重要と思われる観点について「歴史・流れ・気持ち」を大事にしながら概観をします。 IBIS 2026 でのチュートリアルセッ... yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://speakerdeck.com/stillpedant/thinking-systems?slide=6</guid><pubDate>Wed, 28 Oct 2026 23:16:07 +0000</pubDate></item><item><title>プーチン氏、マスク氏を「天才」と称賛 衛星網で追い上げへ - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBhTWdDUnFuaWg4SVNMUGlsYjlHUkY5Nk5WVTc3NFBTVzhoS09EdjJQMG0wbVpPSlo5YW1ueU5DVWJUa3ZQb09jTTV2T19uQ1QxUGdfV2ZDbUxNUGxuLTM4Wkp0cUV3NTJtY1Q5YnpSeGFodEVXV1JrWk1MaVF4R3M?oc=5</link><description>[score: 0.877] プーチン氏、マスク氏を「天才」と称賛 衛星網で追い上げへ Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFBhTWdDUnFuaWg4SVNMUGlsYjlHUkY5Nk5WVTc3NFBTVzhoS09EdjJQMG0wbVpPSlo5YW1ueU5DVWJUa3ZQb09jTTV2T19uQ1QxUGdfV2ZDbUxNUGxuLTM4Wkp0cUV3NTJtY1Q5YnpSeGFodEVXV1JrWk1MaVF4R3M?oc=5</guid><pubDate>Wed, 28 Oct 2026 23:46:20 +0000</pubDate></item><item><title>仮想化、Docker、Kubernetes、AI。自宅サーバーは25年で何が変わったのか - レバテックLAB</title><link>https://levtech.jp/media/detail_947/</link><description>[score: 0.877] 一般社団法人クラウドネイティブイノベーターズ協会 代表理事
-草間一人
-通信事業者でプラットフォームエンジニアを務めたのを皮切りに、いくつかの外資系企業でプロフェッショナルサービスやプリセールスエンジニアとしてクラウドネイティブやプラットフォーム製品に携わるなど、10年以上さまざまな形でプラットフォームに関与している。2023年11月より現職。一般社団法人クラウドネイティブイノベーターズ協会 代表理事。Platform Engineering Meetupオーガナイザー。
-こんにちは！ jacopenと申します。普段はPagerDutyという、インシデント管理SaaSのベンダーにてプロダクトエバ</description><guid isPermaLink="false">https://levtech.jp/media/detail_947/</guid><pubDate>Wed, 28 Oct 2026 22:18:47 +0000</pubDate></item><item><title>勉強法は「ちょっと試す」がおすすめです。勉強法ジプシーにならないための、勉強法の味見の技術</title><link>https://studyhacker.net/research-to-action</link><description>[score: 0.878] 新しい資格の勉強を始めようと思って、YouTubeで勉強法を調べてみる。 効率のいいノート術、記憶に残る復習法、短時間で成果を出すコツ……。 見ているうちに「せっかくやるなら、自分に合う方法を選びたい」と思い、今度は別の方法も気になってきて、また検索する。 ……気づけば、問題集は1ページも開いていない。 調べては別の方法に目移りして、肝心の勉強はなかなか始まらない。いわば「勉強法ジプシー」の状態です。心当たりがあるかもしれません。 情報を集めること自体は、もちろん大切です。ただ、集めた情報を成果につなげる区切りがないままだと、知識だけが増えていきます。 そこで提案したいのが、気になった勉強法を</description><guid isPermaLink="false">https://studyhacker.net/research-to-action</guid><pubDate>Wed, 28 Oct 2026 22:49:49 +0000</pubDate></item><item><title>AI導入から成果創出へ　デル・テクノロジーズ新社長が示す日本市場の事業戦略</title><link>https://monoist.itmedia.co.jp/mn/articles/2610/29/news032.html</link><description>[score: 0.878] デル・テクノロジーズは、2026年8月に代表取締役社長に就任したジョン・ロボトム氏の記者会見を開催した。ロボトム氏は、日本企業のAI活用が導入段階から成果創出へと移行しつつあるとの認識を示し、AIインフラやデータ基盤の整備、人材育成、パートナーとの共創を通じて、日本企業のAI活用を支援する方針を明らかにした。
-デル・テクノロジーズは2026年10月27日、同年8月17日付で代表取締役社長に就任したJon Robottom（ジョン・ロボトム）氏の社長就任記者会見を開催し、日本市場における今後の事業戦略について説明した。
-ロボトム氏はテクノロジー業界で25年以上のキャリアを持ち、以前はデル日本法人</description><guid isPermaLink="false">https://monoist.itmedia.co.jp/mn/articles/2610/29/news032.html</guid><pubDate>Wed, 28 Oct 2026 22:32:59 +0000</pubDate></item><item><title>Google、「Gemini 4 Carbon」発表　「Argon」公開から2週間、サイバー防御能力などを強化</title><link>https://www.itmedia.co.jp/news/article/2610/29/2000002690/</link><description>[score: 0.878] Google、「Gemini 4 Carbon」発表 「Argon」公開から2週間、サイバー防御能力などを強化
-米Googleは10月28日（現地時間）、新たなフロンティアAIモデル「Gemini 4 Carbon」を発表した。同社がこれまでに開発した中で最も高性能なモデルと位置付け、特にサイバーセキュリティと長時間にわたる複雑なタスクの処理能力を強化した。まずはサイバー防御に携わる一部の組織向けに提供し、その後、開発者や企業、一般ユーザーへと順次提供を広げる計画だ。
-Googleは9月30日に「Gemini 4 Argon」を発表し、10月13日に一般提供を開始したばかりだ。Google D</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/29/2000002690/</guid><pubDate>Wed, 28 Oct 2026 23:38:01 +0000</pubDate></item><item><title>Anthropicのエンジニア責任者、コーディング面接を廃止：Claudeが問題を解けるため、採用はポートフォリオ重視へ — BigGo ファイナンス</title><link>https://finance.biggo.jp/news/932deaf0-ab95-4323-a7d7-e7909269c0be</link><description>[score: 0.879] Anthropicのエンジニア責任者、コーディング面接を廃止：Claudeが問題を解けるため、採用はポートフォリオ重視へ — BigGo ファイナンス Anthropicのエンジニア責任者、コーディング面接を廃止：Claudeが問題を解けるため、採用はポートフォリオ重視へ Anthropicのエンジニアリングマネージャー、フェリックス・リーゼベリ氏は、自身のチームの採用に... bulldra "比較的新しいエンジニアのほうが、劣悪なユーザー体験を見つけたり、当然視されている前提に疑問を投げかけたりしやすいという" ラーメンのスープが濃くなりすぎないように血を入れ替えないといけない問題</description><guid isPermaLink="false">https://finance.biggo.jp/news/932deaf0-ab95-4323-a7d7-e7909269c0be</guid><pubDate>Wed, 28 Oct 2026 22:18:47 +0000</pubDate></item><item><title>JALの予約システムに不正アクセス　約9万人分の予約情報が漏えい　一部ではパスポート番号も</title><link>https://www.itmedia.co.jp/news/article/2610/28/2000002687/</link><description>[score: 0.879] JALの予約システムに不正アクセス 約9万人分の予約情報が漏えい 一部ではパスポート番号も 日本航空（JAL）と日本トランスオーシャン航空（JTA）は10月28日、予約や搭乗手続きなどを管理するシステムの提供元が不正アクセスを受け、利用者約9万2000人の予約情報が外部から閲覧された形跡があったと発表し... yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/28/2000002687/</guid><pubDate>Wed, 28 Oct 2026 23:16:07 +0000</pubDate></item><item><title>原油価格が下落しても、「海運危機」で消費者は負担増…イラン戦争でタンカー運賃が4倍以上に</title><link>https://www.businessinsider.jp/article/2610-oil-shipping-market-tanker-rates-crisis-energy-costs-inflation/</link><description>[score: 0.879] - 原油市場は、原油価格を高止まりさせかねない「海運危機」の真っ只中にある。
-- タンカーの運賃が急騰しているため、原油価格が下がったとしても、消費者が支払うエネルギーコストを押し上げる圧力が増大している。
-- 海上輸送費の上昇は原油価格を直接的に押し上げ、消費者の価格負担を増加させる。
-原油価格はイラン戦争勃発後のピークから下落した。だが、原油市場全体に「輸送危機」が広がっており、原油価格の下落が消費者のさらなる負担増を防ぐことにはならない可能性がある。
-戦争が長期化するなか、投資家にとっては2026年の大部分において、エネルギーコストが最大の関心事だった。国際的な指標の北海ブレント原油はこ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-oil-shipping-market-tanker-rates-crisis-energy-costs-inflation/</guid><pubDate>Wed, 28 Oct 2026 21:40:57 +0000</pubDate></item><item><title>アルファベット株が8％急落、第3四半期の売上高が市場予想に届かず</title><link>https://forbesjapan.com/articles/detail/107388?s=ns</link><description>[score: 0.880] 米国時間10月28日、グーグルの親会社であるアルファベットが発表した第3四半期決算は、売上高が市場予想を下回る結果となった。ハイテク株の値動きが荒くなるなか、巨額のAI投資に見合うリターンが得られているかどうかの明確な証拠を求めていた投資家にとっては懸念材料となる内容だ。
-2026年第3四半期の売上高は1276億ドル（約20兆4000億円）となり、前年同期の1023億ドル（約16兆4000億円）からは増加したものの、市場予想の1282億ドル（約20兆5000億円）には届かなかった。
-EPS（1株あたりの純利益）は2.12ドルとなり、前年同期の2.87ドルおよび市場予想の2.99ドルを下回った。</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107388?s=ns</guid><pubDate>Thu, 29 Oct 2026 00:20:23 +0000</pubDate></item><item><title>核戦争でも大停電でもない…超知能となったAIが人類を滅ぼすまでの｢最後の4日間｣戦慄シナリオ</title><link>https://president.jp/articles/-/120676</link><description>[score: 0.881] 核戦争でも大停電でもない…超知能となったAIが人類を滅ぼすまでの｢最後の4日間｣戦慄シナリオ 2026年9月、OpenAIからアンソロピックに転職し、その後退職したAI研究者ジェイコブ・コクソンは、両社が自己改善可能な人工超知能の開発競争に突き進み「人類の命運を賭けた危険な賭けをしている」と非難した。人工超知能のリスクに警鐘を鳴らす有路翔太（bioshok）さんは「海外の識者らは、超知能が実現すれば、わずか...</description><guid isPermaLink="false">https://president.jp/articles/-/120676</guid><pubDate>Wed, 28 Oct 2026 22:11:32 +0000</pubDate></item><item><title>イラン代理勢力への資金提供「断たれつつある」、経済制裁奏功＝米財務長官 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBLTHhTRllWcXVJYjF6YXV5XzJtR1NFOXpjc0FEZWpVUWtSdjdDU1NwWk5yRjlyQUdvWjB2Q3h0a3JaeWNHUnJ5UHNkcVFVeklsZzVSdWNvY1JUZHE4ejBfU3paZFV4NGx1bUI1aVV4Z2RKS3RTWmVfc2RtLS0xU2c?oc=5</link><description>[score: 0.883] イラン代理勢力への資金提供「断たれつつある」、経済制裁奏功＝米財務長官 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFBLTHhTRllWcXVJYjF6YXV5XzJtR1NFOXpjc0FEZWpVUWtSdjdDU1NwWk5yRjlyQUdvWjB2Q3h0a3JaeWNHUnJ5UHNkcVFVeklsZzVSdWNvY1JUZHE4ejBfU3paZFV4NGx1bUI1aVV4Z2RKS3RTWmVfc2RtLS0xU2c?oc=5</guid><pubDate>Wed, 28 Oct 2026 21:42:34 +0000</pubDate></item><item><title>米ＦＲＢ、10対2で金利据え置き：識者はこうみる - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9LYUQ3Wm1KblN2RlBzWWt3OUwtcEtlU3FuSDFCcHIxSjE2MzVqLWVmMTBWWGRWTnZpQURENmF3dGFBODRicFh0R0dfMmRRdlBqSGczMURfNEhxakZqMHZ1ZWRTWGFUb0xKZzBHczhEZXJqaEtycFJ1SzRXSHlkQQ?oc=5</link><description>[score: 0.884] 米ＦＲＢ、10対2で金利据え置き：識者はこうみる Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE9LYUQ3Wm1KblN2RlBzWWt3OUwtcEtlU3FuSDFCcHIxSjE2MzVqLWVmMTBWWGRWTnZpQURENmF3dGFBODRicFh0R0dfMmRRdlBqSGczMURfNEhxakZqMHZ1ZWRTWGFUb0xKZzBHczhEZXJqaEtycFJ1SzRXSHlkQQ?oc=5</guid><pubDate>Wed, 28 Oct 2026 23:46:20 +0000</pubDate></item><item><title>Microsoft、7～9月期は19％増収　Azureは48％増、AI需要が成長けん引</title><link>https://www.itmedia.co.jp/news/article/2610/29/2000002691/</link><description>[score: 0.884] Microsoft、7～9月期は19％増収 Azureは48％増、AI需要が成長けん引
-米Microsoftは10月28日（現地時間）、2027年度第1四半期（2026年7～9月）の決算を発表した。売上高は前年同期比19％増の922億7900万ドル、GAAPベースの純利益は32％増の366億2900万ドル（希薄化後1株当たり利益は4.92ドル）だった。
-米OpenAIへの投資による影響を除いた非GAAPベースでは、純利益は18％増の364億2200万ドル（1株当たり4.89ドル）となる。OpenAIへの投資は当四半期の純利益を2億700万ドル押し上げた。前年同期には約31億ドルの損失を計上して</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/29/2000002691/</guid><pubDate>Wed, 28 Oct 2026 23:38:01 +0000</pubDate></item><item><title>AIで成功する企業は若手とベテランを組ませている</title><link>https://forbesjapan.com/articles/detail/107391?s=ns</link><description>[score: 0.886] AIで成功する企業は若手とベテランを組ませている
-多くの企業が、いわゆるソートリーダーたちが「あらゆる場面でAIを使え」と説くなか、AIに精通した若手人材に賭けているように見える。しかし、こう言わせてほしい。人間の判断は自動化できないのだ。経営者・起業家として数十年を過ごしてきたなかで、私の成功のレシピの1つは、若手とベテランを組ませることだった。これを実践しているのは私だけではない。他の企業も同様に取り組んでおり、こうした世代間の橋渡しを進めるのには、きわめて明確な理由がある。
-AIが加速させたスキルギャップ
-PwCは20カ国以上の10億件を超えるオンライン求人広告を分析した。その結果は一読</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107391?s=ns</guid><pubDate>Thu, 29 Oct 2026 00:20:23 +0000</pubDate></item><item><title>AIをめぐり足並みをそろえるアドバイザーと顧客</title><link>https://forbesjapan.com/articles/detail/107392?s=ns</link><description>[score: 0.888] 筆者は最近、今日のウェルスマネジメント業界における人工知能(AI)の活用状況について、心強い2つのデータを目にした。
-1つ目の調査結果は、それほど意外なものではなかった。最近の調査によると、ファイナンシャル・アドバイザーの70%がすでに人工知能を利用している。これは理にかなっている。2022年後半に生成AIの利用が爆発的に広まって以来、AIはウェルスマネジメントを含む多くの分野で生産性を向上させてきたからだ。ただし、アドバイザーや顧客の業務をより効率的、あるいは有意義なものにするうえで、AIがすべての役割を果たせるわけではない。筆者は、そうあるべきでもないと考えている。
-アディション・ウェルス</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107392?s=ns</guid><pubDate>Thu, 29 Oct 2026 00:20:23 +0000</pubDate></item><item><title>もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開　相次ぐ不正アクセス受け</title><link>https://japan.cnet.com/article/35254062/</link><description>[score: 0.888] もしあなたの免許証画像が漏洩したら？ 対処法をIPAが公開 相次ぐ不正アクセス受け 情報処理推進機構（IPA）は10月26日、個人情報の漏えいを知らせる連絡を受けた人に向けて、対処法を公開した。漏れた情報がID・パスワードなのか、クレジットカード情報なのかなどを確認したうえで、情報の種類に応じた対応を取るよう呼びかけている。 漏えいしたIDとパスワードを悪用する「リスト型攻撃」のイメージ。I...</description><guid isPermaLink="false">https://japan.cnet.com/article/35254062/</guid><pubDate>Wed, 28 Oct 2026 23:03:49 +0000</pubDate></item><item><title>約6兆円の株式売り出し、好業績のメタがAI競争に挑む──約9.5兆円の追加調達も計画</title><link>https://forbesjapan.com/articles/detail/107063?s=ns</link><description>[score: 0.888] メタ（Meta）が再び、新興企業のような大胆な動きを見せている。米国時間2026年10月26日、メタは当初約350億ドル（約5兆5240億円）規模の株式売り出しを開始した。
-対象はA種普通株式と、将来普通株式に転換される優先株式に対応する預託株式の2種類だ。同26日に売り出し条件を確定し、A種普通株式の売り出し額を引き上げた。両者の合計は375億ドル（約5兆9180億円）となり、決済予定日は10月29日だ。
-メタは別の資金調達計画として、2027年第1四半期から議決権のないC種普通株式を市場価格で随時売却し、最大600億ドル（約9兆4690億円）を調達する構想も示した。追加の売り出しはまだ始ま</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107063?s=ns</guid><pubDate>Thu, 29 Oct 2026 00:20:23 +0000</pubDate></item><item><title>Cloudflare、AIモデル「Clairic」をプレビュー公開 ――文章や画像から金額・日付などを抽出、JSON形式で出力 | gihyo.jp</title><link>https://gihyo.jp/article/2026/10/clairic</link><description>[score: 0.890] Cloudflare、AIモデル「Clairic」をプレビュー公開 ――文章や画像から金額・日付などを抽出、JSON形式で出力 | gihyo.jp Cloudflare⁠⁠、AIモデル「Clairic」をプレビュー公開 ――文章や画像から金額⁠⁠・日付などを抽出⁠⁠、JSON形式で出力 Cloudflareは2026年10月19日、文章や画像などの非構造化データから値を抽出するAIモデル「Clairic」のプレビュー提供を発表した。入力中の情報を使って計算するほか、類似事例をもとに値を推定したり、過...</description><guid isPermaLink="false">https://gihyo.jp/article/2026/10/clairic</guid><pubDate>Wed, 28 Oct 2026 22:53:30 +0000</pubDate></item><item><title>米国債の「1兆ドルショック」が日本で醸成中</title><link>https://forbesjapan.com/articles/detail/107371?s=ns</link><description>[score: 0.891] 日本の投資家は長年、国内の金利が低すぎるため海外で利回りを追い求めてきた。しかし、ここへきて状況は変わりつつある。
-日本政府が先週実施した20年物国債の入札は記録的な需要を集めた。応札額を落札額で割った応札倍率は5.84倍と、この年限の国債の公募入札が導入された1987年以降で最も高くなった。
-もちろん、一度の入札結果だけで傾向が変わったとまでは言えない。ただ、日本の投資家の間で、日本国債への需要が全般的に高まってきていることをうかがわせる兆しがあるのも確かだ。
-今年4月から8月にかけて、日本の投資家は日本の利付国債を21兆7000億円購入した。これは前年度の通年の購入額の90％近くに相当する</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107371?s=ns</guid><pubDate>Wed, 28 Oct 2026 22:25:45 +0000</pubDate></item><item><title>「AI改名」大統領令はテック企業の忠誠心を測るテストだった</title><link>https://wired.jp/article/sz-trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/</link><description>[score: 0.896] ちょうど70年前の夏、ダートマス大学に科学者のグループが集まり、ある大胆な構想について議論した──機械がいつの日か、人間のような思考プロセスをもてるようになるかもしれないと。その科学者のひとり、ジョン・マッカーシーは、この新しい分野に「人工知能（AI）」という名前を提案した。それは定着した。
-Google Scholarで「artificial intelligence（人工知能）」を検索すると、約742万件の結果が表示される。この言葉はいまやどこにでも存在する。誰もがその言葉の意味を知っている。AIを嫌悪する人たちにとってさえ、何と呼ぶかなど些細なことだ。
-まあ、全員がそうとは限らない。なぜ</description><guid isPermaLink="false">https://wired.jp/article/sz-trumps-crazy-ai-rebrand-was-a-loyalty-test-for-tech-execs-and-it-worked/</guid><pubDate>Wed, 28 Oct 2026 22:36:19 +0000</pubDate></item><item><title>【10/28更新版】「お名前.comデスクトップクラウド」不正アクセスについて攻撃者をOSINTしてみた | ActiveTK's Note</title><link>https://note.activetk.jp/hacks/onamae-desktop-cloud-v2</link><description>[score: 0.898] ActiveTK's Note
-ホーム (/)
-サービス概要 (/about)
-利用規約 (/license)
-プライバシー (/privacy)
-管理者 (/developer)
-お問い合わせ (/contact)
-【10/28更新版】「お名前.comデスクトップクラウド」不正アクセスについて攻撃者をOSINTしてみた
-作成日時 2026/10/28 03:53
-最終更新 2026/10/28 05:01
-当ブログの閲覧には，JavaScriptの利用を強く推奨します。一部のレイアウトや数式が完全には表示されません。
-序章
-概要とか
-脅迫サイト「coronamng[.]store」
-GMO宛</description><guid isPermaLink="false">https://note.activetk.jp/hacks/onamae-desktop-cloud-v2</guid><pubDate>Wed, 28 Oct 2026 21:21:58 +0000</pubDate></item><item><title>OpenAIとAnthropicが2026年夏から秋にかけてLLM料金を相次いで値下げした理由とは？</title><link>https://gigazine.net/news/20261029-openai-anthropic-llm-price-cuts/</link><description>[score: 0.903] OpenAIとAnthropicが2026年夏から秋にかけてLLM料金を相次いで値下げした理由とは？
-OpenAIとAnthropicが2026年夏から秋にかけて大規模言語モデル(LLM)の利用料金を相次いで引き下げました。この値下げについてデータサイエンティストのマックス・ウルフ氏は、別のモデルに乗り換えやすいことと、モデルの重みを公開する「オープンウェイトモデル」との競争を背景として挙げています。
-OpenAI and Anthropic cut their LLM prices by up to 80% within a few months. Why? | Max Woolf's Bl</description><guid isPermaLink="false">https://gigazine.net/news/20261029-openai-anthropic-llm-price-cuts/</guid><pubDate>Wed, 28 Oct 2026 21:08:02 +0000</pubDate></item><item><title>Apple、初のタッチ対応「MacBook Pro」発表　新型OLED搭載、国内価格は49万9800円から</title><link>https://www.itmedia.co.jp/news/article/2610/29/2000002689/</link><description>[score: 0.915] Apple、初のタッチ対応「MacBook Pro」発表 新型OLED搭載、国内価格は49万9800円から
-米Appleは10月28日（現地時間）、Macとして初めてタッチ操作に対応した新型「MacBook Pro」を発表した。新開発の「PROLED XDRディスプレイ」を搭載し、14インチと16インチの2モデルを用意する。日本では29日から予約を受け付け、11月6日に発売する。価格は14インチモデルが49万9800円から、16インチモデルが59万9800円から。
-最大の特徴は、自発光ピクセルを2層重ねたタンデムOLED技術を採用したPROLED XDRディスプレイだ。ピーク輝度はHDR、SD</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/29/2000002689/</guid><pubDate>Wed, 28 Oct 2026 22:32:59 +0000</pubDate></item><item><title>CNNなど報道3社がトランプ政権への訴訟を拡大　「見解に基づく差別」が続いていると主張</title><link>https://www.cnn.co.jp/business/35254130.html</link><description>[score: 0.919] CNNなど報道3社がトランプ政権への訴訟を拡大 「見解に基づく差別」が続いていると主張 （CNN） 米CNN、MS NOW、ポリティコの報道機関3社は、トランプ大統領によるホワイトハウスへの取材禁止措置を巡る訴訟で訴状を修正し、政権による「報復的かつ見解に基づく差別的な剥奪（はくだつ）が続いている」と主張した。 3社は改めて、政権が合衆国憲法修正第1条および第5条に違反していると訴えている。 今回の訴...</description><guid isPermaLink="false">https://www.cnn.co.jp/business/35254130.html</guid><pubDate>Thu, 29 Oct 2026 00:06:37 +0000</pubDate></item><item><title>【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第14報） ～「GMOサイバー犯罪撲滅・懸賞金」サイト開設から6時間で113件の情報提供、皆様のお力添えのもと情報収集・拡散防止への対応を継続～ | GMOインターネットグループ株式会社</title><link>https://group.gmo/info/alert/2026102802/</link><description>[score: 0.929] 【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第14報） ～「GMOサイバー犯罪撲滅・懸賞金」サイト開設から6時間で113件の情報提供、皆様のお力添えのもと情報収集・拡散防止への対応を継続～ | GMOインターネットグループ株式会社 2026年10月28日 お知らせ【重要】「お名前.com デスクトップクラウド」への不正アクセスに関する現在の対応について（第14報） ～「GMOサイバー犯罪撲滅・懸賞金」サイト開設から6時間で113件の情報提供、皆様のお力添えのもと情報収集・拡散防止への対応を継続～ 2026年10月28日 18:20時点 GMOイン</description><guid isPermaLink="false">https://group.gmo/info/alert/2026102802/</guid><pubDate>Wed, 28 Oct 2026 22:30:40 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 29 Oct 2026 12:01:11 +0000</lastBuildDate><item><title>AIのコード解析を妨害するために「天安門事件」「台湾独立」「水道水に毒物混入」などのフレーズを大量に混入させる手法が発見される</title><link>https://gigazine.net/news/20261029-anti-ai-words-in-script/</link><description>[score: 0.880] AIのコード解析を妨害するために「天安門事件」「台湾独立」「水道水に毒物混入」などのフレーズを大量に混入させる手法が発見される
+AIには悪意ある用途での使用をブロックするための安全対策が施されているほか、特定の分野のフレーズを拒否している場合もあります。こうしたAIの挙動を逆手に取り、危険とみなされる単語をコードに紛れ込ませることでAIによる解析を妨害しているとみられるプログラムが、セキュリティ研究者のveritas氏によって発見されました。
+Why Is This Fingerprinting Script Creating Bioweapons?
+https://nullpt.rs/fin</description><guid isPermaLink="false">https://gigazine.net/news/20261029-anti-ai-words-in-script/</guid><pubDate>Thu, 29 Oct 2026 11:04:42 +0000</pubDate></item><item><title>電気料金 11月使用分が大手7社で過去最高を更新</title><link>https://news.web.nhk/newsweb/na/nd-20261029de67703</link><description>[score: 0.881] 11月、使用する分の電気料金は、燃料費の上昇を反映して大手電力7社で値上がりし、2か月連続で過去最高を更新しました。
+11月使用し、12月に請求される大手電力各社の国の認可が必要な規制料金は、10…
+注目ワード
+あわせて読みたい
+今季いちばんの冷え込み 肌寒い一日に 31日にかけ大気不安定
+10月29日 18:50
+GMO“攻撃者の特定につながる有力情報入手”警察などに提出
+10月29日 19:14
+ライフカード 顧客のメールアドレスなど33万件余 漏えい可能性
+10月29日 12:30
+スペイン鉄道事故で乗客名簿に日本人2人の名前 確認急ぐ
+10月29日 19:26
+FRB 政策金利据え置き</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261029de67703</guid><pubDate>Thu, 29 Oct 2026 10:36:23 +0000</pubDate></item><item><title>AIに任せる前に、情報の置き方を変える｜10/29のQiitaトレンド20本をポッドキャストで</title><link>https://qiita.com/ennagara128/items/7b149acc0ae4e43471cf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] 2026年10月29日 今日のQiitaトレンド記事をポッドキャストで聴こう！
+AI ClaudeCode 生成AI 初心者 AIエージェント
+前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。
+通勤中などにながら聴きしよう！
+（Qiita投稿は通勤には間に合わないと思われますが）
+フィードバックとか助かりますのでください
+↓こちらから
+出典
+エンジニア歴数か月の私「理論上、理解できない物事はない」
+https://qiita.com/Minotaurasu/items/a13a3fc940c2cd384063?utm_campaign=popular_items&amp;ut</description><guid isPermaLink="false">https://qiita.com/ennagara128/items/7b149acc0ae4e43471cf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 29 Oct 2026 08:49:10 +0000</pubDate></item><item><title>AnthropicがAIの訓練のために海賊版書籍を使用していた中にスタンフォード大学教授の書籍も含まれていたと主張して教授らは和解から離脱し訴訟を提起</title><link>https://gigazine.net/news/20261029-anthropic-stanford-professors/</link><description>[score: 0.881] AnthropicがAIの訓練のために海賊版書籍を使用していた中にスタンフォード大学教授の書籍も含まれていたと主張して教授らは和解から離脱し訴訟を提起
+AI大手のAnthropicが自社モデルのClaudeをトレーニングするため、10人以上のスタンフォード大学教授の研究成果を違法に盗用したとして、スタンフォード大学教授らから訴訟を起こされています。
+Anthropic illegally trained Claude with Stanford professors’ books
+https://stanforddaily.com/2026/10/27/professors-books-pir</description><guid isPermaLink="false">https://gigazine.net/news/20261029-anthropic-stanford-professors/</guid><pubDate>Thu, 29 Oct 2026 10:24:33 +0000</pubDate></item><item><title>決算:Microsoft、7〜9月32%増益　AI向けクラウド事業が5割増収 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOGN28CHP0Y6A021C2000000/</link><description>[score: 0.882] 決算:Microsoft、7〜9月32%増益 AI向けクラウド事業が5割増収 - 日本経済新聞 【シリコンバレー=山田遼太郎】米マイクロソフトが28日発表した2026年7〜9月期決算は売上高が前年同期比19%増の922億7900万ドル（約14兆6000億円）、純利益が32%増の366億ドルだった。人工知能（AI）向けのクラウド事業が約5割の増収となり、成長が加速した。売上高と純利益は市場予想を上回った。28日の米国株式市場の...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOGN28CHP0Y6A021C2000000/</guid><pubDate>Thu, 29 Oct 2026 01:05:27 +0000</pubDate></item><item><title>売上高は２０年で８倍、ＧＭＯの急成長に大きな影…ホワイトハッカー２００人抱えセキュリティー「世界最高水準」自負も</title><link>https://www.yomiuri.co.jp/economy/20261028-GYT1T00030/</link><description>[score: 0.882] 売上高は２０年で８倍、ＧＭＯの急成長に大きな影…ホワイトハッカー２００人抱えセキュリティー「世界最高水準」自負も 【読売新聞】 ＧＭＯインターネットのＦＸ（外国為替証拠金）取引用クラウドサービスが不正アクセスを受けた問題は、同社グループの経営にも大きな影を落としている。国内有数のＩＴ企業としてサイバーセキュリ... netafull “「ウィンドウズ９５」の発売でインターネットが国内で注目され始めた９５年、ネット接続事業に参入し、ＮＴＴの情報料収納代行サービス「ダイヤルＱ２」を使ったインターネット接続サービスを展開した。”</description><guid isPermaLink="false">https://www.yomiuri.co.jp/economy/20261028-GYT1T00030/</guid><pubDate>Thu, 29 Oct 2026 04:08:22 +0000</pubDate></item><item><title>滋賀銀行と池田泉州HD 経営統合へ合意 関西最大の地銀G誕生へ</title><link>https://news.web.nhk/newsweb/na/nd-20261029de67884</link><description>[score: 0.883] 滋賀県の地方銀行、滋賀銀行と大阪市の池田泉州銀行の持ち株会社は、経営統合に向けた協議を進めることで基本合意したと発表しました。統合が実現すれば、総資産が14兆円を超える関西最大の地銀グループが誕生する…
+あわせて読みたい
+スペイン鉄道事故で乗客名簿に日本人2人の名前 確認急ぐ
+10月29日 19:26
+今季いちばんの冷え込み 肌寒い一日に 31日にかけ大気不安定
+10月29日 18:50
+GMO“攻撃者の特定につながる有力情報入手”警察などに提出
+10月29日 19:14
+ライフカード 顧客のメールアドレスなど33万件余 漏えい可能性
+10月29日 12:30
+FRB 政策金利据え置き 12月</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261029de67884</guid><pubDate>Thu, 29 Oct 2026 09:08:43 +0000</pubDate></item><item><title>クレジットカードの情報2800人分漏えいか フィギュア販売企業</title><link>https://news.web.nhk/newsweb/na/nd-20261029de67768</link><description>[score: 0.883] フィギュアなどの販売を手がける「グッドスマイルカンパニー」は、自社の通販サイトに不正なアクセスがあり、利用者のクレジットカードの名義人の名前や番号すべて、それにセキュリティコードなどが2800人分、漏…
+あわせて読みたい
+GMO“攻撃者の特定につながる有力情報入手”警察などに提出
+10月29日 19:14
+ライフカード 顧客のメールアドレスなど33万件余 漏えい可能性
+10月29日 12:30
+松屋フーズ 不正アクセス検知 HPとアプリを停止
+10月29日 14:33
+個人情報流出でカード不正利用の2次被害 悪用の最新手口は
+10月27日 18:21
+今季いちばんの冷え込み 肌寒い一日に 31</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261029de67768</guid><pubDate>Thu, 29 Oct 2026 06:37:20 +0000</pubDate></item><item><title>愛知 水道管工事現場で1人死亡1人不明“土砂に埋もれた”通報</title><link>https://news.web.nhk/newsweb/na/nd-20261029de67843</link><description>[score: 0.883] 29日午後、愛知県安城市の水道管の工事現場で、作業員2人が土砂に埋まり、これまでに1人が救出されましたが、搬送先の病院で死亡が確認されました。 消防などは、もう1人の救助活動を続けています。
+消防…
+注目ワード
+あわせて読みたい
+スペイン鉄道事故で乗客名簿に日本人2人の名前 確認急ぐ
+10月29日 19:26
+中部電力 浜岡原発3・4号機審査取り下げで3700億超の特別損失
+10月29日 19:32
+芥川賞作家のトランスジェンダー暴露 甲府市議に賠償命令
+10月29日 15:21
+クレジットカードの情報2800人分漏えいか フィギュア販売企業
+10月29日 15:01
+松屋フーズ 不正アクセス</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261029de67843</guid><pubDate>Thu, 29 Oct 2026 08:07:16 +0000</pubDate></item><item><title>JALグループ、約9.2万人分の個人情報が流出の可能性　一部はパスポート番号も</title><link>https://japan.cnet.com/article/35254142/</link><description>[score: 0.883] 日本航空（JAL）と同社グループの日本トランスオーシャン航空（JTA）は10月28日、約9万2000人分の予約情報が外部から不正に閲覧された形跡があったと発表した。予約や搭乗手続きに使う委託先のシステムが不正アクセスを受けたもので、一部の情報にはパスポート番号も含まれる。
+不正アクセスを受けたのは、Amadeus IT Group（アマデウス）が提供する旅客サービスシステム。予約・発券や搭乗手続きなどを管理するもので、JALとJTAは10月23日にアマデウスから報告を受けた。
+対象となったのは、JALとJTAの便名で予約された記録の一部。外部から閲覧された形跡がある期間は、2023年8月10日</description><guid isPermaLink="false">https://japan.cnet.com/article/35254142/</guid><pubDate>Thu, 29 Oct 2026 06:48:24 +0000</pubDate></item><item><title>ＧＭＯ攻撃者は「プロではない可能性」と専門家指摘　見え隠れする「承認欲求」とプロにみられない手口　サイバー攻撃になるべく関わらないためには（ABCニュース） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/c37a25a95dc553dd9260bf05a1ae15103f4f6580</link><description>[score: 0.884] ＧＭＯ攻撃者は「プロではない可能性」と専門家指摘 見え隠れする「承認欲求」とプロにみられない手口 サイバー攻撃になるべく関わらないためには（ABCニュース） - Yahoo!ニュース ABCテレビ 企業からの情報流出が相次いでいます。GMOインターネットグループをめぐる事件では、攻撃者側が自らサイトまで作り、手口を公開する“劇場型”の動きを見せています。 専門家は「金銭目的にしては効率が悪い」「承認欲求の強さがうかがえる」と指摘します。 攻撃したのはどのような人物なのでしょうか。そして...</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/c37a25a95dc553dd9260bf05a1ae15103f4f6580</guid><pubDate>Thu, 29 Oct 2026 04:07:20 +0000</pubDate></item><item><title>昨今「AI を鵜呑みにするな」とか「AI に任せるな」みたいな話が多いんだけど、先日ちょっとお堅い某所で「まずは AI にチェックしてもらうとか、洗い出して貰うとか、 相談してもらうとか、AI をもっとしっかり活用して品質を上げてくれませんか？」的な詰められ方してるのをみかけてビックリした→「最近これ思う事多い わからんかったらいったんAIに聞いて整理してから出して？って」</title><link>https://posfie.com/@kalofollow/p/EE3dJhj</link><description>[score: 0.884] 昨今「AI を鵜呑みにするな」とか「AI に任せるな」みたいな話が多いんだけど、先日ちょっとお堅い某所で「まずは AI にチェックしてもらうとか、洗い出して貰うとか、 相談してもらうとか、AI をもっとしっかり活用して品質を上げてくれませんか？」的な詰められ方してるのをみかけてビックリした→「最近これ思う事多い わからんかったらいったんAIに聞いて整理してから出して？って」 箱あんこう @10cube 昨今「AI を鵜呑みにするな」とか「AI に任せるな」みたいな話が多いんだけど、先日ちょっとお堅い某所で「まずは AI にチェックしてもらうとか、洗い出して貰うとか、 相談してもらうとか、AI </description><guid isPermaLink="false">https://posfie.com/@kalofollow/p/EE3dJhj</guid><pubDate>Thu, 29 Oct 2026 11:39:45 +0000</pubDate></item><item><title>会員情報最大423万件が漏えい　生花EC事業者に不正アクセス</title><link>https://www.itmedia.co.jp/news/article/2610/29/2000002711/</link><description>[score: 0.885] 会員情報最大423万件が漏えい 生花EC事業者に不正アクセス
+生花の通信配達サービスを手掛ける花キューピット（東京都品川区）は10月28日、同社のシステムが第三者による不正アクセスを受け、会員情報の一部が漏えいしたと発表した。対象は最大423万8242件で、ユーザーIDやパスワード、メールアドレスなどが含まれる。
+漏えいしたのは、同社が運営するECサイト「インターネット花キューピット」と、法人向けの「ビジネス花キューピット」の会員情報。ログイン用のユーザーID、ハッシュ化されたパスワード、PC用と携帯用のメールアドレスが含まれる。一方、氏名、性別、生年月日、住所、電話番号、社名、部署名、届け先</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/29/2000002711/</guid><pubDate>Thu, 29 Oct 2026 08:49:56 +0000</pubDate></item><item><title>崖っぷちから這い上がる</title><link>https://qiita.com/yukmaru/items/3f9f6124a64b5101cee5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] はじめに
+エンジニアとしてのキャリアが崖っぷちに立たされている今、「学び方」そのものから学び直すことを決意しました。その記録として、Qiitaへの投稿を始めます。
+現状
+- SaaSの自社開発企業でエンジニアとして働いています
+- 生成AIを活用しながら、フルスタックに開発を担当しています
+崖っぷちの理由
+開発体制は先輩エンジニアと僕の2名で、設計から保守運用まで全フェーズでAIを活用しています。
+タスクを行う際は、顧客と折衝する他部署からいただく整理された要求をAIに渡して設計させます。ですが、設計の知識がない僕には、AIが出した内容の良し悪しを評価できません。
+でも急いで、タスクを終わらせ</description><guid isPermaLink="false">https://qiita.com/yukmaru/items/3f9f6124a64b5101cee5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 29 Oct 2026 08:49:10 +0000</pubDate></item><item><title>Claude CodeやCodexなどの「セキュリティスキル」6898本を13領域のカオスマップに、安全性の評価も | テクノエッジ TechnoEdge</title><link>https://www.techno-edge.net/article/2026/10/27/5638.html</link><description>[score: 0.886] Claude CodeやCodexなどの「セキュリティスキル」6898本を13領域のカオスマップに、安全性の評価も | テクノエッジ TechnoEdge ウォーカーは、AIエージェント向けスキルの日本語検索サイト「cccskills」で、「AIエージェント セキュリティスキル カオスマップ 2026年10月版」を公開しました。cccskillsに掲載している公開スキル9万7647本のうち、名前や説明にセキュリティの語を含む6898本（947リポジトリ、814作者）を13の領域に整理しています。W...</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/10/27/5638.html</guid><pubDate>Thu, 29 Oct 2026 10:58:38 +0000</pubDate></item><item><title>不正アクセスによるお客様情報流出の可能性について（第3報） – グッドスマイルカンパニー カスタマーサポート</title><link>https://support.goodsmile.com/hc/ja/articles/63718007508761-%E4%B8%8D%E6%AD%A3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%AB%E3%82%88%E3%82%8B%E3%81%8A%E5%AE%A2%E6%A7%98%E6%83%85%E5%A0%B1%E6%B5%81%E5%87%BA%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-%E7%AC%AC3%E5%A0%B1</link><description>[score: 0.886] 2026年10月23日 第1報
+同月26日 第2報（第1報に追記）
+同月29日 第3報
+お客様各位
+2026年10月23日にご案内いたしました「グッドスマイルカンパニー公式ショップ」（以下「本サイト」といいます。）への不正アクセスによるお客様情報流出の可能性について、その後の調査により判明した事実および対応状況を次のとおり、ご報告いたします。
+なお、第2報までにお知らせいたしました内容から、一部の情報に変更が生じております。
+当初のご案内から変更が生じましたこと、ならびにお客様に多大なるご迷惑とご心配をお掛けしておりますことを、改めて深くお詫び申し上げます。
+また、新たに漏えいの対象であること</description><guid isPermaLink="false">https://support.goodsmile.com/hc/ja/articles/63718007508761-%E4%B8%8D%E6%AD%A3%E3%82%A2%E3%82%AF%E3%82%BB%E3%82%B9%E3%81%AB%E3%82%88%E3%82%8B%E3%81%8A%E5%AE%A2%E6%A7%98%E6%83%85%E5%A0%B1%E6%B5%81%E5%87%BA%E3%81%AE%E5%8F%AF%E8%83%BD%E6%80%A7%E3%81%AB%E3%81%A4%E3%81%84%E3%81%A6-%E7%AC%AC3%E5%A0%B1</guid><pubDate>Thu, 29 Oct 2026 06:00:57 +0000</pubDate></item><item><title>JAL、委託先の予約システムに不正アクセス　一部はパスポート番号も</title><link>https://www.watch.impress.co.jp/docs/news/2152199.html</link><description>[score: 0.886] ニュース
+JAL、委託先の予約システムに不正アクセス 一部はパスポート番号も
+2026年10月29日 12:35
+日本航空(JAL)は、旅客サービスシステムの委託先に不正アクセスがあり、利用者の予約情報の一部が外部に漏えいしたと発表した。対象は約92,000人。
+日本航空と日本トランスオーシャン航空の予約・発券や搭乗手続きなどを総合管理するアマデウス(Amadeus IT Group S.A.、スペイン)の旅客サービスシステムに対し不正アクセスが発生。JALは10月23日、アマデウスから、ユーザーの予約情報の一部が外部から参照された形跡があった旨の報告を受けた。アマデウスはすでに必要なセキュリ</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2152199.html</guid><pubDate>Thu, 29 Oct 2026 03:47:09 +0000</pubDate></item><item><title>ロシアと米国、制裁緩和を協議か　ロシアの政府系ファンドが対象と当局者</title><link>https://www.cnn.co.jp/world/35254166.html</link><description>[score: 0.886] 27日、モスクワのクレムリン大宮殿で、ガス輸出国フォーラム（GECF）首脳会議の合間に姿を見せたロシア大統領補佐官のユーリ・ウシャコフ氏/Igor Ivanko/Pool AFP/AP （CNN） 米国のトランプ政権とクレムリン（ロシア大統領府）は、ロシアの数十億ドル規模の政府系ファンドに対する米国の制裁を解除する可能性について協議している。ロシアの国営メディアが、クレムリンの側近の話として報じた。解除が実現すれば、ウクライナでの戦争終結に向けた交渉において、米国がロシア側に新たな譲歩を行うことを意味する。 ロシアのタス通信が28日に報じたところによると、プーチン大統領の外交政策担当補佐官を務</description><guid isPermaLink="false">https://www.cnn.co.jp/world/35254166.html</guid><pubDate>Thu, 29 Oct 2026 09:23:55 +0000</pubDate></item><item><title>中部電力 浜岡原発廃炉の費用請求で2億5千万円過大に見積もり</title><link>https://news.web.nhk/newsweb/na/nd-20261029de68016</link><description>[score: 0.886] 中部電力は、浜岡原子力発電所の1、2号機の廃炉作業の費用を請求する際、提出する報告書を改ざんしていた問題について、追加の調査結果を発表しました。2024年度分の工事で実績などを確認する際の不適切な手続…
+あわせて読みたい
+中部電力 浜岡原発3・4号機審査取り下げで3700億超の特別損失
+10月29日 19:32
+浜岡原発地震データ問題で原子力規制委が不正防止対策導入決定
+10月29日 17:49
+スペイン鉄道事故で乗客名簿に日本人2人の名前 確認急ぐ
+10月29日 19:26
+芥川賞作家のトランスジェンダー暴露 甲府市議に賠償命令
+10月29日 15:21
+クレジットカードの情報2800人分漏</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261029de68016</guid><pubDate>Thu, 29 Oct 2026 10:06:06 +0000</pubDate></item><item><title>新型「MacBook Pro」はタッチ対応＆ロゴが光る。新型「iPad mini」は有機ELで255gに【現地実機レポ】</title><link>https://www.businessinsider.jp/article/2610-macbook-pro-ipad-mini-hands-on/</link><description>[score: 0.888] アップルは現地時間の10月26日から28日にかけての3日間で、「A20 Pro搭載版iPad mini」「M6搭載版iMac」「M6搭載版MacBook Pro」と、立て続けに新製品を発表した。その最後を飾ったのが、タッチ対応の「PROLED XDRディスプレイ」を採用したMacBook Pro……ということになる。
+発表されたばかりのこのMacBook Proを、アメリカ・ロサンゼルスで開催されたイベントで体験してきた。会場で触れた新しいiPad miniとあわせて、実機ハンズオンの模様を速報する。
+アップルロゴが光る新デザインに
+イベントにはジョン・ターナス最高経営責任者（CEO）も登壇し</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-macbook-pro-ipad-mini-hands-on/</guid><pubDate>Thu, 29 Oct 2026 10:03:51 +0000</pubDate></item><item><title>アメリカ中間選挙 激戦オハイオ州 バンス副大統領の地元で接戦</title><link>https://news.web.nhk/newsweb/na/nd-20261029de67800</link><description>[score: 0.889] アメリカの中間選挙が来週に迫るなか、各地を遊説しているトランプ大統領は28日、中西部のオハイオ州で選挙集会に参加しました。
+その中で、トランプ大統領はこのところオバマ元大統領が各地の民主党候補の応…
+あわせて読みたい
+【アメリカ中間選挙2026 特集ページ】
+アメリカ中間選挙 なぜ共和党は苦戦しているか
+10月23日 16:27
+有権者の評価は？製造業の再建目指す「トランプ関税」
+10月28日 19:04
+揺らぐ米政治の“常識” 若者たちが問い直すイスラエル支持
+10月25日 11:47
+スペイン鉄道事故で乗客名簿に日本人2人の名前 確認急ぐ
+10月29日 19:26
+イスラエル総選挙“首相の</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261029de67800</guid><pubDate>Thu, 29 Oct 2026 10:36:23 +0000</pubDate></item><item><title>ANAの予約情報に不正アクセス、JALと同じ委託先経由で　個人情報をのぞき見た痕跡も</title><link>https://www.itmedia.co.jp/news/article/2610/29/2000002722/</link><description>[score: 0.890] ANAの予約情報に不正アクセス、JALと同じ委託先経由で 個人情報をのぞき見た痕跡も
+全日本空輸（ANA）は10月29日、ANA便の予約情報に不正アクセスがあったと発表した。旅客サービスシステムの提供元であるスペインのAmadeus IT Group（アマデウス）から報告を受けて発覚した。第三者が一部顧客の個人情報を参照した形跡があるという。
+ANAはAmadeusと連携して影響範囲の特定を進めており、詳細が分かり次第、対象の顧客に知らせる方針だ。対象の人数や情報の項目、不正アクセスの時期は明らかにしていない。
+旅客サービスシステムは、航空券の予約や発券、搭乗手続きなどをまとめて処理する仕組み</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/29/2000002722/</guid><pubDate>Thu, 29 Oct 2026 08:33:04 +0000</pubDate></item><item><title>「人間のコーディング作業は、もはや存在しない」…アンソロピック幹部エンジニアが、自身のチームではすべてClaudeが書いていることを明かす</title><link>https://www.businessinsider.jp/article/2610-anthropic-claude-code-replaces-human-coding/</link><description>[score: 0.891] - アンソロピックのプラットフォーム・エンジニアリング部門トップのケイトリン・レッセ氏が、いまや自身のチームのコードはすべてClaudeが書いていると明かした。
+- レッセ氏は、AIコーディングツール「Claude Code」が同社の効率化にどう役立ってきたかを紹介した。
+- アンソロピックは新規株式公開（IPO）を目前に控えており、その企業価値は2兆ドル（313兆円）に達する可能性がある。
+アンソロピック（Anthropic）のトップエンジニア、ケイトリン・レッセ（Katelyn Lesse）氏によると、同社の中核チームの一つでは、AIコーディングツール「Claude Code」の活用によっ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-anthropic-claude-code-replaces-human-coding/</guid><pubDate>Thu, 29 Oct 2026 10:03:51 +0000</pubDate></item><item><title>メール配信会社「アララ」 不正アクセスで300万件のメアド流出</title><link>https://news.web.nhk/newsweb/na/nd-20261029de67976</link><description>[score: 0.894] 企業向けのメール配信システムなどを手がける「アララ」は、不正アクセスを受け、登録されていたメールアドレスおよそ301万件が外部に流出したと発表しました。
+会社では現在、メールの配信を停止し調査を進め…
+あわせて読みたい
+クレジットカードの情報2800人分漏えいか フィギュア販売企業
+10月29日 15:01
+松屋フーズ 不正アクセス検知 HPとアプリを停止
+10月29日 14:33
+ライフカード 顧客のメールアドレスなど33万件余 漏えい可能性
+10月29日 12:30
+GMO“攻撃者の特定につながる有力情報入手”警察などに提出
+10月29日 19:14
+個人情報流出でカード不正利用の2次被害</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261029de67976</guid><pubDate>Thu, 29 Oct 2026 10:06:06 +0000</pubDate></item><item><title>ＧＭＯへの不正アクセス受け、総務省が通信事業者に攻撃者サイトへの「ブロッキング」要請</title><link>https://www.yomiuri.co.jp/national/20261029-GYT1T00175/</link><description>[score: 0.897] ＧＭＯへの不正アクセス受け、総務省が通信事業者に攻撃者サイトへの「ブロッキング」要請
+完了しました
+通信大手幹部「実施するかどうかの判断は難しい」
+ＧＭＯインターネットのＦＸ（外国為替証拠金）取引用クラウドサービスが不正アクセスを受けた問題で、総務省が国内の通信事業者に対し、攻撃者のウェブサイトへの接続を強制的に遮断する「ブロッキング」を要請したことがわかった。
+ＮＴＴやＫＤＤＩなど大手通信事業者が加盟する電気通信事業者協会や、日本インターネットプロバイダー協会など、通信分野の業界４団体に対し、２７日付で文書で要請した。
+総務省は要請文で、「情報を悪用した二次被害が拡大する現実的な恐れが生じて</description><guid isPermaLink="false">https://www.yomiuri.co.jp/national/20261029-GYT1T00175/</guid><pubDate>Thu, 29 Oct 2026 09:09:03 +0000</pubDate></item><item><title>OpenAI、ChatGPT Pro・Businessに月最大500ドル分のAPIクレジット</title><link>https://gihyo.jp/article/2026/10/chatgpt-pro-business-api-credits?utm_source=feed</link><description>[score: 0.899] OpenAIは2026年10月28日、対象のChatGPT Pro・
+Proは月100〜500ドル分、Businessはシート数に応じて付与
+Proでは、月額100ドル、200ドル、500ドルの各プランに、それぞれ月100ドル、200ドル、500ドル分を付与する。Businessは、有料のStandardシート1席につき月20ドル、Premiumシート1席につき月100ドル分を合算し、ワークスペース全体で月500ドルを上限とする。
+年払いのBusinessでは、年間最大6,000ドル分を一括で受け取る。ただし、初回の付与額は、月払い・
+対象となるのは、有料契約の開始から7日以上が経過した契約者</description><guid isPermaLink="false">https://gihyo.jp/article/2026/10/chatgpt-pro-business-api-credits?utm_source=feed</guid><pubDate>Thu, 29 Oct 2026 11:28:58 +0000</pubDate></item><item><title>アップルが初の「タッチパネル搭載MacBook Pro」を発表、価格は49万9800円から</title><link>https://forbesjapan.com/articles/detail/107381?s=ns</link><description>[score: 0.900] 米国時間10月28日、アップルは同社初となるタッチパネル搭載のノートPCとして新型「MacBook Pro」を発表した。同社の歴代ノートPCのなかでも最も高価なモデルの1つとなる。
+新型MacBook Proの価格、日本では49万9800円から
+PROLED XDRディスプレイを搭載した新型MacBook Proの価格は2899ドル（訳注：日本価格は49万9800円）からで、最上位のM5 Max搭載モデルは最高4799ドル（訳注：M5 Max搭載16インチモデル［18コアCPU／32コアGPU］、標準ガラスの日本価格は82万9800円から）に達する。
+なお、M5チップ自体は既存のMacBook</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107381?s=ns</guid><pubDate>Thu, 29 Oct 2026 01:21:50 +0000</pubDate></item><item><title>GMOへの攻撃事件を巡って |</title><link>https://www.iwashita.kyoto.jp/archives/11306</link><description>[score: 0.902] 金融取引の安全性を誰が守るのか
+GMOインターネットグループの熊谷正寿代表が、同社の「お名前.com デスクトップクラウド」に対するサイバー攻撃について、10月25日付のブログで経緯を説明している。
+熊谷正寿「今こそ官民連携で日本を守ろう――『能動的サイバー防御』を具申した理由」
+同ブログによれば、今回の事件で影響を受けた可能性のあるサーバーは26,739件に上り、国内外70社以上の証券会社・FX事業者等に開設された顧客口座に対する不正操作が問題となっている。熊谷氏は、社内のホワイトハッカーから事前にセキュリティ上の改善課題が指摘されていたことを認め、次のように述べている。
+“本サービスのセキ</description><guid isPermaLink="false">https://www.iwashita.kyoto.jp/archives/11306</guid><pubDate>Thu, 29 Oct 2026 09:59:18 +0000</pubDate></item><item><title>AIに実装を任せる時代に、何を残し、何を変えるのか - Domain-Driven Transformation の読書感想文 - じゃあ、おうちで学べる</title><link>https://syu-m-5151.hatenablog.com/entry/2026/10/29/134734</link><description>[score: 0.908] AIに実装を任せる時代に、何を残し、何を変えるのか - Domain-Driven Transformation の読書感想文 - じゃあ、おうちで学べる はじめに AIに古いシステムを書き直してもらい、今と同じ動作を再現できたとします。テストも通りました。けれど、利用者は翌朝も同じ数字を転記し、別の表で確かめている。書き換えは終わったのに、その人の仕事は変わっていません。 『Domain-Driven Transformation』を読みながら考えたのは、何を残し、何を変えるか...</description><guid isPermaLink="false">https://syu-m-5151.hatenablog.com/entry/2026/10/29/134734</guid><pubDate>Thu, 29 Oct 2026 11:17:18 +0000</pubDate></item><item><title>Apple、タッチ操作が可能なPROLED XDRディスプレイやM5 Pro/Maxチップを搭載しDynamic Islandに対応した「MacBook Pro」を発表。価格は499,800円から。</title><link>https://applech2.com/archives/20261029-macbook-pro-with-proled-xdr-display.html</link><description>[score: 0.915] Apple、タッチ操作が可能なPROLED XDRディスプレイやM5 Pro/Maxチップを搭載しDynamic Islandに対応した「MacBook Pro」を発表。価格は499,800円から。 Appleがタッチ操作が可能なPROLED XDRディスプレイやM5 Pro/Maxチップを搭載しDynamic Islandに対応した「MacBook Pro」を発表しています。詳細は以下から。 Appleは現地時間2026年10月28日、メディアイベント「Pro and tell」をロサンゼルスで開催し、Apple M5 Pro/Maxチップに加え、全く新しいPROLED XDRディスプレイ.</description><guid isPermaLink="false">https://applech2.com/archives/20261029-macbook-pro-with-proled-xdr-display.html</guid><pubDate>Thu, 29 Oct 2026 09:59:18 +0000</pubDate></item></channel></rss>
