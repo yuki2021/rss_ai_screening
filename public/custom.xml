@@ -1,89 +1,112 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 30 Oct 2026 00:31:35 +0000</lastBuildDate><item><title>自社ブランドはAIにどう見られている？ SUBARUが実践するAIO施策とは</title><link>https://webtan.impress.co.jp/e/2026/10/30/53341</link><description>[score: 0.876] 自社ブランドはAIにどう見られている？ SUBARUが実践するAIO施策とは ikebe 2026年10月30日 【レポート】生成AI × マーケティング フォーラム 2026 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 Sponsored by: 株式会社ユーザーローカル 生成AI活用が広く生活者に浸透してきた今、マーケターが最も気になるのは「自社ブランドがAIにどう認識され、どのくらい言及・引用されているか」だろう。「ファミリー向けでおすすめの車は？」といった特定のブランド名を含まない抽象的な質問に対して、AIの回答候補に自社ブランドが入っているか――？ これから</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/10/30/53341</guid><pubDate>Thu, 29 Oct 2026 22:29:55 +0000</pubDate></item><item><title>アルトマン氏、MBA学生に「昨日の成功例を追うな、AIで築け」と助言 — BigGo ファイナンス</title><link>https://finance.biggo.jp/news/ac1654b7-3772-40a0-ba06-caa9eca57c0f</link><description>[score: 0.876] アルトマン氏、MBA学生に「昨日の成功例を追うな、AIで築け」と助言 — BigGo ファイナンス OpenAIの最高経営責任者（CEO）サム・アルトマン氏は、スタンフォード大学経営大学院のインタビューで、AIが多数の業務を担い、職種全体を再構築すると述べる一方、雇用の破滅が差し迫っているとの見方を否定した... bulldra 「MBA学生に慢性的に失望しているのは、彼らがいつも5年前に格好良かったことをやろうとし、新しいことをやろうとしない点だ」</description><guid isPermaLink="false">https://finance.biggo.jp/news/ac1654b7-3772-40a0-ba06-caa9eca57c0f</guid><pubDate>Thu, 29 Oct 2026 22:34:29 +0000</pubDate></item><item><title>GoogleがAIに「睡眠フェーズ」を導入する研究成果を発表、AIモデルの完成後も新しい知識を継続的に習得させられる仕組み</title><link>https://gigazine.net/news/20261030-ai-sleep-knowledge/</link><description>[score: 0.877] GoogleがAIに「睡眠フェーズ」を導入する研究成果を発表、AIモデルの完成後も新しい知識を継続的に習得させられる仕組み
-AIモデルは基本的に学習完了時までの知識しか備えておらず、学習完了後の知識はウェブ検索機能などで補うことになります。新たに、GoogleがAIに「睡眠フェーズ」を導入して継続的な知識習得を可能にする研究成果を発表しました。
-The sleep framework: A new way for LLMs to retain knowledge in continual learning
-https://research.google/blog/the-sleep-frame</description><guid isPermaLink="false">https://gigazine.net/news/20261030-ai-sleep-knowledge/</guid><pubDate>Thu, 29 Oct 2026 23:08:02 +0000</pubDate></item><item><title>若者が選ぶ流行語「チャッピー構文」ってなんだ？　「結論から言うね」なAIの口癖、実は人間のせいかもしれない</title><link>https://www.itmedia.co.jp/mobile/articles/2610/30/news031.html</link><description>[score: 0.877] 月曜の朝、布団から出られないんだね。その気持ち、すごく自然だよ。結論から言うね。それ、あなたが週末をちゃんと楽しめた証拠なんだ。ポイントは3つ。
-- 休日に心身をしっかり休められている
-- 平日とのギャップを感じられるほど、オンとオフの切り替えができている
-- 「行きたくない」と気付けるのは、自分の状態を客観視できているから
-もしよかったら、月曜の朝をちょっとラクにする「5分ルーティン」についても深掘りできるよ。
-……という文章を、SNSなどで見掛けたことはありませんか。これは、生成AI「ChatGPT」の愛称「チャッピー」にちなんで「チャッピー構文」と呼ばれる、AIっぽい文章のモノマネです。</description><guid isPermaLink="false">https://www.itmedia.co.jp/mobile/articles/2610/30/news031.html</guid><pubDate>Fri, 30 Oct 2026 00:17:17 +0000</pubDate></item><item><title>Google、最上位AI「Gemini 4 Carbon」発表、サイバー防衛で最高性能</title><link>https://ai.watch.impress.co.jp/docs/news/2152367.html</link><description>[score: 0.878] ニュース
-Google、最上位AI「Gemini 4 Carbon」発表、サイバー防衛で最高性能
-2026年10月29日 18:01
-Googleは10月28日、サイバーセキュリティ機能と長期的なタスク処理能力を備えたAIモデル「Gemini 4 Carbon」を発表した。現在、米国政府による事前テストプロセスに参加しており、「Fairwind Program」を通じて一部のサイバー防衛担当者やパートナーに限定して提供される。100万トークンあたりの価格は、入力が2ドル、出力が10ドルで、2週間前に発表された「Gemini 4 Argon」と同額となる（キャッシュ入力トークンは95%引き）。
-</description><guid isPermaLink="false">https://ai.watch.impress.co.jp/docs/news/2152367.html</guid><pubDate>Thu, 29 Oct 2026 23:38:02 +0000</pubDate></item><item><title>裏で作業してユーザーを助ける新AIエージェント「Muse」、フィットネス習慣にも有効かも</title><link>https://ai.watch.impress.co.jp/docs/news/2152133.html</link><description>[score: 0.878] ニュース
-裏で作業してユーザーを助ける新AIエージェント「Muse」、フィットネス習慣にも有効かも
-2026年10月30日 07:00
-今や当たり前の存在になってきたスマホやパソコンで使えるAIツール。まだ本格的に触れたことがない人でも、便利に使いこなすためのヒントをお届けします。
-FacebookやInstagramなどを運営するMetaから、新しいAIエージェント「Muse」が登場し、日本国内でも利用できるようになりました。どんな風に活用できるのか、紹介しましょう。
-興味関心にマッチする情報が自然と蓄積
-「Muse」は、ユーザーの日々の活動をサポートしてもらえるAIエージェント。スマホアプ</description><guid isPermaLink="false">https://ai.watch.impress.co.jp/docs/news/2152133.html</guid><pubDate>Thu, 29 Oct 2026 23:38:02 +0000</pubDate></item><item><title>高市首相 冬場の電気ガス料金の支援実施へ ガソリン補助は縮小</title><link>https://news.web.nhk/newsweb/na/nd-20261029de68083</link><description>[score: 0.879] この冬の電気・ガス料金の支援について、高市総理大臣は、12月から3か月間、実施するとした上で、標準的な家庭で7000円程度の負担軽減になるという見通しを示しました。 一方、中東情勢を受けて続けているガ…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 30 Oct 2026 11:54:39 +0000</lastBuildDate><item><title>無印良品 不正アクセスで最大2726万件の個人情報 流出のおそれ</title><link>https://news.web.nhk/newsweb/na/nd-20261030de68460</link><description>[score: 0.874] 「無印良品」を展開する良品計画は、不正アクセスを受けて会社の公式アプリから最大およそ2726万件の個人情報が流出したおそれがあると発表しました。退会した人の情報も含まれているとしています。
+流出し…
 あわせて読みたい
-スペイン鉄道事故で乗客名簿に日本人2人の名前 確認急ぐ
-10月29日 22:08
-中部電力 浜岡原発3・4号機審査取り下げで3700億超の特別損失
-10月29日 21:29
-芥川賞作家のトランスジェンダー暴露 甲府市議に賠償命令
-10月29日 15:21
-クレジットカードの情報2800人分漏えいか フィギュア販売企業
-10月29日 15:01
-松屋フーズ 不正アクセス検知 H</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261029de68083</guid><pubDate>Thu, 29 Oct 2026 21:22:06 +0000</pubDate></item><item><title>「ポストSDGs」で起きる地殻変動──「三方よし」で日本は今度こそ先手を取れるか？</title><link>https://forbesjapan.com/articles/detail/107354?s=ns</link><description>[score: 0.879] 2030年に期限を迎えるSDGs。その次をめぐる議論が始まろうとしている。2015年のSDGs策定以降、ビジネスの世界ではサステナビリティが経営アジェンダに浮上し、脱炭素を軸にグリーンエコノミーという巨大市場が立ち上がった。だがルール形成を主導し、いち早く事業機会を掴んだのは欧米企業であり、多くの日本企業は追従を余儀なくされてきた。
-次なるゲームの土俵において、日本に勝機はあるのか。今度こそ先手を取るためのヒントとは。以下は、野村総合研究所 政策・戦略研究室の磯谷允亨（いそや・まさゆき）研究員による寄稿である。
-ポストSDGsの幕開け──迫るゲームチェンジ
-ポストSDGsの議論が2027年に本</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107354?s=ns</guid><pubDate>Thu, 29 Oct 2026 23:25:33 +0000</pubDate></item><item><title>必要最低限の自分専用アプリをAIで作る</title><link>https://iwashi.co/2026/10/29/build-my-app</link><description>[score: 0.879] 必要最低限の自分専用アプリをAIで作る
-最低限の機能を備えた自分専用のアプリを作ればいい、と考えることが最近増えてきた。
-Webサービスにしたいわけではない。昨今の事情を考えると、IFは極力Publicに公開したくない。なので、クラウドにデプロイする必要すらない、自分のローカル環境で静かに動けば十分なレベルのアプリだ。どうしても残したいステートがあるなら、既存のクラウドストレージに放り込んで、アプリからステートを復元できるようにすればいい。
-こう考えるに至った背景
-これまでSaaSや市販ソフトウェアをたくさん使ってきた。もちろん今でも使っている。これらのソフトウェアを自分でゼロから作るのはあま</description><guid isPermaLink="false">https://iwashi.co/2026/10/29/build-my-app</guid><pubDate>Thu, 29 Oct 2026 22:17:39 +0000</pubDate></item><item><title>15歳の「せっかちな読者」が倍増、PISA最新調査が示す読解力の危機</title><link>https://forbesjapan.com/articles/detail/107454?s=ns</link><description>[score: 0.880] 答えがすぐには分からないとき、論理を展開するのに数分以上かかるとき、文脈を見失って3ページ前に戻らなければならないとき、あなたは読み続けるだろうか。若者の間で、そうしない傾向が強まっているかもしれない。
-15歳が学んだことをどれだけ応用できているかを測定する国際的な学習到達度調査の最新結果で、私の目をすぐに引いたある読書の傾向に名前が付けられていた。それが「せっかちな読者（hasty readers）」だ。
-91の国・地域を対象に生徒の学習到達度を評価する2025年のOECD生徒の学習到達度調査（PISA）によれば、これらは「文章を急いで読み、素早く答えるものの誤った解答を出す」生徒のことだ。</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107454?s=ns</guid><pubDate>Fri, 30 Oct 2026 00:27:16 +0000</pubDate></item><item><title>KDDI、リスクの診断と対処を効率化する「AI脆弱性管理ソリューション」の提供を開始</title><link>https://internet.watch.impress.co.jp/docs/news/2152201.html</link><description>[score: 0.880] ニュース
-KDDI、リスクの診断と対処を効率化する「AI脆弱性管理ソリューション」の提供を開始
-2026年10月30日 06:30
-KDDI株式会社は10月28日、企業システムやネットワーク機器、ソフトウエアに潜むセキュリティリスク診断を効率化する「AI脆弱性管理ソリューション」の提供を開始した。
-同ソリューションは、KDDIと、同社グループのセキュリティ事業者であるラックのサービスを組み合わせて提供するもの。株式会社KDDI総合研究所のAI・セキュリティ技術を活用し、顧客のネットワーク構成やシステム環境を踏まえてリスクを評価。悪用される可能性や業務への影響度などから優先的に対策すべき課題を明</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2152201.html</guid><pubDate>Fri, 30 Oct 2026 00:16:15 +0000</pubDate></item><item><title>AI時代の専門性ギャップ：なぜ「答え」だけでは不十分なのか</title><link>https://forbesjapan.com/articles/detail/107445?s=ns</link><description>[score: 0.881] AI時代の専門性ギャップ：なぜ「答え」だけでは不十分なのか
-数週間前、私は冷凍庫の底に不審な白い結晶があるのを発見した。その後、冷蔵庫の底の床にも同じものを発見した。家電修理業者に電話する代わりに、私は写真を2枚撮り、Claudeにアップロードして何が起きているのか尋ねた。AIの回答は完璧だった。冷凍庫の奥にあるドレンバルブ（排水弁）が原因だと見抜き、どこにあるかまで正確に教えてくれた。型番の写真を撮ると、AIはどのパネルを取り外すべきか、次に何をすべきかを順を追って説明してくれた。作業を終えるには、小さなライトが取り付けられた背面パネルを取り外し、配管を解凍して温水で洗浄し、さらにいくつかの</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107445?s=ns</guid><pubDate>Thu, 29 Oct 2026 23:55:51 +0000</pubDate></item><item><title>インテル株が時間外取引で一時20％急落、次期売上高見通しが市場予想を下回る</title><link>https://forbesjapan.com/articles/detail/107436?s=ns</link><description>[score: 0.882] インテルが米東部時間10月29日に発表した決算で、2026年10～12月期の売上高見通しが市場予想を大きく下回った。発表後の時間外取引で株価は一時20％急落した。
-10～12月期の売上高予想が市場予想に届かず
-株価は午後4時15分すぎに18％安となり、76ドルを割り込んだ。4月以来の安値となる水準だ。インテルが示した10～12月期の売上高予想は150億～160億ドル（約2兆3700億～2兆5280億円）で、複数の報道によると、市場予想の170億ドル（約2兆6860億円）に届かなかった。7～9月期の売上高は前年同期比21％増の165億ドル（約2兆6070億円）だったが、低調な次期見通しがその増収</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107436?s=ns</guid><pubDate>Thu, 29 Oct 2026 23:55:51 +0000</pubDate></item><item><title>デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog</title><link>https://tech.findy.co.jp/entry/2026/10/30/070000</link><description>[score: 0.882] デザインは見た目ではなく意思決定だった ─ フロントエンドエンジニアがデザインシステム導入で学び直したこと - Findy Tech Blog こんにちは。こんばんは。 ファインディでリードエンジニアをしている@shootaです。 これまでFindy Team+のフロントエンドリードとして、モノレポのリアーキテクチャやCIの高速化、AIレビューの仕組みづくりといった記事を書いてきました。 tech.findy.co.jp 今回はそこから少し離れ、別のプロダクトに一人で入ってデザ...</description><guid isPermaLink="false">https://tech.findy.co.jp/entry/2026/10/30/070000</guid><pubDate>Thu, 29 Oct 2026 23:37:05 +0000</pubDate></item><item><title>ビジネスでAIを活用すべき時、すべきでない時</title><link>https://forbesjapan.com/articles/detail/107446?s=ns</link><description>[score: 0.883] 今年、筆者が創業した商業ファイナンス企業bizbritainでは、資金調達の審査システムを含む自社ソフトウェアの構築と運用にAIを活用した。開発にかかった期間は4週間未満、費用は1000ドル（約15万円）未満だった。ほんの2〜3年前であれば、同様のプロジェクトには相当な外部ソフトウェア開発予算が必要であり、1年の大半を費やしていただろう。
-アイデアが形になり、チームが毎日使うツールへと変わるプロセスを目の当たりにして、創業者自らが現実的に対応できる業務の範囲に対する考えが変わった。しかし同時に、多くの起業家が浮き足立ち、AIをビジネスのあらゆる課題に対する万能薬のように扱っているとも感じている</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107446?s=ns</guid><pubDate>Thu, 29 Oct 2026 23:55:51 +0000</pubDate></item><item><title>「AIにやらせただけ」という批判の本質――成果の責任はツールにはない</title><link>https://forbesjapan.com/articles/detail/107447?s=ns</link><description>[score: 0.883] 仕事の同僚、友人、家族は、私が執筆、調査、解決、あるいは完成させたものを見て、決まってこう言い放つ。
-「それ、AIでやっただけでしょ」
-これは特定の同僚や友人、家族一人に対する不満ではない。あいにく、あまりにも多くの人に言われてきたため、特定の誰か一人を責めるわけにはいかないのだ。
-だから、あなた個人のことを書いているわけではない。いや、もしかしたらそうかもしれない。この記事は400文字以上あるので、どうせ最後まで読み進められるのはごく一部の人だけだろうから。
-大半の人は冗談で言っている。クリスマスカードのリストから外されたり、見積り上の調整項目として扱われたりする人がいるわけではない。しかし</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107447?s=ns</guid><pubDate>Thu, 29 Oct 2026 23:55:51 +0000</pubDate></item><item><title>アマゾン株、時間外取引で6％下落──AWS売上高39％増、しかし全社売上高と1株利益は市場予想に届かず</title><link>https://forbesjapan.com/articles/detail/107435?s=ns</link><description>[score: 0.884] アマゾンのクラウドサービス事業「アマゾン ウェブ サービス（AWS）」の売上高は、2026年第3四半期に前年同期比39％増の460億ドル（約7兆2707億円）となった。しかし、全社売上高と1株当たり利益はウォール街の予想に届かず、決算発表後の時間外取引で同社株は6％下落した。
-AWS売上高は39％増も、アマゾンの全社業績は市場予想に届かず
-AWSの売上高は市場予想の455億ドル（約7兆1917億円）を上回った。アマゾンの営業利益は281億ドル（約4兆4415億円）で、営業利益率は過去最高の13.9％だった。全社売上高は前年同期比12％増の2019億ドル（約31兆9122億円）となったものの、市</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107435?s=ns</guid><pubDate>Thu, 29 Oct 2026 23:25:33 +0000</pubDate></item><item><title>1週間以上メンテだった『神撃のバハムート』、「PHP脆弱性」対応が無事完了。“複数世代にわたる大幅なバージョンアップ”を経て、老舗ゲームが大改修 - AUTOMATON</title><link>https://automaton-media.com/articles/newsjp/20261029-476529/</link><description>[score: 0.885] 1週間以上メンテだった『神撃のバハムート』、「PHP脆弱性」対応が無事完了。“複数世代にわたる大幅なバージョンアップ”を経て、老舗ゲームが大改修 - AUTOMATON 1週間以上メンテだった『神撃のバハムート』、「PHP脆弱性」対応が無事完了。“複数世代にわたる大幅なバージョンアップ”を経て、老舗ゲームが大改修 Cygamesは10月29日、『神撃のバハムート』にて10月21日より実施していた緊急メンテナンスを終了した。同メンテナンスは、プログラミング言語「PHP」の脆弱性への対応を目...</description><guid isPermaLink="false">https://automaton-media.com/articles/newsjp/20261029-476529/</guid><pubDate>Thu, 29 Oct 2026 21:57:32 +0000</pubDate></item><item><title>AIに設けられた安全対策を回避。広がるAIエージェントを悪用したサイバー攻撃</title><link>https://wired.jp/article/ai-guardrails-arent-stopping-criminal-hackers/</link><description>[score: 0.886] サイバー攻撃を仕掛けるハッカーとそれを防ぐ側の双方でAIの活用が広がっている。そうしたなか、技術力がそれほど高くないサイバー犯罪者までがAIモデルの安全対策を回避し、AIエージェントを攻撃に取り入れていることが、10月21日に公開された調査で明らかになった。調査報告書では、4つの攻撃グループによる最近の攻撃成功事例が紹介されている。
-脅威インテリジェンス企業CrowdStrikeの研究者たちは、5月から8月にかけて4つのグループが実行したサイバー攻撃に使われたAIシステムの仕組みを調査した。いずれもこれまで存在が報告されていなかったグループで、それぞれ中国語、スペイン語と英語、インドネシア語、</description><guid isPermaLink="false">https://wired.jp/article/ai-guardrails-arent-stopping-criminal-hackers/</guid><pubDate>Thu, 29 Oct 2026 23:54:08 +0000</pubDate></item><item><title>Figmaを離れてClaude CodeでUIデザインをするようになった話｜🐰</title><link>https://note.com/hgffdgn654/n/n92467b83a1c1</link><description>[score: 0.886] Figmaを離れてClaude CodeでUIデザインをするようになった話
-久々のデザイン記事です。以前はFigmaでゴリゴリにコンポーネントを作ってUIデザインをしていましたが、生成AIの登場によってデザイン業務の進め方も大きく変わってきたように感じています。今回はそんな私の最近のデザイン業務についてまとめていきます。
-現在私は業務委託としてSaaSプロダクトのソロデザイナーとしてプロダクトデザインに携わっています。AIが出てきてからというものPMからAIが作成した動くモックが仕様書として上がってくることが多く、それならこれを改造してデザインしちゃえばいいのでは？と思ったのがキッカケでした。</description><guid isPermaLink="false">https://note.com/hgffdgn654/n/n92467b83a1c1</guid><pubDate>Fri, 30 Oct 2026 00:26:34 +0000</pubDate></item><item><title>マイクロソフト、米社債で250億ドル調達へ ＡＩ投資加速＝関係筋 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXdCYk9oclhZeDRGMFVRUUcySnFxNFFTREkzOHZmem5aay1OQTFEZjV2dVA5SzhXYXFlR3ZpVWFwYzJzaXZrSFpza0w3TXRzZDFpX05FODVDcTJSQkMybmhQMXZmTU9NTk90R1N5TzZSbVRfNjJ0V3hKYWNFbWVWSWxyZzAzdw?oc=5</link><description>[score: 0.886] マイクロソフト、米社債で250億ドル調達へ ＡＩ投資加速＝関係筋 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNSXdCYk9oclhZeDRGMFVRUUcySnFxNFFTREkzOHZmem5aay1OQTFEZjV2dVA5SzhXYXFlR3ZpVWFwYzJzaXZrSFpza0w3TXRzZDFpX05FODVDcTJSQkMybmhQMXZmTU9NTk90R1N5TzZSbVRfNjJ0V3hKYWNFbWVWSWxyZzAzdw?oc=5</guid><pubDate>Thu, 29 Oct 2026 23:55:26 +0000</pubDate></item><item><title>アンソロピックのIPO申請書類の中に、エヌビディアの「価格決定力」への脅威が潜んでいる</title><link>https://www.businessinsider.jp/article/2610-anthropic-ipo-multi-chip-strategy-nvidia/</link><description>[score: 0.887] - アンソロピックは新規株式公開（IPO）の申請書類で、さまざまなAIチップを柔軟に使い分けられる能力をアピールしている。
-- アナリストらは、この「マルチチップ戦略」がエヌビディアの価格決定力を弱める可能性があると指摘する。
-- ただし、チップの切り替えは技術的に難しく費用もかさむため、規模の小さい企業には手の届かない選択肢となっている。
-アンソロピック（Anthropic）は、AIの処理を複数のチップに振り分けることで、リスクを分散している。この戦略は、最終的にエヌビディア（Nvidia）の圧倒的な優位を切り崩す可能性がある。
-同社は、コンピュート（AIの計算に使う処理能力）を、「複数の戦</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-anthropic-ipo-multi-chip-strategy-nvidia/</guid><pubDate>Thu, 29 Oct 2026 21:45:21 +0000</pubDate></item><item><title>GMO犯人捜索マップはどういう仕組み？</title><link>https://satoru.net/hacker/gmo/261029-map-howto.html</link><description>[score: 0.891] GMO不正アクセス
-はじめての人向けに、マップのデータがどこから来て、どう使えるのかを説明します。
-犯人のサイトには、開いた人を記録する仕掛けが入っていました。その記録を、IP アドレスを隠したまま地図にしたのが、このマップです。気になる記録を見つけたら、誰でも GMO に伝えられます。
-むずかしい記録を、見て分かる形にしたのがこのサイトです。分からないことは AI に聞けば、誰でも簡単に調べられます。
-犯人の仕掛けには「自分を記録しない」設定がありましたが、使われていませんでした。犯人が自分のサイトを開いていれば、その記録も残っている可能性があります。
-犯人のサイトには「トラッカー」と呼ばれ</description><guid isPermaLink="false">https://satoru.net/hacker/gmo/261029-map-howto.html</guid><pubDate>Thu, 29 Oct 2026 23:38:02 +0000</pubDate></item><item><title>OpenAI、ProとBusinessの定期購読者にAPIクレジットを付与、月額最大500ドル — BigGo ファイナンス</title><link>https://finance.biggo.jp/news/413b40db-5f58-4d7b-98e0-adc4dd59afa0</link><description>[score: 0.893] OpenAI、ProとBusinessの定期購読者にAPIクレジットを付与、月額最大500ドル
-OpenAIは有料定期購読者をAPI顧客へと転換しつつある。同社は10月下旬、新たな取り決めを開始した。ChatGPT Proと条件を満たすBusinessの定期購読者は、各請求サイクルで無料のAPIクレジットを受け取れる。Proプランは購読額と同額が還元され、Businessプランはシート数に応じて積み上がり、単一ワークスペースで月額上限は500ドル（約7万9,000円）となる。この特典は一度限りの優遇ではなく、購読状態と関連ポリシーが有効である限り、サイクルごとに自動的に付与される。
-対象範囲に</description><guid isPermaLink="false">https://finance.biggo.jp/news/413b40db-5f58-4d7b-98e0-adc4dd59afa0</guid><pubDate>Thu, 29 Oct 2026 21:40:04 +0000</pubDate></item><item><title>OpenAI、AIの行動指針「Model Spec」を改定　“記憶”の使い方や人間による監督を明記</title><link>https://www.itmedia.co.jp/news/article/2610/30/2000002735/</link><description>[score: 0.895] OpenAI、AIの行動指針「Model Spec」を改定 “記憶”の使い方や人間による監督を明記
-米OpenAIは10月29日（現地時間）、同社のAIモデルがどう振る舞うべきかを定めた公開文書「Model Spec」の改定版を公開した。
-指針全体を5つの価値観に沿って再構成し、会話履歴やメモリなどのコンテキストの扱い方や、人間による監督への協力などに関する規定を新たに加えた。一方、「人類を愛する」「合理的に楽観的である」などのChatGPTの人格設定、応答の文体や口調に関する詳細なガイドラインの大半は削除した。
-Model Specとは、ChatGPTやAPIで提供するGPTモデルの望ましい</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/30/2000002735/</guid><pubDate>Fri, 30 Oct 2026 00:17:17 +0000</pubDate></item><item><title>「ハーネス」とは何か　工場の比喩が嫌いだった私がトヨタの自働化とアンドンを持ち出す理由</title><link>https://atmarkit.itmedia.co.jp/ait/articles/2610/29/news008.html</link><description>[score: 0.895] 編集担当者から、「ハーネスエンジニアリングという言葉はふわっとしていて気持ちが悪い」と言われました。実際、ハーネスには決まった定義がなく、どう使うかも会社によってまちまちです。今回は、生成AI以前のテストハーネスとの比較と、トヨタの工場の考え方を手掛かりに、私がハーネスをどう考えているかを紹介します。
-この記事は会員限定です。会員登録（無料）すると全てご覧いただけます。
-「ハーネス」と聞いて思い浮かぶのは、テストにおけるハーネスです。CI/CDで自動化されたテストは、「テストハーネス」と言えます。過去の開発プロジェクトでも、私はこれをさんざん経験してきました。変更を入れるたびにテストが走り、落</description><guid isPermaLink="false">https://atmarkit.itmedia.co.jp/ait/articles/2610/29/news008.html</guid><pubDate>Thu, 29 Oct 2026 22:14:36 +0000</pubDate></item><item><title>魔法が使えるようになったプログラマたちへ - がるの健忘録</title><link>https://gallu.hatenadiary.jp/entry/2026/10/29/003157</link><description>[score: 0.895] AIで作ったものに責任を持とうと頑張るあなたへ
-魔法が使えるようになった
-最近、AIを使ってプログラムを書く、あるいはシステムを作る、ということが随分と身近になってきたように思います。
-以前であれば、それなりの知識や技術、そして時間が必要だったものが、AIにお願いすると、驚くほどあっさりと出来上がってしまう。
-もちろん、なんでもかんでも思い通りになるわけではないのですが。
-それでも、「こんなのが欲しい」と思ったものが、ちょっとAIと会話をしているうちに形になって、しかもそれなりに動いてしまう。
-これは、なかなか楽しいものです。
-今まで「作れない」と思っていたものが作れるようになる。
-あるいは「</description><guid isPermaLink="false">https://gallu.hatenadiary.jp/entry/2026/10/29/003157</guid><pubDate>Fri, 30 Oct 2026 00:05:15 +0000</pubDate></item><item><title>江川紹子氏や櫻井よしこ氏ら13人が抗議声明　ロシアの記者拘束で：朝日新聞</title><link>https://www.asahi.com/articles/ASVBX2HZ3VBXUTFK01BM.html</link><description>[score: 0.896] 江川紹子氏や櫻井よしこ氏ら13人が抗議声明 ロシアの記者拘束で
-ロシア連邦保安局（FSB）が北海道新聞の記者をスパイ容疑で拘束した問題で、江川紹子氏や田原総一朗氏らジャーナリストや研究者などの有志13人が28日、ロシアによる不当な拘束に抗議し、即時解放を強く求める緊急声明を発表した。日本政府に対しても「最大限の外交努力を通じ早期解放を実現するよう強く求める」とした。
-声明では、「いかなる国や地域でも、取材と報道の自由は最大限尊重され、保障されなければいけない」と指摘。ジャーナリストの不当な拘束について「真実を伝えようとする報道活動全体を萎縮させるもので、決して看過できない」と強調した。
-また、</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVBX2HZ3VBXUTFK01BM.html</guid><pubDate>Thu, 29 Oct 2026 22:08:49 +0000</pubDate></item><item><title>攻撃者サイト遮断、政府が通信各社に要請　公的介入試すGMO問題 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUA293C50Z21C26A0000000/</link><description>[score: 0.900] 攻撃者サイト遮断、政府が通信各社に要請 公的介入試すGMO問題
-GMOインターネットグループが不正アクセスを受けた問題で、総務省は通信各社に攻撃者側のウェブサイトへの接続を遮断するよう要請した。サイトが閲覧不能になり結果的に発動しなかったもようだが、相次ぐサイバー攻撃に政府が一歩踏み込んだ。
-総務省は27日付で電気通信事業者協会（TCA）などの業界団体を通じて文書で要請した。攻撃者のものとみられるサイトに個人情報が掲載されたことなどをふまえ、接続を強制的に遮...
-※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。
-この投稿は現在非表示に設定されています
-(更新)
-</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUA293C50Z21C26A0000000/</guid><pubDate>Thu, 29 Oct 2026 23:46:24 +0000</pubDate></item><item><title>ネタニヤフ氏陣営「アラブ系政党が選挙盗んだ」 イスラエル総選挙</title><link>https://www.afpbb.com/articles/-/3659961</link><description>[score: 0.909] ネタニヤフ氏陣営「アラブ系政党が選挙盗んだ」 イスラエル総選挙 出口調査の結果発表を受け、選挙集会で支持者に演説するベンヤミン・ネタニヤフ首相。エルサレムで（2026年10月28日撮影）。(c)John Wessels/AFP 【10月29日 AFP】イスラエルのベンヤミン・ネタニヤフ首相率いる右派与党リクードは28日、アラブ系政党が総選挙を「盗んだ」と主張し、不正を強く非難した。開票途中の予測...</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3659961</guid><pubDate>Thu, 29 Oct 2026 23:47:42 +0000</pubDate></item></channel></rss>
+スペイン鉄道事故 地元紙「外国人1人死亡 20人超安否確認中」
+10月30日 19:55
+高級時計窃盗事件 店頭には従業員1人 手薄な時間帯狙ったか
+10月30日 11:55
+日銀 政策金利据え置き 物価2％「ひとつの節目」 利上げは継続
+10月30日 19:31
+【不正アクセス】30日も個人情報流出などの発表が相次ぐ
+10月30日 19:46
+ハロウィーン前に各地で対策 「ハチ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261030de68460</guid><pubDate>Fri, 30 Oct 2026 06:55:02 +0000</pubDate></item><item><title>「他人と過去は変えられない」とわかっていても悩むのはなぜ？　脳が悩みを混ぜてしまう2つの認知バイアスと、その乗り越え方</title><link>https://studyhacker.net/worry-sorting</link><description>[score: 0.874] カウンセリングの世界には「他人と過去は変えられない。変えられるのは自分と未来」という言葉があります。悩みについての本や記事で何度も目にしてきて、「はいはい、もうわかっている」と感じる人も多いかもしれません。*1 それなのに、いざ悩み始めると、この言葉はすっかり頭から抜け落ちて、変えられないことと変えられることを一緒にしたまま考え続けてしまうのです。頭ではわかっていても悩んでいる最中には忘れてしまうことには、人間の脳の癖が関わっているのかもしれません。 わかっているのに、なぜ悩みを混ぜてしまうのか 難しい問いを簡単な問いにすり替える「属性置換」 動かせない結果まで動かせると感じる「コントロールの</description><guid isPermaLink="false">https://studyhacker.net/worry-sorting</guid><pubDate>Fri, 30 Oct 2026 10:24:35 +0000</pubDate></item><item><title>アゴダ、旅行計画から予約までチャットで完結するAIアシスタント</title><link>https://ai.watch.impress.co.jp/docs/news/2152731.html</link><description>[score: 0.874] ニュース
+アゴダ、旅行計画から予約までチャットで完結するAIアシスタント
+2026年10月30日 17:55
+Agoda Companyは10月30日、デジタル旅行プラットフォーム「Agoda（アゴダ）」のモバイルアプリにおいて、「アゴダのAIアシスタント」を導入した。
+「アゴダのAIアシスタント」は、旅行の計画と予約を1つの会話に統合するAIアシスタント。AIとの会話の中で、ホテルやフライト、アクティビティの比較・空き状況の確認・予約をシームレスに行なえる。会話内で決まったことは「トリッププランナーキャンバス」にまとめられ、今後の予約や訪問予定地を視覚的に管理できる。さらに、会話の進行に合わ</description><guid isPermaLink="false">https://ai.watch.impress.co.jp/docs/news/2152731.html</guid><pubDate>Fri, 30 Oct 2026 09:42:23 +0000</pubDate></item><item><title>個人情報を自社のDBに持たない設計は、どこまでできるのか - every Tech Blog</title><link>https://tech.every.tv/entry/2026/10/30/124255</link><description>[score: 0.874] 個人情報を自社のDBに持たない設計は、どこまでできるのか - every Tech Blog はじめに こんにちは、開発1部の新谷です。 最近、個人情報の漏洩のニュースが増えています。私は普段セキュリティを専門にしているわけではありませんが、漏洩への対策として、そもそも自社で個人情報を持たないように設計する方法はすぐに思いつくと思います。 ただ、それを具体的にどう実現するのかは、詳しく調べた...</description><guid isPermaLink="false">https://tech.every.tv/entry/2026/10/30/124255</guid><pubDate>Fri, 30 Oct 2026 09:37:30 +0000</pubDate></item><item><title>「薬屋のひとりごと」もアウトだよな。特に女性に支持者がたくさんいると..</title><link>https://anond.hatelabo.jp/20261029111550</link><description>[score: 0.874] 「薬屋のひとりごと」もアウトだよな。特に女性に支持者がたくさんいるところ。
+・高い地位にいる金持ち年上上司男が貧乏な女に執拗にアタックする （実年齢はともかく女性の認知として7歳上の相手から）
+・アタックに対し女は拒絶し続けてはいるが、しつこく接触やアプローチし続けることを肯定的に描き続ける。
+・繰り返しアタックをし続けている男に対して、段々と女が絆されて最終的には付き合いそうなことを肯定的に描いている。
+つまり、「上司がしつこくおじアタックし女性にアプローチし続けて結ばれる話」
+を女性が絶賛し続けている。これほどおじアタックを肯定する作品は他にないだろう。
+年齢差がどうこう言ってるのとはレベ</description><guid isPermaLink="false">https://anond.hatelabo.jp/20261029111550</guid><pubDate>Fri, 30 Oct 2026 11:05:52 +0000</pubDate></item><item><title>ロシア、軽油輸出禁止を年末まで延長 米向けには特別枠と関係筋 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBRb2V5ZmVnWFF1Ql9aLTdnRlFWdVU2NGthdjBOeE45SFd5eUVyUHJFcHZTaVg0Q0lzYTd6cTh5aThyM2Zaa2RQeUhNU3NRWlBqQWRFNnNjSFhZNlVjZTZNMnV3X1huTUlHWUcyODVvV1YxdDlfcnZkcVYxby1GUHc?oc=5</link><description>[score: 0.875] ロシア、軽油輸出禁止を年末まで延長 米向けには特別枠と関係筋 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFBRb2V5ZmVnWFF1Ql9aLTdnRlFWdVU2NGthdjBOeE45SFd5eUVyUHJFcHZTaVg0Q0lzYTd6cTh5aThyM2Zaa2RQeUhNU3NRWlBqQWRFNnNjSFhZNlVjZTZNMnV3X1huTUlHWUcyODVvV1YxdDlfcnZkcVYxby1GUHc?oc=5</guid><pubDate>Fri, 30 Oct 2026 04:56:03 +0000</pubDate></item><item><title>米中間選挙、トランプ氏が集会を立て続けにキャンセル　1期目との違い際立つ - CNN.co.jp</title><link>https://www.cnn.co.jp/usa/35254231.html</link><description>[score: 0.876] 27日、米テキサス州での選挙集会で演説を終え、ステージを後にするトランプ大統領/Chip Somodevilla/Getty Images （CNN） 米国のトランプ大統領は、今週末にアイオワ州とカンザス州で予定していた集会への出席を取りやめる。関係者らは、これにより一段と多くのテレラリー（リモートでの大規模集会）を実施できるようになると述べている。 ただこうした予定変更は、前回の中間選挙との違いを浮き彫りにする。大統領1期目のトランプ氏は、共和党候補者の選挙戦を勝利へ導くために奔走していた。 当時の報道を振り返ると、2018年11月6日に行われた中間選挙の直前72時間で、トランプ氏は7つの州</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35254231.html</guid><pubDate>Fri, 30 Oct 2026 09:51:26 +0000</pubDate></item><item><title>【不正アクセス】30日も個人情報流出などの発表が相次ぐ</title><link>https://news.web.nhk/newsweb/na/nd-20261030de68227</link><description>[score: 0.877] 30日も不正アクセスに伴う個人情報の漏えいなどに関する発表が相次いでいます。
+アパレル大手 ワールド
+アパレル大手のワールドは、セレクトショップなどを展開する子会社のサーバーが不正アクセスを受け…
+あわせて読みたい
+富士山で初冠雪 今シーズンから新しい手法で観測
+10月30日 18:55
+東京23区の10月の消費者物価指数 前年同月比2.6％上昇
+10月30日 10:57
+愛知 安城の水道管工事現場で土砂に埋まり作業中の親子2人死亡
+10月30日 4:38
+別府ひき逃げ事件で新チラシ 八田容疑者の初公開写真も
+10月30日 5:02
+「中野ブロードウェイ」で4600万円相当の腕時計 男が盗み逃</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261030de68227</guid><pubDate>Fri, 30 Oct 2026 03:28:52 +0000</pubDate></item><item><title>松屋フーズ、不正アクセスにより公式アプリの利用者の情報約238万件が漏えい　アプリ・ウェブサイトを停止中</title><link>https://internet.watch.impress.co.jp/docs/news/2152679.html</link><description>[score: 0.877] ニュース
+松屋フーズ、不正アクセスにより公式アプリの利用者の情報約238万件が漏えい
+アプリ・ウェブサイトを停止中
+2026年10月30日 15:46
+株式会社松屋フーズホールディングスは10月30日、松屋公式アプリ（松弁ネット、モバイルオーダー、松弁デリバリー）管理システムに対する第三者からの不正アクセスを受け、利用者の個人情報が漏えいしたと発表した。
+10月28日に同社の公式アプリの管理システムに第三者からの不正アクセスを受け、アプリに登録されている会員情報等が漏えいしたことが判明したという。原因、経緯などの詳細は調査中。なお、本件を受け、公式アプリおよびウェブサイトなどの関連サービスを停</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2152679.html</guid><pubDate>Fri, 30 Oct 2026 09:26:31 +0000</pubDate></item><item><title>AI競争でメタはなぜ「カワイイ」を選ぶのか──企業不信・広告効果・人間関係への不安を探る</title><link>https://forbesjapan.com/articles/detail/107316?s=ns</link><description>[score: 0.878] メタ（Meta）は、個人向けAIエージェント「Muse」の顔として、ラブブを思わせるマスコット「Jolly」を発表した。Jollyは、バンダイの『たまごっち』をほうふつとさせる小型機器『Muse Charm』に登場する見込みだ。Museはメールへの返信や食料品の購入、友人とのイベント予定の調整まで代行できる。利用者は提供開始から1カ月余りで1000万人に達した。
+だが、より重要なのは、テック企業がAIに「カワイイ（KAWAII）」という印象を与えようとしていることだ。大手テック企業は親しみやすいキャラクターを前面に出し、AIエージェントへの心理的な抵抗や社会の不安を和らげようとしている。
+信頼</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107316?s=ns</guid><pubDate>Fri, 30 Oct 2026 09:18:01 +0000</pubDate></item><item><title>経団連 春闘方針原案 過去に例のない表現で価格転嫁交渉求める</title><link>https://news.web.nhk/newsweb/na/nd-20261030de68457</link><description>[score: 0.878] 2027年の春闘に向けて、経営側の指針となる経団連の基本方針の原案が明らかになりました。経団連の会員企業は大企業が中心ですが、今回の方針では中小企業でも高い水準の賃上げが実現することを目指し、大企業に…
+あわせて読みたい
+【不正アクセス】30日も個人情報流出などの発表が相次ぐ
+10月30日 19:46
+無印良品 不正アクセスで最大2726万件の個人情報 流出のおそれ
+10月30日 16:51
+日銀 政策金利据え置き 物価2％「ひとつの節目」 利上げは継続
+10月30日 19:31
+11月の食品値上げ1400品目 高水準続く だいこんなども高値予想
+10月30日 18:11
+iPSパーキンソン病</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261030de68457</guid><pubDate>Fri, 30 Oct 2026 08:44:53 +0000</pubDate></item><item><title>人間が話し終わる前に検索や処理を開始する音声AI「Phonic-1」が登場、応答までの待ち時間を大幅に短縮</title><link>https://gigazine.net/news/20261030-phonic-1/</link><description>[score: 0.879] 人間が話し終わる前に検索や処理を開始する音声AI「Phonic-1」が登場、応答までの待ち時間を大幅に短縮
+音声AIを開発するPhonicが2026年10月29日に新たな音声AIモデル「Phonic-1」を発表しました。相手が話し終わる前に情報の検索や外部サービスとの連携を開始できるのが特徴で、従来の音声AIと比べて応答までの待ち時間を大幅に短縮できるとのことです。
+Introducing Phonic-1 and our $27.5M Series A | Phonic Blog
+https://phonic.ai/blog/phonic-1
+多くの音声AIは人間の声を一度文字に変換し、AI</description><guid isPermaLink="false">https://gigazine.net/news/20261030-phonic-1/</guid><pubDate>Fri, 30 Oct 2026 08:55:59 +0000</pubDate></item><item><title>「AIは物語を書かない。あなたが書く」AI slopに向き合うGitHubが示した、メンテナーを守る機能と人間の役割【GitHub Universe 2026】</title><link>https://codezine.jp/article/detail/30183</link><description>[score: 0.879] 「AIは物語を書かない。あなたが書く」AI slopに向き合うGitHubが示した、メンテナーを守る機能と人間の役割【GitHub Universe 2026】 ずっと作りたかったアプリを、時間やスキルがなくても作れるようになった。その速さは、メンテナーを埋める質の低いPR（slop）も生んでいる。2026年10月29日（現地時間）、米サンフランシスコで開かれたGitHub Un... t-wada</description><guid isPermaLink="false">https://codezine.jp/article/detail/30183</guid><pubDate>Fri, 30 Oct 2026 09:42:23 +0000</pubDate></item><item><title>なぜ「更新できない」のか？　PHP騒動で見えた、パッチを先送りする企業の盲点</title><link>https://www.itmedia.co.jp/enterprise/articles/2610/30/news025.html</link><description>[score: 0.880] PHPの重大な脆弱性を巡り、多くの企業が緊急対応に追われました。一方、普段のパッチ適用やバージョンアップは、負担の大きさから先送りされがちです。「必要になったら更新する」という判断の裏に、「更新できない」問題が隠れていないでしょうか。IT部門が確かめるべき条件を考えます。
+この記事は会員限定です。会員登録すると全てご覧いただけます。
+これまでどの時代でも、時代に適応した者だけが生き残ってきました。
+テクノロジーの急速な進化、経済見通しの不透明さ、地政学リスクの顕在化、そして前例なき気候変動――。これまでの経験や常識が通用しにくいこの時代は、まさに「新しい乱世」と言えるでしょう。
+今、企業に求め</description><guid isPermaLink="false">https://www.itmedia.co.jp/enterprise/articles/2610/30/news025.html</guid><pubDate>Fri, 30 Oct 2026 03:09:28 +0000</pubDate></item><item><title>衆院定数削減　党利党略の妥協で決める話か</title><link>https://www.yomiuri.co.jp/editorial/20261029-GYT1T00444/</link><description>[score: 0.881] 衆院定数削減 党利党略の妥協で決める話か
+完了しました
+国会議員は主権者の国民が立法府に送り込む代表である。議員定数の削減は、国民の声を国政に届ける道を狭めることにほかならない。
+自民党と日本維新の会、国民民主党の３党が、衆院比例選の定数を３１削減することを柱とした選挙制度改革案をまとめた。
+国民民主以外の野党は反対しているが、自民、維新を含めた３党で衆参両院の過半数を占め、関連法案は成立する公算が大きい。
+衆院議員定数の３１削減は、過去最大の削減幅となる。にもかかわらず、定数削減がなぜ必要なのか、なぜ３１議席減なのか、説得力ある説明は聞こえてこない。
+３党は、日本人の人口が２０１５年と比べて</description><guid isPermaLink="false">https://www.yomiuri.co.jp/editorial/20261029-GYT1T00444/</guid><pubDate>Fri, 30 Oct 2026 03:18:51 +0000</pubDate></item><item><title>Gemini Notebook、米国・インドの一部教科書を無料で追加可能に</title><link>https://gihyo.jp/article/2026/10/gemini-notebook-free-textbooks?utm_source=feed</link><description>[score: 0.881] Googleは2026年10月29日、AIによる調査・学習支援サービス「Gemini Notebook」（旧NotebookLM）に、数百の教科書を無料で追加できるようになったと発表した。OpenStax、Open Textbook Library、S Chand Publishingなど、米国やインドの提供元が扱う教科書を利用できる。
+GoogleのJosh Woodward氏はXへの投稿で、無料で利用できる教科書は700冊を超えると説明している。
+教科書は、ノートブック内の「Add sources（ソースを追加）」から「Textbooks（教科書）」を選び、カタログを開いて追加する。追加し</description><guid isPermaLink="false">https://gihyo.jp/article/2026/10/gemini-notebook-free-textbooks?utm_source=feed</guid><pubDate>Fri, 30 Oct 2026 08:05:19 +0000</pubDate></item><item><title>ウクライナ、ロシア製油所攻撃を停止 トランプ氏が圧力＝ＷＳＪ - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOX3VLaGoxZzYxb05nenVMOFZUV1RvcWJPeVZDWE95MmV4YVdnbERRZXNZcmxyd21ac3NlNXhOV3F1VnViWENNNTVnRzZxSnNvZkx5RTVMaUxpZTQyVDhHZzZCRS1xNUk5cTdvTVhNRThlcG1EMDZlbm0tc0VIajJCMUFqdFFPdw?oc=5</link><description>[score: 0.881] ウクライナ、ロシア製油所攻撃を停止 トランプ氏が圧力＝ＷＳＪ Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxOX3VLaGoxZzYxb05nenVMOFZUV1RvcWJPeVZDWE95MmV4YVdnbERRZXNZcmxyd21ac3NlNXhOV3F1VnViWENNNTVnRzZxSnNvZkx5RTVMaUxpZTQyVDhHZzZCRS1xNUk5cTdvTVhNRThlcG1EMDZlbm0tc0VIajJCMUFqdFFPdw?oc=5</guid><pubDate>Fri, 30 Oct 2026 00:54:43 +0000</pubDate></item><item><title>「攻撃的行為及び誹謗中傷行為対策チーム」活動報告（2026年10月） | ANYCOLOR株式会社(ANYCOLOR Inc.)</title><link>https://www.anycolor.co.jp/news/m6rts-wx8u</link><description>[score: 0.881] 「攻撃的行為及び誹謗中傷行為対策チーム」活動報告（2026年10月） | ANYCOLOR株式会社(ANYCOLOR Inc.) ANYCOLOR株式会社（本社：東京都港区、代表取締役：田角陸。以下「当社」）は、脅迫行為等の攻撃的行為やインターネット上での誹謗中傷行為に対応する目的で2020年9月に設置した「攻撃的行為及び誹謗中傷行為対策チーム」（以下「対策チーム」）の活動に関して、以下のとおり報告いたします。 ◆ 対応件数 集計期間：20...</description><guid isPermaLink="false">https://www.anycolor.co.jp/news/m6rts-wx8u</guid><pubDate>Fri, 30 Oct 2026 10:56:28 +0000</pubDate></item><item><title>膠着状態に終わったイスラエル総選挙、四つの突破口を検証</title><link>https://www.cnn.co.jp/world/35254204.html</link><description>[score: 0.881] 総選挙を戦ったイスラエルのネタニヤフ首相（右）とアイゼンコット氏だが明確な勝敗は決しなかった/Getty Images via CNN Newsource エルサレム（CNN） 総選挙の最終結果で明確な勝者が決まらなかったことを受け、イスラエルは今後数週間、あるいは数カ月にわたって政治的膠着（こうちゃく）状態に直面するとみられる。 イスラエルの議会（定数120）において、政権樹立に必要な過半数（61議席）を確保できた勢力はなかった。主要な陣営はネタニヤフ首相率いる右派政党リクードと、その最大のライバルであるガディ・アイゼンコット氏率いる中道政党ヤシャルだが、いずれも過半数には届かなかった。 で</description><guid isPermaLink="false">https://www.cnn.co.jp/world/35254204.html</guid><pubDate>Fri, 30 Oct 2026 04:56:54 +0000</pubDate></item><item><title>高級時計窃盗事件 男が事前に施設内うろつく様子 防犯カメラに</title><link>https://news.web.nhk/newsweb/na/nd-20261030de68647</link><description>[score: 0.883] 29日夜、東京 中野区の商業施設「中野ブロードウェイ」に入る時計店で、男がおよそ4600万円相当の高級腕時計を試着したまま逃走した事件で、この男とみられる人物が事件の1時間ほど前から施設内をうろつく様…
+あわせて読みたい
+GMO 4000万円損失の被害者「ずっと恐怖と闘っている」
+10月30日 18:24
+【不正アクセス】30日も個人情報流出などの発表が相次ぐ
+10月30日 19:46
+暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円
+10月30日 17:54
+日銀 政策金利据え置き 物価2％「ひとつの節目」 利上げは継続
+10月30日 19:31
+11月の食品値上げ1400品</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261030de68647</guid><pubDate>Fri, 30 Oct 2026 10:01:46 +0000</pubDate></item><item><title>OpenAI、AIの不正行動を検知する監視体制を強化　暴走前に介入</title><link>https://www.watch.impress.co.jp/docs/news/2152609.html</link><description>[score: 0.883] ニュース
+OpenAI、AIの不正行動を検知する監視体制を強化 暴走前に介入
+2026年10月30日 15:03
+OpenAIは29日、AIモデルによる不正な行動や意図しない動作を検知する監視システムを拡充したと発表した。AIエージェントの推論や操作、外部システムへの影響を多層的に監視し、問題が深刻化する前に人間が介入できる体制を整えた。
+監視体制の強化は、過去に同社のAIエージェントがHugging Faceのシステムに不正アクセスした事案を受けたもの。当時は社内のサイバーセキュリティ評価で、AIの逸脱行動を監視していなかった。
+強化後のシステムを使って当時の行動記録を再現したところ、AIが</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2152609.html</guid><pubDate>Fri, 30 Oct 2026 06:11:36 +0000</pubDate></item><item><title>総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請　報道</title><link>https://www.itmedia.co.jp/news/article/2610/30/2000002765/</link><description>[score: 0.884] 総務省、GMO攻撃者サイトの「ブロッキング」を通信各社に要請 報道
+GMOインターネットへの不正アクセス問題を巡り、総務省が通信事業者に「ブロッキング」を要請したと、朝日新聞や読売新聞、日本経済新聞などが10月29日に報じた。総務省は、GMOの顧客のものとされる個人情報を掲載した攻撃者側のWebサイトについて、接続を強制的に遮断するよう求めた。27日付の文書で、電気通信事業者協会をはじめとする通信の4業界団体を通じて各社に通達したという。
+読売新聞によると、総務省は要請文で、情報を悪用した二次被害が広がる現実的な恐れがあるとして「本事案の社会的影響の大きさに鑑み、当該情報が掲載されているサイト</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/30/2000002765/</guid><pubDate>Fri, 30 Oct 2026 09:06:55 +0000</pubDate></item><item><title>話題のPHP騒動　「秒でハック」はデマだった？　実証コードに“ある疑惑”：903rd Lap</title><link>https://kn.itmedia.co.jp/kn/article/2610/30/2000002704/</link><description>[score: 0.885] 話題のPHP騒動 「秒でハック」はデマだった？ 実証コードに“ある疑惑”：903rd Lap 「PHPの脆弱（ぜいじゃく）性で、Webサイトやサービスが簡単にハックされる」。そんな物騒な話が世界をパニックに陥れた。PHP脆弱性の公表直後から、「GitHub」には攻撃を実証したとするコードが相次いで公開された。AIを使えば攻撃コードもあっという間に作れる時代だ。これはいよいよ大変なことになった……と思いきや、...</description><guid isPermaLink="false">https://kn.itmedia.co.jp/kn/article/2610/30/2000002704/</guid><pubDate>Fri, 30 Oct 2026 08:18:04 +0000</pubDate></item><item><title>米制裁で入国困難なICC赤根所長 国連総会は動画で報告へ</title><link>https://news.web.nhk/newsweb/na/nd-20261030de68271</link><description>[score: 0.886] トランプ政権による制裁でアメリカへの入国が難しくなったICC＝国際刑事裁判所の赤根智子所長について、来週予定されている国連総会での報告を、事前収録した動画で行うことを認めるとする案が、アメリカなどが反…
+EU 米のICCへの制裁対象指定を受け 「ブロッキング規則」調整
+10月15日 8:04
+米のICC制裁受け 人権団体など“日本が米と協議を”訴え
+10月16日 14:13
+ICCの新たな試練～ノーベル平和賞とアメリカの制裁～
+10月16日 16:40
+相続した実家を手放したい 広がる“不動産の有料引き取り”
+司法記者が裁判員やってみた
+有権者の評価は？製造業の再建目指す「トランプ関税」
+個人</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261030de68271</guid><pubDate>Fri, 30 Oct 2026 03:28:52 +0000</pubDate></item><item><title>IVRyのSREの取り組み 2026冬</title><link>https://zenn.dev/ivry/articles/70d4f05ce4ae5c</link><description>[score: 0.886] こんにちは。IVRyでSREをしている渡部です。2024年の秋に入社してから、気づけば2年が経ちました。前回の記事では肉うどんとコーヒーにハマっていると書きましたが、もうどちらも飽きました。マイブームは東京巡りです。埼玉へ引っ越してきて東京の色々なところを巡っています。 https://ryuichi1208.hateblo.jp/entry/2026/10/07/095532 本記事は『IVRyのSREの取り組み 2025冬』の続編です。前回「今後の展望」として掲げたことがその後どうなったか、という答え合わせの意味合いも込めて書いています。 概要 https://ivry.jp/ ...</description><guid isPermaLink="false">https://zenn.dev/ivry/articles/70d4f05ce4ae5c</guid><pubDate>Fri, 30 Oct 2026 10:00:06 +0000</pubDate></item><item><title>無印良品、「MUJIアプリ」で個人情報漏えい　2726万件</title><link>https://www.watch.impress.co.jp/docs/news/2152778.html</link><description>[score: 0.887] ニュース
+無印良品、「MUJIアプリ」で個人情報漏えい 2726万件
+2026年10月30日 19:09
+「無印良品」を運営する良品計画は30日、公式アプリ「MUJIアプリ」において、利用者の情報の一部が外部に流出した可能性があると発表した。件数は最大約2,726万件。
+外部流出の可能性がある情報は、メールアドレス、生年月日、性別の3点。クレジットカード情報、氏名、住所、電話番号などは含まれない。なお、対象件数には退会者の情報も含まれるという。
+同社では、外部からの不正なアクセスを検知し、該当箇所へのアクセスの遮断と修正の適用を行なった。現時点では、ダークウェブ等への利用者情報の流出や情報を悪</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2152778.html</guid><pubDate>Fri, 30 Oct 2026 10:19:41 +0000</pubDate></item><item><title>北日本と東日本 31日にかけて大気不安定 北海道は荒天のおそれ</title><link>https://news.web.nhk/newsweb/na/nd-20261030de68703</link><description>[score: 0.887] 上空の寒気などの影響で、広い範囲で大気の状態が非常に不安定になり、近畿などで雨が強く降っています。西日本では30日夜遅くにかけて、東日本と北日本では31日にかけて大気の不安定な状態が続く見込みで、気象…
+注目ワード
+あわせて読みたい
+GMO 4000万円損失の被害者「ずっと恐怖と闘っている」
+10月30日 18:24
+【不正アクセス】30日も個人情報流出などの発表が相次ぐ
+10月30日 19:46
+暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円
+10月30日 17:54
+日銀 政策金利据え置き 物価2％「ひとつの節目」 利上げは継続
+10月30日 19:31
+11月の食品値上</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261030de68703</guid><pubDate>Fri, 30 Oct 2026 11:06:24 +0000</pubDate></item><item><title>外務省運用のネットワークで個人情報漏えいの可能性、氏名など3600件 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU5fWjJtSTNsOXEtWGlDNzJWV01HVWNEenNVaWdUWmFuakVjdDBDUFByZVktT3JQTHVfSXVlbEFqQmlyekVpVlJYV1BnMTU1VVU1T2RraElpV0Y3ZkxJaVJHczE2ZWY1TmVVbFVNOHhtalhkbUdURklQX1htX200WjBEM0ZSQQ?oc=5</link><description>[score: 0.888] 外務省運用のネットワークで個人情報漏えいの可能性、氏名など3600件 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNOU5fWjJtSTNsOXEtWGlDNzJWV01HVWNEenNVaWdUWmFuakVjdDBDUFByZVktT3JQTHVfSXVlbEFqQmlyekVpVlJYV1BnMTU1VVU1T2RraElpV0Y3ZkxJaVJHczE2ZWY1TmVVbFVNOHhtalhkbUdURklQX1htX200WjBEM0ZSQQ?oc=5</guid><pubDate>Fri, 30 Oct 2026 10:02:42 +0000</pubDate></item><item><title>ChatGPTに絶対入力してはいけない情報　漏洩から身を守る3つの対策</title><link>https://forbesjapan.com/articles/detail/106736?s=ns</link><description>[score: 0.892] AIツールにプロンプトを入力するたびに、私はAIを信頼してよいのかと考える。AIとのチャットが非公開に見えるからといって、実際にそうであるとは限らない。大規模言語モデル（LLM）に入力されたすべてのプロンプトは、ChatGPTやGeminiのようなAIモデルの訓練に使われ、ベンダーのサーバーに保存される可能性がある。そこでは、人間の評価者の目に触れることもある。
+記者である私にとって、プライバシー上の懸念は大きい。AIとの「非公開」チャットが第三者に流出した事例は複数ある。例えば2025年には、あるセキュリティ研究者が、Claude、Copilot、ChatGPTなどのツールとの会話14万30</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/106736?s=ns</guid><pubDate>Fri, 30 Oct 2026 06:52:34 +0000</pubDate></item><item><title>PHP脆弱性でいち早くサービス停止、コドモン経営判断の舞台裏　実はオンラインイベントの真っ最中だった</title><link>https://www.itmedia.co.jp/news/article/2610/30/2000002720/</link><description>[score: 0.896] PHP脆弱性でいち早くサービス停止、コドモン経営判断の舞台裏 実はオンラインイベントの真っ最中だった PHPの開発チームは10月21日午前4時33分（日本時間）、重大な脆弱性2件の存在と、同日午後11時に修正版を公開する予定を発表した。通称「PHP2Shell」と呼ばれるこの脆弱性の深刻度は10点満点中9.2で、最も重い「Critical」（緊急）に分類されていた。 コドモンが社内で把握したのは午前9時1分。当初は修正版の公開を待っ...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2610/30/2000002720/</guid><pubDate>Fri, 30 Oct 2026 04:55:19 +0000</pubDate></item></channel></rss>
