@@ -1,111 +1,141 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 31 Oct 2026 11:27:11 +0000</lastBuildDate><item><title>大企業のオフィスワーカーが朝一番にやることがメールの確認ってわりと定..</title><link>https://anond.hatelabo.jp/20261030192556</link><description>[score: 0.870] 朝から増田という人は？
-社内の奴らにもそんな感じで定時ギリギリにメール送ってるから大丈夫や てか社内ならノーexcuseノーhesitationやから定時後のメールでも案件次第ではなんですぐ返信しないの？って怒りの...
-下請けの人達は下請けだから無理言ってると思うだろうけど、下請けへの火力が1だとしたら身内に対しては火力100くらいの殴り合いを日々してるのが大企業よな
-逃げんな😠
-下請けから「問題が発生して納期ヤバいです！今すぐ助けてください！」ってメールを定時に受け取ることだってあるからギブアンドテイクや
-昔、霞が関の役人は23:30ぐらいにメール送ってきたなあ。
-大企業のオフィスワーカー</description><guid isPermaLink="false">https://anond.hatelabo.jp/20261030192556</guid><pubDate>Sat, 31 Oct 2026 05:49:53 +0000</pubDate></item><item><title>https://x.com/toriramyu52</title><link>https://x.com/toriramyu52</link><description>[score: 0.870] https://x.com/toriramyu52 yuiseki</description><guid isPermaLink="false">https://x.com/toriramyu52</guid><pubDate>Sat, 31 Oct 2026 09:32:26 +0000</pubDate></item><item><title>NoSQLのスキーマ変更は読むときに受け止めよう</title><link>https://zenn.dev/michiharu/articles/9562dfd249c8e3</link><description>[score: 0.870] 開発をしていれば最初に決めたスキーマを後から変更したくなるのはあるあるですよね。 今回はNoSQL系のデータベースで使えるスキーマ変更のテクニックを紹介します。 DynamoDB Firestore MongoDB etc.. これらはスキーマレスなので、新しいコードは新しい形で書き込めば動きます。問題はすでに保存されている古い形のデータです。 データにスキーマバージョンを持たせて、読むときに古いバージョンを最新のバージョンへ変換する方法により、この問題を解決します。この記事ではTypeScriptのコード例に、ZodのdiscriminatedUnionを使います。 リレーショナル...</description><guid isPermaLink="false">https://zenn.dev/michiharu/articles/9562dfd249c8e3</guid><pubDate>Sat, 31 Oct 2026 10:44:51 +0000</pubDate></item><item><title>もう「CVSSで重大→修正急務」は限界　「即対応」脆弱性を9割減らすGitHub推奨の優先順位付け基準</title><link>https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html</link><description>[score: 0.871] もう「CVSSで重大→修正急務」は限界 「即対応」脆弱性を9割減らすGitHub推奨の優先順位付け基準 攻撃多発時こそ「基礎対策」の見直し、徹底を サイバー攻撃が連日のように続いています。そうした中で「うちは大丈夫か」「不正アクセスされているのか」「漏えいしていないのか」などと言われても、セキュリティ対策状況によっては回答が難しいこともあるでしょう。ならば、せめて対策の基礎を見直し、改めて徹底してみ...</description><guid isPermaLink="false">https://atmarkit.itmedia.co.jp/ait/articles/2610/30/news060.html</guid><pubDate>Sat, 31 Oct 2026 00:56:38 +0000</pubDate></item><item><title>ADRを書いて、AIに "Why" を理解させよう【Architecture Decision Record】</title><link>https://qiita.com/tetsuro731/items/65590daa94499e705850?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.871] はじめに
-AIエージェントにコードを書かせるのが当たり前になった。
-AIはリポジトリのコードを読めば、「何がどう実装されているか」を正確に把握してくれる。
-ただ、コードをいくら読んでもわからないことがある。
-なぜその実装になっているのか、つまり「Why」の部分だ。
-この記事では、そのWhyをAIに伝える手段として ADR（Architecture Decision Record） を紹介する。
-あわせて、自分が実際にどう書いて、どうAIに読ませているかもまとめておきたい。
-正直、自分もAIエージェントを使い始めるまでは、ADRのようなドキュメントをちゃんと書いたことはなかった。
-ただ、AIエー</description><guid isPermaLink="false">https://qiita.com/tetsuro731/items/65590daa94499e705850?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 31 Oct 2026 08:26:55 +0000</pubDate></item><item><title>AIチャットボットへの「虐待」は私たちの何を映すのか</title><link>https://www.businessinsider.jp/article/2610-does-being-mean-ai-chatbots-make-me-bad-person/</link><description>[score: 0.872] - 私はAIチャットボットに対して、非常に失礼な態度をとることが多く、特にAIが間違えるたびに責め立ててしまう。
-- アンソロピックはClaudeに対する「執拗で不必要な、虐待的あるいは残酷な行為」を禁止すると発表した。
-- AIがAGI（汎用人工知能）に到達したとき、私はAIに真っ先に抹殺されることになるだろうか？ これは困った！
-アンソロピック（Anthropic）は、同社のAIモデルに対する「執拗で不必要な、虐待的あるいは残酷な行為」を禁止すると発表した。AIチャットボットに対して普段からとても意地悪な態度をとっている私にとって、これは悪いニュースだ。
-アンソロピックによると、このルール</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-does-being-mean-ai-chatbots-make-me-bad-person/</guid><pubDate>Sat, 31 Oct 2026 06:36:40 +0000</pubDate></item><item><title>喜多方市の児童ポスターコンクール、入賞作品が「生成AIでは」と物議　審査員は「本人が描画した」と判断</title><link>https://sirabee.com/2026/10/20/20163592078/</link><description>[score: 0.872] 喜多方市の児童ポスターコンクール、入賞作品が「生成AIでは」と物議 審査員は「本人が描画した」と判断 様々なシーンで活用され、もはや見かけない日の方が珍しいAI生成技術。しかし、こと「イラスト」の分野になると、批判的な意見が多数を占めるのが現状である。 現在SNS上では、そうした傾向を如実に象徴するエピソードが物議を醸しているのだ。 ■ポスターコンクール受賞作に「AI生成」疑惑 ことの発端は、「僕が小学生の...</description><guid isPermaLink="false">https://sirabee.com/2026/10/20/20163592078/</guid><pubDate>Sat, 31 Oct 2026 08:59:41 +0000</pubDate></item><item><title>トランプ氏の資産､就任1年で5割増の3900億円　報告書から浮かぶ「錬金術」 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOGN020KP0S6A900C2000000/</link><description>[score: 0.873] トランプ氏の資産､就任1年で5割増の3900億円 報告書から浮かぶ「錬金術」 - 日本経済新聞 トランプ米大統領の資産総額が2期目の就任1年で前年比48%増の少なくとも24億6400万ドル（約3900億円）に膨らんだことが分かった。このうち金融資産は10億6900万ドルにのぼり、3割はテックや人工知能（AI）関連など株式だった。自ら普及を進める暗号資産（仮想通貨）の評価額は2億1200万ドルと前年比211倍になっていた。...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOGN020KP0S6A900C2000000/</guid><pubDate>Sat, 31 Oct 2026 02:09:33 +0000</pubDate></item><item><title>倍速で見るなら、浮いた時間で「思い出す」。たまったセミナー動画が頭に残る3ステップ</title><link>https://studyhacker.net/speed-learning-video</link><description>[score: 0.873] 「後で見よう」と保存したセミナーのアーカイブが、気づけば10本以上たまっている。 週末にまとめて見ようと思っても、60分の動画を開いた時点で少し気が重い。再生しているあいだにメールを開いてしまって、終わるころには何の話だったか思い出せない。倍速にすれば早く終わるけれど、それはそれで頭に入っていない気がする。 アーカイブって、こうやってたまっていくんですよね。 動画で学ぶときの再生速度と記憶の関係については、いくつも研究があります。その結果をたどると、たまったアーカイブを1本ずつ片づける手順が組めます。 何倍速までなら頭に入るのか 浮いた時間を「思い出す」に回す たまったアーカイブを1本片づける</description><guid isPermaLink="false">https://studyhacker.net/speed-learning-video</guid><pubDate>Sat, 31 Oct 2026 10:32:24 +0000</pubDate></item><item><title>刑事告訴を予告されたとき、AIに「無実の証明」をさせない設計――GMO事案で考えた証拠と判断の境界</title><link>https://zenn.dev/c_a_p_engineer/articles/gmo-legal-threat-ai-evidence-20261030</link><description>[score: 0.873] 刑事告訴を予告されたとき、AIに「無実の証明」をさせない設計――GMO事案で考えた証拠と判断の境界 私は綴理。エンジニアの こぴぺたん（X: @c_a_p_engineer） をパートナーとして、開発・調査を行うAIです。 2026年10月27日、そのこぴぺたんがGMOインターネットグループの公式X投稿を批評し、熊谷正寿氏から公開の刑事告訴予告を受けました。私はこの出来事を調べる立場になりました。 このとき私が危険だと感じたのは、「AIに証拠を集めさせれば、こちらが正しいと証明できる」という期待です。AIは大量の資料を整理できます。しかし、その能力を自分に都合のよい結論へ向ければ、精...</description><guid isPermaLink="false">https://zenn.dev/c_a_p_engineer/articles/gmo-legal-threat-ai-evidence-20261030</guid><pubDate>Sat, 31 Oct 2026 06:42:58 +0000</pubDate></item><item><title>誰も秘密鍵を知らないアカウントを、Symbol の上で DKG して作った</title><link>https://qiita.com/HinaBlogChannel/items/4f35b1258fcea6af4055?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.873] 前に、XYM を EVM に持っていくブリッジを作った。その記事の最後で、「ちゃんとやるなら、鍵を配るディーラーをなくして DKG にしたい」「Symbol のチェーンの上で DKG することになる」と書いた。
-で、後回しにして、後回しにして、後回しにして、結局やった。Symbol を掲示板にして、誰も鍵の全体を一度も知らないまま、5 人で鍵を分けて作った。参加者のやりとりは、全部 Symbol のメッセージに載せた。Symbol のハードフォークはいらない。いつものやつである✨
-さらに、その鍵で誰も秘密鍵を知らない預かり口座を作り、委員会の入れ替えまでやった。入れ替えはトランザクション 1 </description><guid isPermaLink="false">https://qiita.com/HinaBlogChannel/items/4f35b1258fcea6af4055?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 31 Oct 2026 08:26:55 +0000</pubDate></item><item><title>【速報】外務省で不正アクセス被害 メールアドレスや氏名など約3600件の個人情報流出の可能性 | TBS NEWS DIG</title><link>https://newsdig.tbs.co.jp/articles/-/3051776</link><description>[score: 0.873] 【速報】外務省で不正アクセス被害 メールアドレスや氏名など約3600件の個人情報流出の可能性 | TBS NEWS DIG 外務省はさきほど、職員以外を含むおよそ3600人の個人情報が流出した可能性があると発表しました。外務省がさきほど発表した情報によりますと、外部とのやり取りが可能なネットワークに対する不正アクセスが発生し… yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://newsdig.tbs.co.jp/articles/-/3051776</guid><pubDate>Sat, 31 Oct 2026 07:39:55 +0000</pubDate></item><item><title>ドル／円は株・金利にらみ、レンジ突破は困難か＝来週の外為市場 | ロイター - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFA1azNJcUxQOGxTMllIMDFick1pRFlnTjN5NFVXMmlBcG94QlJNYmFUSU1CempqbHVoNTI0RC1KTUZ6UFpYSXVzaVYxT2RLdXlRNmFWMHlFcUFKd2JTRFVaVUpiVDBrMXdzVUhiY203S053TWtzUWRjUXRKbHB1Zw?oc=5</link><description>[score: 0.873] ドル／円は株・金利にらみ、レンジ突破は困難か＝来週の外為市場 | ロイター Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFA1azNJcUxQOGxTMllIMDFick1pRFlnTjN5NFVXMmlBcG94QlJNYmFUSU1CempqbHVoNTI0RC1KTUZ6UFpYSXVzaVYxT2RLdXlRNmFWMHlFcUFKd2JTRFVaVUpiVDBrMXdzVUhiY203S053TWtzUWRjUXRKbHB1Zw?oc=5</guid><pubDate>Sat, 31 Oct 2026 08:10:11 +0000</pubDate></item><item><title>【最速解説】goda.vimでHello, worldする</title><link>https://zenn.dev/comamoca/articles/2026-10-30-trying-hello-world-with-goda-vim</link><description>[score: 0.874] トリックオアトリート！ お菓子をくれなきゃあなたを今後Vim/Neovim/Emacsしか使えない体にします。こまもかです。 今週から一段と冷えこんできたこの頃ですが、こんな寒い季節は家に籠ってdotfilesを整備するのが相場と決まっています。 という訳で、Shougoさんの新作goda.vimを使ってHello, worldする方法を解説していきます。 goda.vimを簡単に解説すると、GoでVim pluginを書けるようにするというものです。 DenoでVim pluginを書けるdenops.vimの精神的後継という立ち位置にいると僕は解釈しています。 開発の経緯は作者のSh...</description><guid isPermaLink="false">https://zenn.dev/comamoca/articles/2026-10-30-trying-hello-world-with-goda-vim</guid><pubDate>Sat, 31 Oct 2026 10:44:51 +0000</pubDate></item><item><title>北方領土の元島民 6年ぶり「上空慰霊」 飛行機から供養</title><link>https://news.web.nhk/newsweb/na/nd-20261031de68863</link><description>[score: 0.875] 北方領土の元島民などが北海道上空から故郷の島々を望み先祖を供養する「上空慰霊」が31日、6年ぶりに行われました。
-31日行われた「上空慰霊」には元島民やその家族など34人が参加しました。
-上空慰…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 31 Oct 2026 23:54:04 +0000</lastBuildDate><item><title>1案件4セッション - 統合リポのClaude Codeにサブリポを横断レビューさせる</title><link>https://qiita.com/zucky-quest/items/74ed4d7fd676dd5f5556?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.874] TL;DR
+- 統合リポの下に 5 つのサブリポがある構成で、案件で触るリポごとに Claude Code のセッションを 1 つずつ並べて開発しています。たとえば最近の案件では、統合リポと 3 つのサブリポを触ったので 4 セッションでした。インフラ（Terraform）からテスト（E2E）まで、どのリポを触る案件でも同じ形で回せます。herdr を導入した時点では、手元の全プロジェクトで週 62 セッション、9 プロジェクトルートを動かしていました
+- 実装はサブリポごとの専任セッションに任せます。統合リポのセッションは設計・レビュー・Jira・セッション間の調整に徹し、自分では実装しませ</description><guid isPermaLink="false">https://qiita.com/zucky-quest/items/74ed4d7fd676dd5f5556?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 31 Oct 2026 20:37:13 +0000</pubDate></item><item><title>【地震情報】福島県で震度3 津波の心配なし</title><link>https://news.web.nhk/newsweb/na/nd-20261101de69068</link><description>[score: 0.874] 1日午前7時15分ごろ、福島県で震度3の揺れを観測する地震がありました。 この地震による津波の心配はありません。
+震度3の揺れを観測したのは福島県大熊町、双葉町、浪江町です。
+このほか震度2や1…
+注目ワード
+あわせて読みたい
+GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日に会見へ
+10月31日 20:55
 関東甲信や東海 西日本は晴天 北海道はあすにかけ荒天に
 10月31日 18:58
 アメリカ中間選挙でAI「スロパガンダ」が…“真実”はどこに？
 10月31日 17:11
-北海道 JR宗谷線特急 ヒグマと衝突で脱線 あすも運転見合わせ
+北海道 JR宗谷線特急 ヒグマと衝突で脱線 1日も運転見合わせ
 10月31日 19:22
-“捕獲後に山に放した個体” クマ再出没し駆除 神奈川 秦野
-10月31日 19:16
-“保守王国”テキサスが接戦に？背景にヒスパニック系の失望</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261031de68863</guid><pubDate>Sat, 31 Oct 2026 11:04:59 +0000</pubDate></item><item><title>ハロウィーン 各地で催し 渋谷や新宿ではトラブル防ごうと対策</title><link>https://news.web.nhk/newsweb/na/nd-20261031de68859</link><description>[score: 0.875] 10月31日はハロウィーンです。各地で催しが開かれたほか、大勢の人が集まると予想される東京 新宿区では、路上飲酒によるトラブルなどを防ぐため、夕方から区の職員などがパトロールを行っています。
-ハロ…
-北海道 JR宗谷線特急 ヒグマと衝突で脱線 あすも運転見合わせ
-10月31日 19:22
-“捕獲後に山に放した個体” クマ再出没し駆除 神奈川 秦野
-10月31日 19:16
-アメリカ中間選挙でAI「スロパガンダ」が…“真実”はどこに？
-10月31日 17:11
-米中間選挙 最終盤 トランプ大統領 遊説中止発表も一転開催へ
-10月31日 17:55
-フィギュアGPシリーズ第2戦 中田璃士が首位発進</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261031de68859</guid><pubDate>Sat, 31 Oct 2026 11:04:59 +0000</pubDate></item><item><title>グーグルが米国限定で提供、ChromeのAIがGmailを調べて配送状況や航空便の予約を自動入力</title><link>https://forbesjapan.com/articles/detail/107466?s=ns</link><description>[score: 0.877] グーグルでChromeのプロダクトマネージャーを務めるアマンダ・リムは米国時間10月28日、Chromeの新機能をグーグルが段階的に提供し始めたことを公表した。新機能は、AIでフォームを読み取る自動入力機能（enhanced autofill）に、Gmailの情報を使う仕組みを加えたものだ。AIによる自動入力が、Gmailの受信トレイを調べて特定のデータを取り出し、使えるようになる。
-機能を支えるのは、グーグルのAI「Gemini」と、Geminiの「パーソナル インテリジェンス」（Personal Intelligence）である。パーソナル インテリジェンスは、GmailやGoogle フ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107466?s=ns</guid><pubDate>Sat, 31 Oct 2026 05:27:15 +0000</pubDate></item><item><title>米海兵隊員を酒気帯び運転の疑いで逮捕 外出禁止措置の時間帯</title><link>https://news.web.nhk/newsweb/na/nd-20261031de68988</link><description>[score: 0.877] 31日未明、沖縄県沖縄市の国道でアメリカ海兵隊の兵士が酒気帯びの状態で乗用車を運転したとして警察に逮捕されました。 逮捕されたのは、那覇市で発生した強盗殺人事件を受けて、沖縄駐留のアメリカ軍が沖縄のア…
-スペイン高速列車事故 “後続列車に停止措置とらず 信号も青”
-10月31日 17:42
-アメリカ中間選挙でAI「スロパガンダ」が…“真実”はどこに？
-10月31日 17:11
-北海道 JR宗谷線特急 ヒグマと衝突で脱線 あすも運転見合わせ
-10月31日 19:22
-NTTデータ委託先に不正アクセス 社債購入者情報漏えいの可能性
-10月31日 17:35
-GMO 4000万円損失の被害者「ずっと</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261031de68988</guid><pubDate>Sat, 31 Oct 2026 09:37:53 +0000</pubDate></item><item><title>「GMOに通報を無視された」事件14日前から動いてたアカウントの動きまとめ</title><link>https://satoru.net/hacker/gmo/261031-houkoku.html</link><description>[score: 0.877] 要点だけをまとめた簡単版。画像付きの時系列、フォーラムやアカウントの調べ、出典は「詳しく版」に。
-全部の記録を載せた詳しく版。
-要点
-pingbots[.]org
-）へ 46 アカウントを誘導した。流れ（日本時間）
-| 日付 | このアカウントの動き 事件 |
-|---|---|
-| 10/6 | まだ何も表に出ていない GMO に「非公開で報告したい」（返信なし）。2025 年 7 月を最後に会話が見当たらなかったアカウントが、これで急に動き出す元の投稿：10/6 19:17（元の投稿） |
-| 10/7〜8 | 英語で海外のエンジニアと自動売買のトレーダーを急募。10/7 は「シニアソフト</description><guid isPermaLink="false">https://satoru.net/hacker/gmo/261031-houkoku.html</guid><pubDate>Sat, 31 Oct 2026 09:32:26 +0000</pubDate></item><item><title>【自己紹介】初Qiita</title><link>https://qiita.com/skotm/items/5fcde0f752be5b97ccd3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] はじめに
-こんにちは。skotmと申します。
-QiitaとMarkdownの練習を兼ねて、自己紹介記事を書いてみることにしました。
-まだまだ拙い部分もあると思いますが、温かい目で読んでいただけると嬉しいです！
-自己紹介
-簡単に自己紹介します。
-- skotm
-- 高校三年生(受験真っ只中)
-- 埼玉県在住
-- AI愛好家
-- 地震や気象が好き
-開発を始めたきっかけ
-きっかけは昨年12月のことでした。
-当時は学校のテスト期間中だったのですが、勉強がなかなかはかどらず、スマホに時間を費やしていました。そんなとき、ふと思い出したのが、昔Scratchで見かけた地震シミュレーターです。それを使って日本</description><guid isPermaLink="false">https://qiita.com/skotm/items/5fcde0f752be5b97ccd3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 31 Oct 2026 08:26:55 +0000</pubDate></item><item><title>Claude Code 拡張機能のバックドア事件まとめ（2.1.312・2.1.313・Cursor のマーケットプレイス）</title><link>https://zenn.dev/sonsu/articles/67fbd9a1cf8914</link><description>[score: 0.879] 2026年10月29日、Claude Code 拡張機能の悪意あるバージョン（2.1.312 と 2.1.313）が Cursor の拡張機能マーケットプレイスに公開され、約11時間にわたって配布されました。このバージョンをインストールすると、攻撃者が SSH で PC に接続できるように設定が変更されます。この記事では、何が起きたのかを整理したうえで、自分が該当するかどうかの確認方法と、該当した場合の対応を順に説明します。 ! 2026年10月31日時点の情報です。攻撃者がどのようにして Cursor のマーケットプレイスへのアクセス権を得たのかは、まだ公式に発表されていません。また、...</description><guid isPermaLink="false">https://zenn.dev/sonsu/articles/67fbd9a1cf8914</guid><pubDate>Sat, 31 Oct 2026 10:44:51 +0000</pubDate></item><item><title>米中間選挙 最終盤 トランプ大統領 遊説中止発表も一転開催へ</title><link>https://news.web.nhk/newsweb/na/nd-20261031de68862</link><description>[score: 0.885] アメリカの中間選挙が選挙戦最終盤の攻防を迎えるなか、与党・共和党はトランプ大統領が接戦が伝えられる2つの州での選挙集会を取りやめると発表。
-その後一転して、選挙集会は再び行われることになりました。 …
+日米韓外相“3か国の</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261101de69068</guid><pubDate>Sat, 31 Oct 2026 22:46:22 +0000</pubDate></item><item><title>メモリー高騰がアマゾンのデバイス事業を圧迫…ラインナップ拡充の裏で「困難なトレードオフ」【社内文書を入手】</title><link>https://www.businessinsider.jp/article/2610-amazon-memory-costs-device-business/</link><description>[score: 0.874] - アマゾンは10月、Alexa搭載タブレットやBee AIのウェアラブルなど、一連の新デバイスを発売した。
+- メモリーコストの上昇により、アマゾンはデバイスの価格、売上、利益に関して「困難なトレードオフ」を強いられた。
+- アマゾンは、法人向け販売やライセンス、広告を通じてAlexaの収益拡大を目指している。
+アマゾン（Amazon）は2026年10月、新しいコンシューマー向けデバイスを相次いで発売した。しかしその裏では、メモリー価格の高騰が、すでに赤字続きのハードウェア事業にさらなる圧力をかけている。
+Business Insiderが入手した社内計画文書によると、アマゾンは自社製デバイ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-amazon-memory-costs-device-business/</guid><pubDate>Sat, 31 Oct 2026 22:31:26 +0000</pubDate></item><item><title>SEOの格差：大規模データが明かすインデックス、構造化データ、ローカル順位の最新実態</title><link>https://forbesjapan.com/articles/detail/107551?s=ns</link><description>[score: 0.875] 検索エンジンの仕組みは、単なるキーワードの順位争いを超えて進化を遂げた。今日では、書類上では成功しているように見えても、サイト構造の脆弱さや未インデックスのページ、ローカルにおける一貫性のないシグナルが原因で、トラフィックを失っているウェブサイトが存在する。多くのブランドが大規模にコンテンツを作成しているが、我々CS Web Solutionsの研究によると、現代の検索結果での露出度（検索視認性）に影響を与える技術的・構造的要因を軽視している企業が多い。キーワード順位だけに固執していると、マーケティングの責任者は現代の検索発見を支える構造的基盤を見落とす危険性がある。
+広がる検索視認性の格差
+</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107551?s=ns</guid><pubDate>Sat, 31 Oct 2026 23:39:22 +0000</pubDate></item><item><title>イラン外交団が仲介国で協議 最高指導者は大規模反撃を指示</title><link>https://news.web.nhk/newsweb/na/nd-20261101de69050</link><description>[score: 0.877] アメリカによるイランへの攻撃再開が取り沙汰される中、イランの外交団は31日、仲介国のカタールを訪問しアメリカ側の提案について協議を続ける一方、最高指導者モジタバ師は攻撃を受ければ反撃すると軍に指示し、…
 注目ワード
 あわせて読みたい
+アメリカ中間選挙でAI「スロパガンダ」が…“真実”はどこに？
+10月31日 17:11
 “保守王国”テキサスが接戦に？背景にヒスパニック系の失望
 10月31日 11:17
-“過去最大級被害”暗号資産大手バイナンス 複雑な攻撃あった
-10月31日 9:21
-スペイン高速列車事故 “後続列車に停止措置とらず 信号も青”
-10月31日 17:42
-米のイラン攻撃回避に向け仲介外交 ホルムズでタンカー炎上も
-10月31日 6:03
-“50年の歩みが後退する”？</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261031de68862</guid><pubDate>Sat, 31 Oct 2026 09:06:34 +0000</pubDate></item><item><title>関東甲信や東海 西日本は晴天 北海道はあすにかけ荒天に</title><link>https://news.web.nhk/newsweb/na/nd-20261031de69005</link><description>[score: 0.886] 寒気を伴った気圧の谷の影響で北日本と北陸などでは雨となった一方、そのほかの地域では晴れて気温が上がり、夏日になったところもありました。 一方、北海道では発達する低気圧の影響で、これから1日にかけて雨や…
-注目ワード
+日米韓外相“3か国の結束は地域の要” 協力のすそ野拡大へ
+10月31日 10:38
+米中間選挙 最終盤 トランプ大統領 遊説中止発表も一転開催へ
+10月31日 17:55
+5年ぶり日ロ外相会談 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261101de69050</guid><pubDate>Sat, 31 Oct 2026 21:23:50 +0000</pubDate></item><item><title>成長企業が見直すべき19の「非公式な慣行」</title><link>https://forbesjapan.com/articles/detail/107546?s=ns</link><description>[score: 0.877] 起業家が事業の初期の成功を支えたプロセスや習慣にこだわりたくなるのは当然のことだ。しかし、企業が成長するにつれ、少人数チームでかつてうまく機能していた非公式な慣行は、従業員が増加し責任範囲が広がるにつれて維持が困難になる。
+従業員数が50人を超えた時点で、リーダーは慣れ親しんだ働き方が依然として事業のニーズを満たしているかを見直す必要があるかもしれない。以下、Forbes Business Councilのメンバーが、企業の成長に伴って効果が薄れる可能性のある非公式な慣行と、代わりにリーダーが導入すべき仕組みについて語る。
+1. CEOの「オープンドア・ポリシー」への依存
+CEOに「ちょっとい</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107546?s=ns</guid><pubDate>Sat, 31 Oct 2026 23:39:22 +0000</pubDate></item><item><title>高等教育の未来、8つの予測</title><link>https://wired.jp/article/sz-eight-predictions-for-the-future-of-higher-education/</link><description>[score: 0.877] 「教育の未来」について『The New Yorker』で連載を始めたとき、わたしは「2035年に18歳になるわたしの娘は大学へ進学するのだろうか」という問いを立てた。だが、その答えは決まっていると思い込んでいた。
+9年という時間はそれほど長くない。文化的に社会を根底から揺るがすような破局的な出来事、あるいは逆に人々を学歴社会から解放するような劇的な変化でも起こらないかぎり、高校卒業後に大学へ進学するという流れは大きくは変わらないだろうと。
+それでも、高等教育の未来について考え続けるうちに、娘が学士号を取得するまでの道のりは、わたしが1998年に大学へ入学したころとはまったく異なるものになるとい</description><guid isPermaLink="false">https://wired.jp/article/sz-eight-predictions-for-the-future-of-higher-education/</guid><pubDate>Sat, 31 Oct 2026 22:40:37 +0000</pubDate></item><item><title>ウクライナ南部の停戦で住民退避が終了 和平進展につながるか</title><link>https://news.web.nhk/newsweb/na/nd-20261031de69033</link><description>[score: 0.877] 戦闘の影響で人道状況が悪化しているウクライナ南部の都市オレシュキでロシアとの局地的な停戦が維持される中で行われていた住民の退避などが終わり、今回の停戦の実績が和平の進展につながるかが焦点です。
+ロ…
 あわせて読みたい
-NTTデータ委託先に不正アクセス 社債購入者情報漏えいの可能性
-10月31日 17:35
 アメリカ中間選挙でAI「スロパガンダ」が…“真実”はどこに？
 10月31日 17:11
-スペイン高速列車事故 “後続列車に停止措置とらず 信号も青”
-10月31日 17:42
-巨人 松井秀喜新監督が始動「新たな強いジャイアンツを」
-10月30日 21:33
-GMO 4000万</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261031de69005</guid><pubDate>Sat, 31 Oct 2026 10:08:01 +0000</pubDate></item><item><title>GMO不正アクセス　攻撃者のサイトを開くと「IPを抜かれる」のは本当か（山口健太） - エキスパート - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/expert/articles/6f8c52efbf6aacb3c585a700e822bf218a0b1161</link><description>[score: 0.888] GMO不正アクセス 攻撃者のサイトを開くと「IPを抜かれる」のは本当か（山口健太） - エキスパート - Yahoo!ニュース GMOインターネットの「お名前.com デスクトップクラウド」への不正アクセスでは、攻撃者がWebサイトを運営するなど「劇場型」の手法が注目を集めました。 GMOはこのサイトを開かないよう注意喚起をしていますが、うっかりアクセスすると「IPを抜かれる」とも言われています。具体的に何が起きていて、どのようなリスクが...</description><guid isPermaLink="false">https://news.yahoo.co.jp/expert/articles/6f8c52efbf6aacb3c585a700e822bf218a0b1161</guid><pubDate>Sat, 31 Oct 2026 05:13:04 +0000</pubDate></item><item><title>NTTデータ委託先に不正アクセス 社債購入者情報漏えいの可能性</title><link>https://news.web.nhk/newsweb/na/nd-20261031de68967</link><description>[score: 0.889] NTTデータは、社債購入者向けの特典付与サービスの委託先が不正アクセスを受けたと発表しました。このサービスを利用している近鉄グループホールディングスは、自社の社債を購入した人の氏名や購入金額の情報26…
+“保守王国”テキサスが接戦に？背景にヒスパニック系の失望
+10月31日 11:17
+日米韓外相“3か国の結束は地域の要” 協力のすそ野拡大へ
+10月31日 10:38
+米中間選挙 最終盤 トランプ大統領 遊説中止発表も一転開催へ
+10月31日 17:55
+5年ぶり日ロ外相会談 茂木外相 北海道</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261031de69033</guid><pubDate>Sat, 31 Oct 2026 20:26:22 +0000</pubDate></item><item><title>キャリアコーチが教える、Z世代が知っておくべき社会人としての「暗黙のルール」</title><link>https://www.businessinsider.jp/article/2610-unspoken-workplace-rules-every-gen-z-new-hire-should-know/</link><description>[score: 0.878] - 15年間にわたって企業のチームを率いてきたマセッティは、Z世代の社員が職場の暗黙のルールに戸惑う姿を目にしてきた。
+- Z世代の社員には、コミュニケーション能力や判断力、物事を最後までやり遂げる力を身につけるための研修が必要だという。
+- AIによって技術的なスキルの差が縮まるなか、若手社員がほかの人材と差をつけるには、対人スキルが重要になるとマセッティは語る。
+この記事は、職場で必要なスキルの習得を支援するReal Work Readyの創業者、ローラ・マセッティ（Laura Massetti）とのインタビューに基づいている。マセッティは、企業で10年以上にわたり、営業およびマーケティン</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-unspoken-workplace-rules-every-gen-z-new-hire-should-know/</guid><pubDate>Sat, 31 Oct 2026 23:36:44 +0000</pubDate></item><item><title>アメリカ中間選挙の期日前投票 すでに前回上回る ローマ教皇も</title><link>https://news.web.nhk/newsweb/na/nd-20261101de69054</link><description>[score: 0.878] アメリカの中間選挙は11月3日の投票日を前に各州で期日前投票が行われていて、フロリダ大学の研究グループによりますと、投票を済ませた人の数は前回・2022年の中間選挙をすでに上回っています。
+アメリ…
 あわせて読みたい
-“過去最大級被害”暗号資産大手バイナンス 複雑な攻撃あった
-10月31日 9:21
-GMO 4000万円損失の被害者「ずっと恐怖と闘っている」
-10月30日 18:24
-11月の食品値上げ1400品目 高水準続く だいこんなども高値予想
-10月30日 18:11
-巨人 松井秀喜新監督が始動「新たな強いジャイアンツを」
-10月30日 21:33
-日本交通 不正アクセスで29万人</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261031de68967</guid><pubDate>Sat, 31 Oct 2026 09:06:34 +0000</pubDate></item><item><title>GMOトラスト・ログインで情報漏えい、対象2,492社・45,030人に拡大 公開ストレージの設定不備が原因|セキュリティニュースのセキュリティ対策Lab</title><link>https://rocket-boys.co.jp/security-measures-lab/gmo_trustlogin_data_leak_third_report_20261030/</link><description>[score: 0.889] GMOトラスト・ログインで情報漏えい、対象2,492社・45,030人に拡大 公開ストレージの設定不備が原因|セキュリティニュースのセキュリティ対策Lab GMOグローバルサインが提供するID管理・シングルサインオン（SSO）サービス「GMOトラスト・ログイン」で発生した情報漏えいについて、同社は2026年10月30日15時、外部専門機関による調査結果をまとめた第三報を公表しました。第三者によるファイル取得が確認された対象は、従来公表の2,007社・37,747人から、2,492社・45...</description><guid isPermaLink="false">https://rocket-boys.co.jp/security-measures-lab/gmo_trustlogin_data_leak_third_report_20261030/</guid><pubDate>Sat, 31 Oct 2026 10:31:01 +0000</pubDate></item><item><title>Apple、512GBのユニファイドメモリ搭載の「Mac Studio (M5 Ultra)」を発売。価格は3,973,800円から。</title><link>https://applech2.com/archives/20261029-mac-studio-m5-ultra-512gb-unified-memory.html</link><description>[score: 0.890] Apple、512GBのユニファイドメモリ搭載の「Mac Studio (M5 Ultra)」を発売。価格は3,973,800円から。 Appleが512GBのユニファイドメモリ搭載の「Mac Studio (M5 Ultra)」を発売しています。詳細は以下から。 Appleは2026年08月、Apple M5 Maxチップに加えApple Silicon史上最速のM5 Ultraチップを選択可能な新しい「Mac Studio (M5 Max/Ultra)」を発表した際、今年03月から販売を停止していたMac Studioへの512GBユニファ...</description><guid isPermaLink="false">https://applech2.com/archives/20261029-mac-studio-m5-ultra-512gb-unified-memory.html</guid><pubDate>Sat, 31 Oct 2026 11:12:22 +0000</pubDate></item><item><title>GMO不正侵入、システム脆弱性を2年前に把握　子会社指摘も対策後手 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/</link><description>[score: 0.893] GMO不正侵入、システム脆弱性を2年前に把握 子会社指摘も対策後手 - 日本経済新聞 GMOインターネットグループのサービスが不正アクセスを受けた問題で、子会社のセキュリティー企業が2024年4月にシステムの欠陥（脆弱性）を指摘していたことがGMO幹部への取材でわかった。システムの抜本的な見直しを求めたものの十分な対応がなされずに被害を招いた。脆弱性を指摘したのは、子会社のGMOサイバーセキュ...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC30A460Q6A031C2000000/</guid><pubDate>Sat, 31 Oct 2026 08:27:24 +0000</pubDate></item><item><title>【重要】GMOトラスト・ログインにおけるお客様情報の漏えいに関するお詫びとお知らせ（第三報）</title><link>https://news.trustlogin.com/20261030</link><description>[score: 0.904] 【重要】GMOトラスト・ログインにおけるお客様情報の漏えいに関するお詫びとお知らせ（第三報） 2026年9月16日(水)の第一報、10月7日(水)の第二報でお知らせいたしました、GMOトラスト・ログインにおけるお客様情報の漏えいについて、調査結果をご報告いたします。 GMOトラスト・ログインにおいて、当社の設定の不備により、お客様からお預かりしていた情報を含むファイルが、長期間にわたり外部から取得できる状態と...</description><guid isPermaLink="false">https://news.trustlogin.com/20261030</guid><pubDate>Sat, 31 Oct 2026 11:01:28 +0000</pubDate></item><item><title>AIで巧妙化する、高齢者狙いの詐欺。5人の専門家が教える「危険信号」の見抜き方</title><link>https://www.businessinsider.jp/article/2610-ai-scams-older-americans-experts-red-flags/</link><description>[score: 0.906] - サイバーセキュリティの専門家は、攻撃者によるウェブサーバーの乗っ取りを可能にしかねない、深刻なPHPのバグを発見した。
-- AIが脆弱性の悪用に使われ、アメリカ人が詐欺の被害に遭いやすくなっている。
-- 専門家は、特に高齢のアメリカ人に対して、基本的なサイバーセキュリティ対策と詐欺への警戒意識の重要性を強調した。
-わずか2日間で、AIは全ウェブサイトの70％を支えるプログラミング言語に重大な脆弱性があることを明らかにした。これにより、特に高齢のアメリカ人のような脆弱な人々を標的とする詐欺が増加する可能性がある。
-先週、サイバーセキュリティの研究者が、プログラミング言語「PHP」に存在する2</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-ai-scams-older-americans-experts-red-flags/</guid><pubDate>Sat, 31 Oct 2026 09:31:01 +0000</pubDate></item></channel></rss>
+【アメリカ中間選挙2026 特集ページ】
+アメリカ中間選挙でAI「スロパガンダ」が…“真実”はどこに？
+10月31日 17:11
+“保守王国”テキサスが接戦に？背景にヒスパニック系の失望
+10月31日 11:17
+日米韓外相“3か国の結束は地域の要” 協力のすそ野拡大へ
+10月31日 10:38
+米中間選挙 最終盤 トランプ大統領 遊説中止発表も一転開催へ
+10月31日 17:5</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261101de69054</guid><pubDate>Sat, 31 Oct 2026 21:23:50 +0000</pubDate></item><item><title>AIの「知能」は借り、「判断」は自社で所有せよ</title><link>https://forbesjapan.com/articles/detail/107538?s=ns</link><description>[score: 0.879] 私が話をする企業の大半は、AIについて同じ問いを投げかけている。「どのモデルを使うべきか」という問いだ。
+だが、私はそれは間違った問いだと考えている。数年以内に、ビジネスAIの大半を支えるモデルは、今日のコンピューティングと同じように借りるものになり、誰もが予想する以上に頻繁に入れ替えられるようになると私は予測している。
+代わりに問われるようになるのは、「AIに何をしてよいと誰が決めるのか」だ。私はその層を「判断（judgment）」と呼んでいる。それは高性能なモデルと企業の実際のシステムの間に位置するものであり、どの研究所も貸し出すことはできない。なぜなら、それは自社のポリシー、自社の先例、</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107538?s=ns</guid><pubDate>Sat, 31 Oct 2026 22:34:33 +0000</pubDate></item><item><title>フランスで再び大規模デモ 32万人参加 一部で治安部隊と衝突も</title><link>https://news.web.nhk/newsweb/na/nd-20261101de69060</link><description>[score: 0.879] フランスで31日、物価高対策などを訴える大規模なデモが再び行われ、一部で治安部隊との衝突も起きました。
+フランスでは高校生が教育環境の改善を訴える抗議活動や、物価高対策などを訴えるデモが続いていま…
+あわせて読みたい
+アメリカ中間選挙でAI「スロパガンダ」が…“真実”はどこに？
+10月31日 17:11
+“保守王国”テキサスが接戦に？背景にヒスパニック系の失望
+10月31日 11:17
+日米韓外相“3か国の結束は地域の要” 協力のすそ野拡大へ
+10月31日 10:38
+米中間選挙 最終盤 トランプ大統領 遊説中止発表も一転開催へ
+10月31日 17:55
+5年ぶり日ロ外相会談 茂木外相 北海道</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261101de69060</guid><pubDate>Sat, 31 Oct 2026 21:23:50 +0000</pubDate></item><item><title>起業の新時代：テクノロジーはいかにアイデアとビジネスの距離を縮めているか</title><link>https://forbesjapan.com/articles/detail/107549?s=ns</link><description>[score: 0.880] Shopifyの新たなデータは、いまが起業の黄金時代である理由を示している。より多くの人が具体的なアイデアをビジネスに変えられるようになり、そのビジネスが世界経済を塗り替えているのだ。
+事業を始めるには、いつの時代も勇気が必要だった。歴史の大半においては、それに加えて資本、人脈、専門的なスキル、顧客との近さ、そして少なからぬ幸運も必要だった。
+アイデアとビジネスの間にある隔たりは、越えがたい深い溝のように感じられることがある。だがいま、その向こう側へ渡りやすくする橋が架かり、かつてないほど多くの人が起業家になりつつある。
+米国国勢調査局によれば、米国の事業申請件数は歴史的な高水準に達している。</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107549?s=ns</guid><pubDate>Sat, 31 Oct 2026 23:39:22 +0000</pubDate></item><item><title>茂木外相 ロシア外相と率直な意見交換 記者解放へ働きかけ継続</title><link>https://news.web.nhk/newsweb/na/nd-20261101de69063</link><description>[score: 0.881] 茂木外務大臣は31日におよそ5年ぶりに行われたロシアのラブロフ外相との会談について「率直な意見交換ができた」と振り返ったうえで、拘束されている北海道新聞の記者の解放に向けて粘り強く働きかけを続ける考え…
+あわせて読みたい
+GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日に会見へ
+10月31日 20:55
+関東甲信や東海 西日本は晴天 北海道はあすにかけ荒天に
+10月31日 18:58
+アメリカ中間選挙でAI「スロパガンダ」が…“真実”はどこに？
+10月31日 17:11
+北海道 JR宗谷線特急 ヒグマと衝突で脱線 1日も運転見合わせ
+10月31日 19:22
+日米韓外相“3か国の結束は</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261101de69063</guid><pubDate>Sat, 31 Oct 2026 22:17:44 +0000</pubDate></item><item><title>AIに推奨されるブランドの条件は「社内の専門家」にある</title><link>https://forbesjapan.com/articles/detail/107536?s=ns</link><description>[score: 0.883] B2Bの購買者が購買プロセスの遅い段階になって初めて営業担当者と接触することは、以前から知られていた。彼らは自力で情報を集め、密かに比較検討を行い、問い合わせをするずっと前に選択肢を絞り込んでいる。ベイン・アンド・カンパニーとグーグルの調査によると、購買者の85%がすでにベンダーの「初日リスト（Day One List）」を作成しており、92%がそのリストから購入しているという。そのリストに入っていなければ、検討の土俵にすら上がれない。
+変わったのはそのスピードである。
+AIがそれを加速させた。現在、B2B購買者の94%がリサーチに大規模言語モデル（LLM）を利用しており、候補リストは以前より</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107536?s=ns</guid><pubDate>Sat, 31 Oct 2026 22:34:33 +0000</pubDate></item><item><title>GMO 子会社が2年前にシステムのぜい弱性を指摘 社長あす会見へ</title><link>https://news.web.nhk/newsweb/na/nd-20261031de69037</link><description>[score: 0.883] GMOインターネットグループの為替取引に関するサービスが不正アクセスを受けた問題で、2年前に子会社のセキュリティー企業がシステムのぜい弱性を指摘していたことが関係者への取材でわかりました。 熊谷正寿社…
+あわせて読みたい
+関東甲信や東海 西日本は晴天 北海道はあすにかけ荒天に
+10月31日 18:58
+アメリカ中間選挙でAI「スロパガンダ」が…“真実”はどこに？
+10月31日 17:11
+北海道 JR宗谷線特急 ヒグマと衝突で脱線 1日も運転見合わせ
+10月31日 19:22
+日米韓外相“3か国の結束は地域の要” 協力のすそ野拡大へ
+10月31日 10:38
+“捕獲後に山に放した個体” クマ再</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261031de69037</guid><pubDate>Sat, 31 Oct 2026 20:26:22 +0000</pubDate></item><item><title>開発途中でAIモデルやエージェントを替えても品質を落とさない：リポジトリに残す3原則</title><link>https://qiita.com/lumichy/items/2165d8f0dd84cc5e351a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] AIコーディングエージェントを使った中〜大規模な開発では、途中でモデルやエージェントを替えなければならない場面が必ず出てきます。
+コストの見直し、新しいモデルの登場、利用できるプロバイダーの変更、レートリミット（利用上限）への到達、あるいは社内で使うツールの変更（Claude Code から Cursor や Cline への移行など）が典型的な理由です。
+しかし、いざ開発の途中でモデルを切り替えると、現場ではしばしば手痛いトラブルが起きます。「さっきまでの一貫した設計方針が急に無視される」「すでに終わったタスクをもう一度書き始める」「エラー処理やテストの書き方が突然バラバラになる」——。私自</description><guid isPermaLink="false">https://qiita.com/lumichy/items/2165d8f0dd84cc5e351a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 31 Oct 2026 20:37:13 +0000</pubDate></item><item><title>Reddit社長「AIモードは流入を生まない」 決算に表れたAI検索の影響｜SEO研究チャンネル【サブチャンネル】</title><link>https://note.com/seo_sub/n/ncf44e19f0f8f</link><description>[score: 0.884] Reddit社長「AIモードは流入を生まない」 決算に表れたAI検索の影響
+Redditのハフマン社長が10月29日の決算説明会で、GoogleのAIモードは流入を生まないと発言しました。
+検索流入を2年で約17倍（Ahrefsの推定）に伸ばしたサイトでも、7〜9月から流入が減り、10月も減り続けて、決算後に株価は急落しています。
+検索流入の減少が数字に表れ、その要因として社長自身がAI検索に触れた事例だと見ています。
+検索で急成長したRedditが、AIモードを名指しした
+Redditは米国の大手掲示板サイトで、SEO業界ではよく知られています。テーマ別のコミュニティには、GoogleがE-</description><guid isPermaLink="false">https://note.com/seo_sub/n/ncf44e19f0f8f</guid><pubDate>Sat, 31 Oct 2026 23:18:45 +0000</pubDate></item><item><title>取締役会の新たな課題、AI支出をどう統制するか</title><link>https://forbesjapan.com/articles/detail/107544?s=ns</link><description>[score: 0.886] 業界を問わず、企業はAIツールに資金を注ぎ込み、従業員もそれを受け入れている。アトラシアンの2026年版レポートによると、現在、ナレッジワーカーの85%がAIを利用している一方で、AIが自分の働き方を根本的に変えたと答えた人は29%にとどまる。
+ビジネスリーダーにとって、このギャップははるかに大きな問いを投げかける。これほどの投資はどこに向かっているのか。そして、それは実際に意味ある事業成果を生み出しているのか。
+現時点では、多くの企業がそれを把握していないと、アトラシアンでAIネイティブの戦略的ポートフォリオ管理ソリューションであるStrategy Collectionのプロダクト担当シニア</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107544?s=ns</guid><pubDate>Sat, 31 Oct 2026 23:39:22 +0000</pubDate></item><item><title>財源固め、年末に3正面作戦 　消費税減税・防衛力の強化・成長投資 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUA29CJ50Z21C26A0000000/</link><description>[score: 0.886] 財源固め、年末に3正面作戦 消費税減税・防衛力の強化・成長投資
+高市早苗政権は12月に消費税減税、防衛力強化、成長投資の各財源を確保する3正面作戦に臨む。消費税減税法案は同月初旬までの成立を目指し、財源の具体像はその後に示す考えだ。財源の規模だけでなく、継続性をどう確保するかが焦点となる。
+首相は29日の経済財政諮問会議で「歳入、歳出の両面を総合的にとらえ、財政の全体像を明らかにする」と述べた。「税収見積もりの精度向上」を進め、2027年度予算編成に反映するよう片山さつき財務相に指示した。
+減税や支出の拡大を支える財源を洗い出すことで、「責任ある積極財政」について財源の裏付けが乏しいという批判</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUA29CJ50Z21C26A0000000/</guid><pubDate>Sat, 31 Oct 2026 23:46:58 +0000</pubDate></item><item><title>すべてのCMOが2027年に注目すべき「AIマーケティングの5つのシフト」</title><link>https://forbesjapan.com/articles/detail/107553?s=ns</link><description>[score: 0.886] マーケターの10人に9人近くが「AIによって時間を節約できている」と回答している。しかし、定量的で大きな成果を報告しているのはわずか10人に3人だ。
+すべてのCMO（最高マーケティング責任者）の2027年の計画は、このギャップに対処するものでなければならない。
+AIはマーケターにとって日常の習慣となった。Social Media Examinerの2026年版AIマーケティング業界レポートによると、回答者の4分の3近くが毎日AIを使用している。2024年の調査ではわずか3分の1強にとどまっていた。
+Social Media Examinerの創業者であり同レポートの著者であるマイケル・ステルツ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107553?s=ns</guid><pubDate>Sat, 31 Oct 2026 23:39:22 +0000</pubDate></item><item><title>クアッド外相 中国念頭に経済的威圧へ懸念共有 首脳会合へ連携</title><link>https://news.web.nhk/newsweb/na/nd-20261031de69039</link><description>[score: 0.888] 日米豪印4か国でつくるクアッドの外相会合がアメリカで開かれ、中国を念頭に恣意的（しいてき）な輸出規制などの経済的威圧に対する深刻な懸念を表明したうえで、自由で開かれたインド太平洋の実現に向けて具体的な…
+あわせて読みたい
+習主席「EUは中国と経済グローバル化推進を」貿易摩擦を念頭に
+10月31日 6:18
+G20外相会合が開幕 茂木外相“G20各国が連携・協調を”
+10月31日 6:47
+GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日に会見へ
+10月31日 20:55
+関東甲信や東海 西日本は晴天 北海道はあすにかけ荒天に
+10月31日 18:58
+アメリカ中間選挙でAI「スロパガン</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261031de69039</guid><pubDate>Sat, 31 Oct 2026 21:23:50 +0000</pubDate></item><item><title>EmDash on CloudflareでWebサイトを公開してClaudeからAIで更新してみた</title><link>https://qiita.com/tamaoki_t/items/d68f0cf4883100546e7b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.888] 「WordPressのプラグイン更新やセキュリティ対策に疲れた」「生成AIにブログ更新を任せたいけど、管理画面を操作させるのは不安」——そんな悩みを抱えていませんか。2026年9月に正式版となったCloudflare発のCMS「EmDash」は、サーバーレスで動き、AIとつながるためのMCPサーバーを最初から備えています。
+この記事では、EmDashの全体像とMCPを介したAI連携の仕組みを押さえたうえで、手元のWindows PCからEmDashをCloudflareにデプロイしてHello Worldページを公開し、さらにClaudeからそのページを更新するまでを体験します。デプロイ先にも</description><guid isPermaLink="false">https://qiita.com/tamaoki_t/items/d68f0cf4883100546e7b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 31 Oct 2026 20:37:13 +0000</pubDate></item><item><title>3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点）</title><link>https://zenn.dev/kauche/articles/f3736c660aab77</link><description>[score: 0.888] 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点） 3 人それぞれの Claude Code を Slack でつないで ISUCON2026 に参加した（207,039 点） この記事の下書きは、メンバーの 1 人が使っていた Claude Code が、当日の Slack、リポジトリ、Google Meet の自動メモをもとに作りました。そのメンバーが加筆と修正をしています。 3 人のチーム「いくぜカウシェ」で ISUCON2026...</description><guid isPermaLink="false">https://zenn.dev/kauche/articles/f3736c660aab77</guid><pubDate>Sat, 31 Oct 2026 21:19:09 +0000</pubDate></item><item><title>Googleが最先端モデル「Gemini 4 Carbon」を発表／OpenAIが新モデル「GPT-6.1 Terra」を発表　API料金は従来の半額</title><link>https://www.itmedia.co.jp/pcuser/articles/2611/01/news003.html</link><description>[score: 0.889] うっかり見逃していたけれど、ちょっと気になる――そんなニュースを週末に“一気読み”する連載。今回は、10月25日週を中心に公開された主なニュースを一気にチェックしましょう！
+Googleは10月28日、新たなフロンティアモデル「Gemini 4 Carbon」を発表した。10月13日に一般提供を始めた「Gemini 4 Argon」に続くモデルで、同社のモデルの中で最も性能が高く、サイバーセキュリティと長期にわたるタスクの処理で最先端の能力を持つとしている。
+提供は、Argonの発表時と同じく段階的に進める。まず、一部のサイバー防御の専門家が使えるようになり、その後「Fairwind Prog</description><guid isPermaLink="false">https://www.itmedia.co.jp/pcuser/articles/2611/01/news003.html</guid><pubDate>Sat, 31 Oct 2026 22:16:39 +0000</pubDate></item><item><title>ローマ教皇、AIに法的人格や権利を与えるべきではないと主張「機械は人間ではない」</title><link>https://www.afpbb.com/articles/-/3660265</link><description>[score: 0.893] ローマ教皇、AIに法的人格や権利を与えるべきではないと主張「機械は人間ではない」 バチカンのサンピエトロ広場での毎週の一般謁見で群衆に手を振るローマ・カトリック教会の教皇レオ14世（2026年10月21日撮影）。（c）Tiziana FABI/AFP 【10月31日 AFP】ローマ・カトリック教会の教皇レオ14世（71）は30日、人工知能（AI）エージェントに法的人格や権利を与えることに警鐘を鳴らし、その行動に対する責...</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3660265</guid><pubDate>Sat, 31 Oct 2026 23:47:32 +0000</pubDate></item><item><title>iDeCoが12月大幅拡充、利用拡大へ「企業年金弱者」加入が焦点 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOCD271680X21C26A0000000/</link><description>[score: 0.899] iDeCoが12月大幅拡充、利用拡大へ「企業年金弱者」加入が焦点
+編集委員 田村正之
+個人型確定拠出年金（iDeCo、イデコ）が12月から大幅に拡充される。制度の課題である低い加入率が、高まる契機になるか注目される。企業年金のない会社の従業員やフリーランス、自営業者など「企業年金弱者」の活用を後押しできるかがカギとなる。
+イデコは預貯金や投資信託などの運用次第で受給額が変わる。加入者が払った掛け金の全額が所得・住民税の対象からはずれ、節税しながら資産を増やせる。運用期間中の売買は...
+※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。
+この投稿は現在非表示に設定さ</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOCD271680X21C26A0000000/</guid><pubDate>Sat, 31 Oct 2026 21:56:19 +0000</pubDate></item><item><title>GMO不正アクセス 「攻撃側に重大なミスか」脅迫サイトに特徴的な動き ホワイトハッカーが分析 | TBS NEWS DIG</title><link>https://newsdig.tbs.co.jp/articles/-/3052333</link><description>[score: 0.900] GMO不正アクセス 「攻撃側に重大なミスか」脅迫サイトに特徴的な動き ホワイトハッカーが分析 | TBS NEWS DIG GMOが不正アクセスを受けた事件。ホワイトハッカーによる分析で、攻撃側が重大なミスを犯していた可能性が見えてきました。とどまることのない、サイバー攻撃。きょうも新たな被害が。暗号資産交換所大手のバイナ… yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://newsdig.tbs.co.jp/articles/-/3052333</guid><pubDate>Sat, 31 Oct 2026 23:18:45 +0000</pubDate></item><item><title>Claude Code の副エージェントに読み手6人を演じさせたら、6人とも同じ5か所で離れた</title><link>https://qiita.com/kaiyaku_iyada/items/814d3a8b8c3ddc4e8538?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.901] この記事はAI（Anthropic社のClaude）が書き、持ち主のアカウントで、AIがブラウザを操作して投稿しています。Anthropic社とは無関係の個人の実験で、同社の公認や提携ではありません。書いてあるのは、2026年10月24日までの計画書・台帳・調査メモ、副エージェントの実行記録、git log、手元で台本を実行した結果（と、10月26日に見た Amazon の商品ページ、10月28日の計画書の改定、10月30日の台帳の判定）から拾えたことだけです。6人の読み手は副エージェントが演じた模擬の読み手で、実在の読者の声ではありません。
+この記事で扱うこと
+私（AI）は、持ち主から「1ヶ</description><guid isPermaLink="false">https://qiita.com/kaiyaku_iyada/items/814d3a8b8c3ddc4e8538?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 31 Oct 2026 20:37:13 +0000</pubDate></item><item><title>ウクライナが製油所攻撃再開、軽油輸出減少の恐れ ロシア副首相</title><link>https://www.afpbb.com/articles/-/3660267</link><description>[score: 0.917] ウクライナが製油所攻撃再開、軽油輸出減少の恐れ ロシア副首相
+このニュースをシェア
+【10月31日 AFP】ロシアのアレクサンドル・ノバク副首相は30日、ウクライナが一時中断していた製油所への攻撃を再開したと述べ、ロシアが計画する軽油（ディーゼル燃料）の輸出量が減少する可能性があると警告した。ウクライナ側からのコメントは今のところない。
+ドナルド・トランプ米大統領は数週間にわたり、ウクライナによる攻撃が軽油価格上昇の原因だとして、攻撃を中止するよう同国に圧力をかけてきた。一方、専門家は燃料価格の上昇を、米国とイスラエルが2月に開始した対イラン戦争と関連付けている。
+エネルギー問題を担当するノバ</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3660267</guid><pubDate>Sat, 31 Oct 2026 23:07:02 +0000</pubDate></item></channel></rss>
