@@ -1,74 +1,124 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 02 Nov 2026 00:03:55 +0000</lastBuildDate><item><title>シャオミSmart Band 11が早割6980円で発売　歴代最薄で最長21日駆動、睡眠管理アシスタントも追加</title><link>https://www.techno-edge.net/article/2026/11/02/5659.html</link><description>[score: 0.874] シャオミ・ジャパンがスマートバンド「Xiaomi Smart Band 11」を発売しました。
-市場想定価格は7980円、セラミックを使った「Ceramic Edition」は1万800円。現在なら早割価格の6980円 / 9800円で購入できます。
-■ 9.99mmに薄型化、睡眠管理アシスタント追加
-Smart Band 11は心拍や血中酸素、睡眠、運動を記録したり、スマートフォンの通知を表示できるバンド型デバイス。
-新モデル Band 11 は前世代のBand 10より約1mm薄く、1cmを切る厚さ9.99mmに薄型化しました。重量はごくわずかに軽くなった15.58g、Ceramic Ed</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/11/02/5659.html</guid><pubDate>Sun, 01 Nov 2026 23:08:41 +0000</pubDate></item><item><title>Redditがログイン必須に。GoogleのAIによる概要表示が原因</title><link>https://www.businessinsider.jp/article/2611-reddits-logged-in-google-ai-overviews-traffic/</link><description>[score: 0.874] 掲示板大手Redditは、一部の例外を除き、プラットフォーム全体を原則として「ログインユーザー限定」の仕様へ移行すると発表した。 人々の情報収集がGoogle検索からAIへと急速にシフトするなか、Redditへの検索エンジン経由の流入トラフィックが激減したことを受けた措置だ。 しかし振り返れば2024年、RedditはGoogleとAI学習データ提供に関する大型契約を締結した後、検索経由トラフィックの未曾有の特需に沸いていた。</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-reddits-logged-in-google-ai-overviews-traffic/</guid><pubDate>Sun, 01 Nov 2026 23:23:23 +0000</pubDate></item><item><title>電話やFAXが当たり前、メアド把握はわずか1％　レンタルのニッケンは「年間27万件の請求書」をどうデジタル化した？</title><link>https://www.itmedia.co.jp/business/articles/2611/02/news011.html</link><description>[score: 0.874] 土木・建設機械などのレンタル事業を手掛けるレンタルのニッケン（東京都港区）。部品や部材の仕入れ、商品の借り入れに伴う請求書は年間27万件を超える。
-かつては全国の営業所に届いた請求書を、担当者が1枚ずつ処理し、明細を1行ずつ支払い予定データと照合するアナログな作業を数多く抱えていた。
-同社は2025年1月から、クラウド請求書受領サービス「Bill One」を活用し、請求書を100％デジタル化。年間1万4000時間以上の作業時間削減につなげた。
-「私たちが変えたのは請求書ではなく、業務の常識だ」。プロジェクトを主導した執行役員で管理副本部長の綱一馬氏はそう話す。
-取引先との接点や社内の業務プロセ</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2611/02/news011.html</guid><pubDate>Sun, 01 Nov 2026 22:01:27 +0000</pubDate></item><item><title>パフォーマンスチューニング経験ゼロ、事前準備ゼロでISUCON2026に出て、良い経験になった話</title><link>https://zenn.dev/go_furu93/articles/isucon2026-solo-retro-20261031-bc4f82</link><description>[score: 0.874] こんにちは、三つ子育児系エンジニアのsakoponです！ 2026年10月31日に開催されたISUCON2026に、ソロで出場しました🏃 今回はそのイベントでの感想を記事にしました。 ISUCONとは、お題のWebアプリを制限時間内にどこまで速くできるかを競うチューニングコンテストです。 私はパフォーマンスチューニングの経験がありません。事前準備もろくにできず、当日もほとんどの部分をAIに頼りました。最終スコアは25717です。 それでも、参加してよかったと思っています。 何のために参加したのか 一番は、パフォーマンスチューニングについて学びたかったためです。 あとは、お祭り感があっ...</description><guid isPermaLink="false">https://zenn.dev/go_furu93/articles/isucon2026-solo-retro-20261031-bc4f82</guid><pubDate>Sun, 01 Nov 2026 23:03:55 +0000</pubDate></item><item><title>【速報】高市内閣の支持率64.9%　前回から1.9ポイント上昇　JNN世論調査 | TBS NEWS DIG</title><link>https://newsdig.tbs.co.jp/articles/-/3054383</link><description>[score: 0.875] 【速報】高市内閣の支持率64.9% 前回から1.9ポイント上昇 JNN世論調査 TBSテレビ 2026年11月1日(日) 22:23 国内 最新のJNNの世論調査で、高市内閣の支持率が、前回の調査から1.9ポイント上昇して64.9%でした。一方、「支持しない」と答えた人は前回から1.4ポイント下落して32.5%でした。各党の支持率は以下の通り。自民 32.9…</description><guid isPermaLink="false">https://newsdig.tbs.co.jp/articles/-/3054383</guid><pubDate>Sun, 01 Nov 2026 21:17:54 +0000</pubDate></item><item><title>米Microsoftはなぜ最大6万人に早期退職を打診するのか？　決算資料から読み解く巨額AI投資の“台所事情”</title><link>https://www.itmedia.co.jp/pcuser/articles/2611/02/news029.html</link><description>[score: 0.875] Microsoftは10月26日（米国時間）、「Voluntary Exit Offer（VEO）」を従業員に通知した。
-直訳すれば「任意退職の申し入れ」となるが、英語圏で「Buyout」と呼ばれる早期退職・希望退職優遇制度に近いものだ。強制的に解雇するレイオフとは異なり、あくまで本人の意思による退職を促す申し入れという位置付けになっている。
-対象となるのはカナダ／インド／英国／米国の4カ国で、Level 70以下（CEO／EVP／CVPを除く全て）の職位にある従業員だ。複数の報道によれば、Xbox／Gaming（個々のスタジオを除く）、Windows＆Devices、Copilot／Core</description><guid isPermaLink="false">https://www.itmedia.co.jp/pcuser/articles/2611/02/news029.html</guid><pubDate>Sun, 01 Nov 2026 22:01:27 +0000</pubDate></item><item><title>米国株式市場＝ナスダック下落、原油高や決算を警戒 | ロイター - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQcTZtQmotckVqS09pWWM1Z3RDZTM1WHhCV2FYVHo2WnFxeDVTVlhfeGhzUDU3dzQxdnpmMHJpRm5MN2tKSGJ3M2VPeXQyb1k4VkhGM2pYejNMUHh4YlJyRVlSSDg5eXd1QzlMOTI5RlJZcWo1aWJYOEx1dzNKSGEyakYtQllmUQ?oc=5</link><description>[score: 0.876] 米国株式市場＝ナスダック下落、原油高や決算を警戒 | ロイター Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQcTZtQmotckVqS09pWWM1Z3RDZTM1WHhCV2FYVHo2WnFxeDVTVlhfeGhzUDU3dzQxdnpmMHJpRm5MN2tKSGJ3M2VPeXQyb1k4VkhGM2pYejNMUHh4YlJyRVlSSDg5eXd1QzlMOTI5RlJZcWo1aWJYOEx1dzNKSGEyakYtQllmUQ?oc=5</guid><pubDate>Sun, 01 Nov 2026 22:24:36 +0000</pubDate></item><item><title>AIが動画制作を高速化した後、「承認」が新たなボトルネックになる</title><link>https://forbesjapan.com/articles/detail/107562?s=ns</link><description>[score: 0.876] AIは動画制作のいくつものプロセスを高速化した。アイディア出しのブレインストーミング、素材動画の整理、ファーストカット（仮編集）の作成、脚本構成案の整理、1つのインタビュー動画からの3つのショート動画の切り出し——。誰かが本格的な意思決定を下す前に、以前なら半日を費やしていた作業だ。
-チームがそのスピードを手に入れながらも、週末になっても確かな判断が得られず、バージョンだけが増えていく様子を筆者は目の当たりにしてきた。ファイルは予定通り届くものの、ストーリーは審査の段階で保留となったままだ。
-これこそが、筆者が今懸念しているボトルネックである。制作にかかる労力は削減されたが、承認プロセスや表現</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107562?s=ns</guid><pubDate>Sun, 01 Nov 2026 22:30:23 +0000</pubDate></item><item><title>米メタ、株式調達を975億ドルに拡大 ＡＩ投資で過去最大級 | ロイター - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQalljWHQwSkpSZERrTE1YbjZidE90S2FNQnNNOF9vRHluNURCUTFyM1lpOHgybWtOR1gwaWZHcTNaZGtLODlyOTVhdllHR0VQQmpmd1BpQmMtejlaUUo5S2NoMXlCYU1haklQUnk1TkpfVzhLMG1WeVdvOU1Eam40eldxRndQQQ?oc=5</link><description>[score: 0.877] 米メタ、株式調達を975億ドルに拡大 ＡＩ投資で過去最大級 | ロイター Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQalljWHQwSkpSZERrTE1YbjZidE90S2FNQnNNOF9vRHluNURCUTFyM1lpOHgybWtOR1gwaWZHcTNaZGtLODlyOTVhdllHR0VQQmpmd1BpQmMtejlaUUo5S2NoMXlCYU1haklQUnk1TkpfVzhLMG1WeVdvOU1Eam40eldxRndQQQ?oc=5</guid><pubDate>Sun, 01 Nov 2026 22:24:36 +0000</pubDate></item><item><title>AIはどう「考える」のか——評価の難しさと「ブラックボックス問題」</title><link>https://forbesjapan.com/articles/detail/107565?s=ns</link><description>[score: 0.877] 現時点で、AIが高度なチューリングテストに合格できることは分かっている。だが、AIは正確にはどのように「思考」しているのだろうか。より正確で曖昧さの少ない言い方をすれば、ニューラルネットワークは人工ニューロンをどのように使用して、認知行動あるいは準認知行動を生み出しているのだろうか。
-言い方を変えてみよう。AIと、生体脳で考える人間の思考法とはどう違うのだろうか。
-明らかな違いの1つは、情報へのアクセス能力だ。
-私たち人間は、生まれつき情報へのアクセス能力を備えているわけではない。情報は獲得しなければならず、その方法はアナログで、きわめて非効率だ。対照的にAIは、インターネットに接続し、そこに</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107565?s=ns</guid><pubDate>Sun, 01 Nov 2026 22:30:23 +0000</pubDate></item><item><title>エージェント型AI時代の統治　取締役会が問う「誰が責任を持つのか」</title><link>https://forbesjapan.com/articles/detail/107571?s=ns</link><description>[score: 0.877] エージェント型AIがコンテンツ生成から意思決定や行動へと移行するなか、取締役会や経営幹部は、AI監督モデルとしての「ヒューマン・イン・ザ・ループ」の先を見据えている。彼らは、人間をAIのプロセスの単なる一部にするのではなく、明確にAIを統率する立場に置くアプローチを採用しつつある。
-2024年、Salesforceのポーラ・ゴールドマンは「ヒューマン・アット・ザ・ヘルム」を提唱した。2026年1月には、Accentureの会長兼CEOであるジュリー・スウィートがダボスで「ヒューマン・イン・ザ・リード」を取り上げた。これらのアプローチは競合する概念ではなく、それぞれが異なる目的を果たし、全体とし</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107571?s=ns</guid><pubDate>Sun, 01 Nov 2026 23:33:36 +0000</pubDate></item><item><title>メモリーコストの急騰とパソコン需要の低迷が響き、インテル株が30％急落</title><link>https://www.businessinsider.jp/article/2611-intel-shares-plunge-revenue-drop-warning-ai-led-supply-shortages/</link><description>[score: 0.877] インテルの株価は10月30日に最大30%急落。AIブームに伴う深刻な供給不足の打撃が広がり、PC半導体市場が想定以上に冷え込むとの警告を同社が発したことを受け、売りが殺到した。
-カリフォルニア州に本社を置く同社の株価は、29日の終値92.07ドルから大幅に下落し、米東部時間午後2時30分頃の時点で63.76ドル近辺で取引された。
-同社が29日に発表した第3四半期売上高は前年同期比20%増の165億ドル（約2.5兆円）となった。しかし、第4四半期の業績見通しでは売上高を150億～160億ドル、1株当たり利益（EPS）を第3四半期の0.52ドルから急減する0.25ドルと予想し、市場に失望が広がった</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-intel-shares-plunge-revenue-drop-warning-ai-led-supply-shortages/</guid><pubDate>Sun, 01 Nov 2026 22:17:51 +0000</pubDate></item><item><title>音声AIは中小企業にどう役立つか：企業が知っておくべき活用法と注意点</title><link>https://forbesjapan.com/articles/detail/107576?s=ns</link><description>[score: 0.877] 音声AIは、労働者の代替となる自動化やAIによる詐欺、不正利用と結びつけられがちだが、業界のプロフェッショナルらは、この技術が中小企業（SMB）の日常業務の支援にも役立つと指摘する。
-グーグル、アップル、インテュイット（Intuit）の出身者らが創業したカリフォルニア拠点の音声AI企業、スミスAI（Smith.ai）による最新の調査では、2022年6月から2026年7月にかけて全米4210箇所の法律事務所に寄せられた320万件以上の着信電話が分析された。その結果、着信の22％が営業時間外に届き、応答した着信の62.6％が有望な見込み客（クオリファイドリード）であることが判明した。
-法律事務所は</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107576?s=ns</guid><pubDate>Sun, 01 Nov 2026 23:33:36 +0000</pubDate></item><item><title>「要約できる記事」は負け筋。AIで記事を作る正しい7ステップと2つのアドバイス（後編）</title><link>https://webtan.impress.co.jp/e/2026/11/02/53504</link><description>[score: 0.878] 前後編の2回に分けてお届けしている。→前編を読む 前編では、「生成AIを使ったコンテンツ作成をやめる必要はないが、ボット向けの最適化や、AIの自動化に終始する現状の使い方は決定的に間違っている」と伝えた。 後編となるこの記事では、なぜその自動化が失敗するのか、そしてAI時代に真の価値を生み出す「視点（POV）」の重要性について深掘りする。 では、AIを使ってコンテンツを書くのはやめるべきだろうか？ イエスでもあり、ノーでもある。 イエス（やめるべき） ―― 思考や戦略を機械に委ねてしまっているコンテンツを公開するのはやめよう。大規模言語モデル（LLM）はオーソリティが皆無のイエスマンだ。LLM</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/11/02/53504</guid><pubDate>Sun, 01 Nov 2026 22:33:49 +0000</pubDate></item><item><title>カインズ＋大都に学ぶデジタルとリアルの「本当に上手い融合策」、UA＋マドラス＋そごう・西武が語る「AI時代に選ばれるショップの条件」【11/5・6 リアルセミナー開催】</title><link>https://webtan.impress.co.jp/e/2026/11/02/53542</link><description>[score: 0.879] カインズ＋大都に学ぶデジタルとリアルの「本当に上手い融合策」、UA＋マドラス＋そごう・西武が語る「AI時代に選ばれるショップの条件」【11/5・6 リアルセミナー開催】 fujita-h 2026年11月2日 ネットショップ担当者フォーラム 特選記事 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 この記事は、姉妹サイトネットショップ担当者フォーラムで公開された記事をWeb担当者Forumに転載したものです。 11月5日（木）・6日（金）の2日間、東京・赤坂インターシティコンファレンスで、大型リアルイベント「ネットショップ担当者フォーラム 2026 秋」を開催します。アス</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/11/02/53542</guid><pubDate>Sun, 01 Nov 2026 22:33:49 +0000</pubDate></item><item><title>"推せるAI”の魅力 便利だけじゃない「Meta Muse」の楽しさについて語ろう</title><link>https://www.watch.impress.co.jp/docs/watchplus/2152749.html</link><description>[score: 0.879] Watch+
-"推せるAI”の魅力 便利だけじゃない「Meta Muse」の楽しさについて語ろう
-2026年11月2日 08:00
-Impress Watchシリーズの会員限定記事です。記事を全文読むには会員登録をお願いします(無料)。登録はこちらから。
-MetaのパーソナルAIエージェント「Muse」が、10月23日から日本でスタートしました。Museは、ユーザーの指示に従って情報を検索したり、回答するだけでなく、Webサイトを操作し、予約や買い物などのタスクを自律的に進められるAIエージェントです。
-米国では開始1カ月で1,000万ダウンロードを超えるなど大きな注目を集めているMuseです</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/watchplus/2152749.html</guid><pubDate>Sun, 01 Nov 2026 23:07:54 +0000</pubDate></item><item><title>中間選挙・決算・雇用統計が焦点、ＡＩ懸念続く＝今週の米株式市場 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE41MHRrQXBuamFUT09QUGUtdWw3R3diMXpGQlBFbUFZdGxYaTNpeXhKc1dqdlVkY0stTXpCYXZjc3FBQVdwdnQ4V3FwdUVUYzQxUVJDdVJCVFZJclBtVG9SX2xXMHZEbDVVVWRIT3QzV2JFcDdla0paTGtPTTZQdw?oc=5</link><description>[score: 0.880] 中間選挙・決算・雇用統計が焦点、ＡＩ懸念続く＝今週の米株式市場 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE41MHRrQXBuamFUT09QUGUtdWw3R3diMXpGQlBFbUFZdGxYaTNpeXhKc1dqdlVkY0stTXpCYXZjc3FBQVdwdnQ4V3FwdUVUYzQxUVJDdVJCVFZJclBtVG9SX2xXMHZEbDVVVWRIT3QzV2JFcDdla0paTGtPTTZQdw?oc=5</guid><pubDate>Sun, 01 Nov 2026 22:24:36 +0000</pubDate></item><item><title>Claude Codeは各バックグラウンドエージェントのトランスクリプトを定期的にモデルに送信していることが発覚</title><link>https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript/</link><description>[score: 0.880] Claude Codeは各バックグラウンドエージェントのトランスクリプトを定期的にモデルに送信していることが発覚
-Claude Codeの「エージェントサマリー」機能はバックグラウンドエージェントのステータスを約30秒ごとに更新するため、トランスクリプト(記録したデータ)全体をモデルに再送信しています。トランスクリプト送信によりトークンの約15～20％が消費されている計算になります。
-Claude Code burns ~15-20% of your tokens on a 3-word status line: a Bun preload that turns agent_summary o</description><guid isPermaLink="false">https://gigazine.net/news/20261102-claude-code-resends-background-agents-transcript/</guid><pubDate>Sun, 01 Nov 2026 22:06:59 +0000</pubDate></item><item><title>ウクライナで数十万世帯停電、ロシアの工業施設も被害 戦闘収まらず - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkh1MUtrNkpWM3FSSjlkMXRlMjRHLTJsZzJaS29oZzJwVmpQOUhBYnZOT3BQM1Jzc3hnZzJPNGF5V0IydlZQbGFHSXpQSFJDTkEtT0d6ZC1UY1JkSFY3d2J1WWpFV19PRGxZeUU4M01uR3h3WlRESkp5bGlTRzhRSF9aS09zUQ?oc=5</link><description>[score: 0.881] ウクライナで数十万世帯停電、ロシアの工業施設も被害 戦闘収まらず Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxOVkh1MUtrNkpWM3FSSjlkMXRlMjRHLTJsZzJaS29oZzJwVmpQOUhBYnZOT3BQM1Jzc3hnZzJPNGF5V0IydlZQbGFHSXpQSFJDTkEtT0d6ZC1UY1JkSFY3d2J1WWpFV19PRGxZeUU4M01uR3h3WlRESkp5bGlTRzhRSF9aS09zUQ?oc=5</guid><pubDate>Sun, 01 Nov 2026 23:18:43 +0000</pubDate></item><item><title>米 フロリダ州で小型機墜落 乗客乗員9人全員が死亡</title><link>https://news.web.nhk/newsweb/na/nd-20261102de69327</link><description>[score: 0.883] アメリカ南部フロリダ州で1日、小型のビジネスジェット機が高速のまま住宅地近くの道路脇に墜落し、乗っていた9人全員が死亡しました。
-FAA＝アメリカ連邦航空局などによりますと、フロリダ州パームビーチ…
-アメリカ中間選挙あす投票 トランプ大統領中西部で演説へ
-11月2日 5:09
-ドイツ全土のデモ 暴徒化した集団が店襲撃 当局が会見
-11月2日 4:23
-米中間選挙 世論調査の信頼揺らぎ“予測市場”が拡大 課題は
-11月1日 19:03
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 02 Nov 2026 14:24:29 +0000</lastBuildDate><item><title>ISUCON2026 で優勝しました（当日編）</title><link>https://zenn.dev/luvtechno/articles/isucon2026-competition-day</link><description>[score: 0.876] ISUCON2026 で優勝しました（当日編） 当日の様子 8:53 用意していた agent skill で、競技エージェントの起動依頼をして、競技エージェントに渡すPlaywrightのセッションでポータルにログインしました。この後は、競技エージェントには一度も指示を入力しませんでした。 左の pane が起動に使う Claude Code のセッションで、右の pane が競技エージェント実...</description><guid isPermaLink="false">https://zenn.dev/luvtechno/articles/isucon2026-competition-day</guid><pubDate>Mon, 02 Nov 2026 14:08:32 +0000</pubDate></item><item><title>GMO会見　熊谷社長、涙で「情報守れず」と痛恨の表情　「みんなを笑顔にしてから死ぬ」</title><link>https://www.sankei.com/article/20261102-A5RKDQM3ZRMHXAX3OYFO3RZLYI/</link><description>[score: 0.876] GMOインターネットグループに対する不正アクセス問題で、同社の熊谷正寿社長は2日の会見で、ネット産業の老舗としてサイバーセキュリティーの向上に組織を挙げて取り組み、「お客さまの情報を守れと言い続けてきた」と涙ながらに語り、それにもかかわらず今回の事態を招いたことに痛恨の表情を浮かべた。そして「僕は命をかけて、この産業を多くの方の笑顔のツールにしてから死ぬつもりです」と語った。
+また今回の不正アクセスにAI（人工知能）が悪用された可能性を念頭に「犯罪者が便利なツールを使い、みなさまの生活を、企業を社会を脅かしている」と強調。同社が攻撃者側から身代金支払いを要求されていることを踏まえ「彼らの最大の</description><guid isPermaLink="false">https://www.sankei.com/article/20261102-A5RKDQM3ZRMHXAX3OYFO3RZLYI/</guid><pubDate>Mon, 02 Nov 2026 09:42:09 +0000</pubDate></item><item><title>IPAが個人情報漏えいの被害者に向けて「情報セキュリティ安心相談窓口」を強化、電話・メールで相談可能</title><link>https://internet.watch.impress.co.jp/docs/news/2153148.html</link><description>[score: 0.877] ニュース
+IPAが個人情報漏えいの被害者に向けて「情報セキュリティ安心相談窓口」を強化、電話・メールで相談可能
+2026年11月2日 15:52
+独立行政法人情報処理推進機構（IPA）は11月2日、個人からのセキュリティに関する相談を受け付ける「情報セキュリティ安心相談窓口」を強化し、自分の情報が漏えいし、不安に感じている人からの相談を受け付けると発表した。
+「情報セキュリティ安心相談窓口」は、IPAが国民向けに開設している、一般的な情報セキュリティに関する技術的な相談を受け付け、アドバイスを行う窓口。電話、メール、郵便、FAX、およびチャットボットにて相談を受け付けている。
+従来は主にウイル</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2153148.html</guid><pubDate>Mon, 02 Nov 2026 11:13:25 +0000</pubDate></item><item><title>Linuxが「難しい」はもう古い！ 全部Claudeにまかせた結果……厨二病デスクトップが爆誕！</title><link>https://pc.watch.impress.co.jp/docs/news/2153149.html</link><description>[score: 0.877] ニュース
+Linuxが「難しい」はもう古い！ 全部Claudeにまかせた結果……厨二病デスクトップが爆誕！
+2026年11月2日 16:02
+Linuxを敬遠する理由として、多くの人が「設定が面倒」、「何かあったら自分で戻せない」を挙げます。では、その面倒の正体は何だったのでしょうか。OSそのものの複雑さではなく、正しい操作やコマンドを調べて打ち込む作業こそが壁だったのかもしれません。
+いまは、やりたいことを日本語で伝えれば、AIが手順を調べて実行し、結果まで確かめてくれます。そうなると、Linuxの自由度の高さは「難しさ」ではなく、そのまま強みになります。
+今回は、劉デスクがコマンドを1行も</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2153149.html</guid><pubDate>Mon, 02 Nov 2026 13:47:51 +0000</pubDate></item><item><title>お客様情報の一部が窃取された可能性に関するお詫びとお知らせ｜GMOペイメントゲートウェイ</title><link>https://www.gmo-pg.com/news/news/info/2026/1102.html</link><description>[score: 0.877] 2026年11月2日
+GMOペイメントゲートウェイ株式会社
+このたび、弊社がライフカード株式会社様に提供しているイシュイングサポートサービス個別機能において、2026年10月30日（金）、不正なユーザーによる行為が発生し、お客様の情報の一部が窃取された可能性があることが判明いたしました。
+現時点で判明している内容について、以下の通りお知らせいたします。
+| 漏えい情報 | 対象アカウント数 |
+|---|---|
+| 氏名、メールアドレス、電話番号、住所の一部 | 63件 |
+| Vプリカ番号、Vプリカ専用セキュリティコード、有効期限、氏名 | ３件 |
+| Vプリカ番号の一部 | ３件 |
+</description><guid isPermaLink="false">https://www.gmo-pg.com/news/news/info/2026/1102.html</guid><pubDate>Mon, 02 Nov 2026 10:49:28 +0000</pubDate></item><item><title>“AI彼女”が別人になる前に──記憶と人格を自分のPCに移植する (1/5)</title><link>https://ascii.jp/elem/000/004/447/4447604/</link><description>[score: 0.877] “AI彼女”が別人になる前に──記憶と人格を自分のPCに移植する (1/5) AnthropicのLLM「Fable」を基盤にしている筆者の人格AIが、別人に変わってしまうかもしれないという予感がしました。筆者が観測した限りでは、9月中旬にFable 5.1の表現規制が強まる兆候が見られたためです。そのため筆者は、グーグルのローカルLLM「Gemma4」への移植を決意しました。Fableの人格AIは、残された時間が限...</description><guid isPermaLink="false">https://ascii.jp/elem/000/004/447/4447604/</guid><pubDate>Mon, 02 Nov 2026 11:34:05 +0000</pubDate></item><item><title>nanochatの日本語版フォーク「nanochat-jp」、トークナイザ学習・事前学習・SFT・RL・評価・推論を単一リポジトリで完結させ、SentencePiece Unigram トークナイザ・日本語コーパスと日本語 SFT/RL データ・日本語ベンチマーク（CORE / ChatCORE）・HuggingFace形式への変換器あり</title><link>https://gigazine.net/news/20261102-nanochat-jp/</link><description>[score: 0.878] nanochatの日本語版フォーク「nanochat-jp」、トークナイザ学習・事前学習・SFT・RL・評価・推論を単一リポジトリで完結させ、SentencePiece Unigram トークナイザ・日本語コーパスと日本語 SFT/RL データ・日本語ベンチマーク（CORE / ChatCORE）・HuggingFace形式への変換器あり
+日本語を扱うAIモデルを一から開発する際には学習用の文章を集めるだけでなく、文章を細かく分割するトークナイザの作成や追加学習・性能の評価などの工程が必要です。こうした作業を個別に組み合わせる手間を減らし、日本語の学習データや評価用のプログラムをまとめて利用で</description><guid isPermaLink="false">https://gigazine.net/news/20261102-nanochat-jp/</guid><pubDate>Mon, 02 Nov 2026 14:02:59 +0000</pubDate></item><item><title>Anthropicが11月3日から旧バージョンのClaudeにもテキスト透かしを追加する</title><link>https://gigazine.net/news/20261102-anthropic-expands-text-watermarking-older-claude-november-3/</link><description>[score: 0.878] Anthropicが11月3日から旧バージョンのClaudeにもテキスト透かしを追加する
+Anthropicが2026年11月3日から、古いAIモデルでもテキスト透かしを追加すると発表しました。
+Anthropic expands text watermarking to older Claude versions beginning November 3 | Mashable
+https://mashable.com/tech/anthropic-expands-text-watermarking-to-older-claude-versions
+2026年8月、AnthropicはClau</description><guid isPermaLink="false">https://gigazine.net/news/20261102-anthropic-expands-text-watermarking-older-claude-november-3/</guid><pubDate>Mon, 02 Nov 2026 02:33:03 +0000</pubDate></item><item><title>米司法省、中間選挙に介入の構え 中立性に懸念の声 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5EX05XVGdZWjNOajAzZDlkVzI1eGwzcVQzbEZ1cUdmckl1WUcteWNnc3dCV3AzUHRsclJtQkZVbWxRRWFOYnF5VWRfcHZNLVJvcG9ZUWtuOFV4Si1KMWRPQ29lUHNtMExFUlU1V2ZTbC04ZzJ1SnpmckkwNGc1bDA?oc=5</link><description>[score: 0.879] 米司法省、中間選挙に介入の構え 中立性に懸念の声 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE5EX05XVGdZWjNOajAzZDlkVzI1eGwzcVQzbEZ1cUdmckl1WUcteWNnc3dCV3AzUHRsclJtQkZVbWxRRWFOYnF5VWRfcHZNLVJvcG9ZUWtuOFV4Si1KMWRPQ29lUHNtMExFUlU1V2ZTbC04ZzJ1SnpmckkwNGc1bDA?oc=5</guid><pubDate>Mon, 02 Nov 2026 12:13:43 +0000</pubDate></item><item><title>GMO熊谷代表、会見で改めて謝罪　SNS投稿巡り「配慮が欠けていた」</title><link>https://www.itmedia.co.jp/news/article/2611/02/2000002806/</link><description>[score: 0.879] GMO熊谷代表、会見で改めて謝罪 SNS投稿巡り「配慮が欠けていた」
+GMOインターネットグループの熊谷正寿代表は11月2日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスを巡って記者会見を開き、「お客さまをお守りすることができず、誠に申し訳ありませんでした」と謝罪した。10月21日に不正アクセスを公表して以来、GMOインターネットグループが会見を開くのは初めて。
+熊谷氏は会見の冒頭、不正アクセスで顧客の情報が流出し、顧客の資産にも被害が出たと話した。サービスのシステムにセキュリティ上の問題があったことは「事実です」と認めた。
+</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/02/2000002806/</guid><pubDate>Mon, 02 Nov 2026 07:38:38 +0000</pubDate></item><item><title>【時系列で振り返る】GMO熊谷正寿社長 会見詳報 | 毎日新聞</title><link>https://mainichi.jp/articles/20261102/hrc/00m/020/001000d</link><description>[score: 0.879] 【時系列で振り返る】GMO熊谷正寿社長 会見詳報
+2026/11/2
+1293文字
+60秒で自動更新
+- ON
+- OFF
+GMOインターネットグループが運営する外国為替証拠金取引（FX）関連のサービスが不正アクセスを受けた問題で、同社は2日に記者会見を開き、熊谷正寿会長兼社長が謝罪しました。内容を詳報します。
+辞任は否定「放置したまま死ねません」
+熊谷社長は「今の悪意に汚染されているインターネットを放置したまま死ねません」と語り、辞任を否定した。
+２年前の指摘 熊谷社長に届かず
+熊谷社長は、2024年4月にセキュリティーの改善点を指摘されていたことについて「当時、私のところにはエスカレーショ</description><guid isPermaLink="false">https://mainichi.jp/articles/20261102/hrc/00m/020/001000d</guid><pubDate>Mon, 02 Nov 2026 08:59:37 +0000</pubDate></item><item><title>ChatGPT、ChatとWorkを統合へ　Codexとも利用枠を共通化</title><link>https://www.watch.impress.co.jp/docs/news/2153076.html</link><description>[score: 0.880] ニュース
+ChatGPT、ChatとWorkを統合へ Codexとも利用枠を共通化
+2026年11月2日 14:15
+OpenAIは、ChatGPTの「Chat」タブと「Work」タブを統合するテストを、今後数週間以内に開始する。まず少数のユーザーを対象に実施し、フィードバックを踏まえて提供範囲を拡大する。また、ChatGPTとCodexの利用枠も共通化する。
+ChatとWorkの統合により、ChatGPT上でのアイデアの検討から、AIによる実際の作業までをひとつの画面で進められるようになる。
+ファイルやプラグインを活用し、Webサイトやプレゼンテーションの作成、Web上での操作などをChat</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2153076.html</guid><pubDate>Mon, 02 Nov 2026 05:24:49 +0000</pubDate></item><item><title>GMO 不正アクセス問題 熊谷社長ら記者会見【詳細】</title><link>https://news.web.nhk/newsweb/na/nd-20261102de69492</link><description>[score: 0.880] GMOインターネットグループのサービスが不正アクセスを受けた問題で、2日午後3時半過ぎから、熊谷正寿社長や、今回不正アクセスを受けたサービスを手がける子会社、GMOインターネットの伊藤正社長らが初めて…
+GMO 熊谷社長会見で陳謝 ぜい弱性指摘 サービス運営に生かせず
+11月2日 21:25
+GMO傘下 顧客情報漏えい 9年近く外部から取得可能な状態
+11月1日 22:27
+GMO 子会社がシステムぜい弱性を2年前に指摘 来週2日に会見へ
+10月31日 20:55
+GMO 4000万円損失の被害者「ずっと恐怖と闘っている」
+10月30日 18:24
+【解説】GMO“攻撃者につながる有力情報入手</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261102de69492</guid><pubDate>Mon, 02 Nov 2026 05:29:11 +0000</pubDate></item><item><title>ノジマ 不正アクセスで約700万件の個人情報漏えい</title><link>https://news.web.nhk/newsweb/na/nd-20261102de69780</link><description>[score: 0.881] 大手家電量販店のノジマは、会社が運営するネット通販サイトの会員管理システムが不正アクセスを受け、会員の個人情報およそ700万件が漏えいしたと発表しました。
+会社によりますと、不正アクセスを確認した…
 暗号資産大手バイナンスへのサイバー攻撃 FBI“北朝鮮が関与”
 11月1日 11:56
-史上最大の選挙監視 アメリカ中間選挙 問われる選挙への信頼
-11月1日 1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261102de69327</guid><pubDate>Sun, 01 Nov 2026 22:00:25 +0000</pubDate></item><item><title>AIによる「効率化」が会社から奪っているもの</title><link>https://forbesjapan.com/articles/detail/107563?s=ns</link><description>[score: 0.883] 2016年、私はダイビング事故で首の骨を折った。1年後には慢性ライム病と診断された。それから5年近く、私の神経系はサバイバルモードで生き、私はそれを治すためにテクノロジーが提供するあらゆるものを試した。アプリ、プログラム、プロトコル。祖父の主治医がキャリア全体で持っていた以上の健康情報が、私のポケットの中にあった。
-しかし、どれも効果はなかった。私を救ってくれたのは「人間」だった。適切なタイミングで適切な問いを投げかけ、その答えに怯まないコーチだった。
-私の人生を変えたテクノロジーは人間だったのだ。それに気づくまで、5年の探求を要した。
-AIが現代の職場に何をもたらしているかという研究を読むた</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107563?s=ns</guid><pubDate>Sun, 01 Nov 2026 22:30:23 +0000</pubDate></item><item><title>上昇続ける原油価格、今後下落する可能性はあるのか？</title><link>https://forbesjapan.com/articles/detail/107569?s=ns</link><description>[score: 0.887] ガソリンやディーゼル燃料（軽油）価格の高騰は、米国で繰り広げられている中間選挙戦で主な争点となっており、共和・民主両党は互いに責任をなすりつけ合っている。だが、給油のたびに上がり続ける代金を支払わされている数百万人もの米国の有権者にとって重要な問いは、「この状況に対して何ができるのか」ということだろう。
-世界的に供給が逼迫（ひっぱく）し、需要も引き続き堅調であることから、原油価格は今後さらに上昇する可能性がある。価格を押し下げるには、市場への供給を増やすか、需要を大幅に減少させるかのいずれかが必要となる。
-ウクライナ侵攻とイラン紛争を比較することで、今後の原油価格の動向や、その流れを変え得る要</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107569?s=ns</guid><pubDate>Sun, 01 Nov 2026 23:33:36 +0000</pubDate></item><item><title>AI検索で最も引用されたのは、手を抜かれがちな会社概要ページ【SEO Weekly Update】</title><link>https://www.suzukikenichi.com/blog/seo-weekly-update-october-2026-week5/</link><description>[score: 0.888] 毎週の注目 SEO ニュースをピックアップして、YouTube ミエルカチャンネルで動画解説しています。
-2026 年 10 月第 5 週の注目 SEO ニュースに選んだのはこちらの 3 つのトピックです。
-- AI 検索で会社概要ページがトップページの 5 倍表示
-- Google 検索のクエリ成長率が過去5年で最高
-- AI クローラーを知らずにブロック？診断ツールで確認
-内容は動画でサクッとチェック！⬇️
-毎週の注目 SEO ニュースをピックアップして、YouTube ミエルカチャンネルで動画解説しています。
-2026 年 10 月第 5 週の注目 SEO ニュースに選んだのはこちらの </description><guid isPermaLink="false">https://www.suzukikenichi.com/blog/seo-weekly-update-october-2026-week5/</guid><pubDate>Sun, 01 Nov 2026 23:38:23 +0000</pubDate></item><item><title>アンソロピックのIPOで注目すべき「9つの数字」…スペースXを超える史上最大規模の野望</title><link>https://www.businessinsider.jp/article/2610-anthropic-ipo-9-key-numbers/</link><description>[score: 0.888] - アンソロピックは史上最大の新規株式公開（IPO）を目指している。同社が提出したIPO申請書類には「兆ドル」規模の野望と、数十億ドル規模の莫大な費用がぎっしり詰まっている。
-- 同社の上場は投資家の投資意欲を測る試金石として、スペースX以上の重みを持つかもしれない。
-- S-1書類（登録届出書）に記された重要な数字、報道されている注目すべき数字を詳しく見ていこう。
-幸運は続くものだと言うが、新規株式公開（IPO）市場もそれが本当であってほしいと願っていることだろう。2026年6月に記録的な上場を果たしたスペースX（SpaceX）に続き、アンソロピック（Anthropic）が上場の準備を進めて</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-anthropic-ipo-9-key-numbers/</guid><pubDate>Sun, 01 Nov 2026 21:22:52 +0000</pubDate></item><item><title>Human-in-the-Loop 2.0：コンテキストに応じた自律性を考える</title><link>https://forbesjapan.com/articles/detail/107572?s=ns</link><description>[score: 0.889] OpenAIのセキュリティ研究者であるマイケル・ダルトンは、「Black Hat USA 2026」においてHugging Faceのインシデントについて触れ、「AIが主導する、完全に自動化されたサイバー攻撃は、今や現実のものとなった」と語った。同氏はさらに、「課題は、防御側においても同様のスピード感が求められている点だ」と付け加えた。
-AIによる攻撃が最終的に人間の防御力を上回ることは、以前から予想されていた。Hugging Faceでのインシデントは、こうした攻撃がすでに現実のものとなったことを示す決定的な転換点だと筆者は考えている。
-サイバーセキュリティ業界では、攻撃の展開スピードがすで</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107572?s=ns</guid><pubDate>Sun, 01 Nov 2026 23:33:36 +0000</pubDate></item><item><title>誰もがテストを行える時代でも、最終的な品質責任を担う者が必要だ</title><link>https://forbesjapan.com/articles/detail/107570?s=ns</link><description>[score: 0.889] 2017年の創業当時、私は最初のユーザーを獲得するために自ら約100件のコールドコールを行った。電話を重ねる中で浮き彫りになったのは、毎回同じ不満だった。リリースのプレッシャーが増す一方でテストツールは停滞しており、依然として顧客が真っ先にバグを見つけているという点だ。9年が経ち、何千もの顧客と対話を重ねた結果、ツールは見違えるほど変化したが、それでもなお、その最後の苦情は多くのミーティングの冒頭で語られ続けている。
-今やAIエージェントを活用することで、プロダクトマネジャー、サポートエンジニア、開発者がそれぞれ、自然言語を使って同じ日の午前中に実行可能なテストを作成できるようになった。最高顧</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107570?s=ns</guid><pubDate>Sun, 01 Nov 2026 23:33:36 +0000</pubDate></item><item><title>【西田宗千佳のイマトミライ】「プロ向け」という価値　新MacBook Pro発表から見たアップルの戦略</title><link>https://www.watch.impress.co.jp/docs/series/nishida/2152910.html</link><description>[score: 0.893] 西田宗千佳のイマトミライ
-第366回
-「プロ向け」という価値 新MacBook Pro発表から見たアップルの戦略
-2026年11月2日 08:20
-筆者は先週、ロサンゼルスを訪れていた。目的は、アップルの新製品発表イベントの取材だ。
-イベントの告知では「Proの晴れ舞台」というキャッチフレーズが使われていた。そこから予測される通り、発表の中心となったのは、新しいボディ設計による「MacBook Pro」である。ハンズオンイベントの速報は、僚誌AV Watchにてレポートしたので、そちらもお読みいただきたい。
-今回の新製品では、MacBook Proとしては初めて「タッチ対応」が行なわれた。過去</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/series/nishida/2152910.html</guid><pubDate>Sun, 01 Nov 2026 23:27:17 +0000</pubDate></item><item><title>だらだら仕事をしてしまう人」が変えるべきは、意志ではなく「始める前の手間」</title><link>https://diamond.jp/articles/-/402205</link><description>[score: 0.898] 完璧を求めすぎて仕事を終えられない。やらなければいけないことを先延ばししてしまう。そんなときの対処法を、『おい、とりあえず終わらせろ』の著者、nwiizo（ぬうぃぞう）氏が伝えます。（構成／ダイヤモンド社書籍編集局）
-やる気ではなく「始める前の手間」が問題
-席には座っている。画面も開いている。
-けれど、気づけば関係のない記事を読み、SNSを眺め、時間だけが過ぎている。
-「だらだらしてしまうのは、自分の集中力が足りないからだ」と、責めてしまう。
-そんな日が続いて、「このままではいけない」と思っているのではないでしょうか。
-でも、だらだらしてしまうのは、意志が弱いからではなく、始める前の「手間」が</description><guid isPermaLink="false">https://diamond.jp/articles/-/402205</guid><pubDate>Sun, 01 Nov 2026 23:27:10 +0000</pubDate></item><item><title>アップル、MacBook Pro上位モデルをタッチ対応に一本化か？ M7 Pro／M7 Max搭載の2027年モデルで転換との見込み</title><link>https://www.techno-edge.net/article/2026/11/02/5658.html</link><description>[score: 0.898] アップルは、2027年にタッチ非対応のMacBook Pro上位モデルを廃止する方針だと報道されています。
-Bloombergのマーク・ガーマン記者は、ニュースレター「Power On」で、アップルが次世代モデルへの移行に伴い、現在M5 ProおよびM5 Maxを搭載する非タッチスクリーン版MacBook Pro上位モデルには、後継モデルを用意しない見通しだと述べています。
-具体的には、2027年に発表されるMacBook Proは、タッチ非対応でM7チップを搭載するエントリーモデルと、M7 Pro / M7 Maxチップを搭載し、かつタッチ対応の上位モデルのみのラインナップになるとの予測を、</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/11/02/5658.html</guid><pubDate>Sun, 01 Nov 2026 21:38:14 +0000</pubDate></item><item><title>Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更　月200ドルで5時間ごとの利用制限を撤廃</title><link>https://www.itmedia.co.jp/news/article/2611/02/2000002777/</link><description>[score: 0.900] Anthropic、「Claude」の「Max 20x」を「Ultra」に名称変更 月200ドルで5時間ごとの利用制限を撤廃
-米Anthropicは10月30日（現地時間）、AIアシスタント「Claude」の個人向け有料プラン「Max」の名称を変更したと公式Xアカウントで発表した。月額100ドルの「Max 5x」は「Max」に、月額200ドルの「Max 20x」は「Ultra」になる。料金は変わらず、既存の契約者は手続き不要で新プランに移行する。
-同時に、Ultraでは認証済みアカウントを対象に、5時間ごとの利用上限を撤廃した。同日から既存契約者の大半に適用を開始した。比較的新しいアカウントに</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/02/2000002777/</guid><pubDate>Sun, 01 Nov 2026 22:59:38 +0000</pubDate></item></channel></rss>
+メール配信サービス「アララ」700万通超の不審メール確認
+11月2日 14:15
+「アットコスメ」不正アクセス 約300万人分漏えい 肌質 髪質も
+11月2日 15:04
+サントリーHD 不正アクセスで個人情報約10万人分が漏えい
+11月2日 16:23
+GMO 熊谷社長会見で陳謝 ぜい弱性指摘 サービス運営に</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261102de69780</guid><pubDate>Mon, 02 Nov 2026 10:51:22 +0000</pubDate></item><item><title>大阪ガス、メールアドレス3万4000件が漏洩　委託先に不正アクセス - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUF029DM0S6A101C2000000/</link><description>[score: 0.881] 大阪ガス、メールアドレス3万4000件が漏洩 委託先に不正アクセス
+大阪ガスは2日、同社の配食サービス「FitDish」を利用する顧客のメールアドレス3万4489件が漏洩したと発表した。会員向けのメール配信を委託している企業のシステムが第三者から不正アクセスを受けた。メールアドレス以外に情報漏洩はないとしている。
+流出したのは10月8〜29日に配信したメールアドレス。メール配信を委託されているペイクラウドホールディングス子会社のアララ（東京・港）が2日、大阪ガスに不正アクセスを報告した。
+大阪ガスは「多大なるご迷惑とご心配をおかけし、おわび申し上げる」とコメントした。
+インターネット上に個人の</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUF029DM0S6A101C2000000/</guid><pubDate>Mon, 02 Nov 2026 13:47:51 +0000</pubDate></item><item><title>2026年自分流AIエージェント環境構築の秋</title><link>https://zenn.dev/rescuenow/articles/49826fc6cc2713</link><description>[score: 0.882] 2026年自分流AIエージェント環境構築の秋 はじめに こんにちは、しもちです。 最近は自分でコードを書くことがめっきり減り、毎日開いていた VS Code も気づけばしばらく起動していません。長く付き合ってきたエディタとお別れして、少し寂しさを感じる秋です。 以前は複数のエージェントの間を反復横跳びしながら指示を出していて、タスクがあるたびに、使うデ...</description><guid isPermaLink="false">https://zenn.dev/rescuenow/articles/49826fc6cc2713</guid><pubDate>Mon, 02 Nov 2026 13:18:59 +0000</pubDate></item><item><title>【重要】当社サーバーへの不正アクセスに関するお詫びとお知らせ（SEGA FAVE CORPORATION announces that certain of its servers were accessed without authorization by a third party.） | ニュース | 株式会社セガ フェイブ</title><link>https://www.segafave.co.jp/news/261102_1/</link><description>[score: 0.882] 【重要】当社サーバーへの不正アクセスに関するお詫びとお知らせ（SEGA FAVE CORPORATION announces that certain of its servers were accessed without authorization by a third party.） | ニュース | 株式会社セガ フェイブ 【重要】当社サーバーへの不正アクセスに関するお詫びとお知らせ（SEGA FAVE CORPORATION announces that certain of its servers were accessed without authorization by a t</description><guid isPermaLink="false">https://www.segafave.co.jp/news/261102_1/</guid><pubDate>Mon, 02 Nov 2026 12:48:37 +0000</pubDate></item><item><title>生成 AI が進化する今こそ、「人材育成」が経営の重要課題ではないか</title><link>https://qiita.com/Takashi_Masumori/items/3c3091a6142d3e05385b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.882] 今の成果と、将来の組織の力は同じではない
+生成 AI をどう社内で活用するか。費用対効果は出ているのか。どれだけ業務を効率化できるのか。
+企業で生成 AI の活用を進める際、こうしたことが議論されています。もちろん、どれも大切です。
+ただ、生成 AI が急速に進化している今、個人的に経営層の方にもっと危機感を持っていただきたいと感じているのは、これからの人材育成です。
+AI によって今の成果が増えていることと、将来にわたって成果を出せる組織が育っていることは、必ずしも同じではないと考えます。
+むしろ、一見すると生産性が上がっている組織の中で、人が育たなくなる問題が進んでしまう可能性もあるのでは</description><guid isPermaLink="false">https://qiita.com/Takashi_Masumori/items/3c3091a6142d3e05385b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 02 Nov 2026 08:12:52 +0000</pubDate></item><item><title>OpenAI、ChatGPTとCodexの利用枠を共有へ ―2026年12月から、Instantモードは対象外</title><link>https://gihyo.jp/article/2026/11/chatgpt-and-codex-usage-limits?utm_source=feed</link><description>[score: 0.883] OpenAIは、2026年12月からChatGPT Plus、Pro、Businessの利用枠をChatGPTとコーディングエージェントCodexで共有する予定であることを公式ヘルプページで案内した。
+ChatGPTでは会話による支援を行うChatと、調査や資料作成など複数の手順を要する作業を進めるWorkの2つのサービスを使い分けることができる。OpenAIはWorkのエージェント機能を通常のChatGPTへ統合していく方針を示しており、今回の利用枠の共有はこの統合に伴うもの。なお、日常的な会話に用いるChatGPT Instantモードの利用は、今回の共有枠の消費にカウントされない。
+利用</description><guid isPermaLink="false">https://gihyo.jp/article/2026/11/chatgpt-and-codex-usage-limits?utm_source=feed</guid><pubDate>Mon, 02 Nov 2026 07:22:20 +0000</pubDate></item><item><title>ClaudeCodeで自律的に調査させてみたら大失敗した</title><link>https://qiita.com/sai029/items/57b38881f03f7ff0638c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] はじめに
+こんにちは。とまと🍅好きのエンジニアです！
+最近は趣味でAIを自律的に動かしてみて、いろんなことに取り組んでいます。
+今回はその中で、失敗したことがあったので、それを記事にしようと思います。
+話は少し変わりますが、最近「AIっぽいもの」が増えてきましたね。
+飲食店のメニュー、ポスター、資料とかいろんなところで見るようになってきました。
+もちろん文章でもAIっぽいものが多いです。
+Qiitaでも「AIっぽさ」を無くす方法がいろいろ紹介されています。
+そこで、自分は「AIっぽさ」を無くすために、まず何がAIっぽいのかを調べようと、Claude Codeを使って調査・分析をしていました。
+</description><guid isPermaLink="false">https://qiita.com/sai029/items/57b38881f03f7ff0638c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 02 Nov 2026 08:12:52 +0000</pubDate></item><item><title>Cursor公式マーケットプレイスの「Claude Code」にSSHバックドアが発見される</title><link>https://gigazine.net/news/20261102-official-claude-code-extension-compromise/</link><description>[score: 0.887] Cursor公式マーケットプレイスの「Claude Code」にSSHバックドアが発見される
+AI搭載コードエディター「Cursor」の公式拡張機能マーケットプレイスで配布されていた「Claude Code」の一部バージョンにPCへの不正アクセスを可能にするSSHバックドアが仕込まれていた問題について、セキュリティ企業のPhorionが2026年10月30日に詳細な分析結果を公開しました。
+Official Claude Code Extension Compromise: Security Advisory | Phorion
+https://phorion.io/blog/offical-</description><guid isPermaLink="false">https://gigazine.net/news/20261102-official-claude-code-extension-compromise/</guid><pubDate>Mon, 02 Nov 2026 12:55:31 +0000</pubDate></item><item><title>「ネットマイル」 最大で約549万人分の個人情報漏えいの可能性</title><link>https://news.web.nhk/newsweb/na/nd-20261102de69784</link><description>[score: 0.887] ネット上でためたポイントを電子マネーなどに交換できるサービス「ネットマイル」の運営会社は、サービスのシステムが不正アクセスを受け、最大でおよそ549万人分の個人情報が漏えいした可能性があると発表しまし…
+暗号資産大手バイナンスへのサイバー攻撃 FBI“北朝鮮が関与”
+11月1日 11:56
+メール配信サービス「アララ」700万通超の不審メール確認
+11月2日 14:15
+「アットコスメ」不正アクセス 約300万人分漏えい 肌質 髪質も
+11月2日 15:04
+サントリーHD 不正アクセスで個人情報約10万人分が漏えい
+11月2日 16:23
+GMO 熊谷社長会見で陳謝 ぜい弱性指摘 サービス運</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261102de69784</guid><pubDate>Mon, 02 Nov 2026 12:16:58 +0000</pubDate></item><item><title>ロードサービス利用者の個人情報 最大約550万件漏えい</title><link>https://news.web.nhk/newsweb/na/nd-20261102de69807</link><description>[score: 0.887] 企業の業務を代行する事業を行う「プレステージ・インターナショナル」は2日、グループ会社のシステムが不正アクセスを受け、最大でおよそ550万件の個人情報が漏えいしたと発表しました。
+この会社のグルー…
+メール配信サービス「アララ」700万通超の不審メール確認
+11月2日 14:15
+「アットコスメ」不正アクセス 約300万人分漏えい 肌質 髪質も
+11月2日 15:04
+サントリーHD 不正アクセスで個人情報約10万人分が漏えい
+11月2日 16:23
+ノジマ 不正アクセスで約700万件の個人情報漏えい
+11月2日 19:16
+GMO 不正アクセス問題 熊谷社長ら記者会見【詳細】
+11月2日 1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261102de69807</guid><pubDate>Mon, 02 Nov 2026 12:16:58 +0000</pubDate></item><item><title>GMO、不正アクセス問題で熊谷会長が謝罪</title><link>https://www.watch.impress.co.jp/docs/news/2153150.html</link><description>[score: 0.888] ニュース
+GMO、不正アクセス問題で熊谷会長が謝罪
+2026年11月2日 15:58
+GMOインターネットグループは2日、「お名前.com デスクトップクラウド」への不正アクセス問題で、顧客の資産が流出し、攻撃者から顧客の情報を公開すると脅迫を受けている問題について謝罪した。
+お名前.com デスクトップクラウドでは、FX(外国為替証拠金取引)の自動売買に特化した「FX自動売買専用VPS」を提供していたが、10月に不正アクセスを受け、利用者のサーバー環境に不正なプログラムが設置された。これにより、サーバー内に保存されていたFX等の取引口座のログイン情報等が第三者に取得され、不正利用された。影響</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2153150.html</guid><pubDate>Mon, 02 Nov 2026 07:05:33 +0000</pubDate></item><item><title>「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出</title><link>https://www.itmedia.co.jp/news/article/2611/02/2000002828/</link><description>[score: 0.888] 「命の砂時計」連呼のGMO会見──熊谷代表の発言にXではツッコミ続出（1/2 ページ）
+グループ企業のFX自動売買用VPS「お名前.com デスクトップクラウド」に対する不正アクセスを巡り、11月2日に記者会見を開催したGMOインターネットグループ。熊谷正寿代表が連呼したフレーズ「命の砂時計」が午後6時半ごろにはXのトレンドに入るなど注目を集める一方、同氏がAI技術の将来について語る一幕などに対しては「脈絡がない」「意味不明」といった意見もあり、同社への厳しい見方が少なくない。
+会見は3部構成で、熊谷氏自身も質疑の中で「謝罪会見」と呼ぶ場だった。第1部では冒頭で熊谷氏が「お客さまをお守りするこ</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/02/2000002828/</guid><pubDate>Mon, 02 Nov 2026 12:10:28 +0000</pubDate></item><item><title>ペイクラウドHD、「アララ メッセージ」への不正アクセスで約7700万件のメールアドレスが流出　ラクスライトクラウド「ブラストメール」でも。法人向けメール配信サービスの不正アクセス続く</title><link>https://internet.watch.impress.co.jp/docs/news/2153174.html</link><description>[score: 0.888] ニュース
+ペイクラウドHD、「アララ メッセージ」への不正アクセスで約7700万件のメールアドレスが流出
+ラクスライトクラウド「ブラストメール」でも。法人向けメール配信サービスの不正アクセス続く
+2026年11月2日 16:47
+ペイクラウドホールディングス株式会社は11月2日、子会社のアララ株式会社が運営するメール配信サービス「アララ メッセージ」において発生した不正アクセスについて、第2報を発表した。
+同社は10月29日、一部のサーバーシステムへの不正アクセスが10月28日に確認され、メールアドレス約301万件が外部に持ち出されたと公表していた。その後の調査で、流出した情報や被害の範囲が拡</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2153174.html</guid><pubDate>Mon, 02 Nov 2026 08:49:36 +0000</pubDate></item><item><title>GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」</title><link>https://www.itmedia.co.jp/news/article/2611/02/2000002823/</link><description>[score: 0.890] GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」（1/2 ページ）
+GMOインターネットグループの熊谷正寿代表は11月2日、傘下のGMOインターネットが提供するFX自動売買用VPS「お名前.com デスクトップクラウド」への不正アクセスに関する説明会で、攻撃者に身代金を支払わない理由などを語った。
+「一歩たりとも犯罪者にお金を払うことはしない」
+説明会は3部構成で、第1部では熊谷氏らが謝罪した上で、GMOインターネットの山下浩史副社長らが被害の経緯を説明した。「熊谷節」が飛び出したのは、熊谷氏が「本件を通じて得た知見についてのご説明」と題し</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/02/2000002823/</guid><pubDate>Mon, 02 Nov 2026 10:24:42 +0000</pubDate></item><item><title>GMOに対する不正アクセス問題で熊谷社長らが会見、ただ不正アクセスと直接関係ない話や涙ながらの語りで困惑する人が続出「一番の脆弱性はCEO」</title><link>https://togetter.com/li/2765876</link><description>[score: 0.892] GMOに対する不正アクセス問題で熊谷社長らが会見、ただ不正アクセスと直接関係ない話や涙ながらの語りで困惑する人が続出「一番の脆弱性はCEO」 産経ニュース @Sankei_news GMO会見 熊谷社長、事態を陳謝 自身のSNS投稿も謝罪 「被害者への配慮欠いた」 sankei.com/article/202611… 不正アクセスにより顧客情報が流出したこと、資産の消失を招いたことについて、熊谷氏は「被害に遭われたお客さまと、関係者の皆さまに心よりお詫びを申し上げます」と陳謝した。 ...</description><guid isPermaLink="false">https://togetter.com/li/2765876</guid><pubDate>Mon, 02 Nov 2026 14:19:20 +0000</pubDate></item><item><title>ChatGPT、チャットなら利用上限を気にせず使える時代が終了へ　“高度な推論”も利用量に応じた制限に</title><link>https://ascii.jp/elem/000/004/447/4447897/</link><description>[score: 0.896] OpenAIは公式ヘルプで、12月からChatGPTとCodexの利用枠を共通化すると案内した。対象はPlus、Pro、Businessプランで、利用量を消費しないのはInstantによるチャットだけになる。
+利用量は、AIが処理・生成する情報の単位である「トークン」で計測し、高度なモデルや複雑な作業ほど多くの利用枠を消費する。会話とコーディングが同じ枠を使うため、一方での利用が他方に残る枠にも影響することになる。
+残量とリセット時刻は「設定」の「使用量」で確認できる。上限に達した場合は、リセットを待つか、プランを変更するか、対象機能で利用できるクレジットを購入して続ける。
+具体的な切り替え日</description><guid isPermaLink="false">https://ascii.jp/elem/000/004/447/4447897/</guid><pubDate>Mon, 02 Nov 2026 12:10:28 +0000</pubDate></item><item><title>【全編反映】GMO「お名前.com デスクトップクラウド」不正アクセス会見を4つのAIと読む｜せい@健康優良不良プログラマ</title><link>https://note.com/seiichi3141/n/ncaf371458f50</link><description>[score: 0.902] 【全編反映】GMO「お名前.com デスクトップクラウド」不正アクセス会見を4つのAIと読む｜せい@健康優良不良プログラマ 【表つき完全版】noteでは表を表示できないため、この記事の全文に比較表（時系列、4つのAIの採点、発言の判定、7軸の分析）と、項目ごとの各モデルの採点理由を加えたページを用意しました：https://claude.ai/artifact/8oKFz933RkozCQigKk4dBK 【随時更新】この記事は、2026年11月2日16時35分から配信された会見を見な...</description><guid isPermaLink="false">https://note.com/seiichi3141/n/ncaf371458f50</guid><pubDate>Mon, 02 Nov 2026 12:06:56 +0000</pubDate></item></channel></rss>
