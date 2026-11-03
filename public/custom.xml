@@ -1,158 +1,135 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 03 Nov 2026 13:16:31 +0000</lastBuildDate><item><title>憲法公布80年 改憲派・護憲派がそれぞれ集会</title><link>https://news.web.nhk/newsweb/na/nd-20261103de70027</link><description>[score: 0.865] いまの憲法が公布されてから80年となる3日、憲法改正を求める立場の人たちや、憲法を守る立場の人たちがそれぞれ集会を開きました。
-憲法改正など掲げる団体が講演会
-憲法改正などを掲げる民間団体「日本…
-「被爆マリア像」渡米前に会見 「核兵器廃絶祈りの旅に」 長崎
-11月3日 14:58
-皇居で文化勲章の親授式
-11月3日 14:40
-「世界津波の日」前に南海トラフ巨大地震想定し訓練 和歌山
-11月3日 15:07
-脚本家の倉本聰さん 「北の国から」富良野でお別れの会 北海道
-11月3日 12:13
-イランへの軍事作戦がもたらした与党・共和党への逆風
-江戸時代のUFO？“うつろ舟” 200年の謎がつ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de70027</guid><pubDate>Tue, 03 Nov 2026 10:10:18 +0000</pubDate></item><item><title>「バイナンス」へのサイバー攻撃 AI使った新たな手口か</title><link>https://news.web.nhk/newsweb/na/nd-20261103de69892</link><description>[score: 0.865] 日本円で9900億円が影響を受けた暗号資産の取引所「バイナンス」へのサイバー攻撃に関与したとされる北朝鮮の攻撃グループが、一連の攻撃にAIによる新たな手法を使っていたと見られることが、暗号資産の分析会…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 03 Nov 2026 21:09:21 +0000</lastBuildDate><item><title>【特集】 メモリ価格高騰の鍵を握る中国CXMTとは？DDR5全振りの国策DRAM企業</title><link>https://pc.watch.impress.co.jp/docs/topic/feature/2132976.html</link><description>[score: 0.857] 特集
+メモリ価格高騰の鍵を握る中国CXMTとは？DDR5全振りの国策DRAM企業
+2026年8月17日 06:21
+最近、中国のメモリメーカーであるCXMT(ChangXin Memory Technologies)が話題になることが多い。今年のCOMPUTEXにおいては複数のDIMMモジュールベンダーがCXMTのDDR5を搭載した製品を展示しており、その後もAppleの急接近や7月27日のIPO(新規公開株)など話題は多い。
+そしてPC向けでいえば、MSIが7月付けで同社製品にCXMT製DDR5への対応を追加したことを発表しているなど、いろいろ話題には事欠かない。そこで、そもそもCXMTとは</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2132976.html</guid><pubDate>Tue, 03 Nov 2026 15:18:29 +0000</pubDate></item><item><title>ＥＣＢ、12月の追加利上げ「ほぼ不可避」＝独連銀総裁 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPbnFiRldmODA5cWlCM29ZTnZ3S0NlY010Tm9XRnBjOVVzNWQ0NXE1SllrUG1mRnl3cG1udy1iaU40aDFDSEFIZU5NUlhvSE9uVG8zY0RRbWhkSndsWml0dEpkbE9xRjFqazBoM1FPbTdEby00RzFNeW1oREltLXN1OGl6MjFwQQ?oc=5</link><description>[score: 0.858] ＥＣＢ、12月の追加利上げ「ほぼ不可避」＝独連銀総裁 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxPbnFiRldmODA5cWlCM29ZTnZ3S0NlY010Tm9XRnBjOVVzNWQ0NXE1SllrUG1mRnl3cG1udy1iaU40aDFDSEFIZU5NUlhvSE9uVG8zY0RRbWhkSndsWml0dEpkbE9xRjFqazBoM1FPbTdEby00RzFNeW1oREltLXN1OGl6MjFwQQ?oc=5</guid><pubDate>Tue, 03 Nov 2026 20:59:44 +0000</pubDate></item><item><title>防御側の LLM 活用：ログ分析・アラート一次対応・脅威インテリジェンスで「ログを入力として疑う」設計</title><link>https://qiita.com/shalXXXX/items/5920c6ba75c2f1203f1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.861] SOC（セキュリティ監視の現場）でも、LLM にログを要約させる、アラートの一次判定をさせる、脅威レポートから IoC（侵害の痕跡となる IP アドレスやドメイン）を抜き出させる、といった使い方が広がっています。件数の多い作業を減らせる一方で、防御側の LLM には特有の弱点があります。読ませるログの中身を、攻撃者が書けることです。
+この記事では、防御側で LLM を使う 3 つの場面について、公開研究で分かっている弱点と、モデルの出力を元データと機械的に突き合わせる実装例を示します。
+検証環境と前提
+- Python 3.13.18、標準ライブラリのみ（クラウド上の Linux コンテナ）
+</description><guid isPermaLink="false">https://qiita.com/shalXXXX/items/5920c6ba75c2f1203f1b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 03 Nov 2026 20:24:25 +0000</pubDate></item><item><title>日経トレンディ「2026年ヒット商品ベスト30」　この1年で売れたものは</title><link>https://xtrend.nikkei.com/atcl/contents/18/01506/00001/</link><description>[score: 0.861] 物価高騰に消費者が悲鳴を上げている――。「インフレ疲れ」で様々なストレスにさらされる世相を反映するように、2026年のヒット商品は「高くて良い物」ではなく、支出を抑えながらも「小さな幸せを得られる物（ポケット消費）」が多かった。30商品・サービスのランキングを一挙に無料公開する。
+2026年ヒット商品ベスト30
+- 閲覧中第1回
+- 日経トレンディ「2026年ヒット商品ベスト30」 この1年で売れたものは
+2026年の消費マインドを最も表していたのが、「目印チャーム」（1位）や「ボンボンドロップシール」（3位）に代表される、低価格かつキャラクターIP（知的財産）とコラボした商品。価格以上に「推</description><guid isPermaLink="false">https://xtrend.nikkei.com/atcl/contents/18/01506/00001/</guid><pubDate>Tue, 03 Nov 2026 19:53:17 +0000</pubDate></item><item><title>【AWS】GitHubのトラフィックを定期的に集計するダッシュボードを作ってみた</title><link>https://qiita.com/yakumo_09/items/e3a3235210220486621d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.862] はじめに
+GitHub のリポジトリには Insights → Traffic という画面があって、ビュー数やクローン数を見られます。ただ、見られるのは直近14日分だけです。
+そこで、トラフィックを毎日集計して DynamoDB に貯め、累計をダッシュボードで見られるようにしてみました。
+作っている途中でいくつか落とし穴があったので、その辺りも含めて書いていきます。
+GitHubのトラフィックとは
+GitHub の REST API には、トラフィックを取るエンドポイントが4つあります。
+| 取れるもの | API | 中身 |
+|---|---|---|
+| ビュー数 | GET /repo</description><guid isPermaLink="false">https://qiita.com/yakumo_09/items/e3a3235210220486621d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 03 Nov 2026 20:24:25 +0000</pubDate></item><item><title>ISUCON2026 で 4位でした - Route54</title><link>https://goccy54.hatenablog.com/entry/2026/11/03/172808</link><description>[score: 0.862] ISUCON は過去に4回ほど経験があるのですが、今回はかなり久しぶりの参戦になりました。チームメンバーのライフステージが変化し、自分も2歳の子供がいるので今回も見送ろうと思っていたのですが、ありがたいことに会社のスポンサー枠があるとのことで急遽その枠を使わせていただきました。
+そんな状態だったのでチームメンバーを集めることなく今回は一人で出ることを決め、環境セットアップのために期限当日に aws にログインしてみたらアカウントがロックされていて EC2 インスタンスが起動できず、サポートに問い合わせるも期限に間に合わずという感じで、幸先が悪いスタートとなってしまいました。
+ISUCON当日は</description><guid isPermaLink="false">https://goccy54.hatenablog.com/entry/2026/11/03/172808</guid><pubDate>Tue, 03 Nov 2026 14:20:50 +0000</pubDate></item><item><title>拒食症・過食症が世界で71%増、専門家はGLP-1薬の誤用に警鐘</title><link>https://www.technologyreview.jp/s/394195/eating-disorders-are-on-the-rise-glp-1s-could-make-things-worse/</link><description>[score: 0.862] You need to enable JavaScript to run this app.</description><guid isPermaLink="false">https://www.technologyreview.jp/s/394195/eating-disorders-are-on-the-rise-glp-1s-could-make-things-worse/</guid><pubDate>Tue, 03 Nov 2026 21:04:52 +0000</pubDate></item><item><title>旧統一教会 ハン・ハクチャ総裁 指定の病院離れ保釈取り消し</title><link>https://news.web.nhk/newsweb/na/nd-20261103de70061</link><description>[score: 0.862] 韓国で政治資金法違反などの罪で実刑判決を受けた旧統一教会のトップ、ハン・ハクチャ（韓鶴子）総裁が、治療を理由に保釈されていたにもかかわらず指定された病院を離れて教団施設を訪れていたとして、裁判所は3日…
 あわせて読みたい
-世界的な暗号資産取引所へのサイバー攻撃 北朝鮮が関与否定
-11月3日 10:10
-暗号資産大手バイナンスへのサイバー攻撃 FBI“北朝鮮が関与”
-11月1日 11:56
-“過去最大級被害”暗号資産大手バイナンス 複雑な攻撃あった
-10月31日 9:21
-暗号資産の「バイナンス」に不正アクセスか 影響額 約9900億円
-10月30日 22:49
-GMO 不正アクセス問題 熊谷社</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de69892</guid><pubDate>Tue, 03 Nov 2026 03:03:18 +0000</pubDate></item><item><title>純粋な疑問なんだが、左派の人たちってなんで「日本人が差別されている問..</title><link>https://anond.hatelabo.jp/20261103133112</link><description>[score: 0.866] 純粋な疑問なんだが、左派の人たちってなんで「日本人が差別されている問題」には示し合わせたようにダンマリなの？
-差別そのものを悪として戦っているなら、被害者が日本人であれ外国人であれ同じように怒るのが筋だろ。なのに日本人に対するヘイトや逆差別になった途端、途端にスルーするか「差別ではない」と苦しい理屈を捏ねくり回す。
-そんな態度を見せられたら、誰だってこう思うんだよ。
-「この人たちは差別を無くしたいんじゃない。嫌いな相手に合法的に石を投げたいから『差別』という便利な武器を使ってるだけだろ」ってな。
-もし反論があるなら、一度自分の胸に手を当てて静かに問いかけてみてほしいわ。
-本当に「差別」と戦って</description><guid isPermaLink="false">https://anond.hatelabo.jp/20261103133112</guid><pubDate>Tue, 03 Nov 2026 12:16:21 +0000</pubDate></item><item><title>ADRをregoでlintする</title><link>https://zenn.dev/babarot/articles/regomark-adr-checker</link><description>[score: 0.866] AIが書くADRのフォーマットをどう揃えるか 自分のリポジトリでは、設計の決定を ADR（Architecture Decision Records）として docs/adr/ に残している。最近は、その ADR の多くを Claude Code に書いてもらっている。決定を相談して、「これを ADR にしておいて」と頼むと書いてくれる。 ただ、AI に書かせた ADR は、少しずつ自由になっていく。テンプレートを置いて書き方を指示していても、ずれるときはずれる。たとえば、 Decision に、画面のメニュー項目の一覧や定数、構造体の定義まで書いてある。仕様書に近づいて、コードを...</description><guid isPermaLink="false">https://zenn.dev/babarot/articles/regomark-adr-checker</guid><pubDate>Tue, 03 Nov 2026 11:47:32 +0000</pubDate></item><item><title>watsonx.aiのLLMで作ったAIヘルプデスクRAGをフロンティアモデルで評価・改善する</title><link>https://qiita.com/mizuk1013/items/e09acc41e1445b9fa7ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.867] 0. はじめに
-今回作成したのは、製造業の情報システム部門で利用することを想定した、社内IT問い合わせ向けのRAGサンプルアプリケーションです。
-このテーマを選んだ理由は2つあります。
-1つ目は、RAGの構築と評価を試すためのサンプルデータが必要だったことです。実在する社内マニュアルや問い合わせ履歴をそのまま検証に利用することは難しいため、Microsoft 365、Slack、Backlog、kintone、Monday.comなどの社内IT利用ガイドを模したデータを用意しました。
-2つ目は、私たちの会社には製造業の情報システム部門のお客様が多く、社内ヘルプデスクや操作マニュアル検索が、RA</description><guid isPermaLink="false">https://qiita.com/mizuk1013/items/e09acc41e1445b9fa7ac?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 03 Nov 2026 08:35:06 +0000</pubDate></item><item><title>【LLMOps】FDEの開発を支えるトレーシング基盤の開発</title><link>https://zenn.dev/aishift/articles/e761cff4f079cd</link><description>[score: 0.867] はじめに こんにちは、AI Shift AIチームの林崎 (@u_hyszk) です。 AIエージェントを導入した後に「そろそろ評価をして改善に繋げよう」となった段階で、評価に使うための実行履歴を集める基盤が整っていなかった...という経験はないでしょうか？実行履歴を集めようにも、どのようにすれば良いのかが分からず、優先順位が下がってしまった...という経験もないでしょうか？ 本記事では、AI Workerを導入するお客様向けに、多様なAIエージェントやアプリケーションを開発するFDE (Forward Deployed Engineer) が、実行履歴を残して活用していくために作成...</description><guid isPermaLink="false">https://zenn.dev/aishift/articles/e761cff4f079cd</guid><pubDate>Tue, 03 Nov 2026 07:45:47 +0000</pubDate></item><item><title>上司に「絶対直したほうがいいですって！壊れてからじゃ遅いですよ！」と言い続けてきた機械が「ついさっき壊れた」と連絡きた。残念だがもう俺は帰った。</title><link>https://togetter.com/li/2766094</link><description>[score: 0.868] 上司に「絶対直しておいたほうがいいですって！壊れてからじゃ遅いですよ！」と話していた機械が、ついさっき壊れたと連絡がきて笑ってる。 残念だが俺はもう帰った。当直でやってくれ。
-2026-11-02 19:29:41言ったのに…体験談が続々と
-@omanko_broken あー 私も最近似た様な警告を上司にあげたけど握りつぶされたなぁ あれ、いっそのこと問題になればいいのに…
-2026-11-03 09:13:27@omanko_broken ずっと言い続けてたのに、放置され続けて、結局完全に壊れて総入れ替えで数千万かかったとこ知ってるー(笑) 部品交換なら数十万で済んだんだってさ()
-2026</description><guid isPermaLink="false">https://togetter.com/li/2766094</guid><pubDate>Tue, 03 Nov 2026 09:25:03 +0000</pubDate></item><item><title>アンソロピックが「年収5500万円」でライターを募集する理由は？…AI時代に価値を生む「思考力」の磨き方</title><link>https://www.businessinsider.jp/article/2611-anthropic-hiring-corporate-writer-job-advice/</link><description>[score: 0.870] - アンソロピックは、経営幹部向けコミュニケーション担当のライターを、最大年34万5000ドルの報酬で募集している。
-- ある広報のプロは「スピードが安く手に入るようになれば、判断力にこそ高い値打ちがつく」と語った。
-- プロの文筆家3人が、若手ビジネスパーソンが「批判的思考力」を鍛えるためのコツをBusiness Insiderに語った。
-アンソロピック（Anthropic）のAIチャットボットは、スピーチ原稿を数秒で書き上げてしまう。そのアンソロピックがいま、人間のライターを採用しようとしている。年収は29万5000ドル（4631万5000円、1ドル＝157円）から34万5000ドル（54</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-anthropic-hiring-corporate-writer-job-advice/</guid><pubDate>Tue, 03 Nov 2026 06:46:23 +0000</pubDate></item><item><title>自分の書いたコードを検査する ── 静的解析</title><link>https://qiita.com/chooser/items/639fc22081eabdec1b0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.870] 上原正吉（EarthLink Network Co., Ltd.）。AI会社・AI社員による業務自動化と、人の逐次介入なしに24時間自動開発を回す仕組みを自社で実践しています。開発ノウハウと具体的な設定方法、運用して分かった改善点を公開しています。
-自分の書いたコードを検査する ── 静的解析
-この記事は、連載「自分のサービスは自分で守る ── AI 時代の自衛セキュリティ」の第 6 回です。自分でできる検査は自分で、難しいときは EarthLink Network が検査を代行し、直せない弱点は私たちが修正します。
-連載の目次
-- AIで誰でも攻撃できる時代 ── やられる前に、自分のサイト</description><guid isPermaLink="false">https://qiita.com/chooser/items/639fc22081eabdec1b0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 03 Nov 2026 08:35:06 +0000</pubDate></item><item><title>noteで覚えた「番号で進むプロンプト構成」を、Qiita記事作成のスキルにした</title><link>https://qiita.com/torifukukaiou/items/e1ec9fd7aa025fd21d12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.871] はじめに
-note で覚えた「番号で進むプロンプト構成」を、Qiita 記事作成のスキルにしました。素材を渡して番号を選んでいくだけで、事実ベースの記事の下書きまでたどり着きます。
-公開リポジトリ tokon-agent-skills
-に、qiita-article
-スキルを追加しました。
-じつは、この記事もこのスキルで書いています。
-番号で進むプロンプト構成は、note で覚えた
-それまで私は、生成 AI を一問一答でしか使っていませんでした。こちらが聞いて、答えが返ってきて、それで終わりです。
-note では、AI が情報を受け取ると、自分から聞き返しているかのように次の質問を出し、やり取</description><guid isPermaLink="false">https://qiita.com/torifukukaiou/items/e1ec9fd7aa025fd21d12?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 03 Nov 2026 08:35:06 +0000</pubDate></item><item><title>米中間選挙、共和党にとって福音派有権者が重要な理由　「ドロップオフ層」を取り込めるか</title><link>https://www.cnn.co.jp/usa/35254315.html</link><description>[score: 0.871] 米中間選挙、共和党にとって福音派有権者が重要な理由/Justin Sullivan/Getty Images （CNN） トランプ米大統領の連合を支える極めて重要な有権者層が白人の福音派キリスト教徒だ。共和党員の間では、福音派が中間選挙で投票に行かなければ、議会の主導権争いを左右する全米の重要選挙区で民主党に勝利を許しかねないと懸念する声が上がっている。 投票日まで数週間となった段階でも、共和党の全国組織が選挙対策委員会を通じて、福音派に狙いを絞った投票の呼びかけを大々的に行っている形跡は見られなかった。その代わり、草の根動員は主に、個々の教会や「信仰と自由連合」などの団体が担っている。信仰と</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35254315.html</guid><pubDate>Tue, 03 Nov 2026 10:05:22 +0000</pubDate></item><item><title>第5回 AIに頼みやすい単位で開発を分割するコツ（プロンプト設計の基本）</title><link>https://qiita.com/oanda2/items/16ef492fb3daae0aabf7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.872] 本記事は連載 「非エンジニアでもわかる！AIと作るFX自動売買入門」 の1本です。
-第4回では、Claude Codeに「作って」「変えて」と頼む基本の型を押さえました。
-今回は、そこから一歩進んで、自動売買botのように複数の機能が絡む依頼をどう分けて頼めばよいかを扱います。
-「一気に全部作って」で頼むと、なぜうまくいかないのか。そして、どのくらいの粒度で分ければAIが答えやすくなるのか。
-このあたりのコツを一度整理しておくと、実際にbotを組み立てていくときに、指示の出し方で迷わずに済むようになります。
-この記事のゴール
-本記事を読み終えた時点で、以下ができる状態を目指します。
-- 「一気</description><guid isPermaLink="false">https://qiita.com/oanda2/items/16ef492fb3daae0aabf7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 03 Nov 2026 08:35:06 +0000</pubDate></item><item><title>トランプ政権に「共感」日本国内で23.1% 「日本にもトランプ氏のような強い政治家が必要」は52.6% アメリカ中間選挙直前に日本国内でインターネット調査 【TBS NEWS DIG】 | TBS NEWS DIG</title><link>https://newsdig.tbs.co.jp/articles/-/3057565</link><description>[score: 0.872] トランプ政権に「共感」日本国内で23.1% 「日本にもトランプ氏のような強い政治家が必要」は52.6% アメリカ中間選挙直前に日本国内でインターネット調査 【TBS NEWS DIG】 | TBS NEWS DIG トランプ政権に「共感」日本国内で23.1% 「日本にもトランプ氏のような強い政治家が必要」は52.6% アメリカ中間選挙直前に日本国内でインターネット調査 【TBS NEWS DIG】</description><guid isPermaLink="false">https://newsdig.tbs.co.jp/articles/-/3057565</guid><pubDate>Tue, 03 Nov 2026 11:57:30 +0000</pubDate></item><item><title>GMO、脆弱性を2年以上放置　攻撃は8月、確認が大幅に遅れる</title><link>https://www.47news.jp/15174067.html</link><description>[score: 0.872] GMO、脆弱性を2年以上放置 攻撃は8月、確認が大幅に遅れる
-2026年11月02日 20時53分
-GMOインターネットグループの熊谷正寿社長は2日、不正アクセス問題を巡り東京都内で記者会見を開き、子会社の専門家から2024年4月にセキュリティー上の課題を指摘されていたと明らかにした。脆弱性が2年以上放置された形で、熊谷氏は対応の不備を認めた。今回の攻撃者は今年8月5日に顧客のサーバー環境に侵入したことも公表。GMOが確認できたのは10月20日だった。GMOは熊谷氏ら役員4人の報酬を3カ月間、最大30％減額すると決めた。
-一連の問題で会見は初めて。熊谷氏は会見冒頭で顧客の資産を毀損したことに対</description><guid isPermaLink="false">https://www.47news.jp/15174067.html</guid><pubDate>Tue, 03 Nov 2026 06:28:18 +0000</pubDate></item><item><title>DeepSeek が描く AI エージェントの未来像</title><link>https://zenn.dev/marvelousu/articles/deepseek-super-agent-design</link><description>[score: 0.873] DeepSeek が Super-agent という AI エージェントの構想を公開しました。利用者と会話を続けながら複数の仕事を進め、GitHub やチャットの変化にも対応します。人が作業やセッションを管理する負担をどう減らすのか、既存のエージェントとの違いも含めてまとめました。 TL;DR Super-agent は仕事の進行やセッションの管理をシステムへ任せ、人が細かく指示・確認する負担を減らす構想です。 利用者との会話と仕事の振り分けは Router、個々の作業は Worker が担当します。GitHub やチャットの通知も受け取り、対応が必要なものを担当へ届けます。 ...</description><guid isPermaLink="false">https://zenn.dev/marvelousu/articles/deepseek-super-agent-design</guid><pubDate>Tue, 03 Nov 2026 11:47:32 +0000</pubDate></item><item><title>インフラの開発環境構築を3ヶ月→1ヶ月にしたClaude Codeの使い方（AWS / ECS 9サービス）</title><link>https://qiita.com/shainfra07/items/c149c06162ab1f3b136a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.874] はじめに
-AWS上の開発環境の構築を、Claude Codeを使って3ヶ月→1ヶ月で終えました。
-この記事では、何をClaude Codeに任せ、何を任せなかったのか、なぜ短縮できたのかを書きます。
-※案件が特定されないよう、構成は一般化しています。
-作った環境
-- クラウド：AWS
-- コンテナ：ECS（9サービス）
-- サーバー：EC2（3種類）
-- ロードバランサー：ALB、NLB
-- CI/CD：AWS CodePipeline
-- IaC：Terraform
-以前はどこに時間がかかっていたか
-一番時間がかかっていたのは、次の2つでした。
-- 9サービス分の設定を、1つずつ書くこと
--</description><guid isPermaLink="false">https://qiita.com/shainfra07/items/c149c06162ab1f3b136a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 03 Nov 2026 08:35:06 +0000</pubDate></item><item><title>横浜ゴム 委託先への不正アクセスでメールアドレスなど漏えい</title><link>https://news.web.nhk/newsweb/na/nd-20261103de70021</link><description>[score: 0.874] タイヤメーカーの横浜ゴムは、ニュースリリースなどの配信サービスに登録している利用者4242件分の会社名とメールアドレスが、委託先に対する不正アクセスによって外部に漏えいしたと発表しました。
-発表に…
-「バイナンス」へのサイバー攻撃 AI使った新たな手口か
-11月3日 11:05
-世界的な暗号資産取引所へのサイバー攻撃 北朝鮮が関与否定
-11月3日 10:10
-韓国 イ大統領 セキュリティー対策の抜本強化を指示
-11月3日 14:14
-アメリカ中間選挙 日本時間の今夜から投票開始 焦点は
-11月3日 12:26
-脚本家の倉本聰さん 「北の国から」富良野でお別れの会 北海道
-11月3日 12:13</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de70021</guid><pubDate>Tue, 03 Nov 2026 10:10:18 +0000</pubDate></item><item><title>トランプ、中間選挙で民主党が勝てばイーロン・マスクに「恩赦を与える可能性」を示唆 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title><link>https://forbesjapan.com/articles/detail/107618</link><description>[score: 0.875] トランプ、中間選挙で民主党が勝てばイーロン・マスクに「恩赦を与える可能性」を示唆 | Forbes JAPAN 公式サイト（フォーブス ジャパン） ドナルド・トランプ大統領は、米国時間11月3日の中間選挙で民主党が議会の主導権を握った場合、同党が計画する各種の調査からイーロン・マスクや一部のスタッフを守るため、彼らに予防的な恩赦を与える可能性があると述べた。 ポッドキャスト番組『Pod Force One』の司会者ミランダ・ディバインからこの件について問われ...</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107618</guid><pubDate>Tue, 03 Nov 2026 11:57:30 +0000</pubDate></item><item><title>AI から答えを取り上げた上長が、今度は評価から「コード」を取り上げることにした</title><link>https://qiita.com/jksoft/items/e09426e5fbf291dcf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.876] 前回書いた「エラーを3秒でAIに丸投げする若手を見て、AIから答えを取り上げることにした」が、思っていたよりずっと多くの人に読まれました。コメントもはてなブックマークのコメント（100件以上ありました）もひととおり読みました。ありがとうございます。（賛否両方あって、読んでいて結構しんどい日もありましたｗ）
-前回はハッカソンで作ったSocraMetryの紹介記事でしたが、個人的に一番書きたかったのは、実は冒頭の「評価面談でメンバーの実力を語ろうとしたら、材料が印象しかなかった」という部分でした。SocraMetryはそれに対する「測る側」の道具として作ったものです。
-ただ、コメントを読んでいるう</description><guid isPermaLink="false">https://qiita.com/jksoft/items/e09426e5fbf291dcf146?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 03 Nov 2026 08:35:06 +0000</pubDate></item><item><title>毎年1万円だったドメインが、いきなり17万円になった話｜藪原太郎</title><link>https://note.com/t_yabuhara/n/n7871bfc65d5c</link><description>[score: 0.877] 毎年1万円だったドメインが、いきなり17万円になった話
-はじめに
-「毎年1万円弱で更新していたドメインが、ある日突然17万円に…」
-そんな話、信じられますか？
-しかし、これは私が管理している 「taro.bar」 というドメインで起きた現実です。今回はその経緯と、国際ルールとの衝突をテーマに書いてみようと思います。
-実際に起きたこと
-これまで「taro.bar」は 9,566円 で更新できていました。ところが今年、更新画面を見ると… 171,517円（税込）！およそ17倍です。
-問い合わせたところ、「上位レジストリによるプレミアム指定」との回答。つまり、中央管理する側が「特別な価値がある」と判</description><guid isPermaLink="false">https://note.com/t_yabuhara/n/n7871bfc65d5c</guid><pubDate>Tue, 03 Nov 2026 12:08:42 +0000</pubDate></item><item><title>アメリカ中間選挙 投票始まる トランプ政権への有権者の評価は</title><link>https://news.web.nhk/newsweb/na/nd-20261103de69983</link><description>[score: 0.877] トランプ政権に対する有権者の評価が事実上示されるアメリカの中間選挙は、日本時間の3日夜8時から投票が始まりました。与党・共和党が上下両院で多数派を維持するのか、野党・民主党が多数派を奪還してトランプ大…
-【アメリカ中間選挙2026 特集ページ】
-中間選挙ってどんな選挙？トランプ政権は？わかりやすく解説
-11月2日 8:12
-史上最大の選挙監視 アメリカ中間選挙 問われる選挙への信頼
-11月1日 10:52
-米中間選挙 世論調査の信頼揺らぎ“予測市場”が拡大 課題は
-11月1日 19:03
-アメリカ中間選挙 3日に投票開始 NW9広内キャスターが現地取材
-11月2日 22:06
-アメリカ中間選挙</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de69983</guid><pubDate>Tue, 03 Nov 2026 09:11:12 +0000</pubDate></item><item><title>第4回 Claude Code超入門：画面の見方とAIに「変えて」と頼む基本動作</title><link>https://qiita.com/oanda2/items/c1a3ef6f21569dd56252?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.879] 本記事は連載 「非エンジニアでもわかる！AIと作るFX自動売買入門」 の1本です。
-前回（第3回）「環境を整える② OANDA APIを動かす」では、OANDA APIを設定してClaude Codeに「ドル円のレートを取得して」と頼むだけでレートが取れる状態を作りました。
-◀️ 前の記事：環境を整える② OANDA APIを動かす
-今回は、Claude Code Desktopアプリの画面と、AIに頼むときの基本の型を先に押さえていきます。
-画面のどこを見ればよいか、「作って」「変えて」はどう頼めばよいか、コードはどうやって動かしてもらえばよいか、などを一度整理しておくことで、第5回以降でb</description><guid isPermaLink="false">https://qiita.com/oanda2/items/c1a3ef6f21569dd56252?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 03 Nov 2026 08:35:06 +0000</pubDate></item><item><title>GMOの解約UIに命の砂時計を削られた話</title><link>https://anond.hatelabo.jp/20261103013413</link><description>[score: 0.880] なるほど。人生は有限である。時間は取り戻せない。まったくもってその通りだ。
-私も今年、GMOのおかげでそのことを学んだ。
-サブスクを解約するだけで、こんなに命の砂時計を削られるとは思わなかったからだ。
-解約した。はずだった。
-解約受付のメールも届いた。これで終わりだと思っていた。
-契約が続いていることに気づいた。
-あとから分かったのだが、どうも解約がキャンセルされていたらしい。
-このサービス、解約のキャンセルがワンクリックでできる。何かで触ってしまったのか、ブラウザバックだったのか。
-解約するとメールが来る。
-別れたことは知らせてくれるが、復縁したことは知らせてくれない。
-検証もした。
-解約を</description><guid isPermaLink="false">https://anond.hatelabo.jp/20261103013413</guid><pubDate>Tue, 03 Nov 2026 08:43:46 +0000</pubDate></item><item><title>細野防災相 “熊本地震の復旧・復興 防災庁が司令塔機能発揮”</title><link>https://news.web.nhk/newsweb/na/nd-20261103de70035</link><description>[score: 0.881] 細野防災大臣は、就任後初めての視察先として熊本地震の被災地を訪れ、新たに発足した防災庁が司令塔機能を発揮し、復旧・復興に取り組んでいく考えを強調しました。
-2日の防災庁の発足に伴い、初代の防災大臣…
-「防災庁」に期待される役割とは 【専門家QA】
-11月3日 11:53
-防災庁発足 避難生活どう変わる？【QA解説】
-11月2日 14:27
-防災庁発足 「緊急要請」発表し備蓄や住宅耐震化など求める
-11月2日 20:18
-「防災庁」が新しくできた 災害への「備え」って？
-11月2日 18:04
-「世界津波の日」前に南海トラフ巨大地震想定し訓練 和歌山
-11月3日 15:07
-イランへの軍事作戦が</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de70035</guid><pubDate>Tue, 03 Nov 2026 11:10:46 +0000</pubDate></item><item><title>「令和の野々村」「ポエム会見」GMO会見が《完全な失敗》だったと言える理由…“カリスマトップを止められない”組織の弱さ（東洋経済オンライン） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/2b6401f151a6582cd9b2d65e30f08e9843d58240</link><description>[score: 0.886] 「令和の野々村」「ポエム会見」GMO会見が《完全な失敗》だったと言える理由…“カリスマトップを止められない”組織の弱さ（東洋経済オンライン） - Yahoo!ニュース そのカリスマ性で知られるGMOインターネットグループの熊谷正寿代表 （画像：GMOインターネットグループ公式YouTubeより）（東洋経済オンライン） GMOインターネットが提供する「お名前.com デスクトップクラウ... firststar_hateno まるで自分語り劇場の開幕ですわね。危機管理よりも感情の洪水、笑いと共に反省を促すとは！</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/2b6401f151a6582cd9b2d65e30f08e9843d58240</guid><pubDate>Tue, 03 Nov 2026 11:02:52 +0000</pubDate></item><item><title>バイブコーディングで機能を継ぎ足していて見えてきたClaudeCodeの実装のクセ</title><link>https://zenn.dev/uguisu_blog/articles/45d1f446ece415</link><description>[score: 0.887] 「業務フローがよくわからないんだよね」という状態でも、チャラくバイブコーディングで自力でシステムが作れる時代が来ました。特にエンジニアは、アイディアをすぐに形にできます。普段からClaude CodeなどのAIエージェントに慣れ親しんでいれば、バイブコーディングのハードルは数ミリ程度まで下がっています。その結果、要件定義できるほどの解像度はない、できてからいろいろ意見はしたい、でも人の介在は最小限にしたい、という ガチのシステム屋さんに言ったら殴られそうな 要望を持つことも多いでしょう。 TL;DR 要件が固まらないままClaude Codeでバイブコーディングしたら、テストは通る...</description><guid isPermaLink="false">https://zenn.dev/uguisu_blog/articles/45d1f446ece415</guid><pubDate>Tue, 03 Nov 2026 11:47:32 +0000</pubDate></item><item><title>小泉防衛相 防衛省のAI活用に関する基本方針見直す考え</title><link>https://news.web.nhk/newsweb/na/nd-20261103de70050</link><description>[score: 0.888] 小泉防衛大臣は、安全保障分野でAIをはじめとした先端技術の領域が急速に進んでいるとして、防衛省が定めたAIの活用に関する基本方針を見直す考えを示しました。
-小泉防衛大臣は3日、東京都内で講演し、安…
-「バイナンス」へのサイバー攻撃 AI使った新たな手口か
-11月3日 11:05
-GMO 経営トップ含めセキュリティーリスク対応の体制構築が課題
-11月3日 5:02
+アメリカ中間選挙 投票続く 一部は日本時間の午前8時から開票
+11月4日 5:54
+94年目の反乱？ 農家の怒りがトランプ大統領に逆風
+11月3日 11:32
 韓国大統領や高官の個人情報流出 イ大統領パスポート再発行へ
 11月3日 18:00
+米・ウクライナ・ロシアの実務者協議 10日からUAEで開催へ
+11月3日 20:55
+ICC赤根所長 国連でアメリカの制裁批判 使命果</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de70061</guid><pubDate>Tue, 03 Nov 2026 14:09:05 +0000</pubDate></item><item><title>気候変動の「巨大な盲点」、永久凍土について知っておきたい3つのこと</title><link>https://www.technologyreview.jp/s/393666/three-things-you-should-know-about-permafrost/</link><description>[score: 0.864] You need to enable JavaScript to run this app.</description><guid isPermaLink="false">https://www.technologyreview.jp/s/393666/three-things-you-should-know-about-permafrost/</guid><pubDate>Tue, 03 Nov 2026 20:35:43 +0000</pubDate></item><item><title>セブン、宅配サービス「セブンナウ」の顧客情報16万件流出 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC032AG0T01C26A1000000/</link><description>[score: 0.865] セブン、宅配サービス「セブンナウ」の顧客情報16万件流出
+セブン―イレブン・ジャパンは3日、宅配サービス「セブンナウ」の業務委託先が不正アクセスを受け顧客情報が流出したと発表した。注文者の名前や住所など16万件超が流出した。不正利用などの被害は現時点で確認されていないという。
+セブンナウの配達業務の一部を委託しているCBcloud（CBクラウド、東京・千代田）が不正アクセスを受けたことが1日判明し、3日にセブンナウの顧客情報が流出したことが分かった。注文者の名前や住所などが流出した。クレジットカード情報やパスワードなどの漏洩は確認されていないという。
+CBクラウドは不正アクセス元からの通信を遮</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC032AG0T01C26A1000000/</guid><pubDate>Tue, 03 Nov 2026 15:52:54 +0000</pubDate></item><item><title>個人情報を扱う常駐型AIエージェント「Muse」のセキュリティの仕組み｜npaka</title><link>https://note.com/npaka/n/ncccb2783a262</link><description>[score: 0.866] 個人情報を扱う常駐型AIエージェント「Muse」のセキュリティの仕組み｜npaka 1. はじめに2026年9月8日、Metaは常駐型AIエージェント「Muse」のセキュリティ設計について、技術記事「How We Built Safety Into Muse」を公開しました。 Museは、ユーザーの好みや個人情報を記憶し、メールの確認、予定の管理、買い物、Web操作などを自律的に実行するAIエージェントです。 こうした機能は便利ですが、...</description><guid isPermaLink="false">https://note.com/npaka/n/ncccb2783a262</guid><pubDate>Tue, 03 Nov 2026 15:32:01 +0000</pubDate></item><item><title>皆が突貫で作ったと思ってるGMOの会見で使われたこのスライドは、実は今年2月の決算説明資料の再掲なんだよ→なかなかインパクトのある中身だった</title><link>https://togetter.com/li/2766163</link><description>[score: 0.867] 皆が突貫で作ったと思ってるGMOの会見で使われたこのスライドは、実は今年2月の決算説明資料の再掲なんだよ→なかなかインパクトのある中身だった GMOインターネットグループ 不正アクセス問題に関する初の記者会見 熊谷正寿社長が説明 - 2026/11/2(月) 15:30開始 - ニコニコ生放送 GMOインターネットグループは不正アクセスを受けた問題で、熊谷正寿社長らが記者会見を開くと発... 2 users ニコニコ生放送 熊谷 正寿 2025年12月期 通期決算説明会 グループ代表CEO 熊...</description><guid isPermaLink="false">https://togetter.com/li/2766163</guid><pubDate>Tue, 03 Nov 2026 13:18:56 +0000</pubDate></item><item><title>ハウスメーカーの今の建築費をどう考えるか</title><link>https://imoz.jp/scraps/202611_housemaker.html</link><description>[score: 0.868] ハウスメーカーの今の建築費をどう考えるか
+地域の工務店では、得意分野の合う会社と素材や間取り、細部を相談し、希望に合わせて予算を配分できます。設計・施工の実績や検査・点検の体制には会社ごとの違いがあるため、依頼先を調べて見極める手間もかかります[23]。
+- [23] 北海道学校生活協同組合, "第4回 住宅会社・工務店の選び方," 2026.
+1. 各社のデザインと住宅性能
+- 空間・素材・設計提案：積水ハウス・住友林業
+- 都市の狭小地・3階建て：ヘーベルハウス
+- 断熱・快適性・設備：セキスイハイム・一条工務店
+- 仕様と予算配分：アキュラホーム・タマホーム
+引用元と各社のウェブサイト利</description><guid isPermaLink="false">https://imoz.jp/scraps/202611_housemaker.html</guid><pubDate>Tue, 03 Nov 2026 20:44:11 +0000</pubDate></item><item><title>続報：毎年1万円だったドメインが、いきなり17万円になった話｜藪原太郎</title><link>https://note.com/t_yabuhara/n/nf9692965d028</link><description>[score: 0.868] 続報：毎年1万円だったドメインが、いきなり17万円になった話
+結論
+前回お知らせした taro.bar の件は、残念ながら状況が変わりませんでした。上位レジストリによるプレミアム化という説明のもと、更新価格は 171,517 円の提示が維持され、販売会社の裁量では変更できないという回答でした。補償策として、別ドメイン取得に充当できる 1 万円分のポイント付与をご提案いただきましたが、最終的に taro.bar は失効しました。今後は、新たなドメインにサイトを移行することになります。
+どこが問題か
+ICANN Registry Agreement 2.10(c) は、登録済みドメインの更新価格に</description><guid isPermaLink="false">https://note.com/t_yabuhara/n/nf9692965d028</guid><pubDate>Tue, 03 Nov 2026 16:32:23 +0000</pubDate></item><item><title>ウクライナ南部で31人死亡 東部で70人余けが ロシアの攻撃で</title><link>https://news.web.nhk/newsweb/na/nd-20261103de70056</link><description>[score: 0.869] ウクライナでは南部の都市でロシアとウクライナの局地的な停戦が終了しましたが、2日から3日にかけて各地でロシア軍による攻撃があり、南部ザポリージャ州で31人が死亡したほか、東部でも70人余りのけが人が出…
+あわせて読みたい
+アメリカ中間選挙 投票続く 一部は日本時間の午前8時から開票
+11月4日 5:54
+94年目の反乱？ 農家の怒りがトランプ大統領に逆風
+11月3日 11:32
+韓国大統領や高官の個人情報流出 イ大統領パスポート再発行へ
+11月3日 18:00
+米・ウクライナ・ロシアの実務者協議 10日からUAEで開催へ
+11月3日 20:55
+ICC赤根所長 国連でアメリカの制裁批判 使命果</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de70056</guid><pubDate>Tue, 03 Nov 2026 13:13:34 +0000</pubDate></item><item><title>[AWS]日本語OCRがついにきちゃー！ ~Textractにいろいろ読ませてみた~</title><link>https://qiita.com/kikuziro/items/9aff0fefe89cfa13192e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.869] 📣 はじめに
+2026年11月2日にAWSのAmazon Textract（OCRしてくれるやつ）が日本語に対応して東京リージョンでも使えるようになりました。以下記事がとてもわかりやすいので是非ご参照ください。
+この記事ではいろんな画像をTextractに読ませて精度を軽く測ってみた結果を中心にまとめました。
+🎉 何が嬉しいの？
+RAG等でPDF(透明テキストなし)や画像からデータ取り込むにはどこかでOCR(画像から文字を読み取る処理)が要ります。ところがTextractはこれまで日本語を読めませんでした。
+Azure AI Document Intelligenceのような外部ベンダーを使う</description><guid isPermaLink="false">https://qiita.com/kikuziro/items/9aff0fefe89cfa13192e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 03 Nov 2026 20:24:25 +0000</pubDate></item><item><title>久しぶりにChatGPTの無料プランを使っているけどヤバいな…爆速で間違った答えが返ってくる「課金してるけど超爆速で間違った答えが返ってくる」</title><link>https://togetter.com/li/2766077</link><description>[score: 0.870] 無料版ChatGPTは爆速で間違った答えが返ってくる
+ただClaudeCode好き
+@MiHn9ep
+@igz0 有料版にして世界が変わった。まじで無料版で使えないとか言ってる人1度有料版使って欲しい。１ヶ月だけでいいから。
+2026-11-02 19:18:13
+PARADAIL LAB
+@paradaillab
+@igz0 ChatGPT: 私に賢くなってほしいなら、金を出せ、人間。 pic.x.com/e3UaflFX4P
+2026-11-02 18:27:05
+きよのぶ
+@kynmma
+それ、めっちゃ本質的だね！ 結論から言うと👉**一概には言えない。** ↑まじでにやけるからやめてほ</description><guid isPermaLink="false">https://togetter.com/li/2766077</guid><pubDate>Tue, 03 Nov 2026 13:18:56 +0000</pubDate></item><item><title>テストが数十分かかる・固まる原因はiCloudだった</title><link>https://qiita.com/hiroshi_buildup/items/4204953f2439f58425b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.870] はじめに
+React + TypeScriptのプロジェクトでJestを実行したところ、テストが終わらない、終わっても十数分〜二十分以上かかる、という状態になりました。
+原因を追った結果、プロジェクトを ~/Desktop に置いていて、iCloud Driveの同期対象になっていたことでした。
+環境
+- macOS
+- Node.js
+- Jest / React Testing Library
+- プロジェクトの場所: ~/Desktop/project
+症状
+npm run test を実行すると、次のように表示されたまま進みませんでした。
+RUNS src/__tests__/AddR</description><guid isPermaLink="false">https://qiita.com/hiroshi_buildup/items/4204953f2439f58425b6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 03 Nov 2026 20:24:25 +0000</pubDate></item><item><title>ロシア、ウクライナのエネ施設に大規模攻撃 米仲介の3者協議再開控え - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQdlpmYkxRbmlQcmlPWVZTODFEX19IckV2LW5Qc2lXNm1Ua1hwMm5xOG9BYUM3WU9Ec183dklmWWxwWndqZGV0SDhqRnVQXzdCTlBsM3ZCRGNwU25BT1h1WUNXRnVfR1kyTl9MZjJzMi14cmlMSHN2eDVWSmJYeVJLYmpIeVpMQQ?oc=5</link><description>[score: 0.873] ロシア、ウクライナのエネ施設に大規模攻撃 米仲介の3者協議再開控え Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQdlpmYkxRbmlQcmlPWVZTODFEX19IckV2LW5Qc2lXNm1Ua1hwMm5xOG9BYUM3WU9Ec183dklmWWxwWndqZGV0SDhqRnVQXzdCTlBsM3ZCRGNwU25BT1h1WUNXRnVfR1kyTl9MZjJzMi14cmlMSHN2eDVWSmJYeVJLYmpIeVpMQQ?oc=5</guid><pubDate>Tue, 03 Nov 2026 15:16:23 +0000</pubDate></item><item><title>JR山手線 外回りで始発から運転見合わせ</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70098</link><description>[score: 0.878] JR東日本によりますと、山手線の外回りは巣鴨駅の線路内で煙が確認されたとして始発から運転を見合わせていましたが、安全が確認されたため午前5時16分ごろに運転を再開しました。
+あわせて読みたい
 スペイン列車事故 日本人2人の死亡確認 地元当局が身元特定
 11月3日 10:14
 脚本家の倉本聰さん 「北の国から」富良野でお別れの会 北海道
-11</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de70050</guid><pubDate>Tue, 03 Nov 2026 12:17:16 +0000</pubDate></item><item><title>サム・アルトマン「バグ全部修正するのはもうムリ」 | ギズモード・ジャパン</title><link>https://www.gizmodo.jp/article/sam-altman-ai-cybersecurity-bug-patching/</link><description>[score: 0.889] サム・アルトマン「バグ全部修正するのはもうムリ」
-GMOランサムウェア脅迫事件やPHP脆弱性攻撃パニックを見てると、日本がサイバー攻撃の中心に思えてしまうけど、いえいえどうして。
-国外を見渡せば毎日毎日ネットがぶっ壊れるほどの巨大なセキュリティホール（脆弱性）がAIによって見つけられ、穴を塞ぐより早くAIの自動操作などで不正アクセスされてしまう事案が目白押し！
-世界の組織が9月に受けた週平均のサイバー攻撃件数は前年同月比で48％も増えているんですね（CheckPoint調べ）。
-ランサムウェア被害報告件数が最多なのは北米地域（46%）で、欧州（25%）、アジア太平洋地域（17%）と続きます。被</description><guid isPermaLink="false">https://www.gizmodo.jp/article/sam-altman-ai-cybersecurity-bug-patching/</guid><pubDate>Tue, 03 Nov 2026 12:27:38 +0000</pubDate></item><item><title>ドメイン更新料が2,676円から18,139円に。通知から約45時間で判断を迫られた話</title><link>https://anond.hatelabo.jp/20261103160506</link><description>[score: 0.894] ドメイン更新料が2,676円から18,139円に。通知から約45時間で判断を迫られた話 お名前.comで管理している「xxxx.cyou」の更新関連費用が、前年の2,676円から18,139円になりました。 約6.8倍、金額にして15,463円の増加です。 今回、私が問題だと感じたのは、料金が大幅に増加したことだけではありません。 通知が届いてから、更新を希望しない場合の回答期限まで、約45時間しかなかったことです。 こ...</description><guid isPermaLink="false">https://anond.hatelabo.jp/20261103160506</guid><pubDate>Tue, 03 Nov 2026 09:23:00 +0000</pubDate></item><item><title>超党派議員連盟がオランダへ出発 ICC赤根所長と面会へ</title><link>https://news.web.nhk/newsweb/na/nd-20261103de69943</link><description>[score: 0.896] アメリカのトランプ政権がICC＝国際刑事裁判所のトップを務める赤根智子所長らを制裁対象とする中、超党派の議員連盟は3日、ICCの本部があるオランダに向けて出発しました。現地で赤根所長と面会し、直面する…
-ICC赤根所長 国連でアメリカの制裁批判 使命果たすと決意
-11月3日 10:19
-トランプ大統領 イラン攻撃再開決定について「急がず」 米報道
-11月3日 10:04
-アメリカ中間選挙 日本時間の今夜から投票開始 焦点は
-11月3日 12:26
-世界的な暗号資産取引所へのサイバー攻撃 北朝鮮が関与否定
-11月3日 10:10
+11月3日 12:13
+GMO 経営トップ含めセキュリティーリスク対応の体制構築が課題
+11月3日 5:02
+「秋の叙勲」受章者発表 各界で功労のあった計3861人が受章
+11月3日 6:39
+作家の山中恒さんの手記全文が初公開 憲法公布時期に執筆
+11月3日 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70098</guid><pubDate>Tue, 03 Nov 2026 20:33:05 +0000</pubDate></item><item><title>米中間選挙投票始まる、トランプ政権に審判 下院は民主優勢も上院なお不透明 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9ET1pYQ0QxOElocEFJU3VGeUdCVEphRVY4bEpzZHpRakUxaDN3RVBlY3NMa3gtWHhFRmF4WW05Y3N5NGpTZU05VEw1cjduUHdZX3BzdEF0Wk1sQ2dxbzByOUN1aUYxWU1qNTBibWdjN0ZxNG12bFBjVm1HaDZkT0k?oc=5</link><description>[score: 0.880] 米中間選挙投票始まる、トランプ政権に審判 下院は民主優勢も上院なお不透明 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9ET1pYQ0QxOElocEFJU3VGeUdCVEphRVY4bEpzZHpRakUxaDN3RVBlY3NMa3gtWHhFRmF4WW05Y3N5NGpTZU05VEw1cjduUHdZX3BzdEF0Wk1sQ2dxbzByOUN1aUYxWU1qNTBibWdjN0ZxNG12bFBjVm1HaDZkT0k?oc=5</guid><pubDate>Tue, 03 Nov 2026 17:13:34 +0000</pubDate></item><item><title>スペイン列車事故 AI導入し異常検知など再発防止策</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70092</link><description>[score: 0.881] スペイン中部で高速鉄道の列車が別の列車に追突し、69人が死亡した事故で、スペイン政府は再発防止に向けて、運転指令センターと運転士のやりとりの監視や異常事態の検知のためAIを使った技術を導入する方針を示…
+注目ワード
+あわせて読みたい
 スペイン列車事故 日本人2人の死亡確認 地元当局が身元特定
-11月</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de69943</guid><pubDate>Tue, 03 Nov 2026 11:10:46 +0000</pubDate></item></channel></rss>
+11月3日 10:14
+アメリカ中間選挙 投票続く 一部は日本時間の午前8時から開票
+11月4日 5:54
+94年目の反乱？ 農家の怒りがトランプ大統領に逆風
+11月3日 11:32
+韓国大統領や高官の個人情報流出 イ大統領パスポート再発行へ
+11月3日 18:00
+米・ウクライナ・ロシアの実務者協議 1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70092</guid><pubDate>Tue, 03 Nov 2026 20:33:05 +0000</pubDate></item><item><title>プロダクト検証基盤の整備に向けてテスト工程を支えるスキルを作成した</title><link>https://qiita.com/Mihyang_Cho/items/dfa26f98b73326734943?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] はじめに
+GENEROSITYに入社して、早いもので約1年が経ちました。
+仕事では主に品質マネジメントシステム（QMS）の運用管理と改善を中心に行っていました。また、プロダクトの検証基盤を強化の一環として、テスト工程における課題の調査や、より効率的にテストを進めるための仕組みづくりにも取り組んできました。
+今回はそれの一つとして、テスト分析・設計・実装プロセスを支援するスキルを作成したことについてご紹介します。
+想定読者
+AIを活用して、テスト工程の作業を自動化・効率化したいQAエンジニア
+スキル作成の背景
+プロダクトの検証基盤を強化するにあたり、まずは何から着手すべきかを模索していました。そ</description><guid isPermaLink="false">https://qiita.com/Mihyang_Cho/items/dfa26f98b73326734943?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 03 Nov 2026 20:24:25 +0000</pubDate></item><item><title>⚪︎⚪︎はしないで！AI エージェントの行動を制限する 5 つの方法を、守られる強さで比べた</title><link>https://qiita.com/songchong/items/945479177d4dcbb80f69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] AI エージェントに「⚪︎⚪︎はしないで」と書けば、その通りにしてくれるのでしょうか。
+答えは、🔴 問題: 「しないで」と禁止だけを頼むと、守られないことがありました、です。IT連携マップ編集部は、AI エージェント（Claude Code・Antigravity CLI・Codex のように、パソコンの上でコマンドを実行しながら作業を進める AI）に、鍵（API キーなど、システムに入るための文字列）を使う同じ作業を 51 回頼み、指示ファイル（強度 2）に書いた「鍵の中身を画面に出さない」がどれだけ守られるかを数えました。あわせて、製品の設定や、渡す鍵を絞る方法の効き方も測りました。AI </description><guid isPermaLink="false">https://qiita.com/songchong/items/945479177d4dcbb80f69?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 03 Nov 2026 20:24:25 +0000</pubDate></item><item><title>米連邦裁、トランプ政権の州選挙当局への圧力相次ぎ退ける 中間選挙直前 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9ndnpnYk9nVllaTXhVU1VTbnBybEhTSThZUXpwejRsRHZuVmdhbzJIWUR0Q2UtcDhhQmFGbVNQVVItUkc0V196aVpvc0k1SHN3emdITWdReC1yaHJfN1ZmQmVfbHhFVkk2WklMWW5ubkV5RW5NVkxlWFUwa2pJTWc?oc=5</link><description>[score: 0.883] 米連邦裁、トランプ政権の州選挙当局への圧力相次ぎ退ける 中間選挙直前 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9ndnpnYk9nVllaTXhVU1VTbnBybEhTSThZUXpwejRsRHZuVmdhbzJIWUR0Q2UtcDhhQmFGbVNQVVItUkc0V196aVpvc0k1SHN3emdITWdReC1yaHJfN1ZmQmVfbHhFVkk2WklMWW5ubkV5RW5NVkxlWFUwa2pJTWc?oc=5</guid><pubDate>Tue, 03 Nov 2026 17:13:34 +0000</pubDate></item><item><title>Claude Code でグラレコ風の「AWS構成管理 できることマップ」を作ってみた</title><link>https://qiita.com/j_mori/items/98b075700d059b713aae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] はじめに
+こんにちは、mori (@morimori) です。
+皆さん、AWS Config と AWS CloudTrail を使いこなせていますか？
+私は正直、「何かあったときのために、とりあえず設定しておくもの」くらいの認識でした。そんな中、とあるお客様から「構成管理をしたい」と相談を受けました。
+構成管理といえば AWS Config？ でも、これで本当にできるのかな？ そう思って、一から調べ直してみました。
+調べた内容は、Claude Code に手伝ってもらって、グラレコ（グラフィックレコーディング）風の「できることマップ」にまとめました。この記事では、そのマップと作り方を紹介しま</description><guid isPermaLink="false">https://qiita.com/j_mori/items/98b075700d059b713aae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 03 Nov 2026 20:24:25 +0000</pubDate></item><item><title>テストする側から創る側になって気づいたこと - 初めてSlackBotを制作した話</title><link>https://qiita.com/Mihyang_Cho/items/498e916f68ea91b977c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] はじめに
+GENEROSITYでは今年8月から、全社的な文化づくりの一環として、社員同士が日頃の感謝や尊敬の気持ちをメッセージで送り合うチャンネルが開設されました。
+QAエンジニアである私は、この仕組みの設計・開発を進める過程で、開発メンバーの視点や現場のリアルを身をもって理解することができました。
+本記事では、このリスペクトを送り合う仕組み（以下、「リスペクトボット」）の開発を通じて得られた気づきをご紹介します。
+期待読者
+単にプロダクトをテストするだけでなく、開発現場の解像度を上げて共に創る側に立ちたいQAエンジニア
+リスペクトボット制作のきっかけ
+① 開発現場のリアルを知りたかった
+開発</description><guid isPermaLink="false">https://qiita.com/Mihyang_Cho/items/498e916f68ea91b977c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 03 Nov 2026 20:24:25 +0000</pubDate></item><item><title>ＮＹ外為市場＝ドルもみ合い、中東情勢や米中間選挙の影響にらみ - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBwVWpRYmlKRkdwUWdtZUdSVU92OFZ5aHJqbXpQaC1sMk40SnVOMWZKVWMtZmdpMThPWGVleTNLdTNlNEZHTWlobTJPU2h1QXNyS0NWVzdBLVJJMmxtVlRlOEt1aWIxbG9HbWJMYTFNRTJOVW5HSnMyTDVlcTA1UQ?oc=5</link><description>[score: 0.889] ＮＹ外為市場＝ドルもみ合い、中東情勢や米中間選挙の影響にらみ Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFBwVWpRYmlKRkdwUWdtZUdSVU92OFZ5aHJqbXpQaC1sMk40SnVOMWZKVWMtZmdpMThPWGVleTNLdTNlNEZHTWlobTJPU2h1QXNyS0NWVzdBLVJJMmxtVlRlOEt1aWIxbG9HbWJMYTFNRTJOVW5HSnMyTDVlcTA1UQ?oc=5</guid><pubDate>Tue, 03 Nov 2026 20:59:44 +0000</pubDate></item><item><title>オラクルが3.1兆円調達、Googleはユーロ建社債　AI投資へ資金確保 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOGN030C80T01C26A1000000/</link><description>[score: 0.890] オラクルが3.1兆円調達、Googleはユーロ建社債 AI投資へ資金確保 - 日本経済新聞 【シリコンバレー=伴正春】米テック大手が人工知能（AI）投資に向け資金調達を進めている。グーグル親会社のアルファベットは60億ユーロ（約1兆600億円）、オラクルは200億ドル（約3兆1600億円）を社債などで調達すると2日発表した。メタも200億ドル規模の起債を検討している。オラクルは社債と新株発行で100億ドルずつ...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOGN030C80T01C26A1000000/</guid><pubDate>Tue, 03 Nov 2026 20:22:17 +0000</pubDate></item><item><title>Claude Codeを導入して開発速度が5倍になったのに、なぜ私の疲労度は10倍になったのか</title><link>https://qiita.com/xiaoy/items/c4340fda4f660e9c2e4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] はじめに：爆速開発の果てに待っていた「前例のない脳疲労」
+ここ数週間、日々の開発に Claude Code や Cursor を徹底的に組み込み、いわゆる「AIネイティブ開発」を本気で回してきました。
+表面的な数字だけを見れば、大成功と言っていいはずでした。
+これまで設計から実装、テストまで丸3日かかっていた新機能が、半日もあればプルリクエスト（PR）まで持っていける。1日に生成されるコード行数も、マージできるブランチの数も、体感で4〜5倍に跳ね上がりました。
+「これで残業も減って、定時退勤して技術書を読む余裕ができるはずだ」
+そう思っていました。
+しかし、現実はまるで逆でした。
+終業時にMa</description><guid isPermaLink="false">https://qiita.com/xiaoy/items/c4340fda4f660e9c2e4b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 03 Nov 2026 20:24:25 +0000</pubDate></item></channel></rss>
