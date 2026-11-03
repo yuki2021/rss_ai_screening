@@ -1,137 +1,92 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 02 Nov 2026 21:08:47 +0000</lastBuildDate><item><title>イラン安保トップがプーチン氏と電話会談、中東情勢巡り協議＝報道 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNa1Nqc0Fla1J0clRDR25jWXZDYXVyYzBmdVBYbnJVaV9ranVkZmxSVjhoTUNLWlNhYTdZeWYtWjZxSHhYYjAwVGNLNHdUTjA0ajlqTXlWTzhlOVNyZ0lfMFBYM0FlZWpibkRGWWFLemtJUExoc01aWHhjbHRhX0p1R0NVcHE5Zkk?oc=5</link><description>[score: 0.848] イラン安保トップがプーチン氏と電話会談、中東情勢巡り協議＝報道 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxNa1Nqc0Fla1J0clRDR25jWXZDYXVyYzBmdVBYbnJVaV9ranVkZmxSVjhoTUNLWlNhYTdZeWYtWjZxSHhYYjAwVGNLNHdUTjA0ajlqTXlWTzhlOVNyZ0lfMFBYM0FlZWpibkRGWWFLemtJUExoc01aWHhjbHRhX0p1R0NVcHE5Zkk?oc=5</guid><pubDate>Mon, 02 Nov 2026 16:15:07 +0000</pubDate></item><item><title>AI書道コンクール</title><link>https://aishodo.jumbohamburg.workers.dev/</link><description>[score: 0.848] AI書道コンクール
-概要
-開催概要
-しくみ
-AI書道のしくみ
-リーダーボード
-言語
-日本語
-English
-简体中文
-繁體中文
-第1回
-AI書道コンクール
-概要
-しくみ
-リーダーボード
-日本語
-English
-简体中文
-繁體中文
-楷書の部
-『やきいも』
-50作品
-『シンギュラリティ』
-50作品
-『春風』
-49作品
-『森羅万象』
-49作品
-『創造のよろこび』
-48作品
-絵文字の部
-『🐈』
-49作品
-『🍣』
-50作品
-『🐓』
-50作品
-『🦍』
-49作品
-『🎷』
-49作品
-AI書道コンクール</description><guid isPermaLink="false">https://aishodo.jumbohamburg.workers.dev/</guid><pubDate>Mon, 02 Nov 2026 16:51:00 +0000</pubDate></item><item><title>Mastering Background Tasks in Flutter: Efficient Data Sync &amp; UI Updates</title><link>https://dev.to/mtahir27/mastering-background-tasks-in-flutter-efficient-data-sync-ui-updates-124c</link><description>[score: 0.849] 1. Introduction &amp; The Problem Modern mobile applications are expected to be fast, responsive, and data-consistent. However, meeting these demands often involves performing complex, long-running operations like data synchronization, image processing, or heavy computations. When these tasks are execut</description><guid isPermaLink="false">https://dev.to/mtahir27/mastering-background-tasks-in-flutter-efficient-data-sync-ui-updates-124c</guid><pubDate>Mon, 02 Nov 2026 20:03:42 +0000</pubDate></item><item><title>「ChatGPT」の「Chat」と「Work」タブを統合へ、12月からは「Codex」と利用枠も共通に／まず少数のユーザーでテスト</title><link>https://forest.watch.impress.co.jp/docs/news/2152966.html</link><description>[score: 0.849] 「ChatGPT」の「Chat」と「Work」タブを統合へ、12月からは「Codex」と利用枠も共通に／まず少数のユーザーでテスト</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2152966.html</guid><pubDate>Mon, 02 Nov 2026 03:25:31 +0000</pubDate></item><item><title>海外掲示板「Reddit」、ログイン制への移行を発表。適切な広告配信とAIボット排除のため【やじうまWatch】</title><link>https://internet.watch.impress.co.jp/docs/yajiuma/2153000.html</link><description>[score: 0.850] 海外掲示板「Reddit」、ログイン制への移行を発表。適切な広告配信とAIボット排除のため【やじうまWatch】</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/yajiuma/2153000.html</guid><pubDate>Mon, 02 Nov 2026 12:48:37 +0000</pubDate></item><item><title>Figma Motionで作ったUIアニメーションをCSSで再現してみた</title><link>https://qiita.com/pengin_r/items/a13f3020137816bc532a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.850] はじめに
-2026年6月、Figmaにアニメーション機能「Figma Motion」が登場しました。
-以前から気になっていたので、今回はFigma Motionで保存完了時のボタンアニメーションを作成し、CSSで再現してみました。
-作成したアニメーション
-「保存する」を押すと「保存中…」に切り替わり、保存が終わるとチェックマークが弾んで「保存しました」がふわっと現れるアニメーションを作りました。
-Figma Motionで動きを作る
-ツールバーにある「Motion」からアニメーションを作成できます。
-今回は全体で3.6秒のタイムラインを作り、ボタンやテキストなどのレイヤーにキーフレームを設定し</description><guid isPermaLink="false">https://qiita.com/pengin_r/items/a13f3020137816bc532a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 02 Nov 2026 20:28:40 +0000</pubDate></item><item><title>【速報】GMO系で顧客情報が漏えい</title><link>https://www.47news.jp/15175450.html</link><description>[score: 0.851] 【速報】GMO系で顧客情報が漏えい GMOペイメントゲートウェイは2日、クレジットカード会社向けのサービスで顧客の氏名など計69件が漏えいした可能性があると発表した。 s-supporter 今日の会見後に追加お漏らしのニュースが。 今日の会見は何だったのか（まあ、お気持ち表明会だったからねえ）。</description><guid isPermaLink="false">https://www.47news.jp/15175450.html</guid><pubDate>Mon, 02 Nov 2026 14:13:24 +0000</pubDate></item><item><title>S3への画像アップロード、署名付きPUTとPOSTはどう使い分ける？</title><link>https://qiita.com/pengin_r/items/d3f3fbe1b4ba1e648ed7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.851] はじめに
-エンジニア未経験で入社し、初めてAWSに触れる中で、画像をAmazon S3にアップロードする方法が複数あることを知りました。
-その中でも、署名付きPUT URLと署名付きPOSTという2つの方法があり、何を基準に使い分ければ良いのか迷ったため、今回はAWS公式ドキュメントをもとに、それぞれの違いやメリット・デメリットを整理してみました。
-1. S3への直接アップロードの仕組み
-S3への画像アップロードには、バックエンドを経由して画像を保存する方法と、ブラウザからS3へ直接アップロードする方法があります。
-今回取り上げる署名付きPUT URLと署名付きPOSTは、どちらも後者の方法で</description><guid isPermaLink="false">https://qiita.com/pengin_r/items/d3f3fbe1b4ba1e648ed7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 02 Nov 2026 20:28:40 +0000</pubDate></item><item><title>米建設支出、9月は前月比1.9％減 材料費高で住宅改修が低迷 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVIxdnJJNl9fNTVvTzdoOE5mU09PalU4N0xmMWxVbHRBSm5nZDFDUDlhczdBUDNvZ2NhTC05emhnaDN6ZjRweXBDVnJNSno3Y25rU3Z6VWVjWjk2Yk4ydnVWS0w3Ym5VNEM4UjNET2hBUjA3Q2dGU0hmZGQyWDRiUS1qZ0xzUQ?oc=5</link><description>[score: 0.851] 米建設支出、9月は前月比1.9％減 材料費高で住宅改修が低迷 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNQVIxdnJJNl9fNTVvTzdoOE5mU09PalU4N0xmMWxVbHRBSm5nZDFDUDlhczdBUDNvZ2NhTC05emhnaDN6ZjRweXBDVnJNSno3Y25rU3Z6VWVjWjk2Yk4ydnVWS0w3Ym5VNEM4UjNET2hBUjA3Q2dGU0hmZGQyWDRiUS1qZ0xzUQ?oc=5</guid><pubDate>Mon, 02 Nov 2026 17:20:13 +0000</pubDate></item><item><title>https://www.reuters.com/jp/markets/japan/FHMYWU3EZFMBVEZTXO6HNWTQW4-2026-11-02/</title><link>https://www.reuters.com/jp/markets/japan/FHMYWU3EZFMBVEZTXO6HNWTQW4-2026-11-02/</link><description>[score: 0.854] https://www.reuters.com/jp/markets/japan/FHMYWU3EZFMBVEZTXO6HNWTQW4-2026-11-02/ neco22b</description><guid isPermaLink="false">https://www.reuters.com/jp/markets/japan/FHMYWU3EZFMBVEZTXO6HNWTQW4-2026-11-02/</guid><pubDate>Mon, 02 Nov 2026 17:23:29 +0000</pubDate></item><item><title>七川琴の再来か！？「レジスタはギルティだが、薬屋は無罪」と主張するBL創作者の腐女子が登場して炎上</title><link>https://posfie.com/@Acg3C2/p/iw0gDsr</link><description>[score: 0.855] 七川琴の再来か！？「レジスタはギルティだが、薬屋は無罪」と主張するBL創作者の腐女子が登場して炎上 無 @twi20241105 R18のBL漫画を描いてる腐女子が「レジスタは現実に困ってる人がいるから燃えて当然。薬屋は無罪」といった趣旨のレジスタ叩きを擁護するツイートをしていた事実は、歴史改変されないように残します。 創作する側が現実と創作を混同して他人の漫画を叩くの、人間としてどうかと思う。 @PillowMyo pic.x.c...</description><guid isPermaLink="false">https://posfie.com/@Acg3C2/p/iw0gDsr</guid><pubDate>Mon, 02 Nov 2026 19:37:10 +0000</pubDate></item><item><title>https://www.reuters.com/jp/world/us/LMY6HFH5AVM3HFXTRDTFR54DLI-2026-11-02/</title><link>https://www.reuters.com/jp/world/us/LMY6HFH5AVM3HFXTRDTFR54DLI-2026-11-02/</link><description>[score: 0.856] https://www.reuters.com/jp/world/us/LMY6HFH5AVM3HFXTRDTFR54DLI-2026-11-02/ neco22b</description><guid isPermaLink="false">https://www.reuters.com/jp/world/us/LMY6HFH5AVM3HFXTRDTFR54DLI-2026-11-02/</guid><pubDate>Mon, 02 Nov 2026 16:24:58 +0000</pubDate></item><item><title>アンソロピック、第3四半期は赤字が大幅縮小 売上高は急増 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFB6YlJycFRHV3FZc0x4SGNtTTFPakhZUFpWR0p4V1JGZmpQOFlsc2NyMkJlNnQwV21rMXdldkZUN2RkZTlqenpzUWp6amdSZ3N3ZFhNU0hjQnJ2dDl2ZEhsenJNSkdMVVUteFJMNlZKLWV3QmxqYUY1ckt5ZUZTdw?oc=5</link><description>[score: 0.857] アンソロピック、第3四半期は赤字が大幅縮小 売上高は急増 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFB6YlJycFRHV3FZc0x4SGNtTTFPakhZUFpWR0p4V1JGZmpQOFlsc2NyMkJlNnQwV21rMXdldkZUN2RkZTlqenpzUWp6amdSZ3N3ZFhNU0hjQnJ2dDl2ZEhsenJNSkdMVVUteFJMNlZKLWV3QmxqYUY1ckt5ZUZTdw?oc=5</guid><pubDate>Mon, 02 Nov 2026 15:21:28 +0000</pubDate></item><item><title>会見を見た誰しもが困惑していそうなGMOの会見、ガバナンスやコンプライアンス軽視など様々な問題が指摘されるが、一番は論点がすり替わっていることではないか</title><link>https://togetter.com/li/2765930</link><description>[score: 0.859] 会見を見た誰しもが困惑していそうなGMOの会見、ガバナンスやコンプライアンス軽視など様々な問題が指摘されるが、一番は論点がすり替わっていることではないか 産経ニュース @Sankei_news GMO会見 熊谷社長、涙で「情報守れず」と痛恨の表情 「みんなを笑顔にしてから死ぬ」 sankei.com/article/202611… 「お客さまの情報を守れと言い続けてきた」と涙ながらに語り、それにもかかわらず今回の事態を招いたことに痛恨の表情を浮かべた。 2026-11-02 17:00:13 GMO会見 熊谷社長、...</description><guid isPermaLink="false">https://togetter.com/li/2765930</guid><pubDate>Mon, 02 Nov 2026 15:10:35 +0000</pubDate></item><item><title>AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った</title><link>https://zenn.dev/tokium_dev/articles/adr-authoring-guideline</link><description>[score: 0.861] AIが書く「読みづらいADR」に発狂しかけたので、ADRのガイドラインを作った はじめに みなさん、ADR（Architecture Decision Record）は書いていますでしょうか？ AIを使ったソフトウェア開発において「意思決定の記録を残す」ことの重要性は、今や多くのエンジニアに周知されているかと思います。 僕が率いるチームにおいても、プロジェクト開始初期から様々な技術的な意思決定をADRに記録し、運...</description><guid isPermaLink="false">https://zenn.dev/tokium_dev/articles/adr-authoring-guideline</guid><pubDate>Mon, 02 Nov 2026 15:00:39 +0000</pubDate></item><item><title>ISUCON2026 利用言語比率と言語別TOP10チーム : ISUCON公式Blog</title><link>https://isucon.net/archives/isucon2026-languages.html</link><description>[score: 0.861] ISUCON2026 利用言語比率と言語別TOP10チーム : ISUCON公式Blog ISUCON2026の利用言語比率を公開します。856チームの参加があり、運営で利用言語を把握できたのは658チームとなりました。 今回からは、選手のみなさんに利用したAIのハーネスとモデルも申告いただいたので、あわせて集計結果を公開します。 ISUCON2026 利用言語比率 利用率の全体ランキングと、上位30チームの内訳は以...</description><guid isPermaLink="false">https://isucon.net/archives/isucon2026-languages.html</guid><pubDate>Mon, 02 Nov 2026 17:10:10 +0000</pubDate></item><item><title>米オラクル、200億ドル調達へ ＡＩ・クラウド投資に充当 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFAzblRKOGNrVUdTbjA0ZzJFLU1WVmxqQXgyS00wdk00U29BWVR6aWIzb0tHSHZKVWQ1YUs4VHhTVXVJVHh0czBwMDZRYnZneFMxZkNwQUtaSG9uZTdmNTNmRnN0Rkh0Ti1OSENsOGZNX0N4dDJZZmloR05MSFkwZw?oc=5</link><description>[score: 0.863] 米オラクル、200億ドル調達へ ＡＩ・クラウド投資に充当 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFAzblRKOGNrVUdTbjA0ZzJFLU1WVmxqQXgyS00wdk00U29BWVR6aWIzb0tHSHZKVWQ1YUs4VHhTVXVJVHh0czBwMDZRYnZneFMxZkNwQUtaSG9uZTdmNTNmRnN0Rkh0Ti1OSENsOGZNX0N4dDJZZmloR05MSFkwZw?oc=5</guid><pubDate>Mon, 02 Nov 2026 15:21:28 +0000</pubDate></item><item><title>https://www.reuters.com/jp/economy/I5JVWQ3A3BP7PDWCKDODN5NAYA-2026-11-02/</title><link>https://www.reuters.com/jp/economy/I5JVWQ3A3BP7PDWCKDODN5NAYA-2026-11-02/</link><description>[score: 0.864] https://www.reuters.com/jp/economy/I5JVWQ3A3BP7PDWCKDODN5NAYA-2026-11-02/ neco22b</description><guid isPermaLink="false">https://www.reuters.com/jp/economy/I5JVWQ3A3BP7PDWCKDODN5NAYA-2026-11-02/</guid><pubDate>Mon, 02 Nov 2026 17:23:29 +0000</pubDate></item><item><title>米国株式市場・序盤＝大幅高、イラン情勢改善に期待で原油6％安 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNWk84SUMweG1BeWZLTDVtXzNBaXpraGZmd1g1LXBwX3AteWtOaW9tN2VXR3JVbTdLV2ppLXdXX0pWR1RfSkJCNWQ2N3drR2hmWXd3c3c3ZDRfZUprYXBFd3h2UW5Xa24wdEVUOWdBZkk0ay03aE4tSktPaVgyY0ZDRXlGajE5Zw?oc=5</link><description>[score: 0.865] 米国株式市場・序盤＝大幅高、イラン情勢改善に期待で原油6％安 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNWk84SUMweG1BeWZLTDVtXzNBaXpraGZmd1g1LXBwX3AteWtOaW9tN2VXR3JVbTdLV2ppLXdXX0pWR1RfSkJCNWQ2N3drR2hmWXd3c3c3ZDRfZUprYXBFd3h2UW5Xa24wdEVUOWdBZkk0ay03aE4tSktPaVgyY0ZDRXlGajE5Zw?oc=5</guid><pubDate>Mon, 02 Nov 2026 16:15:07 +0000</pubDate></item><item><title>【Vue.js_1時間入門⏰】1時間でローカル環境の構築からシンプルなカウンターアプリを作るまで🔢【初心者向け】</title><link>https://qiita.com/saito_next/items/5c9c643228e33b3d6e3e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.869] この記事で作るもの
-このようなものを作ります。ブラウザで動くカウンターアプリです。
-「ボタンを押してね」を押すたびに画面の数字がカウントされていく仕組みです。
-はじめに
-JavaScript、そしてそのフレームワークであるVue.jsの操作感を学習するために、簡易的なカウンターアプリを作成しました。
-これからJavaScriptやVue.jsを扱う方への参考および備忘録として、ローカル環境の導入からアプリ作成までの手順をまとめます。
-環境や操作の慣れなどの個人差はありますが、初心者の方向けにも、ざっくり1時間ほどで1つの成果物が作れる記事を目指しました⏰
-⏱️ 本記事の所要時間：約60分
-下記</description><guid isPermaLink="false">https://qiita.com/saito_next/items/5c9c643228e33b3d6e3e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 02 Nov 2026 20:28:40 +0000</pubDate></item><item><title>GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」</title><link>https://www.itmedia.co.jp/news/article/2611/02/2000002823/2</link><description>[score: 0.869] GMO熊谷代表、涙の謝罪会見でも“熊谷節”さく裂──「31年間、もうけるという言葉は使ったことがない」 第2部「本件を通じて得た知見についてのご説明」での熊谷代表の全発言は以下の通り。 改めまして、熊谷です。大変恐縮ですが、PC操作がございますので、このパートは座ってお話をさせてください。 まず最初に、この事件における私たちの基本姿勢についてご説明をさせていただきます。お客さまに対する姿勢は、「誠実に」...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/02/2000002823/2</guid><pubDate>Mon, 02 Nov 2026 20:41:42 +0000</pubDate></item><item><title>米共和党敗北でもトランプに法的対抗策はほとんどない、それでも試みる可能性 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title><link>https://forbesjapan.com/articles/detail/107568</link><description>[score: 0.876] 米共和党敗北でもトランプに法的対抗策はほとんどない、それでも試みる可能性 | Forbes JAPAN 公式サイト（フォーブス ジャパン） 米中間選挙で共和党が大敗を喫した場合、ドナルド・トランプ大統領と米政府が開票結果に異議を唱えて法的手段に訴える可能性が取りざたされている。しかし、法律の専門家たちはフォーブスの取材に対し、大統領が選挙結果を覆すために取れる有効な法的手段は存在しないと説明した。ただ、それでもトランプは試みる可能性...</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107568</guid><pubDate>Mon, 02 Nov 2026 14:58:01 +0000</pubDate></item><item><title>「秋の叙勲」受章者発表 各界で功労のあった計3861人が受章</title><link>https://news.web.nhk/newsweb/na/nd-20261103de69860</link><description>[score: 0.880] ことしの「秋の叙勲」の受章者が発表され、各界で功労のあったあわせて3861人が受章することになりました。
-ことしの「秋の叙勲」を受章するのは、「旭日大綬章」が7人、「瑞宝大綬章」が4人です。
-ま…
-GMO 経営トップ含めセキュリティーリスク対応の体制構築が課題
-11月3日 5:02
-ノジマ 不正アクセスで約700万件の個人情報漏えい
-11月2日 19:16
-ロードサービス利用者の個人情報 最大約550万件漏えい
-11月2日 20:46
-アメリカ中間選挙 日本時間の今夜 投票開始 激しい選挙戦続く
-11月3日 5:07
-ベルギーやスウェーデン スーパーにサイバー攻撃か 食品に被害
-11月3日 5</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de69860</guid><pubDate>Mon, 02 Nov 2026 21:04:50 +0000</pubDate></item><item><title>ノジマオンラインにて約700万人分の情報流出。氏名、住所、電話番号、ログインID・パスワードなど（GAME Watch） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/743e16ce8d8b3f48908d0248d48f4d15c913b90e</link><description>[score: 0.882] ノジマオンラインにて約700万人分の情報流出。氏名、住所、電話番号、ログインID・パスワードなど（GAME Watch） - Yahoo!ニュース 写真：GAME Watch（株式会社インプレス） ノジマは、同社ECサイト「ノジマオンライン」における不正アクセスに伴う個人情報漏えいに関するお知らせを公開した。 同社は、11月1日に発生した「ノジマオンライン」の会員管理システムに対する第三者による不正アクセスによって、同サイト及び中古スマホ買取サイトに登録さ...</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/743e16ce8d8b3f48908d0248d48f4d15c913b90e</guid><pubDate>Mon, 02 Nov 2026 19:41:24 +0000</pubDate></item><item><title>PHPの脆弱性「php2shell」が来たので、Amazonの公式パッケージを待たずにPHPを自分でビルドして本番に入れた話</title><link>https://qiita.com/Tukirukiki/items/beec6fedd37f63e1c231?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] はじめに
-2026年10月に公表された PHPの脆弱性「php2shell」に、公表当日の夜に対応しましたので、備忘録としてやったことを記載していきます！
-いろんなPHPを使っている企業がメンテになって、中には、まる1日メンテになってる企業もありましたね、、
-僕たちのプロジェクトは大型のイベントがあったので、メンテをせずパッチを当てました。
-その時、実際にやったことや躓いたことを記載していきます。
-ざっくりやったこと
-本番は Amazon Linux 2023の EC2で、PHPはOSのパッケージ（php8.4-*
-）として入れています。
-ふだんなら dnf upgrade
-で済む話ですが、修</description><guid isPermaLink="false">https://qiita.com/Tukirukiki/items/beec6fedd37f63e1c231?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 02 Nov 2026 20:28:40 +0000</pubDate></item><item><title>作家の山中恒さんの手記全文が初公開 憲法公布時期に執筆</title><link>https://news.web.nhk/newsweb/na/nd-20261102de69842</link><description>[score: 0.890] 人気テレビドラマ「あばれはっちゃく」の原作者で子ども向けの著作を数多く残し、ことし3月に94歳で亡くなった作家の山中恒さん。中学生だった80年前の憲法公布から、施行までの時期につづった手記の全文が初め…
-注目ワード
-あわせて読みたい
-GMO 経営トップ含めセキュリティーリスク対応の体制構築が課題
-11月3日 5:02
-ノジマ 不正アクセスで約700万件の個人情報漏えい
-11月2日 19:16
-ロードサービス利用者の個人情報 最大約550万件漏えい
-11月2日 20:46
-アメリカ中間選挙 日本時間の今夜 投票開始 激しい選挙戦続く
-11月3日 5:07
-「秋の叙勲」受章者発表 各界で功労のあっ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261102de69842</guid><pubDate>Mon, 02 Nov 2026 21:04:50 +0000</pubDate></item><item><title>アメリカ中間選挙 日本時間の今夜 投票開始 激しい選挙戦続く</title><link>https://news.web.nhk/newsweb/na/nd-20261103de69868</link><description>[score: 0.890] トランプ政権に対する有権者の評価が事実上、示されるアメリカの中間選挙は、日本時間の3日夜に投票が始まります。トランプ大統領は投票日前日の2日、首都ワシントンで演説し、投票前日まで、激しい選挙戦が続いて…
-あわせて読みたい
-【アメリカ中間選挙2026 特集ページ】
-中間選挙ってどんな選挙？トランプ政権は？わかりやすく解説
-11月2日 8:12
-米中間選挙 世論調査の信頼揺らぎ“予測市場”が拡大 課題は
-11月1日 19:03
-アメリカ中間選挙 3日に投票開始 NW9広内キャスターが現地取材
-11月2日 22:06
-“50年の歩みが後退する”？ 米中間選挙 選挙区見直しの陰で
-10月30日 11:</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de69868</guid><pubDate>Mon, 02 Nov 2026 21:04:50 +0000</pubDate></item><item><title>ソウルの飲酒運転死亡事故から1年 犠牲者の日本人女性を悼む</title><link>https://news.web.nhk/newsweb/na/nd-20261103de69858</link><description>[score: 0.894] 韓国のソウルで観光に訪れていた日本人親子が飲酒運転の車にはねられ母親が死亡した事故から1年となり、2日、事故現場近くで韓国人ピアニストらが企画した追悼の催しが行われました。
-日本人観光客も多く訪れ…
-あわせて読みたい
-GMO 経営トップ含めセキュリティーリスク対応の体制構築が課題
-11月3日 5:02
-ノジマ 不正アクセスで約700万件の個人情報漏えい
-11月2日 19:16
-ロードサービス利用者の個人情報 最大約550万件漏えい
-11月2日 20:46
-アメリカ中間選挙 日本時間の今夜 投票開始 激しい選挙戦続く
-11月3日 5:07
-「秋の叙勲」受章者発表 各界で功労のあった計3861人が</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de69858</guid><pubDate>Mon, 02 Nov 2026 21:04:50 +0000</pubDate></item><item><title>GMO 経営トップ含めセキュリティーリスク対応の体制構築が課題</title><link>https://news.web.nhk/newsweb/na/nd-20261103de69861</link><description>[score: 0.901] GMOインターネットグループは、不正アクセスの問題が明らかになってから初めてとなる会見を2日、開きました。2年前に子会社が指摘していたシステムのぜい弱性については対策が不十分だったという認識を示す一方…
-GMO 不正アクセス問題 熊谷社長ら記者会見【詳細】
-11月3日 0:46
-GMO 熊谷社長会見で陳謝 ぜい弱性指摘 サービス運営に生かせず
-11月2日 21:25
-ノジマ 不正アクセスで約700万件の個人情報漏えい
-11月2日 19:16
-丸井グループ 顧客の個人情報 最大で約9000人分漏えい
-11月2日 20:51
-サントリーHD 不正アクセスで個人情報約10万人分が漏えい
-11月2日 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de69861</guid><pubDate>Mon, 02 Nov 2026 20:05:16 +0000</pubDate></item><item><title>米アンソロピック 売り上げ13倍もAI開発への支出は140兆円余に</title><link>https://news.web.nhk/newsweb/na/nd-20261103de69869</link><description>[score: 0.902] アメリカのAI開発企業「アンソロピック」はIPO＝新規株式公開に向けた書類の改訂版を公表し、ことし1月から9月までの売り上げが去年の同じ時期の13倍となったことを明らかにしました。一方、AI開発に必要…
-あわせて読みたい
-GMO 経営トップ含めセキュリティーリスク対応の体制構築が課題
-11月3日 5:02
-アメリカ中間選挙 日本時間の今夜 投票開始 激しい選挙戦続く
-11月3日 5:07
-「秋の叙勲」受章者発表 各界で功労のあった計3861人が受章
-11月3日 5:21
-作家の山中恒さんの手記全文が初公開 憲法公布時期に執筆
-11月3日 5:30
-ロードサービス利用者の個人情報 最大約550万</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de69869</guid><pubDate>Mon, 02 Nov 2026 21:04:50 +0000</pubDate></item></channel></rss>
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 03 Nov 2026 02:45:42 +0000</lastBuildDate><item><title>イーロン・マスク、Grok Botのコストは「持続不可能なほど高い」と発言</title><link>https://forbesjapan.com/articles/detail/107617?s=ns</link><description>[score: 0.874] 米国時間11月1日、イーロン・マスクはスペースXのAIエージェント「Grok Bot」について、生み出す収益に対して運用コストが「持続不可能なほど高い」ことを認めた。マスクはこのわずか2週間前、同サービスをこれまで見た中で最も急成長している製品だと誇っていたが、利用上限に対する有料会員からの苦情に答える形でこの現状を明かした。
+利用上限に加入者が不満、マスクはGrok Botのコスト高を認める
+今週に入り、Grok Botの利用上限に「あっという間に」達してしまうという声がXに投稿されたことを受け、マスクは「Grok Botの提供コストは、収益に対して持続不可能なほど高かった」と返信した。
+ま</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107617?s=ns</guid><pubDate>Tue, 03 Nov 2026 01:29:55 +0000</pubDate></item><item><title>ADHDにおける「起こりえる行動特性（実例80個）」と家族の対処法</title><link>https://ezo-cl.jp/symptom/3014/</link><description>[score: 0.875] ADHDにおける「起こりえる行動特性（実例80個）」と家族の対処法（完全詳細医療ガイド）
+ADHD（注意欠如・多動性障害）の特性は「不注意」「多動性」「衝動性」の3つに大きく分類されます。本ガイドでは、日常、学校、職場、社会生活で起こりえる全80の具体的事例について、最新の脳科学・行動療法（認知行動療法、環境構造化、ペアレント・トレーニング）に基づく具体的サポート法、改善の臨床指標、そして「必ず医師にかかるべき危険な受診レベル」を網羅して専門的に解説します。
+📋 【全80実例＆医療ガイド】目次（クリックすると該当箇所へジャンプします）
+【不注意に関する行動（1〜27）】
+【多動性に関する行動（</description><guid isPermaLink="false">https://ezo-cl.jp/symptom/3014/</guid><pubDate>Tue, 03 Nov 2026 00:35:40 +0000</pubDate></item><item><title>AI投資は加速、実行は停滞 ── 勝者を分ける「ビルダー」と「オーケストレーター」</title><link>https://forbesjapan.com/articles/detail/107647?s=ns</link><description>[score: 0.876] 私たちは、企業史上最も高額なテクノロジー導入サイクルのただ中にいる。
+Gartnerは、世界のAI支出が2026年までに2兆5200億ドル（約398兆円）に達し、前年比44%増になると予測している。しかし、あらゆるベンダーが新たなAI提案を掲げ、ハイパースケーラーやネオクラウドが記録的な売上高を報告する一方で、すべての取締役会が現実的なロードマップを持っているわけではない。実際、AI変革のストーリーを声高に語る多くの企業の内部では、より憂慮すべき現実が進行している。
+AIは失敗しているのではない。停滞しているのだ。
+IDCは、企業によるAIソリューションへの投資が2025年に3070億ドル（約</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107647?s=ns</guid><pubDate>Tue, 03 Nov 2026 01:29:55 +0000</pubDate></item><item><title>日本株「ツルハシ神話」に陰り　AI投資に黄信号、揺らぐ増益期待 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/</link><description>[score: 0.877] この記事は会員限定記事です
+日本株「ツルハシ神話」に陰り AI投資に黄信号、揺らぐ増益期待
+日本株の上昇期待が剝落しつつある。市場は米テック大手による人工知能（AI）投資の拡大ペースが減速する将来を織り込み始めた。悪影響を受けるのは大規模投資の恩恵にあずかってきた「ツルハシ銘柄」。株価上昇を正当化してきたナラティブ（物語）が、株売りの材料にすり替わっている。
+「過去最大の損失が出た。AI関連の地合いの悪さは単に需給悪化だけではないのかもしれない」。山和証券（東京・中央）の岡本郁翔ディー...
+株式市場の日々の動きと要因、見通しなどを緻密な取材を元にわかりやすく分析、解説します。
+関連企業・業界</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUB0222R0S6A101C2000000/</guid><pubDate>Mon, 02 Nov 2026 23:04:00 +0000</pubDate></item><item><title>Apple、第4四半期として過去最高の増収増益　ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」</title><link>https://www.itmedia.co.jp/news/article/2611/03/2000002840/</link><description>[score: 0.878] Apple、第4四半期として過去最高の増収増益 ターナスCEO初の決算「Siri AIはずっと望んでいたSiri」
+米Appleは11月2日（現地時間）、第4四半期（2026年7月～9月）の決算を発表した。売上高は前年同期比12％増の1144億7700万ドルで、第4四半期として過去最高を記録した。純利益は12％増の307億1100万ドル（1株当たり2.10ドル）で、純利益と1株当たり利益も第4四半期として過去最高を更新した。
+通期（2025年10月～2026年9月）では、売上高が15％増の4788億3400万ドル、純利益が18％増の1321億7500万ドル（1株当たり8.98ドル）となり、売上</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/03/2000002840/</guid><pubDate>Tue, 03 Nov 2026 01:17:18 +0000</pubDate></item><item><title>誰もが求める「AI幹部」、しかし具体的に定義できる者はいない</title><link>https://forbesjapan.com/articles/detail/107650?s=ns</link><description>[score: 0.879] 少し前、筆者の経営するエグゼクティブ・サーチファームに、あるクライアント候補が「AIに精通した最高経営責任者（CEO）」の採用支援を求めてやってきた。それが提示された要件だったが、なぜそれが必要なのか尋ねても、具体的な理由は返ってこなかった。クライアントの頭のなかでは、理由の説明など不要だと思われていたからだ。
+こうした依頼は、今や業界や職能を問わず飛び込んでくるようになっており、その背後にあるパターンは驚くほど一貫している。クライアントは技術系人材の獲得競争が激しいことを知っている。自分たちが目指す水準から遅れていることも自覚している。だが分からないのは、面接で目の前に座る人物に求められる「</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107650?s=ns</guid><pubDate>Tue, 03 Nov 2026 01:29:55 +0000</pubDate></item><item><title>「貧者のClaudeCodeMax」第2弾：月10ドルで70ドル分叩けるCommand Code GOATプラン</title><link>https://zenn.dev/kuwashima/articles/poor-man-claude-code-goat</link><description>[score: 0.879] 「貧者のClaudeCodeMax」第2弾：月10ドルで70ドル分叩けるCommand Code GOATプラン
+月10ドルで70ドル分のクレジットが付与されるプランが出てきた
+前回の記事「「貧者のClaudeCodeMax」安価なコーディング向けサービスで無限に開発する」では、月10ドルのOpenCode Goや月20ドルのDevin Proを組み合わせて、月6万回以上のLLM呼び出しを安価に確保する構成をまとめました。
+定額サブスクで安価なモデルを回し続ければ、高価なプランを契約せずとも個人開発は十分に進む印象です。
+そんな折、Command Codeというコーディングエージェントから「G</description><guid isPermaLink="false">https://zenn.dev/kuwashima/articles/poor-man-claude-code-goat</guid><pubDate>Mon, 02 Nov 2026 23:08:56 +0000</pubDate></item><item><title>米・ウクライナ・ロシアの実務者協議 10日からUAEで開催へ</title><link>https://news.web.nhk/newsweb/na/nd-20261103de69878</link><description>[score: 0.880] アメリカのウィトコフ特使は、ウクライナとロシアの和平をめぐるアメリカも交えた3か国の実務者協議を、11月、UAE＝アラブ首長国連邦で開催すると明らかにしました。
+アメリカのウィトコフ特使が2日、S…
+アメリカ中間選挙 日本時間の今夜から投票開始 焦点は
+11月3日 11:33
+トランプ大統領 イラン攻撃再開決定について「急がず」 米報道
+11月3日 10:04
+スペイン列車事故 日本人2人の死亡確認 地元当局が身元特定
+11月3日 10:14
+まぎらわしい2人の候補 トランプ大統領が頭を抱えるワケは？
+11月2日 13:12
+江戸時代のUFO？“うつろ舟” 200年の謎がついに・・・
+アメリカ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de69878</guid><pubDate>Tue, 03 Nov 2026 01:05:26 +0000</pubDate></item><item><title>楽天証券、顧客情報362件が漏えいか　NTTデータ委託先に不正アクセス</title><link>https://www.itmedia.co.jp/news/article/2611/02/2000002785/</link><description>[score: 0.880] 楽天証券、顧客情報362件が漏えいか NTTデータ委託先に不正アクセス
+楽天証券は10月31日、「デジタル特典付き社債」を購入した一部顧客の情報のべ362件が漏えいした可能性があると発表した。NTTデータの委託先が提供するシステムが第三者による不正アクセスを受けたため。漏えいした可能性がある項目は明らかにしていない。
+NTTデータは今回の不正アクセスを受け、社債購入者向けの特典付与サービス「STdirectServices」を停止したと発表した。
+漏えいの対象は、楽天証券が販売した（1）カゴメの第1回無担保社債（2023年2月21日発行）、（2）西日本旅客鉄道の第80回無担保社債（2024年6</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/02/2000002785/</guid><pubDate>Tue, 03 Nov 2026 00:54:17 +0000</pubDate></item><item><title>ウクライナで局地停戦が終了　住民避難もほかの地域で攻撃</title><link>https://news.web.nhk/newsweb/na/nd-20261103de69879</link><description>[score: 0.881] 人道状況の悪化が伝えられていたウクライナ南部の都市オレシュキでのロシアとウクライナの局地的な停戦が期限となり終了しました。
+住民が避難した一方、ほかの地域では攻撃が続き市民の犠牲は増え続けています。…
+江戸時代のUFO？“うつろ舟” 200年の謎がついに・・・
+アメリカ中間選挙でAI「スロパガンダ」が…“真実”はどこに？
+“保守王国”テキサスが接戦に？背景にヒスパニック系の失望
+まぎらわしい2人の候補 トランプ大統領が頭を抱えるワケは？
+史上最大の選挙監視 アメリカ中間選挙 問われる選挙への信頼
+アメリカ政治を揺るがす“キリスト教ナショナリズム”
+日本ワイン ライバル3社が初タッグ なぜ？【経</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de69879</guid><pubDate>Tue, 03 Nov 2026 02:00:05 +0000</pubDate></item><item><title>「GMOトラスト・ログイン」で2492社・4万5030人の情報漏えい、設定不備でファイルが公開領域に</title><link>https://internet.watch.impress.co.jp/docs/news/2153245.html</link><description>[score: 0.881] ニュース
+「GMOトラスト・ログイン」で2492社・4万5030人の情報漏えい、設定不備でファイルが公開領域に
+2026年11月2日 20:06
+GMOグローバルサイン株式会社は10月30日、ID管理・シングルサインオンサービス「GMOトラスト・ログイン」における情報漏えいについて、外部専門機関による調査結果を公表した。
+本件は9月14日、同社の脆弱性報告制度を通じて、外部のセキュリティ研究者から報告を受けて判明した。同社は9月16日に第1報、10月7日に第2報を公表しており、10月23日に外部専門機関による調査が完了したことを受け、第3報として対象件数や原因、再発防止策などを公表した。
+同社</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2153245.html</guid><pubDate>Tue, 03 Nov 2026 00:04:52 +0000</pubDate></item><item><title>https://x.com/imaimai17468/status/2117223189822714169?a=mZ_04hcFVNApkTzzDC8&amp;s=12</title><link>https://x.com/imaimai17468/status/2117223189822714169?a=mZ_04hcFVNApkTzzDC8&amp;s=12</link><description>[score: 0.882] ︎︎🐸いまいまい🐌@imaimai17468Show translation最近AIに与えてる自然な文章にするためのルール（新たに一番上を追加） - 必要十分な情報を、最小限の文章量で伝える。 - 過剰な共感・称賛・謝罪・自己反省を避ける。 - 不要な前置き・対比・要約・結論・重複説明を省く。 - 抽象的な美辞麗句より具体的な事実を優先する。 - 人間らしさを演出する口語表現や不自然な短文の連続を避ける。 - 指摘には迎合せず、事実に基づいて判断する。11:51 AM · Nov 2, 2026·5,822Views66455
+︎︎🐸いまいまい🐌@imaimai17468Show transl</description><guid isPermaLink="false">https://x.com/imaimai17468/status/2117223189822714169?a=mZ_04hcFVNApkTzzDC8&amp;s=12</guid><pubDate>Tue, 03 Nov 2026 02:03:17 +0000</pubDate></item><item><title>弊社がAIでPlaywrightテストコードを生成するために調整したこと</title><link>https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude</link><description>[score: 0.882] こんにちは！CastingONEの大沼です。 始めに 弊社では毎回のQA期間で行うテスト工数を減らすために、Playwrightを使った自動テストを導入しました。テストコードはAIで生成したものを使っていましたが、最初は品質が悪く色々調整する必要があったため、この辺について備忘録としてまとめました。 AIが生成したコードで微妙だった点と対策 どういったルールが必要なのか僕も分からなかったので一旦AIに色々書かせてみて、ここは調整した方が良いなと思ったのをいくつか紹介します。なお、最初のルールはとりあえず公式が説明している方法で出力されたルールを日本語訳にしたものを使いました。 h...</description><guid isPermaLink="false">https://zenn.dev/castingone_dev/articles/casone_playwright_for_claude</guid><pubDate>Mon, 02 Nov 2026 23:37:31 +0000</pubDate></item><item><title>トランプ大統領 イラン攻撃再開決定について「急がず」 米報道</title><link>https://news.web.nhk/newsweb/na/nd-20261103de69887</link><description>[score: 0.883] アメリカのニュースサイトアクシオスは、トランプ大統領が電話取材に応じイランへの攻撃再開の決定について「急いでいない」と述べたと報じました。
+バンス副大統領は交渉による解決の可能性があるとして進展を見…
+アメリカ中間選挙 日本時間の今夜から投票開始 焦点は
+11月3日 11:33
+まぎらわしい2人の候補 トランプ大統領が頭を抱えるワケは？
+11月2日 13:12
+スペイン列車事故 日本人2人の死亡確認 地元当局が身元特定
+11月3日 10:14
+米アンソロピック 売り上げ13倍もAI開発への支出は140兆円余に
+11月3日 5:43
+江戸時代のUFO？“うつろ舟” 200年の謎がついに・・・
+ア</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de69887</guid><pubDate>Tue, 03 Nov 2026 02:00:05 +0000</pubDate></item><item><title>ウクライナの学校にロシア軍が空爆、少なくとも２６人が死亡…ゼレンスキー氏「真の正義も望んでいないことを裏付けるもの」</title><link>https://www.yomiuri.co.jp/world/20261103-GYT1T00079/</link><description>[score: 0.884] ウクライナの学校にロシア軍が空爆、２６人死亡…ゼレンスキー氏「真の正義も望んでいないこと裏付けるもの」
+完了しました
+ロシアによる侵略が続くウクライナの非常事態当局は２日、同国南部ザポリージャ州コミシュバハの学校が露軍の空爆を受け、少なくとも２６人が死亡し、５人が負傷したと発表した。標的となった学校は、人道支援物資を配布する拠点として利用されていた。
+ウクライナのウォロディミル・ゼレンスキー大統領は２日、ＳＮＳへの投稿で「ロシアが事態の沈静化も、真の正義も望んでいないことを裏付けるものだ」と批判した。ゼレンスキー氏によると最初の空爆後、人々が避難していたシェルターを狙ってさらに９発の爆弾が落と</description><guid isPermaLink="false">https://www.yomiuri.co.jp/world/20261103-GYT1T00079/</guid><pubDate>Tue, 03 Nov 2026 01:09:43 +0000</pubDate></item><item><title>アンソロピック、社内のAI利用額が従業員の給与を上回る。IPO書類が明かした「AI革命の節目」</title><link>https://www.businessinsider.jp/article/2611-anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens/</link><description>[score: 0.885] AI革命の注目すべき節目として、アンソロピック（Anthropic）は今や、社内でのAI利用に、従業員への給与支払いよりも多くの額を費やしている。
+同社はIPO申請書類でこれを明らかにした。2026年4月、アンソロピックが顧客に請求している価格で算出した社内でのClaudeの利用額が、株式報酬を除く月間の従業員報酬コストを上回った。
+9月までに、この社内でのAI利用は1月と比べて250倍超に急増した。
+ここには重要な区別がある。アンソロピックは実際に、給与を上回る現金をAIに費やしているわけではない。社内でのAI消費を小売価格で評価しているのだ。
+それでも、これはテック業界にとって大きな分岐点</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-anthropic-claude-internal-ai-use-exceeds-employee-pay-tokens/</guid><pubDate>Mon, 02 Nov 2026 22:01:05 +0000</pubDate></item><item><title>パランティア、売上高見通しが予想上回る ＡＩ需要が追い風 - Reuters</title><link>https://news.google.com/rss/articles/CBMie0FVX3lxTE94akpsUFZBTGphRHNMd1hhcFcwUjJ3VzJtZkdzSDVFY3ZSM2MzLV96REVnRE4xbTA1SE9oMGtmZXJ4SzBQOUFhREkxN0ZqRXo2UDl6aER6QkJNeDdJc3Joa3l1YTlhVk1wbWRVNEQ5ejlpQ244Zy1QVVdtVQ?oc=5</link><description>[score: 0.886] パランティア、売上高見通しが予想上回る ＡＩ需要が追い風 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMie0FVX3lxTE94akpsUFZBTGphRHNMd1hhcFcwUjJ3VzJtZkdzSDVFY3ZSM2MzLV96REVnRE4xbTA1SE9oMGtmZXJ4SzBQOUFhREkxN0ZqRXo2UDl6aER6QkJNeDdJc3Joa3l1YTlhVk1wbWRVNEQ5ejlpQ244Zy1QVVdtVQ?oc=5</guid><pubDate>Tue, 03 Nov 2026 01:31:45 +0000</pubDate></item><item><title>AI投資への懸念でオラクル株が急落、ラリー・エリソンの資産が約1.74兆円減少</title><link>https://forbesjapan.com/articles/detail/107621?s=ns</link><description>[score: 0.887] オラクル共同創業者ラリー・エリソンの推定純資産は、米国時間2026年11月2日に110億ドル（約1兆7380億円）減少した。オラクルが株式と社債を通じて計200億ドル（約3兆1600億円）を調達すると明らかにし、株価が約3カ月ぶりの安値まで下落したことが響いた。調達資金は人工知能（AI）関連事業に充てられる可能性がある。
+米東部標準時午後2時30分すぎ、エリソンの推定純資産は110億ドル（約1兆7380億円）減り、1600億ドル（約25兆2800億円）となった。それでもフォーブスが公表するリアルタイム世界長者番付では8位を維持した。プロバスケットボールチーム、ロサンゼルス・クリッパーズを所有す</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107621?s=ns</guid><pubDate>Tue, 03 Nov 2026 01:29:55 +0000</pubDate></item><item><title>Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB</title><link>https://ai-data-base.com/archives/139789</link><description>[score: 0.890] Claude CodeやCodexが書いたコードを全部は読まずに自分で説明できるようにする4つの手順 - AIDB 理解していないAIのコードを出してよいのか、開発者がHacker Newsで議論 10月19日、Hacker Newsに「理解していないAIのコードをリリースすることに、どう向き合えばいいか」という投稿が立ちました。コメントでは、全体の流れは分かっても細部を把握できないことや、AIがコードとテストの両方を書いたときの見逃しが話題...</description><guid isPermaLink="false">https://ai-data-base.com/archives/139789</guid><pubDate>Tue, 03 Nov 2026 00:34:04 +0000</pubDate></item><item><title>コードレビューをなくして見えたもの</title><link>https://zenn.dev/henteko/articles/b76b15922cdf72</link><description>[score: 0.890] コードレビューをなくして見えたもの この記事の内容をざっくり1分20秒でまとめた動画を作っているので、時間がない方はこちらをご覧ください。 はじめに 半年ほど前に、こんな記事を書きました。 人間によるコードレビューをやめて、実装の前に「コンセプト」をチームで確認するワークフローに移行したい、という内容でした。その記事の最後にこんなことを...</description><guid isPermaLink="false">https://zenn.dev/henteko/articles/b76b15922cdf72</guid><pubDate>Tue, 03 Nov 2026 01:19:35 +0000</pubDate></item><item><title>トランプ氏、イランとの合意「実現あり得る」　中間選挙前日に発言</title><link>https://www.cnn.co.jp/usa/35254305.html</link><description>[score: 0.890] リンカーン記念堂前にあるリフレクティング・プール（反射池）に到着し、演説を行うトランプ大統領＝2日、米首都ワシントン/Umit Bektas/Reuters （CNN） トランプ米大統領は2日、翌日の中間選挙を目前に控えた局面で、イランとの合意が「実現する可能性がある」と述べた。イランとの戦争はガソリン価格の急騰を招き、自身の支持率を押し下げている。 トランプ氏は2日午後、自身のSNS「トゥルース・ソーシャル」に「原油価格が急落している。1バレル当たり10ドル（約1600円）近く下がっており、記録的な下落だ。これは、イランとの戦争は起きないと人々が感じているからだ。イランは一刻も早い合意を望ん</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35254305.html</guid><pubDate>Tue, 03 Nov 2026 00:05:14 +0000</pubDate></item><item><title>Anthropic、IPO申請書を修正　7～9月売上高は約170億ドル、インフラ契約額は約8954億ドル</title><link>https://www.itmedia.co.jp/news/article/2611/03/2000002831/</link><description>[score: 0.892] Anthropic、IPO申請書を修正 7～9月売上高は約170億ドル、インフラ契約額は約8954億ドル
+米Anthropicは11月2日（現地時間）、米証券取引委員会（SEC）に新規株式公開（IPO）に向けた登録届出書の修正版（Form S-1/A）を提出した。10月26日に提出した初回の申請書に、2026年第3四半期（7～9月期）の業績や、AIの計算資源・インフラに関する将来の支出約束額などを追加した。
+新たに開示された7～9月期の売上高は169億5600万ドル（約2.7兆円）で、前年同期の約12.3倍、前四半期比では約47％増となった。一方、営業損益は5億6700万ドルの赤字で、前四半期</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/03/2000002831/</guid><pubDate>Tue, 03 Nov 2026 00:16:13 +0000</pubDate></item><item><title>トランプ氏「口約束」連発　中間選挙前に焦り：時事ドットコム</title><link>https://www.jiji.com/jc/article?k=2026110200882&amp;g=int</link><description>[score: 0.894] トランプ氏「口約束」連発 中間選挙前に焦り
+【ワシントン時事】トランプ米大統領が、中間選挙を前に焦りを募らせている。上院激戦州での演説で、支持拡大を狙う「口約束」を連発。会場では歓声が上がるものの、有権者にどこまで響いているかは疑問符が付く。
+トランプ氏、激戦州で巻き返し 物価高が争点、共和に逆風―中間選挙、３日投開票
+共和党は、長らく牙城としてきた中西部のアイオワ、カンザス両州などで苦戦を強いられている。選挙戦最終盤の１日、トランプ氏は両州で演説。中東情勢の悪化で高騰する燃料価格を抑制するため、エタノール混合ガソリンの通年販売を「アイオワで（共和党候補が）上院議員になれば恒久化する」と語り、</description><guid isPermaLink="false">https://www.jiji.com/jc/article?k=2026110200882&amp;g=int</guid><pubDate>Tue, 03 Nov 2026 01:39:33 +0000</pubDate></item><item><title>「謝罪響かない」「泣くくらいなら」　GMO熊谷代表会見、利用者は：朝日新聞</title><link>https://www.asahi.com/articles/ASVC234HYVC2UTIL00TM.html</link><description>[score: 0.898] 「謝罪響かない」「泣くくらいなら」 GMO熊谷代表会見、利用者は
+GMOインターネットグループの熊谷正寿グループ代表らは2日、都内で会見を開き、傘下のGMOインターネットが提供するクラウドサービスが不正アクセスを受けた問題を謝罪した。利用者らはどう受け止めたのか。
+会見で、熊谷氏は一連の被害を謝罪した上で、グループ内のサイバーセキュリティーの専門家から、システム上の課題を指摘されながら、反映できていなかったことを明らかにした。会見では熊谷氏が時折、涙を流す場面もあった。
+FX（外国為替証拠金取引）口座で身に覚えのない取引をされ、約600万円を失ったという神奈川県の会社員男性（44）は会見を受け</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVC234HYVC2UTIL00TM.html</guid><pubDate>Tue, 03 Nov 2026 00:49:12 +0000</pubDate></item><item><title>Claude Codeを使ったバイブコーディングで30分で業務アプリを作ってみよう</title><link>https://gihyo.jp/article/2026/10/claude-business-guide-02?utm_source=feed</link><description>[score: 0.899] 10月27日（火）発売の書籍『Claude AI活用 最強の教科書』に書ききれなかった応用的な内容や最新のアップデートについて解説します。書籍をあわせて読むとさらに理解が深まることでしょう。 今回は一歩進めて、業務アプリそのものを作ります。使うのはClaude Code（クロードコード）です。プログラムを書くためのAIエージェントですが、ターミナルは使いません。デスクトップ版を開き、日本語で要件を書き、作らせて、試験用のデータで動かすところまでを30分でやってみましょう。</description><guid isPermaLink="false">https://gihyo.jp/article/2026/10/claude-business-guide-02?utm_source=feed</guid><pubDate>Tue, 03 Nov 2026 02:06:35 +0000</pubDate></item><item><title>アンソロピックのQ3売上高が「約2.7兆円」に急増、一方AI投資額は「約144兆円」規模に</title><link>https://forbesjapan.com/articles/detail/107619?s=ns</link><description>[score: 0.900] 米国時間11月2日、アンソロピックは上場に向けた修正届出書の中で、今年の第3四半期の売上高が170億ドル（約2兆7200億円）近くに急増したことを明らかにした。その一方、AIインフラに対しては9000億ドル（約144兆円）近くを支出する契約を結んでいる。
+修正された上場申請書（Form S-1）によると、同社の第3四半期の売上高は前年同期比1127％増となったものの、依然として233億ドル（約3兆7300億円）の純損失を計上した。
+また、第3四半期の総営業費用も175億ドル（約2兆8000億円）に達し、第2四半期の105億ドル（約1兆6800億円）や前年同期の44億ドル（約7040億円）から急</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107619?s=ns</guid><pubDate>Tue, 03 Nov 2026 00:33:35 +0000</pubDate></item><item><title>「紫→青グラデ背景」「ベージュ」など、WebページのAI臭を消すスキル3種（生成AIクローズアップ）</title><link>https://www.techno-edge.net/article/2026/11/03/5660.html</link><description>[score: 0.900] 1週間の気になる生成AI技術・研究をいくつかピックアップして解説する連載「生成AIウィークリー」から、特に興味深いAI技術や研究にスポットライトを当てる生成AIクローズアップ。
+今回は、Claude CodeやCursorなどのコーディングAIにWebページやアプリなどを作らせると、AIっぽい（AIスロップ）UIになる現象を排除するスキル3つを取り上げます。
+紫から青へのグラデーション背景、中央の大見出しとボタン、その下にアイコン付きカードが3枚など、AIが生成するWebページは同じUIになりがちです。このAIっぽい見た目を潰すスキル3つを厳選してご紹介します。
+Hallmark
+Togeth</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/11/03/5660.html</guid><pubDate>Tue, 03 Nov 2026 02:25:26 +0000</pubDate></item><item><title>ICC赤根所長 国連でアメリカの制裁批判 使命果たすと決意</title><link>https://news.web.nhk/newsweb/na/nd-20261103de69880</link><description>[score: 0.902] 戦争犯罪や人道に対する罪などを裁くICC＝国際刑事裁判所の赤根智子所長が国連で年次報告を行い、アメリカによる制裁を厳しく批判するとともに「あらゆる困難にかかわらず使命を果たし続ける」と述べ、決意を示し…
+江戸時代のUFO？“うつろ舟” 200年の謎がついに・・・
+アメリカ中間選挙でAI「スロパガンダ」が…“真実”はどこに？
+“保守王国”テキサスが接戦に？背景にヒスパニック系の失望
+まぎらわしい2人の候補 トランプ大統領が頭を抱えるワケは？
+史上最大の選挙監視 アメリカ中間選挙 問われる選挙への信頼
+アメリカ政治を揺るがす“キリスト教ナショナリズム”
+日本ワイン ライバル3社が初タッグ なぜ？【</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de69880</guid><pubDate>Tue, 03 Nov 2026 02:00:05 +0000</pubDate></item><item><title>【分析】トランプ氏の支持表明、再び自身の首を絞めることになる可能性　米中間選挙</title><link>https://www.cnn.co.jp/usa/35254308.html</link><description>[score: 0.903] 選挙集会でマイク・コリンズ下院議員の演説を見守るトランプ大統領＝10月24日、ジョージア州ペリー/Mark Schiefelbein/AP （CNN） 2020年米大統領選と22年中間選挙で共和党が上院過半数を獲得できなかった理由は、トランプ氏本人にあった可能性が十分にある。 20年の選挙については、トランプ氏自身でさえ、「選挙が盗まれた」との執拗（しつよう）な訴えが上院多数派を決するジョージア州決選投票の投票率に悪影響を及ぼした可能性を認めている。22年の選挙では、トランプ氏は資質に欠けるMAGA（米国を再び偉大に）派の候補者を支持して共和党に押しつけ、十分に獲得できる見込みのあった議席を取</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35254308.html</guid><pubDate>Tue, 03 Nov 2026 02:06:18 +0000</pubDate></item><item><title>トランプ氏支持率32％、過去最低近辺 中間選挙控え＝世論調査 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE0wcEhXVW1udG9uYWZmcGpwb0FRZTBtQ29fRXdHeV8tZ1RudkJ0a1ljWU11d0MxZlZlcFZLRjhvMXpyR2VKOG1SX3BkOXY4bVhHSUNuaGlFWlRTcHh4NnJkYjdvSVJPSFpsekN1MkFmbUotNDRPSXNocDRfNUFsTzA?oc=5</link><description>[score: 0.907] トランプ氏支持率32％、過去最低近辺 中間選挙控え＝世論調査 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE0wcEhXVW1udG9uYWZmcGpwb0FRZTBtQ29fRXdHeV8tZ1RudkJ0a1ljWU11d0MxZlZlcFZLRjhvMXpyR2VKOG1SX3BkOXY4bVhHSUNuaGlFWlRTcHh4NnJkYjdvSVJPSFpsekN1MkFmbUotNDRPSXNocDRfNUFsTzA?oc=5</guid><pubDate>Mon, 02 Nov 2026 21:22:04 +0000</pubDate></item></channel></rss>
