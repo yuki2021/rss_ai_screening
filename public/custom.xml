@@ -1,37 +1,111 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 04 Nov 2026 01:00:16 +0000</lastBuildDate><item><title>AI振興か、気候変動対策か──データセンター建設を巡る欧州のジレンマ</title><link>https://wired.jp/article/europe-data-centers-climate-change/</link><description>[score: 0.876] ドイツ政府は今年3月、野心的な計画を打ち出した。2030年までに国内のデータセンターの規模を倍増させ、人工知能（AI）モデルに使える計算能力を4倍に引き上げるというものだ。狙いは、欧州全体で懸念されているAI分野での米国依存を減らし、低迷する国内経済を活性化させることにある。
-しかし、ドイツではAI産業の振興と気候変動対策の目標が衝突している。欧州連合（EU）加盟国は、2030年までに温室効果ガスの排出量を（1990年比で少なくとも）55％削減することを約束している。だが、その目標の達成を目指す政策が、データセンターの建設ラッシュを促そうとする取り組みの足かせになっているのだ。
-より広範な気候</description><guid isPermaLink="false">https://wired.jp/article/europe-data-centers-climate-change/</guid><pubDate>Tue, 03 Nov 2026 23:55:08 +0000</pubDate></item><item><title>運用歴36年のテック投資家、2026年は55％上昇でS&amp;P 500を圧倒。AI相場の揺れのなかで次に狙う銘柄</title><link>https://www.businessinsider.jp/article/2611-investor-of-the-month-columbia-threadneedle-paul-wick-tech-stocks/</link><description>[score: 0.876] 「今月の投資家」では、同業者を上回る成績を上げているプロの投資家に焦点を当てる。「最高の投資家」を決めることよりも、いま独自の手法で勝ちを狙うトレーダーのポートフォリオ、戦略、意思決定を掘り下げることが狙いだ。
-ポール・ウィック（Paul Wick）氏が、テック投資家とは何かを学ぶのに与えられた時間はわずか2週間だった。1990年、コロンビア・セリグマン・テクノロジー・アンド・イノベーション・ファンド（CCIZX）の運用を任されたときのことだ。
-前任者が引退することになり、運用会社は後任を必要としていた。そこで社長が、ウィック氏をハイイールド債の運用戦略から異動させたのだ。
-「実地にどっぷり浸</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-investor-of-the-month-columbia-threadneedle-paul-wick-tech-stocks/</guid><pubDate>Tue, 03 Nov 2026 22:19:08 +0000</pubDate></item><item><title>(備忘録) お名前.comからRoute 53へドメイン移管し、お名前メールをさくらのメールボックスへ移す</title><link>https://zenn.dev/momura/articles/896dbde5e42491</link><description>[score: 0.876] はじめに 個人で利用している独自ドメインの管理をお名前.com → Route 53 に移し、お名前メールもやめた。その作業の備忘録。 DNS とドメインの登録を Route 53 に移す流れ メールの移行先の選定（WorkMail は終了予定） Route 53 のレコード名に @ と入れてメールが届かなくなった件 ドメイン名やサーバー名は example.com などに置き換えている。 前提と構成 項目 移行前 移行後 レジストラ お名前.com Amazon Registrar（Route 53 Domains） DNS お名前.com Route 5...</description><guid isPermaLink="false">https://zenn.dev/momura/articles/896dbde5e42491</guid><pubDate>Tue, 03 Nov 2026 23:53:30 +0000</pubDate></item><item><title>ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する</title><link>https://zenn.dev/nkzn/articles/my-first-void</link><description>[score: 0.876] ポートフォリオをVoidで作り直したので、Voidの来歴と中身を整理する 筆者のポートフォリオサイトnkzn.netは、これまで何度か作り直してきました。最初はNext.jsとExpo(react-native-web)を組み合わせた構成、2代目はExpo Router、3代目はAstroと、その上で動くCMSのEmDashで作り始... yuiseki</description><guid isPermaLink="false">https://zenn.dev/nkzn/articles/my-first-void</guid><pubDate>Wed, 04 Nov 2026 00:17:21 +0000</pubDate></item><item><title>メタ、米ドル建て社債で150億ドル調達 ＡＩインフラ投資に充当 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5XeURGaExxYnlzRVplM0xueW03QTZRSGRoMG5QSE0zYXJfRXVpTS1weDMweUo5V19VbXptQVpyVXNseDZZSlhJT3gydUs3eGxCNkJ5TXYtLXFXRms3MWRHNXNvaGZBQkxoSUU4RzAwUGx3MnNYWFgwVlJXd2gzUQ?oc=5</link><description>[score: 0.876] メタ、米ドル建て社債で150億ドル調達 ＡＩインフラ投資に充当 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE5XeURGaExxYnlzRVplM0xueW03QTZRSGRoMG5QSE0zYXJfRXVpTS1weDMweUo5V19VbXptQVpyVXNseDZZSlhJT3gydUs3eGxCNkJ5TXYtLXFXRms3MWRHNXNvaGZBQkxoSUU4RzAwUGx3MnNYWFgwVlJXd2gzUQ?oc=5</guid><pubDate>Wed, 04 Nov 2026 00:51:55 +0000</pubDate></item><item><title>APEC閣僚会議開催 オンライン形式は異例</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70103</link><description>[score: 0.877] 中国・※深センで今月開かれるAPEC＝アジア太平洋経済協力会議の首脳会議を前に、外相・貿易担当相の会議が3日夜、オンライン形式で開かれました。閣僚会議は通常、首脳会議の前に対面で行われていて、オンライ…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 04 Nov 2026 13:32:06 +0000</lastBuildDate><item><title>【心理的安全性】ギスギスした職場はなぜ危険か。AI企業で働く人の82%が会議で懸念を黙った経験があるらしい</title><link>https://qiita.com/shinkai_/items/009e6bfbc5e44e2e535a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.873] はじめに
+時間がない人向け：10秒で読む超概要
+- 何の話か：Googleが調査した効果的なチームに共通する要素のひとつとして、「ミスをしても、それを責められることはない」という要素があげられる
+- 何を言いたいのか：ギスギスした職場が危険なのは、雰囲気が悪いからというより、言うと不利になって人が黙るから。現場で今すぐ見るべきは「トラブルを報告したあとに何が起きるか」
+最近、セキュリティ事故のニュースを目にする機会が増えました。
+たとえば、ランサムウェアの被害報告件数は、警察庁の発表によると2026年上半期に123件となり、半期では過去最多と報じられています。
+事故のニュースを見ると「なんで誰</description><guid isPermaLink="false">https://qiita.com/shinkai_/items/009e6bfbc5e44e2e535a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 04 Nov 2026 08:32:27 +0000</pubDate></item><item><title>アングル：米中間選挙、トランプ氏の介入裏目 「推し候補」相次ぎ敗北 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFB1LVJQRkRzZmxwQnVIdXFhVnRqNjkxUENVVWpxZ3lTeEdvZzJ0X2J6M09mTGkxS0ZqU2ZXM3hiWmVrbDhKZnJmZTlBVkR4VzNnRktteWVTOG1jb2FickppYnoweWVaQjlNdzRLS3F4OEJQc0h6emlTbmNqV3dFMk0?oc=5</link><description>[score: 0.873] アングル：米中間選挙、トランプ氏の介入裏目 「推し候補」相次ぎ敗北 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFB1LVJQRkRzZmxwQnVIdXFhVnRqNjkxUENVVWpxZ3lTeEdvZzJ0X2J6M09mTGkxS0ZqU2ZXM3hiWmVrbDhKZnJmZTlBVkR4VzNnRktteWVTOG1jb2FickppYnoweWVaQjlNdzRLS3F4OEJQc0h6emlTbmNqV3dFMk0?oc=5</guid><pubDate>Wed, 04 Nov 2026 08:32:56 +0000</pubDate></item><item><title>中間選挙で民主党が歴史的勝利、トランプ氏の反応まとめ　「結果受け入れる」</title><link>https://www.cnn.co.jp/usa/35254388.html</link><description>[score: 0.874] 中間選挙を控えた演説を終えて立ち去るトランプ大統領。背後には、米連邦議会議事堂がそびえ立っている＝3日、首都ワシントンのナショナル・モール/Jonathan Ernst/Reuters （CNN） トランプ米大統領が3日投開票の中間選挙の結果を受け入れる考えを示したことで、選挙結果に異議を唱えるのではないかとの疑念は払拭（ふっしょく）された。少なくとも、現時点では――。 トランプ氏は米紙ニューヨーク・タイムズに対し、「結果を受け入れることに全く異存はない」とコメント。民主党との協力を楽しみにしているとも語った。ただ、今後あっさりと態度を翻す可能性もある。 選挙結果に関するトランプ氏のここまでの</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35254388.html</guid><pubDate>Wed, 04 Nov 2026 11:06:18 +0000</pubDate></item><item><title>【やじうまPC Watch】 メモリ発言で物議のSam Altman氏、「Ram Altman」に改名</title><link>https://pc.watch.impress.co.jp/docs/news/yajiuma/2153619.html</link><description>[score: 0.875] やじうまPC Watch
+メモリ発言で物議のSam Altman氏、「Ram Altman」に改名
+2026年11月4日 17:40
+メモリ(RAM)に関する発言で物議を醸しているOpenAI CEOのSam Altman(サム・アルトマン)氏が、自身のX(旧Twitter)アカウントの表示名を「Ram Altman」に改名した。
+これは、10月29日に公開されたインタビュー動画に端を発するもの。同氏はこの動画の中で、昨今のメモリ高騰に対し、グローバルの資源配分の観点から、個人のPCにDRAMを分散させているのは効率的でないとし、クラウドに資源を集約すべきだと発言。このことが物議を醸していた。</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/yajiuma/2153619.html</guid><pubDate>Wed, 04 Nov 2026 10:40:42 +0000</pubDate></item><item><title>良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70494</link><description>[score: 0.876] 「無印良品」を展開する良品計画は、不正アクセスを受けて、クレジットカード番号の全桁、およそ109万件が漏えいしたおそれがあると発表しました。
+この中には、すでに期限切れとなっているカードも多く含ま…
 あわせて読みたい
-アメリカ中間選挙 投票続く 一部は日本時間の午前8時から開票
-11月4日 5:54
-94年目の反乱？ 農家の怒りがトランプ大統領に逆風
-11月3日 11:32
-韓国大統領や高官の個人情報流出 イ大統領パスポート再発行へ
-11月3日 18:00
-米・ウクライナ・ロシアの実務者協議 10日からUAEで開催へ
-11月3日 20:55
-ICC赤根所長 国連でアメリカの制裁批判 使命果</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70103</guid><pubDate>Tue, 03 Nov 2026 21:34:44 +0000</pubDate></item><item><title>Googleジョン・ミューラー氏インタビュー：リスト記事やAI量産など近道SEOは長続きしない</title><link>https://www.suzukikenichi.com/blog/john-mueller-interview-seo-shortcuts-like-listicles-and-mass-ai-content-dont-last/</link><description>[score: 0.878] [レベル: 初級]
-Google 検索チームがスペイン・バルセロナで開催した Search Central Live Deep Dive Europe 2026 で、John Mueller（ジョン・ミューラー）氏に David Iwanow（デヴィッド・イワノフ）氏がインタビューしました。
-AI コンテンツの大量生成やリスト記事に偏った戦略のような SEO の近道に対する見解をはじめ、リダイレクト、URL パラメータ、クロールの統計情報レポート、EC サイトの商品データなどについてミューラー氏はアドバイスしています。
-インタビュー主要ポイント：ミューラー氏が語る AI コンテンツと SEO </description><guid isPermaLink="false">https://www.suzukikenichi.com/blog/john-mueller-interview-seo-shortcuts-like-listicles-and-mass-ai-content-dont-last/</guid><pubDate>Tue, 03 Nov 2026 22:06:24 +0000</pubDate></item><item><title>インフラや防衛分野に向け国産AIの開発進む</title><link>https://news.web.nhk/newsweb/na/nd-20261103de70059</link><description>[score: 0.878] AIの活用がさまざまなインフラや防衛分野にも広がることが見込まれる中、国内の企業が基盤となるモデルから手がける「国産AI」の開発が進んでいます。
-このうち、スタートアップ企業の「Sakana AI…
-注目ワード
-あわせて読みたい
-スペイン列車事故 日本人2人の死亡確認 地元当局が身元特定
-11月3日 10:14
-脚本家の倉本聰さん 「北の国から」富良野でお別れの会 北海道
-11月3日 12:13
-GMO 経営トップ含めセキュリティーリスク対応の体制構築が課題
-11月3日 5:02
-「秋の叙勲」受章者発表 各界で功労のあった計3861人が受章
-11月3日 6:39
-作家の山中恒さんの手記全文が初</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de70059</guid><pubDate>Tue, 03 Nov 2026 22:28:24 +0000</pubDate></item><item><title>トランプ氏、イランへの攻撃計画「当面ない」＝ＦＴ - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5QLU5TYTF5VUZDRGU5bEowV3FvVHR2LWE2YmpLUlRYR2lHUkhrZDgtTzNxRFNJbEJvekR6cW1HajFnZGh6dXNfZk5uV3ZhU2Yzd2M3ZkJaX0hvRHFOYTBpT2pxNkFpZXBSWmtsaWNPQUVmRVA4anR3aUhhZHV5T2s?oc=5</link><description>[score: 0.879] トランプ氏、イランへの攻撃計画「当面ない」＝ＦＴ Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE5QLU5TYTF5VUZDRGU5bEowV3FvVHR2LWE2YmpLUlRYR2lHUkhrZDgtTzNxRFNJbEJvekR6cW1HajFnZGh6dXNfZk5uV3ZhU2Yzd2M3ZkJaX0hvRHFOYTBpT2pxNkFpZXBSWmtsaWNPQUVmRVA4anR3aUhhZHV5T2s?oc=5</guid><pubDate>Wed, 04 Nov 2026 00:51:55 +0000</pubDate></item><item><title>ウォール街が哲学者と詩人を求め始めた理由　AI時代の新通貨は「コード」ではない</title><link>https://forbesjapan.com/articles/detail/107671?s=ns</link><description>[score: 0.881] 少し前、私はカトリック司教たちを前に、思考の伴走者としてのAIについて講演するよう依頼された。彼らの多くが哲学を専攻していたことを知っていた私は、AIの世界で哲学専攻者が突然、いかに引く手あまたになっているかを指摘するところから話を始めた。150人の司教と4人の枢機卿が集まった会場に、笑顔の波が広がった。好奇心と懐疑心、そして少しの熱意を携えてAIの話を聞きに来た一団にとって、適切なアイスブレークだった。
-ある司教が私に語ったように、哲学者はいま「ロボットを行儀よくさせる」ために求められている。だが、マネーのピラミッドのさらに上層では、もっと奇妙なことが起きている。そして、どのような規模であれ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107671?s=ns</guid><pubDate>Wed, 04 Nov 2026 00:00:41 +0000</pubDate></item><item><title>新しいRAG「Decision RAG」は速い！安い！上手い！🍜 - Qiita</title><link>https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f</link><description>[score: 0.881] 新しいRAG「Decision RAG」は速い！安い！上手い！🍜 - Qiita ⚖️ はじめに 最近Jevをはじめとした判断特化型のモデルが続々と出てきていますよね。文章は書かずに「はい」の確からしさだけを返してくれるモデルです。この判断モデルをRAGの検索に使う「DecisionRAG」という論文が出ていたので自分なりに噛み砕いてみました。後半は通常のRAG（以降NaiveRAGと記載）と比較検証をしてみ...</description><guid isPermaLink="false">https://qiita.com/kikuziro/items/cc82e6e4e4c215eac99f</guid><pubDate>Wed, 04 Nov 2026 00:37:18 +0000</pubDate></item><item><title>台風31号の影響 あすは関東・伊豆諸島で大雨のおそれ</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70112</link><description>[score: 0.881] 強い台風31号の周辺から湿った空気が流れ込む影響で、関東と伊豆諸島では5日、大雨のおそれがあります。気象庁は、土砂災害や低い土地の浸水などに十分注意するよう呼びかけています。
-気象庁によりますと、…
+アメリカ中間選挙 民主党 上下両院で多数派奪還へ【最新情報】
+11月4日 20:32
+サイバー攻撃で情報漏えいの可能性 10月は1億8500万件あまりに
+11月4日 18:13
+消費税減税法案 自民“6日採決を” 民改“首相答弁聞き判断”
+11月4日 18:25
+三菱UFJ 新ネット銀行ではキャッシュカード“発行しない”方針
+11月4日 13:28
+【アメリカ中間選挙2026 特</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70494</guid><pubDate>Wed, 04 Nov 2026 09:11:06 +0000</pubDate></item><item><title>https://openai.com/ja-JP/index/qodo-codex-plugin/</title><link>https://openai.com/ja-JP/index/qodo-codex-plugin/</link><description>[score: 0.876] Qodo、Codex で AI コードレビューにコンテキストを統合
+Qodo は組織のコンテキストとコードベースの規約を Codex に組み込み、開発者がリポジトリをまたぐ P0 の問題を検出できるよう支援します。
+Qodo（新しいウィンドウで開く） は、コードレビューとソフトウェア品質向上のための AI ツールを開発し、コーディングエージェントが変更対象のコードを理解するために必要な組織の知識を提供しています。共同創業者兼 CEO の Itamar Friedman 氏は、これを「コーディングエージェントの最高の相棒」と呼んでいます。
+Qodo は GPT‑6 Astra をはじめとする O</description><guid isPermaLink="false">https://openai.com/ja-JP/index/qodo-codex-plugin/</guid><pubDate>Wed, 04 Nov 2026 12:21:32 +0000</pubDate></item><item><title>メール配信の「アララメッセージ」で7700万件のメアド流出　一部企業は会員情報も</title><link>https://www.watch.impress.co.jp/docs/news/2153526.html</link><description>[score: 0.877] ニュース
+メール配信の「アララメッセージ」で7700万件のメアド流出 一部企業は会員情報も
+2026年11月4日 17:26
+メール配信サービスを展開するアララは2日、同社の「アララ メッセージ」において、第三者による不正アクセスが発生し、サービスを停止していると発表した。持ち出されたメールアドレスは約7,700万件(2日調査時点)。
+同社では10月28日に不正アクセスを確認し、31日にサービスを停止。調査を進めていたが、不正アクセスが判明したサーバーが拡大し、契約企業の会員情報等が外部に持ち出されたことが判明。持ち出されたメールアドレスは、約7,700万件となっている(重複の可能性があるため</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2153526.html</guid><pubDate>Wed, 04 Nov 2026 08:39:39 +0000</pubDate></item><item><title>米中間選挙、民主党が上下両院で多数派奪還へ　トランプ共和党は敗北 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOCB0412F0U6A101C2000000/</link><description>[score: 0.877] 米中間選挙、民主党が上下両院で多数派奪還 トランプ共和党は大敗
+【ワシントン=飛田臨太郎】米中間選挙は3日に全米で投開票され、野党・民主党が連邦議会の上下両院の多数派奪還を確実にした。米メディアが報じた。トランプ米大統領は3日、敗因はイラン問題との認識を示し、選挙結果を「受け入れる」と表明した。
+トランプ氏が率いる与党・共和党は政策にかかわる予算案や法案の成立に民主の協力が欠かせなくなる。上院には大統領が指名した政府高官らの人事を認めるか決める権限もある。過...
+※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。
+この投稿は現在非表示に設定されています
+(更新)
+</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOCB0412F0U6A101C2000000/</guid><pubDate>Wed, 04 Nov 2026 05:32:15 +0000</pubDate></item><item><title>トランプ氏、さっそく責任逃れ「私の名前は投票用紙に載っていなかった」 中間選挙大敗で</title><link>https://www.afpbb.com/articles/-/3660789</link><description>[score: 0.877] トランプ氏、さっそく責任逃れ「私の名前は投票用紙に載っていなかった」 中間選挙大敗で 【11月4日 AFP】ドナルド・トランプ米大統領（80）は3日、共和党が歴史的な大敗を喫し、上下両院で多数派を失うことが確実になった中間選挙の結果を受け入れる意向を示したが、さっそく他の共和党員に責任を転嫁しようとした。 トランプ氏は選挙遊説で繰り返し、共和党員に対して「私の名前が投票用紙に載っていると思っ...</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3660789</guid><pubDate>Wed, 04 Nov 2026 09:34:10 +0000</pubDate></item><item><title>「AIのレビューだけでマージ、正直まだ怖い」と思ってたけど、条件次第ならアリかもしれない話</title><link>https://qiita.com/nobu34/items/a73129c6401ebae10960?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] プルリクエストが、終わらない
+「AIのおかげでコードを書くのは速くなった。AIがレビューもしてくれる。なのに、なんで私は今日もマージ待ちのPRの山を前にしているんだろう...。」
+みなさん、こんな気持ちになったことはありませんか？
+AIがコードを書いてくれる時代になり、実装のスピードは劇的に上がりました。AIによるレビューも使えるようになりましたが、マージ前の最終確認は人間がやる、という運用の現場も多いと思います。その分プルリクエスト（PR）の数もどんどん増え、気づけば、ボトルネックはコードを書くことではなく、人間がレビューすることになっていました。
+「じゃあ、人間のレビューも省いて、AIのレ</description><guid isPermaLink="false">https://qiita.com/nobu34/items/a73129c6401ebae10960?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 04 Nov 2026 08:32:27 +0000</pubDate></item><item><title>参政 都議補選で子宮けいがんめぐる発言のボードメンバー 交代</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70569</link><description>[score: 0.878] 参政党の神谷代表は党の執行部にあたるボードメンバーの都議会議員が街頭演説で「子宮けいがんはかぜの一部だ」などと発言したのは不適切だったとした上で、4日付けでボードメンバーを交代したことを明らかにしまし…
+新型コロナワクチンめぐる発言 原口一博 元衆院議員に賠償命令
+10月29日 21:23
+埼玉県警 巡査部長が警察官から拳銃奪い自分に発砲
+11月4日 18:01
+良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ
+11月4日 19:14
+台風31号 関東や伊豆諸島 5日昼ごろにかけ大雨のおそれ
+11月4日 22:13
+AIからの情報漏えい防ぐ新サービス 機密性の高い情報を匿名化
+11月4</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70569</guid><pubDate>Wed, 04 Nov 2026 10:12:22 +0000</pubDate></item><item><title>NIKKE PCランチャーのサプライチェーン攻撃、IT学生が自分のPCを調べてみた</title><link>https://zenn.dev/nanana_sk/articles/nikke-launcher-incident</link><description>[score: 0.878] ! この記事について：この記事の調査は、生成AI（Claude）と対話しながら進めた結果をまとめたものです。また、記事の文章もAIが下書きし、筆者が内容を確認・修正しています。AIの説明や判断には誤りが含まれている可能性があり、筆者自身もセキュリティの専門家ではありません。内容を鵜呑みにせず、必ず元の解析レポートや公式発表など一次情報で確認してください。この記事の手順で「安全だ」と判断して何か起きても責任は持てません。 はじめに 結論から言うと、自分のPCは「攻撃者のスクリプトは読み込んでたけど、本体（遠隔操作ツール）が動いた痕跡は見つからなかった」って状態だった。 IT系の専門学...</description><guid isPermaLink="false">https://zenn.dev/nanana_sk/articles/nikke-launcher-incident</guid><pubDate>Wed, 04 Nov 2026 12:04:32 +0000</pubDate></item><item><title>マスク氏、米中間選挙の民主党勝利に「肩すくめる」絵文字　共和党の巨額献金者</title><link>https://www.cnn.co.jp/usa/35254380.html</link><description>[score: 0.878] マスク氏、米中間選挙の民主党勝利に「肩すくめる」絵文字 共和党の巨額献金者
+（CNN） 世界一の富豪イーロン・マスク氏は4日未明、前日投開票の米中間選挙で民主党が歴史的な過半数を確保する見通しとなったことを受け、自身のソーシャルメディア上で反応を示した。同氏は今年の中間選挙で、共和党に対する史上最大規模の献金者の一人となっていた。
+マスク氏は自身のプラットフォーム「X（旧ツイッター）」への投稿で、「どうやら私の『選挙干渉用スペースレーザー』は今回うまく機能しなかったらしい」と書き込み、肩をすくめる絵文字を添えた。
+Guess my election-interfering space lase</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35254380.html</guid><pubDate>Wed, 04 Nov 2026 10:40:42 +0000</pubDate></item><item><title>埼玉県警 巡査部長が警察官から拳銃奪い自分に発砲</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70462</link><description>[score: 0.879] 埼玉県警の30代の巡査部長が、うその110番通報をして駆けつけた警察官から拳銃を奪いみずからの頭に向けて発砲しました。警察は、巡査部長は自殺を図ったとみて、拳銃が奪われた状況についても詳しく調べていま…
+【アメリカ中間選挙2026 特集ページ】
+消費税減税法案 自民“6日採決を” 民改“首相答弁聞き判断”
+11月4日 18:25
+三菱UFJ 新ネット銀行ではキャッシュカード“発行しない”方針
+11月4日 13:28
+台風31号 関東や伊豆諸島 5日昼ごろにかけ大雨のおそれ
+11月4日 22:13
+暗号資産大手が報告書 偽面接やAIツールでシステムに侵入
+11月4日 8:18
+インフラや防衛分野</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70462</guid><pubDate>Wed, 04 Nov 2026 09:11:06 +0000</pubDate></item><item><title>非上場企業株式の新評価方式“与党の税制調査会で”片山財務相</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70412</link><description>[score: 0.879] 国税庁の有識者会議で検討されている非上場企業の株式の新たな評価方法をめぐり、片山財務大臣は、この有識者会議での議論をいったん停止し、与党の税制調査会に委ねる考えを示しました。
+市場で取り引きされる…
+アメリカ中間選挙 民主党 上下両院で多数派奪還へ【最新情報】
+11月4日 20:32
+サイバー攻撃で情報漏えいの可能性 10月は1億8500万件あまりに
+11月4日 18:13
+良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ
+11月4日 19:14
+台風31号 関東や伊豆諸島 5日昼ごろにかけ大雨のおそれ
+11月4日 22:13
+サッカー日本代表 強化試合のメンバー28人発表 南野拓実が</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70412</guid><pubDate>Wed, 04 Nov 2026 09:42:56 +0000</pubDate></item><item><title>「AI」改め「超知能」から1カ月、トランプ大統領令に従っているのは？</title><link>https://www.technologyreview.jp/s/394304/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/</link><description>[score: 0.879] You need to enable JavaScript to run this app.</description><guid isPermaLink="false">https://www.technologyreview.jp/s/394304/heres-who-is-falling-in-line-for-trumps-super-intelligence-loyalty-test/</guid><pubDate>Wed, 04 Nov 2026 09:51:12 +0000</pubDate></item><item><title>エンジニアはAIのせいで燃え尽き、働く意欲を失い、アイデンティティ喪失の危機に直面している【3万人調査】</title><link>https://www.businessinsider.jp/article/2610-developers-are-burned-out-as-ai-coding-reshapes-work-survey/</link><description>[score: 0.879] - プログラマー向けQ&amp;Aサイトのスタック・オーバーフローの調査によると、AIコーディングツールは作業を効率化する一方で、エンジニアに不安と疲弊をもたらしていることが分かった。
+- 調査に答えた約3万人の開発者のうち、半数近くが現在の仕事の満足度について「どちらとも言えない」と回答。バーンアウト（燃え尽き症候群）が大きな要因となっている。
+- あるソフトウェアエンジニアは「AIの進化についていくのは事実上不可能だ」とBusiness Insiderに明かした。
+AIブームを牽引している当事者たちがいま、限界に達しつつある。
+プログラマー向けのQ&amp;Aサイトを手掛けるスタック・オーバーフロー（St</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2610-developers-are-burned-out-as-ai-coding-reshapes-work-survey/</guid><pubDate>Wed, 04 Nov 2026 11:07:26 +0000</pubDate></item><item><title>サイバー攻撃で情報漏えいの可能性 10月は1億8500万件あまりに</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70482</link><description>[score: 0.880] 不正アクセスによる情報漏えいが相次ぐ中、民間の調査会社が調べたところ、先月1か月間だけでサイバー攻撃によって漏えいした可能性がある情報の件数が1億8500万件あまりにのぼることがわかりました。去年1年…
+【情報漏えい】対策どうする 二次被害に遭わないためには
+「アララ」への不正アクセス影響 利用企業で情報漏えい相次ぐ
+11月4日 21:54
+三菱UFJ 新ネット銀行ではキャッシュカード“発行しない”方針
+11月4日 13:28
+【アメリカ中間選挙2026 特集ページ】
+暗号資産大手が報告書 偽面接やAIツールでシステムに侵入
+11月4日 8:18
+インフラや防衛分野に向け国産AIの開発進む
+1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70482</guid><pubDate>Wed, 04 Nov 2026 09:11:06 +0000</pubDate></item><item><title>【米中間選挙2026】熱狂的な光景、数々の歴史的な結果　トランプ氏は民主党が「よくやった」と - BBCニュース</title><link>https://www.bbc.com/japanese/articles/cm3r5eq0d0veo</link><description>[score: 0.880] 【米中間選挙2026】熱狂的な光景、数々の歴史的な結果 トランプ氏は民主党が「よくやった」と
+ナーディーン・サアド記者（ロサンゼルス）、ジェイムズ・フィッツジェラルド記者
+3日に投開票が行われたアメリカの中間選挙で、野党・民主党が連邦議会の上下両院で主導権を奪還した。ドナルド・トランプ大統領の残る任期の間、議会は野党が支配することになった。
+最終結果が出る前から、歴史的な出来事や祝賀ムードに包まれた場面がいくつも生まれている。
+民主党は「偉大なアメリカの復活」と主張
+民主党は、2年前に共和党のトランプ大統領が楽勝した多くの州で逆転勝利を重ね、テキサス州、カンザス州、オハイオ州、サウスカロライナ</description><guid isPermaLink="false">https://www.bbc.com/japanese/articles/cm3r5eq0d0veo</guid><pubDate>Wed, 04 Nov 2026 11:15:57 +0000</pubDate></item><item><title>自治体のシステム委託先企業が高額請求 公取委が実態調査へ</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70554</link><description>[score: 0.880] 各地の自治体が、行政事務に関するシステムの委託先を切り替えようとした際、委託先からデータの移行料などとして高額な費用を請求されるケースが報告されているとして、公正取引委員会は、独占禁止法で禁止する「取…
+消費税減税法案 自民“6日採決を” 民改“首相答弁聞き判断”
+11月4日 18:25
+三菱UFJ 新ネット銀行ではキャッシュカード“発行しない”方針
+11月4日 13:28
+【アメリカ中間選挙2026 特集ページ】
+台風31号 関東や伊豆諸島 5日昼ごろにかけ大雨のおそれ
+11月4日 22:13
+暗号資産大手が報告書 偽面接やAIツールでシステムに侵入
+11月4日 8:18
+インフラや防衛分野</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70554</guid><pubDate>Wed, 04 Nov 2026 10:12:22 +0000</pubDate></item><item><title>先日鉄腕DASHを見ていたら「働きバチが自己犠牲的に働き続けるのはなぜか？」に対して「仲間のため」「人間社会と同じ」「ミツバチは人間に色んなことを教えてくれる」と説明していて、ちょっと危ない表現かもと思いました 働きバチの利他行動はそういう生態であり、道徳的な精神性とかではないので…→「こわぁ...」</title><link>https://posfie.com/@petaritape/p/wOcEtll</link><description>[score: 0.881] 先日鉄腕DASHを見ていたら「働きバチが自己犠牲的に働き続けるのはなぜか？」に対して「仲間のため」「人間社会と同じ」「ミツバチは人間に色んなことを教えてくれる」と説明していて、ちょっと危ない表現かもと思いました 働きバチの利他行動はそういう生態であり、道徳的な精神性とかではないので…→「こわぁ...」 ねる @burassica0925 先日鉄腕DASHを見ていたら「働きバチが自己犠牲的に働き続けるのはなぜか？」に対して「仲間のため」「人間社会と同じ」「ミツバチは人間に色んなことを教えてくれる」と説明していて、ちょっと危ない表現かもと思いました 働きバチの利他行動はそういう生態であり、道徳的な</description><guid isPermaLink="false">https://posfie.com/@petaritape/p/wOcEtll</guid><pubDate>Wed, 04 Nov 2026 13:03:44 +0000</pubDate></item><item><title>AIでデザインファイルの扱い方が変わった</title><link>https://yasuhisa.com/could/article/design-format-and-ai/</link><description>[score: 0.881] AIでデザインファイルの扱い方が変わった
+デザインがツールの間を行き来するようになって、デザインファイルの見方も変わりました。
+AIによって、コードに近い形でデザイン画面を生成できるようになった今でも、Figma や Sketch のようにキャンバスを備えたデザインツールは必要です。細かな調整や試行錯誤を重ねたり、複数のアイデアを並べて比較・検討したりするアイディエーションの場として、キャンバスは非常に優れています。紙のノートにも、同じような自由さがあります。
+ただ、キャンバスが必要だからといって、そのキャンバスをひとつに固定する必要はありません。
+エンジニアとデザイナーのツール選びには、大き</description><guid isPermaLink="false">https://yasuhisa.com/could/article/design-format-and-ai/</guid><pubDate>Wed, 04 Nov 2026 11:01:22 +0000</pubDate></item><item><title>東京 新島村に「レベル4土砂災害危険警報」</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70637</link><description>[score: 0.881] 気象庁は午後9時4分、東京・伊豆諸島の新島村にレベル4土砂災害危険警報を発表しました。
+土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。
+気象庁は、自治体からの避難の情報を確認し…
 【最新の台風情報】予想進路や勢力などを詳しく
 台風マップ 予想進路や勢力をリアルタイム表示
 新たな防災気象情報と避難 いつ避難する？
@@ -39,57 +113,47 @@ GMO 経営トップ含めセキュリティーリスク対応の体制構築が�
 台風や低気圧による「暴風」注意点と対策は
 伊勢湾台風とは？犠牲者5000人超「暴走木材」が街を襲った
 天気防災サイト あなたの街の天気予報や災害情報を即時提供
-まぎらわしい2人の候補 トランプ大統領が頭を抱えるワケは</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70112</guid><pubDate>Tue, 03 Nov 2026 22:28:24 +0000</pubDate></item><item><title>暗号資産大手が報告書 偽面接やAIツールでシステムに侵入</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70104</link><description>[score: 0.881] サイバー攻撃によって、日本円でおよそ1兆円相当の資産が被害を受けた暗号資産の世界的な取引所「バイナンス」は、ハッカーが偽の求人面接やAIツールなどを駆使して犯行に及んだとする報告書を公表しました。
-…
-あわせて読みたい
-アメリカ中間選挙 投票続く 一部は日本時間の午前8時から開票
-11月4日 5:54
 94年目の反乱？ 農家の怒りがトランプ大統領に逆風
-11月3日 11:32
-韓国大統領や高官の個人情報流出 イ大統領パスポート再発行へ
-11月3日 18:00
-米・ウクライナ・ロシアの実務者協議 10日からUAEで開催へ
-11月3日 20:55
-ICC赤根所長 国連でアメリカの制裁批判 使命果た</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70104</guid><pubDate>Tue, 03 Nov 2026 23:25:06 +0000</pubDate></item><item><title>Webセキュリティ被害を80％減らせる「4つの対策」、セキュリティ専門家の徳丸浩氏に聞く【週間ランキング】</title><link>https://webtan.impress.co.jp/e/2026/11/04/53560</link><description>[score: 0.881] Webセキュリティ被害を80％減らせる「4つの対策」、セキュリティ専門家の徳丸浩氏に聞く【週間ランキング】 webtan 2026年11月4日 Web担人気記事ランキング シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 2026年10月28日～2026年11月3日にアクセス数の多かった記事のランキングを発表！ 見逃している人気記事はありませんか？ Webのコト、教えてホシイの！ 【漫画】徳丸浩さんに聞いた！Webセキュリティ被害を80％減らせる「4つの対策」とは？ 12年前と比べて、セキュリティ対策の基本はどう変わったのか？ 星井博文 9月4日 7:05 成果につなげる！</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/11/04/53560</guid><pubDate>Tue, 03 Nov 2026 22:39:53 +0000</pubDate></item><item><title>経営者が本当に仕事から離れる方法</title><link>https://forbesjapan.com/articles/detail/107675?s=ns</link><description>[score: 0.882] ノートパソコンを閉じて1時間が経った。それでも、頭はまだ受信箱の中にある。
-経営者にとって、仕事から離れることは時間の問題ではない。頭が仕事を離れようとしないことが問題なのだ。事業は夕食の席にも、ジムにも、ベッドの中にまでついてくる。多くの人はこれに対して「働く時間を減らす」と誓う。だがそれでは解決しない。問題は労働時間ではなく、仕事が終わったという明確な信号を脳が受け取れないことにあるからだ。
-なぜ頭は切り替わらないのか
-心理学者たちはこれを「心理的ディタッチメント」という概念で研究してきた。組織心理学者のザビーネ・ゾネンタークとその同僚らは、勤務時間外に仕事から本当に精神的に離れられる人ほ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107675?s=ns</guid><pubDate>Wed, 04 Nov 2026 00:27:38 +0000</pubDate></item><item><title>アンソロピックのIPO届出書、台湾TSMCへの依存と半導体の供給不足を警告</title><link>https://forbesjapan.com/articles/detail/107382?s=ns</link><description>[score: 0.883] 米国時間2026年10月26日、最先端の人工知能（AI）を開発するアンソロピックの財務情報が、新規株式公開（IPO）に向けた届出書で初めて投資家に示された。同社の業績と巨額の設備利用契約は、AI市場の先行きを不安視していた投資家に驚きを与えた。
-アンソロピックのIPO届出書が半導体株を押し上げ、TSMC依存を警告
-届出書の公表を受けてテクノロジー株は幅広く上昇し、特に半導体関連株が買われた。アンソロピックはAIの開発や提供に必要な計算能力を大量に購入している。半導体関連の上場投資信託（ETF）「iShares Semiconductor ETF」は3％近く上昇した。
-アンソロピックはIPOに向</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107382?s=ns</guid><pubDate>Tue, 03 Nov 2026 23:05:34 +0000</pubDate></item><item><title>情報共有されないのは軽んじられているから？　「自分だけ知らない」を生む職場の構造と4つの対処法</title><link>https://studyhacker.net/information-gap</link><description>[score: 0.883] 「え、それ、もう決まってたの？」 ふとした折に発覚する仕事での「自分だけ知らなかった」。リモートで顕著ですが出社していても起きることですよね。筆者も参画するプロジェクトで何度も経験し、正直辟易しました。 こうしたことが重なると、「軽んじられているのかな」と気に病むし、やる気は下がるし、不安も増えます。ただ、原因は多くの場合、個人ではなく組織の仕組みや構造にあります。原因がわかれば、個人の側で打てる手もあります。 なぜ取り残されるのか。原因は「個人」より「構造」 1. 接点が足りない 2. 共有の仕組みがない 3. 多数派の無意識 4. 見えない決め方と聞けない空気 会社の対策と、その限界 【原</description><guid isPermaLink="false">https://studyhacker.net/information-gap</guid><pubDate>Tue, 03 Nov 2026 22:24:26 +0000</pubDate></item><item><title>珠玉の書籍 「人生を変えた1冊」 yukiさん＆sivchariさん</title><link>https://findy-code.io/media/articles/influential-books-helloyuki_-sivchari</link><description>[score: 0.885] 珠玉の書籍 「人生を変えた1冊」 yukiさん＆sivchariさん
-1冊の本が、エンジニアの進む方向を変えることがある。この企画では、エンジニアが1冊の本と出会った場面から今につながる変化までをたどります。誰かの1冊との物語が、あなたが次の1冊に手を伸ばすきっかけになりますように。Findy Engineer Labで全7回・55名の方にご登場いただいた「珠玉の書籍」が、1記事2名でじっくりお届けする形に生まれ変わりました。
-今回のテーマは「人生を変えた1冊」。
-ソフトウェアアーキテクトのyukiさんと、Software Engineerの sivchariさん。お2人が挙げたのは、どちらも</description><guid isPermaLink="false">https://findy-code.io/media/articles/influential-books-helloyuki_-sivchari</guid><pubDate>Wed, 04 Nov 2026 00:21:07 +0000</pubDate></item><item><title>トムソン・ロイター第3四半期は増収 ＡＩ投資増加懸念で株価下落 - Reuters</title><link>https://news.google.com/rss/articles/CBMie0FVX3lxTE9KNl9mRkJ1dWh3dms5UDlMVXlzWVVNWGNidlJoa3pMMDR4UXJHb1lOeklCQXhpc3dEb09fVjYzc3VJQTlVOEFZWDY4QnhMVkY1SjJXWkpvRzM1aUl6WTNsUHhTcU5OX19KeTlaVW1LY2xBY29TNkFReGhwNA?oc=5</link><description>[score: 0.885] トムソン・ロイター第3四半期は増収 ＡＩ投資増加懸念で株価下落 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMie0FVX3lxTE9KNl9mRkJ1dWh3dms5UDlMVXlzWVVNWGNidlJoa3pMMDR4UXJHb1lOeklCQXhpc3dEb09fVjYzc3VJQTlVOEFZWDY4QnhMVkY1SjJXWkpvRzM1aUl6WTNsUHhTcU5OX19KeTlaVW1LY2xBY29TNkFReGhwNA?oc=5</guid><pubDate>Wed, 04 Nov 2026 00:51:55 +0000</pubDate></item><item><title>AIのパラドックス、マーケティングで「人とのつながり」が価値を持つ理由</title><link>https://forbesjapan.com/articles/detail/107674?s=ns</link><description>[score: 0.886] 私が2004年に会社を設立した当時、企業のマーケティング手法は今とはずいぶん違っていた。それ以来、テクノロジーは私たちの働き方のほぼすべての側面を変え、AIがその変化を加速させている。
-当社もAIを積極的に取り入れ、業務プロセスの効率化、社員のサポート、そして最終的にはより良い顧客体験の創出にどう活かせるかを模索している。しかし、20年以上にわたる事業経験が私に教えてくれたのは、テクノロジーが変えられなかったものがあるということだ。人は、自分が理解され、価値を認められ、自分にとって最善の結果を真剣に考えてくれる誰かがいると感じたいのである。
-そして、日常のやり取りがますます自動化されていくにつ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107674?s=ns</guid><pubDate>Wed, 04 Nov 2026 00:27:38 +0000</pubDate></item><item><title>トムソン・ロイター第3四半期は増収 ＡＩ投資増加懸念で株価下落 - ニューズウィーク日本版</title><link>https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OUnZhbWhBMDl2aVVjZmpIa19WOENlSUt3cmJEbFFrbDRZR2tpQ0xOOHZFakt0ZnRaZDdCdGdrMENlSnE0UXRYUlZwdVczNG5rRDZGSzBmMmUzQQ?oc=5</link><description>[score: 0.888] トムソン・ロイター第3四半期は増収 ＡＩ投資増加懸念で株価下落 ニューズウィーク日本版</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiWkFVX3lxTE9OUnZhbWhBMDl2aVVjZmpIa19WOENlSUt3cmJEbFFrbDRZR2tpQ0xOOHZFakt0ZnRaZDdCdGdrMENlSnE0UXRYUlZwdVczNG5rRDZGSzBmMmUzQQ?oc=5</guid><pubDate>Wed, 04 Nov 2026 00:51:55 +0000</pubDate></item><item><title>全社員3600人にChatGPTを配ったら、月半ばで「トークン枯渇」　クレディセゾンは想定外の事態をどう乗り切った？</title><link>https://www.itmedia.co.jp/business/articles/2611/04/news010.html</link><description>[score: 0.888] 「さすがにトークン枯渇は起こらないだろうと高を括（くく）っていた。実際に直面し、現場は大騒ぎになりました」
-クレディセゾンの小野和俊・CDO（最高デジタル責任者）兼CTO（最高技術責任者）はこう振り返る。
-2026年6月、社内の生成AI利用が拡大することで、AI使用量を示す「トークン」の消費量が指数関数的に増え、想定期間の半ばで利用枠に達してしまう「トークン枯渇」に陥ったのだ。
-2019年から小野氏を中心に社内DXを推し進め、直近では全社AI活用を本格化し「AIトランスフォーメーション戦略」に舵を切ったクレディセゾン。「トークン枯渇」問題をどう乗り越えたのか。
-本稿はSansanが開催したユー</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2611/04/news010.html</guid><pubDate>Tue, 03 Nov 2026 21:40:42 +0000</pubDate></item><item><title>アンソロピック、7～9月の売上は170億ドル(2.7兆円)　「劇的な加速」がリスクに</title><link>https://www.watch.impress.co.jp/docs/news/2153309.html</link><description>[score: 0.890] ニュース
-アンソロピック、7～9月の売上は170億ドル(2.7兆円) 「劇的な加速」がリスクに
-2026年11月4日 07:00
-Anthropic(アンソロピック)は2日(米国時間)、新規株式公開(IPO)に向けて、米国証券取引委員会(SEC)に提出した、登録届出書(日本における目論見書)を更新した。新たに2026年第3四半期(7～9月期)の業績や、将来のモデルが、「AIによるAI研究の加速」のしきい値にまもなく到達する可能性があるなどと記載している。
-直近の7～9月の第3四半期業績は、売上高が169.56億ドル(約2.7兆円)で、前年同期の13.82億ドルから約1,127%増。前期(115</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2153309.html</guid><pubDate>Tue, 03 Nov 2026 22:09:03 +0000</pubDate></item><item><title>スーパー・マイクロ、売上高見通しが予想超え ＡＩサーバー需要堅調 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQLWZ2YkUxU05FYzY1c2tubzN1UC0zdWZULWxncWc3V28wd0FsQ1UyOUFQa0RtTWZFUGo4cVBNeHdUU29Mejc4TFBsdDdTVlp2b2I3UjFldkREX2FIS19ENFpfWWZLMFpVZDFMTDJMMloyYTZBb2IwOWhFb2xzUWEzVmpWZW1MQQ?oc=5</link><description>[score: 0.892] スーパー・マイクロ、売上高見通しが予想超え ＡＩサーバー需要堅調 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQLWZ2YkUxU05FYzY1c2tubzN1UC0zdWZULWxncWc3V28wd0FsQ1UyOUFQa0RtTWZFUGo4cVBNeHdUU29Mejc4TFBsdDdTVlp2b2I3UjFldkREX2FIS19ENFpfWWZLMFpVZDFMTDJMMloyYTZBb2IwOWhFb2xzUWEzVmpWZW1MQQ?oc=5</guid><pubDate>Tue, 03 Nov 2026 23:57:54 +0000</pubDate></item><item><title>米国の有権者、国の現状やトランプ氏の仕事ぶりに不満　CNN調査 - CNN.co.jp</title><link>https://www.cnn.co.jp/usa/35254332.html</link><description>[score: 0.893] 3日、米ロサンゼルスの投票所で投票の順番を待つ有権者ら/Gregg Canes/CNN （CNN） CNNが行った「有権者調査」の暫定的な全国結果によると、米国の有権者は国の現状や経済状況、そしてトランプ大統領の職務遂行ぶりに対して、総じて不満を抱いている。 調査の結果、全米の有権者の約4分の3が、国の現状について「不満」あるいはそれ以上に否定的な感情を抱いていると回答していることが分かった。10人中4人近くは「怒り」を感じていると答えた。 初期調査の結果からは、こうした不満の背景に、トランプ氏に対する否定的な見方と、現在の経済状況への不満という二つの要因があることがうかがえる。こうした力学が</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35254332.html</guid><pubDate>Wed, 04 Nov 2026 00:11:58 +0000</pubDate></item><item><title>アメリカ中間選挙 上院 バージニア州は民主党【随時更新】</title><link>https://news.web.nhk/newsweb/na/nd-20261103de69965</link><description>[score: 0.894] トランプ政権に対する有権者の評価が事実上示されるアメリカの中間選挙は、一部の州で開票が始まりました。 連邦議会の上院ではこれまでに南部バージニア州で野党・民主党が議席の獲得を確実にし、100議席のうち…
+イラ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70637</guid><pubDate>Wed, 04 Nov 2026 13:14:25 +0000</pubDate></item><item><title>MUJI Card 会員情報の流出の可能性に関するお知らせとお詫び | クレジットカードはセゾンカード</title><link>https://www.saisoncard.co.jp/customer-support/information/20261104/</link><description>[score: 0.882] 重要なお知らせ
+MUJI Card 会員情報の流出の可能性に関するお知らせとお詫び
+このたび、株式会社良品計画（以下「良品計画」）のシステムが第三者による不正アクセスを受け、株式会社クレディセゾン（以下「当社」）が発行するMUJI Card のカード番号を含むお客様の情報に第三者がアクセスした可能性があると報告がありました。
+MUJI Card をご利用のお客様をはじめ、関係する皆様に多大なるご心配とご迷惑をおかけしておりますことを、深くお詫び申しあげます。
+当社では、お客様のカードの不正利用を防止するため、不正利用の監視強化などの対応を進めております。現時点で判明している内容と当社の対応につ</description><guid isPermaLink="false">https://www.saisoncard.co.jp/customer-support/information/20261104/</guid><pubDate>Wed, 04 Nov 2026 11:30:25 +0000</pubDate></item><item><title>2026年10月はパッチの魔女月だった。お化けが増えたのか、誰かが明かりをつけたのか</title><link>https://qiita.com/figueiredoluiz/items/4021ff4e6281b73f2d86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] はじめに
+2026年10月は、パッチが化けて出た月でした。
+最終週だけを切り取っても、CISAはPHPの脆弱性2件（通称「PHP2Shell」）を悪用確認済みカタログ（KEV）に追加しました。Firefox 159は、1つのアドバイザリで167件のCVE（公開された脆弱性に付く識別番号）を公開しています。WordPress 7.1.4は22件の脆弱性を修正しました。月の前半には、MicrosoftのPatch Tuesdayが1,400件を超えました。Oracleの四半期アップデートも1,295件のパッチを出しています。
+見出しだけを追えば、「ソフトウェアが壊れ始めた」と読めます。けれど数字を</description><guid isPermaLink="false">https://qiita.com/figueiredoluiz/items/4021ff4e6281b73f2d86?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 04 Nov 2026 08:32:27 +0000</pubDate></item><item><title>AIからの情報漏えい防ぐ新サービス 機密性の高い情報を匿名化</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70425</link><description>[score: 0.884] 企業の間でAIの活用が広がる一方、AIに入力した機密情報や個人情報が不正アクセスなどによって漏えいするリスクが指摘されています。こうした中、名古屋市のセキュリティー企業が機密情報などを自動的に検知し、…
+消費税減税法案 自民“6日採決を” 民改“首相答弁聞き判断”
+11月4日 18:25
+三菱UFJ 新ネット銀行ではキャッシュカード“発行しない”方針
+11月4日 13:28
+【アメリカ中間選挙2026 特集ページ】
+台風31号 関東や伊豆諸島 5日昼ごろにかけ大雨のおそれ
+11月4日 22:13
+暗号資産大手が報告書 偽面接やAIツールでシステムに侵入
+11月4日 8:18
+インフラや防衛分野</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70425</guid><pubDate>Wed, 04 Nov 2026 09:11:06 +0000</pubDate></item><item><title>「ネットのセキュリティもGMO」の実態　イエラエの事前指摘はなぜ放置されたか</title><link>https://atmarkit.itmedia.co.jp/ait/articles/2611/03/news014.html</link><description>[score: 0.886] お名前.com デスクトップクラウドで起きた大規模な不正アクセス被害。2026年11月2日に開催された記者会見ではGMOグループの熊谷正寿代表らが同社を襲った事態と機能しなかったセキュリティガバナンスの欠陥を赤裸々に語った。
+この記事は会員限定です。会員登録（無料）すると全てご覧いただけます。
+GMOインターネットグループは2026年11月2日、仮想デスクトップサービス「お名前.com デスクトップクラウド」における大規模な不正アクセス被害について記者会見を開き、セキュリティの過失と今後の対応方針を発表した。
+今回の事件は単なる個人情報漏えいだけでなく、侵入した攻撃者によって顧客のFX自動売買</description><guid isPermaLink="false">https://atmarkit.itmedia.co.jp/ait/articles/2611/03/news014.html</guid><pubDate>Wed, 04 Nov 2026 04:35:53 +0000</pubDate></item><item><title>「信用ならない」GMO熊谷代表　「31年間、一度も儲かると言っていない」と豪語→“決定的証拠”が発覚でツッコミ殺到（女性自身） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/4dcbb34b690b9f194baadc1c2c2ab05fe7a34d42</link><description>[score: 0.890] 「信用ならない」GMO熊谷代表 「31年間、一度も儲かると言っていない」と豪語→“決定的証拠”が発覚でツッコミ殺到
+「私は31年間、一度たりとも儲かる、儲けるという言葉を使ったことはありません。お客様のために情報を守れと言い続けてまいりました」
+【写真あり】ネットで物議を醸したGMO熊谷代表が着用していた“モノ”
+11月2日、GMOインターネットグループの熊谷正寿代表（63）は、自社のクラウドサービスへの不正アクセス問題を巡る謝罪会見で涙ながらにこのように語った。
+およそ3時間半に及んだ会見で、同氏は情報流出の経緯やサイバー犯罪の脅威について言及。さらには、「同じ回答をすると皆様の命の砂時計を</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/4dcbb34b690b9f194baadc1c2c2ab05fe7a34d42</guid><pubDate>Wed, 04 Nov 2026 11:25:13 +0000</pubDate></item><item><title>マッキンゼーが「人間がAIに勝てる」3つのスキルを特定。「若手が磨くべき分野」はこれだった</title><link>https://www.businessinsider.jp/article/2601-mckinsey-boss-shares-human-skills-ai-models-cant-do-b/</link><description>[score: 0.896] - マッキンゼーでは、人間の従業員と並び、非常に多くのAIエージェントが働いている。
+- グローバル・マネージング・パートナーのボブ・スターンフェルズ氏は、AIにはできない3つのスキルを特定した。
+- 同氏はまた、AIの導入は企業における「人材の見極め方」を変えつつあると述べた。
+人工知能（AI）はマッキンゼーの人材構成を“再編”しつつあるが、同社の経営トップは、AIモデルにはできない根本的な人間のスキルが依然として存在すると語った。
+マッキンゼーでは2万5000のAIが働いている
+マッキンゼーのグローバル・マネージング・パートナー（CEOに相当）、ボブ・スターンフェルズ（Bob Sternf</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2601-mckinsey-boss-shares-human-skills-ai-models-cant-do-b/</guid><pubDate>Wed, 04 Nov 2026 09:02:27 +0000</pubDate></item><item><title>アメリカ中間選挙 各国の受け止めは？【特派員解説】</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70587</link><description>[score: 0.901] アメリカの中間選挙は、野党・民主党が連邦議会の上下両院で多数派を奪還することが確実になり、予想を上回る大きな勝利となりました。
+イラン「アメリカ国民 この戦争にノーを突きつけた」
+イラン議会のガ…
 あわせて読みたい
 【アメリカ中間選挙2026 特集ページ】
-94年目の反乱？ 農家の怒りがトランプ大統領に逆風
-11月3日 11:32
-まぎらわしい2人の候補 トランプ大統領が頭を抱えるワケは？
-11月2日 13:12
-“保守王国”テキサスが接戦に？背景にヒスパニック系の失望
-10月31日 11:17
-アメリカ中間選挙でAI「スロパガンダ」が…“真実”はどこに？
-10月31日 17:11
-“5</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261103de69965</guid><pubDate>Tue, 03 Nov 2026 23:25:06 +0000</pubDate></item><item><title>委託先メール配信サービスへの不正アクセスに関するお詫びとお知らせ  |NEWS|アソビュー株式会社</title><link>https://www.asoview.co.jp/news/articles/AyTdT_tX</link><description>[score: 0.896] 委託先メール配信サービスへの不正アクセスに関するお詫びとお知らせ |NEWS|アソビュー株式会社 平素よりアソビュー！をご利用いただき、誠にありがとうございます。このたび、弊社がメール配信に利用している、アララ株式会社（以下「アララ社」）が提供するメール配信サービス「アララメッセージ」（以下「本サ...</description><guid isPermaLink="false">https://www.asoview.co.jp/news/articles/AyTdT_tX</guid><pubDate>Tue, 03 Nov 2026 23:24:44 +0000</pubDate></item><item><title>ウクライナ・ドイツ首脳会談 3か国協議で具体的な進展に期待</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70105</link><description>[score: 0.898] ウクライナのゼレンスキー大統領は、来週予定されるウクライナとロシアの和平を巡るアメリカを交えた3か国の高官協議について、首脳レベルの会談に向けた具体的な進展に期待を示しました。
-ゼレンスキー大統領…
-あわせて読みたい
-アメリカ中間選挙 投票続く 一部は日本時間の午前8時から開票
-11月4日 5:54
-94年目の反乱？ 農家の怒りがトランプ大統領に逆風
-11月3日 11:32
-韓国大統領や高官の個人情報流出 イ大統領パスポート再発行へ
-11月3日 18:00
-米・ウクライナ・ロシアの実務者協議 10日からUAEで開催へ
-11月3日 20:55
-ICC赤根所長 国連でアメリカの制裁批判 使命果たす</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70105</guid><pubDate>Tue, 03 Nov 2026 23:25:06 +0000</pubDate></item><item><title>＜第2回＞AI時代のSEO実践講座【12/8（火）開催】</title><link>https://webtan.impress.co.jp/e/2026/11/04/53545</link><description>[score: 0.909] ＜第2回＞AI時代のSEO実践講座【12/8（火）開催】 webtan 2026年11月4日 Web担当者の学校（インプレスアカデミー） シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 詳細はこちら 今年6月に初開催して好評を博した「AI時代のSEO実践講座」。12月8日（火）に開催する第2回では、2026年12月時点におけるSEOと最新AI技術の両面から、Webやデジタル業務に関わる方々が取り組むべき重要施策を4時間で体系的に解説します。講師はSEOコンサルティングのエキスパートであるアユダンテ株式会社の江沢 真紀氏と高橋 智子氏。Googleはもちろん、Claudeや</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/11/04/53545</guid><pubDate>Wed, 04 Nov 2026 00:36:38 +0000</pubDate></item><item><title>トランプ米大統領、軽油価格高騰巡りウクライナを非難　実際の原因はイラン紛争</title><link>https://forbesjapan.com/articles/detail/107658?s=ns</link><description>[score: 0.913] ドナルド・トランプ米大統領は先月9日、ロシアのウラジーミル・プーチン大統領と電話会談し、同国が米国を含む国際市場に向けて30万トンのディーゼル燃料（軽油）を輸出すると発表した。今月には50万トンの追加供給も約束されている。米財務省は同日、制裁対象だったロシア産軽油を来年4月まで受け入れることを許可した。これは、2022年に米政府がロシア産燃料に対する制裁を発動して以来、初の輸入解禁となる。
-ウクライナのウォロディミル・ゼレンスキー大統領は、米政権の対応を激しく非難した。同大統領はソーシャルメディア（SNS）に「プーチン大統領への贈り物は平和をもたらさない」と投稿。ロシアに石油製品の販売を許可す</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107658?s=ns</guid><pubDate>Tue, 03 Nov 2026 22:06:59 +0000</pubDate></item></channel></rss>
+アメリカ中間選挙 民主党 上下両院で多数派奪還へ【最新情報】
+11月4日 20:32
+中間選挙ってどんな選挙？トランプ政権は？わかりやすく解説
+11月2日 8:12
+米中間選挙 世論調査の信頼揺らぎ“予測市場”が拡大 課題は
+11月1日 19:03
+アメリカ中間選挙 3日に投票開始 NW9広内キャスターが現地取材
+11月2日 22:06
+“</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70587</guid><pubDate>Wed, 04 Nov 2026 12:12:44 +0000</pubDate></item></channel></rss>
