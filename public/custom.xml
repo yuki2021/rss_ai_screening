@@ -1,49 +1,92 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 05 Nov 2026 13:48:25 +0000</lastBuildDate><item><title>【インシデント対策】CloudWatchアラームの通知からAmazon Q Developerではメンションが付かないのでLambdaで付けて障害に気づける確率を上げた</title><link>https://qiita.com/Tukirukiki/items/88ed501f6f34fff1abaa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.871] はじめに
-CloudWatch のアラームを設定して、障害に気づけるようにしました。
-アラーム自体は今までもあったのですが、Slack への通知にメンションが付かず、アラームも整理されていませんでした。
-通知が来ていても、気づかないことがあったわけです。
-そこで、
-- アラームからの通知に、Slack のメンションを付けるようにした
-- bots に「メンションが来たら、すぐ僕の DM に連絡する」設定をして、気づく確率を上げた
-本当は電話をかけるようなこともしたかったのですが、それはまたのちのち（bots などがそういうことをできるようになるかもしれませんね）。
-この記事では、どうやってメン</description><guid isPermaLink="false">https://qiita.com/Tukirukiki/items/88ed501f6f34fff1abaa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 05 Nov 2026 09:02:40 +0000</pubDate></item><item><title>Googleが分析した「成果を出すチームの5つの特徴」が納得しかない。AIで個人の生産性が上がる時代だからこそ約10年前の分析を読み直す</title><link>https://qiita.com/shinkai_/items/003029234e387db00e45?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.871] はじめに
-時間がない人向け：10秒で読む超概要
-- AIで個人の出力は増えたが、レビューなど「次の人の作業」が詰まりやすい、という分析がある
-- Googleの「効果的なチーム」の分析では、メンバーの顔ぶれより「チームの協力の仕方」のほうが成果を左右した
-- 重要なのは、心理的安全性・相互信頼・構造と明確さ・仕事の意味・インパクトの5要素
-AIを使えば、コードを書くのが以前より速くなりました。
-一方で、速く作れるようになった分、レビューや確認といった「次の人の作業」が詰まりやすいとも言われます。
-Faros AIの分析では、AI利用が進んだチームで完了タスクが21%、マージされたプルリクエスト</description><guid isPermaLink="false">https://qiita.com/shinkai_/items/003029234e387db00e45?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 05 Nov 2026 09:02:40 +0000</pubDate></item><item><title>アメリカ各地でAIデータセンター建設に反対する住民投票が相次ぎ可決、47件中46件で規制強化を支持</title><link>https://gigazine.net/news/20261105-us-data-center-vote-reject/</link><description>[score: 0.871] アメリカ各地でAIデータセンター建設に反対する住民投票が相次ぎ可決、47件中46件で規制強化を支持
-アメリカで2026年11月3日に実施された中間選挙に合わせて、各地でAI向けデータセンターの建設を禁止・制限する住民投票が行われました。多くの地域でデータセンターの建設に反対する結果となり、11月4日時点では2026年に実施された関連住民投票47件のうち46件で規制強化を支持する結果が出ています。
-US voters roundly reject data centers in ballot measures | Semafor
-https://www.semafor.com/article/1</description><guid isPermaLink="false">https://gigazine.net/news/20261105-us-data-center-vote-reject/</guid><pubDate>Thu, 05 Nov 2026 10:06:31 +0000</pubDate></item><item><title>Siri AIにアプリをつなぎ、振る舞いを評価する</title><link>https://zenn.dev/d_date/articles/e8e2c5d53b424e</link><description>[score: 0.872] ! Xcode 27.3 beta時点の情報です。 2026年11月3日、iOS 27.3 betaとともにSiri AI Developer Previewが始まり、どのアプリでも独自のアクションとコンテンツをSiri AIに渡せるようになりました。あわせて、Siriの振る舞いをテストとして書けるSiri Evaluationsも登場しています。 この記事では、まずSiri AIとは何かを整理し、そのうえでアプリをつなぐ方法と、Siriがどう動いたかを評価する方法を見ていきます。 この記事のポイント 既存のApp Intentに@AppIntent(.tool)を付けると、Si...</description><guid isPermaLink="false">https://zenn.dev/d_date/articles/e8e2c5d53b424e</guid><pubDate>Thu, 05 Nov 2026 12:35:53 +0000</pubDate></item><item><title>Lessons from building Copilot Cowork</title><link>https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration/</link><description>[score: 0.873] Lessons from building Copilot Cowork Nine engineers, 1,211 pull requests in a day: Lessons from building Copilot Cowork Nine engineers, 1,211 pull requests in a day: Lessons from building Copilot Cowork Plus a case study where we put ... misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%83%97%E3%83%A</description><guid isPermaLink="false">https://commandline.microsoft.com/how-we-built-copilot-cowork-python-to-rust-migration/</guid><pubDate>Thu, 05 Nov 2026 09:22:18 +0000</pubDate></item><item><title>新人チーフが『エンジニアのための自己管理入門』を読んで思ったこと - SmartHR Tech Blog</title><link>https://tech.smarthr.jp/entry/2026/11/02/144409</link><description>[score: 0.874] 新人チーフが『エンジニアのための自己管理入門』を読んで思ったこと - SmartHR Tech Blog こんにちは、SmartHRの技術基盤部でチーフ（SmartHRにおけるEM：エンジニアリングマネージャー職）を務める @udzura です。私のチームでは、SmartHR基本機能に共通するコンポーネントの修正・改善を担当しています。 最近、小田中育生さんの『エンジニアのための自己管理入門 堅牢でスケーラブルな働き方を構築する技術...</description><guid isPermaLink="false">https://tech.smarthr.jp/entry/2026/11/02/144409</guid><pubDate>Thu, 05 Nov 2026 06:31:07 +0000</pubDate></item><item><title>アメリカ中間選挙 トランプ大統領の「ゲリマンダー」不発に</title><link>https://news.web.nhk/newsweb/na/nd-20261105de70892</link><description>[score: 0.874] 今回のアメリカ中間選挙では、議会下院の選挙区で、与野党ともにみずからの党が有利になるよう恣意的に区割りを変更する「ゲリマンダー」が行われました。
-共和党については、民主党が議席を守ったり、区割りの…
-注目ワード
-あわせて読みたい
-アメリカ中間選挙 共和党大敗 トランプ大統領の対応は【詳報】
-11月5日 20:56
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 05 Nov 2026 21:09:09 +0000</lastBuildDate><item><title>「若者のマンガ離れ」は本当か？ 10代は20代より“紙派”、意外な読書事情</title><link>https://www.oricon.co.jp/news/2490851/full/</link><description>[score: 0.863] 「最近の若者はマンガを読まなくなった」。そんな言葉を耳にすることがある。スマートフォンで動画を見たり、SNSを眺めたりする時間が増え、マンガを読む機会は減っているのではないか。ところが、実際の読書事情を探ってみると、少し違った景色が見えてくる。
+■マンガを読まない人の約7割は「もともと読んでいなかった」
+マンガ関連事業を手がけるコミチが、11月3日の「まんがの日」に合わせて「マンガ意識調査2026」を発表した。全国の15〜69歳の男女3000人を対象に、マンガを読む習慣や媒体、作品との出会い方などを調べたものだ。その結果から浮かび上がったのは、単純な「マンガ離れ」では説明できない、読者とマンガ</description><guid isPermaLink="false">https://www.oricon.co.jp/news/2490851/full/</guid><pubDate>Thu, 05 Nov 2026 20:22:37 +0000</pubDate></item><item><title>緩やかな利上げ妥当、インフレなお高水準＝米リッチモンド連銀総裁 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPTG9GVXZPWG5kZEZXaXNkaGF0UzBzRHFjZ0Y4d0dWRzdBZVR1dzc4UVhVLXdfN1AydDcwRnBSa2F0Vk93SDVTSTNJc1hvbHVsSlhiRnp6NGFMc0FDVFp2eGtLV0dXeU1GWDh3OXFVWUhVeURQSXU2OXZDZ1hTSjlxekJnMTFzdw?oc=5</link><description>[score: 0.863] 緩やかな利上げ妥当、インフレなお高水準＝米リッチモンド連銀総裁 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxPTG9GVXZPWG5kZEZXaXNkaGF0UzBzRHFjZ0Y4d0dWRzdBZVR1dzc4UVhVLXdfN1AydDcwRnBSa2F0Vk93SDVTSTNJc1hvbHVsSlhiRnp6NGFMc0FDVFp2eGtLV0dXeU1GWDh3OXFVWUhVeURQSXU2OXZDZ1hTSjlxekJnMTFzdw?oc=5</guid><pubDate>Thu, 05 Nov 2026 16:03:34 +0000</pubDate></item><item><title>豪で注目の極右政党、トランプ氏称賛記事を削除　米選挙が影響か | 毎日新聞</title><link>https://mainichi.jp/articles/20261105/k00/00m/030/297000c</link><description>[score: 0.864] オーストラリアで急速に支持を拡大している極右政党「ワンネーション党」が、公式サイトからトランプ米大統領を称賛する記事を削除したとして、豪国内で話題になっている。3日投開票の米中間選挙で、トランプ氏率いる与党・共和党が大敗を喫した直後とみられることから、選挙結果との関連が臆測されている。
+豪メディアによると、記事はトランプ氏が2期目の大統領に就任した直後の2025年1月下旬、公開された。冒頭にワンネーション党のポーリン・ハンソン党首とトランプ氏の写真が並び、「トランプの行動力と政治スタイルを求めるなら、ワンネーション党が必要だ」と題されていた。
+記事では、厳格な移民規制や国境警備▽DEI（多様性</description><guid isPermaLink="false">https://mainichi.jp/articles/20261105/k00/00m/030/297000c</guid><pubDate>Thu, 05 Nov 2026 16:07:48 +0000</pubDate></item><item><title>ｅ－Ｔａｘ、運用再開　プログラムの一部漏えい―国税庁：時事ドットコム</title><link>https://www.jiji.com/jc/article?k=2026110500500&amp;g=soc</link><description>[score: 0.864] ｅ－Ｔａｘ、運用再開 プログラムの一部漏えい―国税庁
+国税庁は５日、前日から停止していた電子申告納税システム「ｅ―Ｔａｘ」の運用を再開したと発表した。外部からの不審な通信により、システムを動かすためのプログラムの一部が漏えいする被害が発覚したが、納税者情報の流出はないという。
+同庁によると、不審な通信は４日に検出された。安全のため、システムを停止したところ、ｅ―Ｔａｘを動かすためのプログラムの一部がコピーされ、外部に流出する被害が出た。
+同庁担当者は「多層的なセキュリティー対策を構築していた中で、一部の情報が漏えいしたのは遺憾。ただシステム上の機微な情報や納税者情報の流出はない」と話しており、</description><guid isPermaLink="false">https://www.jiji.com/jc/article?k=2026110500500&amp;g=soc</guid><pubDate>Thu, 05 Nov 2026 20:26:41 +0000</pubDate></item><item><title>Cronを使わずに、ISRとオンデマンド再検証でAPIを更新する</title><link>https://qiita.com/okokok/items/f9e3e203f8913d852c89?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.865] fxサイトをvercelにデプロイしているのですが、政策金利をAPIで取得するコンテンツを作ろうとした際に、リクエストごとにAPIを叩くのは冗長なので、バッチで実行しようと考えたのですが、vercelではcronが一つしか使えないため(他のプロジェクトで利用)、ISRとオンデマンド再検証で実装した、と言う詳細の記事になります。
+FXサイトでは、政策金利のように「頻繁には変わらないが、最新値は表示したい」データを扱うことがあります。
+このようなデータをユーザーのリクエストごとにFRED APIへ取りに行くと、次のような問題が起きます。
+- 同じデータを何度も取得するため冗長
+- FRED API</description><guid isPermaLink="false">https://qiita.com/okokok/items/f9e3e203f8913d852c89?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 05 Nov 2026 20:47:46 +0000</pubDate></item><item><title>取り調べ拒否が増加 検察が「マニュアル」作成し対応</title><link>https://news.web.nhk/newsweb/na/nd-20261105de71266</link><description>[score: 0.866] 逮捕された容疑者が留置場から出ずに取り調べを拒否する、「出房拒否」と呼ばれるケースが全国で相次いでいます。こうした取り組みを進めている弁護士グループは、捜査機関による取り調べでは黙秘権が十分に保障され…
+【情報漏えい】対策どうする 二次被害に遭わないためには
+2026年の新語・流行語大賞の候補 30のことばは？【全掲載】
+11月5日 17:03
+チャイルドシート使用義務拡大を検討 子どもの体格なども考慮
+11月5日 18:07
 【アメリカ中間選挙2026 特集ページ】
-“50年の歩みが後退する”？ 米中間選挙 選挙区見直しの陰で
-10月30日 11:02
-与党内に亀裂も？「ゲリマンダー」に揺れるアメリカ
-中間選挙ってどんな選挙？トランプ政権は？わかりやすく解説
-11月2日 8:12
-米中間選挙 世論調査の信</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261105de70892</guid><pubDate>Thu, 05 Nov 2026 03:54:33 +0000</pubDate></item><item><title>イラン高官がバンス氏を嘲笑、選挙敗因はイラン戦争との見解巡り　「なぜ自分のボスに言わないのか」 - CNN.co.jp</title><link>https://www.cnn.co.jp/world/35254456.html</link><description>[score: 0.875] イラク中部の聖地カルバラにあるモスクで記者会見を行うイランのガリバフ国会議長＝8月20日/Karar Jabbar/AFP/Getty Images （CNN） バンス米副大統領が中間選挙での共和党の敗因はイラン戦争にあるとの見解を示したことを受け、イランの交渉責任者を務めるガリバフ国会議長は5日、バンス氏を嘲笑した。 ガリバフ氏はバンス氏について、「負けが込んだギャンブラーのような雰囲気」を醸していると指摘。「勝負から手を引くことができずにいる」と批判した。 「米国が『イスラエル第一』政策で崖っぷちに立たされる中、ボスは戦争の次の局面に向けて準備を進めている。（プレゼンテーション番組）TED</description><guid isPermaLink="false">https://www.cnn.co.jp/world/35254456.html</guid><pubDate>Thu, 05 Nov 2026 11:23:24 +0000</pubDate></item><item><title>ドコモ「５Ｇ」の一部で障害発生…不正アクセスで「マイ　ドコモ」などから最大３０万件の個人情報流出</title><link>https://www.yomiuri.co.jp/economy/20261105-GYT1T00285/</link><description>[score: 0.876] ドコモに不正アクセス、「マイ ドコモ」などから最大３０万件の個人情報流出…「５Ｇ」の一部で障害発生も
-完了しました
-ＮＴＴドコモは５日、不正アクセスにより、インターネットでスマホの購入などができる「ドコモオンラインショップ」、契約内容の確認や変更などができる「マイ ドコモ」のサービスから最大約３０万件の個人情報が流出したと発表した。両サービスは５日未明から停止しており、復旧時期は未定としている。流出したのは利用者の氏名、住所、生年月日、携帯電話番号などとしている。
-また、ドコモは５日、携帯電話の高速・大容量の通信規格「５Ｇ」の一部サービスで、音声通話やデータ通信が利用しづらくなっていることも発</description><guid isPermaLink="false">https://www.yomiuri.co.jp/economy/20261105-GYT1T00285/</guid><pubDate>Thu, 05 Nov 2026 12:20:55 +0000</pubDate></item><item><title>「人が打ったときだけ動く」はずのスキルを、AI が自分で読んだ。31万スターのスキル集を Claude Code・Codex・Gemini CLI で3回ずつ試した</title><link>https://qiita.com/suwa_nobu/items/f09fceeb70b7a68aa4f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.876] GitHub で31万スターを集めているスキル集があります。Matt Pocock さんの mattpocock/skills です（313,237スター、2026年11月5日に API で取得）。README には Claude Code・Codex・GitHub Copilot・Gemini CLI への入れ方が並んでいて、同じスキルをどのツールでも使える作りです。
-プラグインに入る27本のうち16本には、「人が名前を打ったときだけ動かす」という印が付いています（以下、人が呼ぶ用）。課題管理の初期設定をする setup-matt-pocock-skills
-や、計画を課題に分けて課題管理に</description><guid isPermaLink="false">https://qiita.com/suwa_nobu/items/f09fceeb70b7a68aa4f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 05 Nov 2026 09:02:40 +0000</pubDate></item><item><title>Siri AI is now open to all developers - Latest News - Apple Developer</title><link>https://developer.apple.com/news/?id=gdk2umrf</link><description>[score: 0.876] Siri AI is now open to all developers - Latest News - Apple Developer Starting today with the iOS 27.3, iPadOS 27.3, macOS 27.3, and visionOS 27.3 betas, a new Developer Preview enables any developer to integrate their app with Siri AI, giving businesses and develope... misshiki Apple%E4%BA%BA%E5%B7</description><guid isPermaLink="false">https://developer.apple.com/news/?id=gdk2umrf</guid><pubDate>Thu, 05 Nov 2026 08:20:28 +0000</pubDate></item><item><title>Kimi K3.1 Proの重み公開、無償で商用利用も原則可能</title><link>https://pc.watch.impress.co.jp/docs/news/2153969.html</link><description>[score: 0.877] ニュース
-Kimi K3.1 Proの重み公開、無償で商用利用も原則可能
-2026年11月5日 17:34
-予告通り、約3兆パラメータ級の大規模モデルの重みが公開された。Moonshot AIは11月5日(中国時間)、10月23日に発表したAIモデル「Kimi K3.1 Pro」のオープンウェイト(モデルの重み)を、独自ライセンスのもとでHugging Faceに公開した。ライセンスは「Kimi K3.1-Pro License」となっている。
-Kimi K3.1 Proは、コーディングや3D制作、金融リサーチといったエージェント用途に向けたLLM。7月に発表した「Kimi K3」をベースに、</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2153969.html</guid><pubDate>Thu, 05 Nov 2026 10:21:37 +0000</pubDate></item><item><title>N-Styles運営者あれっくすからのお知らせ - N-Styles</title><link>https://n-styles.com/blog/x-account-was-suspended/</link><description>[score: 0.878] なんか知らんが私のX(普段はTwitterと読んでいるが文句を言うときはXと呼ぶ)のアカウントが凍結されております。
-X(クソダサい名前のSNS)に異議申し立ては複数回送っておりますが、返答すらない状態です。
-代替アカウントはないので、当面は凍結解除まで待ちます。
-せめて、来年の株主総会までにX(スパム対策できないくせに誤凍結しまくるSNS)に戻って来ることができればいいのだけど。
-追記：溢れ出るアウトプット欲を満たすために、数カ月に一度の更新だったこのblogが頻繁に更新されるようになるよ。よかったですね。</description><guid isPermaLink="false">https://n-styles.com/blog/x-account-was-suspended/</guid><pubDate>Thu, 05 Nov 2026 12:53:14 +0000</pubDate></item><item><title>ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令</title><link>https://news.web.nhk/newsweb/na/nd-20261105de71261</link><description>[score: 0.880] ロシアのプーチン大統領は5日、大統領令に署名し、JT＝日本たばこ産業のグループ会社がロシア国内に保有する4つの工場をロシア企業の管理下に一時的に置くことを決めました。
-AFP通信は今回の措置につい…
+木原官房長官 COP31"高市首相出席せず笹川環境相が参加予定"
+11月5日 20:16
+「書道」無形文化遺産に登録へ ユネス</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261105de71266</guid><pubDate>Thu, 05 Nov 2026 13:48:17 +0000</pubDate></item><item><title>MacBook Proの進化は「タッチの先」にある、初のOLED搭載に込めたアップルの思想</title><link>https://forbesjapan.com/articles/detail/107766?s=ns</link><description>[score: 0.867] アップルが10月末に発表した「PROLED XDRディスプレイ搭載MacBook Pro」は、Macとして初めてディスプレイのタッチ操作に対応した。筆者は、本機の革新性をタッチだけで語るのは惜しいと感じている。
+開発の出発点にあったのは、プロフェッショナルのためのツールとして、MacBook Proをさらに進化させるには何が必要かという問いだ。その答えの中心に据えられたのが、豊かな明暗と色彩を表現する有機EL方式のPROLED XDRディスプレイだった。
+ベースラインとなる14インチ、M5 Proチップのモデルは税込価格49万9800円となる。
+プロフェッショナルが信頼できるOLEDの追求
+最</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107766?s=ns</guid><pubDate>Thu, 05 Nov 2026 14:02:35 +0000</pubDate></item><item><title>カードローンの借入額、32万人分漏洩　三井住友系の消費者金融大手：朝日新聞</title><link>https://www.asahi.com/articles/ASVC523XJVC5ULFA01DM.html</link><description>[score: 0.867] カードローンの借入額、32万人分漏洩 三井住友系の消費者金融大手
+榊原謙 藤田知也
+三井住友フィナンシャルグループ（FG）傘下の消費者金融大手SMBCコンシューマーファイナンス（CF、旧プロミス）は5日、カードローンの保証業務に使うシステムが不正アクセスを受け、最大32万118人分の顧客情報が漏れたと発表した。顧客の名前や年収に加え、借入額も流出したという。
+漏洩（ろうえい）したのは、SMBCCFがカードローンの保証業務を担っている地方銀行や信用金庫、ネット銀行などの顧客の情報。お金を借り入れている人の氏名、性別、生年月日、住所、電話番号、メールアドレス、運転免許証番号、勤務先、年収などのほか</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVC523XJVC5ULFA01DM.html</guid><pubDate>Thu, 05 Nov 2026 19:51:09 +0000</pubDate></item><item><title>ロシア、ＪＴ資産を管理下に　対日圧力強化の一環か：時事ドットコム</title><link>https://www.jiji.com/jc/article?k=2026110501153&amp;g=int</link><description>[score: 0.867] ロシア、ＪＴ資産を管理下に 対日圧力強化の一環か：時事ドットコム ロシア、ＪＴ資産を管理下に 対日圧力強化の一環か 時事通信 国際報道部2026年11月05日22時19分配信 ロシアのプーチン大統領＝４日、モスクワ（ＡＦＰ時事） ロシアのプーチン大統領は５日、日本たばこ産業（Ｊ... firststar_hateno ロシアの動き、チェスの駒を動かすかのようですわね。JTの株価も危うくチェックメイトかしら？</description><guid isPermaLink="false">https://www.jiji.com/jc/article?k=2026110501153&amp;g=int</guid><pubDate>Thu, 05 Nov 2026 19:24:50 +0000</pubDate></item><item><title>子どもはスマホっぽいものを欲しがるので、本人に欲しいアプリの設計書を書いてもらいClaude Codeで作ってM5Stack Tab 5 に実装したら画期的にウケていた</title><link>https://togetter.com/li/2767019</link><description>[score: 0.869] 子どもはスマホっぽいものを欲しがるので、本人に欲しいアプリの設計書を書いてもらいClaude Codeで作ってM5Stack Tab 5 に実装したら画期的にウケていた まるた @marurur こどもはスマホっぽい物を欲しがりますが、本物はまだ早いしスマホ風の玩具もすぐに飽きそうなので、本人に欲しいアプリの設計書を書いてもらい、Claude Code に読ませてM5Stack Tab 5 に実装させました。 これが画期的なウケの良さで、わが家のおもちゃ大賞2026 pic.x.com/LJi5p4mdLv 2026-11-05 08:44:42</description><guid isPermaLink="false">https://togetter.com/li/2767019</guid><pubDate>Thu, 05 Nov 2026 18:00:27 +0000</pubDate></item><item><title>高校生がNew Relic × ChatGPTでScyllaDBの1.1秒遅延を追ったら、CPU steal 72%が見えた</title><link>https://qiita.com/harupython/items/8db7460b05ac8705837d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.872] 1秒の読み取り遅延から、OSのCPU stealまでたどり着いた
+私は現在高校生で、個人でソフトウェアの開発・運用をしています。最近導入したNew Relicが予想以上に便利だったので、実際の障害調査で何ができたのか紹介します。
+ScyllaDBを使っているシステムで、設定の読み取りに1,094msかかったという通知がDiscordに届きました。
+アプリの処理が遅いのか、ScyllaDBが遅いのか、それともネットワークなのか。通知だけでは分かりません。
+そこで、最近使い始めたNew Relicと、自作のNew Relic × ChatGPTプラグインを使い、当時の監視データを直接調べてみました</description><guid isPermaLink="false">https://qiita.com/harupython/items/8db7460b05ac8705837d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 05 Nov 2026 20:47:46 +0000</pubDate></item><item><title>いじめ被害「中年期まで精神疾患リスク」…8割超が自己肯定感低下、当事者ら「学習指導要領」に“後遺症”記載求める | 弁護士JPニュース</title><link>https://www.ben54.jp/news/4066</link><description>[score: 0.872] いじめ被害「中年期まで精神疾患リスク」…8割超が自己肯定感低下、当事者ら「学習指導要領」に“後遺症”記載求める | 弁護士JPニュース いじめ後遺症の当事者たちが11月4日、都内で記者会見を開き、文部科学省が告示する学習指導要領の中で「いじめ後遺症」を扱うよう訴えた。 当事者団体「いじめ後遺症ドットコム」は、文部科学省やこども家庭庁に署名を提出。現在、意見公募手続き（パブリックコメント）が行われている「次期学習指導要領に向けた審議ま...</description><guid isPermaLink="false">https://www.ben54.jp/news/4066</guid><pubDate>Thu, 05 Nov 2026 19:21:19 +0000</pubDate></item><item><title>ナスダック調整局面入りへ、終値最高値から10％超安 ＡＩ投資巡り懸念 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNcmF1Tl9tcnJmZ3BKSU16UUJfSm5tQnVYcFlPbHNVeVVmV3BKR3B2LVdtX1hMR2RNYklWMEJRbE5vNURtZ3pSNV9Db1lhdnh1WGVMR3ZYRHhGOWYwcXFYVUsyZUFCSzNkb2h2WEh4ZVJ6M0Y0NWtiWDB2Xzh2TmlLbk05X3FCUQ?oc=5</link><description>[score: 0.873] ナスダック調整局面入りへ、終値最高値から10％超安 ＡＩ投資巡り懸念 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNcmF1Tl9tcnJmZ3BKSU16UUJfSm5tQnVYcFlPbHNVeVVmV3BKR3B2LVdtX1hMR2RNYklWMEJRbE5vNURtZ3pSNV9Db1lhdnh1WGVMR3ZYRHhGOWYwcXFYVUsyZUFCSzNkb2h2WEh4ZVJ6M0Y0NWtiWDB2Xzh2TmlLbk05X3FCUQ?oc=5</guid><pubDate>Thu, 05 Nov 2026 20:00:33 +0000</pubDate></item><item><title>段階的な追加利上げ必要、インフレ目標回帰へ＝米クリーブランド連銀総裁 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE54azNOa1FDT1k5Wlo5V3V6dHpNS080UFJoclp1bDdGdThLUnBfSXFYTi1OVXkzQjg4RWJRMUllNWRpVnUtYUV2Ql9KYWhyM0RQMXo0N0E2T3d1UTZhZ0RTb3d3SkhBR0J4Tm5fSWhYVjlyV1ZWSVh1cDJrNUFhZw?oc=5</link><description>[score: 0.874] 段階的な追加利上げ必要、インフレ目標回帰へ＝米クリーブランド連銀総裁 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE54azNOa1FDT1k5Wlo5V3V6dHpNS080UFJoclp1bDdGdThLUnBfSXFYTi1OVXkzQjg4RWJRMUllNWRpVnUtYUV2Ql9KYWhyM0RQMXo0N0E2T3d1UTZhZ0RTb3d3SkhBR0J4Tm5fSWhYVjlyV1ZWSVh1cDJrNUFhZw?oc=5</guid><pubDate>Thu, 05 Nov 2026 15:00:33 +0000</pubDate></item><item><title>イギリス中銀が利上げ 中東情勢受けた物価抑制へ3年3か月ぶり</title><link>https://news.web.nhk/newsweb/na/nd-20261106de71304</link><description>[score: 0.874] イギリスの中央銀行は0.25％の利上げを決めたと発表しました。
+利上げは3年3か月ぶりで、中東情勢を受けた物価の上昇を抑え込むねらいです。
+イギリスの中央銀行イングランド銀行は5日、前日まで開い…
+94年目の反乱？ 農家の怒りがトランプ大統領に逆風
+年収3000万円も電気代は8万円？ AI投資・トランプ関税の行方は
+まぎらわしい2人の候補 トランプ大統領が頭を抱えるワケは？
+イランへの軍事作戦がもたらした与党・共和党への逆風
+江戸時代のUFO？“うつろ舟” 200年の謎がついに・・・
+“保守王国”テキサスが接戦に？背景にヒスパニック系の失望
+クマはなぜここに その足跡を追いかけて
+アメリカ中間</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261106de71304</guid><pubDate>Thu, 05 Nov 2026 17:09:55 +0000</pubDate></item><item><title>PR投げたらClaudeがレビューしてくれる仕組みを作ってみた</title><link>https://speakerdeck.com/kuracchi_enj1/yokohama-north-meetup-18</link><description>[score: 0.877] Upgrade to Pro
+— share decks privately, control downloads, hide ads and more …
+Speaker Deck
+Sign up for free
+Menu
+Search
+Features
+All features
+Private URLs
+Password Protection
+Custom URLS
+Scheduled publishing
+Remove Branding
+Restrict embedding
+Deck Collections
+Notes
+Features
+All features
+Private URL</description><guid isPermaLink="false">https://speakerdeck.com/kuracchi_enj1/yokohama-north-meetup-18</guid><pubDate>Thu, 05 Nov 2026 20:29:55 +0000</pubDate></item><item><title>ナスダック一時5％下落 AI・データセンター規制強化を懸念</title><link>https://news.web.nhk/newsweb/na/nd-20261106de71306</link><description>[score: 0.878] 5日のニューヨーク株式市場では、半導体をはじめ幅広い銘柄に売り注文が広がってハイテク株の比率が高いナスダックの株価指数は一時、前日と比べて5％を超える大幅な下落となり、節目となる2万5000を割り込み…
+あわせて読みたい
+【アメリカ中間選挙2026 特集ページ】
+アメリカでデータセンター巡り住民投票“建設規制”圧倒支持
+11月5日 16:46
+タイで初めてのAIエキスポ始まる
+11月5日 20:06
+ウクライナメディアにサイバー攻撃 ロシアによる工作か
+11月5日 18:18
+中国輸入博覧会 日本からコンテンツ関連製品など売り込み
+11月5日 18:36
+北朝鮮の党幹部が訪中 中朝のハイレベル</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261106de71306</guid><pubDate>Thu, 05 Nov 2026 17:09:55 +0000</pubDate></item><item><title>マイクロソフト、外部データセンター監督強化か ネオクラウド株下落 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9ua18ySkx2X01Rd0Q4aFZfLWY1VG5Vc2w4dmpyZlBhbmdNQWg1Vm9QLU5XUTVsV0Y5Y1FITGduTkhTWDdsUWtXNDlLdjJUQUVKTTFMVTcxSlpMME5RX1dnVVc1a1NKcm5DWEJ6Y29XMW5SN0s1WVh0Zk80aW5Tdw?oc=5</link><description>[score: 0.879] マイクロソフト、外部データセンター監督強化か ネオクラウド株下落 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE9ua18ySkx2X01Rd0Q4aFZfLWY1VG5Vc2w4dmpyZlBhbmdNQWg1Vm9QLU5XUTVsV0Y5Y1FITGduTkhTWDdsUWtXNDlLdjJUQUVKTTFMVTcxSlpMME5RX1dnVVc1a1NKcm5DWEJ6Y29XMW5SN0s1WVh0Zk80aW5Tdw?oc=5</guid><pubDate>Thu, 05 Nov 2026 20:59:06 +0000</pubDate></item><item><title>2026年 情報漏洩・不正アクセスTier表</title><link>https://ai.itokoba.com/security-tier/</link><description>[score: 0.882] 2026年 情報漏洩・不正アクセスTier表 「流出確認」「おそれ」などの確認状況も併せてご覧ください。アイコンがない情報も、漏洩なしを意味しません。 確認状況の意味 neco22b</description><guid isPermaLink="false">https://ai.itokoba.com/security-tier/</guid><pubDate>Thu, 05 Nov 2026 17:30:27 +0000</pubDate></item><item><title>【Git初心者】「やばい、間違えた！」から生還するコマンド備忘録（プッシュ前・プッシュ後）</title><link>https://qiita.com/tomita_e/items/7bce4bda7ecd13446fc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] はじめに
+IT知識ゼロの文系から新卒でSEになった私が、現場配属されてすぐ直面したのが「Git」の壁でした。それ以前（研修期間）は勉強したものの、ブランチの切り替えもやったことがないレベル。正直、リポジトリが何者かや、リモートとローカルの違いもよくわかっていませんでした。
+そこから約3か月間の実務の中で、「これってやって大丈夫？チームのコードに影響ない？」という不安な場面や、「間違えた！最初からやり直し、、、？」と冷や汗をかく場面に何度も直面しました。
+そこで、実務中に救われたコマンドのメモを、当時の自分と同じように焦っている人に向けて記録として残しておきます。
+プッシュ前かプッシュ後かで変わ</description><guid isPermaLink="false">https://qiita.com/tomita_e/items/7bce4bda7ecd13446fc7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 05 Nov 2026 20:47:46 +0000</pubDate></item><item><title>2026年11月5日 今日のQiitaトレンド記事をポッドキャストで聴こう！</title><link>https://qiita.com/ennagara128/items/bec153471d577eb808ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] 前日夜の最新トレンド記事のAIポッドキャストを毎日朝7時に更新しています。
+通勤中などにながら聴きしよう！
+（Qiita投稿は通勤には間に合わないと思われますが）
+フィードバックとか助かりますのでください
+↓こちらから
+出典
+営業こそコミュニティでは「No sell」でいよう
+https://qiita.com/sadabon444/items/83535ce9f3dd7d56600e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items
+生成 AI が進化する今こそ、「人材育成」が経営の重要課題ではないか
+ht</description><guid isPermaLink="false">https://qiita.com/ennagara128/items/bec153471d577eb808ea?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 05 Nov 2026 20:47:46 +0000</pubDate></item><item><title>【2026年11月版】Amazon Bedrockの安価なLLMを19個、RAGで徹底比較してみた（Nova 2 Lite / Claude Haiku 4.5 / gpt-oss / Qwen3 / DeepSeek など）</title><link>https://qiita.com/MURAMASA2470/items/0e59f2f6d037aa5e7ea8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] はじめに
+業務で「社内の資料を検索して、その内容だけを根拠に答える」RAGのチャットボットを作っています。
+回答を作るモデルには、これまで Amazon Nova 2 Lite を使っていました。安くて速いのですが、数字の読み違いや、資料に無い数字を作ってしまう回答がちょこちょこ出るのが気になっていました。
+Bedrock には安いモデルがかなり増えてきたので、同じ資料・同じ質問・同じプロンプトで、まとめて比べてみることにしました。
+「Haiku 4.5 と Nova Pro はどっちがいいの？」「gpt-oss や Qwen ってどうなの？」あたりを、正解率・費用・速さ・回答の中身で見ていき</description><guid isPermaLink="false">https://qiita.com/MURAMASA2470/items/0e59f2f6d037aa5e7ea8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 05 Nov 2026 20:47:46 +0000</pubDate></item><item><title>メラニア夫人“ウクライナの局地的な停戦を永続的な平和へ”</title><link>https://news.web.nhk/newsweb/na/nd-20261106de71316</link><description>[score: 0.886] ロシアとウクライナの局地的な停戦を仲介したアメリカのトランプ大統領の夫人メラニア氏が、交渉に関わった両国の代表をホワイトハウスに招き、局地的な停戦の経験をきっかけに和平への機運が高まることに期待を示し…
 あわせて読みたい
 【アメリカ中間選挙2026 特集ページ】
 タイで初めてのAIエキスポ始まる
@@ -54,87 +97,63 @@ AFP通信は今回の措置につい…
 11月5日 18:18
 中国輸入博覧会 日本からコンテンツ関連製品など売り込み
 11月5日 18:36
-北朝鮮の党幹部が訪中 中朝のハイレベル往来</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261105de71261</guid><pubDate>Thu, 05 Nov 2026 12:48:36 +0000</pubDate></item><item><title>木原官房長官 COP31"高市首相出席せず笹川環境相が参加予定"</title><link>https://news.web.nhk/newsweb/na/nd-20261105de71230</link><description>[score: 0.881] トルコで来週、開幕する国連の気候変動対策の会議、COP31について、木原官房長官は、高市総理大臣は出席せず、笹川環境大臣が政府代表として参加を予定していると明らかにしました。
-国連の気候変動対策の…
-ドコモで不正アクセス 電話番号など顧客情報最大約30万件流出
-11月5日 19:31
-【情報漏えい】対策どうする 二次被害に遭わないためには
-2026年の新語・流行語大賞の候補 30のことばは？【全掲載】
-11月5日 17:03
-チャイルドシート使用義務拡大を検討 子どもの体格なども考慮
-11月5日 18:07
-【アメリカ中間選挙2026 特集ページ】
-「書道」無形文化遺産に登録へ ユネスコ評価機</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261105de71230</guid><pubDate>Thu, 05 Nov 2026 12:19:19 +0000</pubDate></item><item><title>自作AIエージェントの開発をやめた - 無駄と文化</title><link>https://blog.mudatobunka.org/entry/2026/11/05/100000</link><description>[score: 0.882] 今年の6月まで、データ分析用途の AI エージェント (以下、分析エージェント) をスクラッチで開発していた。
-が、思うところがあり開発をスッパリとやめた。この記事でいろいろと振り返ってみようと思う。
-3行まとめ
-- 分析エージェントを開発するのはやめて、分析 MCP として作り直した
-- AI エージェントの全てを開発するのは手間がかかりすぎる
-- 良い分析体験のキモはエージェントが動く手前にある
-分析エージェントから分析 MCP へ
-もともと作ろうとしていたエージェントは、チャット UI で分析を依頼するとデータ取得・考察・結果の可視化までを担うものだった。
-ところが AI エージェント全</description><guid isPermaLink="false">https://blog.mudatobunka.org/entry/2026/11/05/100000</guid><pubDate>Thu, 05 Nov 2026 11:19:33 +0000</pubDate></item><item><title>OpenAIが画像生成AIツールの「Images 2.6」をリリース、GIF生成に対応し編集工程を細かく制御可能</title><link>https://gigazine.net/news/20261105-openai-image-2-6/</link><description>[score: 0.883] OpenAIが画像生成AIツールの「Images 2.6」をリリース、GIF生成に対応し編集工程を細かく制御可能 従来より約50％高速に画像を生成するというAIツール「Images 2.6」をOpenAIが発表しました。ChatGPTとCodex APIで利用できます。 Introducing Images 2.6 | OpenAI https://openai.com/index/introducing-images-2-6/ Images 2.6は前モデルの「Images 2.5」より50％高速に画像を生成するというバージョン。GIFの生成に対...</description><guid isPermaLink="false">https://gigazine.net/news/20261105-openai-image-2-6/</guid><pubDate>Thu, 05 Nov 2026 08:40:32 +0000</pubDate></item><item><title>ドコモ、不正アクセスで顧客情報最大約30万件が流出。氏名・住所・生年月日・電話番号など、My docomoとオンラインショップは復旧めど立たず</title><link>https://www.techno-edge.net/article/2026/11/05/5676.html</link><description>[score: 0.884] NTTドコモは2026年11月5日、「ドコモオンラインショップ」と「My docomo」のサーバーが外部から不正アクセスを受け、顧客情報が最大で約30万件流出したことを確認したと発表しました。
-ドコモは11月4日に両サービスへの不正アクセスを検知し、11月5日1時5分ごろから各種手続きを停止して緊急メンテナンスを実施していました。その後の調査で、緊急メンテナンスを開始する前の不正アクセスによって、一部の顧客情報が外部に流出した事実を確認したとしています。
-流出した情報は、氏名、住所、生年月日、携帯電話番号、連絡先電話番号など。具体的な範囲や詳細な件数は調査を続けており、判明次第、該当する顧客に</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/11/05/5676.html</guid><pubDate>Thu, 05 Nov 2026 11:43:24 +0000</pubDate></item><item><title>宝くじサイト 利用者パスワード意図せず変更される 一時停止に</title><link>https://news.web.nhk/newsweb/na/nd-20261105de71154</link><description>[score: 0.884] 宝くじの公式サイトで利用者のパスワードが意図せず変更される事象が確認されたということで、5日午前からホームページの利用を一時的に停止する措置がとられています。
-公式サイトでは、宝くじの購入や当選結…
+北朝鮮の党幹部が訪中 中朝のハイレベル</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261106de71316</guid><pubDate>Thu, 05 Nov 2026 20:30:45 +0000</pubDate></item><item><title>難民の現状知ってもらう「難民映画祭」始まる 都内で上映会</title><link>https://news.web.nhk/newsweb/na/nd-20261106de71307</link><description>[score: 0.887] 紛争や迫害によって故郷を追われた人が1億人を超えるなか、その現状に関心を持ってもらおうと、難民などをテーマにした映画の上映会が都内で開かれました。
+この上映会は、国連UNHCR協会が毎年開いている…
+94年目の反乱？ 農家の怒りがトランプ大統領に逆風
+年収3000万円も電気代は8万円？ AI投資・トランプ関税の行方は
+まぎらわしい2人の候補 トランプ大統領が頭を抱えるワケは？
+イランへの軍事作戦がもたらした与党・共和党への逆風
+江戸時代のUFO？“うつろ舟” 200年の謎がついに・・・
+“保守王国”テキサスが接戦に？背景にヒスパニック系の失望
+クマはなぜここに その足跡を追いかけて
+アメリカ中</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261106de71307</guid><pubDate>Thu, 05 Nov 2026 20:30:45 +0000</pubDate></item><item><title>原発賠償で国から東電への支援15兆円余 回収に最長39年と試算</title><link>https://news.web.nhk/newsweb/na/nd-20261106de71317</link><description>[score: 0.888] 福島第一原子力発電所の事故にともなう賠償などのため、国が東京電力に支援している15兆円余りの資金の回収に、最長であと39年が必要だとの試算を会計検査院が公表しました。
+福島第一原発の事故による賠償…
+消費税減税法案 与党きょう採決の構え 野党“具体像あいまい”
+11月6日 4:54
+ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令
+11月6日 5:02
+難民の現状知ってもらう「難民映画祭」始まる 都内で上映会
+11月6日 5:03
+関心高まる「サイバーBCP」 攻撃された後も事業継続へ
+11月6日 5:05
+同じ住宅が5回もトクリュウの被害に…なぜ狙われた？
+11月5日 17:4</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261106de71317</guid><pubDate>Thu, 05 Nov 2026 20:30:45 +0000</pubDate></item><item><title>ウクライナ、ロシア製油所攻撃を再開 燃料不足深刻化の恐れ - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQcHBBWmRwQVBPUmpNYlVXWFJNMzZjZTdWbm9KWXVkQzhPUV9uenFfbFVadzh6VldGRlctQWZDSzlTOVJHOHhGc2t0dlFzczhGMDBHaTVRY0VEdDl4ek9Hd3gxa0hLMVFlX3pnSGVyQ0puVTlRZ1dHWHMyRlF1NDY0LTlDRDRfUQ?oc=5</link><description>[score: 0.889] ウクライナ、ロシア製油所攻撃を再開 燃料不足深刻化の恐れ Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQcHBBWmRwQVBPUmpNYlVXWFJNMzZjZTdWbm9KWXVkQzhPUV9uenFfbFVadzh6VldGRlctQWZDSzlTOVJHOHhGc2t0dlFzczhGMDBHaTVRY0VEdDl4ek9Hd3gxa0hLMVFlX3pnSGVyQ0puVTlRZ1dHWHMyRlF1NDY0LTlDRDRfUQ?oc=5</guid><pubDate>Thu, 05 Nov 2026 20:00:33 +0000</pubDate></item><item><title>フランスで再び大規模デモ 高校で火災など混乱も</title><link>https://news.web.nhk/newsweb/na/nd-20261106de71327</link><description>[score: 0.893] フランスでは物価高対策などを訴える大規模なデモが再び行われ、一部では指定された場所以外で若者がデモをしようとしたり、高校で火災が発生したりするなど混乱も見られました。
+5日のデモは労働組合などの呼…
+メラニア夫人“ウクライナの局地的な停戦を永続的な平和へ”
+11月6日 6:01
+日本製紙 地震で被災の八代工場 生産再開を断念 拠点は維持
+11月5日 23:35
+ラグビー日本代表 7日にウェールズ戦へ メンバーを発表
+11月6日 1:05
+難民の現状知ってもらう「難民映画祭」始まる 都内で上映会
+11月6日 5:03
+関心高まる「サイバーBCP」 攻撃された後も事業継続へ
+11月6日 5:05
+</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261106de71327</guid><pubDate>Thu, 05 Nov 2026 21:00:38 +0000</pubDate></item><item><title>消費税減税法案 与党きょう採決の構え 野党“具体像あいまい”</title><link>https://news.web.nhk/newsweb/na/nd-20261106de71308</link><description>[score: 0.896] 食料品の消費税減税関連法案をめぐって衆議院の委員会では、6日に高市総理大臣も出席して質疑が行われます。野党側は「支援金制度の具体像があいまいなままだ」などとしているのに対し、与党側は議論は深まってきた…
+自転車青切符 半年間で1万6000件交付 “ながらスマホ”が4割
+11月6日 0:29
+ラグビー日本代表 7日にウェールズ戦へ メンバーを発表
+11月6日 1:05
+ナスダック一時5％下落 AI・データセンター規制強化を懸念
+11月6日 1:37
+同じ住宅が5回もトクリュウの被害に…なぜ狙われた？
+11月5日 17:46
+東大総長選 投票はなぜ覆った? 異例の“大逆転”を追った
+11月5日 1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261106de71308</guid><pubDate>Thu, 05 Nov 2026 20:03:19 +0000</pubDate></item><item><title>M5 Max＆M6搭載の新「MacBook Pro」実機比較。タッチ対応よりディスプレイ品質に価値がある理由</title><link>https://www.businessinsider.jp/article/2611-apple-macbook-pro-oled-display-review/</link><description>[score: 0.898] アップルが11月6日に発売する新しい「MacBook Pro」のレビューをお届けする。この製品は、Macとしては初めてタッチ操作に対応したことで注目されている。
+ただ、そのことはこの製品の要素のごく一部でしかない。むしろ、重要なのは「ディスプレイ自体の変化」だ。
+今回は同時発売される、「MacBook Pro（14インチ・M6搭載モデル）」の貸し出しも受けたので、「最新のM6搭載モデルと、最新のボディ設計モデル」の両方を比較してみた。
+今回試用した端末
+PROLED XDRディスプレイ搭載MacBook Pro（16インチ、M5 Max、128GB、ストレージ2TB搭載）
+- メーカー：アップ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-apple-macbook-pro-oled-display-review/</guid><pubDate>Thu, 05 Nov 2026 14:21:48 +0000</pubDate></item><item><title>関心高まる「サイバーBCP」 攻撃された後も事業継続へ</title><link>https://news.web.nhk/newsweb/na/nd-20261106de71299</link><description>[score: 0.900] 不正アクセスによる情報流出の被害が相次ぐ中、サイバー攻撃を受けた場合に影響を最小限にとどめて事業を継続するための計画「サイバーBCP」への関心が企業や団体の間で高まっています。
+「サイバーBCP」…
 注目ワード
 あわせて読みたい
-【情報漏えい】対策どうする 二次被害に遭わないためには
-国税庁「e-Tax」不審な通信検知でメンテナンスも再開
-11月5日 16:05
-ドコモで不正アクセス 電話番号など顧客情報最大約30万件流出
-11月5日 19:31
-ドコモ 通話やデータ通信しにくい状況 不正アクセス確認されず
-11月5日 16:40
-2026年の新語・流行語大賞の候補 30のことばは？【全掲載】</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261105de71154</guid><pubDate>Thu, 05 Nov 2026 09:28:52 +0000</pubDate></item><item><title>総務省消防庁 「安否情報システム」への不正アクセス確認</title><link>https://news.web.nhk/newsweb/na/nd-20261105de71235</link><description>[score: 0.885] 総務省消防庁は、武力攻撃を受けた際や災害時に住民の安否を共有するためのシステムで、不正アクセスが確認されたと発表しました。
-不正アクセスを受けた際、システムに個人情報は残っていなかったとみられるとい…
-【情報漏えい】対策どうする 二次被害に遭わないためには
-ドコモで不正アクセス 電話番号など顧客情報最大約30万件流出
-11月5日 19:31
-「ほっともっと」メルマガ配信の会員情報 最大約700万件が流出
-11月5日 18:45
-宝くじサイト 利用者パスワード意図せず変更される 一時停止に
-11月5日 18:09
 「アララ」不正アクセス 影響は著名アーティストのFCにも
 11月5日 18:32
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261105de71235</guid><pubDate>Thu, 05 Nov 2026 12:19:19 +0000</pubDate></item><item><title>東大総長選 投票はなぜ覆った? 異例の“大逆転”を追った | NHKニュース</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70318</link><description>[score: 0.886] 「我々は議論を尽くしたはずなのに」
-東京大学の次の総長を決めた選考会議の委員の1人は、取材にこう語りました。
-教職員による意向投票で1位だった候補ではなく、なぜ、得票が半分だった2位の候補が、異例…
-あわせて読みたい
-国税庁「e-Tax」不審な通信検知でメンテナンスも再開
-11月5日 16:05
-宝くじサイト 利用者パスワード意図せず変更される 一時停止に
-11月5日 18:09
-中国輸入博覧会 日本からコンテンツ関連製品など売り込み
-11月5日 18:36
-「ほっともっと」メルマガ配信の会員情報 最大約700万件が流出
-11月5日 18:45
-グーグル 学校向け学習サービスのAI機能を制限
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70318</guid><pubDate>Thu, 05 Nov 2026 12:43:38 +0000</pubDate></item><item><title>ドコモ、不正アクセスで最大30万件の情報漏えい　My docomoとオンラインショップ</title><link>https://www.watch.impress.co.jp/docs/news/2154107.html</link><description>[score: 0.886] ニュース
-ドコモ、不正アクセスで最大30万件の情報漏えい My docomoとオンラインショップ
-2026年11月5日 20:15
-NTTドコモは5日、「ドコモオンラインショップ」と会員サービス「My docomo」において、外部から不正なアクセスが行なわれ、一部の会員情報が流出したと発表した。対象件数は最大約30万件。
-11月4日に、ドコモオンラインショップとMy docomoに対して、外部からの不正なアクセスを確認。5日午前1時5分頃からドコモオンラインショップとMy docomoにおける手続きを停止したが、その後の調査において、不正アクセスにより、一部の顧客情報が流出したという。対象件数</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2154107.html</guid><pubDate>Thu, 05 Nov 2026 11:25:53 +0000</pubDate></item><item><title>アイリスオーヤマ 約770万人分の個人情報が漏えいした可能性</title><link>https://news.web.nhk/newsweb/na/nd-20261105de71262</link><description>[score: 0.887] 大手生活用品メーカーのアイリスオーヤマは、会社の通販サイトが不正アクセスを受け、およそ770万人分の個人情報が漏えいした可能性があると発表しました。
-会社によりますと、漏えいした可能性があるのは外…
-総務省消防庁 「安否情報システム」への不正アクセス確認
-11月5日 20:20
-「アララ」不正アクセス 影響は著名アーティストのFCにも
-11月5日 18:32
+「ApplyNow」利用者のマイナンバーや口座情報など漏えい
+11月5日 18:34
 「ほっともっと」メルマガ配信の会員情報 最大約700万件が流出
 11月5日 18:45
 ドコモで不正アクセス 電話番号など顧客情報最大約30万件流出
 11月5日 19:31
-【情報漏えい】対策どうする 二次被害に遭わないためには
-94年目</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261105de71262</guid><pubDate>Thu, 05 Nov 2026 12:48:36 +0000</pubDate></item><item><title>ドコモからのお知らせ : 【お詫び】ドコモオンラインショップ、My docomoの緊急メンテナンス実施について/当社サーバーへの不正アクセスによるお客さま情報流出に関するお知らせ（第二報：11月5日 午後6時30分時点） | お知らせ | NTTドコモ</title><link>https://www.docomo.ne.jp/info/notice/page/261105_03_m.html</link><description>[score: 0.887] ドコモからのお知らせ : 【お詫び】ドコモオンラインショップ、My docomoの緊急メンテナンス実施について/当社サーバーへの不正アクセスによるお客さま情報流出に関するお知らせ（第二報：11月5日 午後6時30分時点） | お知らせ | NTTドコモ お客さまの設定により、お客さま情報が「非表示」となっております。お客さま情報を表示するにはdアカウントでログインしてください。 お客さま情報表示についてへ お客さま情報表示についてへ Tweet 【お詫び】ドコモオンラインショップ、My docomoの緊急メンテナンス実施について/当社サーバーへの不正アクセスによる...</description><guid isPermaLink="false">https://www.docomo.ne.jp/info/notice/page/261105_03_m.html</guid><pubDate>Thu, 05 Nov 2026 11:40:05 +0000</pubDate></item><item><title>@danndaramoyou のポスト on X（2026-11-04 13:02） / X</title><link>https://x.com/danndaramoyou/status/2117829722830971356</link><description>[score: 0.887] こしあん@danndaramoyouShow translationアマゾンのサイト入ったらこんな画面が出てきた。 アカウントは別に停止されてないしアマゾンからのメールなども来てない。 正規のアマゾンのサイトにサギアマゾンの広告のっけてるってこと？ （O客様・・・） ※連絡先は連絡してしまう人がいるといけないので一部隠しました。Last edited 4:02 AM · Nov 4, 2026Opens edit history·583.2KViews19485665254
-こしあん@danndaramoyouShow translationアマゾンのサイト入ったらこんな画面が出てきた。 アカ</description><guid isPermaLink="false">https://x.com/danndaramoyou/status/2117829722830971356</guid><pubDate>Thu, 05 Nov 2026 13:28:32 +0000</pubDate></item><item><title>涙に叱責に持論……GMO熊谷代表の謝罪会見、どこがまずかった？　危機管理広報のプロが分析</title><link>https://www.itmedia.co.jp/news/article/2611/05/2000002873/</link><description>[score: 0.890] 危機管理広報のプロが分析
-涙に叱責に持論……GMO熊谷代表の謝罪会見、どこがまずかった？ 危機管理広報のプロが分析（1/5 ページ）
-11月2日、GMOインターネットグループの熊谷正寿代表が、グループ企業で発生した不正アクセス・情報漏えい問題について記者会見を開きました。
-企業へのサイバー攻撃や情報漏えいが相次ぐ中、深刻な問題が発生しても記者会見を開かず、Webサイトでの情報開示などにとどめる企業も少なくありません。そうした中で、熊谷代表をはじめ複数の経営幹部が登壇し、約3時間半にわたって記者の質問を受けたことは、率直に評価したいと思います。
-また、同社は問題発覚後も継続的に情報開示を行ってき</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/05/2000002873/</guid><pubDate>Thu, 05 Nov 2026 13:28:32 +0000</pubDate></item><item><title>AIルールだけでは守られない規約を、自作lintで縛るようにした</title><link>https://zenn.dev/zoma/articles/72011082f2b1b7</link><description>[score: 0.891] AI に実装させるようになってから、思い通りの出力にならないものの解決策を AI ルールだけに求め、AI 向けのルールファイルを書き足し続けていました。しかし実際には、AI がルール通りに書かないケースも多く、人による手直しやレビュー指摘が相次いでいました。 振り返ると、規約は lint で縛るのが元々の基本でした。それを忘れて、AI ルールの更新ばかりしていました。そして lint でも縛ると決めたとき、以前ならプラグインを探して、なければ諦めていたようなプロジェクト固有の規約も、AI と一緒に自作できました。 この記事では、AI ルールだけに頼っていた規約を lint でも縛るように...</description><guid isPermaLink="false">https://zenn.dev/zoma/articles/72011082f2b1b7</guid><pubDate>Thu, 05 Nov 2026 12:35:53 +0000</pubDate></item><item><title>NTTドコモ、自社サーバーに不正アクセス。最大約30万件の利用者の情報流出</title><link>https://internet.watch.impress.co.jp/docs/news/2154115.html</link><description>[score: 0.895] ニュース
-NTTドコモ、自社サーバーに不正アクセス。最大約30万件の利用者の情報流出
-2026年11月5日 20:27
-株式会社NTTドコモは11月5日、不正アクセスにより利用者の情報最大約30万件が流出したと発表した。同社では同日未明より、ドコモオンラインショップおよびMy docomoの緊急メンテナンスを実施していた。
-同社では11月5日1時5分頃より、ドコモオンラインショップおよびMy docomoの緊急メンテナンスを実施していた。同日9時時点での発表によれば、同社サーバーに対して外部から不正アクセスが行われた可能性が高いと判断したことから、原因究明のため、としている。
-その後、同日18</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2154115.html</guid><pubDate>Thu, 05 Nov 2026 12:51:04 +0000</pubDate></item><item><title>【速報】高市首相は米中間選挙を受け、日米関係強化のためトランプ大統領と連携すると述べた。：時事ドットコム</title><link>https://www.jiji.com/jc/article?k=2026110501010&amp;g=flash</link><description>[score: 0.895] 【速報】高市首相は米中間選挙を受け、日米関係強化のためトランプ大統領と連携すると述べた。：時事ドットコム 【速報】高市首相は米中間選挙を受け、日米関係強化のためトランプ大統領と連携すると述べた。 2026年11月05日18時43分配信 高市首相は米中間選挙を受け、日米関係強化のためトランプ大統領と連携すると述べた。 高市首相「トランプ氏と協力」 中間選挙結果はコメントせず ニュース速報 最終更新:2026年11月05日18時43分</description><guid isPermaLink="false">https://www.jiji.com/jc/article?k=2026110501010&amp;g=flash</guid><pubDate>Thu, 05 Nov 2026 13:43:04 +0000</pubDate></item><item><title>ChatGPT最新モデルTerra6.1の実力と知的労働者が直面する限界</title><link>https://forbesjapan.com/articles/detail/107631?s=ns</link><description>[score: 0.900] 米国時間で2026年10月26日、OpenAIは最新モデルの1つであるChatGPTの「Terra 6.1」をリリースした。
-筆者は「ChatGPT Pro」の契約特典により、正式発表の数時間前という早い段階から、追加料金を支払うことなく最新のTerraモデルのアップグレードを試すことができた。
-ChatGPTのAIエージェントモード「ChatGPT Work」のモデル選択画面にその名称が表示されたとき、自然と疑問が湧いた。これがTerra 5.6やその他のChatGPT Workモデルと何が違うのかを知りたかったのだ。
-何よりも、時間に追われるジャーナリストであり創業者でもある筆者にとって、</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107631?s=ns</guid><pubDate>Thu, 05 Nov 2026 06:11:53 +0000</pubDate></item></channel></rss>
+総務省消防庁 「安否情報シス</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261106de71299</guid><pubDate>Thu, 05 Nov 2026 20:30:45 +0000</pubDate></item></channel></rss>
