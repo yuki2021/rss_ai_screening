@@ -1,176 +1,100 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 04 Nov 2026 21:08:56 +0000</lastBuildDate><item><title>千葉 南房総市に「レベル4土砂災害危険警報」</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70670</link><description>[score: 0.858] 気象庁は4日午後11時44分、千葉県南房総市にレベル4土砂災害危険警報を発表しました。
-土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。
-気象庁は自治体からの避難の情報を確認し、…
-土砂災害 警戒や避難のポイントは？
-【気象警報・注意報】各地の発表状況を詳しく
-【最新の避難情報】こちらから地域別でご覧になれます
-【最新の河川情報】こちらから一覧でご覧になれます
-川の氾濫 警戒のポイントは？
-災害に遭う前に ハザードマップで危険を知る
-天気防災サイト あなたの街の天気予報や災害情報を即時提供
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 05 Nov 2026 01:11:20 +0000</lastBuildDate><item><title>消費税減税法案 与党“あす衆院通過”野党“首相答弁で判断”</title><link>https://news.web.nhk/newsweb/na/nd-20261105de70693</link><description>[score: 0.879] 食料品の消費税減税関連法案をめぐり、与党側は十分に審議してきたとして、6日、委員会と本会議で採決を行い衆議院を通過させたい考えです。
+これに対して野党側は、高市総理大臣の答弁を聞いた上で採決に応じる…
+消費税減税法案 参議院は特別委を設置 委員長に自民 松村氏
+11月4日 12:40
+消費税減税法案 自民“6日採決を” 民改“首相答弁聞き判断”
+11月4日 18:25
+衆院財務金融委 消費税減税法案 与党は6日採決提案も協議継続
+11月4日 21:02
+【アメリカ中間選挙2026 特集ページ】
 94年目の反乱？ 農家の怒りがトランプ大統領に逆風
-イランへの軍事作戦がもたらした与党</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70670</guid><pubDate>Wed, 04 Nov 2026 16:06:24 +0000</pubDate></item><item><title>伊豆諸島や千葉県に発達した雨雲 昼ごろにかけて大雨のおそれ</title><link>https://news.web.nhk/newsweb/na/nd-20261105de70681</link><description>[score: 0.858] 台風周辺の暖かく湿った空気の影響などで、伊豆諸島や千葉県には発達した雨雲がかかっていて、「レベル4土砂災害危険警報」が発表されている地域があります。関東や伊豆諸島では、5日昼ごろにかけて非常に激しい雨…
-東京 神津島村に「レベル４土砂災害危険警報」
-11月5日 1:48
-千葉 南房総市に「レベル4土砂災害危険警報」
-11月5日 0:01
-東京 新島村に「レベル4土砂災害危険警報」
-11月4日 21:21
-【気象警報・注意報】各地の発表状況を詳しく
-【最新の河川情報】こちらから一覧でご覧になれます
-【最新の避難情報】こちらから地域別でご覧になれます
-土砂災害 警戒や避難のポイントは？
-川の氾濫 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261105de70681</guid><pubDate>Wed, 04 Nov 2026 16:06:24 +0000</pubDate></item><item><title>@Kalshi のポスト on X（2026-11-04 22:12） / X</title><link>https://x.com/Kalshi/status/2117968230568316984</link><description>[score: 0.859] Kalshi@KalshiJUST IN: New poll shows over 80% of Americans put corruption as a key issue over the economy1:12 PM · Nov 4, 2026·69.1KViews731941.5K50
-Kalshi@KalshiJUST IN: New poll shows over 80% of Americans put corruption as a key issue over the economy1:12 PM · Nov 4, 2026·69.1KViews731941.5K50</description><guid isPermaLink="false">https://x.com/Kalshi/status/2117968230568316984</guid><pubDate>Wed, 04 Nov 2026 20:23:38 +0000</pubDate></item><item><title>テンセント、新ＡＩ「ＨＹ４」公開 サイバー攻撃リスク抑制 | ロイター - Reuters</title><link>https://news.google.com/rss/articles/CBMie0FVX3lxTFBVQXA1SHc4V2haTkhoY3RtTHFXdXVuaVJGOVZXbGJDTnVzeE5uXzdOVlJJS01zdVZOS0lJNkdoTmNsOWZjZnRCSFBQSkVlY1VEb0V1cmJhSmpyNUNWVkVRQlY3ZEdJUklUZkhHYnpuTVEwbDJLYl93NDRDNA?oc=5</link><description>[score: 0.859] テンセント、新ＡＩ「ＨＹ４」公開 サイバー攻撃リスク抑制 | ロイター Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMie0FVX3lxTFBVQXA1SHc4V2haTkhoY3RtTHFXdXVuaVJGOVZXbGJDTnVzeE5uXzdOVlJJS01zdVZOS0lJNkdoTmNsOWZjZnRCSFBQSkVlY1VEb0V1cmJhSmpyNUNWVkVRQlY3ZEdJUklUZkhHYnpuTVEwbDJLYl93NDRDNA?oc=5</guid><pubDate>Wed, 04 Nov 2026 16:04:59 +0000</pubDate></item><item><title>「GitHub Copilot Dreaming」発表。作業を振り返ってパーソナルメモリやガイダンスをバックグラウンドで整理、アップデート。GitHub Universe 2026</title><link>https://www.publickey1.jp/blog/26/github_copilot_dreaminggithub_universe_2026.html</link><description>[score: 0.859] GitHubは、米サンフランシスコで10月28日と29日の2日間開催した年次イベント「GitHub Universe 2026」で、新機能「GitHub Copilot Dreaming」をパブリックプレビューとして発表しました。 Copilot Dreamingは、人間がAIモデルに対して指示した内容が、作業が進むにつれて対象となるコードや環境が変化したり、AIモデルの種類や性能が進化したりすることで、だんだん役に立たなくなってくることを自動的にバックグラウンドで整理しアッ……</description><guid isPermaLink="false">https://www.publickey1.jp/blog/26/github_copilot_dreaminggithub_universe_2026.html</guid><pubDate>Wed, 04 Nov 2026 14:41:16 +0000</pubDate></item><item><title>クラウドインフラのシェア、AWSが26％に後退、Google Cloudは16％に上昇。クラウドインフラ市場全体は過去最大の高成長率へ。2026年第3四半期、Synergy Research</title><link>https://www.publickey1.jp/blog/26/aws26google_cloud1620263synergy_research.html</link><description>[score: 0.860] 調査会社のSynergy Research Groupは、グローバルにおける2026年第3四半期のクラウドインフラの市場状況について調査結果を発表しました。 クラウドインフラとは、IaaS、PaaS、ホステッドプライベートクラウドを合わせたものを指します。 発表によると、2026年第3四半期のクラウドインフラ市場は1年前と比較して55％もの成長となり過去最高を更新しました。 市場規模は1680億ドル（1ドル160円換算で約26兆8800億円）となりました。 AWSはシェアを2……</description><guid isPermaLink="false">https://www.publickey1.jp/blog/26/aws26google_cloud1620263synergy_research.html</guid><pubDate>Wed, 04 Nov 2026 14:41:16 +0000</pubDate></item><item><title>ｅ―Ｔａｘに不審な通信　国税庁、一時停止に：時事ドットコム</title><link>https://www.jiji.com/jc/article?k=2026110401192&amp;g=soc</link><description>[score: 0.862] ｅ―Ｔａｘに不審な通信 国税庁、一時停止に
-国税庁は４日、外部からの不審な通信を検出したとして、電子申告納税システム「ｅ―Ｔａｘ」の運用を一時停止した。これまでに、納税者情報の流出などは確認されていないとしている。
-ｅ―Ｔａｘはオンラインで確定申告などができるシステム。同日午前１１時４０分ごろから緊急メンテナンスを実施しているが、復旧のめどは立っていないという。
-国税庁は「ご不便をおかけしていることをおわびする」とコメントした。
-国税庁は４日、外部からの不審な通信を検出したとして、電子申告納税システム「ｅ―Ｔａｘ」の運用を一時停止した。これまでに、納税者情報の流出などは確認されていないとしてい</description><guid isPermaLink="false">https://www.jiji.com/jc/article?k=2026110401192&amp;g=soc</guid><pubDate>Wed, 04 Nov 2026 16:32:09 +0000</pubDate></item><item><title>@hirosetakao のポスト on X（2026-11-04 12:39） / X</title><link>https://x.com/hirosetakao/status/2117824070326640761</link><description>[score: 0.862] …@hirosetakaoShow translation上院、下院の結果は、どうでもいいです。重要なのは州知事選挙＝データセンター建設を阻止・遅延させることが出来るのは連邦レベルではなく、州知事レベルだから。下は州知事選挙の現在の開票状況。どの州でどれだけデータセンターが計画されているか？をしめしたのが、もうひとつのチャート。テキサス、オハイオが焦点になっている。3:39 AM · Nov 4, 2026·428.4KViews194612.2K592
-…@hirosetakaoShow translation上院、下院の結果は、どうでもいいです。重要なのは州知事選挙＝データセンター建設を阻</description><guid isPermaLink="false">https://x.com/hirosetakao/status/2117824070326640761</guid><pubDate>Wed, 04 Nov 2026 20:23:38 +0000</pubDate></item><item><title>武部農相 公共事業受注企業の寄付「事実確認の上 適切に処理」</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70639</link><description>[score: 0.863] 武部農林水産大臣は、過去の衆議院選挙で、公職選挙法で禁じられている国の公共事業を請け負った企業からの寄付を受けた疑いがあると報じられたことについて、寄付をした会社が公共事業を受注していることを知らなか…
-どうなる？アメリカ中間選挙
-11月4日 12:35
-「私は写れないから…」 逃げても逃げても続く恐怖
-11月4日 20:29
-武部農相 二重計上「担当者の誤解」陳謝も“裏金”否定
-10月28日 22:14
-武部農相「事実関係確認中」 選挙運動費“二重計上”報道に
-10月28日 16:33
-武部農相 運動員登録のカメラマン“報告書の訂正を依頼”
-10月27日 17:15
-「アララ」への不正アクセ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70639</guid><pubDate>Wed, 04 Nov 2026 15:05:20 +0000</pubDate></item><item><title>ノア・スミス「2026年アメリカ中間選挙：普通のアメリカ人は、MAGAに罰を与えた」（2026年11月4日）</title><link>https://econ101.jp/normal-americans-punished-maga/</link><description>[score: 0.865] ノア・スミス「2026年アメリカ中間選挙：普通のアメリカ人は、MAGAに罰を与えた」（2026年11月4日） MAGA派は、いくつもの妄想にとらわれてきたみたいだ。 第一に、MAGA派は中間選挙で壊滅的な敗北を喫したという事実に、本気で驚いているみたいだ。実際、世論調査も予測も予測市場も、ここ数か月ずっと民主党の勝利を予想していた。でも、多くのMAGA系の人々は、アメリカにはいつでもどこかに「隠れトランプ支持者」の大...</description><guid isPermaLink="false">https://econ101.jp/normal-americans-punished-maga/</guid><pubDate>Wed, 04 Nov 2026 17:12:36 +0000</pubDate></item><item><title>NYダウ平均株価 一時1500ドル超上昇 米政治混乱の懸念後退</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70666</link><description>[score: 0.866] 4日のニューヨーク株式市場では買い注文が先行する展開となり、ダウ平均株価は一時、前日の終値と比べて1500ドルを超える大幅な値上がりとなりました。
-アメリカの中間選挙で民主党が上下両院の多数派を奪還…
+イランへの軍事作戦がもたらした与党・共和党への逆</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261105de70693</guid><pubDate>Wed, 04 Nov 2026 22:34:36 +0000</pubDate></item><item><title>「トランプ氏は今もなおあなたたちの大統領」ホワイトハウス、中間選挙の大敗受け強調</title><link>https://www.afpbb.com/articles/-/3660862</link><description>[score: 0.880] 「トランプ氏は今もなおあなたたちの大統領」ホワイトハウス、中間選挙の大敗受け強調
+このニュースをシェア
+【11月5日 AFP】米ホワイトハウスは4日、ドナルド・トランプ大統領率いる共和党が同政権への事実上の信任投票となる中間選挙で大敗したことを受け、「トランプ氏は今もなおあなたたちの大統領だ」と強調した。
+ホワイトハウスはX（旧ツイッター）に、大統領執務室の「レゾリュート・デスク」の向こう側から険しい表情でにらみつけるトランプ氏の写真を投稿した。
+写真には、公共広告を意味する略語「PSA」を使い、「お知らせ：トランプ氏は今もなおあなたたちの大統領だ」との文字が重ねられていた。
+投稿にはさらに、</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3660862</guid><pubDate>Thu, 05 Nov 2026 01:04:01 +0000</pubDate></item><item><title>米中間選挙の共和党大敗、原因は対イラン戦争 バンス副大統領</title><link>https://www.afpbb.com/articles/-/3660860</link><description>[score: 0.880] 米中間選挙の共和党大敗、原因は対イラン戦争 バンス副大統領 J・D・バンス米副大統領（2026年5月14日撮影）。（c）Tierney L CROSS / POOL / AFP 【11月5日 AFP】J・D・バンス米副大統領は4日、中間選挙で与党・共和党が大敗した原因はイランとの戦争にあると述べた。2028年大統領選への出馬が取り沙汰される中、国民に不人気な戦争から距離を置いた。 バンス氏はX（旧ツイッター）...</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3660860</guid><pubDate>Thu, 05 Nov 2026 00:53:19 +0000</pubDate></item><item><title>米中間選挙 テキサス州で民主党タラリコ氏が勝利確実 ロイター通信が速報 - khb東日本放送</title><link>https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kck9vM3hJZWl1Ynh1WmF1ZVJZZHVKT3ljS3NRcVY3dVNRMUhDeG9wYS1GYzdidDNGQVBiTWJXblEzWXlkUkdKdEQtNGFxTk0?oc=5</link><description>[score: 0.880] 米中間選挙 テキサス州で民主党タラリコ氏が勝利確実 ロイター通信が速報 khb東日本放送</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiT0FVX3lxTE1kck9vM3hJZWl1Ynh1WmF1ZVJZZHVKT3ljS3NRcVY3dVNRMUhDeG9wYS1GYzdidDNGQVBiTWJXblEzWXlkUkdKdEQtNGFxTk0?oc=5</guid><pubDate>Thu, 05 Nov 2026 00:13:42 +0000</pubDate></item><item><title>FlutterKaigi 2026での初登壇を経て、これからも挑戦し続けると決めた話</title><link>https://zenn.dev/assign/articles/2026-10-flutterkaigi-first-talk</link><description>[score: 0.880] はじめに 株式会社ASSIGNでWebフロント開発を担当している中水です。 今回、FlutterKaigi 2026 Day1のビギナーズLT枠で10分のLTをしてきました。人生初の登壇です。 FlutterKaigiには去年も、「Flutterについて詳しくなって、もっといろんな人と交流できるようになりたい」と思いながら、聞く側として参加していました。まさか翌年、自分が登壇する側になるとは想像もしていませんでした。 この記事では、発表のテーマが決まるまでの経緯と、登壇を経て思ったことを書いていきます。 発表内容 発表のタイトルは「そのデザイントークン、Flutterでも同じ見た...</description><guid isPermaLink="false">https://zenn.dev/assign/articles/2026-10-flutterkaigi-first-talk</guid><pubDate>Thu, 05 Nov 2026 00:23:20 +0000</pubDate></item><item><title>不正アクセス、個人情報「持たない」選択　ゆで太郎は会員制廃止 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC29A0T0Z21C26A0000000/</link><description>[score: 0.881] この記事は会員限定記事です
+不正アクセス、個人情報「持たない」選択 ゆで太郎は会員制廃止
+[会員限定記事]
+不正アクセスの多発を受けて、そばチェーン大手のゆで太郎システム（東京・品川）は会員制度の廃止を決めた。物語コーポレーションは「焼肉きんぐ」で個人情報が入力不要な予約システムを導入する。
+人工知能（AI）を使った不正アクセスを完全に防ぐのは難しく、個人情報が漏洩すれば賠償金のリスクがある。個人情報の収集を前提としてきたマーケティングから逆回転が起こり始めた。
+ゆで太郎、会員約4000人の情報消去
+インターネット上に個人の氏名や住所、メールアドレスなど個人情報が流出する事案が相次いでいます。</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC29A0T0Z21C26A0000000/</guid><pubDate>Thu, 05 Nov 2026 00:13:14 +0000</pubDate></item><item><title>AIによる破壊的変化への最善の防御策は「リーダーシップ能力」である</title><link>https://forbesjapan.com/articles/detail/107737?s=ns</link><description>[score: 0.882] AIによる破壊的変化への最善の防御策は「リーダーシップ能力」である
+AI開発の加速に対する人類への厳しい警告が相次いで報じられるなか、組織内で進歩を推進する人々をいかに鼓舞し、動機づけ続けるかという課題は、はるかに複雑になりつつある。
+多くの企業はすでに、AIの加速と過度な依存が組織に懸念すべき結果をもたらしているのを目の当たりにしている。たとえば、AIエージェントの暴走、品質の劣化、そしてスキルの喪失への懸念などだ。一方で、歩みが遅すぎれば、人類に恩恵をもたらす画期的なソリューションの開発にAIが貢献する可能性を逃すリスクもある。
+私たちはすでに、AIが単なるツールではなく、仕事の進め方にお</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107737?s=ns</guid><pubDate>Thu, 05 Nov 2026 00:14:07 +0000</pubDate></item><item><title>トランプ米大統領、自身が出馬していたら共和党は選挙で「圧勝」していた</title><link>https://forbesjapan.com/articles/detail/107710?s=ns</link><description>[score: 0.883] ドナルド・トランプ米大統領は4日、米保守系FOXニュースに電話出演し、前日に実施された米中間選挙での民主党の勝利をたたえた。これに先立ち、同大統領はソーシャルメディア（SNS）上で、自身が選挙に立候補していなかったことを強調し、もし立候補していたら共和党は「圧勝していただろう」と投稿していた。
+トランプ大統領はFOXニュースに対し、中間選挙で民主党は「よくやった」「懸命に戦った」とたたえた一方で、共和党敗北の責任は自身の政策ではなく、同党の候補者にあると主張した。同大統領は選挙の結果について、「私への打撃だとは捉えていない」とした上で、自身が大統領に就任して以降の2年間は「歴史上、最高のものだ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107710?s=ns</guid><pubDate>Thu, 05 Nov 2026 00:14:07 +0000</pubDate></item><item><title>欧州極右系政治指導者、トランプ氏と距離 中間選挙での共和党敗北受け - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9GZmFmWlhsZ3htNzU3NTZHVjBmRmZZS2NmbXEyUFpqOXA1VElXNWtUSGE1T2l2LUYwbEtaMVhnQzZ2ZkxkSkZXcXF6TXB5RTJVQjl4LWVBa08xdTlEeWh6bDVyWjF6ZDluYkQtaUlkakFMLW0yVUs0cW9lQVFIeEU?oc=5</link><description>[score: 0.884] 欧州極右系政治指導者、トランプ氏と距離 中間選挙での共和党敗北受け Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9GZmFmWlhsZ3htNzU3NTZHVjBmRmZZS2NmbXEyUFpqOXA1VElXNWtUSGE1T2l2LUYwbEtaMVhnQzZ2ZkxkSkZXcXF6TXB5RTJVQjl4LWVBa08xdTlEeWh6bDVyWjF6ZDluYkQtaUlkakFMLW0yVUs0cW9lQVFIeEU?oc=5</guid><pubDate>Wed, 04 Nov 2026 23:10:08 +0000</pubDate></item><item><title>エボラ出血熱 WHO 新たなワクチン2種類の臨床試験へ</title><link>https://news.web.nhk/newsweb/na/nd-20261105de70744</link><description>[score: 0.884] アフリカ中部のコンゴ民主共和国で1万人以上に感染が拡大しているエボラ出血熱を食い止めようと、WHO＝世界保健機関は、現在流行しているウイルスに対応する2種類の新しいワクチンの臨床試験を現地で始めます。…
+【アメリカ中間選挙2026 特集ページ】
+アメリカ中間選挙 民主党大勝 “トランプ氏に拒絶反応”米報道
+11月5日 8:48
+トランプ大統領 敗北理由はイラン “でもまた同じ決断する”
+11月5日 5:57
+NYダウ平均株価 終値は1569ドル上昇 米政治混乱回避で買い注文
+11月5日 8:34
+イランで大規模反米デモ 最高指導者「敵対姿勢は変わらない」
+11月4日 22:21
+ウクライナ人道</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261105de70744</guid><pubDate>Thu, 05 Nov 2026 00:31:10 +0000</pubDate></item><item><title>Apple、すべてのアプリがSiriに統合する機能を劇的に拡張する「Siri AI Developer Preview」を発表 | NEWS | Mac OTAKARA</title><link>https://www.macotakara.jp/news/entry-52225.html</link><description>[score: 0.884] Apple、すべてのアプリがSiriに統合する機能を劇的に拡張する「Siri AI Developer Preview」を発表 | NEWS | Mac OTAKARA Siri AI Developer Preview Appleが、デベロッパ向けにiOS 27.3、iPadOS 27.3、macOS 27.3、visionOS 27.3 のベータ版において、新しい「Siri AI Developer Preview」が利用可能になったと発表しています。 これにより、あらゆる開発者が自身のアプリに Siri AI を統合できるようになり、企業や開発者にとって、顧客にリ...</description><guid isPermaLink="false">https://www.macotakara.jp/news/entry-52225.html</guid><pubDate>Wed, 04 Nov 2026 21:21:30 +0000</pubDate></item><item><title>AI時代のサイバー防御に「守る側」の発想はもう通用しない</title><link>https://japan.zdnet.com/article/35254339/</link><description>[score: 0.885] 最先端の大規模AIモデル（フロンティアAIモデル）の進化は、攻撃側と防御側の双方の能力を根本から変えつつあります。これまで高度な専門知識が必要だった攻撃を、より多くの攻撃者が実行できるようになる一方で、防御側に求められる水準は上がり続けています。この非対称な状況では、攻撃対象領域（アタックサーフェス）を守り続けるという従来の構えだけでは追いつきません。本稿では、セキュリティチームが「守る側」の発想から「攻撃者」の発想へ軸足を移す必要性と、そのために組織が取るべき具体的な一歩を解説します。
+2026年6月、米国や英国など5カ国による情報共有の枠組み「ファイブアイズ」に参加するサイバーセキュリティ</description><guid isPermaLink="false">https://japan.zdnet.com/article/35254339/</guid><pubDate>Thu, 05 Nov 2026 00:30:07 +0000</pubDate></item><item><title>“サイバー攻撃で新チーム運用” 対策パッケージで政府調整</title><link>https://news.web.nhk/newsweb/na/nd-20261105de70695</link><description>[score: 0.885] 不正アクセスによる情報漏えいが相次ぐ中、政府は、今週中をめどにとりまとめる緊急対策パッケージに、重大なサイバー攻撃事案に対応する新たなチームの運用を早期に開始することなどを盛り込む方向で調整しています…
+良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ
+11月4日 19:14
+「アララ」への不正アクセス影響 利用企業で情報漏えい相次ぐ
+11月4日 21:54
+電子申請システム「LoGoフォーム」で障害 サービス停止
+11月4日 18:37
+セブン-イレブン “配達委託先から個人情報16万件余り漏えい”
+11月4日 10:26
+デニーズ 旧アプリ利用者の個人情報漏えいか 不正アクセス受け</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261105de70695</guid><pubDate>Wed, 04 Nov 2026 22:04:03 +0000</pubDate></item><item><title>マーケティングAIの次なる時代は「プロアクティブ（先回り型）」になる</title><link>https://forbesjapan.com/articles/detail/107743?s=ns</link><description>[score: 0.885] 人工知能（AI）により、情報へのアクセスはすでに劇的に容易になった。マーケターはキャンペーン報告書の要約、顧客セグメントの分析、市場動向の調査をわずか数秒で行うことができる。かつては検索、レポートの抽出、チーム間の調整に何時間も要していた作業が、今ではAIインターフェースに質問を入力することから始められるようになりつつある。
+これは大きな進歩だが、マーケターが「何を質問すべきか」を知っていることが前提となっている。
+現在進んでいる、より重大な変化は「プロアクティブ・インテリジェンス（先回り型の知能）」への移行だ。質問を待つのではなく、AIシステムが顧客行動、キャンペーン成果、ビジネス目標を絶え</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107743?s=ns</guid><pubDate>Thu, 05 Nov 2026 00:43:29 +0000</pubDate></item><item><title>エンジニアの成長速度は、試行錯誤を重ねた回数で決まる | gihyo.jp</title><link>https://gihyo.jp/article/2026/10/engineer-ai-sounding-board-02</link><description>[score: 0.886] 本連載は2026年9月刊行の
+PDCAのサイクルを回した回数、すなわち試行錯誤の積み重ねによって、エンジニアの成長速度は決まります。AIはこのサイクルを回すハードルを一気に下げました。第2回となるこの記事では、この成長サイクルをAIと回すべき、3つの理由について解説します。
+AIがPDCAのハードルを下げた
+AIが登場し、私たちの仕事のあり方は大きく変わりました。情報を集める、施策を考える、コードを書く、ドキュメントを整理する、結果を振り返って次の手を打つ。こうした一つひとつの作業をAIが手助けしてくれることで、何かを考え、試し、振り返り、改善する、といった
+そもそも、これまでこのサイクルを回</description><guid isPermaLink="false">https://gihyo.jp/article/2026/10/engineer-ai-sounding-board-02</guid><pubDate>Thu, 05 Nov 2026 00:30:07 +0000</pubDate></item><item><title>「AIっぽい広告」で逆に印象アップ？ 20代では約7割が企業に好印象【SPinno調べ】</title><link>https://webtan.impress.co.jp/n/2026/11/05/53540</link><description>[score: 0.887] 「AIっぽい広告」で逆に印象アップ？ 20代では約7割が企業に好印象【SPinno調べ】 AI生成の店頭POPや店内ポスター、意外と受け入れられる？ 好印象が悪印象を上回る。 imai-f 2026年11月5日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 SPinnoの「それ行け！販売促進部」は、「生成AIで作られた店頭販促物に関する消費者意識調査」の結果を発表した。「生成AI」という言葉を知っており、月2～3回以上実店舗を利用する23～65歳の男女224人が回答している。 関連記事 生成AI広告は「条件が整えば活用してよい」52.0%、透明性への配慮が前提【日本イン</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/11/05/53540</guid><pubDate>Wed, 04 Nov 2026 21:24:16 +0000</pubDate></item><item><title>AIエージェントの責任が行き着く先は「ヒューマン・イン・ザ・ループ」だ</title><link>https://forbesjapan.com/articles/detail/107747?s=ns</link><description>[score: 0.887] 先月アムステルダムで行った5件のインタビューで、筆者はAI企業に同じ趣旨の質問を投げかけた。あなた方のエージェントが誤った判断をしたとき、誰が代償を払うのか。
+返ってきた答えでは、そのコストは、エージェントを販売する企業以外のほぼあらゆる場所に置かれていた。
+慎重な答えもあれば、率直な答えもあった。それらを総合すると、エンタープライズAIの現在地が見えてくる。業界は、エージェントのミスを防ぐための仕組みを大量に構築してきた。一方で、それでもミスがすり抜けた場合に誰が請求書を受け取るのかについては、はるかに語ることが少ない。
+その2つ目の問いに対する典型的な答えは「人間」だ。ヒューマン・イン・ザ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107747?s=ns</guid><pubDate>Thu, 05 Nov 2026 00:43:29 +0000</pubDate></item><item><title>「信用ならない」GMO熊谷代表　「31年間、一度も儲かると言っていない」と豪語→“決定的証拠”が発覚でツッコミ殺到 | 女性自身</title><link>https://jisin.jp/domestic/2607677/</link><description>[score: 0.888] 「信用ならない」GMO熊谷代表 「31年間、一度も儲かると言っていない」と豪語→“決定的証拠”が発覚でツッコミ殺到 | 女性自身 「私は31年間、一度たりとも儲かる、儲けるという言葉を使ったことはありません。お客様のために情報を守れと言い続けてまいりました」 11月2日、GMOインターネットグループの熊谷正寿代表（63）は、自社のクラウドサービスへの不正アクセス問題を巡る謝罪会見で涙ながらにこのように語った。 およそ3時間半に及んだ会見...</description><guid isPermaLink="false">https://jisin.jp/domestic/2607677/</guid><pubDate>Wed, 04 Nov 2026 23:45:04 +0000</pubDate></item><item><title>【重要】当社サービスを利用する特定企業の環境下における個人情報流出の可能性に関するお知らせとお詫び | ニュース | 電通総研</title><link>https://www.dentsusoken.com/news/topics/2026/1104_1.html</link><description>[score: 0.888] 【重要】当社サービスを利用する特定企業の環境下における個人情報流出の可能性に関するお知らせとお詫び | ニュース | 電通総研 株式会社電通総研 この度、株式会社電通総研（以下「電通総研」）が開発・提供する「FACERE（ファケレ）」を利用する特定企業の環境下において、アクセス権限の設定不備によって第三者による不正アクセスが行われ、個人情報が流出した可能性があることが判明しました。 現在、電通総研では、「FACERE」を利用する全ての...</description><guid isPermaLink="false">https://www.dentsusoken.com/news/topics/2026/1104_1.html</guid><pubDate>Wed, 04 Nov 2026 21:32:52 +0000</pubDate></item><item><title>相次ぐWEBシステムからの情報漏洩事案について（第2報） | セキュリティ研究センターブログ</title><link>https://security.macnica.co.jp/blog/2026/11/web-incidents2026-oct2.html</link><description>[score: 0.888] 相次ぐWEBシステムからの情報漏洩事案について（第2報） | セキュリティ研究センターブログ ■記事概要 国内で相次ぐWEBシステムからの情報漏洩の状況をまとめ、第2報として公開します。 まず、前回の記事 の内容のサマリです。今年7月以降、WEBシステムからの情報漏洩が相次ぎ、被害がECサイトだけでなく、会員向けサービスや業務用システムなど、多種多様なサイトへ無差別的に広がり始めた状況をお伝えしました...</description><guid isPermaLink="false">https://security.macnica.co.jp/blog/2026/11/web-incidents2026-oct2.html</guid><pubDate>Wed, 04 Nov 2026 23:56:02 +0000</pubDate></item><item><title>日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然／「Git」の意外な弱点も？【やじうまの杜】</title><link>https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html</link><description>[score: 0.888] やじうまの杜
+日本の全法令が「Git」の履歴に ～改正で何が変わったのかが一目瞭然
+「Git」の意外な弱点も？
+2026年11月5日 06:45
+「やじうまの杜」では、ニュース・レビューにこだわらない幅広い話題をお伝えします。
+法律は「Git」で管理したらいいんじゃ？――というのはときどき話題になりますが、それを実際にやってみた方がいるようです。興味のある方は、「GitHub」（Kohei-Wada/houritsu）へどうぞ。データは「CC BY 4.0」、変換プログラム「houritsu-builder」（Rust製）は「MIT」ライセンスで公開されています。
+法律の改正は、『〇〇法の一部</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/serial/yajiuma/2153621.html</guid><pubDate>Thu, 05 Nov 2026 00:13:14 +0000</pubDate></item><item><title>AIデータセンター建設にブレーキ　テキサス州で反対派勝利、全米に波及 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOGN04BNW0U6A101C2000000/</link><description>[score: 0.889] AIデータセンター建設にブレーキ テキサス州で反対派勝利、全米に波及
+【米南部テキサス州オースティン=大平祐嗣】米国最大のデータセンター建設計画地である南部テキサス州の中間選挙で民主党が大勝した。民主の次期知事は法整備が整うまで建設禁止を明言する。延期の動きは他州にも波及し、米国の人工知能（AI）インフラ投資全体に急ブレーキがかかる見通しだ。
+「州民を優先し保護する法律が可決されるまで、データセンターの許可を一切禁止する」。2日、テキサス州オースティンでこう演説し...
+※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。
+この投稿は現在非表示に設定されています
+(更</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOGN04BNW0U6A101C2000000/</guid><pubDate>Thu, 05 Nov 2026 00:15:39 +0000</pubDate></item><item><title>トランプ大統領 敗北理由はイラン “でもまた同じ決断する”</title><link>https://news.web.nhk/newsweb/na/nd-20261105de70714</link><description>[score: 0.890] アメリカの中間選挙は、野党・民主党が連邦議会上下両院で多数派の奪還を確実にし、共和党の強固な地盤でも議席を獲得するなど、予想を上回る大きな勝利となりました。
+トランプ大統領は、共和党が大敗した中間選…
 【アメリカ中間選挙2026 特集ページ】
 トランプ大統領「結果を受け入れるつもり」
 11月4日 19:45
 アメリカ史上初の黒人女性知事が南部ジョージア州で誕生へ
 11月4日 16:38
-伊豆諸島や千葉県に発達した雨雲 昼ごろにかけて大雨のおそれ
-11月5日 2:35
-「書道」無形文化遺産に登録へ ユネスコ評価機関「記載」勧告
-11月5日 2:47
-94年目の反乱？ 農家の怒りがトランプ大統領に</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70666</guid><pubDate>Wed, 04 Nov 2026 15:05:20 +0000</pubDate></item><item><title>欧州多国籍軍、ロシアの攻撃に反撃容認へ　停戦後のウクライナ派兵で</title><link>https://seikeifocus.jp/politics/article/67580/</link><description>[score: 0.866] 欧州多国籍軍、ロシアの攻撃に反撃容認へ 停戦後のウクライナ派兵で
-英国・フランス主導の欧州多国籍軍 ロシアの攻撃に対する自衛権の行使を認める方針
-英国とフランスは、ウクライナでの停戦後に現地へ派兵する欧州の多国籍軍について、ロシア軍の攻撃を受けた場合に反撃を認める方針だ。ロシアが欧州軍のウクライナ駐留を容認しないと警告する中、実際に派兵が行われれば、ロシア軍と西側諸国の部隊との間で直接的な武力衝突が発生する可能性も指摘されている。
-3日（現地時間）、英ガーディアンは西側当局者らの話として、「駐ウクライナ多国籍軍（MNF-U）」がロシア軍によるドローン（無人機）攻撃などを受けた場合、自衛権を行使</description><guid isPermaLink="false">https://seikeifocus.jp/politics/article/67580/</guid><pubDate>Wed, 04 Nov 2026 19:51:51 +0000</pubDate></item><item><title>日本郵便 サイバー攻撃で海外向け配送「UGX」一部停止</title><link>https://news.web.nhk/newsweb/na/nd-20261105de70691</link><description>[score: 0.869] 日本郵便は、出資先の会社が提供するシステムがサイバー攻撃を受け、海外宛ての配送サービス「UGX」で、一部利用ができなくなっていると発表しました。
-「UGX」は海外配送サービスの1つで、重さ50キロ…
-「アララ」への不正アクセス影響 利用企業で情報漏えい相次ぐ
-11月4日 21:54
-良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ
-11月4日 19:14
-電子申請システム「LoGoフォーム」で障害 サービス停止
-11月4日 18:37
-デニーズ 旧アプリ利用者の個人情報漏えいか 不正アクセス受け
-11月4日 13:24
-セブン-イレブン “配達委託先から個人情報16万件余り漏えい”
-1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261105de70691</guid><pubDate>Wed, 04 Nov 2026 18:14:19 +0000</pubDate></item><item><title>トランプ氏「イラン戦争が共和党に打撃」、 熱狂的支持を候補者に波及できず - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTFBpOGI5V0NHTzlybmVGSjRFdU4wWHRFZUVPbXVhQllqNXlETk9oQ3A5bVBtMnY4azB4UXpqUmZxZ2pIT2trY0tKYm9OSDBCWm9MZWZId3FPc0xsSzJPcThIQTBBSm5ZRld1QlhPMGRfMnRMYmhfalRNT0htX0p0TFU?oc=5</link><description>[score: 0.869] トランプ氏「イラン戦争が共和党に打撃」、 熱狂的支持を候補者に波及できず Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTFBpOGI5V0NHTzlybmVGSjRFdU4wWHRFZUVPbXVhQllqNXlETk9oQ3A5bVBtMnY4azB4UXpqUmZxZ2pIT2trY0tKYm9OSDBCWm9MZWZId3FPc0xsSzJPcThIQTBBSm5ZRld1QlhPMGRfMnRMYmhfalRNT0htX0p0TFU?oc=5</guid><pubDate>Wed, 04 Nov 2026 19:12:47 +0000</pubDate></item><item><title>バンス副大統領、共和党敗北は「イラン戦争が原因」 トランプ氏と一線 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPRWdKRFdEOEh2Sy1sX3VyeVREcG5SRGxSMDdSY0Fub0NxcTlmRjZOTVJMT2FUbUNzMVdvQ016NmJlUkdmTjd5WEU0eUgyUWUzY2ozMVppWFRFY2dJN0tLOTNxdGRpdW55bXI4QXlfbGhzZ3lxY1RTS0J2S0ZfaUxxMnV2Mk5aQXc?oc=5</link><description>[score: 0.872] バンス副大統領、共和党敗北は「イラン戦争が原因」 トランプ氏と一線 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxPRWdKRFdEOEh2Sy1sX3VyeVREcG5SRGxSMDdSY0Fub0NxcTlmRjZOTVJMT2FUbUNzMVdvQ016NmJlUkdmTjd5WEU0eUgyUWUzY2ozMVppWFRFY2dJN0tLOTNxdGRpdW55bXI4QXlfbGhzZ3lxY1RTS0J2S0ZfaUxxMnV2Mk5aQXc?oc=5</guid><pubDate>Wed, 04 Nov 2026 19:12:47 +0000</pubDate></item><item><title>民主党の“ブルーウェーブ”タラリコ氏「テキサス取り戻した」</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70404</link><description>[score: 0.872] 38年ぶりに民主党の候補が上院で勝利したテキサス州や94年ぶりの勝利となったカンザス州。
-今回の上院議員選挙では、共和党が議席を守ってきた地域でも続々と民主党の候補が議席を獲得し、いわゆる「ブルーウ…
-アメリカ中間選挙 民主党大勝 “トランプ氏に拒絶反応”米報道
-11月5日 5:50
-民主党「ブルーウェーブに乗っている」ポリティコ
-11月4日 13:32
-株価 値下がり アメリカ中間選挙でAI関連投資に不透明感
-11月4日 16:26
-食料品などの高騰「懸念」80％以上 アメリカ有権者の意識は
-11月4日 14:35
-トランプ大統領「結果を受け入れるつもり」
-11月4日 19:45
-【アメリカ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70404</guid><pubDate>Wed, 04 Nov 2026 14:09:39 +0000</pubDate></item><item><title>トランプ氏、中間選挙での共和党の敗北に言及　「私への打撃ではない」</title><link>https://www.cnn.co.jp/usa/35254372.html</link><description>[score: 0.872] トランプ氏、中間選挙での共和党の敗北に言及 「私への打撃ではない」
-（CNN） トランプ米大統領は中間選挙での共和党の敗北について、自身の政権運営に対する批判とは受け止めていないと発言した。CNNは民主党による上下両院の過半数獲得を予測している。
-トランプ氏はFOXニュースとの電話での生インタビューで、「私への打撃だとは受け止めていない」とコメント。「経済面でもどの面でも、この2年間は我が国の大統領制の歴史上、最も素晴らしい2年間だった」と主張した。
-米国民に最後に伝えたいことは何かと問われると、トランプ氏は民主党に祝意を示した。
-「そうだな、民主党員におめでとう、と言っておこう」。トランプ氏</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35254372.html</guid><pubDate>Wed, 04 Nov 2026 16:32:09 +0000</pubDate></item><item><title>「書道」無形文化遺産に登録へ ユネスコ評価機関「記載」勧告</title><link>https://news.web.nhk/newsweb/na/nd-20261105de70701</link><description>[score: 0.874] 日本がユネスコの無形文化遺産への登録を目指す「書道」について、ユネスコの評価機関は登録がふさわしいとする勧告をまとめました。
-近く正式に登録される見通しです。
-文化庁によりますと、ユネスコの評価…
-【アメリカ中間選挙2026 特集ページ】
-伊豆諸島や千葉県に発達した雨雲 昼ごろにかけて大雨のおそれ
-11月5日 2:35
-良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ
-11月4日 19:14
-プロオーケストラが存続危機 地域文化を公金で支える意義は？
-11月4日 19:02
-年収3000万円も電気代は8万円？ AI投資・トランプ関税の行方は
-11月4日 18:21
-「私は写れないから…</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261105de70701</guid><pubDate>Wed, 04 Nov 2026 18:14:19 +0000</pubDate></item><item><title>高市首相“北海道新聞記者の解放へ努力”鈴木宗男氏と会談 | NHKニュース</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70394</link><description>[score: 0.874] ロシアの治安機関に北海道新聞の記者が拘束されていることをめぐり、高市総理大臣は、北海道が地元の自民党の鈴木宗男参議院議員と会談し、外交ルートなどを通じて記者の解放に向けて努力していく考えを示しました。…
-北海道新聞の記者拘束 アメリカ有力紙がロシアを厳しく批判
-10月22日 11:07
-5年ぶり日ロ外相会談 茂木外相 北海道新聞記者の即時解放要請
-10月31日 6:59
-【最新の台風情報】予想進路や勢力などを詳しく
-台風31号 関東や伊豆諸島 5日昼ごろにかけ大雨のおそれ
-11月4日 22:13
-ロシアの米国民解放 トランプ大統領「引き換え何も与えず」
-10月22日 8:27
-道新記者に差し入</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70394</guid><pubDate>Wed, 04 Nov 2026 19:21:29 +0000</pubDate></item><item><title>東京 御蔵島村に「レベル4土砂災害危険警報」</title><link>https://news.web.nhk/newsweb/na/nd-20261105de70712</link><description>[score: 0.879] 気象庁は5日午前4時33分、東京・伊豆諸島の御蔵島村にレベル4土砂災害危険警報を発表しました。
-土砂災害の危険性が非常に高くなっているため、厳重な警戒が必要です。
-気象庁は、自治体からの避難の情報…
-天気防災サイト あなたの街の天気予報や災害情報を即時提供
-【気象警報・注意報】各地の発表状況を詳しく
-埼玉県警 巡査部長が警察官から拳銃奪い自分に発砲
-11月4日 18:01
-良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ
-11月4日 19:14
-【アメリカ中間選挙2026 特集ページ】
-サッカー日本代表 強化試合のメンバー28人発表 南野拓実が復帰
-11月4日 18:19
-サイバー攻撃</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261105de70712</guid><pubDate>Wed, 04 Nov 2026 20:05:49 +0000</pubDate></item><item><title>米共和党ジョンソン下院議長、少数党院内総務選に不出馬＝関係筋 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9YV05oRzd5TTFRSHlkNVlEUXNFT05LUjI0Zm1nSGhsMjlQRWdiZ2ZvdTFjZFpQdE1RNDdYblNuRFBxdUdRQThsUktXTHc4Nll5aWRBZDF0eWtERU5ibXpIUy0ya3IxSlU1ZlZTbEJSd0R2b0pwSHhCS1NKYm42SDg?oc=5</link><description>[score: 0.879] 米共和党ジョンソン下院議長、少数党院内総務選に不出馬＝関係筋 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9YV05oRzd5TTFRSHlkNVlEUXNFT05LUjI0Zm1nSGhsMjlQRWdiZ2ZvdTFjZFpQdE1RNDdYblNuRFBxdUdRQThsUktXTHc4Nll5aWRBZDF0eWtERU5ibXpIUy0ya3IxSlU1ZlZTbEJSd0R2b0pwSHhCS1NKYm42SDg?oc=5</guid><pubDate>Wed, 04 Nov 2026 17:09:17 +0000</pubDate></item><item><title>ゆうちょ銀行 松井証券に約2割出資を発表</title><link>https://news.web.nhk/newsweb/na/nd-20261104de70640</link><description>[score: 0.884] ゆうちょ銀行はネット証券大手「松井証券」の株式のおよそ20％を取得すると発表しました。資産運用への関心が高まる中、銀行口座の利用者が株式を売買できるサービスなどを提供する方針です。
-発表によります…
-三菱UFJ 新ネット銀行ではキャッシュカード“発行しない”方針
-11月4日 13:28
-サイバー攻撃で情報漏えいの可能性 10月は1億8500万件あまりに
-11月4日 18:13
-良品計画 クレカ番号の全桁 約109万件が漏えいのおそれ
-11月4日 19:14
-「アララ」への不正アクセス影響 利用企業で情報漏えい相次ぐ
-11月4日 21:54
-どうなる？アメリカ中間選挙
-11月4日 12:35
-9</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261104de70640</guid><pubDate>Wed, 04 Nov 2026 20:36:30 +0000</pubDate></item><item><title>「王はいらない」、民主主義に敗れたトランプ氏　物価高と戦争の末に：朝日新聞</title><link>https://www.asahi.com/articles/ASVC42CHCVC4UHBI01VM.html</link><description>[score: 0.886] トランプ米大統領への有権者の強い怒りが、民主党による「ブルーウェーブ（青い波）」を引き起こした。3日投開票の中間選挙は、共和党が本来は優勢の「赤い州」をも次々と失い、地滑り的な大敗を喫した。連邦議会で上下両院を握ることになった民主党は、トランプ氏の強硬な政権運営に歯止めをかけられるのか。
-「分断の政治は、愛の政治にはかなわない」
-テキサス州の連邦上院選で38年ぶりの民主党勝利を確実にしたジェームズ・タラリコ氏（37）は3日深夜、支持者らの前に姿を見せた。トランプ氏に忠誠を誓うケン・パクストン州司法長官（63）との戦いを、旧約聖書で羊飼いの少年ダビデが巨人ゴリアテを倒した物語に見立て、「この勝利</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVC42CHCVC4UHBI01VM.html</guid><pubDate>Wed, 04 Nov 2026 19:32:05 +0000</pubDate></item><item><title>レームダック化したトランプ氏、中間選挙後も波乱の火種か</title><link>https://www.afpbb.com/articles/-/3660851</link><description>[score: 0.886] レームダック化したトランプ氏、中間選挙後も波乱の火種か
+トランプ大統領の外交方針を注視 米中間選挙受け 日本政府
+11月5日 4:56
+94年目の反乱？ 農家の怒りがトランプ大統領に逆風
+イランへの軍事作戦がもたらした与党・共和党への逆風
+まぎらわしい2人の候補 ト</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261105de70714</guid><pubDate>Wed, 04 Nov 2026 23:33:39 +0000</pubDate></item><item><title>AIにいきなり実装させない — kintoneカスタマイズ開発Skillのヒアリング設計</title><link>https://zenn.dev/genda_jp/articles/a5cbba3664748b</link><description>[score: 0.890] こんにちは、IT戦略部の谷川です。 GENDAでは社内の業務アプリの一部をkintoneで構築しており、標準機能で足りない部分をkintoneのJavaScriptのカスタマイズで補っています。しかし要望が出るたびにコードを書くことになるので、この部分をAIに任せられないかと考え、ClaudeのAgent Skillsで仕組み化しました。要件のヒアリングから実装、GitHub経由でkintoneへ適用するところまでをこのSkillが担います。 Skillを設計していて一番重要だと感じたのは、実装のさせ方ではなく、実装に着手する前に何を確定させておくかという点でした。 本記事では、作成した...</description><guid isPermaLink="false">https://zenn.dev/genda_jp/articles/a5cbba3664748b</guid><pubDate>Thu, 05 Nov 2026 00:23:20 +0000</pubDate></item><item><title>ビル・ゲイツが警告するAI時代「激動の20年」と、その先にある真の豊かさ</title><link>https://www.businessinsider.jp/article/2611-bill-gates-ai-future-jobs/</link><description>[score: 0.895] - ビル・ゲイツは、AIによって20年後には豊かな時代が訪れる一方、そこに至るまでの道のりは険しいものになると述べている。
+- ゲイツは、ロボットが人間の仕事を代替し、「家を建て、食料を生産し、手術まで行う」ようになると予測している。
+- 一部の仕事は人間のために残される可能性があり、労働時間を制限することで雇用を維持できるとも考えているという。
+ビル・ゲイツ（Bill Gates）はAIによって「真の豊かさ」がもたらされると述べている。ただし、それが実現するまでの今後20年間は、「人類史上、最も激動する時代の一つになる」という。
+マイクロソフト（Microsoft）の共同創業者で億万長者の慈</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-bill-gates-ai-future-jobs/</guid><pubDate>Wed, 04 Nov 2026 21:18:22 +0000</pubDate></item><item><title>米中間選挙で民主党が上下両院を奪還　AI規制強化に現実味、IT大手の株価は上昇</title><link>https://www.itmedia.co.jp/news/article/2611/05/2000002888/</link><description>[score: 0.895] 米中間選挙で民主党が上下両院を奪還 AI規制強化に現実味、IT大手の株価は上昇
+11月3日（現地時間）に投票が行われた米中間選挙で、民主党が上下両院の過半数を獲得した。共和党がホワイトハウスと議会の両方を掌握していた状況が変わり、ドナルド・トランプ政権のIT政策にも影響が及ぶ見通しだ。特に、AIデータセンターの建設規制や、米IT大手に対する議会の監視強化が注目されている。
+米CNBCによると、民主党は議会での調査権限を活用し、AI企業への監視を強める構えだ。民主党のグレッグ・カサー下院議員は、AI企業のCEOを議会に招致し、宣誓証言を求めるべきだと主張しているという。AIによる雇用への影響など</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/05/2000002888/</guid><pubDate>Wed, 04 Nov 2026 23:09:32 +0000</pubDate></item><item><title>AIに「使われている」エンジニアになっていないか | gihyo.jp</title><link>https://gihyo.jp/article/2026/10/engineer-ai-sounding-board-01</link><description>[score: 0.896] 本連載は2026年9月刊行の
+AIを日常的に使っているが、自分のスキルが上がっている実感がない。それどころか、AIがなんでもやってくれる時代に、どうやって成長すべきかが分からない。そう感じているエンジニアの方は多いかもしれません。第1回となるこの記事では、AIとの関係性を自覚し、成長につなげるための考え方を解説します。
+AIに聞けば大抵のことは片付いてしまいます。やりたいことは簡単に形にできますし、仕事も滞りなく進むように思えます。ただ、ふと立ち止まって
+AIと主体的に関わるのか、受動的に関わるのか
+AIに実装を任せ、出力されたコードをそのまま受け入れ、
+「使う」
+| AIとの関係性 | 特徴</description><guid isPermaLink="false">https://gihyo.jp/article/2026/10/engineer-ai-sounding-board-01</guid><pubDate>Thu, 05 Nov 2026 00:30:07 +0000</pubDate></item><item><title>トランプ氏、何事もなかったかのように振る舞う 中間選挙の大敗受け</title><link>https://www.afpbb.com/articles/-/3660865</link><description>[score: 0.896] トランプ氏、何事もなかったかのように振る舞う 中間選挙の大敗受け
 このニュースをシェア
-【11月4日 AFP】米中間選挙で民主党が圧勝し、ドナルド・トランプ大統領は政権の求心力が低下する「レームダック（死に体）」状態に陥った。だが選挙直後、意外にも融和的な姿勢を見せている。もっとも、この態度がいつまで続くかは誰にも分からない。
-予測不能な言動で知られるトランプ氏は、イランへの軍事作戦再開から民主党提出法案への拒否権行使まで、残り2年の任期中に残された強大な大統領権限を使い、再び大きな混乱を巻き起こす可能性がある。
-米ジョージ・ワシントン大学メディア・公共問題大学院のピーター・ローグ大学院長はAFPに対し</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3660851</guid><pubDate>Wed, 04 Nov 2026 20:02:46 +0000</pubDate></item><item><title>Claude Codeの/model opusplan＋/advisor fableでOpus・Fable・Sonnetを自動で使い分けたら、めちゃめちゃ良かった</title><link>https://qiita.com/inoyu-qiita/items/d486f85b8333d5b324d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.888] はじめに
-Opusが考え、Fableが助言し、Sonnetが作る。
-Claude Codeで、計画・助言・実装を3モデルへ自動で振り分ける運用を、実際の業務で使ってみました。
-設定するのはopusplan
-と/advisor fable
-です。
-/model opusplan
-/advisor fable
-以前、同じ組み合わせをClaude Codeの「/advisor」コマンドなら、本気のタスクだけFableが自動で助けに来るで紹介しました。ただ、その時点では「こう動く」という機能紹介が中心でした。
-その後、議事録作成やWebシステムの不具合修正など実際の業務に使ってみたら、これがめちゃめち</description><guid isPermaLink="false">https://qiita.com/inoyu-qiita/items/d486f85b8333d5b324d9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 04 Nov 2026 20:58:20 +0000</pubDate></item><item><title>AI駆動開発の次の段階: ソフトウェアファクトリー</title><link>https://qiita.com/Syoitu/items/9364a0a175893bb15219?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] 前書き
-最近、Claude Codeの開発者であるFelix Riesebergさんの記事『AIモデルを扱う人類のための「志を高く持つ」チュートリアル』を読みました。その考え方に刺激を受けたので、少し引用して紹介します。
-記事によると、Claudeは最近、新しい惑星の発見にも一役買ったそうです。
-それなのに、私たちの多くはいまだに「日本で一番高い山は？」のような、単純な使い方にとどまっています。
-記事は、その原因が使う側の私たちにあると指摘しています。
-「自分の限界をLLMの限界だと思い込み、苦手なことには手を出さない」 からです
-だからこそ、何かを始めるときは無理だと決めつけず、LLMと一緒</description><guid isPermaLink="false">https://qiita.com/Syoitu/items/9364a0a175893bb15219?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 04 Nov 2026 20:58:20 +0000</pubDate></item><item><title>IT未経験の私がAIに頼りすぎて挫折し、自分の頭で考えるようになるまで</title><link>https://qiita.com/yu_tsukamoto/items/5fa1e302097552255fb7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.891] はじめに
-IT未経験でエンジニアになった私は、配属後の勉強期間中、AIに頼りすぎていました。
-- コードの書き方に悩めば、すぐにAIに聞く
-- エラーが出ても、原因を自分で考えずにAIに頼る
-その結果、先輩から質問されたときに何も説明できず、完全に止まってしまいました。
-自分の頭で考えていなかったからです。
-そこで私は、AIを思考の 「身代わり」 にするのをやめ、自分の 「相談相手」 として付き合い直すことにしました。
-この記事では、未経験の私が思考停止の挫折を経験し、そこからどのように変化していったのかをまとめます。
-同じように悩んでいる初学者の方に、本気で伝えたい実体験です。
-この記事で伝</description><guid isPermaLink="false">https://qiita.com/yu_tsukamoto/items/5fa1e302097552255fb7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 04 Nov 2026 20:58:20 +0000</pubDate></item><item><title>AIを入れてもプロジェクトが進まないのは「完遂力」の問題</title><link>https://qiita.com/hokutoh/items/40345cc114ab364a49a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.893] OpenAIのSam Altmanが「MBA学生には慢性的に失望している」という発言をしておりました1。
-MBA学生がやりたがるのは「5年前にかっこよかったこと」で、新しいことに挑まない、という趣旨です。
-一方、国内では日本プロジェクトソリューションズが『日本企業のプロジェクトマネジメント白書2026』を公開し、「AI・DXを導入したのに、なぜプロジェクトは進まないのか」を扱っています23。
-キーワードは「実行の壁」と「完遂力」。差がつくのは導入力ではなく完遂力だ、という主張です。
-別々の内容ではありますが真因は同じかな、と思いました。
-私も大学ではMBAの教員、企業相手ではITコンサルタント</description><guid isPermaLink="false">https://qiita.com/hokutoh/items/40345cc114ab364a49a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 04 Nov 2026 20:58:20 +0000</pubDate></item><item><title>商品情報、若年層はインフルエンサーより生成AI信頼　サイバー調査 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC301IV0Q6A031C2000000/</link><description>[score: 0.896] 商品情報、若年層はインフルエンサーより生成AI信頼 サイバー調査
-商品やサービスの情報源として、インフルエンサーらの発信より生成AI（人工知能）の回答を重視することがサイバーエージェントの若年層向け調査で分かった。生成AI利用者の45%が信頼し、テレビや雑誌よりもわずかながら高かった。
-サイバーエージェント次世代生活研究所が7月13〜31日、インターネットを通じて全国の小学生から38歳までの生成AI利用者1648人から有効回答を得た。15歳未満は保護者の代理回...
-※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。
-この投稿は現在非表示に設定されています
-(更新)</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC301IV0Q6A031C2000000/</guid><pubDate>Wed, 04 Nov 2026 17:56:58 +0000</pubDate></item><item><title>【脆弱性ラッシュ】PHP2Shell・Brotli(HTTP2Shell)・Node・Chrome・Goが同時に来た週に、サーバーの「放置」が露呈した話</title><link>https://qiita.com/ysmreg1/items/d9f14d2da0ad57303036?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.902] はじめに
-2026年10月下旬、PHP、Node.js、Chrome、Goの重大な更新が立て続けに公開されました。私はこれを「脆弱性ラッシュ」と呼んでいます。
-一斉に更新を進めるなかで、すでにサポートが切れている php7.4-fpm
-や Node 18 が見つかり、作業が想定より大規模になりました。この記事では、何が起きたか、どう対応したか、何を学んだかをまとめます。
-何が起きたか(時系列)
-| 日付(2026年) | 内容 |
-|---|---|
-| 10/13〜15 | Chromeが37件、続いて10件の脆弱性を修正 |
-| 10/19 | Go 1.26.10が crypto/x50</description><guid isPermaLink="false">https://qiita.com/ysmreg1/items/d9f14d2da0ad57303036?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 04 Nov 2026 20:58:20 +0000</pubDate></item></channel></rss>
+【11月5日 AFP】ドナルド・トランプ米大統領（80）は4日、中間選挙で与党・共和党が大敗した後、初めて公の場で発言し、有権者から厳しい審判を突き付けられたことを意に介さない姿勢を見せた。
+トランプ氏は、野党・民主党が上下両院を制したことで情勢が一変し、敵対的な政治環境に直面している。さらに、対イラン戦争をめぐり、J・D・バンス副大統領からも公然と距離を置かれた。
+バンス氏は「われわれの敗因は戦争だ」と述べ、2028年大統領選への出馬が取り沙汰される中、国民に不人気な戦争から距離を置いた。共和党内で今後、</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3660865</guid><pubDate>Thu, 05 Nov 2026 00:33:31 +0000</pubDate></item><item><title>@connect24h のポスト on X（2026-11-04 12:17） / X</title><link>https://x.com/connect24h/status/2117818590774927851?a=8ur79os2hfCThTufM58&amp;s=12</link><description>[score: 0.897] GMO会見に関する危機管理広報の専門家大杉さんの記事。メディア記事の中で頭二つくらい抜けてるくらい秀逸。
+大項目だけ挙げておくのでセキュリティに携わる人は、みんな全文読んだほうが良い。
+特に司会に言及しているのは、この方だけでは。確かに司会はいなかったというか、司会はおけなかったのだと思われ。その司会をおけなかったところ含めて、今のGMOが抱える問題があるように思う。
+・「命の砂時計」発言や経営理論の熱弁 GMO会見が映した危機の構造
+・電源なし、動線混乱……会見は事前準備が重要
+・単なる進行係ではない 無用なピリつきを防ぐ「司会の振る舞い」
+・「ボタンをしめてください」 経営者の所作から人は</description><guid isPermaLink="false">https://x.com/connect24h/status/2117818590774927851?a=8ur79os2hfCThTufM58&amp;s=12</guid><pubDate>Wed, 04 Nov 2026 22:31:59 +0000</pubDate></item><item><title>AI駆動開発の次の段階: ソフトウェアファクトリー - Qiita</title><link>https://qiita.com/Syoitu/items/9364a0a175893bb15219</link><description>[score: 0.898] AI駆動開発の次の段階: ソフトウェアファクトリー - Qiita 前書き 最近、Claude Codeの開発者であるFelix Riesebergさんの記事『AIモデルを扱う人類のための「志を高く持つ」チュートリアル』を読みました。その考え方に刺激を受けたので、少し引用して紹介します。 記事によると、Claudeは最近、新しい惑星の発見にも一役買ったそうです。 それなのに、私たちの多くはいまだに「...</description><guid isPermaLink="false">https://qiita.com/Syoitu/items/9364a0a175893bb15219</guid><pubDate>Wed, 04 Nov 2026 23:43:26 +0000</pubDate></item></channel></rss>
