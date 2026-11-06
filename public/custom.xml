@@ -1,59 +1,137 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 06 Nov 2026 01:19:02 +0000</lastBuildDate><item><title>唐鎌さんの寄稿レポート（11/6）『中間選挙で改めて考察するAI相場の今後』</title><link>https://note.com/cjdbx883/n/n0ef85b51cbe2</link><description>[score: 0.873] 唐鎌さんの寄稿レポート（11/6）『中間選挙で改めて考察するAI相場の今後』
-１．はじめに
-唐鎌さんの寄稿です。お待たせしました。唐鎌さんの米国中間選挙の総括と、AI相場の今後についてのタイムリーな考察です。唐鎌さんが、こういうテーマを取り上げてくれることは新鮮で、とても興味深いです。
-唐鎌さんの冷静な分析は、非常に参考になります。唐鎌さんは、本当にリスペクトできるエコノミストです。
-唐鎌大輔(みずほ銀行 チーフマーケット・エコノミスト)
-慶大経卒。JETRO、日本経済研究センター、欧州委員会などを経て現職。著書に『弱い円の正体 仮面の黒字国・日本』、『「強い円」はどこへ行ったのか』、『ECB</description><guid isPermaLink="false">https://note.com/cjdbx883/n/n0ef85b51cbe2</guid><pubDate>Thu, 05 Nov 2026 23:19:37 +0000</pubDate></item><item><title>【鈴木淳也のPay Attention】なぜパスポートはダメ? 大情報漏洩時代の本人確認がマイナカードに集約される理由</title><link>https://www.watch.impress.co.jp/docs/series/suzukij/2153056.html</link><description>[score: 0.873] 近年企業や個人へのサイバー攻撃が激化しているのは既知の通りだが、要因は2つ考えられる。1つはAIの登場により攻撃のためのツール作成が容易になり、また言語の壁を破ることもたやすくなったため、これまでこの壁の存在によって、海外の犯罪グループによる直接的なフィッシング攻撃を比較的回避できていた日本においてもそのターゲットにされる機会が増えてきたといえる。もう1つは、連日不正アクセスのニュースがさまざまな媒体に露出したり、普段の会話でのテーマになりやすくなったことから、「実はウチもやられているかも……」ということで検証した結果、これまで隠れていた被害報告が一挙に噴出したとも想像できる。</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/series/suzukij/2153056.html</guid><pubDate>Thu, 05 Nov 2026 23:24:25 +0000</pubDate></item><item><title>AI生成コードを本番品質に保つためのフロントエンド開発の仕組み</title><link>https://zenn.dev/sun_asterisk/articles/d4e4bc24974b99</link><description>[score: 0.873] はじめに AI が書いたコードの品質は、プロンプトの工夫よりも、AI の外側に用意した「仕組み」で決まります。この記事では、Next.js（App Router）と TypeScript のフロントエンド開発を例に、AI 生成コードを本番品質に保つための仕組みを 4 つの層に分けて紹介します。 AI は「書かれていないこと」を推測で埋める たとえば AI に「プロフィール編集フォームを作って」と頼んだとします。仕様書にニックネームの最大文字数やエラー文言が書かれていなければ、AI はそれらしい値を自分で決めて実装します。 企画側の想定が 20 文字でも、AI は 50 文字で実装...</description><guid isPermaLink="false">https://zenn.dev/sun_asterisk/articles/d4e4bc24974b99</guid><pubDate>Fri, 06 Nov 2026 00:37:43 +0000</pubDate></item><item><title>アンソロピック、ＡＩ活用で性能向上ペース約2倍に＝調査 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBQSFR6THNQWVN5T1ZWendmeXA2LWdDamNJekZtazVFVDk2UGdTSnNFeUw3WEo4TURZVmw3NXR4Q041Yl82RXJScl90SE5kU2c2ZF9HZ2xIZXNkSWVFYkFVVVVvcFhuekhfTGplRExHbUNyWmF5NWUxZUVlOFcxQQ?oc=5</link><description>[score: 0.873] アンソロピック、ＡＩ活用で性能向上ペース約2倍に＝調査 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFBQSFR6THNQWVN5T1ZWendmeXA2LWdDamNJekZtazVFVDk2UGdTSnNFeUw3WEo4TURZVmw3NXR4Q041Yl82RXJScl90SE5kU2c2ZF9HZ2xIZXNkSWVFYkFVVVVvcFhuekhfTGplRExHbUNyWmF5NWUxZUVlOFcxQQ?oc=5</guid><pubDate>Thu, 05 Nov 2026 22:55:24 +0000</pubDate></item><item><title>OpenAI、データセンター立地地域への約束と政策提言を発表　電力費の全額負担や公職者とのNDA不使用など</title><link>https://www.itmedia.co.jp/news/article/2611/06/2000002928/</link><description>[score: 0.874] OpenAI、データセンター立地地域への約束と政策提言を発表 電力費の全額負担や公職者とのNDA不使用など
-米OpenAIは11月5日（現地時間）、AI向けデータセンターの建設・運営に関する地域社会への約束「National Community Compact」と、米国の連邦、州、地方政府に向けた政策提言「Compute Campus Policy Blueprint」を発表した。電力と関連インフラの費用を全額負担することや、公職者との秘密保持契約（NDA）を原則として結ばないことなどを盛り込んだ。
-National Community Compactは、OpenAIが今後所有・運営するデータ</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/06/2000002928/</guid><pubDate>Thu, 05 Nov 2026 23:18:16 +0000</pubDate></item><item><title>習慣化するための技術 / Techniques for Habit Formation</title><link>https://speakerdeck.com/3l4l5/techniques-for-habit-formation</link><description>[score: 0.874] 習慣化するための技術 / Techniques for Habit Formation 第一回 きたく.dev で発表した内容です！ https://kitaku.connpass.com/event/379563/</description><guid isPermaLink="false">https://speakerdeck.com/3l4l5/techniques-for-habit-formation</guid><pubDate>Thu, 05 Nov 2026 23:59:09 +0000</pubDate></item><item><title>高市首相　G7欠席の批判止まず…外交姿勢の背景で指摘される“ある事情” | 女性自身</title><link>https://jisin.jp/domestic/2607370/</link><description>[score: 0.875] 高市首相 G7欠席の批判止まず…外交姿勢の背景で指摘される“ある事情” | 女性自身 「G7で存在感を示すのは首相の責任だ。姿勢を改めてもらわないといけない――」 10月30日、公明党の岡本三成代表は民主改革の会と衆議院統一会派「中道」を組む代議士会でこう発言し、10月2日に開かれたG7オンライン首脳会議を高市早苗首相が欠席したことを批判した。 10月27日の参院予算委員会では、立憲民主党の辻元清美...</description><guid isPermaLink="false">https://jisin.jp/domestic/2607370/</guid><pubDate>Fri, 06 Nov 2026 00:27:28 +0000</pubDate></item><item><title>偽レビューの隠れたコスト　AI時代に企業の評判を守る6つのステップ</title><link>https://forbesjapan.com/articles/detail/107807?s=ns</link><description>[score: 0.875] 私が助言していたある製造業の企業は、定例の評判監査で奇妙なものを見つけた。Googleに投稿された星1つのレビューが、顧客だったことのない人物によるものとみられたのだ。そのレビューには、競合が書いたことを示唆する業界用語が使われており、そのアカウントにはほかのレビューが一切なかった。しかも、その企業がレビュアーの勤務先から大型契約を勝ち取った数日後に作成されたものだった。
-同社はそのレビューを報告し、Googleは48時間以内に削除した。しかしその時点で、あるAI要約ツールはすでに、その偽レビューを同社の評判の一部として取り込んでいた。
-これは、多くの経営者が考えている以上に頻繁に起きている。</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107807?s=ns</guid><pubDate>Fri, 06 Nov 2026 00:20:26 +0000</pubDate></item><item><title>「まさに青天の霹靂」　イスラエル大統領、トランプ氏の支援打ち切り表明に衝撃</title><link>https://www.cnn.co.jp/world/35254470.html</link><description>[score: 0.875] ハンガリーの大統領との会談に臨んだイスラエルのヘルツォグ大統領＝10月20日、ブダペスト/Attila Kisbenedek/AFP/Getty Images （CNN） イスラエルのヘルツォグ大統領は6日までに、トランプ米大統領が中間選挙当日の3日にイスラエル支援を打ち切る考えを表明した時の心境について、「まさに青天の霹靂（へきれき）だった」と振り返った。 ヘルツォグ氏がこの問題を取り上げたのは、ネタニヤフ首相の有力な対抗馬ガディ・アイゼンコット氏率いるヤシャル党との会談でのことだった。 「米国の支援の件を非常に心配している。私にとってもまさに青天の霹靂だった。米国とは（覚書を）交わしており</description><guid isPermaLink="false">https://www.cnn.co.jp/world/35254470.html</guid><pubDate>Fri, 06 Nov 2026 00:34:16 +0000</pubDate></item><item><title>定理証明ガードレールで AI エージェントに業務ルールを守らせる - freee Developers Hub</title><link>https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails</link><description>[score: 0.877] こんにちは。エンジニアの kyasu です（GitHub / LinkedIn）。
-業務ルールが十数条、数十条と増えると、AI エージェントは悪意なく判断を誤ります。同じ依頼を同じように出しても、1 回目は正しく返金したのに、2 回目は条件を一つ読み落とす。業務システムとしては、これが一番困ります。
-そこで、業務ルールを Lean の公理系として AI に渡し、会話ごとに受付定理を組み立てさせて、その証明を処理系に検めさせました。
-問題 業務ルールが複雑になると、AI エージェントは悪意なく判断を誤る（τ-bench 小売・gpt-4o で pass1 約 61%、pass8 約 25%）
-提</description><guid isPermaLink="false">https://developers.freee.co.jp/entry/lean-formal-verification-ai-agent-guardrails</guid><pubDate>Fri, 06 Nov 2026 00:29:08 +0000</pubDate></item><item><title>大手プラットフォームが真に売ることのできない価値に賭けるAIスタートアップ</title><link>https://forbesjapan.com/articles/detail/107804?s=ns</link><description>[score: 0.877] わずか2週間の間に、OpenAI、Google、Workdayの3社はそれぞれ企業顧客に向けて売り込みを行い、企業のAIエージェントが選定・統制され、支払いがなされるコントロールポイントになろうと競い合った。だが、エージェントがエラーを起こした際に誰が責任を負うのかという問いに対して、3社のいずれも明確な回答を避けている。ベンダー側は今なお、人間（ヒューマン・イン・ザ・ループ）に責任を押し付けているのが実情だ。しかし、これら巨頭の領域拡大は、すべての独立系AIスタートアップに同様に辛辣な問いを突きつけている。「次のロードマップでプラットフォームに吸収されない製品として、自社は何を売るのか？」と</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107804?s=ns</guid><pubDate>Fri, 06 Nov 2026 00:20:26 +0000</pubDate></item><item><title>AIの返事を43秒から10秒にした工夫 - Qiita</title><link>https://qiita.com/sheep6box/items/e3e0c443272e3568c86c</link><description>[score: 0.879] MuseとM5Stack StopWatchで、「持ち運べるずんだもん」を作りました。
-最初は声が返るまで43秒。今は長めの返事でも約10秒です。
-この記事で持ち帰ってほしいのは次の3つです。
-- 待ち時間を区間に分けて測ると、縮める場所が分かる
-- 返事を文ごとに分けて声にするときは、1つ目の長さで「早さ」と「途切れなさ」を選ぶ
-- 速くなったかを測るときは、キャッシュと前回のファイルに気をつける
-同じようなものを作っている方から、Xで応答を速くするために何をしたのかと質問をいただきました。
-その答えを詳細に書いた記録です。
-測った数字はすべて実機とVMのログから出しています。
-1. 質問を</description><guid isPermaLink="false">https://qiita.com/sheep6box/items/e3e0c443272e3568c86c</guid><pubDate>Fri, 06 Nov 2026 00:29:08 +0000</pubDate></item><item><title>日経平均が6％超急落、一時5万7000円割れ ＡＩ関連株が下げ主導 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ1NwZ2NWUjd4UmR1R2JZRHRkYkpuVWw3amN6ZUtFbmRDNVZ2QWo4M2JOZERaTXFEam5Rdl9ROHBVX1VIX2o5SDF6ZENKcUowbFdRY2VLalBvNTY0MWxrbGU5UkJHWmRYN1hDX3RETGFYOFJrMlhRS3VlM0JZMEdxT1EyOEloUQ?oc=5</link><description>[score: 0.880] 日経平均が6％超急落、一時5万7000円割れ ＡＩ関連株が下げ主導 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQZ1NwZ2NWUjd4UmR1R2JZRHRkYkpuVWw3amN6ZUtFbmRDNVZ2QWo4M2JOZERaTXFEam5Rdl9ROHBVX1VIX2o5SDF6ZENKcUowbFdRY2VLalBvNTY0MWxrbGU5UkJHWmRYN1hDX3RETGFYOFJrMlhRS3VlM0JZMEdxT1EyOEloUQ?oc=5</guid><pubDate>Fri, 06 Nov 2026 00:56:28 +0000</pubDate></item><item><title>数百ページのPDF文書を一括解析できるローカルAI「Unlimited OCR 2」、NVIDIA開発の文字起こし音声AI「Nemotron 3.5 Transcribe」など生成AI技術5つを解説（生成AIウィークリー）</title><link>https://www.techno-edge.net/article/2026/11/06/5679.html</link><description>[score: 0.880] この1週間の気になる生成AI技術・研究をいくつかピックアップして解説する今回の「生成AIウィークリー」（第166回）は、スマホでも高速で動くオープンウェイトのAIモデル群「LFM3」や、数百ページの文書を一括解析できるローカルOCRモデル「Unlimited OCR 2」を取り上げます。
-また、複数話者の文字起こしなどができるNVIDIA開発の音声AI「Nemotron 3.5 Transcribe」や、GPT-6.1 Terraと同等のコーディング性能を持つAIモデル「Mistral Large 4」をご紹介します。
-そして、生成AIウィークリーの中でも特に興味深いAI技術や研究にスポットラ</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/11/06/5679.html</guid><pubDate>Fri, 06 Nov 2026 00:59:51 +0000</pubDate></item><item><title>AI導入を急ぐ企業、置き去りにされる従業員たち</title><link>https://forbesjapan.com/articles/detail/107797?s=ns</link><description>[score: 0.880] 今日のビジネスリーダーの多くは、インターネット革命への適応に失敗した組織に何が起きたかを覚えている。取り残されることを恐れるあまり、一部のリーダーはまさに避けようとしているその過ちを繰り返しているかもしれない。すなわち、明確な活用戦略を策定する前にテクノロジーに投資してしまうという過ちだ。
-FOMO（取り残されることへの恐れ）に突き動かされたAIツールや研修、変革の取り組みへの投資が過熱している。企業は従業員に車の運転方法を教えてはいるものの、その車がどこに向かうべきなのかまったく分かっていない。シスコの2025年の調査レポートによると、CEOの54%がFOMOがテクノロジー投資の意思決定を左</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107797?s=ns</guid><pubDate>Thu, 05 Nov 2026 23:19:50 +0000</pubDate></item><item><title>アメリカ ルビオ国務長官の去就めぐり報道相次ぐ</title><link>https://news.web.nhk/newsweb/na/nd-20261105de71260</link><description>[score: 0.881] アメリカのメディア、ブルームバーグは、共和党が大敗した中間選挙の結果を受け、ルビオ国務長官がトランプ政権からの離脱を検討していると報じました。一方、有力紙、ニューヨーク・タイムズは本人が辞任を否定した…
-【アメリカ中間選挙2026 特集ページ】
-ナスダック5％超下落 AI・データセンター規制強化を懸念
-11月6日 6:47
-ロシア国内のJT関連工場 一時的にロシア企業管理下に 大統領令
-11月6日 7:20
-年収3000万円も電気代は8万円？ AI投資・トランプ関税の行方は
-11月4日 18:21
-メラニア夫人“ウクライナの局地的な停戦を永続的な平和へ”
-11月6日 6:01
-難民の現状知って</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261105de71260</guid><pubDate>Fri, 06 Nov 2026 00:05:33 +0000</pubDate></item><item><title>「ずっとこうしてきた」は人事戦略ではない</title><link>https://forbesjapan.com/articles/detail/107809?s=ns</link><description>[score: 0.883] どの組織にも、プロセスを装った高コストな習慣が存在する。その言い訳として最もよく使われるのが「ずっとこうしてきたから」だ。それでもなお、これは業務プロセスが存在する理由として、最も頻繁に用いられる説明の1つであり続けている。
-なぜこの承認が4段階も必要なのか。「ずっとそうしてきたから」。
-なぜ同じ情報を3つのシステムに入力しているのか。「それが手順だから」。
-なぜ誰かがレポートをダウンロードし、Excelで加工し、別の誰かにメールで送り、その結果をまた別の場所に手入力するのか。もうお分かりだろう。
-さらに興味深いのは、こうした悪いプロセスを「高速化」するためにテクノロジーを導入することだ。紙の</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107809?s=ns</guid><pubDate>Fri, 06 Nov 2026 00:49:38 +0000</pubDate></item><item><title>民主党勝利に市場動揺、ハイテク株急落 ＡＩ規制強化を警戒 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1ySVZIZ3BDcnNtMlhTSVNhbEtIaThpb2xyTzUxX1U2VldGaUowclp6OUU5NkEtem5fVzY3NzF4b2VPc0Q5cDJuTGVaRTBhLU4zTXRiVzBJeW1QbjFaZm1KMzI4amp5MXE3cDNvQTBoVDNkekhhSzlzRElJYW1LUWs?oc=5</link><description>[score: 0.884] 民主党勝利に市場動揺、ハイテク株急落 ＡＩ規制強化を警戒 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE1ySVZIZ3BDcnNtMlhTSVNhbEtIaThpb2xyTzUxX1U2VldGaUowclp6OUU5NkEtem5fVzY3NzF4b2VPc0Q5cDJuTGVaRTBhLU4zTXRiVzBJeW1QbjFaZm1KMzI4amp5MXE3cDNvQTBoVDNkekhhSzlzRElJYW1LUWs?oc=5</guid><pubDate>Fri, 06 Nov 2026 00:56:28 +0000</pubDate></item><item><title>ドコモ、不正アクセスで最大30万件の顧客情報流出　サイトなど停止 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC052N30V01C26A1000000/</link><description>[score: 0.885] ドコモ、不正アクセスで最大30万件の顧客情報流出 サイトなど停止 - 日本経済新聞 NTTドコモは5日、外部からの不正アクセスによる顧客情報の流出を確認したと発表した。対象は最大約30万件で、氏名や住所、生年月日、携帯電話番号などが含まれる。携帯電話の通販サイトやオンラインでの契約手続... yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC052N30V01C26A1000000/</guid><pubDate>Thu, 05 Nov 2026 22:32:31 +0000</pubDate></item><item><title>AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている</title><link>https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/</link><description>[score: 0.885] AIは開発者やプログラマーたちに長年にわたって蓄積されてきた技術的負債を返済することを強いている 2026年10月21日に発見された深刻なサイバーセキュリティ脆弱性「PHP2Shell」はNASA・Wikipedia・ホワイトハウスといった名だたるウェブサイトに影響を与える可能性があったものの、悪用される前に修正パッチがリリースされたため大規模な被害は回避されました。しかし、PHP2Shellはいわば「炭鉱のカナリア」でありAI時代...</description><guid isPermaLink="false">https://gigazine.net/news/20261106-ai-in-cybersecurity-php2shell-vulnerability/</guid><pubDate>Thu, 05 Nov 2026 22:48:41 +0000</pubDate></item><item><title>日経平均株価6万円割れ ことし5月以来 一時4000円超下落</title><link>https://news.web.nhk/newsweb/na/nd-20261106de71341</link><description>[score: 0.886] 6日の東京株式市場は日経平均株価は一時、4000円以上値下がりしています。
-アメリカの中間選挙で民主党が大勝し、AIやデータセンターに対する規制が強化されるのではないかという見方からAIや半導体の業…
-注目ワード
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Fri, 06 Nov 2026 13:30:53 +0000</lastBuildDate><item><title>特定非営利活動法人 日本ネットワークセキュリティ協会（JNSA）</title><link>https://www.jnsa.org/</link><description>[score: 0.876] - 2026.10.16
+- JNSAメールマガジン第349号は「情報セキュリティ早期警戒パートナーシップガイドラインと2026年版の改訂のポイント」です。独立行政法人情報処理推進機構 大久保直人様 唐亀侑久様 山下恵一様にご執筆いただきました。（夕方の配信後にお読みいただけます）
+- 2026.10.15
+- 標準化部会 デジタルアイデンティティWG ミニウェビナー（第1回/全6回）「AIエージェントの手綱を握る」の参加受付を開始しました！
+- 2026.10.13
+- 日本ISMSユーザグループ「情報セキュリティマネジメント・セミナー2026」の参加受付を開始しました！
+- 2026.10</description><guid isPermaLink="false">https://www.jnsa.org/</guid><pubDate>Fri, 06 Nov 2026 10:36:57 +0000</pubDate></item><item><title>カルビーのポテチ、白黒パッケージで顧客が消えた？</title><link>https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01986/</link><description>[score: 0.877] カルビーは2026年11月6日、26年7～9月期の決算を発表する。注目されるのが、26年5月25日から主要14品のパッケージを白黒に順次変えたことが、売り上げに与えた影響だ。カルビー自身が影響について口を閉ざす中、日経クロストレンドはロイヤリティマーケティングの協力を得て、ポイントカード「Ponta」会員の購買行動の変化を分析した。約9万人分のID-POSデータから見えたのは、売り上げは減少傾向にあり、特に高年層の購入減が目立つこと。さらに意外にも、離脱者の86.8％は競合に流れず、ポテトチップスというカテゴリー自体を買わなくなっていた。分析担当者への取材から、その背景を読み解く。
+印刷インク</description><guid isPermaLink="false">https://xtrend.nikkei.com/atcl/contents/casestudy/00012/01986/</guid><pubDate>Fri, 06 Nov 2026 11:36:18 +0000</pubDate></item><item><title>運用しながら改善する LLM-as-a-Judge の構築 - Timee Product Team Blog</title><link>https://tech.timee.co.jp/entry/2026/11/05/101407</link><description>[score: 0.877] 運用しながら改善する LLM-as-a-Judge の構築 - Timee Product Team Blog はじめに こんにちは、株式会社タイミーでプロダクトAIエンジニアとして働いている貝出です。直近は、LLMを利用した求人審査AIの開発や性能改善を行っています。 LLMを使った機能を開発していると、LLMの生成文を... yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://tech.timee.co.jp/entry/2026/11/05/101407</guid><pubDate>Fri, 06 Nov 2026 12:36:11 +0000</pubDate></item><item><title>不正アクセスによる「情報セキュリティ理解度チェックサービス」からの利用者個人情報漏えいの恐れに関するお知らせ</title><link>https://www.jnsa.org/dl/annual/20261106.pdf</link><description>[score: 0.878] 不正アクセスによる「情報セキュリティ理解度チェックサービス」からの利用者個人情報漏えいの恐れに関するお知らせ neco22b</description><guid isPermaLink="false">https://www.jnsa.org/dl/annual/20261106.pdf</guid><pubDate>Fri, 06 Nov 2026 10:36:57 +0000</pubDate></item><item><title>佐川急便 5323万件が外部流出の可能性で“被害状況を調査中”</title><link>https://news.web.nhk/newsweb/na/nd-20261106de71689</link><description>[score: 0.878] 宅配大手の佐川急便が不正アクセスを受け、荷物の送り主と送り先の氏名や住所など最大で5323万件が外部に流出した可能性があることについて、親会社のSGホールディングスの高垣考志取締役は決算発表の会見で、…
 あわせて読みたい
-ナスダック5％超下落 AI・データセンター規制強化を懸念
-11月6日 6:47
-2026年の新語・流行語大賞の候補 30のことばは？【全掲載】
-11月5日 17:03
-自転車青切符 半年間で1万6000件交付 “ながらスマホ”が4割
-11月6日 0:29
-ラグビー日本代表 7日にウェールズ戦へ メンバーを発表
-11月6日 1:05
-ロシア国内のJT関連工場 一時的に</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261106de71341</guid><pubDate>Fri, 06 Nov 2026 01:10:35 +0000</pubDate></item><item><title>トランプ氏、弾劾けん制　野党民主、下院２４０議席超―米中間選挙：時事ドットコム</title><link>https://www.jiji.com/jc/article?k=2026110500197&amp;g=int</link><description>[score: 0.886] トランプ氏、弾劾けん制 野党民主、下院２４０議席超―米中間選挙：時事ドットコム トランプ氏、弾劾けん制 野党民主、下院２４０議席超―米中間選挙 時事通信 国際報道部2026年11月05日20時02分配信 ４日、ホワイトハウスで発言するトランプ米大統領（ＡＦＰ時事） 【ワシントン時事】トランプ米大統領は、与党共和党が大敗した中間選挙から一夜明けた４日、野党民主党が大統領弾劾を試みれば「壊滅する...</description><guid isPermaLink="false">https://www.jiji.com/jc/article?k=2026110500197&amp;g=int</guid><pubDate>Thu, 05 Nov 2026 23:42:46 +0000</pubDate></item><item><title>任天堂2027年3月期第2四半期決算をざっくり説明 - N-Styles</title><link>https://n-styles.com/blog/nintendo-q2-2026-analysis/</link><description>[score: 0.887] 任天堂2027年3月期第2四半期決算をざっくり説明 - N-Styles 任天堂の2027年3月期第2四半期決算が発表された。 詳しくない方に「2027年3月期第2四半期決算」を説明すると、2027年3月に終了する会計年度(2026年4月〜2027年3月)の業績を3ヶ月区切りで行う会計報告の2回目で「2026年4〜9月の半年にどれだけ頑張ったか見てよ」という報告書のことだ。 ちなみに、2027年3月期第2四半期を...</description><guid isPermaLink="false">https://n-styles.com/blog/nintendo-q2-2026-analysis/</guid><pubDate>Thu, 05 Nov 2026 21:53:51 +0000</pubDate></item><item><title>OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表　Firefoxの未知の脆弱性81件を発見</title><link>https://www.itmedia.co.jp/news/article/2611/06/2000002931/</link><description>[score: 0.889] OpenAI、サイバーセキュリティ特化型「GPT-6 Cyber」発表 Firefoxの未知の脆弱性81件を発見
-米OpenAIは11月5日（現地時間）、サイバーセキュリティに特化したAIモデル「GPT-6 Cyber」を発表した。汎用モデル「GPT-6 Astra」をベースに、脆弱性の発見や攻撃手法の検証などの能力を強化したモデルで、同社の防御者向けプログラム「Daybreak Red」の承認ユーザーに限定して提供する。
-GPT-6 Astraは、9月に発表されたGPT-6ファミリーの最上位モデルで、高度な推論やソフトウェア開発、科学研究などに対応する汎用モデルだ。一方、GPT-6 Cybe</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/06/2000002931/</guid><pubDate>Thu, 05 Nov 2026 23:18:16 +0000</pubDate></item><item><title>アンソロピックＩＰＯ日程に懸念、ＡＩ逆風で 投資家指摘 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNMWRjM2ZVblhLWTM4QVZ3OUxfMDhGLXl2aWVWYXBkMTBkQWQwZ2pPa2ZQRWhTWGdMLXFmVV9xcXBfX0dYdlUwVWhFWmd5c3FQWjVrbE1fVkxHajg5MGpvYlRrZzZ3eWtCVEtCaGFNN1QybnVldzNmVndNS2EyTEl4dXFRV0Zvdw?oc=5</link><description>[score: 0.893] アンソロピックＩＰＯ日程に懸念、ＡＩ逆風で 投資家指摘 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNMWRjM2ZVblhLWTM4QVZ3OUxfMDhGLXl2aWVWYXBkMTBkQWQwZ2pPa2ZQRWhTWGdMLXFmVV9xcXBfX0dYdlUwVWhFWmd5c3FQWjVrbE1fVkxHajg5MGpvYlRrZzZ3eWtCVEtCaGFNN1QybnVldzNmVndNS2EyTEl4dXFRV0Zvdw?oc=5</guid><pubDate>Fri, 06 Nov 2026 00:56:28 +0000</pubDate></item><item><title>Anthropic、「Claude」に家計管理機能「Personal Finance」　銀行口座と連携、米国でβ提供</title><link>https://www.itmedia.co.jp/news/article/2611/06/2000002935/</link><description>[score: 0.893] Anthropic、「Claude」に家計管理機能「Personal Finance」 銀行口座と連携、米国でβ提供
-米Anthropicは11月5日（現地時間）、AIアシスタント「Claude」の新機能「Personal Finance」を発表した。銀行口座やクレジットカード口座を連携させ、自身の財務状況について自然言語で質問できる。米国の「Pro」「Max」「Ultra」プランのユーザーに、β版として順次提供する。Web版、デスクトップアプリ、iOS／Androidアプリで利用できる。
-使い始めるには、サイドバーの「Personal Finance」を開き、金融データ接続サービスの米Pla</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/06/2000002935/</guid><pubDate>Fri, 06 Nov 2026 00:22:38 +0000</pubDate></item><item><title>ＮＹ外為市場＝ドル横ばい、雇用統計に注目 円は日銀利上げ観測で小幅高 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE1GVlptM2c0MFNPaC1OYUZESkdsd00yQkVaM19qSWtJd2xyNmwwakZZQXhnRGk4UURXSzdkMnlCeTBkcmV5UlhxR2RvTTNHXzl3X0hOUXhoSUlBYl9zMkF2TkJaY25pbkRYSHh1YWZsWElTSW9HeUcxejFuQWd0Zw?oc=5</link><description>[score: 0.896] ＮＹ外為市場＝ドル横ばい、雇用統計に注目 円は日銀利上げ観測で小幅高 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE1GVlptM2c0MFNPaC1OYUZESkdsd00yQkVaM19qSWtJd2xyNmwwakZZQXhnRGk4UURXSzdkMnlCeTBkcmV5UlhxR2RvTTNHXzl3X0hOUXhoSUlBYl9zMkF2TkJaY25pbkRYSHh1YWZsWElTSW9HeUcxejFuQWd0Zw?oc=5</guid><pubDate>Thu, 05 Nov 2026 23:53:25 +0000</pubDate></item><item><title>若者とヒスパニックが導いた圧勝　民主党へ回帰鮮明　NYTなど調査：朝日新聞</title><link>https://www.asahi.com/articles/ASVC52H7NVC5UQIP01HM.html</link><description>[score: 0.896] 3日の米中間選挙は、共和党が歴史的大敗を喫した。米メディアによる投票者の分析では、2024年の大統領選でトランプ大統領を支持し、返り咲きの原動力となった若者やヒスパニック系（中南米系）が、今回は民主党に大きく回帰した様子が浮かんだ。
-ニューヨーク・タイムズ（NYT）は世論調査や開票結果、有権者名簿などをもとに下院選での共和・民主両党の得票率を推計した。全米の暫定値でみると、投票先は民主56%、共和43%で、民主が13ポイント上回った。共和がわずかに上回った2年前の大統領選と比べると、民主側に15ポイント振れた形だ。
-振れ幅が顕著だったのは、若年層とヒスパニックだった。18～29歳は今回、70%</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVC52H7NVC5UQIP01HM.html</guid><pubDate>Thu, 05 Nov 2026 23:04:05 +0000</pubDate></item><item><title>AI駆動文章作成において俺が意識しているテクニック集</title><link>https://zenn.dev/ntk221/articles/34ad88a9225364</link><description>[score: 0.899] はじめに 私は基本的に、「誰もわたしが書いた文章なんて読みたくない」と思っています。 みんな忙しいんです。そんな中であなたが文章を書いて、誰かがそれを読むということは、双方に何かしらの目的があるんだと思います。 しかも今は AI のおかげで、文章は一瞬でいくらでも書けるようになりました。結果として、仕事の中でも外でも AI が生成した文章が溢れかえっています。AI に書かせた長文を「で、何が言いたいの？」と思いながらスクロールした経験ってありませんか。 わたしはあります。 だからこそ、みんな忙しい中でどうやって読んでもらうか？ を考えるテクニックが大事になると思います。この記事では...</description><guid isPermaLink="false">https://zenn.dev/ntk221/articles/34ad88a9225364</guid><pubDate>Fri, 06 Nov 2026 00:37:43 +0000</pubDate></item><item><title>2026年10月にはどんなことが話題になった？ ネットの流行りを振り返る</title><link>https://webtan.impress.co.jp/e/2026/11/06/53546</link><description>[score: 0.900] 【この連載について】 この連載では、ネットで話題になった投稿・ミーム／流行り・ほっこりネタ・論争・トラブルなどを幅広くメモして記録しています。 サイバー攻撃による情報漏えいが激化。国内大手企業やインフラ系、政府機関が標的に サイバー攻撃（フィッシング詐欺、インフォスティーラー、不正アクセスなど）を原因とする大量情報漏えいが急増しています。 最近、報道があった企業だけでも、タイムズカー、ニッポンレンタカー、焼肉きんぐ、シチズン、日本経済新聞社、第一生命、大和証券、ローソン、セイコーマート、佐川急便、ヤマト運輸、東京メトロ、京王電鉄、ムラウチドットコム、日本郵政、大阪公立大学、九州電力、デジタル庁</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/11/06/53546</guid><pubDate>Thu, 05 Nov 2026 22:37:40 +0000</pubDate></item></channel></rss>
+【情報漏えい】対策どうする 二次被害に遭わないためには
+128の信用金庫 サービスはすべて復旧 システム障害が原因
+11月6日 20:13
+消費税減税法案 衆議院を通過 自民・維新などの賛成多数で可決
+11月6日 15:39
+株価 6万円割れ 値下がり幅は終値として過去3番目
+11月6日 20:27
+なぜ共和党はここまで大敗した？トランプ大統領の次の一手は？
+11月6日 13</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261106de71689</guid><pubDate>Fri, 06 Nov 2026 10:12:01 +0000</pubDate></item><item><title>サブウェイ ライフ 個人情報漏えいか アララ不正アクセス影響</title><link>https://news.web.nhk/newsweb/na/nd-20261106de71543</link><description>[score: 0.879] 企業向けにメール配信サービスを提供する「アララ」が不正アクセスを受けた影響で、外食チェーンやスーパーなどから個人情報の漏えいに関する発表が相次ぎました。
+このうち、サンドイッチチェーンの「サブウェ…
+あわせて読みたい
+【情報漏えい】対策どうする 二次被害に遭わないためには
+128の信用金庫 サービスはすべて復旧 システム障害が原因
+11月6日 20:13
+消費税減税法案 衆議院を通過 自民・維新などの賛成多数で可決
+11月6日 15:39
+株価 6万円割れ 値下がり幅は終値として過去3番目
+11月6日 20:27
+なぜ共和党はここまで大敗した？トランプ大統領の次の一手は？
+11月6日 13:2</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261106de71543</guid><pubDate>Fri, 06 Nov 2026 09:11:53 +0000</pubDate></item><item><title>「チャットUI」の正解を求めて。月間UU3000万「マイベスト」、“接客×AI”との苦闘2年半 - レバテックLAB</title><link>https://levtech.jp/media/detail_964/</link><description>[score: 0.880] 「チャットUI」の正解を求めて。月間UU3000万「マイベスト」、“接客×AI”との苦闘2年半 - レバテックLAB 株式会社マイベスト 取締役CTO 兼 AI推進室室長 鈴木 和真 2011年にカカクコムへ入社し、「食べログ」や新規事業の開発にバックエンドからフロントエンドまで幅広く携わる。2018年にメルカリへ転職し、旅行事業の立ち上げや決済サービスの開発を担当。マイベストには立ち上げ期から業務委託として参画し、2020年に正社員...</description><guid isPermaLink="false">https://levtech.jp/media/detail_964/</guid><pubDate>Fri, 06 Nov 2026 13:10:02 +0000</pubDate></item><item><title>ロート製薬 不正アクセスで約280万人分の個人情報漏えい</title><link>https://news.web.nhk/newsweb/na/nd-20261106de71619</link><description>[score: 0.880] 大阪に本社がある「ロート製薬」は、顧客管理システムに第三者からの不正アクセスがあり、氏名や住所などの個人情報、およそ280万人分などが外部に漏えいしたと発表しました。
+発表によりますと、ことし9月…
+あわせて読みたい
+【情報漏えい】対策どうする 二次被害に遭わないためには
+128の信用金庫 サービスはすべて復旧 システム障害が原因
+11月6日 20:13
+消費税減税法案 衆議院を通過 自民・維新などの賛成多数で可決
+11月6日 15:39
+株価 6万円割れ 値下がり幅は終値として過去3番目
+11月6日 20:27
+なぜ共和党はここまで大敗した？トランプ大統領の次の一手は？
+11月6日 13:2</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261106de71619</guid><pubDate>Fri, 06 Nov 2026 09:11:53 +0000</pubDate></item><item><title>Claude CodeからPremiere Proを290回動かして、53分のPodcastを全自動編集してみた</title><link>https://zenn.dev/salt2/articles/2b6e403e059b10</link><description>[score: 0.881] 普段は Premiere Pro と After Effects で動画を編集しています。社内で始めたポッドキャスト「Locked in」の第1回（約53分）を、今回は Claude Code に編集させてみました。 素材は iPhone で撮った 4K 映像が3アングル分（合計約36GB）と、マイク2本の WAV です。そこから YouTube 用の本編1本（4K）と、縦型ショート20本を作りました。 役割はこう分けました。 Claude Code：素材の同期、文字起こし、カット、字幕、テロップ作り、配置、書き出し 僕：ショートを1本ずつ見て直しを頼む、タイトルを選ぶ、色（Lumet...</description><guid isPermaLink="false">https://zenn.dev/salt2/articles/2b6e403e059b10</guid><pubDate>Fri, 06 Nov 2026 12:54:59 +0000</pubDate></item><item><title>流出３億件超でまさかの事態！ 個人情報〝供給過多〟で「値段つかない」 | 東スポWEB</title><link>https://www.tokyo-sports.co.jp/articles/-/408859</link><description>[score: 0.882] 企業や団体が何者かに不正アクセスされ、個人情報の漏洩が止まらない。流出した情報はダークウェブなどで売買されるケースが多いが、あまりに膨大な量が出回り、投げ売りどころか中身によっては二束三文になっているというのだ。
+連日、不正アクセスを受けて、顧客情報の漏えいを発表する企業や団体が後を絶たない。４日はビックカメラグループがメールマガジン配信業務を委託している会社からメールアドレスなど約１４９０万件が流出した可能性を発表した。前日にはレジャー予約サイト運営のアソビューが会員情報約１５８２万件、ノジマが会員情報約７００万件の流出を明らかにした。省庁も狙われ、外務省は約３６００件、デジタル庁は約１万３</description><guid isPermaLink="false">https://www.tokyo-sports.co.jp/articles/-/408859</guid><pubDate>Fri, 06 Nov 2026 09:47:39 +0000</pubDate></item><item><title>セキュリティ啓発団体に不正アクセス　個人情報最大1.5万件漏えいか</title><link>https://www.itmedia.co.jp/news/article/2611/06/2000002978/</link><description>[score: 0.883] セキュリティ啓発団体に不正アクセス 個人情報最大1.5万件漏えいか
+情報セキュリティの普及啓発に向けて活動する日本ネットワークセキュリティ協会（JNSA）は11月6日、同協会が運営する「情報セキュリティ理解度チェックサービス」が第三者による不正アクセスを受け、最大1万5128件の個人情報が漏えいした可能性があると発表した。利用者のIDやハッシュ化したパスワードなどが漏えいした可能性がある。同サービスは現在停止している。
+情報セキュリティ理解度チェックサービスは、企業や団体が従業員の情報セキュリティに関する理解度を確認するためのもの。漏えいした可能性がある情報は利用者のIDやハッシュ化されたパス</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/06/2000002978/</guid><pubDate>Fri, 06 Nov 2026 10:08:01 +0000</pubDate></item><item><title>「日中国交正常化は日台断交」　高市首相、持論封印したが難しい譲歩：朝日新聞</title><link>https://www.asahi.com/articles/ASVC53SLLVC5UTFK00HM.html</link><description>[score: 0.883] 中国が抱く高市早苗首相への不信感の根底には、対中強硬派、親台湾派として支持を集めてきた、これまでの政治姿勢がある。高市氏は「対話にオープン」としながらも、厳しい対中世論も背景に関係改善への腰は重い。これまで、中国にどのような考えを持ってきたのか、著作などを通してたどる。
+高市氏は首相就任前の24年に出版した「日本を守る 強く豊かに」で、こう記している。
+「2022年は『日中国交正常化50周年』だった。しかし、はたして、この50年が本当に『正常化』だったと言えるのか。正しくは『日台断交50年』『日中国交樹立50年』と呼ぶべき年だと考えている」
+原油や液化天然ガス（LNG）の大半が、台湾南部のバシ</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVC53SLLVC5UTFK00HM.html</guid><pubDate>Fri, 06 Nov 2026 12:51:18 +0000</pubDate></item><item><title>成長戦略の実行へ「フィジカルAI」など16項目を「重点項目」に</title><link>https://news.web.nhk/newsweb/na/nd-20261106de71845</link><description>[score: 0.883] 成長戦略の実行に向けて政府は、ロボットを自律的に動かせる「フィジカルAI」や自動運転技術など16項目を「重点項目」に位置づけることを確認しました。
+閣僚や有識者らでつくる日本成長戦略会議は6日午後…
+あわせて読みたい
+高市首相“日銀ETF追加売却益は新たな投資枠の財源に”
+11月6日 16:58
+インフラや防衛分野に向け国産AIの開発進む
+11月4日 7:19
+安保上重要な土地の取得規制法案 来週10日 衆院で審議入り合意
+11月6日 15:20
+中間決算ピーク AI需要で最終利益の合計は前年比40％増加
+11月6日 16:53
+“能動的サイバー防御含め戦略的に実行”政府が緊急パッケージ
+11</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261106de71845</guid><pubDate>Fri, 06 Nov 2026 10:40:05 +0000</pubDate></item><item><title>OpenAI新モデル「GPT-6 Cyber」のサイバー能力は「Critical」、審査済み顧客に限定提供。Linuxの攻撃コード作成は前モデルの5倍超、Firefoxで未知の脆弱性81件発見</title><link>https://www.techno-edge.net/article/2026/11/06/5682.html</link><description>[score: 0.884] OpenAIは、サイバーセキュリティ研究に特化した新しいモデル「GPT-6 Cyber」を発表しました。同社はこのモデルを、自社の安全評価の枠組み「Preparedness Framework」でサイバーセキュリティ能力「Critical」に分類しています。前モデルのGPT-5.6 Cyberは「High」でした。当初は審査を通った一部の「Daybreak Red」顧客だけが利用できます。
+GPT-6 Cyberは、脆弱性を見つけ、実際に悪用できるかを確かめ、修正案まで作る能力を高めたモデルです。隔離した研究環境でLinuxカーネルの脆弱性1724件を再現し、そのうち948件で、権限のないユー</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/11/06/5682.html</guid><pubDate>Fri, 06 Nov 2026 08:09:00 +0000</pubDate></item><item><title>Codexに「Claudeにレビューを頼んで」と言ったら、Claude Codeを自動起動してレビューまで完了した話</title><link>https://qiita.com/ma2738/items/ee63da706aa64f3784a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] はじめに
+個人開発でCodexを実装担当、Claude Codeを検証担当として使っています。以前は成果物とレビュー結果を人間がコピペで受け渡していました。
+今回、Codexに**「Claudeにレビューを頼んで」と指示したところ、CodexがClaude Codeを直接起動し、依頼・回答保存・回答の評価まで実行しました。この記事はCodexの保存ログを調査した裏取り結果**を反映した技術実験レポートです。対象アプリの固有情報は一般化しています。
+実証範囲：今回確認できたのは「Codex → Claude Code」の一方向の直接起動です。双方向の完全自動運用やOSレベルの完全隔離は実証してい</description><guid isPermaLink="false">https://qiita.com/ma2738/items/ee63da706aa64f3784a9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 06 Nov 2026 08:35:18 +0000</pubDate></item><item><title>余命宣告後“神様の贈り物” 2200万円持ち去り実刑判決 仙台</title><link>https://news.web.nhk/newsweb/na/nd-20261106de71905</link><description>[score: 0.884] 仙台市の路上で落とし物の現金2200万円が入った袋を持ち去った罪に問われ、裁判で「がんで余命宣告を受けた帰りに見つけ、神様の贈り物だと思った」と述べた43歳の被告に対し、裁判所は「自暴自棄になっていた…
+あわせて読みたい
+国際ハッカー集団“日本企業はぜい弱性を放置”取材に回答
+11月6日 19:55
+【情報漏えい】対策どうする 二次被害に遭わないためには
+128の信用金庫 サービスはすべて復旧 システム障害が原因
+11月6日 20:13
+消費税減税法案 衆議院を通過 自民・維新などの賛成多数で可決
+11月6日 15:39
+株価 6万円割れ 値下がり幅は終値として過去3番目
+11月6日 20:2</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261106de71905</guid><pubDate>Fri, 06 Nov 2026 12:36:51 +0000</pubDate></item><item><title>在沖米軍への教育拡充 日米合同パトロールも強化 茂木外相</title><link>https://news.web.nhk/newsweb/na/nd-20261106de71913</link><description>[score: 0.885] 沖縄に駐留するアメリカ海兵隊の兵士による強盗殺人事件を受けた再発防止策について、茂木外務大臣は軍への教育を拡充するほか日米合同のパトロールを強化することなどを明らかにしました。
+沖縄に駐留するアメ…
+あわせて読みたい
+国際ハッカー集団“日本企業はぜい弱性を放置”取材に回答
+11月6日 19:55
+128の信用金庫 サービスはすべて復旧 システム障害が原因
+11月6日 20:13
+消費税減税法案 衆議院を通過 自民・維新などの賛成多数で可決
+11月6日 15:39
+株価 6万円割れ 値下がり幅は終値として過去3番目
+11月6日 20:27
+なぜ共和党はここまで大敗した？トランプ大統領の次の一手は</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261106de71913</guid><pubDate>Fri, 06 Nov 2026 12:06:55 +0000</pubDate></item><item><title>米住民投票でデータセンター建設に反対相次ぐ　規制派民主知事も続々当選、推進に逆風も</title><link>https://www.itmedia.co.jp/news/article/2611/06/2000002949/</link><description>[score: 0.885] 米住民投票でデータセンター建設に反対相次ぐ 規制派民主知事も続々当選、推進に逆風も 11月3日の米中間選挙に合わせ各地で行われた住民投票で、人工知能（AI）向けデータセンター建設の是非を問う計41件が10州であり、1件を除き建設禁止や規制強化が可決された。米メディアが報じた。南部テキサス州などの知事選では、規制推進派の野党・民主党系が当選。AI建設への逆風が強まるとの見方が出ている。 米選挙...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/06/2000002949/</guid><pubDate>Fri, 06 Nov 2026 10:08:01 +0000</pubDate></item><item><title>NTTドコモ 最大29万件余の顧客情報流出で社長陳謝</title><link>https://news.web.nhk/newsweb/na/nd-20261106de71859</link><description>[score: 0.887] NTTドコモが外部から不正アクセスを受け顧客の情報が流出した問題で、会社は6日に記者会見を開き、前田義晃社長が陳謝しました。
+NTTドコモは、外部からの不正アクセスを確認し、最大でおよそ30万件の…
+あわせて読みたい
+国際ハッカー集団“日本企業はぜい弱性を放置”取材に回答
+11月6日 19:55
+【情報漏えい】対策どうする 二次被害に遭わないためには
+“能動的サイバー防御含め戦略的に実行”政府が緊急パッケージ
+11月6日 18:26
+128の信用金庫 サービスはすべて復旧 システム障害が原因
+11月6日 20:13
+消費税減税法案 衆議院を通過 自民・維新などの賛成多数で可決
+11月6日 15</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261106de71859</guid><pubDate>Fri, 06 Nov 2026 13:06:05 +0000</pubDate></item><item><title>Qiita投稿文化を社内に広めようとしたけど、うまくいかなかった話</title><link>https://qiita.com/inoyu-qiita/items/48094b9b40752483f5cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.887] 一緒にQiita書きましょう！！！！！
+この熱量で社内に呼びかけました。
+一時的にはみんなが記事を書いてくれて、Qiita Organizationの週間投稿数ランキングで1位にもなれました。でも、約3か月後に投稿一覧を見たら、、、、
+Qiita投稿文化を社内に広めようとして、うまくいかなかった話です。
+Qiitaを書き始めたきっかけ
+私がQiitaを書くきっかけは、尊敬するUさん（@haru-qiita）（退社済み）と一緒に業務をしたことです。
+3月にイーディーエーへ入社してから、UさんにはAIを使った開発フローをマンツーマンで教えていただきました。そのときの研修は、初めてのAI駆動開発。自</description><guid isPermaLink="false">https://qiita.com/inoyu-qiita/items/48094b9b40752483f5cd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 06 Nov 2026 08:35:18 +0000</pubDate></item><item><title>セキュリティ専門団体が不正アクセス被害、最大1.5万件の情報漏えいか　ID・パスワードも対象に（アスキー） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/7d27c99efa470f0930524fb5e1d58e6088bab8d8</link><description>[score: 0.887] セキュリティ専門団体が不正アクセス被害、最大1.5万件の情報漏えいか ID・パスワードも対象に
+日本ネットワークセキュリティ協会（JNSA）は11月6日、運営する「情報セキュリティ理解度チェックサービス」が不正アクセスを受け、利用者の個人情報が漏えいした可能性があると発表した。対象になり得るのは最大1万5128件。サービスを停止して調査している。
+（画像）漏えいの可能性がある情報は？
+組織の管理者が社員や職員を登録し、情報セキュリティの問題を受講させて結果を分析するサービス。管理者以外の受講者は、個人名を使わず「受講者ID」などで管理できる。
+漏えいした可能性がある情報は、管理者の氏名・企業名</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/7d27c99efa470f0930524fb5e1d58e6088bab8d8</guid><pubDate>Fri, 06 Nov 2026 10:36:57 +0000</pubDate></item><item><title>アララで新たなメールアドレスの流出確認 計8132万件に</title><link>https://news.web.nhk/newsweb/na/nd-20261106de71934</link><description>[score: 0.887] 企業向けにメール配信サービスなどを提供している「アララ」は先月受けた不正アクセスの影響で、新たに別のクラウドからも324万件のメールアドレスが流出していたと発表しました。
+これまでに流出したものとあ…
+あわせて読みたい
+国際ハッカー集団“日本企業はぜい弱性を放置”取材に回答
+11月6日 19:55
+情報漏えいリスク回避へ対策は？「個人情報持たない」企業も
+11月6日 19:31
+消費税減税法案 衆議院を通過 自民・維新などの賛成多数で可決
+11月6日 15:39
+三井ダイレクト損保 東京海上ダイレクト損保 契約者情報漏えい
+11月6日 18:59
+佐川急便 5323万件が外部流出の可能性で“被</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261106de71934</guid><pubDate>Fri, 06 Nov 2026 12:06:55 +0000</pubDate></item><item><title>今更だけど、AIってどう使えばいいの？</title><link>https://zenn.dev/porters_tech/articles/4f6e5cc83aa74c</link><description>[score: 0.890] AIメニュー画像ってやばくね？ 最近、AIで生成した料理の画像をメニューに使用している飲食店の事例を目にすることがある。 なかには、人間の食べ物とは思えないような見た目の画像もあり、思わず目を引かれる。 規則的な米の配置や、麺の気持ち悪い形など。 直接作ってみた。 一見すると「そんなものを作っている意味が分からん」になるが、一方で「我々が作るソースコードや文書も同じじゃないか？」とも考えてしまう。 なぜそのような画像が作られるのか？それを見て不自然だと思わないのか？ そもそも見てません 「人がいちいち確認するなら、AIを使う意味がありません」という意見もある。たしかに。 つまり...</description><guid isPermaLink="false">https://zenn.dev/porters_tech/articles/4f6e5cc83aa74c</guid><pubDate>Fri, 06 Nov 2026 12:54:59 +0000</pubDate></item><item><title>Linuxの脆弱性948件を攻略、セキュリティ特化AI「GPT-6 Cyber」</title><link>https://pc.watch.impress.co.jp/docs/news/2154280.html</link><description>[score: 0.890] ニュース
+Linuxの脆弱性948件を攻略、セキュリティ特化AI「GPT-6 Cyber」
+2026年11月6日 13:37
+オープンソースOSの中核「Linuxカーネル」で、実際に攻撃が成立する脆弱性が948件見つかった。見つけたのは、OpenAIが11月5日(現地時間)に発表したセキュリティ研究向けのAIモデル「GPT-6 Cyber」だ。ただし、このAIは誰でも使えるわけではない。
+GPT-6 Cyberは、ソフトウェアの脆弱性を発見し、攻撃コードを作成して悪用できるかまで検証するAIモデルだ。最上位モデル「GPT-6 Astra」をサイバー業務に特化させた派生版で、研究者が指定した検査</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2154280.html</guid><pubDate>Fri, 06 Nov 2026 12:37:21 +0000</pubDate></item><item><title>高市首相 「台湾有事」答弁1年 “中国と安定的な関係構築を”</title><link>https://news.web.nhk/newsweb/na/nd-20261106de71861</link><description>[score: 0.891] いわゆる「台湾有事」をめぐる国会答弁から7日で1年となることについて、高市総理大臣は、中国との間で意思疎通を図り、建設的で安定的な関係を構築していく考えを重ねて示しました。
+高市総理大臣が国会答弁…
+あわせて読みたい
+国際ハッカー集団“日本企業はぜい弱性を放置”取材に回答
+11月6日 19:55
+128の信用金庫 サービスはすべて復旧 システム障害が原因
+11月6日 20:13
+消費税減税法案 衆議院を通過 自民・維新などの賛成多数で可決
+11月6日 15:39
+株価 6万円割れ 値下がり幅は終値として過去3番目
+11月6日 20:27
+なぜ共和党はここまで大敗した？トランプ大統領の次の一手は</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261106de71861</guid><pubDate>Fri, 06 Nov 2026 12:36:51 +0000</pubDate></item><item><title>ドコモ不正アクセス、「料金プラン」などの情報も流出　29.5万件</title><link>https://www.watch.impress.co.jp/docs/news/2154508.html</link><description>[score: 0.893] ニュース
+ドコモ不正アクセス、「料金プラン」などの情報も流出 「重く受け止めている」
+2026年11月6日 19:36
+NTTドコモは6日、「ドコモオンラインショップ」と会員サービス「My docomo」において、外部から不正なアクセスが行なわれ、一部の会員情報が流出した問題について会見し、謝罪した。
+5日の発表で可能性を認めていた、氏名、住所、生年月日、携帯電話番号などに加え、本人確認書類の番号や、料金プラン/オプションなども含まれることを公表。また、一部の利用者では、法定代理人・手続代理人の氏名、連絡先のほか、勤務先・法人の名称、所在地、金融機関名、支店名、口座番号なども含まれている。影響</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2154508.html</guid><pubDate>Fri, 06 Nov 2026 10:43:57 +0000</pubDate></item><item><title>ハッカーが狙う最新手口4選　AIやログインを悪用するサイバー攻撃の脅威</title><link>https://forbesjapan.com/articles/detail/107526?s=ns</link><description>[score: 0.893] 2026年10月、GMOインターネットグループが提供する『お名前.com デスクトップクラウド』で不正アクセスが発覚した。顧客の取引口座で身に覚えのない操作が行われたとの報告もあり、サイバー攻撃による被害はサービスを提供する企業だけでなく利用者個人にも及ぶ可能性があり、多くの利用者に不安を与えた。こうしたなかリブランディング株式会社は、海外で報告されている4種類の新たなサイバー攻撃について、公的機関やセキュリティ企業などの公開資料をもとに調査。同社は「日本でも同様の手口が使われることを想定し、早い段階から対策を講じる必要がある」と提言した。
+GMOへの不正アクセス
+GMOインターネットグループ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107526?s=ns</guid><pubDate>Fri, 06 Nov 2026 09:54:15 +0000</pubDate></item><item><title>セキュリティ関連書 9タイトル全文無料公開《2026年11月5日〜11月9日》 - インプレスブックス</title><link>https://book.impress.co.jp/items/cp261105</link><description>[score: 0.894] セキュリティ関連書 9タイトル全文無料公開《2026年11月5日〜11月9日》 - インプレスブックス 不正アクセスやランサムウェアなど、情報セキュリティに関するリスクへの関心が急速に高まっています。 こうした状況を受け、関係著者各位のご賛同とご協力のもと、インプレスが刊行するセキュリティ関連書籍・ムック【全9タイトル】を5日間限定で全文無料公開いたします。 システム開発や社内インフラの管理といった専...</description><guid isPermaLink="false">https://book.impress.co.jp/items/cp261105</guid><pubDate>Fri, 06 Nov 2026 10:57:26 +0000</pubDate></item><item><title>Claudeを使いこなす人に、MagicPodは要るのか。知らないアプリでPlaywrightと比べた記録</title><link>https://zenn.dev/genda_jp/articles/7b423bcd20b532</link><description>[score: 0.896] 2026年10月、MagicPodのMCPサーバーが刷新されました。Claudeのコネクタ一覧から接続するだけで、Claudeとの対話を通じてMagicPodのテストケースを作成・編集・実行できるようになっています。 https://prtimes.jp/main/html/rd/p/000000079.000027392.html 以前、MagicPod MCPサーバーとClaudeを組み合わせて、テストケースをAIでレビューする仕組みについて書きました。 https://zenn.dev/genda_jp/articles/e2697df23813a5 そのときはテストを「読む」話で...</description><guid isPermaLink="false">https://zenn.dev/genda_jp/articles/7b423bcd20b532</guid><pubDate>Fri, 06 Nov 2026 12:54:59 +0000</pubDate></item><item><title>思考の外注割合を増やし、理解は外注しない - Konifar's ZATSU</title><link>https://konifar-zatsu.hatenadiary.jp/entry/2026/09/22/112134</link><description>[score: 0.914] 思考の外注割合を増やし、理解は外注しない - Konifar's ZATSU 「思考は外注できるが理解は外注できない」という AI の関わり方を端的に表したﾂｲｯﾄがある。 you can outsource your thinking but you cannot outsource your understanding you can outsource your thinking bu... bulldra</description><guid isPermaLink="false">https://konifar-zatsu.hatenadiary.jp/entry/2026/09/22/112134</guid><pubDate>Fri, 06 Nov 2026 12:36:11 +0000</pubDate></item></channel></rss>
