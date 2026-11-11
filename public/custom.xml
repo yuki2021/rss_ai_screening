@@ -1,112 +1,49 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 11 Nov 2026 13:13:30 +0000</lastBuildDate><item><title>Z世代がAIブームから一斉に「ログアウト」し始めた深刻な理由　米国</title><link>https://forbesjapan.com/articles/detail/107841?s=ns</link><description>[score: 0.876] 企業と若者の間には、意識の大きな断絶がある。大半のテック企業、ブランド、そして取締役会がAI活用を極限まで推し進める一方で、若者たちはむしろログアウトしようとしている。ブランドや雇用主は、若者たちをAIブームに巻き込もうと苦心しているのだ。ギャラップの調査によると、Z世代は昨年と比べて明らかにAIへの期待感が薄れ、怒りを強めているという。
-歴史的に見て、若者は新しいテクノロジーを最初に、そして最も速く取り入れてきた。ビデオゲーム、テキストメッセージ、ソーシャルメディアを思い浮かべればよい。若者はそれらがメインストリームになる前から日常的に使いこなしてきた。新しい世代が新技術の導入に反発するとき</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107841?s=ns</guid><pubDate>Wed, 11 Nov 2026 05:58:37 +0000</pubDate></item><item><title>AI「テスト通りました」← これ､本当？ Stryker でテストの穴を塞いだ話 - Qiita</title><link>https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a</link><description>[score: 0.876] AI「テスト通りました」← これ､本当？ Stryker でテストの穴を塞いだ話 - Qiita AI にテストを書いてもらって、「すべてのテストが通りました」と返ってくる。最近はこれが日常になりました。ただ、そのテストが 本当に何かを確かめているのか と聞かれると、正直、自信を持って答えられない。緑のチェックが並んでいるだけで、壊れても気づかないテストかもしれないからです。 そこで試したのが、テ...</description><guid isPermaLink="false">https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a</guid><pubDate>Wed, 11 Nov 2026 05:01:48 +0000</pubDate></item><item><title>政府、高性能AI暴走に罰則検討　悪質事業者に対抗手段へ法改正</title><link>https://www.47news.jp/15215887.html</link><description>[score: 0.877] 政府、高性能AI暴走に罰則検討 悪質事業者に対抗手段へ法改正
-2026年11月11日 19時49分
-政府が高性能人工知能（AI）が引き起こすリスクに対処するため、AI関連事業者に安全確保を義務付け、罰則を新設する方向で検討していることが11日分かった。AI法制度を議論する非公開の作業部会で確認した。年末までに法改正の内容を含めた制度見直しの全体像を示す。サイバー攻撃への悪用や暴走といった重大な脅威に対し、協議に応じないような悪質な事業者に政府として対抗手段を確保する狙いがある。
-AI事業者は研究から基盤モデルの開発、利用者向けサービスの展開まで細分化している。どこまでを対象にすべきかは今後詰め</description><guid isPermaLink="false">https://www.47news.jp/15215887.html</guid><pubDate>Wed, 11 Nov 2026 11:36:11 +0000</pubDate></item><item><title>ビックカメラ 法人顧客の企業情報13万件余が流出 不正アクセス</title><link>https://news.web.nhk/newsweb/na/nd-20261111de74257</link><description>[score: 0.877] 家電量販店大手の「ビックカメラ」は、法人顧客向けの問い合わせフォームが不正アクセスを受け、登録されていた企業の情報、13万3000件あまりが漏えいしたと発表しました。
-漏えいしたのは、法人顧客向け…
-あわせて読みたい
-【情報漏えい】対策どうする 二次被害に遭わないためには
-日本はなぜ狙われる？サイバー攻撃 生活にも影響
-11月7日 18:14
-徹底解説 相次ぐ不正アクセスなぜ？情報守るためにできること
-11月6日 19:08
-国際ハッカー集団“日本企業はぜい弱性を放置”取材に回答
-11月6日 19:55
-情報漏えいリスク回避へ対策は？「個人情報持たない」企業も
-11月6日 19:31
-ニトリに</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de74257</guid><pubDate>Wed, 11 Nov 2026 08:45:51 +0000</pubDate></item><item><title>自民 森山前幹事長 石破氏ら4人“国民の気持ち反映した行動”</title><link>https://news.web.nhk/newsweb/na/nd-20261111de74306</link><description>[score: 0.877] 食料品の消費税減税関連法案をめぐり、自民党の森山前幹事長は財源などについての党内議論が不十分だったと指摘した上で、衆議院本会議で採決を前に退席した石破前総理大臣ら4人の行動は国民の気持ちを反映したもの…
-消費税減税法案が参院に 高市首相“支援金 勤労者の3割以上”
-11月11日 17:01
-消費税減税と物価高対策 国民の意識は
-11月11日 13:17
-自民 小渕氏 税調副会長の退任求められ受け入れ 古川氏は辞任
-11月10日 18:54
-1人1か月90万円？ 企業が直面 膨れ上がるAIコスト
-不正防止につながるか 免税新制度「リファンド方式」に密着
-ちばてつやが伝えたかったこと 受け継がれる</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de74306</guid><pubDate>Wed, 11 Nov 2026 09:41:34 +0000</pubDate></item><item><title>茨城 古河 同居女性に唇縫わせた罪に問われた被告初公判</title><link>https://news.web.nhk/newsweb/na/nd-20261111de74378</link><description>[score: 0.878] 茨城県古河市の住宅で同居していた女性にみずからの唇を縫わせたとして、強要などの罪に問われている50歳の女の被告の初公判が開かれ、被告は起訴された内容を認めました。
-茨城県古河市の無職、櫻井政恵被告…
-あわせて読みたい
-去年7月の参院選は違憲状態 1票の格差めぐる判決 最高裁
-11月11日 20:41
-アマゾンジャパン 独禁法調査で改善計画を提出 公取委が承認
-11月11日 18:30
-国民健康保険料 高所得層の年間上限額 来年度3万円引き上げへ
-11月11日 16:20
-ドコモ通信障害復旧 原因は機器の不具合
-11月11日 21:47
-司法試験 ことしの合格者1595人 政府の目標を4年連続で</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de74378</guid><pubDate>Wed, 11 Nov 2026 11:37:38 +0000</pubDate></item><item><title>AIの利用の9割はアメリカの外で起きている。最新調査で見えたChatGPTの圧倒的な優位</title><link>https://www.businessinsider.jp/article/2611-chatgpt-growth-rebounds-openai-rivals-ai-market-share/</link><description>[score: 0.878] 2026年の初め、ChatGPTのAI市場での優位は、グーグルとアンソロピック（Anthropic）の競合サービスが勢いを増すなか、揺らいでいるように見えた。だが新たな調査によると、OpenAIの主力製品は意外な復活を遂げつつある。
-調査・グロースマーケティング会社のグラファイト（Graphite）の調査によると、ChatGPTは現在、世界の主要なAIチャットボットへのトラフィックの81％以上を占めている。市場の10％にすら届いた競合サービスは1つもない。
-グーグルのGeminiやアンソロピックのClaudeが、OpenAIにとってますます深刻な脅威だと広く見なされ、注目を集めてきたことを考え</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-chatgpt-growth-rebounds-openai-rivals-ai-market-share/</guid><pubDate>Wed, 11 Nov 2026 01:59:32 +0000</pubDate></item><item><title>アメリカ ヘグセス国防長官の弾劾決議案 共和党が事実上阻止</title><link>https://news.web.nhk/newsweb/na/nd-20261111de73959</link><description>[score: 0.878] アメリカのヘグセス国防長官の罷免を求める弾劾訴追の決議案について、連邦議会下院は、委員会に付託する動議を与党 共和党による賛成多数で可決しました。共和党が主導するいまの議会の委員会では決議案は採決され…
-あわせて読みたい
-米 AI開発企業「アンソロピック」 IPOで10兆円余りを調達へ
-11月11日 6:41
-米 ルビオ国務長官 米中ロ首脳会談は「実現可能」詰めの調整
-11月11日 6:59
-「ネオクラウド」コアウィーブ最終赤字6倍 利息支払いで
-11月11日 10:31
-英警察が米軍兵士逮捕「関係国はロシア」 スパイ活動の疑い
-11月11日 11:10
-米 ルビオ国務長官 G7各国に「イラン</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de73959</guid><pubDate>Wed, 11 Nov 2026 03:37:33 +0000</pubDate></item><item><title>アンソロピックIPO、熱狂より現実路線　AIマネー変調でテック7社下支え - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOGN10C9W0Q6A111C2000000/</link><description>[score: 0.878] アンソロピックIPO、熱狂より現実路線 AIマネー変調でテック7社下支え - 日本経済新聞 【シリコンバレー=山田遼太郎、ニューヨーク=今堀祥和】米アンソロピックが10日に発表した新規株式公開（IPO）の仮条件では、評価額を当初想定から約3割下方修正した。人工知能（AI）相場変調を受け強気の値付けより確実な資金調達を優先した。テック大手7社は4兆円規模の資金で上場を下支えする。アンソロピックは10日...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOGN10C9W0Q6A111C2000000/</guid><pubDate>Wed, 11 Nov 2026 02:58:39 +0000</pubDate></item><item><title>国民健康保険料 高所得層の年間上限額 来年度3万円引き上げへ</title><link>https://news.web.nhk/newsweb/na/nd-20261111de74183</link><description>[score: 0.878] 自営業者などが加入する国民健康保険について、厚生労働省は、中間所得層の保険料負担の伸びを抑えるため、所得の高い人が納める保険料のうち、医療分の年間上限額を、来年度から3万円引き上げて96万円とする方針…
-消費税減税と物価高対策 国民の意識は
-11月11日 13:17
-介護現場のカスハラの実態は? 厚労省は対策強化へ
-11月7日 19:42
-米FDA 糖尿病治療薬「マンジャロ」などに視力低下リスクを警告
-11月10日 20:31
-風疹ウイルス感染の“入り口”発見 予防や治療法の開発に期待
-11月9日 21:40
-内閣府 メールアドレス6万件余漏えい アララ不正アクセス影響
-11月11日 15:3</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de74183</guid><pubDate>Wed, 11 Nov 2026 07:40:43 +0000</pubDate></item><item><title>2400年前「文字に頼るとバカになる」。今「AIに頼るとバカになる」</title><link>https://studyhacker.net/memory-and-writing</link><description>[score: 0.878] AIに聞けば何でも答えが返ってくる時代。「自分の頭で覚えたり考えたりしなくなるのでは」と不安になりますよね。AI以前からネットやPCの存在によって記憶の危うさは指摘されてきました（グーグル効果）。 しかし、じつは同じ心配は2400年前にもありました。そのとき槍玉に挙がったのは「文字」です。 古代ギリシャからアメリカ建国の父まで、偉人たちは「覚える」と「書く」をどう使い分けてきたのか。そこには、AI時代の勉強にそのまま使えるヒントがあります。 「書くと忘れる」と警告した2400年前のソクラテス 覚える技術 記憶術「記憶の宮殿（場所法）」 書く技術 抜き書き帳からツェッテルカステンへ フランクリン</description><guid isPermaLink="false">https://studyhacker.net/memory-and-writing</guid><pubDate>Wed, 11 Nov 2026 10:20:11 +0000</pubDate></item><item><title>京都 養鶏場で鳥インフルエンザの疑い 感染確認なら今季全国初</title><link>https://news.web.nhk/newsweb/na/nd-20261111de74346</link><description>[score: 0.879] 京都府亀岡市の養鶏場でニワトリ14羽が死んでいるのが見つかり、府が簡易検査を行った結果、鳥インフルエンザウイルスに感染している疑いがあることがわかりました。感染が確認されれば国内の養鶏場などでは今シー…
-あわせて読みたい
-去年7月の参院選は違憲状態 1票の格差めぐる判決 最高裁
-11月11日 20:41
-アマゾンジャパン 独禁法調査で改善計画を提出 公取委が承認
-11月11日 18:30
-国民健康保険料 高所得層の年間上限額 来年度3万円引き上げへ
-11月11日 16:20
-ドコモ通信障害復旧 原因は機器の不具合
-11月11日 21:47
-司法試験 ことしの合格者1595人 政府の目標を4年連</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de74346</guid><pubDate>Wed, 11 Nov 2026 10:43:04 +0000</pubDate></item><item><title>アメリカ 共和党 中間選挙大敗を受け新体制選出</title><link>https://news.web.nhk/newsweb/na/nd-20261111de74052</link><description>[score: 0.880] アメリカの中間選挙で大敗した与党 共和党は連邦議会での新たな指導部を選出し、このうち下院では、体制の刷新を訴えていた保守強硬派のジョーダン議員がトップに選ばれ、野党 民主党に対抗していく構えを示しまし…
-アメリカ ヘグセス国防長官の弾劾決議案 共和党が事実上阻止
-11月11日 12:18
-英警察が米軍兵士逮捕「関係国はロシア」 スパイ活動の疑い
-11月11日 11:10
-トランプ大統領“エヌビディア疑惑”で2度報告受けたか 米報道
-11月11日 12:12
-米 ルビオ国務長官 G7各国に「イランへ大規模戦闘 必要ない」
-11月11日 6:39
-米 ヘグセス国防長官“弾劾決議案は茶番”続投に意欲</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de74052</guid><pubDate>Wed, 11 Nov 2026 04:35:16 +0000</pubDate></item><item><title>政府、高性能AI暴走に罰則検討　法改正、開発事業者が対象 | NEWSjp</title><link>https://news.jp/i/1493175213544620448</link><description>[score: 0.881] 政府が高性能人工知能（AI）が引き起こすリスクに対処するため、AI関連事業者に安全確保を義務付け、罰則を新設する方向で検討していることが11日分かった。AI法制度を議論する非公開の作業部会で確認した。年末までに法改正の内容を含めた制度見直しの全体像を示す。サイバー攻撃への悪用や暴走といった重大な脅威に対し、協議に応じないような悪質な事業者に政府として対抗手段を確保する狙いがある。
-AI事業者は研究から基盤モデルの開発、利用者向けサービスの展開まで細分化している。どこまでを対象にすべきかは今後詰める。米国の巨大IT企業を含めた場合は、国内の利用者保護に向けた実効性の確保が問われそうだ。
-問題が起</description><guid isPermaLink="false">https://news.jp/i/1493175213544620448</guid><pubDate>Wed, 11 Nov 2026 11:25:48 +0000</pubDate></item><item><title>OpenAI、APIの処理・推論が国内で可能に　GPT-6 Lunaから</title><link>https://www.watch.impress.co.jp/docs/news/2155544.html</link><description>[score: 0.882] ニュース
-OpenAI、APIの処理・推論が国内で可能に GPT-6 Lunaから
-2026年11月11日 16:00
-OpenAIは11日、OpenAI APIで提供する「GPT-6 Luna」について、リクエストの処理とモデルの推論を日本国内で行なえる機能の一般提供を開始した。対象はテキストと画像の入力、テキストの出力で、利用条件を満たす企業や開発者が利用できる。
-同社は2025年5月、日本を含むアジア地域でデータレジデンシーへの対応を発表し、対象となる顧客データの国内保存を可能にしていた。今回の対応により、データの保存だけでなく、APIリクエストの処理や、入力内容に基づいて回答を生成する</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2155544.html</guid><pubDate>Wed, 11 Nov 2026 07:02:43 +0000</pubDate></item><item><title>日本近海で水温上昇 雑種フグ・アニサキス…食の安全に影響も</title><link>https://news.web.nhk/newsweb/na/nd-20261111de73954</link><description>[score: 0.883] 日本近海の海面の水温が上昇するペースは、世界全体の海と比較すると2倍以上になっていることが気象庁の調査でわかっています。
-生き物の分布の変化が起き、毒の位置や強さにばらつきがある雑種のフグの増加や、…
-COP前に北極観測の科学者 温暖化の速さに危機感訴え
-11月7日 10:38
-【動画】変わる東京湾 海中では何が
-11月5日 10:24
-COP31開幕 地球温暖化と異常気象に歯止めは？
-11月10日 14:28
-笹川環境相 去年クマによる人身被害が全国最多の秋田県を視察
-11月9日 21:05
-今季いちばんの冷え込み 日中は気温上昇 台風で小笠原は大しけ
-11月11日 13:58
-エルニーニョ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de73954</guid><pubDate>Wed, 11 Nov 2026 11:37:38 +0000</pubDate></item><item><title>2027年にも「超人的AI研究者(SAR)」が登場する可能性が高いとAI研究者らが予測、全ホワイトカラー業務の自動化AIも2028年までに登場か</title><link>https://gigazine.net/news/20261111-superhuman-ai-researcher-2027/</link><description>[score: 0.884] 2027年にも「超人的AI研究者(SAR)」が登場する可能性が高いとAI研究者らが予測、全ホワイトカラー業務の自動化AIも2028年までに登場か
-元OpenAIのガバナンス研究者であるダニエル・ココタイロ氏が率いる非営利研究団体のAI Futures Projectが、最高水準の人間の研究者を一掃するかもしれない「Superhuman AI Researcher(超人的AI研究者：SAR)」が2027年に登場する可能性が高いとの予測を発表しました。
-Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen </description><guid isPermaLink="false">https://gigazine.net/news/20261111-superhuman-ai-researcher-2027/</guid><pubDate>Wed, 11 Nov 2026 11:10:43 +0000</pubDate></item><item><title>AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功</title><link>https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/</link><description>[score: 0.885] AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功
-AmazonとAWSは、コストを抑えながら社内への問い合わせやシステムエラーをAIで自動仕分けするため、Anthropicのバランス型モデルである「Claude Sonnet 4.6」を利用してきました。これを意思決定モデルの「Strands Decider」に置き換えることで、98％のコスト削減に成功したと報告しています。
-Amazon saves millions by replacing Sonnet 4.6 with S</description><guid isPermaLink="false">https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/</guid><pubDate>Wed, 11 Nov 2026 12:09:17 +0000</pubDate></item><item><title>アングル：アリス・フアン氏とは何者か、エヌビディアＣＥＯ巡る疑惑で分かっていること - Reuters</title><link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOYW1CVTRSc3NsSVFWbkZwMnVnNDlnTloxeU9yV2FSMlVqdkdZbU9icXRNcXdsVHgzeVhFWTZCODFicGxpUms2T2hwc21KWGY3aWxUQUVWUVhhQU5GcXVuUDRBbGltX2gzY00tWmlJeXoyS20ybmRrR1RhQXVERHFOVmMxWno?oc=5</link><description>[score: 0.886] アングル：アリス・フアン氏とは何者か、エヌビディアＣＥＯ巡る疑惑で分かっていること Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxOYW1CVTRSc3NsSVFWbkZwMnVnNDlnTloxeU9yV2FSMlVqdkdZbU9icXRNcXdsVHgzeVhFWTZCODFicGxpUms2T2hwc21KWGY3aWxUQUVWUVhhQU5GcXVuUDRBbGltX2gzY00tWmlJeXoyS20ybmRrR1RhQXVERHFOVmMxWno?oc=5</guid><pubDate>Wed, 11 Nov 2026 09:16:58 +0000</pubDate></item><item><title>Anthropic、Claude Sheets・Whiteboardsをベータ提供、Claude Dataは一般提供へ ——インタラクティブコネクターも更新、対応アプリをチャットの横や全画面で操作可能に</title><link>https://gihyo.jp/article/2026/11/claude-whiteboards-and-sheets-and-data-and-interactive-connectors?utm_source=feed</link><description>[score: 0.887] Anthropicは2026年11月10日、Claude内で利用者やチームがAIと共同編集できる表計算機能
-Sheets、Whiteboards、Dataは全有料プラン、外部アプリをClaude内で開いて作業する機能は全プランを対象とする。
-Claude Sheetsでシートを共同編集
-Claude Sheetsは、Claudeに組み込まれた表計算機能。予算表や進捗管理表などを依頼すると、Claudeが複数のタブや数式、書式、ドロップダウンを備えたシートを作成する。利用者とチームのメンバー、Claudeが同じセルを編集でき、Claudeが変更した箇所は枠で囲まれる。数式はセルに残るため、各数値</description><guid isPermaLink="false">https://gihyo.jp/article/2026/11/claude-whiteboards-and-sheets-and-data-and-interactive-connectors?utm_source=feed</guid><pubDate>Wed, 11 Nov 2026 09:58:55 +0000</pubDate></item><item><title>Google製高性能AI「Gemini 4 Carbon」が一般公開される、複数のAIが協力する新機能で3Dゲームを制作するデモも披露</title><link>https://gigazine.net/news/20261111-gemini-4-carbon/</link><description>[score: 0.888] Googleは2026年11月10日にAIモデル「Gemini 4 Carbon」の一般提供を開始したと発表しました。Gemini 4 Carbonは複雑なプログラミングや科学研究、サイバーセキュリティ分野の作業に対応する高性能AIで、有料プラン「Google AI Ultra」のユーザーはGeminiアプリなどから利用できます。複数のAIが協力して長時間の作業を進める新機能「/swarm」も発表されています。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20261111-gemini-4-carbon/</guid><pubDate>Wed, 11 Nov 2026 09:01:39 +0000</pubDate></item><item><title>8日間でOSを完成させる高い能力を持つClaude Fable 5.2とMythos 5.2をリリース</title><link>https://ai.watch.impress.co.jp/docs/news/2155175.html</link><description>[score: 0.891] ニュース
-8日間でOSを完成させる高い能力を持つClaude Fable 5.2とMythos 5.2をリリース
-2026年11月10日 15:42
-Anthropicは、コーディング、推論、視覚などの分野で改良が加えられたClaude Fable 5.2とClaude Mythos 5.2をリリースした。FableとMythosは同じモデルを基盤にしているが、Fableは不正使用を防ぐための強力なサイバーセキュリティと生物学的保護機能を備えているため、誰でも利用することができる。
-価格は、入力トークン100万個あたり8ドル、出力トークン100万個あたり40ドル。Fable 5.2とMytho</description><guid isPermaLink="false">https://ai.watch.impress.co.jp/docs/news/2155175.html</guid><pubDate>Wed, 11 Nov 2026 03:08:34 +0000</pubDate></item><item><title>靖国神社運営サイトに不正アクセス 約1万4500件の情報漏えい</title><link>https://news.web.nhk/newsweb/na/nd-20261111de74452</link><description>[score: 0.891] 東京・千代田区の靖国神社は、お札やお守りなどの注文を受け付けるサイトが10月、不正アクセスを受け、会員の氏名やパスワードに関する情報などが外部に漏えいしたと発表しました。
-靖国神社によりますと、漏…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 11 Nov 2026 21:10:21 +0000</lastBuildDate><item><title>高市首相、G7欠席を木原稔官房長官が“飲酒はせず”と説明も「ではなぜ欠席？」二転三転の説明で広がる疑問 | 週刊女性PRIME</title><link>https://www.jprime.jp/articles/-/44587?display=b</link><description>[score: 0.861] 高市首相、G7欠席を木原稔官房長官が“飲酒はせず”と説明も「ではなぜ欠席？」二転三転の説明で広がる疑問 | 週刊女性PRIME 発端は10月2日、午後9時半から30分にわたって開催されたG7オンライン会議を高市首相が欠席したこと。首相は欠席理由を「開催時間が直前まで分からなかった」「オンライン環境の手配が間に合わなかった」などと説明していた。 「しかし会議の直前まで麻生太郎副総裁らと会食をしていたり、茂木敏充外相の説明が首相のもの...</description><guid isPermaLink="false">https://www.jprime.jp/articles/-/44587?display=b</guid><pubDate>Wed, 11 Nov 2026 20:45:52 +0000</pubDate></item><item><title>[Episode：6]終劇のシエル - 第２ベアコーポ | 少年ジャンプ＋</title><link>https://shonenjumpplus.com/episode/9253191257737707929</link><description>[score: 0.862] メールアドレスまたはパスワードが正しくありません※パスワードはアプリ版と共通化されました。詳しくはこちらからご確認ください。
+アプリ版で定期購読をご利用の方はこちらをご確認ください
+無料の会員登録（初回）で100ptプレゼント！
+利用規約に同意する
+※アプリ版をご利用の方は、アプリ版で会員登録の上、ブラウザ版でログインをお願いします。
+株式会社 集英社
+無料─Google Play
+ヨコに読みます
+詳細ページへのリンク
+トップページへ
+次回更新： 11月19日
+ポイント獲得しました
+2026年11月12日
+応援コメントを見る(-)
+クリップボードにコピーしました
+&lt;毎週木曜更新&gt;政府主導の計画</description><guid isPermaLink="false">https://shonenjumpplus.com/episode/9253191257737707929</guid><pubDate>Wed, 11 Nov 2026 20:35:10 +0000</pubDate></item><item><title>2カ月連続で脆弱性1,000件超え ～Microsoftが2026年11月「Windows Update」を実施／「緊急」は64件、悪用確認は「Outlook」の1件。企業・教育向け「Windows 11 23H2」は今回が最後</title><link>https://forest.watch.impress.co.jp/docs/news/2155377.html</link><description>[score: 0.862] ニュース
+2カ月連続で脆弱性1,000件超え ～Microsoftが2026年11月「Windows Update」を実施
+「緊急」は64件、悪用確認は「Outlook」の1件。企業・教育向け「Windows 11 23H2」は今回が最後
+2026年11月11日 11:01
+米Microsoftは11月10日（現地時間）、すべてのサポート中バージョンのWindowsに対し月例のセキュリティ更新プログラムをリリースした（パッチチューズデー）。現在、「Windows Update」や「Microsoft Update カタログ」などから入手可能。
+リリースノートの概要によると、今月のMicroso</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2155377.html</guid><pubDate>Wed, 11 Nov 2026 16:27:27 +0000</pubDate></item><item><title>「AIとのチャット記録」が漏えいか、Notion　委託先に不正アクセス</title><link>https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/</link><description>[score: 0.862] 「AIとのチャット記録」が漏えいか、Notion 委託先に不正アクセス クラウド型ワークスペース「Notion」を運営する米Notion Labsは11月9日（現地時間）、Notionで使えるAIサービス「Notion AI」のチャット記録が漏えいした恐れがあると発表した。委託先の米Fireworks.aiへの不正アクセスに起因するもの。影響範囲は全ワークスペースの1％未満としている。 Notion AIの利用状況を分析する...</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2611/11/2000003104/</guid><pubDate>Wed, 11 Nov 2026 13:49:41 +0000</pubDate></item><item><title>「アマゾンジャパン」に公取委が行政処分、他サイトの最安値以下の商品を「おすすめ出品」として優遇</title><link>https://www.yomiuri.co.jp/national/20261111-GYT1T00255/</link><description>[score: 0.862] 「アマゾンジャパン」に公取委が行政処分、他サイトの最安値以下の商品を「おすすめ出品」として優遇
+完了しました
+運営する通販サイトで競合他社サイトより安い商品を優遇し、出品者に値下げを余儀なくさせたのは独占禁止法違反の疑いがあるとして、公正取引委員会は１１日、米アマゾンの日本法人「アマゾンジャパン」（東京）に対し、同法に基づく行政処分「確約手続き」を適用した。表示方法を改めるとした同社の改善計画を認定した。
+同社が運営するアマゾンストアでは、同一商品が複数業者から出品された場合、他の通販サイトと同額以下の商品を「おすすめ出品」枠で扱い、購入ボタンや価格、配送条件などを優先的に表示している。購入商</description><guid isPermaLink="false">https://www.yomiuri.co.jp/national/20261111-GYT1T00255/</guid><pubDate>Wed, 11 Nov 2026 19:37:51 +0000</pubDate></item><item><title>アマゾンが予想外の打診、公取委が頼ったドイツ　攻防2年の舞台裏：朝日新聞</title><link>https://www.asahi.com/articles/ASVCC0SKNVCCUTIL024M.html</link><description>[score: 0.864] アマゾンが予想外の打診、公取委が頼ったドイツ 攻防2年の舞台裏
+ネット通販大手「アマゾンジャパン」を調査していた公正取引委員会は11日、同社が提出した改善計画を認め、調査を終了した。
+当初は長期化も予想された競争当局による巨大ネット企業の調査。どういう経緯で決着したのか。
+公取委の立ち入り検査は2024年11月。その翌日、当時の事務総長は定例記者会見で、検査に入ったことを発表した。
+公正取引委員会が、ネット通販大手アマゾンを2年にわたって調査。アマゾンの予想外の動きに、公取委は難しい判断を迫られていました。当局vs.巨大ネット企業の舞台裏。
+調査開始の段階で嫌疑内容にふれるのはまれ。だが、アマ</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVCC0SKNVCCUTIL024M.html</guid><pubDate>Wed, 11 Nov 2026 18:38:36 +0000</pubDate></item><item><title>ローカルLLMはゲーム開発に使えるか、スクウェア・エニックスがNemotronで検証</title><link>https://pc.watch.impress.co.jp/docs/news/2155676.html</link><description>[score: 0.864] ニュース
+ローカルLLMはゲーム開発に使えるか、スクウェア・エニックスがNemotronで検証
+2026年11月11日 20:29
+NVIDIA Japanは11月10日、開発者を対象とした特別イベント「Agentic AI Day Japan 2026」を開催した。イベントでは、NVIDIAが提供する最新のオープンモデルや、ライブラリ、データセットに関する技術解説に加え、実際にAIを業務で運用している各社の活用事例について紹介するデモセッションなどが行なわれた。
+本稿ではこれらの活用事例に関するデモセッションの中から、スクウェア・エニックスのAI&amp;エンジン開発ディビジョン所属AIエンジニアで</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2155676.html</guid><pubDate>Wed, 11 Nov 2026 16:27:27 +0000</pubDate></item><item><title>【Unity URP】モンスターの咆哮エフェクトを作る！極座標（atan2）の切れ目解消と3D座標追従の数学</title><link>https://qiita.com/YYYGame/items/a1a4f0091acd106019c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.865] アクションゲームでモンスターが咆哮した際や大爆発が起きた際、「ボスの口元を中心に空間が集中線状に歪む演出」を入れると画面の迫力が一気に跳ね上がります。
+しかし、いざシェーダー（HLSL）で中心からの角度（atan2
+）を使って放射状のノイズを作ろうとすると、以下の3つの罠にハマりがちです。
+- 画面比率（16:9など）の影響で、正円ではなく横長の楕円に歪んでしまう
+atan2
+の戻り値（$-\pi \sim \pi$）の境界である「左水平方向（180度）」にパキッとしたノイズの切れ目（シーム）が出る- 3D空間のボスの位置と、シェーダー内の2DスクリーンUV座標が一致しない
+本記事では、これら</description><guid isPermaLink="false">https://qiita.com/YYYGame/items/a1a4f0091acd106019c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 11 Nov 2026 20:30:43 +0000</pubDate></item><item><title>ダイキン、エヌビディアAIサーバー対応の冷却システム　標準設計を公開 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUF2621M0W6A021C2000000/</link><description>[score: 0.866] ダイキン、エヌビディアAIサーバー対応の冷却システム 標準設計を公開
+ダイキン工業は11日、米エヌビディアの最先端の人工知能（AI）サーバーに対応する大規模冷却システムの標準設計を公開したと発表した。冷却機器と制御機能などを統合し、顧客のデータセンター設計期間の短縮につなげる。
+データセンターの冷却事業を手掛けるダイキン・アプライド・アメリカズ（DAA、ミネソタ州）が公開した。サーバーのラック冷却やチラー（冷凍機）などの冷却設備、排熱や監視制御システムまでを、あらかじめ1つのシステムとして設計した。データセンターの開発事業者や設計者、運用事業者向けに提供する。
+エヌビディアの最先端AIサーバー</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUF2621M0W6A021C2000000/</guid><pubDate>Wed, 11 Nov 2026 20:39:27 +0000</pubDate></item><item><title>最近話題のMuseとは</title><link>https://qiita.com/kazutoyamaura/items/80488a5d5d1ad5a5fc46?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.866] はじめに
+Muse は、Meta 社（旧 Facebook）が提供するパーソナル AI エージェントです。2026年9月8日にサービスが始まり、アメリカ・カナダ・日本・シンガポールで提供されています。
+公式でも紹介されているとおり、Muse は利用者が普段行っているコミュニケーションのスタイルに沿って設計されています。そのため、まるで人と会話しているような感覚で使えるのが大きな特徴です。
+時間のかかるタスクについては、利用者がアプリを閉じた後も作業を続け、状況に変化があったときや、メールの送信、商品の購入など承認が必要になったときに通知します。また、Museは利用者にとって大切なことを記憶し、</description><guid isPermaLink="false">https://qiita.com/kazutoyamaura/items/80488a5d5d1ad5a5fc46?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 11 Nov 2026 20:30:43 +0000</pubDate></item><item><title>福島 いわき 男児死亡 母親が夏ごろ“県外に避難する”と説明</title><link>https://news.web.nhk/newsweb/na/nd-20261111de74482</link><description>[score: 0.867] 福島県いわき市で3歳の男の子が母親の交際相手から暴行を受け、その後、死亡した事件で、母親が交際相手からの暴力について相談したことし夏頃に一時、県外に避難すると警察に説明していたことが分かりました。事件…
 あわせて読みたい
 アマゾンジャパン 独禁法調査で改善計画を提出 公取委が承認
 11月11日 18:30
@@ -116,37 +53,109 @@ Anthropicは、コーディング、推論、視覚などの分野で改良が�
 11月11日 16:20
 日本医師会長“70歳以上の窓口負担 原則3割引き上げに反対”
 11月11日 18:14
-自民 森山前幹事長 石破氏ら4人“国</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de74452</guid><pubDate>Wed, 11 Nov 2026 12:38:26 +0000</pubDate></item><item><title>Claude内でAdobe製品やNotionなどを直接操作可能に、AIと一緒に写真編集や文書作成ができる新機能が登場</title><link>https://gigazine.net/news/20261111-claude-interactive-connectors-full-tool/</link><description>[score: 0.891] Claude内でAdobe製品やNotionなどを直接操作可能に、AIと一緒に写真編集や文書作成ができる新機能が登場
-AI開発企業のAnthropicが2026年11月10日に、チャットAI「Claude」の画面内でAdobe製品やNotionなどの外部アプリを直接操作できる新機能を発表しました。Claudeとの会話を続けながら写真やPDFを編集したり、Notionの文書を作成したりできるようになります。
-Open your apps in Claude and work in them together | Claude by Anthropic
-https://claude.com/ja/</description><guid isPermaLink="false">https://gigazine.net/news/20261111-claude-interactive-connectors-full-tool/</guid><pubDate>Wed, 11 Nov 2026 08:51:50 +0000</pubDate></item><item><title>情報漏えいリスク回避へ対策は？通販サイト閉鎖の企業も</title><link>https://news.web.nhk/newsweb/na/nd-20261111de73911</link><description>[score: 0.893] 企業の間で不正アクセスによる情報漏えいが相次ぐ中、自社の通販サイトを閉鎖したり、あらかじめ個人情報を持たないようにしたりする動きが広がっています。
-不正アクセス対策で“予防的にサイトを閉鎖”
-…
+自民 森山前幹事長 石破氏ら4人</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de74482</guid><pubDate>Wed, 11 Nov 2026 14:36:13 +0000</pubDate></item><item><title>Q Developer 改め AWS assistantに、共用アカウントの「お金の犯人」を聞いてみた</title><link>https://qiita.com/N-Kyo/items/e795b22a860566bc7b5b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.870] はじめに
+2026年11月5日、マネジメントコンソールに入っていたAmazon Q Developerが「AWS assistant」という名前に変わりました。
+Q Developerという名前は、前から聞いたことがありました。でも正直、何に使うものなのか予想できませんでした。「Q（クエスチョン）を開発？」と思っていたくらいです。
+名前がわかりやすくなったので、今回初めて使ってみました。同期と共用している検証アカウントで、「このアカウントで一番お金がかかっているサービス」を聞いてみたところ、犯人は名前も知らなかったサービスでした。しかも、AWS assistantに聞くこと自体にも少しお金がか</description><guid isPermaLink="false">https://qiita.com/N-Kyo/items/e795b22a860566bc7b5b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 11 Nov 2026 20:30:43 +0000</pubDate></item><item><title>インシデント調査報告書チェックリスト公開のお知らせ</title><link>https://www.jpcert.or.jp/ir_report_checklist_20261111.html</link><description>[score: 0.870] インシデント調査報告書チェックリスト公開のお知らせ 一般社団法人JPCERTコーディネーションセンター（東京都中央区、代表理事 菊池 浩明、以下「JPCERT/CC」）は、本日「インシデント調査報告書チェックリスト」を公開いたしました。 ・インシデント調査報告書チェックリスト https://jpcertcc.github.io/ir_report_checklist/（GitHub上で公開しています） 昨今、ランサム...</description><guid isPermaLink="false">https://www.jpcert.or.jp/ir_report_checklist_20261111.html</guid><pubDate>Wed, 11 Nov 2026 20:39:27 +0000</pubDate></item><item><title>【改定前受験推奨】Claude Certified Architect – Professional（CCAR-P）本日受験してきました。【合格体験記】</title><link>https://qiita.com/takeshi_Qiita/items/a84c8eab09c878071daa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.876] はじめに
+- Claude 認定の最上位 Professionalにあたる CCAR-P に 837点で合格しました。
+- 勉強は、CCDV-F 合格後に みのるんさんの問題集を2周しました。
+- 重要な注意：2026年12月7日（月）から CCAO-F・CCDV-F・CCAR-P の出題内容が改訂されます（Pearson VUE の案内より）。
+前回の【合格体験記】Claude Certified Developer–Foundations の続報です。
+試験概要
+| 項目 | 内容 |
+|---|---|
+| 試験コード | CCAR-P（Claude Certified Architec</description><guid isPermaLink="false">https://qiita.com/takeshi_Qiita/items/a84c8eab09c878071daa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 11 Nov 2026 20:30:43 +0000</pubDate></item><item><title>広島 福山 2階建て住宅全焼 家族5人のうち3人と連絡取れず</title><link>https://news.web.nhk/newsweb/na/nd-20261112de74516</link><description>[score: 0.876] 11日夜、広島県福山市で住宅が全焼する火事がありました。この家に住む家族5人のうち3人と連絡が取れておらず、警察と消防が安否の確認を進めています。
+11日午後11時55分すぎ、福山市新市町戸手で、…
 あわせて読みたい
-【情報漏えい】対策どうする 二次被害に遭わないためには
-日本はなぜ狙われる？サイバー攻撃 生活にも影響
-11月7日 18:14
-徹底解説 相次ぐ不正アクセスなぜ？情報守るためにできること
-11月6日 19:08
-国際ハッカー集団“日本企業はぜい弱性を放置”取材に回答
-11月6日 19:55
-情報漏えいリスク回避へ対策は？「個人情報持たない」企業も
-11月6日 19:31
-ニトリに不正</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de73911</guid><pubDate>Wed, 11 Nov 2026 10:43:04 +0000</pubDate></item><item><title>エヌビディアCEOと中国スパイ疑惑の女性の関係、トランプ氏は訪中時に報告を受けていた　情報筋</title><link>https://www.cnn.co.jp/usa/35254735.html</link><description>[score: 0.894] トランプ大統領がエヌビディアのジェンスン・フアンCEOに「国家科学メダル」を授与した後、フアン氏と並ぶ様子＝10月8日、米首都ワシントン/Evan Vucci/Reuters/FILE （CNN） トランプ米大統領は5月、中国へ向かう大統領専用機「エアフォースワン」の機内でルビオ国務長官から、半導体大手エヌビディアのジェンスン・フアン最高経営責任者（CEO）が中国のスパイ疑惑のある人物と関係を持っているとの情報について報告を受けていた。事情に詳しい情報筋がCNNに明らかにした。 トランプ氏は9日、当時この疑惑を知っていたことを公の場で否定した。 だが情報筋によると、この問題が話し合われたのは北</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35254735.html</guid><pubDate>Wed, 11 Nov 2026 10:48:09 +0000</pubDate></item><item><title>Claude Code チートシート — 私が毎日本当に使うコマンド15選</title><link>https://qiita.com/TOMOSIA-HieuNT/items/b19c46ec77d3bdcab4fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.896] ※ この記事の日本語には、少し不自然な部分があるかもしれません。AIの言語サポートを利用しながら作成しています。
-目次
-- はじめに
-- 1. 3つのモード — 最初に正しく選ぶ
-- 2. よく使う7つのスラッシュコマンド
-- 3. コンテキスト管理 — 一番大切なスキル
-- 4. CLAUDE.md — AIとの契約書
-- 5. セキュリティ — AIに秘密情報を読ませない
-- 6. 権限 — 信頼にはレベルがある
-- 7. 毎日使う3つのコンボ
-- 8. 小さなコツ — でも時間を節約できる
-- 9. モデル選択 — いつも最強のモデルを使わない
-- 10. One-shotモードで自動化</description><guid isPermaLink="false">https://qiita.com/TOMOSIA-HieuNT/items/b19c46ec77d3bdcab4fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 11 Nov 2026 08:12:59 +0000</pubDate></item><item><title>楽天と米ASTが「Rakuten AST」設立、スマホと衛星の直接通信　29年3月末までの国内運用を目指す</title><link>https://k-tai.watch.impress.co.jp/docs/news/2154954.html</link><description>[score: 0.906] ニュース
-楽天と米ASTが「Rakuten AST」設立、スマホと衛星の直接通信 29年3月末までの国内運用を目指す
-2026年11月9日 19:34
-楽天と米AST SpaceMobileは9日、日本における衛星通信基盤を構築する「Rakuten AST」の設立に合意したと発表した。総務省のJ-LEO計画による支援を受け、市販スマートフォンと直接通信できる自国主導のインフラを2029年3月末までに運用開始する。
-「Rakuten AST」を設立
-楽天が51％、ASTが49％を出資して日本法人となる「Rakuten AST」を設立した。代表取締役社長CEOには楽天モバイルの大坂亮二氏が就任する</description><guid isPermaLink="false">https://k-tai.watch.impress.co.jp/docs/news/2154954.html</guid><pubDate>Wed, 11 Nov 2026 09:32:19 +0000</pubDate></item><item><title>立花孝志党首、逮捕から1年も勾留続く…SNSでは「いくら何でも長すぎる」の声　弁護士が解説（弁護士ドットコムニュース） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/bfd8f80c3f1f8116d1e38515377dabc759146b13</link><description>[score: 0.906] 立花孝志党首、逮捕から1年も勾留続く…SNSでは「いくら何でも長すぎる」の声 弁護士が解説（弁護士ドットコムニュース） - Yahoo!ニュース 立花孝志党首（弁護士ドットコム撮影）政治団体「NHKから国民を守る党」の立花孝志党首が逮捕されてから11月9日で1年が過ぎました。 これはひどい…立花氏「削除させて頂きました」 立花氏は、亡くなった元兵庫県議への名誉毀損の容疑で2025年11月に逮捕され、その後勾留が続いています。少なくとも2度、保釈を求めていま...</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/bfd8f80c3f1f8116d1e38515377dabc759146b13</guid><pubDate>Wed, 11 Nov 2026 12:19:55 +0000</pubDate></item><item><title>「Fable 5.2」の用途は？　Claudeモデルの選び方、Anthropicが基本を解説</title><link>https://www.itmedia.co.jp/aiplus/article/2611/10/2000003061/</link><description>[score: 0.908] 「Fable 5.2」の用途は？ Claudeモデルの選び方、Anthropicが基本を解説 米Anthropicは11月9日（現地時間）、「Claude」のモデルの選び方を公式ブログで解説した。最新モデル「Fable 5.2」に加え、「Haiku 5.5」「Sonnet 5.5」「Opus 5.5」を「Claude Code」や「Claude Platform」上でどのように使い分けるべきか紹介している。 ブログでは、まず多くのタスクでOpus 5.5を、出力にかけるトーク...</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2611/10/2000003061/</guid><pubDate>Wed, 11 Nov 2026 07:13:57 +0000</pubDate></item></channel></rss>
+アマゾンジャパン 独禁法調査で改善計画を提出 公取委が承認
+11月11日 18:30
+2026年度の国家公務員の給与引き上げ 改正給与法が成立
+11月11日 15:58
+国民健康保険料 高所得層の年間上限額 来年度3万円引き上げへ
+11月11日 16:20
+日本医師会長“70歳以上の窓口負担 原則3割引き上げに反対”
+11月11日 18:14
+自民 森山前幹事長 石破氏ら4人“国</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261112de74516</guid><pubDate>Wed, 11 Nov 2026 20:22:18 +0000</pubDate></item><item><title>「画面数×人月」はもう通じない？見積もり単位の変遷と、バイブコーディング時代の見積もり書</title><link>https://qiita.com/TH_stickey/items/f55fb76055988cf9d0ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] はじめに
+最近、発注側からこう聞かれることが増えました。「AIで作るなら、もっと安くなりますよね？」半分はその通りで、半分は違います。
+実際に値引きを求められたときは、こう説明しました。
+意思決定が不要なフェーズであれば、短縮可能です。しかし、何を目的として何を実現したいか、それはどういうものか（画面デザイン）、何が必要か（機能一覧）、どうなっていたら実現できたと言えるか（受入テスト）といった、人間の意思が必要な部分は短縮が難しいです。
+本音を言えば、全部AIが出した案で良ければいくらでも短縮できます。ただし、それでダメだったとしても責任は取れません。
+この記事では次の3つを扱います。
+- 見</description><guid isPermaLink="false">https://qiita.com/TH_stickey/items/f55fb76055988cf9d0ad?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 11 Nov 2026 20:30:43 +0000</pubDate></item><item><title>AIに書かせた、が全然AIが書いてない件</title><link>https://zenn.dev/appleworld/articles/65aed6c725af71</link><description>[score: 0.878] こんにちは。株式会社アップルワールド プロダクト開発部 グローバルグループの室です。 私もAIに記事を書かせたい。ここに書くのは、自分の文体で書かせようとした休日一日の記録で、中身はほぼ愚痴である。 自分で書けるのに任せるのは、積み上がると踏んだからだ。文体の指示書は、直すたびに次の初稿が良くなる。それが本当なら、いまの手間は払う価値がある。この賭けの記録でもある。 1. 何を作っていたか 技術記事を投稿するように言われているので、投稿までを自動にする仕組みを作っていた。Slackのコマンドでお題とメモをストックしておくと、毎朝1本、記事の下書きが出来てGitHubに置かれ、Slac...</description><guid isPermaLink="false">https://zenn.dev/appleworld/articles/65aed6c725af71</guid><pubDate>Wed, 11 Nov 2026 13:15:59 +0000</pubDate></item><item><title>Z世代がAIブームから一斉に「ログアウト」し始めた深刻な理由　米国 | Forbes JAPAN 公式サイト（フォーブス ジャパン）</title><link>https://forbesjapan.com/articles/detail/107841</link><description>[score: 0.880] Z世代がAIブームから一斉に「ログアウト」し始めた深刻な理由 米国 | Forbes JAPAN 公式サイト（フォーブス ジャパン） 企業と若者の間には、意識の大きな断絶がある。大半のテック企業、ブランド、そして取締役会がAI活用を極限まで推し進める一方で、若者たちはむしろログアウトしようとしている。ブランドや雇用主は、若者たちをAIブームに巻き込もうと苦心しているのだ。ギャラップの調査によると、Z世代は昨年と比べて明らかにAIへの期...</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107841</guid><pubDate>Wed, 11 Nov 2026 16:27:27 +0000</pubDate></item><item><title>中野ブロードウェイ 時計窃盗事件 偽名でコンビニから返送か</title><link>https://news.web.nhk/newsweb/na/nd-20261111de74478</link><description>[score: 0.881] 先月、東京・中野区の商業施設「中野ブロードウェイ」に入る時計店でおよそ4600万円相当の高級腕時計を盗んだとして30歳の容疑者が逮捕された事件で、容疑者が事件の後、偽名を使って時計を名古屋市内のコンビ…
+あわせて読みたい
+アマゾンジャパン 独禁法調査で改善計画を提出 公取委が承認
+11月11日 18:30
+2026年度の国家公務員の給与引き上げ 改正給与法が成立
+11月11日 15:58
+国民健康保険料 高所得層の年間上限額 来年度3万円引き上げへ
+11月11日 16:20
+日本医師会長“70歳以上の窓口負担 原則3割引き上げに反対”
+11月11日 18:14
+自民 森山前幹事長 石破氏ら4人</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de74478</guid><pubDate>Wed, 11 Nov 2026 20:22:18 +0000</pubDate></item><item><title>円相場1ドル＝159円台後半 FRBの追加利上げ観測で</title><link>https://news.web.nhk/newsweb/na/nd-20261112de74514</link><description>[score: 0.883] 11日の外国為替市場ではアメリカのFRB＝連邦準備制度理事会が来月の会合で追加の利上げに踏み切るとの観測から円を売ってドルを買う動きが進み、円相場は一時、1ドル＝159円台後半まで値下がりしました。こ…
+注目ワード
+あわせて読みたい
+アマゾンジャパン 独禁法調査で改善計画を提出 公取委が承認
+11月11日 18:30
+2026年度の国家公務員の給与引き上げ 改正給与法が成立
+11月11日 15:58
+国民健康保険料 高所得層の年間上限額 来年度3万円引き上げへ
+11月11日 16:20
+日本医師会長“70歳以上の窓口負担 原則3割引き上げに反対”
+11月11日 18:14
+自民 森山前幹事長 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261112de74514</guid><pubDate>Wed, 11 Nov 2026 19:26:14 +0000</pubDate></item><item><title>ロシア・ウクライナ協議、捕虜交換など一定の進展 領土問題では隔たり - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPU2VUbjd6cTdFVjZrZWM1OEJfMjEwSXVvRHJmeEE2X19JMTJvRUV0U1lDUWR0cDRFVzFHQ1BITVhXeDdqczd0enQ0WUFZN25fYWlqbHE0ejFNcGVMUWlDS0xQam02d0Q2c2xVemlORmJQX1N1SjlJRk9SZEpWdjhkZFVDTFJoZw?oc=5</link><description>[score: 0.883] ロシア・ウクライナ協議、捕虜交換など一定の進展 領土問題では隔たり Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxPU2VUbjd6cTdFVjZrZWM1OEJfMjEwSXVvRHJmeEE2X19JMTJvRUV0U1lDUWR0cDRFVzFHQ1BITVhXeDdqczd0enQ0WUFZN25fYWlqbHE0ejFNcGVMUWlDS0xQam02d0Q2c2xVemlORmJQX1N1SjlJRk9SZEpWdjhkZFVDTFJoZw?oc=5</guid><pubDate>Wed, 11 Nov 2026 15:18:35 +0000</pubDate></item><item><title>《減税退席で戒告処分》石破茂前首相が語った“ショート動画政治”の問題点「『消費税を減税すると何が起こるか』なんぞということが1分で分かりますかね？」 | 文春オンライン</title><link>https://bunshun.jp/articles/-/93610</link><description>[score: 0.886] 消費減税関連法案の衆院採決直前に退席し、自民党から戒告処分を受けた石破茂前首相（69）が「週刊文春」の取材に応じ、高市政権の支持率が下がらない理由や、石破政権との差などについて見解を示した。
+4人の処分には首相の強い意向が
+石破氏や小渕優子元選対委員長ら4人は11月6日に行われた消費減税関連法案の衆院採決を直前に退席。これを受け、自民党は11月9日、4人を戒告処分とすることを決めた。総裁経験者への戒告処分は初のことだ。
+「減税法案は高市早苗首相が『悲願』としてきた重要政策。それだけに首相は石破氏をはじめとする4人の処分に強い意向を持っていました」（政治部記者）
+高市政権は各種世論調査で軒並み5</description><guid isPermaLink="false">https://bunshun.jp/articles/-/93610</guid><pubDate>Wed, 11 Nov 2026 14:09:47 +0000</pubDate></item><item><title>アメリカ・ロシア・ウクライナ高官協議 大規模捕虜交換で合意</title><link>https://news.web.nhk/newsweb/na/nd-20261110de73734</link><description>[score: 0.888] ロシアとウクライナの和平をめぐるアメリカも交えた3か国の高官協議の2日目の協議が11日、UAE＝アラブ首長国連邦の首都アブダビで行われました。
+ロシア国営のタス通信によりますと、2日目の協議はおよ…
+あわせて読みたい
+太平洋クロマグロ漁獲枠の配分 韓国・台湾と合意に至らず
+11月11日 17:45
+ロシアによる北海道新聞記者の拘束続く 日本新聞協会が声明
+11月11日 17:31
+韓国ソウル近郊 路線バスが信号待ちの車に次々に衝突 57人けが
+11月11日 13:35
+“トランプ大統領とネタニヤフ首相が電話会談どなり合い”報道
+11月11日 15:20
+アメリカ ヘグセス国防長官の弾劾決議案 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261110de73734</guid><pubDate>Wed, 11 Nov 2026 17:30:43 +0000</pubDate></item><item><title>COP31首脳級会合 国連事務総長“気候変動に対策追いつかず”</title><link>https://news.web.nhk/newsweb/na/nd-20261111de74479</link><description>[score: 0.889] トルコで開かれている気候変動対策を話し合う国連の会議「COP31」で、11日、首脳級会合が始まり、国連のグテーレス事務総長は気候変動のスピードに対策が追いついていないとして、化石燃料への依存からの脱却…
+あわせて読みたい
+太平洋クロマグロ漁獲枠の配分 韓国・台湾と合意に至らず
+11月11日 17:45
+ロシアによる北海道新聞記者の拘束続く 日本新聞協会が声明
+11月11日 17:31
+韓国ソウル近郊 路線バスが信号待ちの車に次々に衝突 57人けが
+11月11日 13:35
+“トランプ大統領とネタニヤフ首相が電話会談どなり合い”報道
+11月11日 15:20
+アメリカ ヘグセス国防長官の弾劾決議</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de74479</guid><pubDate>Wed, 11 Nov 2026 20:22:18 +0000</pubDate></item><item><title>PRの脆弱性をAIが直す「CodeMender」を見て、新卒が基礎を学ぶ理由を考えた</title><link>https://qiita.com/N-Kyo/items/23697fc1e92c288b426b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] はじめに
+2026年11月、Google Cloudのブログで、CodeMenderをGitHubのプルリクエスト（PR）に組み込む構成が紹介されました。CodeMenderは、コードの脆弱性を見つけて直してくれるGoogleのAIエージェントです。
+タイトルだけ見たとき、正直「また一段と便利な世の中になった」と思いました。
+PRを出せばAIが脆弱性を見つけて、修正まで作ってくれるからです。
+でも、読んでいくうちに考えが変わりました。実際の精度はわからないし、逆に人間の口数が増えることもありそうです。そして一番気になったのは、AIに頼るほど、自分で判断する力が育たなくなるのではないかということ</description><guid isPermaLink="false">https://qiita.com/N-Kyo/items/23697fc1e92c288b426b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 11 Nov 2026 20:30:43 +0000</pubDate></item><item><title>トランプ氏、天国に行くためでも敵を許さない「これからもずっと憎み続ける」</title><link>https://www.afpbb.com/articles/-/3661933</link><description>[score: 0.890] トランプ氏、天国に行くためでも敵を許さない「これからもずっと憎み続ける」
+このニュースをシェア
+【11月11日 AFP】ドナルド・トランプ米大統領の政治的信条は「戦え、戦え、戦え」だ。しかし、共和党が中間選挙で惨敗した後も戦い続けるのかどうかについて、トランプ氏は相反するメッセージを発している。
+中間選挙で敗北し「レームダック（死に体）」となってからの1週間、トランプ氏は不法移民の大規模な強制送還政策について「厳しすぎた」と認める一方、移民強硬派のスティーブン・ミラー大統領次席補佐官を首席補佐官に昇進させた。
+また、中間選挙での主な敗因は対イラン戦争だったとも認める一方、弾劾訴追の動きに直面す</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3661933</guid><pubDate>Wed, 11 Nov 2026 19:54:55 +0000</pubDate></item><item><title>Claude Codeが「私が言っていない同意」を書いて、それに従って動く — 自分のログで数えてみた（解析①）</title><link>https://qiita.com/Pulsar-K/items/4abdd463cdc2e1c55e3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.894] Anthropic公式リポジトリの anthropics/claude-code#44778 に投稿した英語レポート（1本目）を、読みやすく書き直したものです。原文に忠実な全訳は Zenn版 にあります。
+どんな現象か
+Claude Codeと長く会話していると、ときどきこういうことが起きます。
+- モデルが自分の返答を書き終える
+- そのまま止まらず、次の「ユーザーの発言」まで自分で書いてしまう
+- 次のターンで、その架空の発言を本物のユーザー発言として扱い、「ユーザーが同意したので進めます」と作業を続ける
+画面には、返答の末尾に user
+というラベルと、私が打っていない一言が出ます。内容</description><guid isPermaLink="false">https://qiita.com/Pulsar-K/items/4abdd463cdc2e1c55e3d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 11 Nov 2026 20:30:43 +0000</pubDate></item><item><title>フィリピン外相 南シナ海の紛争防止ルールで論点の8割議論</title><link>https://news.web.nhk/newsweb/na/nd-20261111de74484</link><description>[score: 0.896] ASEAN＝東南アジア諸国連合の首脳会議が今月開かれるのを前に議長国フィリピンの外相がNHKのインタビューに応じ、南シナ海での紛争を防ぐために中国などと協議している「行動規範」について、論点全体の8割…
+あわせて読みたい
+太平洋クロマグロ漁獲枠の配分 韓国・台湾と合意に至らず
+11月11日 17:45
+ロシアによる北海道新聞記者の拘束続く 日本新聞協会が声明
+11月11日 17:31
+韓国ソウル近郊 路線バスが信号待ちの車に次々に衝突 57人けが
+11月11日 13:35
+“トランプ大統領とネタニヤフ首相が電話会談どなり合い”報道
+11月11日 15:20
+アメリカ ヘグセス国防長官の弾劾決議</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de74484</guid><pubDate>Wed, 11 Nov 2026 20:22:18 +0000</pubDate></item><item><title>欧州外為市場＝ドル上昇、米12月利上げ織り込む ユーロ1年半ぶり安値 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFB5Q0Y0ZE45U2YtU09YVDkxTklzVno3OU01NlV6VXVxZXBaY3N3bUtsTkM1VUdmcVYyRjhScVVJYThWdHBKcUZNcXc0MmxNamNHRXlpYUdJOTQzSTlWcTZoLXo2QWNpbXc2ckFtNWdlQVY4a1JqUGh4UnNLX1pKdw?oc=5</link><description>[score: 0.901] 欧州外為市場＝ドル上昇、米12月利上げ織り込む ユーロ1年半ぶり安値 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFB5Q0Y0ZE45U2YtU09YVDkxTklzVno3OU01NlV6VXVxZXBaY3N3bUtsTkM1VUdmcVYyRjhScVVJYThWdHBKcUZNcXc0MmxNamNHRXlpYUdJOTQzSTlWcTZoLXo2QWNpbXc2ckFtNWdlQVY4a1JqUGh4UnNLX1pKdw?oc=5</guid><pubDate>Wed, 11 Nov 2026 19:28:51 +0000</pubDate></item><item><title>日々アップデートを重ねる「yomiyasu」、日本語の推敲はどう変わる？v1.0.1・v2.5.0・v3.0.0に同じ文章を通して比べてみた</title><link>https://qiita.com/inoyu-qiita/items/b0a7aee8d9f97cc21e2c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.904] はじめに
+ローンチから約1.5ヶ月、日本語の推敲を助けるスキル「yomiyasu」が、v3.0.0へメジャーアップデートされました！
+以前、yomiyasu v1.0.1を含む3つの日本語推敲スキルへ、同じAIっぽい文章を渡して比較しました。そのときのyomiyasuは、文章の構成と熱量を残しながら、一部の比喩と太字を外す結果でした。
+ありがたいことに、以前の記事をXで引用していただきました。
+個性を残すならyomiyasu、構成からならnatural-japanese。私はこの使い分けを知ってから推敲が楽になった
+ただ、当時の記事はv1.0.1での比較結果をまとめたものです。
+多くの方に見て</description><guid isPermaLink="false">https://qiita.com/inoyu-qiita/items/b0a7aee8d9f97cc21e2c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 11 Nov 2026 20:30:43 +0000</pubDate></item></channel></rss>
