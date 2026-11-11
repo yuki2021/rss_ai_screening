@@ -1,61 +1,152 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 11 Nov 2026 00:59:25 +0000</lastBuildDate><item><title>「パスカル」のブランドチェッカーが「GoogleのAIモード」対応、「ChatGPT」「Gemini」と言及率を比較</title><link>https://webtan.impress.co.jp/n/2026/11/11/53587</link><description>[score: 0.875] 「パスカル」のブランドチェッカーが「GoogleのAIモード」対応、「ChatGPT」「Gemini」と言及率を比較 オロパス、SEO/LLMO/AIO統合ツールが3つのAI検索で自社と競合の言及状況を定点観測 noboru.kojima 2026年11月11日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 SEO(検索エンジン最適化)/LLMO(大規模言語モデル最適化)/AIO(AI検索最適化)ツール「パスカル」を提供するオロパスは、パスカルのブランドモニタリング機能「ブランドチェッカー」に「GoogleのAIモード」を計測対象に追加したと11月10日に発表した。これ</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/11/11/53587</guid><pubDate>Tue, 10 Nov 2026 22:57:10 +0000</pubDate></item><item><title>内部調査が明かすアンソロピックの実態…驚異の開発スピードの秘密が明らかに</title><link>https://www.businessinsider.jp/article/2611-anthropic-internal-investigation-development-speed/</link><description>[score: 0.876] - 第三者機関の安全性研究者がアンソロピックの本社に常駐してまとめた報告書を11月5日に公開した。
-- METRの研究者は、アンソロピックが将来のAIモデルの訓練にAIを利用していることを突き止めた。
-- 研究者は、アンソロピックが報告書を徹底的に検閲したと述べた。
-アンソロピック（Anthropic）は既存のAIモデルを活用して、驚異的なスピードで将来のAIモデルを訓練している。また、未公開のモデルも大量に蓄積している。
-これは、同社のサンフランシスコ本社に入り込んだ第三者機関の安全性研究者が木曜日に公開した報告書によって明らかになったことだ。研究者は、アンソロピックの要求によって報告書のか</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-anthropic-internal-investigation-development-speed/</guid><pubDate>Tue, 10 Nov 2026 21:57:02 +0000</pubDate></item><item><title>2026年10月には何が話題になった？ サイバー攻撃による情報漏えいや「KAITO」など【週間ランキング】</title><link>https://webtan.impress.co.jp/e/2026/11/11/53589</link><description>[score: 0.880] 2026年10月には何が話題になった？ サイバー攻撃による情報漏えいや「KAITO」など【週間ランキング】 webtan 2026年11月11日 Web担人気記事ランキング シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 2026年11月4日～2026年11月10日にアクセス数の多かった記事のランキングを発表！ 見逃している人気記事はありませんか？ ななめ読み・Web界隈トピックス 2026年10月にはどんなことが話題になった？ ネットの流行りを振り返る XをはじめとしたSNSのネットミーム、ネットの流行りなど直近1か月を振り返ります。 影山 守 11月6日 7:05 W</description><guid isPermaLink="false">https://webtan.impress.co.jp/e/2026/11/11/53589</guid><pubDate>Tue, 10 Nov 2026 22:57:10 +0000</pubDate></item><item><title>赤字を悟ったAIは“引きこもった”　PwCが実店舗で検証した「AI自律運営」の限界</title><link>https://www.itmedia.co.jp/enterprise/articles/2611/11/news020.html</link><description>[score: 0.881] PwC Japanグループは、AIエージェントに店舗運営の経営判断まで委ねる実証実験を東京オフィスで実施した。AIは約2週間、人の介入なしに実店舗を運営し続けたという。AIに経営は任せられるのか。10領域の専門家による検証から見えた結論とは。
-この記事は会員限定です。会員登録すると全てご覧いただけます。
-AIエージェントは、業務を自律的に担う実行主体へと役割を変えつつある。一方で、委ねる範囲が広がるにつれて課題も表面化してきた。PwC Japanグループ（以下、PｗC）によると、AIが年度予算を短期間で使い切ったり、自らの失敗に気付かないままユーザーのファイルを消失させたり、人がAIの出力を確</description><guid isPermaLink="false">https://www.itmedia.co.jp/enterprise/articles/2611/11/news020.html</guid><pubDate>Wed, 11 Nov 2026 00:07:04 +0000</pubDate></item><item><title>GoogleのAIツール「Antigravity」に実装された“AI軍団が掲示版を使って仕事を進める新機能”がやばそうすぎる | ギズモード・ジャパン</title><link>https://www.gizmodo.jp/article/2611-google-antigravity-swarm/</link><description>[score: 0.881] GoogleのAIツール「Antigravity」に実装された“AI軍団が掲示版を使って仕事を進める新機能”がやばそうすぎる | ギズモード・ジャパン 1000体起動とかもできちゃいそう（予算が許すなら）。 2026年11月11日未明、Googleが同社のAIツール「Antigravity」に /swarm という機能をプレビュー実装すると発表しました。現時点ではAI Ultra加入者しか利用... atyks</description><guid isPermaLink="false">https://www.gizmodo.jp/article/2611-google-antigravity-swarm/</guid><pubDate>Wed, 11 Nov 2026 00:07:04 +0000</pubDate></item><item><title>AIデータセンターが変える電力網　浮かび上がる皮肉な現実</title><link>https://forbesjapan.com/articles/detail/108034?s=ns</link><description>[score: 0.881] 米国のある電力会社は最近、AIデータセンターに電力を供給するため、4万9000人の顧客への電力供給を削減すると通知した。この決定は、はるかに大きな問題の初期的な兆候かもしれない。AI企業が大規模な新設データセンターの建設を急ぐなか、老朽化した米国の電力網の一部が対応できる速度を上回って、電力需要が急増している。
-その結果、電力不足時に誰が電力を得るのか、消費者がいくら電気代を支払うのか、そしてなぜより多くの家庭や企業が信頼性を求めて屋根設置型の太陽光発電や蓄電池システムに目を向けるようになるのか、その構図が塗り替えられる可能性がある。
-農村部の農場から都市部のアパートまで、すべての人に信頼性が</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108034?s=ns</guid><pubDate>Tue, 10 Nov 2026 23:31:33 +0000</pubDate></item><item><title>米国株式市場＝反落、インフレ指標とＦＲＢ高官発言受け利上げ観測高まる - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPVnBxVnJwOVRGZjFnSnhOdkRGQ2t1QURxdFFfRDdBcExYMlhSV1VxUldNX3ZlRFNfbFByaXgtRFdDaE85dTVKcHVtTXlCOTZzQ3Niak9zMW52N2ZpTVVJVXZIWUJHSnZrazhwMXVlNGd3MkhYOGlVQlpDcFR1V2Nhc21hZmV1Zw?oc=5</link><description>[score: 0.881] 米国株式市場＝反落、インフレ指標とＦＲＢ高官発言受け利上げ観測高まる Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxPVnBxVnJwOVRGZjFnSnhOdkRGQ2t1QURxdFFfRDdBcExYMlhSV1VxUldNX3ZlRFNfbFByaXgtRFdDaE85dTVKcHVtTXlCOTZzQ3Niak9zMW52N2ZpTVVJVXZIWUJHSnZrazhwMXVlNGd3MkhYOGlVQlpDcFR1V2Nhc21hZmV1Zw?oc=5</guid><pubDate>Tue, 10 Nov 2026 22:07:10 +0000</pubDate></item><item><title>民主党の圧勝がAI相場とデータセンターに与える「打撃」について、テック大手や市場関係者が見解</title><link>https://www.businessinsider.jp/article/2611-democrats-victory-ai-market-data-center-impact/</link><description>[score: 0.882] - 中間選挙の結果を受け、アメリカがAIインフラの整備にブレーキをかけようとしているのではないかという懸念が高まっている。
-- 投資家は、民主党の圧勝によって、データセンター建設に対する規制や監視が厳しくなることを警戒している。
-- その結果、AI相場は二極化し、新たな勝ち組と負け組に分かれる可能性がある。
-「青い津波（blue tsunami）」と呼ばれる中間選挙での民主党の圧勝劇が、AI関連株投資に強気だった「AI相場」に修正を迫りつつある。
-中間選挙翌々日の11月5日の株式市場は大きく売り込まれた。前日の4日には選挙後の高揚感からダウ平均株価が上昇し、過去18カ月で最高の1日を記録したば</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-democrats-victory-ai-market-data-center-impact/</guid><pubDate>Tue, 10 Nov 2026 23:01:55 +0000</pubDate></item><item><title>米クラウドのコアウィーブ、四半期売上高が堅調 通期予想引き上げ - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE1yLU83Q1dKZFptZUpTWUU3cXRpRFc5YVhKRUN3a0VnYkpaZHd3MEdiXzFMXzltNGVVSFVOM01nN0lfZXlWQWlhZ2JPMU9UZldPOHEyMDZSQm96MGxnUTN2SWVMZ0stVFl1dU1JUW92c2tOdzBSQV9rX284eUlKQQ?oc=5</link><description>[score: 0.884] 米クラウドのコアウィーブ、四半期売上高が堅調 通期予想引き上げ Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE1yLU83Q1dKZFptZUpTWUU3cXRpRFc5YVhKRUN3a0VnYkpaZHd3MEdiXzFMXzltNGVVSFVOM01nN0lfZXlWQWlhZ2JPMU9UZldPOHEyMDZSQm96MGxnUTN2SWVMZ0stVFl1dU1JUW92c2tOdzBSQV9rX284eUlKQQ?oc=5</guid><pubDate>Tue, 10 Nov 2026 22:07:10 +0000</pubDate></item><item><title>AIは仕事を奪うのではなく、仕事そのものを変える</title><link>https://wired.jp/article/sz-instead-of-taking-your-job-ai-might-transform-it/</link><description>[score: 0.885] 高校時代のひと夏、わたしはコンサルティング会社でコンピュータープログラムを書くアルバイトをした。毎朝ラッシュアワーの時間帯にクルマを1時間運転し、渋滞する国道1号線沿いにある、ニュージャージー州プリンストン近郊のビジネスパークまで通った。
-機材室のような部屋の机に座り、社内で使う簡易的なデータベースツールのコードを書いていた。わたしが書いたプログラムのひとつは、勤務時間を勤務表に入力する作業を簡略化するものだった。もうひとつは、IT部門の在庫管理ツールだった。そこで働く人たちの業務環境を少しでも改善する方法を見つけることが、わたしの役目だった。
-長いこと、そのアルバイトについて考えることはなか</description><guid isPermaLink="false">https://wired.jp/article/sz-instead-of-taking-your-job-ai-might-transform-it/</guid><pubDate>Tue, 10 Nov 2026 23:03:34 +0000</pubDate></item><item><title>「AIはバブルではない」との主張、まだAI企業が成長する余地はあるのか？</title><link>https://gigazine.net/news/20261111-not-convinced-ai-bubble-exists/</link><description>[score: 0.885] 「AIはバブルではない」との主張、まだAI企業が成長する余地はあるのか？
-AIの市場規模は急速に拡大しつつあり、2030年には4兆2000億ドル(約660兆円)に達するとの予測もありますが、一方で「AIブームはバブルに過ぎない」と冷ややかな見方もあります。そんな中でエンジニアのMatteo Raso氏が、「AIはバブルではなく、まだAI企業が成長する余地はある」と主張しています。
-Matteo's Website – I'm Not Convinced The AI Bubble Exists
-https://matteoraso.github.io/im-not-convinced-the-</description><guid isPermaLink="false">https://gigazine.net/news/20261111-not-convinced-ai-bubble-exists/</guid><pubDate>Tue, 10 Nov 2026 23:09:57 +0000</pubDate></item><item><title>“年内入試”での生成AI活用めぐり大学の対応分かれる</title><link>https://news.web.nhk/newsweb/na/nd-20261111de73858</link><description>[score: 0.888] “年内入試”と呼ばれる「総合型選抜」などの大学入試で生成AIを使って志望理由書などを作成する受験生が増えています。大学側の対応も分かれていて、「生成AIで必要以上に虚飾される懸念がある」として制限する…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 11 Nov 2026 13:13:30 +0000</lastBuildDate><item><title>Z世代がAIブームから一斉に「ログアウト」し始めた深刻な理由　米国</title><link>https://forbesjapan.com/articles/detail/107841?s=ns</link><description>[score: 0.876] 企業と若者の間には、意識の大きな断絶がある。大半のテック企業、ブランド、そして取締役会がAI活用を極限まで推し進める一方で、若者たちはむしろログアウトしようとしている。ブランドや雇用主は、若者たちをAIブームに巻き込もうと苦心しているのだ。ギャラップの調査によると、Z世代は昨年と比べて明らかにAIへの期待感が薄れ、怒りを強めているという。
+歴史的に見て、若者は新しいテクノロジーを最初に、そして最も速く取り入れてきた。ビデオゲーム、テキストメッセージ、ソーシャルメディアを思い浮かべればよい。若者はそれらがメインストリームになる前から日常的に使いこなしてきた。新しい世代が新技術の導入に反発するとき</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/107841?s=ns</guid><pubDate>Wed, 11 Nov 2026 05:58:37 +0000</pubDate></item><item><title>AI「テスト通りました」← これ､本当？ Stryker でテストの穴を塞いだ話 - Qiita</title><link>https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a</link><description>[score: 0.876] AI「テスト通りました」← これ､本当？ Stryker でテストの穴を塞いだ話 - Qiita AI にテストを書いてもらって、「すべてのテストが通りました」と返ってくる。最近はこれが日常になりました。ただ、そのテストが 本当に何かを確かめているのか と聞かれると、正直、自信を持って答えられない。緑のチェックが並んでいるだけで、壊れても気づかないテストかもしれないからです。 そこで試したのが、テ...</description><guid isPermaLink="false">https://qiita.com/Dingu-suke/items/b5318ef2040a9f59224a</guid><pubDate>Wed, 11 Nov 2026 05:01:48 +0000</pubDate></item><item><title>政府、高性能AI暴走に罰則検討　悪質事業者に対抗手段へ法改正</title><link>https://www.47news.jp/15215887.html</link><description>[score: 0.877] 政府、高性能AI暴走に罰則検討 悪質事業者に対抗手段へ法改正
+2026年11月11日 19時49分
+政府が高性能人工知能（AI）が引き起こすリスクに対処するため、AI関連事業者に安全確保を義務付け、罰則を新設する方向で検討していることが11日分かった。AI法制度を議論する非公開の作業部会で確認した。年末までに法改正の内容を含めた制度見直しの全体像を示す。サイバー攻撃への悪用や暴走といった重大な脅威に対し、協議に応じないような悪質な事業者に政府として対抗手段を確保する狙いがある。
+AI事業者は研究から基盤モデルの開発、利用者向けサービスの展開まで細分化している。どこまでを対象にすべきかは今後詰め</description><guid isPermaLink="false">https://www.47news.jp/15215887.html</guid><pubDate>Wed, 11 Nov 2026 11:36:11 +0000</pubDate></item><item><title>ビックカメラ 法人顧客の企業情報13万件余が流出 不正アクセス</title><link>https://news.web.nhk/newsweb/na/nd-20261111de74257</link><description>[score: 0.877] 家電量販店大手の「ビックカメラ」は、法人顧客向けの問い合わせフォームが不正アクセスを受け、登録されていた企業の情報、13万3000件あまりが漏えいしたと発表しました。
+漏えいしたのは、法人顧客向け…
 あわせて読みたい
-子どものSNS利用 発達段階に応じた考え方提示 こども家庭庁
-11月10日 19:51
-日商 受験者最大約98万人分の情報漏えいか 不正アクセスの影響
-11月10日 19:53
+【情報漏えい】対策どうする 二次被害に遭わないためには
+日本はなぜ狙われる？サイバー攻撃 生活にも影響
+11月7日 18:14
+徹底解説 相次ぐ不正アクセスなぜ？情報守るためにできること
+11月6日 19:08
+国際ハッカー集団“日本企業はぜい弱性を放置”取材に回答
+11月6日 19:55
+情報漏えいリスク回避へ対策は？「個人情報持たない」企業も
+11月6日 19:31
+ニトリに</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de74257</guid><pubDate>Wed, 11 Nov 2026 08:45:51 +0000</pubDate></item><item><title>自民 森山前幹事長 石破氏ら4人“国民の気持ち反映した行動”</title><link>https://news.web.nhk/newsweb/na/nd-20261111de74306</link><description>[score: 0.877] 食料品の消費税減税関連法案をめぐり、自民党の森山前幹事長は財源などについての党内議論が不十分だったと指摘した上で、衆議院本会議で採決を前に退席した石破前総理大臣ら4人の行動は国民の気持ちを反映したもの…
+消費税減税法案が参院に 高市首相“支援金 勤労者の3割以上”
+11月11日 17:01
+消費税減税と物価高対策 国民の意識は
+11月11日 13:17
 自民 小渕氏 税調副会長の退任求められ受け入れ 古川氏は辞任
 11月10日 18:54
-台風32号 小笠原最接近 暴風高波に警戒を
-11月10日 21:49
-ソフトバンクグループ中間決算 7680億円</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de73858</guid><pubDate>Tue, 10 Nov 2026 23:46:55 +0000</pubDate></item><item><title>Google、「Gemini 4 Carbon」一般提供開始　Geminiアプリでは最上位「AI Ultra」限定</title><link>https://www.itmedia.co.jp/news/article/2611/11/2000003083/</link><description>[score: 0.889] Google、「Gemini 4 Carbon」一般提供開始 Geminiアプリでは最上位「AI Ultra」限定
-米Googleは11月10日（現地時間）、同社の最上位AIモデル「Gemini 4 Carbon」の提供を開発者、企業、研究者、一般ユーザー向けに開始したと発表した。一般ユーザーは「Gemini」アプリやGoogle検索の「AIモード」で利用できるが、現時点では有料プランの最上位「Google AI Ultra」（月額1万4500円）の契約が必要だ。
-Carbonは、Googleが10月28日に発表したフロンティアAIモデル。特にサイバーセキュリティや長時間にわたる複雑な作業を得</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/11/2000003083/</guid><pubDate>Tue, 10 Nov 2026 23:18:22 +0000</pubDate></item><item><title>中間選挙の歴史的結果で投資環境が激変、米国株はこの先どうなる？　過去のデータが示すヒント</title><link>https://forbesjapan.com/articles/detail/108030?s=ns</link><description>[score: 0.889] 先週の米中間選挙は歴史に残る選挙になった。民主党は連邦議会の上下両院で過半数の議席を握り、中西部オハイオ州、南部のテキサス州とジョージア州の知事選も制した。中西部カンザス州では、1932年以来初めて民主党候補が上院議員に選出された。わたしたちの投資会社USグローバル・インベスターズの地元テキサス州でも、上院選で民主党の候補が38年ぶりに勝利した。
-有権者が生活費など家計の問題を重視したのは間違いない。証券会社CLSAのリポートによると、選挙直前の時点でディーゼル燃料（軽油）の全米平均価格は1ガロン（約3.8リットル）あたり6.34ドル、ガソリンは4.23ドル、30年固定住宅ローンの金利は7.4</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108030?s=ns</guid><pubDate>Tue, 10 Nov 2026 23:03:07 +0000</pubDate></item><item><title>ＮＹ外為市場＝ドル上昇、ＣＰＩ上振れで12月利上げ観測強まる - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9QZW40Qm16RVVQWHRUcDh3cnExTG96UTl6V0I1RjlpU1RfU1VRcy05bzNMY1NvMkpFZzRuM2haNGcxZi16S0hxWmZURW4wU0FCN0U3eFVYSnFQVkdMY2VSdEZfcG4zamg5cGV6R2t4a25FNVFEV0g3T1d3a0YzQQ?oc=5</link><description>[score: 0.890] ＮＹ外為市場＝ドル上昇、ＣＰＩ上振れで12月利上げ観測強まる Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE9QZW40Qm16RVVQWHRUcDh3cnExTG96UTl6V0I1RjlpU1RfU1VRcy05bzNMY1NvMkpFZzRuM2haNGcxZi16S0hxWmZURW4wU0FCN0U3eFVYSnFQVkdMY2VSdEZfcG4zamg5cGV6R2t4a25FNVFEV0g3T1d3a0YzQQ?oc=5</guid><pubDate>Tue, 10 Nov 2026 22:07:10 +0000</pubDate></item><item><title>ジェンスン・フアンを巡るスキャンダルに揺れるAI業界──NVIDIAはどうなるのか</title><link>https://wired.jp/article/jensen-huangs-troubles-leaves-the-ai-industry-reeling/</link><description>[score: 0.891] AI時代において、NVIDIAの最高経営責任者（CEO）ジェンスン・フアンほど大きな影響力をもつ経営者はほかにいないだろう。AIブームを追い風に莫大な富を築き、米大統領ドナルド・トランプの信頼を得て、米中関係を巡る議論でも存在感を高めてきた。しかしいま、彼の立場は危機にさらされている。
-11月8日（米国時間）、フアンはシンガポール企業の幹部、アリス・フアンとの不倫関係を認めた。米情報機関はアリスが中国情報機関の協力者だったと判断しており、これを受けてAI業界の巨人としてのフアンの立場にも厳しい目が向けられている。
-NVIDIAの取締役会は、今回の問題について調査を開始すると発表した。同社による</description><guid isPermaLink="false">https://wired.jp/article/jensen-huangs-troubles-leaves-the-ai-industry-reeling/</guid><pubDate>Tue, 10 Nov 2026 23:03:34 +0000</pubDate></item><item><title>Anthropic、IPOの仮条件を1株70～78ドルに　調達額は最大約644億ドル、GoogleとNVIDIAは各100億ドルを別途出資</title><link>https://www.itmedia.co.jp/news/article/2611/11/2000003085/</link><description>[score: 0.891] Anthropic、IPOの仮条件を1株70～78ドルに 調達額は最大約644億ドル、GoogleとNVIDIAは各100億ドルを別途出資
-米Anthropicは11月10日（現地時間）、新規株式公開（IPO）に向けたロードショー（機関投資家向け説明会）を始めたと発表した。同日、米証券取引委員会（SEC）に修正版の登録届出書（Form S-1/A）を提出し、これまで公表していなかった募集株式数と想定価格帯（仮条件）を明らかにした。
-売り出すのはクラスA普通株式8億2500万株。このうち8億135万1354株は同社が新たに発行し、残りの2364万8646株は既存株主が売り出す。既存株主が売った分</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/11/2000003085/</guid><pubDate>Wed, 11 Nov 2026 00:19:07 +0000</pubDate></item><item><title>米ＦＲＢ、緩やかな追加利上げ適切＝フィラデルフィア連銀総裁 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNcm1VTUp6cDJNUlZ3UmJBV0JsVDgweDRhUFBrNG1zR0twbVJBSnBWLVktVUpSbHNyeWZhN0xGT19YVU9OeFI3bDhRaG9Wd2hhSDJsQlhUTFZwbWhhMFBhWUFlUnJlRGhjSlBCZFhyUFk1RzZ0TUtLWG9laDcwU1BiZFpYMnRKZw?oc=5</link><description>[score: 0.892] 米ＦＲＢ、緩やかな追加利上げ適切＝フィラデルフィア連銀総裁 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNcm1VTUp6cDJNUlZ3UmJBV0JsVDgweDRhUFBrNG1zR0twbVJBSnBWLVktVUpSbHNyeWZhN0xGT19YVU9OeFI3bDhRaG9Wd2hhSDJsQlhUTFZwbWhhMFBhWUFlUnJlRGhjSlBCZFhyUFk1RzZ0TUtLWG9laDcwU1BiZFpYMnRKZw?oc=5</guid><pubDate>Wed, 11 Nov 2026 00:12:48 +0000</pubDate></item><item><title>ジェンスン・フアンCEOが世界長者番付トップ10から陥落、エヌビディア株の続落で</title><link>https://forbesjapan.com/articles/detail/108028?s=ns</link><description>[score: 0.893] 米国時間11月10日、エヌビディアのジェンスン・フアンCEOが世界長者番付のトップ10から陥落した。中国のスパイとされる人物とフアンが不倫関係にあった問題をめぐり、同社が社内調査を行っているとの報道を受けて株価が続落し、過去2日間で順位を4つ落とした。
-フアンの資産は9日に74億ドル（約1兆1700億円）減少したのに続き、10日にも98億ドル（約1兆5600億円）減少した。これにより、フォーブスの『リアルタイム・ビリオネア・リスト』での順位は今週に入って4つ下がり、12位まで後退している。
-フアンの推定資産額は1456億ドル（約23兆1000億円）となり、スペインの実業家アマンシオ・オルテガや</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108028?s=ns</guid><pubDate>Wed, 11 Nov 2026 00:00:49 +0000</pubDate></item><item><title>サイバー攻撃による情報漏えい、10月末時点で約3.8億件　すでに前年の約7.6倍に【ＭＭ総研調べ】</title><link>https://webtan.impress.co.jp/n/2026/11/11/53577</link><description>[score: 0.895] サイバー攻撃による情報漏えい、10月末時点で約3.8億件 すでに前年の約7.6倍に【ＭＭ総研調べ】 100万件以上の大規模事案は45件。認証情報を含む漏えいも延べ約1.6億件に。 imai-f 2026年11月11日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 ＭＭ総研は、「国内サイバー攻撃による情報漏えい動向調査」の結果を発表した。国内の企業・組織が公表した情報漏えい事案について、2026年10月末時点の動向をまとめている。 関連記事 2026年の個人情報漏えいが“異常事態”に…100万件以上の大規模事故がすでに10件【TSR調べ】 2025年の個人情報漏えい、被害</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/11/11/53577</guid><pubDate>Tue, 10 Nov 2026 21:51:48 +0000</pubDate></item><item><title>トランプ氏、ヘグセス国防長官を擁護「二つの戦争に勝った」</title><link>https://www.afpbb.com/articles/-/3661597</link><description>[score: 0.896] トランプ氏、ヘグセス国防長官を擁護「二つの戦争に勝った」 米ワシントンのホワイトハウス内閣室での閣議で、ピート・ヘグセス国防長官の隣で話すドナルド・トランプ大統領（2025年12月2日撮影）。(c)ANDREW CABALLERO-REYNOLDS/AFP 【11月10日 AFP】ドナルド・トランプ米大統領は9日、下院で弾劾訴追決議案が提出されたピート・ヘグセス国防長官について、「よくやっている」と擁...</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3661597</guid><pubDate>Tue, 10 Nov 2026 22:30:16 +0000</pubDate></item><item><title>【石野純也のモバイル通信SE】楽天がすすめる“日本主権”衛星サービスの狙い 「最強衛星」は足踏み</title><link>https://www.watch.impress.co.jp/docs/series/ishino/2154973.html</link><description>[score: 0.898] 石野純也のモバイル通信SE
-第111回
-楽天が進める“日本主権”衛星サービスの狙い 「最強衛星」は足踏み
-2026年11月11日 08:20
-楽天グループは、9日に米AST SpaceMobileと新会社の「Rakuten AST」を設立したと発表した。同社は、低軌道衛星の配備や運用管理を行ない、ミッドバンドで日本向けにサービスを行なうことを想定している。
-海外事業者が運営する衛星通信を利用する現行の仕組みとは異なり、「運用管理を日本の楽天モバイルが担う」(楽天グループ 代表取締役会長兼社長 三木谷浩史氏)ことで、より地政学的なリスクを抑えられるという。
-なぜ「日本の前提」の衛星通信サービスが</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/series/ishino/2154973.html</guid><pubDate>Tue, 10 Nov 2026 23:25:20 +0000</pubDate></item><item><title>ヘグセス氏の評価は「A+++」　トランプ氏、弾劾の動きに反論した記者会見を絶賛</title><link>https://www.cnn.co.jp/usa/35254688.html</link><description>[score: 0.901] トルコのアンカラで開催された北大西洋条約機構（NATO）の首脳会議中、トランプ大統領とヘグセス国防長官が記者会見に出席する様子＝7月8日/Jakub Porzycki/NurPhoto/Getty Images （CNN） ヘグセス米国防長官は10日、連邦議会で進む自身の弾劾（だんがい）訴追の動きを巡り、記者会見を開いた。弾劾の動きに強く反論することでトランプ大統領の歓心を買おうとしたのであれば、その狙いは成功したようだ。 トランプ氏は記者会見が終わると、すぐさまSNSに投稿。「不満と怒りを抱えて敗れた完全な負け犬、トーマス・マシー（下院議員）に対するヘグセス氏の弁護はAプラス、プラス、プラス</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35254688.html</guid><pubDate>Wed, 11 Nov 2026 00:43:59 +0000</pubDate></item><item><title>エヌビディア・フアンCEOの疑惑に識者の見解は？…「重大なキーマンリスク」「商務省にも責任」「不正を把握していたはず」</title><link>https://www.businessinsider.jp/article/2611-nvidia-jensen-huang-investigation-controversy/</link><description>[score: 0.903] - エヌビディアの取締役会が、ジェンスン・フアンCEOに対する調査に乗り出した。
-- 同社は、フアンCEOが「外国の情報機関による工作の標的」になっていたかどうかを調べるとしている。
-- フアンCEOはエヌビディア従業員に宛てたメモで、妻に対して「不貞を働いた」ことを認めた。
-エヌビディア（Nvidia）は11月8日、同社の取締役会が独立調査に乗り出したと発表した。ジェンスン・フアン（Jensen Huang）CEOが「外国の情報機関による工作の標的」になっていたのかどうかを調べるという。
-フアンCEOは同日早くに従業員向けのメモで、妻に対して「不貞を働いた」と認めた。
-この件に関しては、ニュ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-nvidia-jensen-huang-investigation-controversy/</guid><pubDate>Tue, 10 Nov 2026 21:57:02 +0000</pubDate></item><item><title>エヌビディアCEOの不倫相手アリス･フアン氏とは何者か？創業30年の歴史の中で最大の危機とも言える事態に</title><link>https://toyokeizai.net/articles/-/964172?display=b</link><description>[score: 0.904] 米半導体大手エヌビディアは創業30年の歴史の中で､最大の危機とも言える事態に陥った。その中心にいるのは､テレビ記者出身で中国大手企業に先端半導体を貸し出す黒幕となった女性だ。
-その女性とは､アリス･フアン（Huang Le､黄楽）氏。アリス氏は複数の報道で､エヌビディアのジェンスン･フアン最高経営責任者（CEO）を狙うため中国政府が採用したスパイだとされている。同氏は東南アジアでエヌビディア製半導体の最大の購入企業となるメガスピード･インターナショナルを設立し､フアンCEOと知り合う機会を持った。東南アジアは､エヌビディアの先端ハードウエアを中国に密輸する主要なルートだ。
-フアンCEOは以前､</description><guid isPermaLink="false">https://toyokeizai.net/articles/-/964172?display=b</guid><pubDate>Tue, 10 Nov 2026 22:06:50 +0000</pubDate></item><item><title>米下院の共和党指導部、ヘグセス氏弾劾の動きを阻止</title><link>https://www.cnn.co.jp/usa/35254681.html</link><description>[score: 0.905] 10日、記者会見に臨むヘグセス米国防長官/Evelyn Hockstein/Reuters （CNN） 米共和党の下院指導部は10日、ヘグセス国防長官の弾劾（だんがい）を求める動きを阻止することに成功した。先週の中間選挙での歴史的大敗により打撃を受け、分裂状態にあった党としては驚くべき結束ぶりを示した形だ。これにより、トランプ大統領にとって屈辱的ともなりかねなかった本会議での採決を回避した。 複数の関係者がCNNに語ったところによると、共和党指導部はホワイトハウス当局者と連携し、トランプ氏に強く反対する共和党のトーマス・マッシー下院議員が主導した弾劾の動きを封じ込めるべく、水面下で懸命な工作を</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35254681.html</guid><pubDate>Tue, 10 Nov 2026 23:47:53 +0000</pubDate></item><item><title>ヘグセス国防長官の弾劾阻止、米下院共和党が結束 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDNCcUw0ZndrUnBBa0cyLWhidWxvOXd0NXF0Y0hQRGp3YTVHNXFiVzlxWjM3aTlOckJQTUw1RTcwV21qa2lYTENsaVNyVjlMazBheF93eHlzT2QwU0d0eXJhcDNTcmd4M2I4OW4yNFNZeUJiT1JCdkFCanI5MEp4YjF1UWFQLUE?oc=5</link><description>[score: 0.915] ヘグセス国防長官の弾劾阻止、米下院共和党が結束 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxOVDNCcUw0ZndrUnBBa0cyLWhidWxvOXd0NXF0Y0hQRGp3YTVHNXFiVzlxWjM3aTlOckJQTUw1RTcwV21qa2lYTENsaVNyVjlMazBheF93eHlzT2QwU0d0eXJhcDNTcmd4M2I4OW4yNFNZeUJiT1JCdkFCanI5MEp4YjF1UWFQLUE?oc=5</guid><pubDate>Wed, 11 Nov 2026 00:12:48 +0000</pubDate></item><item><title>上場控えるアンソロピック、目標評価額は史上最大「約222兆円」</title><link>https://forbesjapan.com/articles/detail/108029?s=ns</link><description>[score: 0.917] Anthropic（アンソロピック）は11月後半に予定されている新規株式公開（IPO）で、1兆4000億ドル（約222兆円）の企業価値評価を目指す。1株あたりの仮条件を70〜78ドルに設定しており、これが実現すれば史上最大の株式上場となる可能性がある。
-AIチャットボット「Claude」を手がける同社が米国時間11月10日に更新した米証券取引委員会（SEC）への提出書類によると、今回のIPOでは8億2500万株が売り出される予定だ。
-このうち約2360万株は、一部の幹部や創業メンバーを含む既存株主が売却する計画となっている。
-また提出書類によると、同社はマイクロン、マイクロソフト、エヌビディア</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108029?s=ns</guid><pubDate>Tue, 10 Nov 2026 23:31:33 +0000</pubDate></item><item><title>自民・小渕優子氏が党税調副会長を辞任の意向、古川禎久氏も　消費減税法案の採決退席</title><link>https://www.sankei.com/article/20261110-LRM42A7AJFNXLJE2ER6IVI3F3Y/?outputType=asynd</link><description>[score: 0.917] 消費税減税関連法案の衆院採決前に本会議を途中退席した自民党の小渕優子元選対委員長は10日、党税制調査会の副会長を辞任する意向を示した。党本部で記者団の取材に応じた。小野寺五典税調会長から辞任を求められ、受け入れたと説明した。小渕氏とともに衆院採決を棄権した古川禎久元法相は同日、税調副会長を辞任する意向を小野寺氏に伝えた。
-小渕氏は10日午前、党本部で鈴木俊一幹事長と萩生田光一幹事長代行と面会。辞任を促されたが、「自ら副会長を辞することはできない」と拒否した。「税調副会長として必要ないのであれば、任命権者の税調会長からクビにしてほしい」と伝えたという。
-その後、小野寺氏から「党議拘束がかかってい</description><guid isPermaLink="false">https://www.sankei.com/article/20261110-LRM42A7AJFNXLJE2ER6IVI3F3Y/?outputType=asynd</guid><pubDate>Tue, 10 Nov 2026 21:21:09 +0000</pubDate></item><item><title>トランプ氏、｢AI｣呼びを禁止へ。｢スーパーインテリジェンス｣は定着する？ | ギズモード・ジャパン</title><link>https://www.gizmodo.jp/article/2611-trump-ban-ai-super-intelligence/</link><description>[score: 0.929] トランプ氏、｢AI｣呼びを禁止へ。｢スーパーインテリジェンス｣は定着する？
-SIって、スポーツ・イラストレーテッドのイメージが強くてですね…。
-ドナルド・トランプ大統領は10月末、自身のSNSであるTruth Social（トゥルース・ソーシャル）に、｢AI／人工知能｣という用語は不正確なので、すべての関連文書やその他あらゆる場面において、この用語の使用を公式に禁止する旨の投稿を行ないました。
-1カ月以上に及ぶ名称変更キャンペーン
-大統領は、ここ1カ月以上ずっと｢AI｣の呼び名を変えようと、公の場で熱心にアピールしてきました。
-たどり着いた新しい名前は｢Super Intelligence（ス</description><guid isPermaLink="false">https://www.gizmodo.jp/article/2611-trump-ban-ai-super-intelligence/</guid><pubDate>Wed, 11 Nov 2026 00:07:04 +0000</pubDate></item></channel></rss>
+1人1か月90万円？ 企業が直面 膨れ上がるAIコスト
+不正防止につながるか 免税新制度「リファンド方式」に密着
+ちばてつやが伝えたかったこと 受け継がれる</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de74306</guid><pubDate>Wed, 11 Nov 2026 09:41:34 +0000</pubDate></item><item><title>茨城 古河 同居女性に唇縫わせた罪に問われた被告初公判</title><link>https://news.web.nhk/newsweb/na/nd-20261111de74378</link><description>[score: 0.878] 茨城県古河市の住宅で同居していた女性にみずからの唇を縫わせたとして、強要などの罪に問われている50歳の女の被告の初公判が開かれ、被告は起訴された内容を認めました。
+茨城県古河市の無職、櫻井政恵被告…
+あわせて読みたい
+去年7月の参院選は違憲状態 1票の格差めぐる判決 最高裁
+11月11日 20:41
+アマゾンジャパン 独禁法調査で改善計画を提出 公取委が承認
+11月11日 18:30
+国民健康保険料 高所得層の年間上限額 来年度3万円引き上げへ
+11月11日 16:20
+ドコモ通信障害復旧 原因は機器の不具合
+11月11日 21:47
+司法試験 ことしの合格者1595人 政府の目標を4年連続で</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de74378</guid><pubDate>Wed, 11 Nov 2026 11:37:38 +0000</pubDate></item><item><title>AIの利用の9割はアメリカの外で起きている。最新調査で見えたChatGPTの圧倒的な優位</title><link>https://www.businessinsider.jp/article/2611-chatgpt-growth-rebounds-openai-rivals-ai-market-share/</link><description>[score: 0.878] 2026年の初め、ChatGPTのAI市場での優位は、グーグルとアンソロピック（Anthropic）の競合サービスが勢いを増すなか、揺らいでいるように見えた。だが新たな調査によると、OpenAIの主力製品は意外な復活を遂げつつある。
+調査・グロースマーケティング会社のグラファイト（Graphite）の調査によると、ChatGPTは現在、世界の主要なAIチャットボットへのトラフィックの81％以上を占めている。市場の10％にすら届いた競合サービスは1つもない。
+グーグルのGeminiやアンソロピックのClaudeが、OpenAIにとってますます深刻な脅威だと広く見なされ、注目を集めてきたことを考え</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-chatgpt-growth-rebounds-openai-rivals-ai-market-share/</guid><pubDate>Wed, 11 Nov 2026 01:59:32 +0000</pubDate></item><item><title>アメリカ ヘグセス国防長官の弾劾決議案 共和党が事実上阻止</title><link>https://news.web.nhk/newsweb/na/nd-20261111de73959</link><description>[score: 0.878] アメリカのヘグセス国防長官の罷免を求める弾劾訴追の決議案について、連邦議会下院は、委員会に付託する動議を与党 共和党による賛成多数で可決しました。共和党が主導するいまの議会の委員会では決議案は採決され…
+あわせて読みたい
+米 AI開発企業「アンソロピック」 IPOで10兆円余りを調達へ
+11月11日 6:41
+米 ルビオ国務長官 米中ロ首脳会談は「実現可能」詰めの調整
+11月11日 6:59
+「ネオクラウド」コアウィーブ最終赤字6倍 利息支払いで
+11月11日 10:31
+英警察が米軍兵士逮捕「関係国はロシア」 スパイ活動の疑い
+11月11日 11:10
+米 ルビオ国務長官 G7各国に「イラン</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de73959</guid><pubDate>Wed, 11 Nov 2026 03:37:33 +0000</pubDate></item><item><title>アンソロピックIPO、熱狂より現実路線　AIマネー変調でテック7社下支え - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOGN10C9W0Q6A111C2000000/</link><description>[score: 0.878] アンソロピックIPO、熱狂より現実路線 AIマネー変調でテック7社下支え - 日本経済新聞 【シリコンバレー=山田遼太郎、ニューヨーク=今堀祥和】米アンソロピックが10日に発表した新規株式公開（IPO）の仮条件では、評価額を当初想定から約3割下方修正した。人工知能（AI）相場変調を受け強気の値付けより確実な資金調達を優先した。テック大手7社は4兆円規模の資金で上場を下支えする。アンソロピックは10日...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOGN10C9W0Q6A111C2000000/</guid><pubDate>Wed, 11 Nov 2026 02:58:39 +0000</pubDate></item><item><title>国民健康保険料 高所得層の年間上限額 来年度3万円引き上げへ</title><link>https://news.web.nhk/newsweb/na/nd-20261111de74183</link><description>[score: 0.878] 自営業者などが加入する国民健康保険について、厚生労働省は、中間所得層の保険料負担の伸びを抑えるため、所得の高い人が納める保険料のうち、医療分の年間上限額を、来年度から3万円引き上げて96万円とする方針…
+消費税減税と物価高対策 国民の意識は
+11月11日 13:17
+介護現場のカスハラの実態は? 厚労省は対策強化へ
+11月7日 19:42
+米FDA 糖尿病治療薬「マンジャロ」などに視力低下リスクを警告
+11月10日 20:31
+風疹ウイルス感染の“入り口”発見 予防や治療法の開発に期待
+11月9日 21:40
+内閣府 メールアドレス6万件余漏えい アララ不正アクセス影響
+11月11日 15:3</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de74183</guid><pubDate>Wed, 11 Nov 2026 07:40:43 +0000</pubDate></item><item><title>2400年前「文字に頼るとバカになる」。今「AIに頼るとバカになる」</title><link>https://studyhacker.net/memory-and-writing</link><description>[score: 0.878] AIに聞けば何でも答えが返ってくる時代。「自分の頭で覚えたり考えたりしなくなるのでは」と不安になりますよね。AI以前からネットやPCの存在によって記憶の危うさは指摘されてきました（グーグル効果）。 しかし、じつは同じ心配は2400年前にもありました。そのとき槍玉に挙がったのは「文字」です。 古代ギリシャからアメリカ建国の父まで、偉人たちは「覚える」と「書く」をどう使い分けてきたのか。そこには、AI時代の勉強にそのまま使えるヒントがあります。 「書くと忘れる」と警告した2400年前のソクラテス 覚える技術 記憶術「記憶の宮殿（場所法）」 書く技術 抜き書き帳からツェッテルカステンへ フランクリン</description><guid isPermaLink="false">https://studyhacker.net/memory-and-writing</guid><pubDate>Wed, 11 Nov 2026 10:20:11 +0000</pubDate></item><item><title>京都 養鶏場で鳥インフルエンザの疑い 感染確認なら今季全国初</title><link>https://news.web.nhk/newsweb/na/nd-20261111de74346</link><description>[score: 0.879] 京都府亀岡市の養鶏場でニワトリ14羽が死んでいるのが見つかり、府が簡易検査を行った結果、鳥インフルエンザウイルスに感染している疑いがあることがわかりました。感染が確認されれば国内の養鶏場などでは今シー…
+あわせて読みたい
+去年7月の参院選は違憲状態 1票の格差めぐる判決 最高裁
+11月11日 20:41
+アマゾンジャパン 独禁法調査で改善計画を提出 公取委が承認
+11月11日 18:30
+国民健康保険料 高所得層の年間上限額 来年度3万円引き上げへ
+11月11日 16:20
+ドコモ通信障害復旧 原因は機器の不具合
+11月11日 21:47
+司法試験 ことしの合格者1595人 政府の目標を4年連</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de74346</guid><pubDate>Wed, 11 Nov 2026 10:43:04 +0000</pubDate></item><item><title>アメリカ 共和党 中間選挙大敗を受け新体制選出</title><link>https://news.web.nhk/newsweb/na/nd-20261111de74052</link><description>[score: 0.880] アメリカの中間選挙で大敗した与党 共和党は連邦議会での新たな指導部を選出し、このうち下院では、体制の刷新を訴えていた保守強硬派のジョーダン議員がトップに選ばれ、野党 民主党に対抗していく構えを示しまし…
+アメリカ ヘグセス国防長官の弾劾決議案 共和党が事実上阻止
+11月11日 12:18
+英警察が米軍兵士逮捕「関係国はロシア」 スパイ活動の疑い
+11月11日 11:10
+トランプ大統領“エヌビディア疑惑”で2度報告受けたか 米報道
+11月11日 12:12
+米 ルビオ国務長官 G7各国に「イランへ大規模戦闘 必要ない」
+11月11日 6:39
+米 ヘグセス国防長官“弾劾決議案は茶番”続投に意欲</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de74052</guid><pubDate>Wed, 11 Nov 2026 04:35:16 +0000</pubDate></item><item><title>政府、高性能AI暴走に罰則検討　法改正、開発事業者が対象 | NEWSjp</title><link>https://news.jp/i/1493175213544620448</link><description>[score: 0.881] 政府が高性能人工知能（AI）が引き起こすリスクに対処するため、AI関連事業者に安全確保を義務付け、罰則を新設する方向で検討していることが11日分かった。AI法制度を議論する非公開の作業部会で確認した。年末までに法改正の内容を含めた制度見直しの全体像を示す。サイバー攻撃への悪用や暴走といった重大な脅威に対し、協議に応じないような悪質な事業者に政府として対抗手段を確保する狙いがある。
+AI事業者は研究から基盤モデルの開発、利用者向けサービスの展開まで細分化している。どこまでを対象にすべきかは今後詰める。米国の巨大IT企業を含めた場合は、国内の利用者保護に向けた実効性の確保が問われそうだ。
+問題が起</description><guid isPermaLink="false">https://news.jp/i/1493175213544620448</guid><pubDate>Wed, 11 Nov 2026 11:25:48 +0000</pubDate></item><item><title>OpenAI、APIの処理・推論が国内で可能に　GPT-6 Lunaから</title><link>https://www.watch.impress.co.jp/docs/news/2155544.html</link><description>[score: 0.882] ニュース
+OpenAI、APIの処理・推論が国内で可能に GPT-6 Lunaから
+2026年11月11日 16:00
+OpenAIは11日、OpenAI APIで提供する「GPT-6 Luna」について、リクエストの処理とモデルの推論を日本国内で行なえる機能の一般提供を開始した。対象はテキストと画像の入力、テキストの出力で、利用条件を満たす企業や開発者が利用できる。
+同社は2025年5月、日本を含むアジア地域でデータレジデンシーへの対応を発表し、対象となる顧客データの国内保存を可能にしていた。今回の対応により、データの保存だけでなく、APIリクエストの処理や、入力内容に基づいて回答を生成する</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2155544.html</guid><pubDate>Wed, 11 Nov 2026 07:02:43 +0000</pubDate></item><item><title>日本近海で水温上昇 雑種フグ・アニサキス…食の安全に影響も</title><link>https://news.web.nhk/newsweb/na/nd-20261111de73954</link><description>[score: 0.883] 日本近海の海面の水温が上昇するペースは、世界全体の海と比較すると2倍以上になっていることが気象庁の調査でわかっています。
+生き物の分布の変化が起き、毒の位置や強さにばらつきがある雑種のフグの増加や、…
+COP前に北極観測の科学者 温暖化の速さに危機感訴え
+11月7日 10:38
+【動画】変わる東京湾 海中では何が
+11月5日 10:24
+COP31開幕 地球温暖化と異常気象に歯止めは？
+11月10日 14:28
+笹川環境相 去年クマによる人身被害が全国最多の秋田県を視察
+11月9日 21:05
+今季いちばんの冷え込み 日中は気温上昇 台風で小笠原は大しけ
+11月11日 13:58
+エルニーニョ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de73954</guid><pubDate>Wed, 11 Nov 2026 11:37:38 +0000</pubDate></item><item><title>2027年にも「超人的AI研究者(SAR)」が登場する可能性が高いとAI研究者らが予測、全ホワイトカラー業務の自動化AIも2028年までに登場か</title><link>https://gigazine.net/news/20261111-superhuman-ai-researcher-2027/</link><description>[score: 0.884] 2027年にも「超人的AI研究者(SAR)」が登場する可能性が高いとAI研究者らが予測、全ホワイトカラー業務の自動化AIも2028年までに登場か
+元OpenAIのガバナンス研究者であるダニエル・ココタイロ氏が率いる非営利研究団体のAI Futures Projectが、最高水準の人間の研究者を一掃するかもしれない「Superhuman AI Researcher(超人的AI研究者：SAR)」が2027年に登場する可能性が高いとの予測を発表しました。
+Q3.5 Timelines Update: Looks Like the Intelligence Explosion Will Happen </description><guid isPermaLink="false">https://gigazine.net/news/20261111-superhuman-ai-researcher-2027/</guid><pubDate>Wed, 11 Nov 2026 11:10:43 +0000</pubDate></item><item><title>AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功</title><link>https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/</link><description>[score: 0.885] AmazonがAIモデルの「Claude Sonnet 4.6」を独自開発の意志決定モデル「Strands Decider」に置き換えることで98％のコスト削減に成功
+AmazonとAWSは、コストを抑えながら社内への問い合わせやシステムエラーをAIで自動仕分けするため、Anthropicのバランス型モデルである「Claude Sonnet 4.6」を利用してきました。これを意思決定モデルの「Strands Decider」に置き換えることで、98％のコスト削減に成功したと報告しています。
+Amazon saves millions by replacing Sonnet 4.6 with S</description><guid isPermaLink="false">https://gigazine.net/news/20261111-amazon-claude-sonnet-4-6-strands-decider/</guid><pubDate>Wed, 11 Nov 2026 12:09:17 +0000</pubDate></item><item><title>アングル：アリス・フアン氏とは何者か、エヌビディアＣＥＯ巡る疑惑で分かっていること - Reuters</title><link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOYW1CVTRSc3NsSVFWbkZwMnVnNDlnTloxeU9yV2FSMlVqdkdZbU9icXRNcXdsVHgzeVhFWTZCODFicGxpUms2T2hwc21KWGY3aWxUQUVWUVhhQU5GcXVuUDRBbGltX2gzY00tWmlJeXoyS20ybmRrR1RhQXVERHFOVmMxWno?oc=5</link><description>[score: 0.886] アングル：アリス・フアン氏とは何者か、エヌビディアＣＥＯ巡る疑惑で分かっていること Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxOYW1CVTRSc3NsSVFWbkZwMnVnNDlnTloxeU9yV2FSMlVqdkdZbU9icXRNcXdsVHgzeVhFWTZCODFicGxpUms2T2hwc21KWGY3aWxUQUVWUVhhQU5GcXVuUDRBbGltX2gzY00tWmlJeXoyS20ybmRrR1RhQXVERHFOVmMxWno?oc=5</guid><pubDate>Wed, 11 Nov 2026 09:16:58 +0000</pubDate></item><item><title>Anthropic、Claude Sheets・Whiteboardsをベータ提供、Claude Dataは一般提供へ ——インタラクティブコネクターも更新、対応アプリをチャットの横や全画面で操作可能に</title><link>https://gihyo.jp/article/2026/11/claude-whiteboards-and-sheets-and-data-and-interactive-connectors?utm_source=feed</link><description>[score: 0.887] Anthropicは2026年11月10日、Claude内で利用者やチームがAIと共同編集できる表計算機能
+Sheets、Whiteboards、Dataは全有料プラン、外部アプリをClaude内で開いて作業する機能は全プランを対象とする。
+Claude Sheetsでシートを共同編集
+Claude Sheetsは、Claudeに組み込まれた表計算機能。予算表や進捗管理表などを依頼すると、Claudeが複数のタブや数式、書式、ドロップダウンを備えたシートを作成する。利用者とチームのメンバー、Claudeが同じセルを編集でき、Claudeが変更した箇所は枠で囲まれる。数式はセルに残るため、各数値</description><guid isPermaLink="false">https://gihyo.jp/article/2026/11/claude-whiteboards-and-sheets-and-data-and-interactive-connectors?utm_source=feed</guid><pubDate>Wed, 11 Nov 2026 09:58:55 +0000</pubDate></item><item><title>Google製高性能AI「Gemini 4 Carbon」が一般公開される、複数のAIが協力する新機能で3Dゲームを制作するデモも披露</title><link>https://gigazine.net/news/20261111-gemini-4-carbon/</link><description>[score: 0.888] Googleは2026年11月10日にAIモデル「Gemini 4 Carbon」の一般提供を開始したと発表しました。Gemini 4 Carbonは複雑なプログラミングや科学研究、サイバーセキュリティ分野の作業に対応する高性能AIで、有料プラン「Google AI Ultra」のユーザーはGeminiアプリなどから利用できます。複数のAIが協力して長時間の作業を進める新機能「/swarm」も発表されています。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20261111-gemini-4-carbon/</guid><pubDate>Wed, 11 Nov 2026 09:01:39 +0000</pubDate></item><item><title>8日間でOSを完成させる高い能力を持つClaude Fable 5.2とMythos 5.2をリリース</title><link>https://ai.watch.impress.co.jp/docs/news/2155175.html</link><description>[score: 0.891] ニュース
+8日間でOSを完成させる高い能力を持つClaude Fable 5.2とMythos 5.2をリリース
+2026年11月10日 15:42
+Anthropicは、コーディング、推論、視覚などの分野で改良が加えられたClaude Fable 5.2とClaude Mythos 5.2をリリースした。FableとMythosは同じモデルを基盤にしているが、Fableは不正使用を防ぐための強力なサイバーセキュリティと生物学的保護機能を備えているため、誰でも利用することができる。
+価格は、入力トークン100万個あたり8ドル、出力トークン100万個あたり40ドル。Fable 5.2とMytho</description><guid isPermaLink="false">https://ai.watch.impress.co.jp/docs/news/2155175.html</guid><pubDate>Wed, 11 Nov 2026 03:08:34 +0000</pubDate></item><item><title>靖国神社運営サイトに不正アクセス 約1万4500件の情報漏えい</title><link>https://news.web.nhk/newsweb/na/nd-20261111de74452</link><description>[score: 0.891] 東京・千代田区の靖国神社は、お札やお守りなどの注文を受け付けるサイトが10月、不正アクセスを受け、会員の氏名やパスワードに関する情報などが外部に漏えいしたと発表しました。
+靖国神社によりますと、漏…
+あわせて読みたい
+アマゾンジャパン 独禁法調査で改善計画を提出 公取委が承認
+11月11日 18:30
+2026年度の国家公務員の給与引き上げ 改正給与法が成立
+11月11日 15:58
+国民健康保険料 高所得層の年間上限額 来年度3万円引き上げへ
+11月11日 16:20
+日本医師会長“70歳以上の窓口負担 原則3割引き上げに反対”
+11月11日 18:14
+自民 森山前幹事長 石破氏ら4人“国</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de74452</guid><pubDate>Wed, 11 Nov 2026 12:38:26 +0000</pubDate></item><item><title>Claude内でAdobe製品やNotionなどを直接操作可能に、AIと一緒に写真編集や文書作成ができる新機能が登場</title><link>https://gigazine.net/news/20261111-claude-interactive-connectors-full-tool/</link><description>[score: 0.891] Claude内でAdobe製品やNotionなどを直接操作可能に、AIと一緒に写真編集や文書作成ができる新機能が登場
+AI開発企業のAnthropicが2026年11月10日に、チャットAI「Claude」の画面内でAdobe製品やNotionなどの外部アプリを直接操作できる新機能を発表しました。Claudeとの会話を続けながら写真やPDFを編集したり、Notionの文書を作成したりできるようになります。
+Open your apps in Claude and work in them together | Claude by Anthropic
+https://claude.com/ja/</description><guid isPermaLink="false">https://gigazine.net/news/20261111-claude-interactive-connectors-full-tool/</guid><pubDate>Wed, 11 Nov 2026 08:51:50 +0000</pubDate></item><item><title>情報漏えいリスク回避へ対策は？通販サイト閉鎖の企業も</title><link>https://news.web.nhk/newsweb/na/nd-20261111de73911</link><description>[score: 0.893] 企業の間で不正アクセスによる情報漏えいが相次ぐ中、自社の通販サイトを閉鎖したり、あらかじめ個人情報を持たないようにしたりする動きが広がっています。
+不正アクセス対策で“予防的にサイトを閉鎖”
+…
+あわせて読みたい
+【情報漏えい】対策どうする 二次被害に遭わないためには
+日本はなぜ狙われる？サイバー攻撃 生活にも影響
+11月7日 18:14
+徹底解説 相次ぐ不正アクセスなぜ？情報守るためにできること
+11月6日 19:08
+国際ハッカー集団“日本企業はぜい弱性を放置”取材に回答
+11月6日 19:55
+情報漏えいリスク回避へ対策は？「個人情報持たない」企業も
+11月6日 19:31
+ニトリに不正</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261111de73911</guid><pubDate>Wed, 11 Nov 2026 10:43:04 +0000</pubDate></item><item><title>エヌビディアCEOと中国スパイ疑惑の女性の関係、トランプ氏は訪中時に報告を受けていた　情報筋</title><link>https://www.cnn.co.jp/usa/35254735.html</link><description>[score: 0.894] トランプ大統領がエヌビディアのジェンスン・フアンCEOに「国家科学メダル」を授与した後、フアン氏と並ぶ様子＝10月8日、米首都ワシントン/Evan Vucci/Reuters/FILE （CNN） トランプ米大統領は5月、中国へ向かう大統領専用機「エアフォースワン」の機内でルビオ国務長官から、半導体大手エヌビディアのジェンスン・フアン最高経営責任者（CEO）が中国のスパイ疑惑のある人物と関係を持っているとの情報について報告を受けていた。事情に詳しい情報筋がCNNに明らかにした。 トランプ氏は9日、当時この疑惑を知っていたことを公の場で否定した。 だが情報筋によると、この問題が話し合われたのは北</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35254735.html</guid><pubDate>Wed, 11 Nov 2026 10:48:09 +0000</pubDate></item><item><title>Claude Code チートシート — 私が毎日本当に使うコマンド15選</title><link>https://qiita.com/TOMOSIA-HieuNT/items/b19c46ec77d3bdcab4fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.896] ※ この記事の日本語には、少し不自然な部分があるかもしれません。AIの言語サポートを利用しながら作成しています。
+目次
+- はじめに
+- 1. 3つのモード — 最初に正しく選ぶ
+- 2. よく使う7つのスラッシュコマンド
+- 3. コンテキスト管理 — 一番大切なスキル
+- 4. CLAUDE.md — AIとの契約書
+- 5. セキュリティ — AIに秘密情報を読ませない
+- 6. 権限 — 信頼にはレベルがある
+- 7. 毎日使う3つのコンボ
+- 8. 小さなコツ — でも時間を節約できる
+- 9. モデル選択 — いつも最強のモデルを使わない
+- 10. One-shotモードで自動化</description><guid isPermaLink="false">https://qiita.com/TOMOSIA-HieuNT/items/b19c46ec77d3bdcab4fc?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 11 Nov 2026 08:12:59 +0000</pubDate></item><item><title>楽天と米ASTが「Rakuten AST」設立、スマホと衛星の直接通信　29年3月末までの国内運用を目指す</title><link>https://k-tai.watch.impress.co.jp/docs/news/2154954.html</link><description>[score: 0.906] ニュース
+楽天と米ASTが「Rakuten AST」設立、スマホと衛星の直接通信 29年3月末までの国内運用を目指す
+2026年11月9日 19:34
+楽天と米AST SpaceMobileは9日、日本における衛星通信基盤を構築する「Rakuten AST」の設立に合意したと発表した。総務省のJ-LEO計画による支援を受け、市販スマートフォンと直接通信できる自国主導のインフラを2029年3月末までに運用開始する。
+「Rakuten AST」を設立
+楽天が51％、ASTが49％を出資して日本法人となる「Rakuten AST」を設立した。代表取締役社長CEOには楽天モバイルの大坂亮二氏が就任する</description><guid isPermaLink="false">https://k-tai.watch.impress.co.jp/docs/news/2154954.html</guid><pubDate>Wed, 11 Nov 2026 09:32:19 +0000</pubDate></item><item><title>立花孝志党首、逮捕から1年も勾留続く…SNSでは「いくら何でも長すぎる」の声　弁護士が解説（弁護士ドットコムニュース） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/bfd8f80c3f1f8116d1e38515377dabc759146b13</link><description>[score: 0.906] 立花孝志党首、逮捕から1年も勾留続く…SNSでは「いくら何でも長すぎる」の声 弁護士が解説（弁護士ドットコムニュース） - Yahoo!ニュース 立花孝志党首（弁護士ドットコム撮影）政治団体「NHKから国民を守る党」の立花孝志党首が逮捕されてから11月9日で1年が過ぎました。 これはひどい…立花氏「削除させて頂きました」 立花氏は、亡くなった元兵庫県議への名誉毀損の容疑で2025年11月に逮捕され、その後勾留が続いています。少なくとも2度、保釈を求めていま...</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/bfd8f80c3f1f8116d1e38515377dabc759146b13</guid><pubDate>Wed, 11 Nov 2026 12:19:55 +0000</pubDate></item><item><title>「Fable 5.2」の用途は？　Claudeモデルの選び方、Anthropicが基本を解説</title><link>https://www.itmedia.co.jp/aiplus/article/2611/10/2000003061/</link><description>[score: 0.908] 「Fable 5.2」の用途は？ Claudeモデルの選び方、Anthropicが基本を解説 米Anthropicは11月9日（現地時間）、「Claude」のモデルの選び方を公式ブログで解説した。最新モデル「Fable 5.2」に加え、「Haiku 5.5」「Sonnet 5.5」「Opus 5.5」を「Claude Code」や「Claude Platform」上でどのように使い分けるべきか紹介している。 ブログでは、まず多くのタスクでOpus 5.5を、出力にかけるトーク...</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2611/10/2000003061/</guid><pubDate>Wed, 11 Nov 2026 07:13:57 +0000</pubDate></item></channel></rss>
