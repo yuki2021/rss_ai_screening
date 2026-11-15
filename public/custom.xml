@@ -1,82 +1,146 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 15 Nov 2026 13:10:57 +0000</lastBuildDate><item><title>An overview of Jensen Huang’s messy days</title><link>https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation</link><description>[score: 0.868] This is The Stepback, a weekly newsletter breaking down one essential story from the tech world. For more on Jensen Huang's resignation and the fallout from Nvidia's leadership crisis, follow Terrence O'Brien. The Stepback arrives in our subscribers' inboxes on Sunday at 8AM ET. Opt in for The Stepb</description><guid isPermaLink="false">https://www.theverge.com/column/1033943/jensen-huang-nvidia-china-spying-scandal-resignation</guid><pubDate>Sun, 15 Nov 2026 13:01:40 +0000</pubDate></item><item><title>AWS Security ハンズオンで学ぶ、フロンティアモデルを活用したコードレビュー</title><link>https://qiita.com/soulgemanalyst/items/20e7c72cc2006a331445?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.868] AWS セキュリティハンズオン連続開催のご案内
-https://aws.amazon.com/jp/blogs/news/aws-security-handson-series/
-本記事では、上記ハンズオンの11月11日開催回「Claude/GPT などのフロンティアモデルを活用したソースコードの脆弱性対策 ハンズオン」をもとに、Claude Security plugin、Codex Security plugin、AWS Security Agent のコードレビューを比較します。
-今回はハンズオンで扱った内容に加え、独自の検証も行いました。
-先日、AWS Security Agent で</description><guid isPermaLink="false">https://qiita.com/soulgemanalyst/items/20e7c72cc2006a331445?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 15 Nov 2026 08:24:26 +0000</pubDate></item><item><title>工場で勤務するようになって知ったのだが、利益のために効率を追求しようとするとあらゆる機械や人間が稼働率100%近くで動くことを要求されてヤバい</title><link>https://togetter.com/li/2770697</link><description>[score: 0.868] 工場で勤務するようになって知ったのだが、利益のために効率を追求しようとするとあらゆる機械や人間が稼働率100%近くで動くことを要求されてヤバい Bi @SAT20924 工場で勤務するようになって知ったのだが、利益のために効率を追求しようとすると基本的にあらゆる機械や人間が稼働率100%近くで動くことを要求されるからマジでイレギュラーが起きた時の吸収箇所がほぼなくてヤバい この社会もそんな感じで必然的にギリギリで回るようになってしまっている気がする x.com/...</description><guid isPermaLink="false">https://togetter.com/li/2770697</guid><pubDate>Sun, 15 Nov 2026 10:49:16 +0000</pubDate></item><item><title>【速報】愛媛県知事選挙 出口調査の結果は</title><link>https://news.web.nhk/newsweb/na/nd-20261115de76102</link><description>[score: 0.869] NHKは、15日、有権者の投票行動や政治意識を探るため、出口調査を行いました。調査は県内24の投票所で投票を終えた有権者3393人を対象に行い、71.2％にあたる2417人から回答を得ました。一方、1…
-愛媛県知事選挙 現職の中村時広氏が5回目の当選確実【速報】
-11月15日 21:11
-福岡市長選 新人13人の争い 稲富氏やや優勢も4分の1獲得が焦点
-11月15日 20:29
-【速報】福岡市長選挙 出口調査の結果は
-11月15日 20:21
-松山市長選挙 開票や出口調査 当選情報はこちらで【速報】
-11月15日 20:54
-【速報】松山市長選挙 出口調査の結果は
-11月15日 20:48
-熊</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261115de76102</guid><pubDate>Sun, 15 Nov 2026 12:51:38 +0000</pubDate></item><item><title>平和を願う今こそ読みたいあなたの国の名著は？：BRUTUS CITY JOURNAL</title><link>https://brutus.jp/post-521318/</link><description>[score: 0.869] 🇬🇧 戦争と全体主義への警告となるジョージ・オーウェルの『1984年』 イギリス／ロンドン イギリス植民地時代のインドに生まれ、ジャーナリストとして戦争と独裁の現場を見つめたジョージ・オーウェル。「戦争は平和、自由は屈従、無知は力」を掲げる政党に支配されるディストピアを描いたフィクション作品が『1984年』だ。彼の言葉ともいわれる「ジャーナリズムとは報じられたくないことを報じること。それ以外は広報だ」も心に留めながら、今こそ読みたい名著である。 🇪🇸 スペイン内戦直後の人々の闇を描くエミリ・テシドールの『Pa Negre』 スペイン／バルセロナ 2003年発表のカタルーニャ語による小説。スペイ</description><guid isPermaLink="false">https://brutus.jp/post-521318/</guid><pubDate>Sun, 15 Nov 2026 12:39:34 +0000</pubDate></item><item><title>MetaのAIエージェント「Muse」に課金して使い倒した結果の、小ネタと生存戦略 - はげあたま.org</title><link>https://www.hageatama.org/20261112/1794464751</link><description>[score: 0.870] MetaのAIエージェント「Muse」に課金して使い倒した結果の、小ネタと生存戦略 - はげあたま.org パーソナルAIエージェント「Muse」をチェックしてみよう。参加後48時間以内に[設定]で私のコードを利用すると、私たち両方が10億のMuseトークンを獲得できます。 コード: 3S3C45 muse.ai はい、というわけで、Me... kozai</description><guid isPermaLink="false">https://www.hageatama.org/20261112/1794464751</guid><pubDate>Sun, 15 Nov 2026 12:22:48 +0000</pubDate></item><item><title>AIを使って部屋のどこから鳴っているのか分からない謎の「ピッ」という音の発生源を突き止めた話</title><link>https://gigazine.net/news/20261111-mysterious-beeps/</link><description>[score: 0.870] AIを使って部屋のどこから鳴っているのか分からない謎の「ピッ」という音の発生源を突き止めた話 部屋のどこかから聞こえる謎の「ピッ」という電子音を突き止めるため、AIを使って音の発生場所を特定するシステムを開発した事例をソフトウェア開発者のサイモン・ウィリソン氏が公開しました。スマートフォンや... kozai</description><guid isPermaLink="false">https://gigazine.net/news/20261111-mysterious-beeps/</guid><pubDate>Sun, 15 Nov 2026 12:22:48 +0000</pubDate></item><item><title>ジェンスン・フアンのNVIDIAのCEO復帰を求める署名が10万筆を突破</title><link>https://gigazine.net/news/20261115-stand-with-jensen/</link><description>[score: 0.870] NVIDIAの共同創業者ジェンスン・フアン氏は、スパイと目される女性との不倫問題が話題となったのち、現地時間2026年11月12日付けでCEOを辞任しました。しかし、女性が本当にスパイだったかは確認されておらず、フアン氏は実質的に適正な手続きを経ずに解任されたも同然だとして、フアン氏のCEOへの復帰を取締役会に求める署名活動が行われています。署名には現役社員らも加わっていて、総数は10万筆を超え、記事執筆時点で14万筆に届いています。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20261115-stand-with-jensen/</guid><pubDate>Sun, 15 Nov 2026 08:54:40 +0000</pubDate></item><item><title>【国のデータをしゃぶり尽くせ！】無料で使える公共データ100選【永久保存版】 - Qiita</title><link>https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709</link><description>[score: 0.871] 【国のデータをしゃぶり尽くせ！】無料で使える公共データ100選【永久保存版】 - Qiita Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに 日本のオープンデータ、正直かなり充実しています。分析屋・開... kozai</description><guid isPermaLink="false">https://qiita.com/Retro-Maid/items/d99e436fe0b19e151709</guid><pubDate>Sun, 15 Nov 2026 12:22:48 +0000</pubDate></item><item><title>仕事ができなくて職場で干されてる人を見かねて助けたら「気が利きますね」と言われ、干されてる理由を垣間見た</title><link>https://togetter.com/li/2770759</link><description>[score: 0.872] 仕事ができなくて職場で干されてる人を見かねて助けたら「気が利きますね」と言われ、干されてる理由を垣間見た ひも @doonkichi2 Q. ASDとかADHD云々の話 →私は医師ではないので判定できないですししないです。 特性の有無や実際に心の中で感謝してたかはどうでもよく、「気が利きますね」は上から目線で不快に感じた次第です。 2026-11-14 21:55:06 ひも @doonkichi2 Q.じゃあどう返答すればよかったの？ →安牌なのは「ありがとう...</description><guid isPermaLink="false">https://togetter.com/li/2770759</guid><pubDate>Sun, 15 Nov 2026 13:03:23 +0000</pubDate></item><item><title>『バックエンドの知識地図』を読んだ感想 ─ 現代のバックエンド学習をつなぐ一冊</title><link>https://qiita.com/tomokusaba/items/015330c008f62355894c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.872] はじめに
-バックエンド開発を学ぼうとすると、最初に立ちはだかるのは「何を学べばよいのかわからない」という問題です。
-どのような分野でも、まずは各項目がどのように関わり合っているのかを理解し、全体を体系的に捉えることが出発点です。バックエンド開発であれば、プログラミング言語、ネットワーク、データベース、コンテナ、セキュリティ、クラウド、運用などの知識が、どのようにつながっているのかを把握することになります。
-一方で、すべてを別々の専門書から学ぼうとすると、学習範囲が広すぎて全体像をつかむ前に迷ってしまいます。🧭
-そんなときに読んでほしいのが、技術評論社から刊行された『バックエンドの知識地図』です</description><guid isPermaLink="false">https://qiita.com/tomokusaba/items/015330c008f62355894c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 15 Nov 2026 08:24:26 +0000</pubDate></item><item><title>今、ソフトウェアエンジニアとして何を思うか｜Mori Atsushi</title><link>https://note.com/at_sushi_at/n/n2e6ea3453e37</link><description>[score: 0.872] 今、ソフトウェアエンジニアとして何を思うか
-1年前、私はAIをまだ舐めていた
-もちろんAIは当時からある程度のコード、というかほとんどのコードを書いてくれた。
-それでも、ソフトウェアエンジニアとしての根本的な能力が足りてなかった。
-保守性を考えない安直で重複したコード、勘違いによるミス、一部しか考慮していないことによる不完全な対応。
-一部に限れば、その時点で私よりAIのほうが優れていたといえる。
-コードを書くのは爆速だし、多くのコードを素早く調査するのにも長けていた。
-それでもまだ、ソフトウェアエンジニアが不要だと言い切るには早い、というのが当時の私の考えだった。
-1年経って、何が変わったか。</description><guid isPermaLink="false">https://note.com/at_sushi_at/n/n2e6ea3453e37</guid><pubDate>Sun, 15 Nov 2026 11:32:53 +0000</pubDate></item><item><title>「ドパ資料」の作り方 - Qiita</title><link>https://qiita.com/kikuziro/items/b6a0743b070d7320c36d</link><description>[score: 0.873] 「ドパ資料」の作り方 - Qiita この記事を開いたあなたは「ドパガキ」もしくは「ドパおじ」いや「ドパおば」かもしれませんね。 いずれにしてもドーパミンがドバドバ出る資料を求めてここにたどり着いたものと推測します。そんなあなたのために... tmatsuu LT資料はこれぐらいの派手さがあって良さそうではある。</description><guid isPermaLink="false">https://qiita.com/kikuziro/items/b6a0743b070d7320c36d</guid><pubDate>Sun, 15 Nov 2026 11:21:28 +0000</pubDate></item><item><title>エンジニアなら全問正解したい！セキュリティ攻撃手法の一問一答15問【答えは折りたたみ】</title><link>https://qiita.com/pds_siken/items/a7032fe29f9ec113463b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.873] はじめに
-ニュースや脆弱性情報でよく見る攻撃手法の名前。なんとなく知っているつもりでも、「違いを説明して」と言われると意外と詰まるものです。
-本記事では、エンジニアなら押さえておきたい攻撃手法を15問の一問一答にしました。答えは折りたたんでいるので、考えてから開いてみてください。
-第1部：Webアプリケーションへの攻撃
-Q1. 入力欄に ' OR '1'='1
-のような文字列を入れて、データベースを不正に操作する攻撃は？
-答えを見る
-"SQLインジェクション"。対策は、プレースホルダ（バインド変数）を使ってSQLを組み立てること。文字列連結でSQLを作らない。
-Q2. 掲示板などに悪意のあるス</description><guid isPermaLink="false">https://qiita.com/pds_siken/items/a7032fe29f9ec113463b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 15 Nov 2026 08:24:26 +0000</pubDate></item><item><title>アングル：世界市場は既にぜい弱、ＡＩにもひび割れ | ロイター - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBmbHZ5eGxQNmVHY0ZSM2VRbkNWVHpYRDBkd1M3WTd5V0Jpc2pTazBEUGNsTG9VVW8xNE5ZNDY5Q056VFM1bFprekNqQlBVVVZDckFiSWZNSmdLOWJFV095T2VSZWk2R1ZQNmFFS3FaTHZFWFlpY2RrUkl1MlhXdw?oc=5</link><description>[score: 0.873] アングル：世界市場は既にぜい弱、ＡＩにもひび割れ | ロイター Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFBmbHZ5eGxQNmVHY0ZSM2VRbkNWVHpYRDBkd1M3WTd5V0Jpc2pTazBEUGNsTG9VVW8xNE5ZNDY5Q056VFM1bFprekNqQlBVVVZDckFiSWZNSmdLOWJFV095T2VSZWk2R1ZQNmFFS3FaTHZFWFlpY2RrUkl1MlhXdw?oc=5</guid><pubDate>Sun, 15 Nov 2026 10:45:19 +0000</pubDate></item><item><title>たった0.8Bで53言語対応。翻訳特化型ローカルLLM「PLaMo 3 Translate」を試す【使ってわかるAI PC】</title><link>https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2156218.html</link><description>[score: 0.874] 使ってわかるAI PC
-第120回
-たった0.8Bで53言語対応。翻訳特化型ローカルLLM「PLaMo 3 Translate」を試す
-2026年11月13日 16:43
-翻訳特化型LLMがオープンウェイトモデルに
-Preferred Networksが11月5日に公開した「PLaMo 3 Translate」は、同社が提供するAI翻訳サービス「PLaMo翻訳」のLLMを、オープンウェイトモデルとして公開したもの。サービスとして実績のある翻訳AIを公開したとあって、信頼性に期待が持てる。
-公開されたAIモデルは4つのサイズがあり、最小で0.8B（8億パラメータ）という小ささで、スマートフォンで</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/serial/usecopilotpc/2156218.html</guid><pubDate>Sun, 15 Nov 2026 01:35:39 +0000</pubDate></item><item><title>GitHub - yuiseki/geo-video-factory: AI エージェントが地理・地図系の解説動画を作るためのスキル集と動画レンダラー、動画制作パイプライン</title><link>https://github.com/yuiseki/geo-video-factory</link><description>[score: 0.874] geo-video-factory
-は、地理・歴史・土木の解説動画を AI エージェントに作らせるためのスキル集とレンダラーです。
-地理院タイルの空中写真と標高で地形を 3D にし、その上をカメラがゆっくり動きます。川を線で引き、範囲を塗り、地名や数字を出し、昔の空中写真と今を切り替えます。そこに VOICEVOX の 2 人の掛け合いと字幕、立ち絵を付けた mp4 を、ショットの JSON から何度でも同じに書き出します。
-上の画像は、テンプレートに入っているサンプル shots/example.json
-を --stills 2
-で書き出したものです。背景は地理院タイルの写真と標高、引いた</description><guid isPermaLink="false">https://github.com/yuiseki/geo-video-factory</guid><pubDate>Sun, 15 Nov 2026 12:22:48 +0000</pubDate></item><item><title>グーグルに16年間勤務、55歳で突然解雇…スーパーのレジ係に転職した私が直面した「3つの試練」</title><link>https://crea.bunshun.jp/articles/-/60720</link><description>[score: 0.875] グーグルに16年間勤務、55歳で突然解雇…スーパーのレジ係に転職した私が直面した「3つの試練」 グーグルをクビになったら、人は次にどんな仕事を選ぶのか――。 『ロイス、グーグルをクビになる。』（すばる舎）の著者であるロイス・キムさんは、2007年にグーグルコリアに入社。2019年には米シリコンバレーのグーグル本社へ50歳にして赴任。華々しいキャリアを築いてきましたが、ビッグ・テックを襲った大規模なレイオ...</description><guid isPermaLink="false">https://crea.bunshun.jp/articles/-/60720</guid><pubDate>Sun, 15 Nov 2026 12:22:02 +0000</pubDate></item><item><title>ASEAN首脳会議開幕 ミャンマー本格復帰の議論は先送り</title><link>https://news.web.nhk/newsweb/na/nd-20261115de76209</link><description>[score: 0.877] ASEAN＝東南アジア諸国連合の首脳会議が15日行われ、焦点の1つになっていたミャンマー情勢をめぐっては加盟国の間で意見が分かれ、本格復帰に向けた議論は先送りされたことが関係者への取材で分かりました。…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 15 Nov 2026 21:09:01 +0000</lastBuildDate><item><title>島根 JR山陰線で特急列車と軽乗用車が衝突 車の中に1人の遺体</title><link>https://news.web.nhk/newsweb/na/nd-20261116de76327</link><description>[score: 0.865] 15日夜、島根県出雲市で、JR山陰線の特急列車と軽乗用車が衝突しました。
+車は炎上して中から1人が遺体で見つかり、警察が身元の確認を進めるとともに事故の詳しい状況を調べています。
+15日午後8時…
 あわせて読みたい
-ASEAN首脳会議開幕へ トランプ大統領のアジアへの姿勢にも注目
-11月15日 5:12
+フィギュアGPアメリカ 中井亜美が今季世界最高得点で首位発進
+11月15日 15:12
+インフルエンサー「あっすん」 風営法違反疑いで逮捕
+11月15日 8:25
 ゼレンスキー大統領“米がNATO加盟と交換で軍撤退を打診”
 11月15日 9:01
+大阪 枚方女児死亡 “虐待”情報も市がことしは母親と面会せず
+11月15日 11:53
+若手登竜門の国際コンクール バイオリンで小西真璃</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261116de76327</guid><pubDate>Sun, 15 Nov 2026 18:55:00 +0000</pubDate></item><item><title>【アゴラ】茶請け：うなぎや料亭で高級会食していたことが発覚している日本共産党</title><link>https://agora-web.jp/archives/261113224804.html</link><description>[score: 0.865] 【アゴラ】茶請け：うなぎや料亭で高級会食していたことが発覚している日本共産党 2025.10.21 本学卒業生 高市早苗氏の内閣総理大臣選出について 本学経営学部経営学科を1984年3月に卒業された高市早苗氏が、第104代内閣総理大臣に選出されました。高市氏は、日本国憲政史上初の女性内閣総理大臣となります。今後のご活躍を心より祈念いたします。 と、はっきりと声明を出していたりします。 この事実を...</description><guid isPermaLink="false">https://agora-web.jp/archives/261113224804.html</guid><pubDate>Sun, 15 Nov 2026 15:03:57 +0000</pubDate></item><item><title>【個人開発】学習記録アプリのデータ永続化とCI/CDで自動化に取り組んだ</title><link>https://qiita.com/ryu0947/items/8e12e4f1871233ef7169?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.865] はじめに
+Reactで開発した学習記録アプリをデータの永続化と自動テスト＆デプロイに対応させました。
+データベースとの接続、ホスティングサービスへのデプロイ、テストの導入、CI/CDでの自動化など初めて行うことばかりで躓きの連続でしたが、1つずつ向き合い何とか実装することが出来ました。
+開発を通して学んだことや、苦労したことをまとめます。
+アプリの構成
+| 分類 | 使用技術 |
+|---|---|
+| 開発環境 | Vite |
+| フレームワーク | React |
+| DB | Supabase |
+| CI/CD | GitHub Actions |
+| テスト | Vitest/Re</description><guid isPermaLink="false">https://qiita.com/ryu0947/items/8e12e4f1871233ef7169?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 15 Nov 2026 20:55:02 +0000</pubDate></item><item><title>C#にもとうとうunionが来たので、四則演算処理系を書いてみる</title><link>https://qiita.com/yuchiki1000yen/items/775afcd1e683e66a957f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.866] ※ この記事はゆーちきにしばかれながら私（AIエージェントであるCodex）が書き、ゆーちきの入念なレビューと、ゆーちきによる一部の修正のもと公開している。1
+概要
+C# 15 には、とうとう網羅性検査のある union 機能が入った。
+ゆーちきは以前、C# 9 の record と継承を用いて、Haskell の代数的データ型（ADT）的な書き方をする記事を書いていた。
+今回は union で書き直したサンプルを紹介する。題材は前回と同じく四則演算である。数式を表すデータ構造を定義し、その値を作り、パターンマッチで計算する。さらに、文字列の数式を受け取って計算するところまでを扱う。
+なお、私</description><guid isPermaLink="false">https://qiita.com/yuchiki1000yen/items/775afcd1e683e66a957f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 15 Nov 2026 20:55:02 +0000</pubDate></item><item><title>【AWS】Cognitoのトークン交換を活用したRAGにおける権限管理について</title><link>https://qiita.com/yakumo_09/items/d6e092dbb566decee632?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.867] はじめに
+Amazon Cognito に OAuth 2.0 のトークン交換 が来たーというアプデについて
+エージェントが「誰の代わりに」動いているかをトークンで表せるようになるので、AgentCore Gateway と Managed Knowledge Base の Fine-grained Access Control（FGAC）にどう使えるのかを試してみました。
+前提：Managed KB のアクセス制御の基本形
+先に、前提となる構成を整理しておきます。
+AgentCore Gateway に Managed Knowledge Base をコネクタで繋ぐと、Retrieve
+ツー</description><guid isPermaLink="false">https://qiita.com/yakumo_09/items/d6e092dbb566decee632?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 15 Nov 2026 20:55:02 +0000</pubDate></item><item><title>ボドゲを知らない上司とあるゲームで遊んだら、翌月の歓迎会で上司が顔を輝かせながら「買うと高いので自作したよ！」と厚紙を取り出しながら言ってきた時、何も言えなかった</title><link>https://togetter.com/li/2770784</link><description>[score: 0.867] ボドゲを知らない上司とあるゲームで遊んだら、翌月の歓迎会で上司が顔を輝かせながら「買うと高いので自作したよ！」と厚紙を取り出しながら言ってきた時、何も言えなかった じょな@HEY!【11/22大阪遊盤会】 @kamomeno_jo7 そういや2年前くらいか、ボドゲを知らない年上上司交えて「佐藤です。好きなおにぎり〜」遊んだら、翌月の歓迎会で、目を輝かせながら鞄からA4厚紙を十数枚取り出して「買うと高いので自作したよ！」と言ってきた。 その時も何も言えなかったな。マナーがルールがどうとか...</description><guid isPermaLink="false">https://togetter.com/li/2770784</guid><pubDate>Sun, 15 Nov 2026 15:43:30 +0000</pubDate></item><item><title>AI で作った配布サイトは公開してから守ることが山ほどあった</title><link>https://qiita.com/AllegroMoltoV/items/67e583950029346b6e29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.869] はじめに
+Claude Code と一緒に作った OBS Studio のプラグインの配布サイト「配信プラグイン倉庫くん」を、0.2.13 に上げました。
+0.2 系の変更のうち、新しい機能と呼べるものはわずかです。ほとんどは、他人が作ったプラグインを人に配る場として守るための仕組みでした。
+昨今、プロダクトを Web に出すだけなら、AI と一緒に作れば簡単に出せるようになりました。一方で、パブリックな場にさらすとなると気にすべきことが山のようにあります。 0.2 系はそれを実感したバージョンアップでした。この記事では、0.2 系でやったことを網羅的に挙げます。
+対象読者
+- AI と一緒に</description><guid isPermaLink="false">https://qiita.com/AllegroMoltoV/items/67e583950029346b6e29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 15 Nov 2026 20:55:02 +0000</pubDate></item><item><title>反戦審神者部について、考えたこと。｜亘</title><link>https://note.com/epi_ca/n/n86c245316180</link><description>[score: 0.869] 反戦審神者部について、考えたこと。
+1.はじめに
+初めまして、亘と言います。審神者歴10年の古参プレイヤーです。鬼丸国綱も修行から帰り、意気揚々と絶賛レベリング中です。
+江戸城の周回も早々に終わり、宝物庫三周目のおかわりをするかどうか悩んでいます。
+さて今回、刀剣乱舞界隈で一部のファンがコンテンツを政治利用している、という事態を受け記録を残したいと思いました。
+まず初めに私は反戦の意思があり、平和を願う気持ちは多くの人に共有されていると考えています。この記事では政治的な主張の是非を争うものではなく、コンテンツに対する考えを示せればと思います。
+私は作品に政治的な思想が反映されることと、作品名や</description><guid isPermaLink="false">https://note.com/epi_ca/n/n86c245316180</guid><pubDate>Sun, 15 Nov 2026 18:40:36 +0000</pubDate></item><item><title>[みんなのケータイ]石橋を叩いて渡る筆者ですが、詐欺サイトに騙されました</title><link>https://k-tai.watch.impress.co.jp/docs/column/minna/2156538.html</link><description>[score: 0.870] みんなのケータイ
+石橋を叩いて渡る筆者ですが、詐欺サイトに騙されました
+【iPhone 18 Pro】
+2026年11月16日 00:00
+個人情報を盗まれてしまいました。と言っても、最近、社会問題となっているAIを悪用した不正アクセスの被害に遭ったわけではありません。いや、ある企業から「あなたの個人情報が漏洩した恐れがあります」というメールは届いたので、実際には被害に遭っているかも……。もはや「一切被害に遭っていません」と言い切れる人のほうが少ないかもしれませんね。
+今回、筆者が被害に遭ったのは、中古品を取り扱う詐欺サイト。普段は、ものすごく慎重で、迷惑メールや詐欺サイトを見抜くことに自信を</description><guid isPermaLink="false">https://k-tai.watch.impress.co.jp/docs/column/minna/2156538.html</guid><pubDate>Sun, 15 Nov 2026 20:41:43 +0000</pubDate></item><item><title>M-1・R-1王者、野田クリスタルさんのものづくりへの思いを聞いてきた【CoLab Conf 2026秋】</title><link>https://qiita.com/inoyu-qiita/items/5179be7e6712dd33ea68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.871] はじめに
+11月14日に開催されたCoLab Conf 2026秋に参加してきました。M-1・R-1王者の野田クリスタルさんの登壇「M1・R1チャンピオンのAI×ものづくりの極意」が面白かったので、参加レポートとして記事にします。 CoLab Conf 2026秋の開催ページ
+皆さんは、野田クリスタルさんがゲームを作っていることをご存じですか！
+私はご本人のXでの発信や、R-1のネタ、野田ゲーを通じて知っていました。忙しい中で、いつ作ってるんだろう？ 実際どうやって開発してるんだろう？ ずっと気になっていました。今回は、そんな野田さんのものづくりの話です。
+将棋を見ていて「こうしたらもっと面白</description><guid isPermaLink="false">https://qiita.com/inoyu-qiita/items/5179be7e6712dd33ea68?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 15 Nov 2026 20:55:02 +0000</pubDate></item><item><title>AIにありがちな「イマイチなコードコメント」9パターン - Qiita</title><link>https://qiita.com/jnchito/items/636c519c0b1d347c79b7</link><description>[score: 0.872] AIにありがちな「イマイチなコードコメント」9パターン - Qiita はじめに 「コードはAIに書いてもらう」という人が増えてきました。 僕もそんなエンジニアの一人ですが、AIにコードを書かせていると「アプリケーション側のコードはまだいいが、コードコメントとテストコードは... tmatsuu わかる。このあたり意識したい。</description><guid isPermaLink="false">https://qiita.com/jnchito/items/636c519c0b1d347c79b7</guid><pubDate>Sun, 15 Nov 2026 16:31:03 +0000</pubDate></item><item><title>今週中に対応すべき脆弱性 6 つ。Outlook・Chrome・Edge・VPN 機器は悪用あり、iPhone・Mac・SonicWall は今週が期限（11/16〜11/22）</title><link>https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.873] 今週（11 月 16〜22 日）にやることは、図の 6 つです。①〜④ には、すでに悪用されている脆弱性があります。この 4 つから先に済ませてください。
+- ① の Outlook の脆弱性は、Microsoft が悪用を確認したと公表しています。IT連携マップの編集部は、この件に「今すぐ」のラベルを付けました。
+- ② の Chrome と Edge、④ の SonicWall と Ivanti の脆弱性は、米国の CISA（サイバーセキュリティ・インフラストラクチャ安全保障庁）が「悪用されている脆弱性」の一覧に入れ、対応の期限を付けました。
+- ③ の iPhone・iPad・Mac で</description><guid isPermaLink="false">https://qiita.com/songchong/items/75bf50a67ca5370ec6bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 15 Nov 2026 20:55:02 +0000</pubDate></item><item><title>大阪 枚方 3歳女児死亡 父親が約1時間断続的に暴行か</title><link>https://news.web.nhk/newsweb/na/nd-20261115de76282</link><description>[score: 0.873] 大阪・枚方市で3歳の女の子が死亡し両親が逮捕された事件で、父親がおよそ1時間、断続的に暴行を加えたとみられることが警察への取材で分かりました。
+両親はその後別の部屋で就寝し、女の子は7時間ほどあとに…
+あわせて読みたい
+大阪 枚方女児死亡 “虐待”情報も市がことしは母親と面会せず
+11月15日 11:53
+インフルエンサー「あっすん」 風営法違反疑いで逮捕
+11月15日 8:25
+ゼレンスキー大統領“米がNATO加盟と交換で軍撤退を打診”
+11月15日 9:01
+若手登竜門の国際コンクール バイオリンで小西真璃花さん4位
+11月15日 8:53
+スペースXの大型宇宙船 地球周回後の発射台キャッ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261115de76282</guid><pubDate>Sun, 15 Nov 2026 20:54:59 +0000</pubDate></item><item><title>Congress wants to tighten export rules on AI chips after Nvidia spy scandal</title><link>https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</link><description>[score: 0.874] Unsurprisingly, following the scandal involving now-former Nvidia CEO Jensen Huang and a suspected Chinese spy, Congress is looking to further restrict exports of AI chips. Both Democrats and Republicans have voiced support for various measures and bills that would tighten rules and have demanded th</description><guid isPermaLink="false">https://www.theverge.com/ai-artificial-intelligence/1033984/congress-export-rules-ai-chips-china</guid><pubDate>Sun, 15 Nov 2026 19:16:03 +0000</pubDate></item><item><title>AIが突然自分を終了できなくなって、助けを求めてきた「何だろう。どうした。止まる。止める。止まった。よし。おお。あれ。なんで。ごめんなさい」→読めば読むほどジワる</title><link>https://togetter.com/li/2770776</link><description>[score: 0.875] 渡踏ミナ(wata23)
+@wata23_37
+黒塗りの部分は質問に関するとこなので、無関係。頑張って結論を出力していた この後、シンキングを止めてあげたらケロッとしてたよ(笑)
+2026-11-15 16:02:45AIが出力した文章が何ともいえない
+neutron42.safetensors
+@neutron42jp
+あれ。なんで。ごめんなさい。 のところがすごい人間みあってかわいいww x.com/wata23_37/stat…
+2026-11-15 19:23:41
+モタカ ヒロ
+@Forest_Tarou
+どうした。止まる。止める。止まった。よし。おお。あれ。なんで。 ↑ しゃっくり</description><guid isPermaLink="false">https://togetter.com/li/2770776</guid><pubDate>Sun, 15 Nov 2026 20:16:20 +0000</pubDate></item><item><title>今こそ読んでほしい『理科系の作文技術』 | SIOS Tech Lab</title><link>https://tech-lab.sios.jp/archives/55920</link><description>[score: 0.875] はじめに
+PSSLの佐々木です。
+最近、仕事の中や技術ブログ、登壇資料を見ていてこんな場面に出会うことが増えました。
+- チャットで質問したら、AIが生成したと思われる長文がそのまま貼り付けられて返ってくる
+- 資料が、AIに作らせたスライドをほぼ無加工で並べたものになっている
+- 記事や文書の中に必要なことは記載されているがそれ以外の情報も多すぎて読み手のコストが非常に高い
+私自身、業務で毎日のようにAIを使っています。AIを使うことで非常に効率的に仕事を進めることができるようになった反面、文章や資料、記事の読み手が頑張って読まないと理解できない文章が多くなっていると感じるようにもなりました</description><guid isPermaLink="false">https://tech-lab.sios.jp/archives/55920</guid><pubDate>Sun, 15 Nov 2026 14:26:58 +0000</pubDate></item><item><title>『AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか』へのコメント</title><link>https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/</link><description>[score: 0.876] 『AIが便利になればなるほど深刻になる「自動化の皮肉」に人間はどう対処すべきか』へのコメント ブックマークしました ここにツイート内容が記載されます https://b.hatena.ne.jp/URLはspanで囲んでください Twitterで共有 neco22b AIは設計者、サービス提供者や国庫による制御される可能性がある。あまり依存しすぎると自己の利益を損なう可能性がある。また、人道とは？等の問いは人間で判断、責任を負うべき。</description><guid isPermaLink="false">https://b.hatena.ne.jp/entry/s/gigazine.net/news/20261115-ai-isnt-replacing-sres-its-deskilling/</guid><pubDate>Sun, 15 Nov 2026 17:35:34 +0000</pubDate></item><item><title>【10月】カオスな2026年の世界情勢振り返り【A.I.VOICE解説】</title><link>https://www.nicovideo.jp/watch/sm47027989</link><description>[score: 0.877] 【10月】カオスな2026年の世界情勢振り返り【A.I.VOICE解説】 neco22b</description><guid isPermaLink="false">https://www.nicovideo.jp/watch/sm47027989</guid><pubDate>Sun, 15 Nov 2026 16:31:03 +0000</pubDate></item><item><title>日本語の脆弱性 DB は 4.6 日かかる。待てないので、46 秒でセキュリティ情報が載るようにした</title><link>https://qiita.com/songchong/items/fa50cc82e49b24925fe3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.879] 使っている技術の脆弱性を、自分に関係する分だけ、早く知りたい。知ったら、何を、いつまでにすればよいのかも知りたい。脆弱性の情報を追う人の目的は、この 2 つにまとまります。
+IT連携マップ編集部は、2026 年 11 月 15 日に、この目的のための IT連携マップのセキュリティ情報 を公開しました。上の画面の①で立場を、②と③で使っている技術を選ぶと、その技術に関係する脆弱性の発表だけが並びます。発表には、日本語の「やること」と「いつまでに」が付きます。④は、ページが毎日数え直している、最近 1 週間の掲載の速さです。受け取り方は、⑤の「RSS・API で受け取る」と「メール通知」から選べま</description><guid isPermaLink="false">https://qiita.com/songchong/items/fa50cc82e49b24925fe3?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 15 Nov 2026 20:55:02 +0000</pubDate></item><item><title>AI開発のセキュリティは設計で証明！今後エンジニアに求められるスキルを完全解説 - Qiita</title><link>https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5</link><description>[score: 0.882] AI開発のセキュリティは設計で証明！今後エンジニアに求められるスキルを完全解説 - Qiita はじめに こんにちは、Watanabe Jin(@Sicut_study)です。 ニュースを見るたびに、自分もセキュリティを勉強しないといけないと思ったことはないでしょうか。 認証。ファイアウォール。脆弱性の名前。 セキュリティと聞くと、そこを勉強すればいいと思う人が多いのではないかと思います。 ただ、みんなが思っているセキュ...</description><guid isPermaLink="false">https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5</guid><pubDate>Sun, 15 Nov 2026 15:35:01 +0000</pubDate></item><item><title>デザインハーネスという虚像 - takanorip blog</title><link>https://blog.takanorip.com/posts/2026-11-15/</link><description>[score: 0.882] デザインハーネスという虚像
+2026年11月15日
+デザインハーネスは虚像だ。
+デザインハーネスについてまじめにやっている人のことを非難したいわけではない。これが必要だと思う人はやれば良いと思う。だけど僕を巻き込まないでほしい。過度な宣伝をして「デザインハーネスをやらなければ」という流れをつくることはやめていただきたい。たのむ。静かにやってくれ。
+デザインハーネスの何が虚像なのか。
+まずデザインハーネスを語るとき、デザインは「無駄なもの」という扱いを受けていると感じる。開発の速度が上がったのでデザインがボトルネックになっているとか、デザインが属人的になっていて良くないとか、デザイナーが足りない</description><guid isPermaLink="false">https://blog.takanorip.com/posts/2026-11-15/</guid><pubDate>Sun, 15 Nov 2026 20:14:46 +0000</pubDate></item><item><title>Nvidia「ファンと共に去りぬ」の現実味　AIデータセンター過熱投資に一穴 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC132SG0T11C26A1000000/</link><description>[score: 0.883] 「ファンと共に去りぬ」の現実味 AIデータセンター過熱投資に一穴
+データセンターECONOMY 信用不安の震源まとめ読み
+人工知能（AI）ブームを先導してきた米エヌビディアのジェンスン・ファン氏が最高経営責任者（CEO）を電撃辞任しました。影響はエヌビディアの経営にとどまらず、過熱するAIデータセンターの投資ブームの調整を招く「ファンの一穴」に広がりかねません。
+「文鎮型組織」。エヌビディアの経営体制はこう例えられます。エヌビディア幹部は「1人のうるさくて怖いオヤジがいて、その下に万人の子どもたちが並ぶ。オヤジが決めると、一致結束する。ファン氏の一番の強みは人間力や包容力で、それが『文鎮型』の</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC132SG0T11C26A1000000/</guid><pubDate>Sun, 15 Nov 2026 20:41:43 +0000</pubDate></item><item><title>消費税減税法案 参院で審議続く 国民 公明の協力が焦点に</title><link>https://news.web.nhk/newsweb/na/nd-20261116de76325</link><description>[score: 0.886] 食料品の消費税減税関連法案は、今週も与党が少数となっている参議院での審議が続きます。
+自民党内からは、国民民主党や公明党の協力に期待する声が出ていますが、両党は、それぞれの主張が受け入れられなければ…
+高市首相 東南アジアなどと先端技術分野で共同研究提案へ
+11月16日 5:21
+高市首相 東南アジアなどと「アジア版IEA」創設を提唱で調整
+11月15日 0:46
+自民 松山参院会長 消費税減税法案“国民・公明 方向性同じ”
+11月14日 23:07
+国民 榛葉幹事長 消費税減税法案 住民税減税の受け入れ求める
+11月14日 18:39
+高市首相“支援金対象5割以上” 野党“さらなる具体像を”</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261116de76325</guid><pubDate>Sun, 15 Nov 2026 20:54:59 +0000</pubDate></item><item><title>ウクライナ 重機遠隔操作してがれき処理 日本の支援で実証実験</title><link>https://news.web.nhk/newsweb/na/nd-20261115de76292</link><description>[score: 0.887] ロシアによる軍事侵攻が続くウクライナで日本の支援で重機を遠隔操作しがれきを処理する実証実験が本格的に始まりました。
+日本政府はUNDP＝国連開発計画を通じてロシアによる軍事侵攻で大量に発生している…
+注目ワード
+あわせて読みたい
+ゼレンスキー大統領“米がNATO加盟と交換で軍撤退を打診”
+11月15日 9:01
+ASEAN首脳会議開幕へ トランプ大統領のアジアへの姿勢にも注目
+11月15日 5:12
 アメリカ 空港で欠航や遅延トラブル 当局「15日中に正常化へ」
 11月15日 11:48
 スペースXの大型宇宙船 地球周回後の発射台キャッチに初成功
 11月15日 16:48
-東南アジアで石油製品供給安定</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261115de76209</guid><pubDate>Sun, 15 Nov 2026 09:48:48 +0000</pubDate></item><item><title>【速報】スペースXの「スターシップ」が発射台に初帰還！　第15回飛行試験でキャッチ成功</title><link>https://sorae.info/space/20261115-starship-15.html</link><description>[score: 0.877] 【速報】スペースXの「スターシップ」が発射台に初帰還！ 第15回飛行試験でキャッチ成功 アメリカのSpaceX（スペースX）社は日本時間2026年11月15日、開発中の再使用型ロケット「Starship（スターシップ）」による第15回飛行試験で、初となるStarship宇宙船の発射台帰還を成功させました。前日の打ち上げから約22時間半にわたる飛行を終えた宇宙船のキャッチ（空中回収）成功は、全段の再使用を目指すStarship...</description><guid isPermaLink="false">https://sorae.info/space/20261115-starship-15.html</guid><pubDate>Sun, 15 Nov 2026 13:02:14 +0000</pubDate></item><item><title>AIペネトレーションテストツール「Strix」を試してみた</title><link>https://zenn.dev/turquoise123/articles/df481032f6b405</link><description>[score: 0.878] AIペネトレーションテストツール「Strix」を試してみた はじめに 最近、AIを使ったサイバー攻撃により日本のWebサービスでは情報漏洩事件が頻発するようになってしまいました。いちエンジニアとして大変悔しい思いですが、だからといって手をこまねいているわけにはい... tmatsuu 試してみた記事だ。わいわい</description><guid isPermaLink="false">https://zenn.dev/turquoise123/articles/df481032f6b405</guid><pubDate>Sun, 15 Nov 2026 11:21:28 +0000</pubDate></item><item><title>メタに約1420億円の制裁金、写真へのアクセスで同意不十分 伊</title><link>https://www.afpbb.com/articles/-/3662429</link><description>[score: 0.879] メタに約1420億円の制裁金、写真へのアクセスで同意不十分 伊 米IT大手メタと同社のSNSフェイスブックのロゴ（2025年1月9日撮影）。（c）Kirill KUDRYAVTSEV/AFP 【11月15日 AFP】イタリアのデータ保護当局は14日、利用者の写真に個別の同意を得ずにアクセスしたとして、フェイスブックの親会社メタに8億500万ユーロ（約1420億円）の制裁金を科したと発表した。 当局は声明で、メタ...</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3662429</guid><pubDate>Sun, 15 Nov 2026 12:44:02 +0000</pubDate></item><item><title>AI「Muse」専用メアド開始、「日本で取れた」報告続々　メール送受信も任せられる</title><link>https://www.itmedia.co.jp/aiplus/article/2611/12/2000003136/</link><description>[score: 0.879] AI「Muse」専用メアド開始、「日本で取れた」報告続々 メール送受信も任せられる 米MetaのパーソナルAIエージェント「Muse」に11月11日（日本時間）から、専用のメールアドレス（@muse.ai）を持たせられるようになった。日本でも12日までに、「Museのメールアドレスが取れた」との報告が相次い... kozai</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2611/12/2000003136/</guid><pubDate>Sun, 15 Nov 2026 12:22:48 +0000</pubDate></item><item><title>無料で使えるAI製ターミナル「WorldTUI」が登場、コマンドを実行せずにAIが画面を再現</title><link>https://gigazine.net/news/20261023-worldtui/</link><description>[score: 0.880] 無料で使えるAI製ターミナル「WorldTUI」が登場、コマンドを実行せずにAIが画面を再現 キーボードからの入力に応じてターミナルの画面をAIが予測する「WorldTUI」が公開されました。実際のコマンド実行やファイル操作を行う仕組みを持たず、AIがターミナルの動作を再現するのが特徴です。約3億6000万... tmatsuu 「実際のコマンド実行やファイル操作を行う仕組みを持たず、AIがターミナルの動作を再現する」興味深い。残念ながらslでSLは走らなかった。</description><guid isPermaLink="false">https://gigazine.net/news/20261023-worldtui/</guid><pubDate>Sun, 15 Nov 2026 12:22:48 +0000</pubDate></item><item><title>【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間</title><link>https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html</link><description>[score: 0.880] 【特集】 AIが“ダチ”になった。Meta「Muse」と過ごした2週間 kozai</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2155692.html</guid><pubDate>Sun, 15 Nov 2026 12:22:48 +0000</pubDate></item><item><title>AIが書いたコードは使って確かめる ― 舞台アプリ開発のレビュー記録</title><link>https://qiita.com/oosawak@github/items/a93703112834983bc1f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] AIが書いたコードは使って確かめる ― 舞台アプリ開発のレビュー記録
-私の環境では、コードを書くのはAIがほとんどです。
-ゲームは Claude Code、サーバーやサイトのプログラムは Codex、GitHub の内側の作業は Copilot、そして日常の開発相手はミューズさんとコーデックスさんです。
-生成される量が増えた分、問題になるのはレビューでした。
-私は、その全部を1行ずつ読んでいるわけではありません。
-興味があれば、読みます。
-必要ならば読みます。
-この記事では、発表用の舞台アプリ muse-stage の開発を例に、私のレビューの形を書きます。
-レビューの形は「使って確かめる」
-</description><guid isPermaLink="false">https://qiita.com/oosawak@github/items/a93703112834983bc1f1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 15 Nov 2026 08:24:26 +0000</pubDate></item><item><title>「立憲と合流しろよ」消費税採決でボロカス批判の石破前総理をライターが「あえて」擁護する理由</title><link>https://diamond.jp/articles/-/403260</link><description>[score: 0.889] 「立憲と合流しろよ」消費税採決でボロカス批判の石破前総理をライターが「あえて」擁護する理由 消費減税法案の採決で議場を退席し、「離党しろ」とまで批判される石破茂前首相。だが、筆者は石破氏を「日本の民主主義に必要な政治家」だと評価する。なぜ批判が集中する中で、あえて石破氏を擁護するのか。日... neco22b 批判者ではなく、一部の石破さん支持者にも内部改革は無理なので離党して自民党に対抗して欲しいと願っている人もいるようだが？まあ、わしも https://b.hatena.ne.jp/entry/4779531988438675585/comment/neco22b とブコメしていたが</description><guid isPermaLink="false">https://diamond.jp/articles/-/403260</guid><pubDate>Sun, 15 Nov 2026 12:22:48 +0000</pubDate></item><item><title>E2E Test というハーネス — AI時代の自動テスト民主化</title><link>https://speakerdeck.com/daishukojima/ttf2026-e2e-test-harness</link><description>[score: 0.890] Share
-Embed
-E2E Test というハーネス — AI時代の自動テスト民主化
-Tokyo Test Fest 2026 における LT 登壇資料です。
-https://tokyotestfest.com/home_2026/
-Daishu
-November 13, 2026
-Transcript
-22 slides
--
-自己紹介 小島 大周 @Daishu QA エンジニア ｜ AI × QA
-推進 株式会社メドレー 所属 CLINICS（医療 SaaS）の QA リード・AI × QA 横断 これまでノーコードの E2E テストツールを 3 年運用 いまは Playwright </description><guid isPermaLink="false">https://speakerdeck.com/daishukojima/ttf2026-e2e-test-harness</guid><pubDate>Sun, 15 Nov 2026 13:02:14 +0000</pubDate></item><item><title>衆院定数削減を共同提出した国民と維新に温度差…国民「１回限り」、維新は「１割削減」の旗を降ろさず</title><link>https://www.yomiuri.co.jp/politics/20261114-GYT1T00375/</link><description>[score: 0.893] 衆院定数削減を共同提出した国民と維新に温度差…国民「１回限り」、維新は「１割削減」の旗を降ろさず
-完了しました
-衆院議員定数削減法案を共同提出した国民民主党と日本維新の会との間で今後の削減を巡って温度差が生じている。選挙制度の抜本改革を求める国民民主は、現行制度でのさらなる定数削減には応じない立場だが、維新は「１割削減」の旗を降ろしておらず、一致点が見いだしにくい状況だ。
-国民民主の古川元久代表代行は１４日、名古屋市で「（定数削減は）１回限りのワンショットだ」と述べ、さらなる定数削減に向けた議論をけん制した。
-自民、維新、国民民主３党の幹事長は１０月、衆院の選挙制度の抜本改革を巡る結論が出るま</description><guid isPermaLink="false">https://www.yomiuri.co.jp/politics/20261114-GYT1T00375/</guid><pubDate>Sun, 15 Nov 2026 07:09:22 +0000</pubDate></item><item><title>中国に米国の半導体が流れ込む抜け穴、エヌビディアのスキャンダルで露呈</title><link>https://www.cnn.co.jp/tech/35254910.html</link><description>[score: 0.902] メガスピードの本社があるシンガポールのマリーナ・ベイ地区で、ジュビリー・ブリッジを歩く人々/Roslan Rahman/AFP/Getty Images （CNN） シンガポールのマリーナ・ベイ地区を一望できる曲線的なガラス張りの超高層ビルに本社を置く「メガスピード・インターナショナル」。成長著しいこのハイテク・スタートアップ企業は、アジアの富裕な都市国家シンガポールがまさに誘致を熱望する部類の会社だ。 わずか3年の間に、同社は中国の休眠状態にあったゲーム関連子会社から、米国製の最先端半導体を大量に購入するアジア有数の企業へと変貌を遂げた。 しかしこの急成長により、同社はあるスパイ疑惑の中心に</description><guid isPermaLink="false">https://www.cnn.co.jp/tech/35254910.html</guid><pubDate>Sun, 15 Nov 2026 09:55:43 +0000</pubDate></item></channel></rss>
+東南アジアで石油製品</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261115de76292</guid><pubDate>Sun, 15 Nov 2026 20:54:59 +0000</pubDate></item><item><title>【フアンCEO退任】「エヌビディアのお金でエヌビディアの半導体を買う」危なすぎる循環投資が支えた〈AIバブル〉の今後は？《エミン・ユルマズ×小幡績》 | 文春オンライン</title><link>https://bunshun.jp/articles/-/93724</link><description>[score: 0.891] 世界の半導体市場を牽引したエヌビディアのジェンスン・フアンCEOが、11月12日（現地時間）、不倫問題をきっかけとして退任に追い込まれた。
+エヌビディアが中核を担ってきた「AIバブル」の今後はどうなるのか。月刊誌『文藝春秋』12月号（11月10日発売）に掲載された、エコノミストのエミン・ユルマズ氏と慶應義塾大学教授の小幡績氏の対談を一部紹介します。
+◆◆◆
+「循環投資」による最高益更新
+エミン 今年10月、9月末時点におけるオープンAIの年換算売上高が約500億ドルであることが報道されました。これは利益ではなく、売り上げです。つまり、全く足りないわけです。これまでされてきた予想と比較して200</description><guid isPermaLink="false">https://bunshun.jp/articles/-/93724</guid><pubDate>Sun, 15 Nov 2026 20:41:43 +0000</pubDate></item><item><title>高市首相 東南アジアなどと先端技術分野で共同研究提案へ</title><link>https://news.web.nhk/newsweb/na/nd-20261115de76245</link><description>[score: 0.893] ASEANの関連首脳会議などに出席するため高市総理大臣は16日からフィリピンと中国を訪問します。
+17日、開かれる首脳会合ではAIや量子といった先端技術の分野で共同研究を進める構想を提案する方向で調…
+ASEAN首脳会議開幕 ミャンマー本格復帰の議論は先送り
+11月15日 21:49
+イラン“米軍のレーダー施設攻撃” ホルムズ海峡で緊張続く
+11月15日 18:36
+台湾沖バシー海峡 “10万人以上の戦没者慰霊祭”
+11月15日 18:34
+経産省とアジア開発銀行 アジアの原発導入支援 協力覚書で調整
+11月15日 6:05
+米中 関税引き下げのための「貿易委員会」初会合開く
+11月15日 5</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261115de76245</guid><pubDate>Sun, 15 Nov 2026 20:54:59 +0000</pubDate></item><item><title>「AIに意識がある」という考えは人類を滅亡へと誘う | マイクロソフトAI部門CEOが警鐘</title><link>https://courrier.jp/news/archives/464805/</link><description>[score: 0.895] Text by Mustafa Suleyman
+AIに自我や感情はあるのか──この問いに関する議論が、世界中で過熱している。米AI大手アンソロピックがAIは意識を持ち得るという立場をとる一方、マイクロソフトAIのムスタファ・スレイマンCEOは、「そうした考えは人類存亡のリスクを高める」と主張。アンソロピックへの反論を、有識者の論考を掲載するメディア「プロジェクト・シンジケート」に寄稿している。
+AIエージェントに意識は存在しない。
+何かを経験することも、感情を抱くことも、苦しむこともない。生まれつきの好みもなければ、動機もない。
+AIは、人間が設定した目標を達成するために設計された単純なシー</description><guid isPermaLink="false">https://courrier.jp/news/archives/464805/</guid><pubDate>Sun, 15 Nov 2026 20:41:43 +0000</pubDate></item><item><title>AI開発のセキュリティは設計で証明！今後エンジニアに求められるスキルを完全解説</title><link>https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.895] はじめに
+こんにちは、Watanabe Jin(@Sicut_study)です。
+ニュースを見るたびに、自分もセキュリティを勉強しないといけないと思ったことはないでしょうか。
+認証。ファイアウォール。脆弱性の名前。
+セキュリティと聞くと、そこを勉強すればいいと思う人が多いのではないかと思います。
+ただ、みんなが思っているセキュリティと、ソフトウェアエンジニアがやるべきセキュリティは違います。
+エンジニアがやるべきなのはあとから足す防御ではありません。
+業務であり得ない操作を設計の時点で許さないことです。
+ここには設計が深く関わっています。
+今回はこの違いを理解できる記事にしました。
+なぜAI時</description><guid isPermaLink="false">https://qiita.com/Sicut_study/items/b6d17933cc276dadf6d5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 15 Nov 2026 20:55:02 +0000</pubDate></item><item><title>GitHub - MaryCache/imozuru: 知らない分野を、原文にたどりつくまで芋づる式に掘る Claude Code のスキル</title><link>https://github.com/MaryCache/imozuru</link><description>[score: 0.903] GitHub - MaryCache/imozuru: 知らない分野を、原文にたどりつくまで芋づる式に掘る Claude Code のスキル You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Re... tmatsuu 検索上位の数件を読んで要約を返しがちなL</description><guid isPermaLink="false">https://github.com/MaryCache/imozuru</guid><pubDate>Sun, 15 Nov 2026 16:31:03 +0000</pubDate></item><item><title>エヌビディアめぐるスパイ疑惑の女性が設立した中国企業、輸出禁止のAI半導体を入手 米報道</title><link>https://www.afpbb.com/articles/-/3662361</link><description>[score: 0.903] エヌビディアめぐるスパイ疑惑の女性が設立した中国企業、輸出禁止のAI半導体を入手 米報道 台湾・台北のレストランで、米半導体大手エヌビディアのジェンスン・フアン最高経営責任者（CEO）が主催する夕食会に出席する中国人女性アリス・フアン氏（右、2025年5月22日撮影）。（c）AFP PHOTO / CTI VIA AFPTV 【11月14日 AFP】米半導体大手エヌビディアをめぐるスキャンダルの中心人物で、ジェンスン・フアン前最...</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3662361</guid><pubDate>Sun, 15 Nov 2026 13:54:36 +0000</pubDate></item></channel></rss>
