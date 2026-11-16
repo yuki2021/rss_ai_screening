@@ -1,61 +1,7 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 16 Nov 2026 14:18:43 +0000</lastBuildDate><item><title>バッグの隙間に入るコレで移動の疲労感が激減。旅行・出張の必須ツール</title><link>https://www.businessinsider.jp/article/2611-tabine-air-cushion-travel/</link><description>[score: 0.869] 旅行や帰省など、長時間の移動やいつもと違う環境に行くことの多いシーズンになってきた。筆者も出張が増え、移動時間やホテルで過ごす時間が長くなってきている。困っていたのが、座っている時間が長いため、お尻や腰が痛くなってくることだ。
-旅行や出張をより快適にするために購入してみたのが「Tabineクッション」だ。結果、想像以上に長距離移動が楽になり、移動時には手放せなくなっている。
-持ち運び用エアークッション
-旅行用のクッションといえば、ネックピローのような首に使うものを想像しがちだが、今回購入したのは膨らませて使う座席用のクッション。ひとりが座るのには十分な約43×34センチメートルというサイズだ。</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-tabine-air-cushion-travel/</guid><pubDate>Mon, 16 Nov 2026 13:00:55 +0000</pubDate></item><item><title>GitHub - lidge-jun/opencodex: Universal provider proxy for OpenAI Codex &amp; Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code</title><link>https://github.com/lidge-jun/opencodex</link><description>[score: 0.869] GitHub - lidge-jun/opencodex: Universal provider proxy for OpenAI Codex &amp; Claude Code — use any LLM (Claude, Gemini, Grok, DeepSeek, Ollama…) with Codex CLI, App, SDK, and Claude Code Universal provider proxy for OpenAI Codex &amp; Claude Code — use any LLM with Codex CLI, App, SDK, and Claude Code. npm</description><guid isPermaLink="false">https://github.com/lidge-jun/opencodex</guid><pubDate>Mon, 16 Nov 2026 13:37:05 +0000</pubDate></item><item><title>札幌と二拠点生活してた｜kon_yu</title><link>https://note.com/kon_yu/n/n5bf7289d3e9f</link><description>[score: 0.870] 札幌と二拠点生活してた
-2年間続けてきた首都圏の自宅と札幌と二拠点生活に区切りをつけ、このたび札幌の部屋を解約してきた。
-フリーランスのソフトウェアエンジニアとしてリモートワークをしながら、生まれ故郷である札幌に自分専用の拠点を持つ暮らしは想像以上に快適だった。2年間運用してみてそろそろ飽きたので先日解約して部屋を出た。
-これから2拠点生活を検討している人や、地方での部屋探し・スマートホーム化に興味がある人に向けて、部屋を借りた動機からインフラ構築の手法、リアルな収支、そして撤退を決めた理由までを構造的に振り返ってみる。
-ホテル泊からセカンドハウスの賃貸契約へ舵を切ったのか
-2拠点を始めた最大</description><guid isPermaLink="false">https://note.com/kon_yu/n/n5bf7289d3e9f</guid><pubDate>Mon, 16 Nov 2026 13:17:15 +0000</pubDate></item><item><title>OLED搭載の新型MacBook Proで「目が疲れる」「頭痛がする」との報告が相次ぐ</title><link>https://gigazine.net/news/20261116-oled-macbook-pro/</link><description>[score: 0.870] OLED搭載の新型MacBook Proで「目が疲れる」「頭痛がする」との報告が相次ぐ
-Appleが2026年11月6日に発売した有機EL(OLED)ディスプレイ搭載の新型MacBook Proについて「目が疲れる」「頭痛やめまいが起きる」といった報告が相次いでいます。従来モデルより美しい映像を表示できる一方で、画面の明るさを調整する仕組みが一部のユーザーに不快感を与えている可能性が指摘されています。
-The MacBook Pro’s OLED PWM Problem: When a ‘Better’ Display Becomes Worse to Use
-https://macanora</description><guid isPermaLink="false">https://gigazine.net/news/20261116-oled-macbook-pro/</guid><pubDate>Mon, 16 Nov 2026 07:44:46 +0000</pubDate></item><item><title>AIの回答が長すぎて、理解しないまま実装している問題（理解負債）</title><link>https://zenn.dev/kent_code/articles/5892898be90cac</link><description>[score: 0.871] 主に C#/.NET で業務システムを作って25年くらいになります。ここ1年ほどは、設計の相談も実装も Claude Code と一緒にやっています。 便利なのは間違いないんですが、使えば使うほどストレスも溜まっていました。返ってくる情報の量が膨大で、頭がついていかないのです。。 つまり、回答が長すぎて、理解が追いつかないまま実装に進んでしまう。 この記事では、この課題に対して CLAUDE.md に数行のルールを足しただけでかなり楽になった話と、同じ質問をルールなし／ルールありで比べてみた結果を書いていきたいと思います。 こういう状態になっていないか 設計の相談をすると、最近の A...</description><guid isPermaLink="false">https://zenn.dev/kent_code/articles/5892898be90cac</guid><pubDate>Mon, 16 Nov 2026 06:59:24 +0000</pubDate></item><item><title>PHP重大脆弱性は「始まり」に過ぎない？　2年前の兆候が示す“次の危機”</title><link>https://atmarkit.itmedia.co.jp/ait/articles/2611/15/news001.html</link><description>[score: 0.871] PHP重大脆弱性は「始まり」に過ぎない？ 2年前の兆候が示す“次の危機” 2026年10月21日、プログラミング言語「PHP」の重大な脆弱（ぜいじゃく）性を修正する緊急アップデートが公開され、国内外の企業が早急な対応を迫られました。PHPはWebサイトやWebアプリケーションの開発に広く利... defiant PHP%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3%E8%84%86%E5%BC%B1%E6%80%A7techfeed この記事をおすすめしました</description><guid isPermaLink="false">https://atmarkit.itmedia.co.jp/ait/articles/2611/15/news001.html</guid><pubDate>Mon, 16 Nov 2026 02:46:00 +0000</pubDate></item><item><title>もういい加減"技術勉強会"やめませんか？</title><link>https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.872] 毎週水曜の15時、普段残業続きで目が真っ赤なメンバーが会議室に10人が集められる。
-誰かがAIで作った綺麗なスライドを持ってきて、それを読み上げる。
-「いまさら聞けないKubernetesの基本」
-残りの9人は、うなずきながら手元でSlackを返している。
-説明が終わるなり、「何か質問ありますか？」という問いに対して、5秒ほど沈黙があってから、その中で最もおしゃべりな盛り上げ隊長が、当たり障りない質問をする。
-よく見る光景です。
-「技術勉強会」本っ当に素晴らしい文化ですよね。
-AIに聞けば1分で返ってくる内容を、10人の1時間を使って熱心に勉強するのですから、今時これほど贅沢な情報伝達はなかな</description><guid isPermaLink="false">https://qiita.com/kotowazaman/items/9ee7c475a475e7527b0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 16 Nov 2026 08:20:30 +0000</pubDate></item><item><title>「ルフィ」事件 詐欺グループトップ 拠点立ち上げ経緯明かす</title><link>https://news.web.nhk/newsweb/na/nd-20261116de76537</link><description>[score: 0.872] 「ルフィ」などと名乗る指示役らによる広域強盗事件で、強盗致死などの罪に問われている特殊詐欺グループのトップ、渡邉優樹被告の裁判が開かれ、被告は2017年に中国に拠点を置く組織の関係者から依頼を受けたこ…
-あわせて読みたい
-トクリュウ（匿名・流動型犯罪グループ）特集サイト
-理研のスパコン「富岳」に不正アクセス 稼働停止して状況確認
-11月16日 17:17
-大阪 “グリ下の帝王”逮捕 生活保護費を不正受給か
-11月16日 17:14
-NTTドコモ通信障害 午後4時前に復旧 “交換機に不具合が原因”
-11月16日 18:09
-元ジャンポケ斉藤慎二被告 性的暴行の罪で懲役4年の実刑判決
-11月16日</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261116de76537</guid><pubDate>Mon, 16 Nov 2026 10:29:36 +0000</pubDate></item><item><title>定数削減法案 今国会成立へ早期の衆院通過目指す 自民維新幹部</title><link>https://news.web.nhk/newsweb/na/nd-20261116de76590</link><description>[score: 0.872] 衆議院議員の定数を比例代表で31議席削減するなどとした法案をめぐり、自民・維新両党の幹事長らが会談し、今の国会での成立に向けて委員会審議を積み重ね、できるだけ早い時期の衆議院通過を図る方針で一致しまし…
-あわせて読みたい
-自民 維新 国民 定数31削減法案を共同提出“今国会成立を”
-11月12日 19:06
-消費税減税法案 参院で審議続く 国民 公明の協力が焦点に
-11月16日 5:38
-衆議院政治改革委 企業団体献金の見直しめぐり3法案審議
-11月13日 18:12
-NTTドコモ通信障害 午後4時前に復旧 “交換機に不具合が原因”
-11月16日 18:09
-【動画】火災で焼失 首里城正殿が復</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261116de76590</guid><pubDate>Mon, 16 Nov 2026 07:32:44 +0000</pubDate></item><item><title>無料で高校1年生(数学IA履修程度)を対象に大規模言語モデル(LLM)・GPTの仕組みを数学とプログラミングの初歩から順番に作って学ぶ教材「microgpt-lesson」、Google Colabで動作</title><link>https://gigazine.net/news/20261116-microgpt-lesson/</link><description>[score: 0.872] 無料で高校1年生(数学IA履修程度)を対象に大規模言語モデル(LLM)・GPTの仕組みを数学とプログラミングの初歩から順番に作って学ぶ教材「microgpt-lesson」、Google Colabで動作
-ChatGPTなどのAIは文章を作成したり質問に回答したりできますが、その内部でどのような計算が行われているのかを理解するには数学やプログラミングの知識が必要です。そんな大規模言語モデル(LLM)の仕組みを高校1年生向けの数学から順番に学び、Google Colab上で実際に小さなGPTを作ることができる無料教材「microgpt-lesson」です。
-GrEarl/microgpt-les</description><guid isPermaLink="false">https://gigazine.net/news/20261116-microgpt-lesson/</guid><pubDate>Mon, 16 Nov 2026 14:10:37 +0000</pubDate></item><item><title>レビューは AI が書いて、人が選ぶ</title><link>https://blog.recruit.co.jp/data/articles/ai-review-skills/</link><description>[score: 0.872] はじめに
-データ推進室で SaaS プロダクトのデータ基盤の開発・運用を担当している電電です。
-この記事では、開発現場で活用している AI エージェントの PR レビュー用の skill（Claude Code 向けに自作したもの）を紹介します。この skill は、レビューコメントを AI に下書きさせ、どれを投稿するかを人が選んでから GitHub に投稿します。AI レビューを試したものの、指摘が多すぎる、文面が固い、勝手に投稿されるのが怖い、と感じた人に読んでもらえると嬉しいです。
-レビューで困っていたこと
-LLM を使うようになって、コードを書くスピードは大きく上がりました。その一方</description><guid isPermaLink="false">https://blog.recruit.co.jp/data/articles/ai-review-skills/</guid><pubDate>Mon, 16 Nov 2026 07:50:16 +0000</pubDate></item><item><title>立民・水岡代表、高市内閣の高支持率を疑問視「信じられない」「ちょっと理解できない」</title><link>https://www.sankei.com/article/20261116-S4RVCGTLIBDZXJ3NBZACIB7AMI/?outputType=asynd</link><description>[score: 0.873] 立憲民主党の水岡俊一代表は16日の記者会見で、各種世論調査で高市早苗内閣の支持率が高水準を維持している現状を疑問視した。「支持率が下がらないレベルの信頼を受けているというのは、ちょっと信じられない所だ」と語った。水岡氏は物価高対策としての消費税減税の効果や政府の説明に疑問を持つ国民が多いと指摘。その上で、高市内閣の支持率について「どうしてそうなのか理解できていない」と述べた。
-読売NNNも産経FNNも
-読売新聞社とNNNが13～15日に実施した全国世論調査では、高市内閣の支持率は58％で、前回10月調査の57％からほぼ横ばいだった。水岡氏は、この結果について「どういうふうに考えたらいいんだろう</description><guid isPermaLink="false">https://www.sankei.com/article/20261116-S4RVCGTLIBDZXJ3NBZACIB7AMI/?outputType=asynd</guid><pubDate>Mon, 16 Nov 2026 09:15:53 +0000</pubDate></item><item><title>フアン氏がNVIDIA復帰協議 報道 - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/pickup/6602744</link><description>[score: 0.873] フアン氏がNVIDIA復帰協議 報道
-ジェンスン・フアン氏、エヌビディアＣＥＯ復帰を側近と協議＝ＦＴ
-ロイター[１５日 ロイター] - 英紙フィナンシャル・タイムズ（ＦＴ）は１５日、米半導体大手エヌビディアの最高経営責任者（ＣＥＯ）を辞任したジェンスン・フアン氏が復帰を検討しており、側近らとその可能性について協議したと報じた。事情に詳しい関係者の話として伝えた。
-ココがポイント
-みんなの意見
-NVIDIA（エヌビディア）の今後について、最も気になることは何ですか？
-株価や企業価値への影響
-34.8%AI分野での競争力や技術開発への影響
-28%後任の経営者や経営体制の安定性
-21.8%半導体市場</description><guid isPermaLink="false">https://news.yahoo.co.jp/pickup/6602744</guid><pubDate>Mon, 16 Nov 2026 03:30:08 +0000</pubDate></item><item><title>東京 中野 路上で女性刺され死亡 強盗殺人未遂容疑で男を逮捕</title><link>https://news.web.nhk/newsweb/na/nd-20261116de76817</link><description>[score: 0.874] 16日夜、東京 中野区の路上で20代くらいの女性が刃物で刺された事件で、意識不明になっていた女性の死亡が確認されたことが捜査関係者への取材で分かりました。
-警視庁は30代から40代くらいの男の容疑者…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 16 Nov 2026 21:09:10 +0000</lastBuildDate><item><title>Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測　GTIGのAI脅威レポート</title><link>https://www.itmedia.co.jp/news/article/2611/16/2000003244/</link><description>[score: 0.864] Google、人間の関与なしに脆弱性を見つけて悪用するAIフレームワークを初めて観測 GTIGのAI脅威レポート
+米GoogleのGoogle Threat Intelligence Group（GTIG）は11月16日（現地時間）、攻撃者によるAIの悪用状況をまとめた四半期レポート「GTIG AI Threat Tracker」の2026年第4四半期版を公開した。攻撃者がAIに手作業で指示を出す段階を越えて、複数のAIエージェントを組み合わせて攻撃を自律的に進める段階に移りつつあると指摘。人間の関与なしに脆弱性の発見から悪用までを行うよう構成されたLLMフレームワークを初めて確認したという。</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/16/2000003244/</guid><pubDate>Mon, 16 Nov 2026 14:59:12 +0000</pubDate></item><item><title>プーチン氏はウクライナ巡り譲歩、なお強硬化も＝トランプ氏 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQWEVVQ1dfVFUxSjEtWGtfRHlyYjlQeW1TUTR1Sy1YM21QWmw0SDhHZ1o4R3lxNXdfVDZQd2Job2RiV3RMRlVnNXRTYTQ1OGh5Qks2YXBWa1h5RDA2WlI2b3BNX2ZPSG4yWWZ0Z1AzOWlqam1IYWxVa3o5TEpja3NmQ2xZOHJiUQ?oc=5</link><description>[score: 0.865] プーチン氏はウクライナ巡り譲歩、なお強硬化も＝トランプ氏 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQWEVVQ1dfVFUxSjEtWGtfRHlyYjlQeW1TUTR1Sy1YM21QWmw0SDhHZ1o4R3lxNXdfVDZQd2Job2RiV3RMRlVnNXRTYTQ1OGh5Qks2YXBWa1h5RDA2WlI2b3BNX2ZPSG4yWWZ0Z1AzOWlqam1IYWxVa3o5TEpja3NmQ2xZOHJiUQ?oc=5</guid><pubDate>Mon, 16 Nov 2026 16:17:06 +0000</pubDate></item><item><title>ニデック 半期報告書の提出期限延長を国に申請</title><link>https://news.web.nhk/newsweb/na/nd-20261116de76825</link><description>[score: 0.865] 電子部品大手の「ニデック」は、ことし9月までの半年間の財務諸表などをまとめた報告書について、不正会計問題の影響で、会計処理に時間がかかっているとして、法律で定められた16日までの提出期限の延長を国に申…
+注目ワード
 あわせて読みたい
 理研のスパコン「富岳」に不正アクセス 稼働停止して状況確認
 11月16日 17:17
@@ -65,54 +11,136 @@ NTTドコモ通信障害 午後4時前に復旧 “交換機に不具合が原�
 11月16日 18:09
 元ジャンポケ斉藤慎二被告 性的暴行の罪で懲役4年の実刑判決
 11月16日 14:01
-【動画】火災で焼失 首里城正殿が復元 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261116de76817</guid><pubDate>Mon, 16 Nov 2026 12:04:18 +0000</pubDate></item><item><title>日本の消費「コロナ前」下回る　四半世紀で1割増どまり、米欧と格差 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUA1429C0U6A111C2000000/</link><description>[score: 0.875] 日本の消費「コロナ前」下回る 四半世紀で1割増どまり、米欧と格差
-日本経済は7〜9月期に4四半期ぶりのマイナス成長に陥った。個人消費はコロナ禍前の水準を下回るまで落ち込んだ。米欧は物価高でも消費が伸びているのと比べ、停滞が際立つ。原因は天候不順など一時的要素だけではない。長期のデータからは賃上げの鈍さといった構造問題も浮かぶ。
-内閣府が16日発表した7〜9月期の実質GDP（国内総生産）は前期比年率0.1%減った。設備投資の伸びを個人消費や公共投資の減少が相殺し...
-※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。
-この投稿は現在非表示に設定されています
-(更新)</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUA1429C0U6A111C2000000/</guid><pubDate>Mon, 16 Nov 2026 12:15:16 +0000</pubDate></item><item><title>AIを使うようになって、これから伸ばしたい力を考えてみた</title><link>https://qiita.com/kmatsuda_slj/items/7629dc7ca925cccc0799?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.876] はじめに
-僕は普段から、AIとよく会話しています。
-コードの説明を聞いたり、文章を整理したり、考えがまとまっていない段階で相談したり。会話を続けるうちに、「それなら一度試してみよう」と思えることも増えました。
-使い方を振り返ると、僕はAIに、先輩に相談するような感覚で話しかけていることがあります。
-「こう考えているんですが、どう思いますか？」
-「この説明で伝わりますか？」
-「他に考えておいた方がいいことはありますか？」
-そんなやり取りをする中で、これから自分が伸ばしたい力も見えてきました。
-社会人2年目の今、特に意識したいのは、自分の考えを言葉にして、人に伝える力です。
-AIに、先輩に相談する</description><guid isPermaLink="false">https://qiita.com/kmatsuda_slj/items/7629dc7ca925cccc0799?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 16 Nov 2026 08:20:30 +0000</pubDate></item><item><title>mizchi/mutator を入れてみた</title><link>https://zenn.dev/polyco/articles/e05cb28c569801</link><description>[score: 0.876] この記事に書いてあること AI が書きまくったテストに意味のないテストがどれくらいあるのか数えた 金額や権限など間違えるとやばいところはテストの穴を 0 件にした StrykerJS と条件をそろえて比べてみたけど確かに速い 開発ワークフロースキルに組み込んで、意味のないテストが書かれたらすぐ気づけるようにした 機械的に拾えないものはスキルでカバー 毎回全部は流さない。その作業で修正したコードとテストに関係するファイルだけ試す 前提となる構成 Web も API も TypeScript で書いている 業務アプリ pnpm workspaces でのモノレポ構成 Vite...</description><guid isPermaLink="false">https://zenn.dev/polyco/articles/e05cb28c569801</guid><pubDate>Mon, 16 Nov 2026 11:08:25 +0000</pubDate></item><item><title>ClaudeとCodexで32年落ちのジープをリバースエンジニアリングして修理</title><link>https://gigazine.net/news/20261116-claude-codex-controll-jeep/</link><description>[score: 0.877] ClaudeとCodexで32年落ちのジープをリバースエンジニアリングして修理
-排ガス規制に適合させるため、Claude CodeとOpenAI Codexで車を修理したという人が詳細を報告しました。
-Claude reverse engineered my 32-year-old Jeep. Then it started controlling it. - YouTube
-報告者はアプリ開発者のムハンマド・ズラリ氏。1994年式ジープ・チェロキーがカリフォルニア州の排ガス検査で不合格となったため、何度も検査に行く手間と費用を省くため、AIで修理しようとしたそうです。
-ズラリ氏は最初にCla</description><guid isPermaLink="false">https://gigazine.net/news/20261116-claude-codex-controll-jeep/</guid><pubDate>Mon, 16 Nov 2026 12:10:23 +0000</pubDate></item><item><title>AIを介したやり取りは、放っておくとAI Slopを加速させるかも</title><link>https://qiita.com/inukai-masanori/items/141e960b0bab8015bdae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] はじめに
-まず初めに、私はマネージャーをしています。
-最近、チャットでの依頼や相談、レビューを見ていて「AIを介したコミュニケーションって、放っておくと良くない方向に転がりやすいな」と感じています。そのあたりについて、自分なりに意識していることも含めて書いてみます。
-コードも検証結果も出てこない、個人的な意見です。ポエム寄りなので、合わなそうだったらそっと閉じてください。
-また、誰か特定の人の話ではありません。個人というより構造の問題だと思っていて、自分もその中にいる一人です。
-AIでまとめた文章は、丁寧だけど読みづらくなりがち
-背景ややりたいことを丁寧に伝えたい気持ちはすごくわかります。
-た</description><guid isPermaLink="false">https://qiita.com/inukai-masanori/items/141e960b0bab8015bdae?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 16 Nov 2026 08:20:30 +0000</pubDate></item><item><title>物理世界とAIをつなぐ：可視化で学ぶカメラ・座標系・運動制御入門</title><link>https://zenn.dev/turing_motors/articles/cea9e3c85611b2</link><description>[score: 0.877] 1. はじめに AIが「いま何を考えているのか」を、人間はどうやって知ればいいのでしょうか？ 我々チューリング株式会社は、カメラ映像から走行軌跡を直接予測するEnd-to-End（E2E）自動運転AIを開発しています。社内では、予測軌跡をカメラ映像に重ねる可視化が、実車試験の振り返りからデモ映像まで、あらゆる場面で使われています。 https://x.com/DaisukeMAN/status/2109111871228022910 自動運転AIが出力する「自車がこの先数秒間でどこを通るか」という生の座標列から、曲がり方の良し悪しを読み取るのは簡単ではありません。一方、同じ予測をカ...</description><guid isPermaLink="false">https://zenn.dev/turing_motors/articles/cea9e3c85611b2</guid><pubDate>Mon, 16 Nov 2026 11:08:25 +0000</pubDate></item><item><title>ほぼ丸1日続いた「Microsoft 365」「Outlook」障害の原因は？　Microsoftが暫定報告／7月から潜んでいた不具合に当日の状況が絡み合い、連鎖的なダウンを招く</title><link>https://forest.watch.impress.co.jp/docs/news/2156753.html</link><description>[score: 0.877] ニュース
-ほぼ丸1日続いた「Microsoft 365」「Outlook」障害の原因は？ Microsoftが暫定報告
-7月から潜んでいた不具合に当日の状況が絡み合い、連鎖的なダウンを招く
-2026年11月16日 16:30
-米Microsoftは日本時間11月16日、先週発生した「Microsoft 365」「Exchange Online」の大規模障害について、暫定版のインシデント事後レポート（Preliminary Post Incident Report：PIR）を公開した。「Microsoft 365 管理センター」の「サービス正常性」から、インシデントID「MO1550821」「E</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2156753.html</guid><pubDate>Mon, 16 Nov 2026 11:48:54 +0000</pubDate></item><item><title>あたらしいホームページのつくりかた</title><link>https://tsukurikata.net/</link><description>[score: 0.879] 序文
-最終更新: 2026.11.13
-あるプロジェクトで、普段は制作の仕事をしているが自社のサイトを作るにあたりいつもとは違うやり方でサイトを作れないかという相談があった。私が過去に作ったいくつかのサイトを見て連絡をしてもらったみたいだが、何か会社にとっても刺激になるような当たり前なやり方を崩して新鮮なやり方を見つけたいという思いを感じられた。
-最初は普段やっているようなフレームワークを別のものに置き換える、アプリやゲームや本などの行動や考え方をWebサイトに適用するようなやり方で、あたらしい方法を提示できるのではないかと考えたが、自分にとっても新鮮であることではないと相手に手渡す時も新しい</description><guid isPermaLink="false">https://tsukurikata.net/</guid><pubDate>Mon, 16 Nov 2026 12:35:31 +0000</pubDate></item><item><title>AIが文学界を揺るがしている</title><link>https://gigazine.net/news/20261116-ai-literary-world/</link><description>[score: 0.879] 生成AIの発達により自然な言葉づかいで物語性のある文章もAIが生成できるようになったことで、AIで年間200冊のロマンス小説を執筆する作家の例や、執筆に生成AIを使った疑いで出版を停止した騒動、「AIで書いたのではないか」と疑惑を受けた短編小説が国際文学賞の最優秀賞を受賞した一件など、さまざまな議論が文学界で発生しています。そういった状況を受け、イギリス大手誌のThe Guardianが「まるで西部開拓時代みたいだ：AIが文学界をいかに揺るがしたか」というコラムを掲載しています。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20261116-ai-literary-world/</guid><pubDate>Mon, 16 Nov 2026 10:09:03 +0000</pubDate></item><item><title>アンソロピックが見た日本のAI　世界32位、職場への普及に本腰を - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOCD115XX0R11C26A1000000/</link><description>[score: 0.881] アンソロピックが見た日本のAI 世界32位、職場への普及に本腰を - 日本経済新聞 新規株式公開（IPO）を19日に控えた米生成AI（人工知能）開発大手のアンソロピック。米スペースXに次ぐ史上2位の調達額を見込む同社の協業パートナーがいると聞いて、東大のキャンパスにほど近いスタートアップ集積地「本郷バレー」に赴いた。訪れたのはPKSHA Technology（パークシャテクノロジー）。AI研究の第一人者、...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOCD115XX0R11C26A1000000/</guid><pubDate>Mon, 16 Nov 2026 09:19:02 +0000</pubDate></item><item><title>不名誉なはずのフアン氏の辞任、それでもシリコンバレーからは支持する声やまず</title><link>https://www.cnn.co.jp/business/35254956.html</link><description>[score: 0.884] 不倫報道を受けてエヌビディアCEOを辞任したジェンスン・フアン氏だが、ハイテク業界はそのリーダーシップを称賛する声であふれている/Evelyn Hockstein/Reuters （CNN） 米半導体大手エヌビディアの創業者、ジェンスン・フアン氏が同社の最高経営責任者（CEO）の座を退いたことは、企業スキャンダルと受け止められた。ところがシリコンバレーで働くかつての部下や同僚の多くは、軒並み同氏への支持を表明。「伝説的な人物」としてなお称賛の声を送っている。 フアン氏は12日、少なくとも部下1人を含む複数の不倫関係が報じられたことを受け、辞任した。同氏は以前にも、別の女性との不倫関係が報じられ</description><guid isPermaLink="false">https://www.cnn.co.jp/business/35254956.html</guid><pubDate>Mon, 16 Nov 2026 09:55:07 +0000</pubDate></item><item><title>「Qwen4-Max」正式リリース。小規模モデルのオープンウェイト化予告も</title><link>https://pc.watch.impress.co.jp/docs/news/2156687.html</link><description>[score: 0.886] ニュース
-「Qwen4-Max」正式リリース。小規模モデルのオープンウェイト化予告も
-2026年11月16日 13:10
-Qwen4世代にも、オープンウェイト(モデルの重み)の公開が予告された。AlibabaのAI開発チームQwenは11月16日(日本時間)、次世代AIモデル群「Qwen4」の最上位で総パラメータ数2.4T(2.4兆)の「Qwen4-Max」を正式に発表し、提供を開始した。Qwen4-Max自体の重みはまだ公開されていないが、同じ世代の技術で開発した小規模モデルをオープンウェイトとして公開する方針を示した。
-注目は、人気の高い27Bクラスや125Bクラスの公開が続くかどうかだ。</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2156687.html</guid><pubDate>Mon, 16 Nov 2026 11:48:54 +0000</pubDate></item><item><title>Google、Microsoft、AWS、CloudflareがAI侵入テストツールARTEXの悪用を報告、FBIも注意喚起 | gihyo.jp</title><link>https://gihyo.jp/article/2026/10/artex-ai-agent-abuse</link><description>[score: 0.887] Google、Microsoft、AWS、CloudflareがAI侵入テストツールARTEXの悪用を報告、FBIも注意喚起 | gihyo.jp Google⁠⁠、Microsoft⁠⁠、AWS⁠⁠、CloudflareがAI侵入テストツールARTEXの悪用を報告⁠⁠、FBIも注意喚起 Google、Microsoft、AWS、Cloudflareは2026年10月末から11月13日にかけて、AIエージェントを使う侵入テストツールARTEXなどの悪用を相次いで報告した。攻撃者は、認証情報の探索や侵入先の調査に加え、侵入先から別の...</description><guid isPermaLink="false">https://gihyo.jp/article/2026/10/artex-ai-agent-abuse</guid><pubDate>Mon, 16 Nov 2026 12:53:03 +0000</pubDate></item><item><title>ベッセント米財務長官「エヌビディア 後任は社外から登用を」</title><link>https://news.web.nhk/newsweb/na/nd-20261116de76473</link><description>[score: 0.891] 半導体大手エヌビディアのジェンスン・フアン氏が辞任した問題でアメリカのベッセント財務長官は、後任は社外から登用すべきだという考えを示しました。先端半導体の中国へのう回輸出があったのではないかという疑惑…
+【動画】火災で焼失 首里</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261116de76825</guid><pubDate>Mon, 16 Nov 2026 15:01:46 +0000</pubDate></item><item><title>金髪美少女アニメ『楽園追放(2014)』がすごく良かった - シロクマの屑籠</title><link>https://p-shirokuma.hatenadiary.com/entry/20261116/1794835198</link><description>[score: 0.865] 金髪美少女アニメ『楽園追放(2014)』がすごく良かった - シロクマの屑籠 rakuen-tsuiho-r.com うちのSNSのタイムラインには、2026年11月に公開された劇場版新作アニメ『楽園追放 心のレゾナンス』についての情報がすごい勢いで流れてくるので、この新作を観に行くかどうかを見定める目的も兼ねて、2014年11月に公開された『楽園追放-Expelled From Paradise-』を眺めてみることにした。 そんな...</description><guid isPermaLink="false">https://p-shirokuma.hatenadiary.com/entry/20261116/1794835198</guid><pubDate>Mon, 16 Nov 2026 19:14:24 +0000</pubDate></item><item><title>米、中国の先端ＡＩ半導体アクセスを一段と制限 トランプ氏訪中前に | ロイター - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5Rb1dJcGZBS2VxRDVJWWd4YmV6VVo0UURhV0E1RjJMdEZycGRqbkdBcjRmYUFadFBfWlY5MUJVRHR2YnJhNldIMDhSSlNNRV9sZUJOYWhxaFA5bzVYNWE2bGQ2djZ2dTl3Y1g5Znc4dDVKY0laT3pYQXl5NkZTbmM?oc=5</link><description>[score: 0.865] 米、中国の先端ＡＩ半導体アクセスを一段と制限 トランプ氏訪中前に | ロイター Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE5Rb1dJcGZBS2VxRDVJWWd4YmV6VVo0UURhV0E1RjJMdEZycGRqbkdBcjRmYUFadFBfWlY5MUJVRHR2YnJhNldIMDhSSlNNRV9sZUJOYWhxaFA5bzVYNWE2bGQ2djZ2dTl3Y1g5Znc4dDVKY0laT3pYQXl5NkZTbmM?oc=5</guid><pubDate>Mon, 16 Nov 2026 14:14:19 +0000</pubDate></item><item><title>トランプ大統領 中国で「キム総書記と会うかもしれない」</title><link>https://news.web.nhk/newsweb/na/nd-20261116de76866</link><description>[score: 0.866] アメリカのトランプ大統領は北朝鮮のキム・ジョンウン総書記と訪問先の中国で会談を行う可能性があることを明らかにしました。
+「キム総書記が来るかもしれない。中国の習近平国家主席次第だ」と述べていて、会談…
 あわせて読みたい
-エヌビディア先端半導体輸出 ラトニック商務長官の責任論浮上
-11月14日 6:20
-エヌビディア フアン氏 CEOを辞任 日本での受け止めは
-11月13日 18:53
-株価 終値も6万円割れ 半導体関連の銘柄中心に売り注文広がる
-11月16日 16:38
+中国・ASEAN首脳会議 中国は経済・貿易分野の協力推進呼びかけ
+11月16日 17:13
+高市首相 フィリピン到着 石油備蓄などで新たな枠組み提唱へ
+11月16日 22:10
+アメリカ・中国・ロシアの3か国首脳会談 中国も正式に発表
+11月16日 18:51
+エネルギー高騰で欧州は冬を前に懸念 再エネ導入加速か
+11月16日 16:18
+ベッセント米財務長官「エヌビディア 後</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261116de76866</guid><pubDate>Mon, 16 Nov 2026 15:01:46 +0000</pubDate></item><item><title>東大の友達が「人生ずっと天才とチヤホヤされてきたが、居酒屋バイトで怒られ、サークルでインカレ女にいじられ、それを認められるようになって第二の人生が始まった」と話してた</title><link>https://togetter.com/li/2771260</link><description>[score: 0.866] 東大の友達が「人生ずっと天才とチヤホヤされてきたが、居酒屋バイトで怒られ、サークルでインカレ女にいじられ、それを認められるようになって第二の人生が始まった」と話してた 優しさ @misatonn3 東大の友達が「人生ずっと天才天才ってチヤホヤされてきてすごいねとしか言われてないのに、俺は居酒屋のバイトで失敗して高卒に怒られて、入ったサークルでは馬鹿なインカレ女にいじられて、最初は本気で怒り返したりして、バイトもやめて、サークルサボったりしてたけど、 2026-11-16 16:49:07 優し...</description><guid isPermaLink="false">https://togetter.com/li/2771260</guid><pubDate>Mon, 16 Nov 2026 20:05:29 +0000</pubDate></item><item><title>グーグル、人間が介入しないAIによる脆弱性攻撃を確認　攻撃はより高速に</title><link>https://www.watch.impress.co.jp/docs/news/2156870.html</link><description>[score: 0.867] ニュース
+グーグル、人間が介入しないAIによる脆弱性攻撃を確認 攻撃はより高速に
+2026年11月17日 00:01
+Google Cloudは16日、サイバーセキュリティの調査チーム「Google Threat Intelligence Group：Google脅威インテリジェンス(GTIG)」による最新の調査結果を発表した。攻撃者がAIエージェントを使用し、人間が一切関与せずに、セキュリティパッチからエクスプロイトを作成する事例を初めて観測するなど、AIによる攻撃領域が拡大している。
+攻撃は、自律型ワークフローやマルチエージェント・フレームワークへ移行。攻撃者の手法は、手動によるプロンプト</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2156870.html</guid><pubDate>Mon, 16 Nov 2026 15:17:31 +0000</pubDate></item><item><title>米中ロ首脳会談後の共同声明巡り集中協議、発表に期待＝ロシア大統領補佐官 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE81MmNsVjBLb1hBWUk2MmdwMk9iVVl5ci1Ob18xUDRWOXExUWVHTnBGUzI0d3gzNWdHWVdjSDFwODlWNDJCbklfLU1oWXliTTlQYVdqdi1VYzBRQ09vZ1VKVldobXJSUVZ3R2lyUWJVVlB3UDRPUjlOV1B6RVJ3SFE?oc=5</link><description>[score: 0.867] 米中ロ首脳会談後の共同声明巡り集中協議、発表に期待＝ロシア大統領補佐官 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE81MmNsVjBLb1hBWUk2MmdwMk9iVVl5ci1Ob18xUDRWOXExUWVHTnBGUzI0d3gzNWdHWVdjSDFwODlWNDJCbklfLU1oWXliTTlQYVdqdi1VYzBRQ09vZ1VKVldobXJSUVZ3R2lyUWJVVlB3UDRPUjlOV1B6RVJ3SFE?oc=5</guid><pubDate>Mon, 16 Nov 2026 17:15:05 +0000</pubDate></item><item><title>ロ大統領補佐官、和平協議への欧州参加「合意ない」 米側説明と食い違い - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUV1emRPdWE1NnNNa2RRSXppaGdLRkFLczY5aE12eEZlVEd1cHVYZnRuUGxYTVlWNjN3X2JKQzRPSUlUelBKc3VqaURXMU1Xd2R0U1FMcE5JODVXRVRBWUI2eEhTUmRWaTJ2R2pURk9kUjIydFBYVW5FQXg3S2Z3WE1xbW1MZw?oc=5</link><description>[score: 0.868] ロ大統領補佐官、和平協議への欧州参加「合意ない」 米側説明と食い違い Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxPQUV1emRPdWE1NnNNa2RRSXppaGdLRkFLczY5aE12eEZlVEd1cHVYZnRuUGxYTVlWNjN3X2JKQzRPSUlUelBKc3VqaURXMU1Xd2R0U1FMcE5JODVXRVRBWUI2eEhTUmRWaTJ2R2pURk9kUjIydFBYVW5FQXg3S2Z3WE1xbW1MZw?oc=5</guid><pubDate>Mon, 16 Nov 2026 16:17:06 +0000</pubDate></item><item><title>四国電力 ウェブ委託会社に不正アクセス 約60万件の情報流出</title><link>https://news.web.nhk/newsweb/na/nd-20261116de76812</link><description>[score: 0.869] 四国電力は、電気料金などを確認できる会員制ウェブサービス「よんでんコンシェルジュ」の一部の運用を委託している会社が不正アクセスを受け、個人情報がおよそ60万件流出したと発表しました。
+流出したのは、…
+あわせて読みたい
+理研のスパコン「富岳」に不正アクセス 稼働停止して状況確認
+11月16日 17:17
+大阪 “グリ下の帝王”逮捕 生活保護費を不正受給か
+11月16日 17:14
 NTTドコモ通信障害 午後4時前に復旧 “交換機に不具合が原因”
 11月16日 18:09
-ゼレンスキー大統領 米の衛星通</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261116de76473</guid><pubDate>Mon, 16 Nov 2026 04:32:30 +0000</pubDate></item><item><title>「ジェンスン・ファンの存在は重要だった」。エヌビディアCEO辞任を受け、投資家はAI関連銘柄全体を懸念している</title><link>https://www.businessinsider.jp/article/2611-jensen-huang-resigns-nvidia-implications-for-ai-trade-tech-stocks/</link><description>[score: 0.898] - 複数の不倫関係が明らかになったことを受け、ジェンスン・ファン氏は11月12日、エヌビディア（Nvidia)のCEOを辞任した。
-- このニュースを受けてエヌビディア株は売られたものの、投資家はファン氏の退任がより広範な影響を及ぼす可能性があると述べている。
-- 「これが将来の事業に現実に影響を及ぼす可能性がある」と投資家のロブ・アーノット氏は言う。
-ジェンスン・ファン（Jensen Huang）氏の辞任は、エヌビディア（Nvidia）株に大きな打撃を与えている。だが、その影響はより広範なAI関連銘柄にも波及する可能性があると、投資家たちは言う。
-ファン氏はエヌビディアとAIエコシステムの中</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-jensen-huang-resigns-nvidia-implications-for-ai-trade-tech-stocks/</guid><pubDate>Mon, 16 Nov 2026 09:04:08 +0000</pubDate></item><item><title>ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？　どうなる今後の半導体業界</title><link>https://www.itmedia.co.jp/news/article/2611/16/2000003226/</link><description>[score: 0.900] ジェンスン・フアン氏退任は「NVIDIAバブル崩壊」の序章か？ どうなる今後の半導体業界 11月12日（現地時間）、米NVIDIA創業者にして社長兼CEO兼会長だったジェンスン・フアン氏が同社を退任した。退任と言いつつも、公式アナウンスに本人のメッセージが一切載ってないあたり、事実上の解任と見るのが正しいのだろう。 現時点ではこの先の動きを読むのは非常に難しい。記事の後半でも紹介するが、単に不倫と...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/16/2000003226/</guid><pubDate>Mon, 16 Nov 2026 09:48:20 +0000</pubDate></item></channel></rss>
+元ジャンポケ斉藤慎二被告 性的暴行の罪で懲役4年の実刑判決
+11月16日 14:01
+【動画】火災で焼失 首里城正殿が復元 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261116de76812</guid><pubDate>Mon, 16 Nov 2026 15:01:46 +0000</pubDate></item><item><title>当社サービス「Cacoo」における不正アクセスの発生について（第一報） | お知らせ | 株式会社ヌーラボ(Nulab inc.)</title><link>https://nulab.com/ja/info/20261116_cacoo_01/</link><description>[score: 0.870] 当社サービス「Cacoo」における不正アクセスの発生について（第一報） | お知らせ | 株式会社ヌーラボ(Nulab inc.) 株式会社ヌーラボ（以下、当社）は、2026年11月14日、当社が提供するオンラインホワイトボードツール「Cacoo」の運用環境および当社が管理するお問い合わせ記録の一部に対し、第三者による不正アクセスが行われたことを確認いたしました。 お客様、株主・投資家の皆様をはじめ、関係者の皆様に多大なるご迷惑とご心配を...</description><guid isPermaLink="false">https://nulab.com/ja/info/20261116_cacoo_01/</guid><pubDate>Mon, 16 Nov 2026 16:05:13 +0000</pubDate></item><item><title>マイクロソフト、ゲーミングPCなどの“空きGPU”をAI学習に活用する特許出願―提供した計算量に応じたクレジット付与の例も | Game*Spark - 国内・海外ゲーム情報サイト</title><link>https://www.gamespark.jp/article/2026/11/16/174930.html</link><description>[score: 0.871] マイクロソフトが2025年4月30日に提出した「GPUの余力を活用したエッジデバイスでの小規模学習（Opportunistic Micro-training on Edge Devices Using Spare GPU Utilization）」と題する米国特許出願が、2026年11月5日に公開されました。
+負荷や温度に応じて処理を中断
+公開された資料では、ゲーミングPCやノートPC、スマートフォンなどを対象に、GPUの処理能力の余力分をAIモデルの学習に活用する仕組みが説明されています。
+具体的には、学習にかかる処理をいくつかの小さなタスクに分け、それらを各端末の性能やGPUが空く見込みの</description><guid isPermaLink="false">https://www.gamespark.jp/article/2026/11/16/174930.html</guid><pubDate>Mon, 16 Nov 2026 19:35:57 +0000</pubDate></item><item><title>仏極右ルペン氏、大統領当選ならウクライナ支援継続 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxORGNUTFcyaTNTWXlDbHFjdmtkSndhN2p1azJNWkp5cUM0endYU2xZRWtrTTFCQnYtWjVFOEVrQTVPbkI1eE9zUnoxV2R2WUV1TVJIcFNtMDN5cmJ1LXh6STFpMVV2bmJVdFlsN0V5UEd6YnViOXlfSjZRWkFjMkRUbExuaklLZw?oc=5</link><description>[score: 0.871] 仏極右ルペン氏、大統領当選ならウクライナ支援継続 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxORGNUTFcyaTNTWXlDbHFjdmtkSndhN2p1azJNWkp5cUM0endYU2xZRWtrTTFCQnYtWjVFOEVrQTVPbkI1eE9zUnoxV2R2WUV1TVJIcFNtMDN5cmJ1LXh6STFpMVV2bmJVdFlsN0V5UEd6YnViOXlfSjZRWkFjMkRUbExuaklLZw?oc=5</guid><pubDate>Mon, 16 Nov 2026 19:14:43 +0000</pubDate></item><item><title>東京 中野 女性刺殺事件 39歳容疑者を強盗殺人未遂疑いで逮捕</title><link>https://news.web.nhk/newsweb/na/nd-20261117de76885</link><description>[score: 0.873] 16日夜、東京・中野区の路上で20代くらいの女性が刃物で刺されて死亡した事件で、警視庁は39歳の男の容疑者を強盗殺人未遂の疑いで逮捕しました。
+捜査関係者によりますと、調べに対し「女性とは飲食店の客…
+あわせて読みたい
+東京 中野 路上で女性刺され死亡 強盗殺人未遂容疑で男を逮捕
+11月17日 0:30
+理研のスパコン「富岳」に不正アクセス 稼働停止して状況確認
+11月16日 17:17
+「ルフィ」事件 詐欺グループトップ 拠点立ち上げ経緯明かす
+11月16日 22:04
+大阪 “グリ下の帝王”逮捕 生活保護費を不正受給か
+11月16日 17:14
+NTTドコモ通信障害 午後4時前に復旧 “交</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261117de76885</guid><pubDate>Mon, 16 Nov 2026 20:27:11 +0000</pubDate></item><item><title>Orcaでショットガンフォーメーション開発【西部ワイルドガンマンズあり】</title><link>https://zenn.dev/hidechannu/articles/20261115-orca-shotgun-parallel-worktrees</link><description>[score: 0.873] Orcaでショットガンフォーメーション開発【西部ワイルドガンマンズあり】
+はじめに
+一年前、私は git worktree
+を使ったAIの並列開発に挫折しました（当時の記事）。
+あれから1年。今では、朝会で大量にチケットを拾って、まとめてAIに投げると、開発タスクが爆速で終わっていくという日常になっています。
+変わったのは、AIモデルの進化と、Orcaというツールと、自分で作ったスキル（orca-shotgun
+）です。
+この記事では、Orcaの紹介と、スキルを作るときに意識したこと、導入してみての注意点を書きます。
+Orcaとは
+Orcaは、複数のコーディングエージェントを並列で動かすための</description><guid isPermaLink="false">https://zenn.dev/hidechannu/articles/20261115-orca-shotgun-parallel-worktrees</guid><pubDate>Mon, 16 Nov 2026 15:38:31 +0000</pubDate></item><item><title>ＡＩの影響、成長加速から混乱まで多岐 幅広い可能性に備え＝ＦＲＢ議長 - Reuters</title><link>https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFNsUXpFTS1BTDh2Rk5EUnExV3NUaGdmNnhEaF9OdkdQMTRNeVV5cUllWVc2dW42YTNfOE9LUDdUSG5KQWVDTkFnSE44SVZpb3FzY2pyUzNNY050RDJTdEpDOFNKclpfdFphbjRxUGpvNUprdnlmTVN5YmphdlpvNlRFc25XN1NiWDBla2RrTVVYak5fNkIwNkJuSQ?oc=5</link><description>[score: 0.874] ＡＩの影響、成長加速から混乱まで多岐 幅広い可能性に備え＝ＦＲＢ議長 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMimwFBVV95cUxOOFNsUXpFTS1BTDh2Rk5EUnExV3NUaGdmNnhEaF9OdkdQMTRNeVV5cUllWVc2dW42YTNfOE9LUDdUSG5KQWVDTkFnSE44SVZpb3FzY2pyUzNNY050RDJTdEpDOFNKclpfdFphbjRxUGpvNUprdnlmTVN5YmphdlpvNlRFc25XN1NiWDBla2RrTVVYak5fNkIwNkJuSQ?oc=5</guid><pubDate>Mon, 16 Nov 2026 18:12:04 +0000</pubDate></item><item><title>エヌビディアのフアン氏復帰求め15万8000人超署名 マスク氏らも賛同</title><link>https://www.afpbb.com/articles/-/3662533</link><description>[score: 0.874] エヌビディアのフアン氏復帰求め15万8000人超署名 マスク氏らも賛同
+このニュースをシェア
+【11月16日 AFP】米実業家イーロン・マスク氏や配車サービス大手ウーバーの共同創業者らが、米半導体大手エヌビディアのジェンスン・フアン前最高経営責任者（CEO）の復帰を求める公開書簡に署名した。15日時点で署名者は15万8000人を超えている。
+公開書簡はエヌビディアの取締役会に対し、「フアン氏を復帰させた上で独立した調査で事実関係を確認」するよう求めている。
+フアン氏は、部下の女性、および中国のためにスパイ活動を行っていた疑いのある女性との2件の不倫が発覚したことを受け、12日、自ら共同創業し、</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3662533</guid><pubDate>Mon, 16 Nov 2026 14:40:10 +0000</pubDate></item><item><title>トランプ氏、フアン氏のエヌビディアＣＥＯ復帰「異存ない」 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1oSi1jZXRGeW1sTEl0Y2xCcWx5XzNQLWVRNGhZUkVTNG51V1NUZm1QaG04TmxGRmdqYU5RSlduRWM2Nm0wZFNEREpLZmNDZmpPZWxzbGo2NTdHYVQwa3RwcFRZMzBnRXFFMTh0LWEtZXpIZlBldmNoOVdEYzZ6TTg?oc=5</link><description>[score: 0.874] トランプ氏、フアン氏のエヌビディアＣＥＯ復帰「異存ない」 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE1oSi1jZXRGeW1sTEl0Y2xCcWx5XzNQLWVRNGhZUkVTNG51V1NUZm1QaG04TmxGRmdqYU5RSlduRWM2Nm0wZFNEREpLZmNDZmpPZWxzbGo2NTdHYVQwa3RwcFRZMzBnRXFFMTh0LWEtZXpIZlBldmNoOVdEYzZ6TTg?oc=5</guid><pubDate>Mon, 16 Nov 2026 15:18:02 +0000</pubDate></item><item><title>ASEAN 国境を越える煙害で対策強化へ</title><link>https://news.web.nhk/newsweb/na/nd-20261116de76848</link><description>[score: 0.875] インドネシアで発生した大規模な森林火災により、大量の煙が周辺国でも深刻な大気汚染を引き起こす中、ASEAN＝東南アジア諸国連合は、国境を越えて広がる大気汚染を「深刻な地域課題」と位置づけ、加盟各国が連…
+注目ワード
+あわせて読みたい
+東京 中野 路上で女性刺され死亡 強盗殺人未遂容疑で男を逮捕
+11月17日 0:30
+理研のスパコン「富岳」に不正アクセス 稼働停止して状況確認
+11月16日 17:17
+「ルフィ」事件 詐欺グループトップ 拠点立ち上げ経緯明かす
+11月16日 22:04
+大阪 “グリ下の帝王”逮捕 生活保護費を不正受給か
+11月16日 17:14
+NTTドコモ通信障害 午後4時</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261116de76848</guid><pubDate>Mon, 16 Nov 2026 18:56:03 +0000</pubDate></item><item><title>Databricksに入社して6年目の振り返り</title><link>https://qiita.com/taka_yayoi/items/2524ad5eb46107cba519?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.880] はじめに
+2020年11月16日にデータブリックス・ジャパンに入社して、今日で6年が経ちました。
+去年は5年目の節目に、Qiitaに書いてきた記事をデータとAIで振り返りました。
+今年も同じやり方で振り返ります。去年の記事を書いたときに作った閲覧数のテーブルがたまたま残っていたので、今年はもう一つ、「過去に書いた記事がこの1年でどれだけ読まれたか」も出してみました。集計の時点は2026年11月16日です。
+データとAIの準備
+やったことは去年とほぼ同じです。
+- Qiita APIで自分の記事を全件取得して、Unity Catalogのテーブルに入れる
+- 6年目に書いた記事を、AI関数の
+a</description><guid isPermaLink="false">https://qiita.com/taka_yayoi/items/2524ad5eb46107cba519?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 16 Nov 2026 20:28:04 +0000</pubDate></item><item><title>【最新動向】IETF 127 San Francisco Side Meeting 分析 ― 41件中20件がAI、その半数はエージェントの認証・委任・証跡</title><link>https://qiita.com/satokan3/items/df0a3229bcc8b62e7b72?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.881] こんにちは！
+GMOコネクト株式会社 執行役員CTO / GMOインターネットグループ株式会社 共同研究推進グループ 主席研究員 菅野哲（かんの さとる）でございます。
+皆さん、IETF のサイドミーティング、のぞいたことはありますか？
+公式の WG や BoF とは別に、有志が会場の部屋を借りて開く会合です。新しい標準化のテーマが、最初に顔を出す場所でもあります！！
+前回の IETF 126 では「Side Meeting 分析」を書きました。そのとき一覧に載せた「Email Verification Protocol」「MTA Hooks」「MOLE/PACT」は、今回の IETF 127</description><guid isPermaLink="false">https://qiita.com/satokan3/items/df0a3229bcc8b62e7b72?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 16 Nov 2026 20:28:04 +0000</pubDate></item><item><title>理研のスパコン「富岳」不正アクセス 研究データなど漏えいか</title><link>https://news.web.nhk/newsweb/na/nd-20261117de76883</link><description>[score: 0.881] 理化学研究所は、スーパーコンピューター「富岳」が外部から不正アクセスを受け、利用者のメールアドレスなどの個人情報や、研究データなどが漏えいした可能性があると発表しました。
+11月12日、神戸市にあ…
+あわせて読みたい
+四国電力 ウェブ委託会社に不正アクセス 約60万件の情報流出
+11月16日 20:49
+東京 中野 路上で女性刺され死亡 強盗殺人未遂容疑で男を逮捕
+11月17日 0:30
+理研のスパコン「富岳」に不正アクセス 稼働停止して状況確認
+11月16日 17:17
+「ルフィ」事件 詐欺グループトップ 拠点立ち上げ経緯明かす
+11月16日 22:04
+大阪 “グリ下の帝王”逮捕 生活保護</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261117de76883</guid><pubDate>Mon, 16 Nov 2026 20:59:20 +0000</pubDate></item><item><title>安全保障3文書の改定 防衛産業基盤の強化説明へ 政府</title><link>https://news.web.nhk/newsweb/na/nd-20261117de76890</link><description>[score: 0.881] 安全保障関連の3文書の改定に向けて、自民・維新両党の作業チームは17日2回目の協議を行います。
+政府側は「防衛と経済の好循環」を重視する柱の1つに位置づけて防衛産業基盤を強化する方向性を説明すること…
+注目ワード
+あわせて読みたい
+東京 中野 路上で女性刺され死亡 強盗殺人未遂容疑で男を逮捕
+11月17日 0:30
+理研のスパコン「富岳」に不正アクセス 稼働停止して状況確認
+11月16日 17:17
+「ルフィ」事件 詐欺グループトップ 拠点立ち上げ経緯明かす
+11月16日 22:04
+大阪 “グリ下の帝王”逮捕 生活保護費を不正受給か
+11月16日 17:14
+NTTドコモ通信障害 午後4時前</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261117de76890</guid><pubDate>Mon, 16 Nov 2026 20:59:20 +0000</pubDate></item><item><title>クアッド首脳 中国動向念頭"経済的威圧に深刻懸念表明"で調整</title><link>https://news.web.nhk/newsweb/na/nd-20261117de76878</link><description>[score: 0.882] フィリピンを訪問中の高市総理大臣は17日、日米豪印4か国でつくる枠組み、クアッドの首脳会合に臨みます。
+4か国の首脳は、中国の動向も念頭に経済的な威圧に対して、深刻な懸念を表明する内容の共同文書をと…
+あわせて読みたい
+東京 中野 路上で女性刺され死亡 強盗殺人未遂容疑で男を逮捕
+11月17日 0:30
+理研のスパコン「富岳」に不正アクセス 稼働停止して状況確認
+11月16日 17:17
+「ルフィ」事件 詐欺グループトップ 拠点立ち上げ経緯明かす
+11月16日 22:04
+大阪 “グリ下の帝王”逮捕 生活保護費を不正受給か
+11月16日 17:14
+NTTドコモ通信障害 午後4時前に復旧 “交</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261117de76878</guid><pubDate>Mon, 16 Nov 2026 20:59:20 +0000</pubDate></item><item><title>衆院議員 定数削減法案“比例で31議席削減”きょう審議入り</title><link>https://news.web.nhk/newsweb/na/nd-20261117de76877</link><description>[score: 0.886] 国会では、自民、維新、国民の3党が提出した衆議院議員の定数を比例代表で31議席削減するなどとした法案が17日審議入りします。
+3党は、法案の成立に向けて早期に衆議院を通過させたい考えなのに対し、野党…
+あわせて読みたい
+東京 中野 路上で女性刺され死亡 強盗殺人未遂容疑で男を逮捕
+11月17日 0:30
+理研のスパコン「富岳」に不正アクセス 稼働停止して状況確認
+11月16日 17:17
+「ルフィ」事件 詐欺グループトップ 拠点立ち上げ経緯明かす
+11月16日 22:04
+大阪 “グリ下の帝王”逮捕 生活保護費を不正受給か
+11月16日 17:14
+NTTドコモ通信障害 午後4時前に復旧 “交</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261117de76877</guid><pubDate>Mon, 16 Nov 2026 20:59:20 +0000</pubDate></item><item><title>インフレ圧力強まるも大幅利上げ急がず─クリーブランド連銀総裁＝報道 - Reuters</title><link>https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXVYZFBMYnU5dWN4NnVGNFc0TkZwSWlqYUVxRkNFOFlEbkE3dlZMeHZlZG5zaWpla1E3bFBpZ0pCeGc2Vk81OHQ3RTNhNU45eXN5d2FMdWx1cG9GY2xVMDBWUkYzaUFxZ0lQNFpZQUdXWjBLNGdvVDlyRzk1djRGR1otYVEtelpmcEhYNkhvX04xdXpRelNMZDhVQQ?oc=5</link><description>[score: 0.887] インフレ圧力強まるも大幅利上げ急がず─クリーブランド連銀総裁＝報道 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMimwFBVV95cUxPbXVYZFBMYnU5dWN4NnVGNFc0TkZwSWlqYUVxRkNFOFlEbkE3dlZMeHZlZG5zaWpla1E3bFBpZ0pCeGc2Vk81OHQ3RTNhNU45eXN5d2FMdWx1cG9GY2xVMDBWUkYzaUFxZ0lQNFpZQUdXWjBLNGdvVDlyRzk1djRGR1otYVEtelpmcEhYNkhvX04xdXpRelNMZDhVQQ?oc=5</guid><pubDate>Mon, 16 Nov 2026 20:19:11 +0000</pubDate></item><item><title>ウクライナ和平交渉に「進展」、欧州参加などなお課題＝クシュナー氏 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNQjQ0SzVSc2FIbzQybkhmRE50dUZNVm16NDFMM3FCZF9TRU82d1djNXZRVDBVRnZRM2NIU0FMWlFhdlhSQzdiZUtmSWVWZVh2VEZqTllnQUVMclZYdVdodDhvR3M5OFJsNHo1bWVzTWpsakZ1ZEdpdUE4NlMxY3NiUnJPYk9lQQ?oc=5</link><description>[score: 0.892] ウクライナ和平交渉に「進展」、欧州参加などなお課題＝クシュナー氏 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNQjQ0SzVSc2FIbzQybkhmRE50dUZNVm16NDFMM3FCZF9TRU82d1djNXZRVDBVRnZRM2NIU0FMWlFhdlhSQzdiZUtmSWVWZVh2VEZqTllnQUVMclZYdVdodDhvR3M5OFJsNHo1bWVzTWpsakZ1ZEdpdUE4NlMxY3NiUnJPYk9lQQ?oc=5</guid><pubDate>Mon, 16 Nov 2026 20:19:11 +0000</pubDate></item><item><title>トランプ大統領 アジア訪問へ出発 19日には初の米中ロ首脳会談</title><link>https://news.web.nhk/newsweb/na/nd-20261117de76879</link><description>[score: 0.893] アメリカのトランプ大統領は、アジア訪問に向けてアメリカを出発しました。
+フィリピンでは、日米豪印4か国でつくる枠組み「クアッド」の首脳会合に出席するほか、中国では、習近平国家主席とロシアのプーチン大…
+あわせて読みたい
+中国・ASEAN首脳会議 中国は経済・貿易分野の協力推進呼びかけ
+11月16日 17:13
+高市首相 フィリピン到着 石油備蓄などで新たな枠組み提唱へ
+11月16日 22:10
+アメリカ・中国・ロシアの3か国首脳会談 中国も正式に発表
+11月16日 18:51
+エネルギー高騰で欧州は冬を前に懸念 再エネ導入加速か
+11月16日 16:18
+ベッセント米財務長官「エヌビディア 後</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261117de76879</guid><pubDate>Mon, 16 Nov 2026 20:27:11 +0000</pubDate></item><item><title>ゼレンスキー氏、米特使・欧州代表とビデオ協議 ロシアとの和平巡り - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWlZY014R0pnczQxSG4tQ0VJQkoyeG5ESUQ4N3hiVXNqU2w1bWFvU2Y2dXZ2NndrWmRtaklXS1BfbTdGTWV1YlFmUUdZd25aSzVwOG9hNHZpSlB5bUw1bG5INlZlOEN2WU85TEdKUFotTmZkZy0wTEhMRHJ6SkE1OWJQSHVqQQ?oc=5</link><description>[score: 0.895] ゼレンスキー氏、米特使・欧州代表とビデオ協議 ロシアとの和平巡り Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQSWlZY014R0pnczQxSG4tQ0VJQkoyeG5ESUQ4N3hiVXNqU2w1bWFvU2Y2dXZ2NndrWmRtaklXS1BfbTdGTWV1YlFmUUdZd25aSzVwOG9hNHZpSlB5bUw1bG5INlZlOEN2WU85TEdKUFotTmZkZy0wTEhMRHJ6SkE1OWJQSHVqQQ?oc=5</guid><pubDate>Mon, 16 Nov 2026 19:14:43 +0000</pubDate></item></channel></rss>
