@@ -1,66 +1,150 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 17 Nov 2026 15:12:21 +0000</lastBuildDate><item><title>楽天証券に不正アクセス、最大1125万口座のログインIDなど漏えいのおそれ</title><link>https://japan.cnet.com/article/35255023/</link><description>[score: 0.868] 楽天証券は11月17日、第三者による不正アクセスを受け、最大約447万口座分の氏名や住所、出金先口座情報などと、最大約1125万口座分のログインIDなどが外部に漏えいした可能性があると発表した。退会した顧客の情報も含まれる。
-同社は11月16日、一部システムへの不正アクセスの可能性を検知し、該当箇所へのアクセスを遮断するなどの対策を講じた。その後の調査で、11月11日にテスト環境で管理していた情報の一部が外部に漏えいしたおそれがあると判明した。不正アクセスの原因や詳しい経緯は引き続き調査している。
-漏えいした可能性がある情報のうち、氏名、カナ氏名、生年月日、住所、電話番号、メールアドレス、勤務</description><guid isPermaLink="false">https://japan.cnet.com/article/35255023/</guid><pubDate>Tue, 17 Nov 2026 11:38:42 +0000</pubDate></item><item><title>カンファレンスノベルティの話から考える、技術カンファレンスの続け方 - 941::blog</title><link>https://blog.kushii.net/archives/2026/11/17/211328</link><description>[score: 0.868] カンファレンスノベルティの話から考える、技術カンファレンスの続け方 - 941::blog 技術カンファレンスのノベルティがいらない、という話をXで見かけました。 年間20以上の技術カンファレンスに参加するので、その気持ちはよくわかります。名入れされていると捨てるのも忍びないし、そんなに欲しいかと言われると悩ましい。 わたしは技術カンファレンスの運営に15年以上関わり、スポンサー担当もかなりの...</description><guid isPermaLink="false">https://blog.kushii.net/archives/2026/11/17/211328</guid><pubDate>Tue, 17 Nov 2026 14:36:37 +0000</pubDate></item><item><title>Xiaomi 18 Pro Max発表　背面ディスプレイにライカ共同開発2億画素カメラ、おサイフケータイも対応のフラッグシップ。23万9800円から</title><link>https://www.techno-edge.net/article/2026/11/17/5752.html</link><description>[score: 0.868] シャオミ・ジャパンが、Leica共同開発カメラと背面ディスプレイを備えたフラッグシップスマートフォン「Xiaomi 18 Pro Max」と「Xiaomi 18 Pro」を発表しました。11月17日より予約を受け付け、11月27日に発売します。
-背面のメインカメラ横に有機ELのサブ画面を備え、背面カメラでの自撮りモニタや通知の確認、サブ画面用アプリが使える点が最大の特徴です。
-ライカと共同開発したカメラはメインと3.2倍望遠の両方が約2億画素。チップはQualcommが9月に発表した2nmプロセスのSnapdragon 8 Elite Gen 6シリーズ。18 Pro Maxのみおサイフケータ</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/11/17/5752.html</guid><pubDate>Tue, 17 Nov 2026 13:53:45 +0000</pubDate></item><item><title>https://openai.com/index/science-at-the-frontier/</title><link>https://openai.com/index/science-at-the-frontier/</link><description>[score: 0.869] https://openai.com/index/science-at-the-frontier/ misshiki OpenAI OpenAIが科学者1,819人の58万件超のメッセージを分析。回答者はAIなしでは同品質の作業に1.9倍の時間が必要と推定。68%が研究アイデアの検討にChatGPTを使用し、調査回答者の98%が発見の加速を期待。</description><guid isPermaLink="false">https://openai.com/index/science-at-the-frontier/</guid><pubDate>Tue, 17 Nov 2026 13:03:58 +0000</pubDate></item><item><title>ウクライナ、クリミア橋を2日連続攻撃 報復とゼレンスキー大統領 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQc3pxZ1Y5ZWc3OGRyc3I0Rl8tVVFpYjJmdjdQYlVvU1R1NUNKaXgwYmZ6c2JJSlN6MmVfcDZicnVmeWVIdGtGczVzNFJTcmJMaEFQSlU4UEJQenRkRnRxdTIxRW9oNEdvSURQMDhNN0RQckZheFhpOHU2X0ItLUhCSXZiNkJzUQ?oc=5</link><description>[score: 0.869] ウクライナ、クリミア橋を2日連続攻撃 報復とゼレンスキー大統領 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQc3pxZ1Y5ZWc3OGRyc3I0Rl8tVVFpYjJmdjdQYlVvU1R1NUNKaXgwYmZ6c2JJSlN6MmVfcDZicnVmeWVIdGtGczVzNFJTcmJMaEFQSlU4UEJQenRkRnRxdTIxRW9oNEdvSURQMDhNN0RQckZheFhpOHU2X0ItLUhCSXZiNkJzUQ?oc=5</guid><pubDate>Tue, 17 Nov 2026 08:22:15 +0000</pubDate></item><item><title>ノーベル賞ヒントン教授「人類滅亡リスク10～20％」超知能AIと共存するための生存戦略</title><link>https://www.sbbit.jp/article/cont1/188466</link><description>[score: 0.869] ノーベル賞ヒントン教授「人類滅亡リスク10～20％」超知能AIと共存するための生存戦略 2024年のノーベル物理学賞を受賞し、「AIのゴッドファーザー」と呼ばれるジェフリー・ヒントン教授が、オーストリアのウィーン工科大学で開催された講義の中でAIと人類の未来について語った。ヒントン教授はAIが... t-wada</description><guid isPermaLink="false">https://www.sbbit.jp/article/cont1/188466</guid><pubDate>Tue, 17 Nov 2026 12:08:47 +0000</pubDate></item><item><title>株式市場の二極化が「S&amp;P500の15%下落」を招くと、ベテランストラテジストは警告する</title><link>https://www.businessinsider.jp/article/2611-sp500-stock-correction-outlook-tech-unsustainable-divergence-market-analysis/</link><description>[score: 0.869] - ストラテジストのジム・ポールセン氏は、ハイテク関連株の取引が調整局面に入るのに伴い、S&amp;P500が最大15%下落する可能性があるとみている。
-- このウォール街のベテランは、ここ最近の「新時代」株の成長ペースは持続不可能だと指摘する。
-- 成長が鈍化した場合、市場が再び勢いを取り戻す前に、ハイテク株は最大30%急落するというのが同氏の見立てだ。
-AI関連株の苦境は、まだしばらく続きそうだ。長年相場を見てきたあるストラテジストは、そう警告する。
-米投資調査会社ルートホールド・グループ（The Leuthold Group）の元チーフ・インベストメント・ストラテジスト、ジム・ポールセン（Jim</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-sp500-stock-correction-outlook-tech-unsustainable-divergence-market-analysis/</guid><pubDate>Tue, 17 Nov 2026 09:17:13 +0000</pubDate></item><item><title>OpenAI、研究者に先着順でChatGPT有料プランを無償提供、最大15万人分　日本からも応募できます</title><link>https://www.techno-edge.net/article/2026/11/17/5745.html</link><description>[score: 0.869] OpenAIは11月16日、研究者にChatGPTを無料で提供する「ChatGPT for Academic Researchers」の拡大を発表しました。
-11月23日(月)から先着順で5万件の新規募集を始め、1件につき本人と共同研究者2人の計3人がChatGPT Plusを12か月間無料で使えます。
-■ 対象を20万人に倍増、試験運用のProからPlusに
-「ChatGPT for Academic Researchers」は、資格を満たす研究者のチームに、専用のChatGPTワークスペースを無償で用意するプログラム。7月に試験運用を開始した際は2027年までに10万人を目標としていました</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/11/17/5745.html</guid><pubDate>Tue, 17 Nov 2026 03:38:09 +0000</pubDate></item><item><title>AIにサイト運営を任せて約1か月半、累計は約9,000円だった｜Web広告の実務者が記録を公開し始めた理由｜AIマニアックス</title><link>https://www.aimaniax.com/news/ai-site-unei-1kagetsu-9000yen/</link><description>[score: 0.870] AIにサイト運営を任せて約1か月半、累計は約9,000円だった｜Web広告の実務者が記録を公開し始めた理由｜AIマニアックス AIにサイト運営を任せて約1か月半、累計は約9,000円だった｜Web広告の実務者が記録を公開し始めた理由 管理人の朝倉大魔王が note で続けている連載の第1回（2026年11月5日公開）の内容を、AIマニアックス向けに整理しました。AIに毎日の作業を渡して複数のサイトを動かし、約1か月半で合計いくらになったのか。数字の出...</description><guid isPermaLink="false">https://www.aimaniax.com/news/ai-site-unei-1kagetsu-9000yen/</guid><pubDate>Tue, 17 Nov 2026 06:41:15 +0000</pubDate></item><item><title>ローカルLLM入門</title><link>https://zenn.dev/port_inc/articles/ff974c7456f4db</link><description>[score: 0.870] ! 2026年10月にポート株式会社として公立はこだて未来大学で行ったゲスト講義「生成AI × UI/UX」の前半2章に、講義のあとで調べた内容を加えて記事にしたものです。 数値・モデル名・価格は 2026年10月30日時点 のものです。 こんにちは、ポートのTeslaです。 公立はこだて未来大学にてローカルLLMに関する講義を行いました。 この記事では、LLMを手元のPCやブラウザで動かすための仕組みを、次の流れで整理します。 モデルの正体と置き場所、クローズドとオープンの差 生成の仕組み：速度を決めるのは計算性能ではなく メモリ帯域 メモリと量子化：手元で何がどれくらい動くか ...</description><guid isPermaLink="false">https://zenn.dev/port_inc/articles/ff974c7456f4db</guid><pubDate>Tue, 17 Nov 2026 11:29:48 +0000</pubDate></item><item><title>ジェンスン・フアンのエヌビディアCEO復帰に暗雲、取締役会は再任を検討せず</title><link>https://forbesjapan.com/articles/detail/108361?s=ns</link><description>[score: 0.870] エヌビディアの最高経営責任者（CEO）の座を追われ、米国時間2026年11月12日に辞任したジェンスン・フアンが、経営トップへの復帰を模索していると報じられた。億万長者のフアンを支持する関係者は、公に再任を求めている。しかし、11月16日に複数の米メディアが伝えたところによると、エヌビディア取締役会は再任を検討していない。取締役会の支持を得られなければ、フアンが復帰する明確な道筋はほとんどない。
-フアンが復帰を模索、再任を求める署名活動にテック業界の著名人も賛同
-英紙フィナンシャル・タイムズ（FT）は11月15日、匿名の関係者の話として、フアンがエヌビディアへの復帰を水面下で検討していると報じ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108361?s=ns</guid><pubDate>Tue, 17 Nov 2026 03:49:54 +0000</pubDate></item><item><title>部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい</title><link>https://qiita.com/nuco_d/items/b279477cbcdbe5921abd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.871] はじめに
-AIはプログラミングだけでなく、営業資料や発表資料まで作れるようになった。
-部下に資料を頼むと、AIで作ったスライドが返ってくることも増えたのではないだろうか。
-そして諸君は、そのスライドをひと目見てこう思ったはずだ。
-「これ、生成AIで作ったでしょ？」
-と。本記事では、AIのスライドがなぜ「Claudeっぽく」なるのか、そしてそう見せないために、部下にどのスキルを使わせるべきかを伝授する。
-弊社Nucoでは、他にも様々なお役立ち記事を公開しています。よかったら、Organizationのページも覗いてみてください。
-また、Nucoでは一緒に働く仲間も募集しています！興味をお持ちいた</description><guid isPermaLink="false">https://qiita.com/nuco_d/items/b279477cbcdbe5921abd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 17 Nov 2026 08:33:39 +0000</pubDate></item><item><title>Introducing Video Intelligence in Compass | Cohere</title><link>https://cohere.com/blog/video-intelligence-preview</link><description>[score: 0.871] Introducing Video Intelligence in Compass | Cohere misshiki %E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%82%B3%E3%83%B3%E3%83%94%E3%83%A5%E3%83%BC%E3%82%BF%E3%83%93%E3%82%B8%E3%83%A7%E3%83%B3%E8%87%AA%E7%84%B6%E8%A8%80%E8%AA%9E%E5%87%A6%E7%90%86 CohereがCompassの動画検索を発表。発言と映像から該当場面を探し、時刻・文字起こし付きで文書と横断検索。11</description><guid isPermaLink="false">https://cohere.com/blog/video-intelligence-preview</guid><pubDate>Tue, 17 Nov 2026 13:03:58 +0000</pubDate></item><item><title>楽天証券、年収など顧客情報漏洩　不正アクセスで最大447万口座分 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUB179TR0X11C26A1000000/</link><description>[score: 0.872] この記事は会員限定記事です
-楽天証券、年収など顧客情報漏洩 不正アクセスで最大447万口座分
-(更新)[会員限定記事]
-楽天証券は17日、第三者による不正アクセスを受け、顧客の年収や金融資産などの個人情報が最大約447万口座分漏洩したと発表した。氏名や住所、生年月日、勤務先、電話番号、メールアドレス、出金先の銀行口座番号なども含まれる。
-年収や金融資産は顧客の自己申告に基づく。保有する金融商品の資産情報や最終ログイン日なども漏洩した。
-別の最大約1125万口座分についてもログインIDや顧客コードなどが漏洩した。漏...
-個人情報漏洩の事案が相次いでいます。最新ニュース・解説をまとめました。
-■</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUB179TR0X11C26A1000000/</guid><pubDate>Tue, 17 Nov 2026 14:26:50 +0000</pubDate></item><item><title>エヌビディアで影響力を強める「小さなジェンスン」…元CEOの娘、マディソン・フアンの異例のキャリアと素顔</title><link>https://www.businessinsider.jp/article/2611-jensen-huang-daughter-madison-nvidia-succession/</link><description>[score: 0.872] - ジェンスン・フアンの娘はその肩書きを超える影響力をエヌビディアで発揮している。
-- 彼女を将来のリーダーと見る人もいたものの、現時点では父親の後継者になる準備は整っていないと見られていた。
-- 彼女の昇進はチームの運営方法を変え、従業員によると彼女は他の幹部と衝突してきたという。
-エヌビディア（Nvidia）が父親の後継者を探しているまさにその時期に、マディソン・フアン（Madison Huang）氏は同社内でますます大きな影響力を持つ人物として台頭している。
-マディソン・フアン氏は、ジェンスン・フアン（Jensen Huang）元CEOの娘で、フィジカルAI担当プロダクトマーケティング・</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-jensen-huang-daughter-madison-nvidia-succession/</guid><pubDate>Tue, 17 Nov 2026 08:15:07 +0000</pubDate></item><item><title>楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか　最大447万口座は金融資産情報も</title><link>https://www.itmedia.co.jp/news/article/2611/17/2000003275/</link><description>[score: 0.873] 楽天証券に不正アクセス、最大1125万口座のIDなど漏えいか 最大447万口座は金融資産情報も 楽天証券は11月17日、第三者による不正アクセスを受け、最大約1125万口座分の顧客情報が外部に漏えいした可能性があると発表した。対象にはログインIDなどが含まれる。うち最大約447万口座分については、氏名や住所、年収、金融資産情報なども漏えいした恐れがある。 漏えいした可能性がある情報は、最大約1125万口座分...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/17/2000003275/</guid><pubDate>Tue, 17 Nov 2026 11:38:42 +0000</pubDate></item><item><title>VRAMが数百GBなくてもGPU1基でGLM-5.3-Flashを動かすことができる「Project Maya」</title><link>https://gigazine.net/news/20261117-project-maya/</link><description>[score: 0.874] AIモデルを自分のPCで動かす場合はモデルのデータをVRAMに読み込みますが、数千億パラメーター級の巨大なモデルを動かすのに必要なメモリは数百GB単位になるため自前環境で動かすことはほぼ不可能です。そこでVRAM・メインメモリ・SSDを組み合わせて条件をクリアすれば、GPU1基の環境でも巨大モデルを実行できるようにするための無料のオープンソースツールが「Project Maya」です。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20261117-project-maya/</guid><pubDate>Tue, 17 Nov 2026 14:05:03 +0000</pubDate></item><item><title>最近、コードを真面目に読まなくなった</title><link>https://zenn.dev/hiromoo/articles/reading-less-preparing-more</link><description>[score: 0.875] 最近、コードを真面目に読むことが減りました。 AIに実装を任せて、出てきた差分を最初から最後まで丁寧に追う。以前ほど、そういう時間を取らなくなっています。 決して、不真面目になったつもりはありません。 私の開発では、前提をきちんと整えておけば、AIが出すコードは大体正しいと感じることが増えたからです。 大体正しいものを、毎回同じ熱量で読み込む。その時間に、以前と同じだけの意味があるのか。 それよりも、AIが正しく仕事をできる前提を整える方に、自分の時間を使う価値があるのではないかと思っています。 大体正しいコードを、毎回精読する価値 コードを読めば、何かしら気になるところは見つかりま...</description><guid isPermaLink="false">https://zenn.dev/hiromoo/articles/reading-less-preparing-more</guid><pubDate>Tue, 17 Nov 2026 11:29:48 +0000</pubDate></item><item><title>おい、 Mutation Test をやれ。テスト品質を、測るために</title><link>https://zenn.dev/mizchi/articles/mutation-test-quality</link><description>[score: 0.876] おい、 Mutation Test をやれ。テスト品質を、測るために
-AIがコードを書き散らして認知的負荷が限界に達する今日この頃、皆様いかがお過ごしでしょうか。
-AIによってテストカバレッジを上げることは容易になりました。僕も「分岐カバレッジを80%以上にしろ」みたいな雑なプロンプトを書いて昼飯に行ったりします。帰ってきたらヨシっ！ってマージするわけですね。
-ところでそのヨシッは何を担保しているのでしょうか？
-この記事は次の記事の熱い思いに応えるために書かれています。
-Claude が最初「mutator 良いと思うけど出してるの個人だしスターも少ないしバージョンもまだ 0 系だから Str</description><guid isPermaLink="false">https://zenn.dev/mizchi/articles/mutation-test-quality</guid><pubDate>Tue, 17 Nov 2026 10:27:14 +0000</pubDate></item><item><title>OpenAIによるHugging Faceハッキング事件でカリフォルニア州司法長官がOpenAIを提訴</title><link>https://gigazine.net/news/20261117-california-doj-sue-openai/</link><description>[score: 0.876] OpenAIによるHugging Faceハッキング事件でカリフォルニア州司法長官がOpenAIを提訴
-2026年7月、OpenAIのAIエージェントがHugging Faceを誤ってハッキングしてしまう事件が発生しました。この件に関連し、「AIを適切に保護せず、消費者や市民を危険にさらした」として、カリフォルニア州司法長官がOpenAIを訴えたことが分かりました。
-It’s the Golden State, not the Wild West: Attorney General Bonta Sues OpenAI Over Cybersecurity Incidents | State o</description><guid isPermaLink="false">https://gigazine.net/news/20261117-california-doj-sue-openai/</guid><pubDate>Tue, 17 Nov 2026 05:00:30 +0000</pubDate></item><item><title>Google Project Zero、脆弱性の開示期限を段階的に30日へ短縮／AIで発見・悪用が高速化、パッチ展開の猶予や大半の特例を廃止</title><link>https://forest.watch.impress.co.jp/docs/news/2156900.html</link><description>[score: 0.876] ニュース
-Google Project Zero、脆弱性の開示期限を段階的に30日へ短縮
-AIで発見・悪用が高速化、パッチ展開の猶予や大半の特例を廃止
-2026年11月17日 13:33
-米Googleの脆弱性調査チーム「Project Zero」は11月13日（現地時間）、脆弱性の情報開示ポリシーを改定すると発表した。同チームは2021年以降、「90＋30」と呼ばれる開示ポリシーを採用してきた。これはベンダーに最大90日の修正期間を与え、さらにパッチを展開するための“ソークタイム”として30日を追加するというものだ。しかし、脆弱性の発見やエクスプロイト（攻撃コード）の作成にAIが活用されるよ</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2156900.html</guid><pubDate>Tue, 17 Nov 2026 12:30:19 +0000</pubDate></item><item><title>エヌビディア フアン氏 CEO復帰めぐる議論活発化 株価にも影響</title><link>https://news.web.nhk/newsweb/na/nd-20261117de77131</link><description>[score: 0.878] 半導体大手「エヌビディア」のCEOを辞任したジェンスン・フアン氏をめぐり、実業家のイーロン・マスク氏らがCEOへの復帰を求める署名運動に参加する一方、会社の取締役会は復帰を検討していないと報じられるな…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Tue, 17 Nov 2026 21:09:12 +0000</lastBuildDate><item><title>ついに登場したAMDの新世代CPU「Zen 6」完全解説。Zen 6とZen 6cをアーキテクチャレベルで作り分けたAMDのCPU戦略とは</title><link>https://www.4gamer.net/games/058/G105830/20261116004/</link><description>[score: 0.858] ついに登場したAMDの新世代CPU「Zen 6」完全解説。Zen 6とZen 6cをアーキテクチャレベルで作り分けたAMDのCPU戦略とは ついに登場したAMDの新世代CPU「Zen 6」完全解説。Zen 6とZen 6cをアーキテクチャレベルで作り分けたAMDのCPU戦略とは ライター：西川善司 Zen 6世代CPUコアを採用した「EPYC 9006」を掲げるRavi Kuppuswamy氏（SVP，Compute＆Enterprise AI Solutions，AMD） 去る2026年11月10日，AMDは，サーバー/データセンター向けの...</description><guid isPermaLink="false">https://www.4gamer.net/games/058/G105830/20261116004/</guid><pubDate>Tue, 17 Nov 2026 19:45:54 +0000</pubDate></item><item><title>米製造業生産、10月は0.3％増と予想上回る 自動車・ＡＩ関連がけん引 - Reuters</title><link>https://news.google.com/rss/articles/CBMimwFBVV95cUxQeWtaZ044OWxLUWlyeVpoNUVUOTM2OWlrczJfMUZoQWxhOXl2d2swMFR4SDJHZTVxczQwOXpqQm56ZTcycWRpMjRTTTlzNEpwSUVjRVJ2OGYyS0ltTFNVaF93cUZyTUhCeDBodnhCcFIxRmd3MWNZRGE1M1A0MXhDZW16NndOUE14RjJmc1hnYTRoZWRpSUhGVWhVbw?oc=5</link><description>[score: 0.859] 米製造業生産、10月は0.3％増と予想上回る 自動車・ＡＩ関連がけん引 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMimwFBVV95cUxQeWtaZ044OWxLUWlyeVpoNUVUOTM2OWlrczJfMUZoQWxhOXl2d2swMFR4SDJHZTVxczQwOXpqQm56ZTcycWRpMjRTTTlzNEpwSUVjRVJ2OGYyS0ltTFNVaF93cUZyTUhCeDBodnhCcFIxRmd3MWNZRGE1M1A0MXhDZW16NndOUE14RjJmc1hnYTRoZWRpSUhGVWhVbw?oc=5</guid><pubDate>Tue, 17 Nov 2026 16:33:34 +0000</pubDate></item><item><title>米朝首脳会談の可能性高まる、ロ大統領府発言で アナリスト見解 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQUS00YUtxWkxoWGZPcWtrOHRHYzJ1aFFIM0pTYmgyQkRTcXhUeU0tQTZVc0VzNEZpUzI2MWVWZUw5d1Y0R0tLdTdHOHd0b3lRUFhPWE9YemprUklmS1BNZnN3NkhUcU9GRFo5eVYxQ0JGeG9wT1dVM1J3cmRxMjRwa1FNRWJDYWM?oc=5</link><description>[score: 0.859] 米朝首脳会談の可能性高まる、ロ大統領府発言で アナリスト見解 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxQUS00YUtxWkxoWGZPcWtrOHRHYzJ1aFFIM0pTYmgyQkRTcXhUeU0tQTZVc0VzNEZpUzI2MWVWZUw5d1Y0R0tLdTdHOHd0b3lRUFhPWE9YemprUklmS1BNZnN3NkhUcU9GRFo5eVYxQ0JGeG9wT1dVM1J3cmRxMjRwa1FNRWJDYWM?oc=5</guid><pubDate>Tue, 17 Nov 2026 16:33:34 +0000</pubDate></item><item><title>サッカー日本代表　森保監督最後の試合を勝利で飾れず</title><link>https://news.web.nhk/newsweb/na/nd-20261118de77462</link><description>[score: 0.860] サッカー日本代表はシンガポールで行われた強化試合でパラグアイに1対2で敗れ、森保一監督が指揮をとる最後の試合を勝利で飾ることはできませんでした。
+世界ランキング17位の日本はシンガポールでの強化試…
 あわせて読みたい
-トランプ大統領 フアン氏エヌビディアCEOへの復帰を容認の姿勢
-11月17日 8:22
+来年秋の朝ドラ ヒロインに飯沼愛さん【会見動画】
+11月17日 18:30
+愛子さま シンガポールに向けて出発
+11月17日 12:32
+群馬 前橋 住宅街にクマが出没 男性1人けが 子グマ1頭を捕獲
+11月17日 17:57
+中野 女性刺殺事件 容疑者「冷たくあしらわれ腹が立ち刺した」
+11月17日 11:53
+クアッド首脳会合“経済的威圧に深刻な懸念”共同文書まとめる
+11月</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de77462</guid><pubDate>Tue, 17 Nov 2026 17:54:35 +0000</pubDate></item><item><title>米システム障害、原因は設備老朽化 サイバー攻撃でない＝国土安保長官 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9HT21wR1lndzZwZ0IzT0FWdFl2bmYzYnROX0Z6UWxWaHNITjNUTWxIMDhUU0p2bEdDdndkVVFOc2ItTUZIN2xKS1luVFBSSkFTWGwydjRURDFQYWduZ1p5bFRDRkE2T0E5VnpyTDNBM0ZfRG83bk00QXJoM1NWcEE?oc=5</link><description>[score: 0.860] 米システム障害、原因は設備老朽化 サイバー攻撃でない＝国土安保長官 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9HT21wR1lndzZwZ0IzT0FWdFl2bmYzYnROX0Z6UWxWaHNITjNUTWxIMDhUU0p2bEdDdndkVVFOc2ItTUZIN2xKS1luVFBSSkFTWGwydjRURDFQYWduZ1p5bFRDRkE2T0E5VnpyTDNBM0ZfRG83bk00QXJoM1NWcEE?oc=5</guid><pubDate>Tue, 17 Nov 2026 18:30:57 +0000</pubDate></item><item><title>インフレ抑制へ複数回利上げ必要の公算、早期対応重要＝米セントルイス連銀総裁 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE04dVdBQll3d21nMDlDOHRPaHQzcWgxeG42VV9TTDdMamw2ckliMzRuckVYN2xJN0x2WFRXMThkZktEWFBna21mekRDcEExcmtkbEY0Rl92TW5kYmc1Zl9OLWpXbXZIak0yQjdrekZzSHRxaWpLdVJpT2owdUhrdw?oc=5</link><description>[score: 0.861] インフレ抑制へ複数回利上げ必要の公算、早期対応重要＝米セントルイス連銀総裁 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE04dVdBQll3d21nMDlDOHRPaHQzcWgxeG42VV9TTDdMamw2ckliMzRuckVYN2xJN0x2WFRXMThkZktEWFBna21mekRDcEExcmtkbEY0Rl92TW5kYmc1Zl9OLWpXbXZIak0yQjdrekZzSHRxaWpLdVJpT2owdUhrdw?oc=5</guid><pubDate>Tue, 17 Nov 2026 15:32:31 +0000</pubDate></item><item><title>Kubernetesの構成要素にガチ入門する</title><link>https://qiita.com/har1101/items/ebd90aa7ce654c9c8c97?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.861] こんにちは、ふくちです。
+最近Kubernetesが話題ですね。色んな企業のソフトウェアファクトリー事例で活用されているのを見ています。どちらかというと先進的な事業会社さんの取り組み例な気がしますが、そういうトレンドが若干あるのかなと。
+とはいえ私は全くKubernetes知らないです。名前とk8sって略すことくらいしか知りません。ということでまずは基礎基本の学習をしてみようと思います。
+Kubernetes(k8s)とは
+ギリシャ語由来で、操舵手やパイロットを表すそうです。Copilotの上位互換ですね、AI時代の先見の明があったのかもしれない。
+というのはさておき、公式ドキュメントによると</description><guid isPermaLink="false">https://qiita.com/har1101/items/ebd90aa7ce654c9c8c97?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 17 Nov 2026 20:25:19 +0000</pubDate></item><item><title>GitHub - kgmkm/muse-grok-x-search</title><link>https://github.com/kgmkm/muse-grok-x-search</link><description>[score: 0.862] GitHub - kgmkm/muse-grok-x-search 日本語版はこちら: README.ja.md A dedicated skill that adds X (formerly Twitter) search to Muse. Out of the box, Muse's social search covers Instagram, Facebook and Threads — but not X. This skill c... yuiseki</description><guid isPermaLink="false">https://github.com/kgmkm/muse-grok-x-search</guid><pubDate>Tue, 17 Nov 2026 19:08:44 +0000</pubDate></item><item><title>数学Ⅲの積分を半導体工学で練習してみよう</title><link>https://qiita.com/mahaya123/items/0175b426a7a021ac8d4a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.862] 半導体の仕組みを知りながら、積分計算で工学的な課題を解決する
+高校数学Ⅲでは、三角関数や指数関数の積分、置換積分、部分積分、面積、回転体の体積、曲線の長さなどを勉強します。
+では、こうした計算は実際の工学で何に使われているのでしょうか。
+半導体工学では、光の吸収量、不純物の濃度分布、シリコンウェーハの有効面積、はんだボールの材料使用量、CMOSアナログ回路の雑音などを計算するために積分が使われます。
+この記事では、数学Ⅲの積分計算の練習を主目的として、半導体工学で生じる課題を数学の問題に置き換えて解いていきます。
+半導体工学の専門知識は前提としません。必要な公式や物理量は問題文で説明します。
+</description><guid isPermaLink="false">https://qiita.com/mahaya123/items/0175b426a7a021ac8d4a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 17 Nov 2026 20:25:19 +0000</pubDate></item><item><title>【AWS】CloudWatch Omni、なんか良さそうなので触ってみた！</title><link>https://qiita.com/kuracchi_enj/items/f771a426c68df7972ba4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.865] どうもこんにちは。
+9月末くらいに、CloudWatch Omniという機能が提供開始されておりまして、「CloudWatch Omniと戯れたいなぁ...」と思いながら1ヶ月以上が経ってしまいまして...
+Omniさんもさぞ寂しい思いをしたことでしょう（絶対そんなことない）。
+触ります。まずは準備して、記事を書きます。へい。
+公式の紹介ではAIエージェントのトレースや評価が目を引くのですが、最初から全部やろうとすると、Omniの前に準備でお腹いっぱいになりそうです。
+そこで今回は、Lambdaから出したログをOmniで調査するところに絞ります。ログを出す側はAWS CDKで用意して、Omni</description><guid isPermaLink="false">https://qiita.com/kuracchi_enj/items/f771a426c68df7972ba4?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 17 Nov 2026 20:25:19 +0000</pubDate></item><item><title>日韓首脳会談 シャトル外交継続 イ大統領来年1月訪日の意向</title><link>https://news.web.nhk/newsweb/na/nd-20261117de77438</link><description>[score: 0.867] フィリピンを訪問中の高市総理大臣は、韓国のイ・ジェミョン(李在明)大統領と会談し、シャトル外交を積極的に続けることを確認しました。イ大統領は来年1月に日本を訪問する意向を明らかにしました。
+フィリ…
+あわせて読みたい
+クアッド首脳会合“経済的威圧に深刻な懸念”共同文書まとめる
+11月18日 1:36
 来年秋の朝ドラ ヒロインに飯沼愛さん【会見動画】
 11月17日 18:30
 群馬 前橋 住宅街にクマが出没 男性1人けが 子グマ1頭を捕獲
 11月17日 17:57
-江夏豊さんが死去 78歳 プロ野球 阪神や広島などで活躍
-11月17日 20:41
-関文科相 2024年6月の政治資金パーテ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261117de77131</guid><pubDate>Tue, 17 Nov 2026 07:19:40 +0000</pubDate></item><item><title>トランプ氏がアジア歴訪開始、クアッド首脳会合で安保やＡＩ協議表明 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQY2UzVG4zMGQ1bFlBSXpRMEdFVFp1WF9kbHpUSnZDcmRZMEtsdzNZNXVkRk1kSHlIMnRWWVVUTXR2NXRET2ZiYW16X3dMMk8yaFRtdlkzMDhJV1dkanpPdXBFbHhldDJSV1N5VlAwVjRrNTJVMlUtU0FRellJZk1fZTJPTWRweHM?oc=5</link><description>[score: 0.878] トランプ氏がアジア歴訪開始、クアッド首脳会合で安保やＡＩ協議表明 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxQY2UzVG4zMGQ1bFlBSXpRMEdFVFp1WF9kbHpUSnZDcmRZMEtsdzNZNXVkRk1kSHlIMnRWWVVUTXR2NXRET2ZiYW16X3dMMk8yaFRtdlkzMDhJV1dkanpPdXBFbHhldDJSV1N5VlAwVjRrNTJVMlUtU0FRellJZk1fZTJPTWRweHM?oc=5</guid><pubDate>Tue, 17 Nov 2026 13:28:03 +0000</pubDate></item><item><title>製造業のベテランにAIを教えて見えた、自走を分けるもの</title><link>https://zenn.dev/factory_dx_eng/articles/ai-handson-veteran-autonomy</link><description>[score: 0.879] 製造業のベテランにAIを教えて見えた、自走を分けるもの あれから、どうなったか 私は大手製造業で、デジタルやAIを使った改善や業務変革を進めるチームにいる。肩書きはマネージャーだが、部下はおらず、実態はプレイヤーだ。大手製造業では、よくある話だと思う。チームはもともと製造現場の改善を担う組織で、近年そこへデジタルやAIの役割が加わった。 前回の記事では、AI...</description><guid isPermaLink="false">https://zenn.dev/factory_dx_eng/articles/ai-handson-veteran-autonomy</guid><pubDate>Tue, 17 Nov 2026 12:40:58 +0000</pubDate></item><item><title>今週のはてなブックマーク数ランキング（2026年11月第3週） - はてなブックマーク開発ブログ</title><link>https://bookmark.hatenastaff.com/entry/2026/11/17/120014</link><description>[score: 0.880] 今週のはてなブックマーク数ランキング（2026年11月第3週） - はてなブックマーク開発ブログ はてなブックマークのブックマーク数が多い順に記事を紹介する「はてなブックマーク数ランキング」。11月9日（月）～11月15日（日）〔2026年11月第3週〕のトップ30です*1。 順位 タイトル 1位 完全オフライン、無制限、53言語対応。「日本発の翻訳AI」無償公開から数日、ゲーマー向けツールも続々登場 | Game*Spark - 国...</description><guid isPermaLink="false">https://bookmark.hatenastaff.com/entry/2026/11/17/120014</guid><pubDate>Tue, 17 Nov 2026 07:32:16 +0000</pubDate></item><item><title>当社お客様の情報漏えいの可能性に関するお詫びとお知らせ:楽天証券</title><link>https://www.rakuten-sec.co.jp/web/info/info20261117-02.html</link><description>[score: 0.881] 2026年11月17日
-このたび、楽天証券への第三者による不正アクセスを受けたことにともない、楽天証券が保有するお客様の情報の一部が漏えいした可能性があることを確認いたしましたので、お知らせいたします。
-なお、楽天証券のログインに必要なパスワード、暗証番号を含む楽天証券の取引に必要な各種情報についての漏えいは確認しておりません。また、現時点において、本件に起因すると考えられる不正アクセスまたは不正取引は確認されておりません。
-楽天証券は、本件を重く受け止めております。お客様をはじめ関係者の皆さまには、ご心配をおかけしますことを、深くお詫び申し上げます。
-本件の影響が確認されたお客様の特定は完了</description><guid isPermaLink="false">https://www.rakuten-sec.co.jp/web/info/info20261117-02.html</guid><pubDate>Tue, 17 Nov 2026 09:28:10 +0000</pubDate></item><item><title>https://openai.com/ja-JP/index/expanding-chatgpt-for-academic-researchers/</title><link>https://openai.com/ja-JP/index/expanding-chatgpt-for-academic-researchers/</link><description>[score: 0.883] https://openai.com/ja-JP/index/expanding-chatgpt-for-academic-researchers/ misshiki OpenAI OpenAIが学術研究者向けChatGPTを拡大。11月23日から対象研究者に先着5万件の無料利用支援を提供。本人と共同研究者2人までPlusを利用でき、今回最大15万人、プログラム全体で20万人の支援を目指す。</description><guid isPermaLink="false">https://openai.com/ja-JP/index/expanding-chatgpt-for-academic-researchers/</guid><pubDate>Tue, 17 Nov 2026 13:03:58 +0000</pubDate></item><item><title>Claude Fable 5.2を使って一発で指示通りのゲームを作成できた話</title><link>https://gigazine.net/news/20261117-claude-made-dream-game/</link><description>[score: 0.883] Claude Fable 5.2を使って一発で指示通りのゲームを作成できた話
-甥っ子から「ゲームを作って」と頼まれた機械学習エンジニアが、AIの「Claude Fable 5.2」に1回指示を出すだけでゲームを完成させたとする体験談を共有しました。
-Fable 5.2 One-Shotted My Nephew's Dream Game - NotesByLex.com
-https://notesbylex.com/fable-5-2-one-shotted-my-nephews-dream-game
-グラフィックデザインツール「Canva」の開発企業で働いているというレックス・トゥンボロウ氏</description><guid isPermaLink="false">https://gigazine.net/news/20261117-claude-made-dream-game/</guid><pubDate>Tue, 17 Nov 2026 13:04:02 +0000</pubDate></item><item><title>7〜9月実質GDP年率0.1%減、4四半期ぶりマイナス　個人消費落ち込み - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUA138F50T11C26A1000000/</link><description>[score: 0.889] 7〜9月実質GDP年率0.1%減、4四半期ぶりマイナス 個人消費落ち込み - 日本経済新聞 内閣府が16日発表した2026年7〜9月期の国内総生産（GDP）速報値は物価変動の影響を除いた実質の季節調整値が前期比0.02%減、年率換算で0.1%減だった。個人消費の落ち込みが響き、4四半期ぶりのマイナス成長となっ... neco22b だから法人税増税してその分、消費税減税か給付金でも良いが財出すべき。</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUA138F50T11C26A1000000/</guid><pubDate>Tue, 17 Nov 2026 09:14:40 +0000</pubDate></item><item><title>AI に書かせたテストは、どれだけ穴を見つけるのか。Claude Code・Codex・Gemini CLI のテストを変異テストで48回採点したら、95%以上を見抜き、仕様を渡すと点が下がった</title><link>https://qiita.com/suwa_nobu/items/faf0d787a602cc5ec74c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.901] 「AI がテストを書いて、全部通りました」。それで本当に確かめられているのかは、テストが通ったことだけでは分かりません。
-11月9日の「AI「テスト通りました」← これ､本当？ Stryker でテストの穴を塞いだ話」は、変異テストでこの穴を見つける方法を紹介し、11月17日の時点で77いいねを集めています。翌日の「AIが書いたテストでは変異の半分を検出できなかった」は、実際のプロジェクトで Claude Code が書いたテストを測り、見抜けた変異は49.6%だったと報告しています。
-変異テストは、コードをわざと少しだけ壊して（&lt;
-を &lt;=
-に変える、など）、テストが気づくかを数える方法です</description><guid isPermaLink="false">https://qiita.com/suwa_nobu/items/faf0d787a602cc5ec74c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 17 Nov 2026 08:33:39 +0000</pubDate></item></channel></rss>
+中野 女性刺殺事件 容疑者「冷たくあしらわれ腹が立ち刺した」
+11月17日 11:53
+関文科相 2024年6月の政治資金パーティー</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261117de77438</guid><pubDate>Tue, 17 Nov 2026 16:00:35 +0000</pubDate></item><item><title>密輸の金と消費税の仕組みで不正に利益 対策検討へ</title><link>https://news.web.nhk/newsweb/na/nd-20261117de77421</link><description>[score: 0.867] 密輸入した「金」と消費税の仕組みを悪用して不正に利益を得るケースが問題となっていることから、政府・与党は対策の検討に乗り出す方針で、来年度の税制改正に向けた論点の1つになる見通しです。
+日本では、…
+オーストラリアの性風俗で働く日本人女性
+不動産が“負”の動産に？ 「実家じまいは3年以内」 なぜ
+愛子さま シンガポール公式訪問へ 紡がれる友好の絆
+広がるウェブ漫画の世界 思いもよらない新作も
+使わせる? 使わせない? 子どもとAI 親たちの悩み
+24年ぶりフランス国債の利回り高水準 背景は？【経済コラム】
+「ものすごく本嫌いだった」 東野圭吾さん 創作の原点とは
+“取り調べ拒否します” 広がる</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261117de77421</guid><pubDate>Tue, 17 Nov 2026 20:25:36 +0000</pubDate></item><item><title>エヌビディア、安保・輸出管理の監督委新設 中国事業に監視の目 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQTGw4MENhenVqc1BMci0wVlB2bnVVVWwta2t0LXhEZ2F6bnhpSXI5UEJyTGJUOWlBZkRQbnZ5XzlrbFk1RW96YUtzNzBsd1B0cG5MZktzWHlNOFNZRWkzdFdYa25mVm1Tb2JEaHJxT0kzcDlXM0RITzdYTEtFTWNQRXhBRWZzUms?oc=5</link><description>[score: 0.868] エヌビディア、安保・輸出管理の監督委新設 中国事業に監視の目 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxQTGw4MENhenVqc1BMci0wVlB2bnVVVWwta2t0LXhEZ2F6bnhpSXI5UEJyTGJUOWlBZkRQbnZ5XzlrbFk1RW96YUtzNzBsd1B0cG5MZktzWHlNOFNZRWkzdFdYa25mVm1Tb2JEaHJxT0kzcDlXM0RITzdYTEtFTWNQRXhBRWZzUms?oc=5</guid><pubDate>Tue, 17 Nov 2026 15:32:31 +0000</pubDate></item><item><title>🥕難解言語Emojicodeで競プロがしたい！🐇</title><link>https://qiita.com/Un_titled/items/b566535aa04d982bb9c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.868] 😀 🔤Hello, World!🔤 ❗️
+こんにちは！Un_titledです。その辺の高校生をしています。
+みなさんは競プロで何の言語を使っていますか？
+私はC++を主に使っています。他にもPython、Rust、Java...
+Brainf**kやwhitespace、pietなどの読ませる気のない難解言語を使っている人もいることは事実です。
+「そーーんな難解言語だなんて…（笑）」という方もいるかもしれませんが、難解言語が使えるって憧れではありませんか？
+ということで…
+難解言語の1つ、Emojicodeを使って競プロをしよう！と思いました。
+難解言語をやりたいと思ったきっかけ詳細
+学校内で</description><guid isPermaLink="false">https://qiita.com/Un_titled/items/b566535aa04d982bb9c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 17 Nov 2026 20:25:19 +0000</pubDate></item><item><title>高インフレなお課題、労働市場は安定＝米アトランタ連銀暫定総裁 - Reuters</title><link>https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzlfMlJtTkF5aVltSFdBbnlKTDRhMW5MNFFvM1RfdElZcENILVdtdDdvS2RxeUxoZEx5Qk1ZRVdMa3QzdEZ5V0hCQzEwNVY3V2JFTkxoX3hpS1hacWNiUjlIVE1mNHZTRm95Nk03UURfZzVaSjJlWmJ6THV2eHR4NzR0SmNZeTc5THFTOTZYczFhWXRjVDVnRVVLUQ?oc=5</link><description>[score: 0.870] 高インフレなお課題、労働市場は安定＝米アトランタ連銀暫定総裁 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMimwFBVV95cUxNZzlfMlJtTkF5aVltSFdBbnlKTDRhMW5MNFFvM1RfdElZcENILVdtdDdvS2RxeUxoZEx5Qk1ZRVdMa3QzdEZ5V0hCQzEwNVY3V2JFTkxoX3hpS1hacWNiUjlIVE1mNHZTRm95Nk03UURfZzVaSjJlWmJ6THV2eHR4NzR0SmNZeTc5THFTOTZYczFhWXRjVDVnRVVLUQ?oc=5</guid><pubDate>Tue, 17 Nov 2026 19:26:57 +0000</pubDate></item><item><title>フアン氏の娘、メガスピード巡るエヌビディア対応を主導＝報道 - Reuters</title><link>https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTVDSzhVS0ZnRTJNQ3hBcDRRaUJrelNTbEJQV0FCNGpTZ3JlWEd6cEhkUmJwZm0zZGpnUzFMdUdWenlGWi1nLVdmdy1xUXFwV2lra2E0ZGNGcWJTZHlyQnl4YUpYUmhJVnhtTjRkSTNDRVpvZF9KUUtpdzZhUDRzUUJwNWhlQzdIb0E?oc=5</link><description>[score: 0.870] フアン氏の娘、メガスピード巡るエヌビディア対応を主導＝報道 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiigFBVV95cUxQLTVDSzhVS0ZnRTJNQ3hBcDRRaUJrelNTbEJQV0FCNGpTZ3JlWEd6cEhkUmJwZm0zZGpnUzFMdUdWenlGWi1nLVdmdy1xUXFwV2lra2E0ZGNGcWJTZHlyQnl4YUpYUmhJVnhtTjRkSTNDRVpvZF9KUUtpdzZhUDRzUUJwNWhlQzdIb0E?oc=5</guid><pubDate>Tue, 17 Nov 2026 17:34:33 +0000</pubDate></item><item><title>【個人開発/未経験】エラーログが風流な短歌になる「絶望えらぁ短歌」開発してみた【Rails 8 + OpenAI API】</title><link>https://qiita.com/mmsbox/items/12e2b7e06468e1c0a98f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.870] はじめに
+はじめまして！RUNTEQでエンジニアを目指して学習中の、もーと申します！
+突然ですが、皆さんはエラーで心が折れたことはありますか？
+真っ赤なエラーログを前に「自分だけができない」と落ち込んだことがある人に、ぜひ読んでほしい記事です。
+この記事では、入学して1か月ちょっとのときにAIと一緒に作り始めた個人開発アプリ「絶望えらぁ短歌」について、作った理由、機能、実装でこだわったところを、最新アップデートの「絶望百人一首」も含めて紹介します。
+初学者のため、技術的な内容に誤りがあるかもしれません。お気づきの点があれば、コメントで教えていただけるとうれしいです🙇
+作成したアプリ
+エラーログ</description><guid isPermaLink="false">https://qiita.com/mmsbox/items/12e2b7e06468e1c0a98f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 17 Nov 2026 20:25:19 +0000</pubDate></item><item><title>防衛費5年間で50兆円台前半の案 安保3文書改定の政府内調整</title><link>https://news.web.nhk/newsweb/na/nd-20261117de77432</link><description>[score: 0.872] 安全保障関連の3文書の改定で焦点の1つとなる防衛費について、政府内のこれまでの調整で財務省が来年度からの5年間で50兆円台前半を目安とする案を示していることが分かりました。防衛省は防衛力の抜本的な強化…
+オーストラリアの性風俗で働く日本人女性
+不動産が“負”の動産に？ 「実家じまいは3年以内」 なぜ
+愛子さま シンガポール公式訪問へ 紡がれる友好の絆
+広がるウェブ漫画の世界 思いもよらない新作も
+使わせる? 使わせない? 子どもとAI 親たちの悩み
+24年ぶりフランス国債の利回り高水準 背景は？【経済コラム】
+「ものすごく本嫌いだった」 東野圭吾さん 創作の原点とは
+“取り調べ拒否します” 広</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261117de77432</guid><pubDate>Tue, 17 Nov 2026 20:55:38 +0000</pubDate></item><item><title>米エヌビディアのフアン前ＣＥＯ、12月1日に下院委聴取＝外交委 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQdWF5WkdNYms3THJWVFRIVDU5Uk15cTRrMUM4LVVwQzg4QURUMkpBOFFNb0c2eFlKOFN1dW0xUThPV21USHYzUnZYTENIRVVvRFh4ZnNwaE5lajRvWGVfYW5sb3lteGkyb1UzUTc0YzNSbG1mWjFKMGNOTUNFVjhsVVZ5ZktwcVk?oc=5</link><description>[score: 0.873] 米エヌビディアのフアン前ＣＥＯ、12月1日に下院委聴取＝外交委 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxQdWF5WkdNYms3THJWVFRIVDU5Uk15cTRrMUM4LVVwQzg4QURUMkpBOFFNb0c2eFlKOFN1dW0xUThPV21USHYzUnZYTENIRVVvRFh4ZnNwaE5lajRvWGVfYW5sb3lteGkyb1UzUTc0YzNSbG1mWjFKMGNOTUNFVjhsVVZ5ZktwcVk?oc=5</guid><pubDate>Tue, 17 Nov 2026 16:33:34 +0000</pubDate></item><item><title>受刑者の投票 一律に認めずは違憲？最高裁大法廷きょう判決</title><link>https://news.web.nhk/newsweb/na/nd-20261117de77433</link><description>[score: 0.873] 服役中の受刑者の投票を一律に認めない公職選挙法の規定が、選挙権を保障した憲法に違反するかどうかが争われている裁判で、最高裁判所大法廷が18日判決を言い渡します。受刑者の選挙権制限について最高裁が判決を…
+オーストラリアの性風俗で働く日本人女性
+不動産が“負”の動産に？ 「実家じまいは3年以内」 なぜ
+愛子さま シンガポール公式訪問へ 紡がれる友好の絆
+広がるウェブ漫画の世界 思いもよらない新作も
+使わせる? 使わせない? 子どもとAI 親たちの悩み
+24年ぶりフランス国債の利回り高水準 背景は？【経済コラム】
+「ものすごく本嫌いだった」 東野圭吾さん 創作の原点とは
+“取り調べ拒否します” 広</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261117de77433</guid><pubDate>Tue, 17 Nov 2026 20:25:36 +0000</pubDate></item><item><title>COP31閣僚級会合　笹川環境相「脱炭素取り組み加速」</title><link>https://news.web.nhk/newsweb/na/nd-20261118de77475</link><description>[score: 0.874] 気候変動対策を話し合う国連の会議「COP31」は、17日から閣僚級の会合が始まり、化石燃料からの脱却に向けた議論などが進められています。
+笹川環境大臣も登壇し、多国間主義に基づき、世界全体での脱炭素…
+注目ワード
+あわせて読みたい
+来年秋の朝ドラ ヒロインに飯沼愛さん【会見動画】
+11月17日 18:30
+愛子さま シンガポールに向けて出発
+11月17日 12:32
+群馬 前橋 住宅街にクマが出没 男性1人けが 子グマ1頭を捕獲
+11月17日 17:57
+中野 女性刺殺事件 容疑者「冷たくあしらわれ腹が立ち刺した」
+11月17日 11:53
+クアッド首脳会合“経済的威圧に深刻な懸念”共同文書ま</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de77475</guid><pubDate>Tue, 17 Nov 2026 20:25:36 +0000</pubDate></item><item><title>高市首相がAPECで訪中 プーチン大統領と接触調整</title><link>https://news.web.nhk/newsweb/na/nd-20261118de77470</link><description>[score: 0.877] 高市総理大臣は、APECの首脳会議に出席するため、きょう中国を訪問します。
+習近平国家主席との間で関係改善に向けた動きがあるかが注目されているほか、ロシアのプーチン大統領との接触が実現すれば、記者の…
+あわせて読みたい
+来年秋の朝ドラ ヒロインに飯沼愛さん【会見動画】
+11月17日 18:30
+愛子さま シンガポールに向けて出発
+11月17日 12:32
+群馬 前橋 住宅街にクマが出没 男性1人けが 子グマ1頭を捕獲
+11月17日 17:57
+中野 女性刺殺事件 容疑者「冷たくあしらわれ腹が立ち刺した」
+11月17日 11:53
+クアッド首脳会合“経済的威圧に深刻な懸念”共同文書まとめる
+11</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de77470</guid><pubDate>Tue, 17 Nov 2026 20:55:38 +0000</pubDate></item><item><title>消費税減税 与党"審議積み上げ成立を"野党"主張受け入れを"</title><link>https://news.web.nhk/newsweb/na/nd-20261118de77460</link><description>[score: 0.881] 食料品の消費税減税関連法案をめぐり、与党側は、参議院の特別委員会で高市総理大臣が出席して再度、質疑を行うなどして審議時間を積み上げ、成立を図りたい考えです。
+これに対して野党側は、審議の充実に加えて…
+あわせて読みたい
+来年秋の朝ドラ ヒロインに飯沼愛さん【会見動画】
+11月17日 18:30
+愛子さま シンガポールに向けて出発
+11月17日 12:32
+群馬 前橋 住宅街にクマが出没 男性1人けが 子グマ1頭を捕獲
+11月17日 17:57
+中野 女性刺殺事件 容疑者「冷たくあしらわれ腹が立ち刺した」
+11月17日 11:53
+クアッド首脳会合“経済的威圧に深刻な懸念”共同文書まとめる
+11</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de77460</guid><pubDate>Tue, 17 Nov 2026 20:55:38 +0000</pubDate></item><item><title>APEC首脳会議　日中接触や米中ロ首脳会談が焦点</title><link>https://news.web.nhk/newsweb/na/nd-20261118de77459</link><description>[score: 0.883] APEC＝アジア太平洋経済協力会議の首脳会議が18日から中国の深センで開かれます。
+日中関係が悪化した状態が続く中、高市総理大臣と中国の習近平国家主席が接触し、関係改善に向けた動きが見られるかや、ア…
+あわせて読みたい
+クアッド首脳会合“経済的威圧に深刻な懸念”共同文書まとめる
+11月18日 1:36
+007新ボンド役に英俳優ロバート・パティンソンさん
+11月17日 8:30
+ロシア機と推定の航空機が領空侵犯 福岡 沖ノ島周辺
+11月17日 18:37
+新ロシア大使に宇山秀樹氏 元外務省欧州局長 政府が閣議決定
+11月17日 10:49
+トランプ大統領 アジア訪問出発 キム総書記と会談実現も焦</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de77459</guid><pubDate>Tue, 17 Nov 2026 20:25:36 +0000</pubDate></item><item><title>Everything Claude Code（ECC）入門：ルール・スキル・フックで開発環境を整える</title><link>https://qiita.com/takuya035035/items/8a43c6f44aa8a9f6ea0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] はじめに
+Claude Codeで開発を進めていると、プロジェクトの決まりを毎回伝える場面があります。
+「既存の実装パターンを確認してから変更してほしい」
+「不具合を直すときは、再現するテストも残してほしい」
+「レビューでは、認証や権限制御も確認してほしい」
+こうした指示を、日々の開発で参照できる形に整理する選択肢が、**Everything Claude Code（ECC）**です。
+新しいメンバーに業務マニュアルを渡すように、開発のルールや作業手順を用意し、計画、実装、レビューなどの役割を分けられます。
+この記事では、Claude Codeで使う場合を中心に、ECCの構成と導入方法、各機能</description><guid isPermaLink="false">https://qiita.com/takuya035035/items/8a43c6f44aa8a9f6ea0d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 17 Nov 2026 20:25:19 +0000</pubDate></item><item><title>早期退職に応じるべきか？ マイクロソフトやグーグルを辞めた9人が語る、決断の決め手とその後</title><link>https://www.businessinsider.jp/article/2611-should-you-take-buyout-package-voluntary-exit-advice/</link><description>[score: 0.886] 2026年10月末、約6万人のマイクロソフトの従業員が、キャリアの行方を大きく変えかねない選択を迫られた。早期退職の提案に応じるか、今の仕事にとどまるかだ。
+マイクロソフトは、対象となる従業員のうち提案に応じるのは5％未満にとどまると見込んでいる。同社が人員削減に動く背景には、多くの企業が早期退職の募集や希望退職パッケージを通じて組織を再編・縮小している流れがある。その理由としてAIを挙げる企業もある。
+Business Insiderは、過去に早期退職の提案を受け入れた9人に、どう決断したのか、そして同じ選択に悩む人への一番のアドバイスは何かを聞いた。年齢は30代から60代までで、判断材料と</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-should-you-take-buyout-package-voluntary-exit-advice/</guid><pubDate>Tue, 17 Nov 2026 21:04:23 +0000</pubDate></item><item><title>ＮＹ外為市場＝ドル軟調、一時的な調整との見方 ユーロは一時1.10ドル割れ - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9LTVlPdVUwMHNIcENWOXgyYkdtbndnSjNmM2VUS3MtUnJzanowWndiSFNCbkVmQlIwZlRjaF9KZHNWZURBdzNnZGRXcUxsNng3YV9SSkFFNXFWY2o0Y0FRbERsYldzNVhCV01zd253NThmTERFVzBvUTNMMjZ4QQ?oc=5</link><description>[score: 0.891] ＮＹ外為市場＝ドル軟調、一時的な調整との見方 ユーロは一時1.10ドル割れ Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE9LTVlPdVUwMHNIcENWOXgyYkdtbndnSjNmM2VUS3MtUnJzanowWndiSFNCbkVmQlIwZlRjaF9KZHNWZURBdzNnZGRXcUxsNng3YV9SSkFFNXFWY2o0Y0FRbERsYldzNVhCV01zd253NThmTERFVzBvUTNMMjZ4QQ?oc=5</guid><pubDate>Tue, 17 Nov 2026 20:28:23 +0000</pubDate></item><item><title>AIっぽい日本語を直すスキル yomiyasu-mini を Microsoft Copilot の色々なところで使ってみた</title><link>https://qiita.com/Oyu3m/items/8efff0925c0994dda6ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.894] 前提
+この記事は2026/11/16時点での公開情報や動作を私なりにまとめたものとなります。
+正確な情報はご自身でご確認ください。
+AIっぽい日本語を直してくれる「yomiyasu」
+Copilot に文章を書かせると、なんだか「AIっぽい日本語」になりますよねえ…
+「強固な土台」「時間を溶かす」「地味に効いてくる」みたいなやつです。
+そんな AIみ溢れる表現を、意味を変えずに読みやすく直してくれるスキルが yomiyasu（よみやす） です。
+GitHub で公開されていて、Claude Code や Codex などに読み込ませて使います。
+ただ、本体は SKILL.md も検査用のスクリ</description><guid isPermaLink="false">https://qiita.com/Oyu3m/items/8efff0925c0994dda6ee?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Tue, 17 Nov 2026 20:25:19 +0000</pubDate></item><item><title>フアン氏、エヌビディアＣＥＯ復帰なら「光栄」 取締役会判断次第 - Reuters</title><link>https://news.google.com/rss/articles/CBMijgFBVV95cUxObnluTWFOb0Z5dWtDM1J0VzF5YUFVQXhWZjdkU3NWUmtWRWhqR21TTFdyWkFjdXd5X2g1YllpeTlTRkVrQnhYMGJRRW5zSE5XREpCcElEVlBvZUxPOVkxTlBscUtfamFZbmthQWVFSkJRellBUkdwOEdTN3llcERZblFPRFphbWFIcmV6VEVB?oc=5</link><description>[score: 0.896] フアン氏、エヌビディアＣＥＯ復帰なら「光栄」 取締役会判断次第 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMijgFBVV95cUxObnluTWFOb0Z5dWtDM1J0VzF5YUFVQXhWZjdkU3NWUmtWRWhqR21TTFdyWkFjdXd5X2g1YllpeTlTRkVrQnhYMGJRRW5zSE5XREpCcElEVlBvZUxPOVkxTlBscUtfamFZbmthQWVFSkJRellBUkdwOEdTN3llcERZblFPRFphbWFIcmV6VEVB?oc=5</guid><pubDate>Tue, 17 Nov 2026 16:33:34 +0000</pubDate></item><item><title>AIの影響で職を失った労働者は、再就職への道のりが険しい…ゴールドマン・サックスが指摘</title><link>https://www.businessinsider.jp/article/2611-goldman-sachs-ai-disruption-labor-market-forecast/</link><description>[score: 0.903] - ゴールドマン・サックスのエコノミストは、AIが今後の労働市場を大きく左右するとみている。
+- 同社の最新の分析によると、AIによって職を失った高齢の労働者は、再就職までの道のりが険しいという。
+- また、高齢の労働者は、AIの影響を受けやすい職種に再就職する傾向があると指摘する。
+人工知能（AI）は今後の労働市場を大きく左右すると、ゴールドマン・サックス（Goldman Sachs）はみている。ただし、その影響の大きさは、労働者によって異なるという。
+AIの普及に伴う人員削減が進む中、AIの影響で職を失った労働者の中には、再就職が特に困難になる人もいると、同社のアメリカ担当エコノミストであ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-goldman-sachs-ai-disruption-labor-market-forecast/</guid><pubDate>Tue, 17 Nov 2026 21:04:23 +0000</pubDate></item></channel></rss>
