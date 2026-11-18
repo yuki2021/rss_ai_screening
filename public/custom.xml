@@ -1,77 +1,135 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 18 Nov 2026 02:42:55 +0000</lastBuildDate><item><title>NVIDIA、フアン氏退任後初の決算　取締役会「正式なCEOは急がず適任者を選ぶ」</title><link>https://www.itmedia.co.jp/news/article/2611/18/2000003280/</link><description>[score: 0.883] NVIDIA、フアン氏退任後初の決算 取締役会「正式なCEOは急がず適任者を選ぶ」
-米NVIDIAは11月17日（現地時間）、第3四半期（8月～10月）の決算を発表した。11月12日にジェンスン・フアン氏がCEOを退任してから初めての決算になる。業績発表後の電話会議は、暫定CEOを務めるコレット・クレスCFOと取締役会のハーベイ・ジョーンズ会長が行った。
-ジョーンズ会長は決算電話会議の冒頭で、ジェンスン・フアン氏をCEOに戻すつもりはないと表明した。フアン氏は同じ日にXへの投稿で、取締役会が自分の復帰を最善と判断すれば、CEOに戻ることを光栄に思うと書いていた。
-ジョーンズ会長は11月12日の</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/18/2000003280/</guid><pubDate>Wed, 18 Nov 2026 01:38:57 +0000</pubDate></item><item><title>米軍がイランのミサイル施設を攻撃 両者で攻撃の応酬に</title><link>https://news.web.nhk/newsweb/na/nd-20261118de77531</link><description>[score: 0.884] 緊張が続く中東のホルムズ海峡の周辺では、イランがこの1週間で3度目となる、対岸のバーレーンにあるアメリカ軍の施設を攻撃したとする声明を出したのに対し、アメリカ軍の当局者はイランのミサイル発射施設を攻撃…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 18 Nov 2026 14:50:39 +0000</lastBuildDate><item><title>楽天証券の情報漏えい、集団訴訟の動き始まる　「タイムズカー集団訴訟」の弁護士がサイト開設 - 弁護士ドットコムニュース</title><link>https://www.bengo4.com/c_18/n_21206/</link><description>[score: 0.874] 楽天証券の情報漏えい、集団訴訟の動き始まる 「タイムズカー集団訴訟」の弁護士がサイト開設 - 弁護士ドットコムニュース 楽天証券の顧客情報が不正アクセスで漏えいした可能性がある問題をめぐり、集団訴訟の動きが始まった。 カーシェアサービス「タイムズカー」の情報漏えい問題でも集団訴訟を予定している牧野裕貴弁護士が、参加希望者を募る専用サイトを11月18日に開設した。 牧野弁護士は同日、Xにサイト開設を報告。 「『誰が、どこに...</description><guid isPermaLink="false">https://www.bengo4.com/c_18/n_21206/</guid><pubDate>Wed, 18 Nov 2026 13:25:16 +0000</pubDate></item><item><title>ジェンスン・フアンの不倫相手でスパイ疑惑のアリス・フアンは夫がデータセンター事業を政府支援のもと展開、会社はHuaweiと関係も</title><link>https://gigazine.net/news/20261118-who-is-alice-huangs-husband-kang-wei/</link><description>[score: 0.875] ジェンスン・フアンの不倫相手でスパイ疑惑のアリス・フアンは夫がデータセンター事業を政府支援のもと展開、会社はHuaweiと関係も
+NVIDIAのジェンスン・フアン元CEOと不倫関係にあり中国のスパイという疑いもあるアリス・フアン氏について、夫・康偉(カン・ウェイ)氏が投資会社創業者で、データセンター事業も手がけており中国政府から支援を受けていたことが明らかになっています。また、この投資会社は半導体分野でNVIDIAとライバル関係にあるHuawei(華為技術)ともつながりがあったことがわかっています。
+Alice Huang’s Husband Built a Data-Center Empir</description><guid isPermaLink="false">https://gigazine.net/news/20261118-who-is-alice-huangs-husband-kang-wei/</guid><pubDate>Wed, 18 Nov 2026 08:57:51 +0000</pubDate></item><item><title>危険コマンドを止める Claude Code hook を書いたのに、素通ししていた</title><link>https://zenn.dev/minewo/articles/claude-code-hook-fail-open</link><description>[score: 0.875] ! 結論: 危険パターンの網羅より先に、パターン照合へ到達できているか・到達できなかったときどちらへ倒れるかを確かめる。抽出に失敗したら止める（fail-closed）。 この記事で得られること PreToolUse hook が「検査に到達する前」に素通しする経路と、その実測 exit code 2 以外の非ゼロはブロックしないという仕様が、fail-open を作る仕組み 抽出できなかったときに止める（fail-closed）へ倒す実装と、その副作用 想定読者: Claude Code の hook で危険コマンドをブロックする設定を、すでに入れている人 この記事が扱うもの: ...</description><guid isPermaLink="false">https://zenn.dev/minewo/articles/claude-code-hook-fail-open</guid><pubDate>Wed, 18 Nov 2026 11:48:23 +0000</pubDate></item><item><title>日本とインドとの関係強化へ 政財界の関係者が議論</title><link>https://news.web.nhk/newsweb/na/nd-20261118de78046</link><description>[score: 0.876] 日本とインドとの関係を一段と深めようと、両国の政財界の関係者が日本企業によるインドへの投資の将来性などについて議論する会議が、東京都内で始まりました。
+18日から始まった「ライシナ東京」は国際協力…
 あわせて読みたい
-トランプ大統領 米中ロ首脳会談に向け中国へ
-11月18日 6:21
-ロシア 米中ロ首脳会談を"孤立していないと示す場"として重視
-11月18日 5:54
 日米首脳が短時間懇談 インド太平洋情勢で緊密連携確認
 11月18日 6:56
-APEC首脳会議 日中接触や米中ロ首脳会談が焦点
-11月18日 5:11
-エヌビディア フアン氏復帰に意欲も取締役会は「意向ない」
-11月18日 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de77531</guid><pubDate>Wed, 18 Nov 2026 02:13:03 +0000</pubDate></item><item><title>楽天証券が不正アクセスを受け最大約1125万口座分のログインIDなどが漏えい、さらにエンジニア3日の人でもヤバいと分かる行為をやっていたことが判明</title><link>https://togetter.com/li/2771595</link><description>[score: 0.885] 楽天証券が不正アクセスを受け最大約1125万口座分のログインIDなどが漏えい、さらにエンジニア3日の人でもヤバいと分かる行為をやっていたことが判明 楽天証券に不正アクセス、最大1125万口座のログインIDなど漏えいのおそれ - CNET Japan 楽天証券は11月17日、第三者による不正アクセスで、最大約447万口座の氏名や住所、出金先口座などと、最大約1125万口座のログインIDなどが外部に漏えいしたおそれがあると発表した。退会した顧客の情… 2 users CNET Japan</description><guid isPermaLink="false">https://togetter.com/li/2771595</guid><pubDate>Tue, 17 Nov 2026 11:19:59 +0000</pubDate></item><item><title>カリフォルニア工科大学の数学の授業に出てみた。AIで解かれてしまうので、教授はもう宿題を採点していなかった</title><link>https://www.businessinsider.jp/article/2611-ai-math-class-university-homework-caltech-careers/</link><description>[score: 0.885] イー・ニー（Yi Ni）教授は、ノートパソコンもプロジェクターも使わなかった。代わりに2026年11月13日、カリフォルニア工科大学（Caltech）での数学の入門授業で、8枚の黒板をチョークの走り書きで次々と埋めていった。
-授業はまったくのアナログだったが、AIの影は大きくのしかかっていた。
-同大学で17年間教えるニー教授は、学生がAIを使って宿題を済ませているので、もう正答かどうかで採点はしていないと私に話した。今は、提出したかどうかだけで採点している。
-「教育の過程に問題があるんです」とニー教授は言う。
-「大学の数学の宿題は、ほぼすべてAIでできてしまいます」
-かつては「strawber</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-ai-math-class-university-homework-caltech-careers/</guid><pubDate>Wed, 18 Nov 2026 02:01:28 +0000</pubDate></item><item><title>Claude Desktop 開発のすゝめ</title><link>https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop</link><description>[score: 0.886] はじめに PeopleX でプロダクト開発をしている Aki です。もともとフロントエンドのエンジニアで、最近はバックエンドの実装にも挑戦しています。 私のメインのエディタは、ここ数年 VS Code でした。使い始めたのは前の職場にいた2018年ごろだったと思います（その前は Atom を使っていました）。ちょうど Subversion から GitHub に本格的に移り、JavaScript から TypeScript に書き換えていった時期です。 いまは Claude Desktop の Code タブで開発のほとんどを済ませていて、VS Code は 2026年7月27日を最...</description><guid isPermaLink="false">https://zenn.dev/peoplex_blog/articles/vscode-to-claude-desktop</guid><pubDate>Tue, 17 Nov 2026 23:37:45 +0000</pubDate></item><item><title>COMMENTARY: コラム：アンソロピックＩＰＯ、ＡＩブーム巡る疑念と正面衝突 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE13MF9XcXRfSV9UcWVsaW9mTnVSbVNIZU9neWZ2SHktajJSaFpHYTZpSkgwLS1CVkQ4YmI2R0VMTjJfOG9qbzZwVlNXOVA0OVlhelM4cWhGZzlPMy0wYk5Yelh1bFRoenoyT1dVSm1ETXNZOW1ibTdLd3NNYk9SQQ?oc=5</link><description>[score: 0.887] COMMENTARY: コラム：アンソロピックＩＰＯ、ＡＩブーム巡る疑念と正面衝突 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE13MF9XcXRfSV9UcWVsaW9mTnVSbVNIZU9neWZ2SHktajJSaFpHYTZpSkgwLS1CVkQ4YmI2R0VMTjJfOG9qbzZwVlNXOVA0OVlhelM4cWhGZzlPMy0wYk5Yelh1bFRoenoyT1dVSm1ETXNZOW1ibTdLd3NNYk9SQQ?oc=5</guid><pubDate>Wed, 18 Nov 2026 02:39:08 +0000</pubDate></item><item><title>トランプ大統領への警告　米フォーブス編集主幹、米政権の外交政策に苦言</title><link>https://forbesjapan.com/articles/detail/108431?s=ns</link><description>[score: 0.887] 米国のドナルド・トランプ大統領は先週、娘婿のジャレッド・クシュナーと不動産開発業者のスティーブン・ウィトコフという2人の「素人特使」をモスクワに派遣し、ウクライナ侵攻の終結について、ロシアの独裁者ウラジーミル・プーチン大統領と会談させた。時を同じくして、ウクライナ軍がロシアの標的を攻撃するために利用していた米スペースXの軍用衛星通信「スターシールド」の機能が、突如として著しく損なわれた。これは偶然だろうか？ ソビエト時代によく言われた言葉がある。「同志よ、偶然などというものはない」。過去に米政権がプーチン大統領をなだめようと試みた際にも、同様の妨害が生じたことがある。その時は国内の超党派からの</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108431?s=ns</guid><pubDate>Wed, 18 Nov 2026 02:36:04 +0000</pubDate></item><item><title>OpenTelemetry×Cloudflareで組織のClaude Code利用ログを収集する</title><link>https://zenn.dev/gemcook/articles/claude-code-otel-cloudflare</link><description>[score: 0.887] はじめに こんにちは、sosoです！ 以前の記事で書いた通り、GemcookではClaude Codeを全社導入しています。 https://zenn.dev/gemcook/articles/claude-code-company-wide 導入したら次に気になるのが「実際どれくらい使われているのか」です。AI活用を推進していくために、Claude Codeの利用状況をモニタリングしたくなりました。 そこでClaude CodeのOpenTelemetry対応を使い、活用状況をCloudflareで収集する仕組みを作りました。 この記事は「収集編」です。なぜこの方法を選んだのかと、...</description><guid isPermaLink="false">https://zenn.dev/gemcook/articles/claude-code-otel-cloudflare</guid><pubDate>Tue, 17 Nov 2026 23:37:45 +0000</pubDate></item><item><title>米NSAの通信網が停止、機密性高い情報のやり取りに影響と関係筋　CNN EXCLUSIVE</title><link>https://www.cnn.co.jp/usa/35255036.html</link><description>[score: 0.889] 米メリーランド州フォートミードにある国家安全保障局（NSA）の本部/Saul Loeb/AFP/Getty Images （CNN） 米国家安全保障局（NSA）が内部通信に使用している高度に機密化されたネットワークが停止していることが分かった。この問題に詳しい6人の関係者の話で明らかになった。 「NSANet」と呼ばれるこのネットワークは、職員が組織内で機密情報をやり取りするために使用されている。関係者によると、現時点でサイバー攻撃の形跡は見当たらないという。 NSAは問題の範囲を調査中であり、その間、職員の出勤時間をずらす措置をとっていると関係者は語った。 NSAは17日午後の声明で、「定期</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35255036.html</guid><pubDate>Wed, 18 Nov 2026 00:14:50 +0000</pubDate></item><item><title>企業は誰のためにあるのか（アンソロピックのIPOが問うもの）</title><link>https://note.com/cjdbx883/n/n25354b46b6fc</link><description>[score: 0.889] アンソロピックのIPOに、投資家の買い注文が集まっている。11月17日に米証券取引委員会（SEC）へ提出された資料によると、公開予定株数は8億2,500万株、想定価格は70～78ドルである。中央値の74ドルで計算すると、公開規模は約611億ドル。このうち、会社が新株発行で調達するのは手数料控除前で約593億ドル、保有株を売り出す既存株主が受け取るのは約17.5億ドルである。米紙ウォール・ストリート・ジャーナルは、強い需要を背景に公開価格が80ドルを超える可能性もあると報じた。日本時間11月18日朝の時点で最終価格は決まっておらず、ナスダックへの上場は米国時間19日の予定である。 PBCとは、ど</description><guid isPermaLink="false">https://note.com/cjdbx883/n/n25354b46b6fc</guid><pubDate>Wed, 18 Nov 2026 01:47:13 +0000</pubDate></item><item><title>若者はもう検索しない?　SNSとAIで変わる買い物のカタチ</title><link>https://www.watch.impress.co.jp/docs/topic/2155933.html</link><description>[score: 0.890] 新しい商品が欲しくなったとき、皆さんはどうやって探していますか。まずはネットで検索して、公式サイトやプロのレビューを読みつつ検討する人が多いのではないでしょうか。また、SNSでインフルエンサーが紹介していた商品を知り、購入した経験もあるかと思います。数年前にはSNSでバズった商品が爆発的に売れる現象が注目され、「TikTok売れ」という言葉も生まれました。そして今、この買い物の流れに生成AIが加わりつつあります。</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/topic/2155933.html</guid><pubDate>Tue, 17 Nov 2026 23:25:21 +0000</pubDate></item><item><title>エヌビディアCEO辞任劇で脚光、バフェットとマンガー「3つの戒め」</title><link>https://www.businessinsider.jp/article/2611-jensen-huang-nvidia-ceo-warren-buffett-charlie-munger-memes-reputation/</link><description>[score: 0.891] - エヌビディアのジェンスン・フアン氏が11月12日、同社のCEOを辞任した。2つ目の不倫疑惑が報じられた直後のことだった。
-- これに対し、X上では、リスクと評判をめぐるウォーレン・バフェット氏とチャーリー・マンガー氏の名言に言及する投稿が相次いでいる。
-- マンガー氏が「女、酒、レバレッジ」の危険性を警告したエピソードは有名だ。
-ウォーレン・バフェット（Warren Buffett）氏とチャーリー・マンガー（Charlie Munger）氏が、ネット上で脚光を浴びている。ジェンスン・フアン（Jensen Huang）氏がエヌビディア（Nvidia）のCEOを退いたことがきっかけだ。
-AI向</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-jensen-huang-nvidia-ceo-warren-buffett-charlie-munger-memes-reputation/</guid><pubDate>Wed, 18 Nov 2026 02:01:28 +0000</pubDate></item><item><title>7倍の申込超過に沸くアンソロピックIPO、初日の熱狂が「個人投資家の罠」になりかねない理由</title><link>https://forbesjapan.com/articles/detail/108429?s=ns</link><description>[score: 0.893] 生成AIを開発するアンソロピックのIPO（新規株式公開）に、異例の買い注文が集まっている。米国時間2026年11月19日の上場を前に、売り出し予定の8億2500万株に対して約57億株の注文が入り、応募倍率は約7倍に達した。注文総額は4450億ドル（約70兆7550億円）に上る。ただし、大口ファンドが実際に欲しい株数を上回る注文を出している上、上場後に市場で売買できる株式も少ない。上場初日の熱狂に乗って買い急ぐ個人投資家にとって、高値での購入が大きな損失につながる恐れがある。
-アンソロピックのIPOに注文が殺到し、公開価格も上がりやすい
-アンソロピックの公開価格は11月18日夕方に決まり、11月</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108429?s=ns</guid><pubDate>Wed, 18 Nov 2026 00:16:13 +0000</pubDate></item><item><title>エヌビディア フアン氏復帰に意欲も取締役会は「意向ない」</title><link>https://news.web.nhk/newsweb/na/nd-20261118de77484</link><description>[score: 0.893] アメリカの半導体大手、エヌビディアのCEOを辞任したジェンスン・フアン氏が、17日、SNSへの投稿で復帰に意欲を示しました。AI・半導体の分野で大きな影響力を持ってきたフアン氏の動向に高い関心が集まる…
+APEC首脳会議開幕へ 習主席 トランプ大統領をみずから出迎え
+11月18日 21:48
+米軍がイランのミサイル施設を攻撃 両者で攻撃の応酬に
+11月18日 19:03
+アメリカ中間選挙 アラスカ州も民主当確 上院で56議席に
+11月18日 16:23
+WHO地域機関 アメリカのはしか“排除認定”を取り</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de78046</guid><pubDate>Wed, 18 Nov 2026 13:58:05 +0000</pubDate></item><item><title>うその説明で投資を勧誘 監視委が行政処分を勧告</title><link>https://news.web.nhk/newsweb/na/nd-20261118de78027</link><description>[score: 0.877] 投資の助言業務を行っている都内の会社が、顧客に対して「優れた実績を持つ部長がいる」と架空の人物像を作り出すうその説明などをして勧誘していたとして、証券取引等監視委員会は行政処分を行うよう金融庁に勧告し…
 あわせて読みたい
-APEC首脳会議 日中接触や米中ロ首脳会談が焦点
-11月18日 5:11
-日韓首脳会談 シャトル外交継続 イ大統領来年1月訪日の意向
-11月18日 0:32
-チェコで列車正面衝突40人以上けが 信号無視原因か
-11月17日 23:18
-トランプ大統領がマニラ到着 一連のアジア外交スタート
-11月18日 0:07
-日本政府がミャンマー避難民の就労を支援へ
-11月18日 0:18</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de77484</guid><pubDate>Tue, 17 Nov 2026 22:16:24 +0000</pubDate></item><item><title>政府広報にユーチューバー起用　木原官房長官「時代に合わせて改革」</title><link>https://news.tv-asahi.co.jp/news_politics/articles/000548524.html</link><description>[score: 0.894] 1
-政府が公開した安全保障の広報サイトに都市伝説などを紹介するユーチューバーが起用され、木原官房長官は若い世代に関心を持ってもらうための工夫だと説明しました。
-木原官房長官
-「安全保障への興味であったり関心を持っていただく。そして、安全保障を身近な暮らしの課題として分かりやすく伝えることができると、そんな工夫を講じたものであります」
-政府は16日、「ナオキマン」の名前で知られるユーチューバーを起用した安全保障に関する広報サイトを公開しました。
-これについて、木原長官は若い世代の「メディア離れ」が進み、SNSなどで情報を集める人が増えているとして、政府の広報についても時代の変化に合わせて改革する</description><guid isPermaLink="false">https://news.tv-asahi.co.jp/news_politics/articles/000548524.html</guid><pubDate>Tue, 17 Nov 2026 23:48:18 +0000</pubDate></item><item><title>アンソロピック上場、想定評価額約223兆円で事業が大成功しても「投資家が損する理由」</title><link>https://forbesjapan.com/articles/detail/108427?s=ns</link><description>[score: 0.895] 生成AIを開発するアンソロピック（Anthropic）は、約1兆4000億ドル（約222兆6000億円）の評価額でIPO（新規株式公開）に向けて準備を進めている。同社は公開価格を米国時間2026年11月18日に決定し、11月19日に米ナスダック市場で株式の売買を開始すると発表した。
-私は長年、割高な企業を数多く見てきたが、アンソロピックへの投資には、とりわけ大きな期待を織り込む必要がある。同社の生成AI「Claude」は普及が進み、売上高も驚異的な速さで伸びている。成長ぶりに異論はない。私が気になるのは、数千億ドル規模に上る計算インフラの支出契約を結んだ同社が、最終的にどれほどの利益を得られる</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108427?s=ns</guid><pubDate>Tue, 17 Nov 2026 22:48:54 +0000</pubDate></item><item><title>政府広報に陰謀論や都市伝説扱うユーチューバー「ナオキマン」　批判相次ぐ - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUA17AW40X11C26A1000000/</link><description>[score: 0.897] 政府広報に陰謀論や都市伝説扱うユーチューバー 批判相次ぐ
-政府は17日までに、日本の安全保障やエネルギー事情を説明する新たな特集を政府広報のホームページに公開した。根拠のない陰謀論や都市伝説を扱うユーチューバーを起用しており、SNSで批判が相次いでいる。
-木原稔官房長官は記者会見で、若年層への発信が狙いで「行政からの情報に接する機会が少なかった方々にも興味、関心を持ってもらえるよう工夫を講じた」と説明した。
-起用したのは「ナオキマン」の名称で活動するユーチューバー。「これは都市伝説ではない。」とのキャッチフレーズで、原油の輸入を中東に依存している現状や、サイバー攻撃が増加している情勢を紹介して</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUA17AW40X11C26A1000000/</guid><pubDate>Tue, 17 Nov 2026 23:07:44 +0000</pubDate></item><item><title>ジェンスン・フアンが辞任後初の公式声明「復帰できるなら光栄」、それが難しい理由</title><link>https://forbesjapan.com/articles/detail/108434?s=ns</link><description>[score: 0.899] スキャンダルを受けて先週退任に追い込まれたエヌビディアのジェンスン・フアン前CEOは米国時間11月17日、辞任後初となる公式声明を発表し、自身が創業した同社に復帰できるなら「光栄だ」と語った。
-フアンの復職を求める動きが勢いを増しているものの、取締役会は現時点で彼の復帰を検討しておらず、フアンが全面的な対決姿勢に出ない限り、取締役会の承認なしに復帰するための明確な道筋はほとんど残されていない。
-フアンはエヌビディアの部下や中国のスパイと疑われる人物などとの複数の不倫報道を受け、12日にCEOを辞任していたが、17日の声明でCEOとして復帰できれば「光栄だ」と述べた。
-この声明に先立ち、フアンが</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108434?s=ns</guid><pubDate>Tue, 17 Nov 2026 23:48:22 +0000</pubDate></item><item><title>ジェンスン・フアンがCEO復帰への意欲を公表するもNVIDIA会長は「復帰させる予定なし」と明言</title><link>https://gigazine.net/news/20261118-nvidia-not-plan-reappoint-jensen-huang-ceo/</link><description>[score: 0.900] ジェンスン・フアンがCEO復帰への意欲を公表するもNVIDIA会長は「復帰させる予定なし」と明言
-NVIDIAのハーベイ・C・ジョーンズ会長が、同社の決算説明会の中で中国の女スパイとの不倫問題を受けてCEOを辞任したジェンスン・フアン氏のCEO復帰について、「予定はない」と言及したことが明らかになりました。フアン氏はCEO辞任後初めてXへの投稿を行い、CEO復帰への意欲を見せていましたが、会社側が一蹴した形です。
-Nvidia says it doesn't plan to reappoint Jensen Huang as CEO | TechCrunch
-https://techcrunc</description><guid isPermaLink="false">https://gigazine.net/news/20261118-nvidia-not-plan-reappoint-jensen-huang-ceo/</guid><pubDate>Wed, 18 Nov 2026 01:56:07 +0000</pubDate></item><item><title>スパイ疑惑美女のアリス・ファン氏がアイドル化　中国のネット世論は「よくやった」と称賛 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOCD160IE0W6A111C2000000/</link><description>[score: 0.902] NVIDIA「スパイ疑惑美女」アリス氏がアイドル化 中国ネット世論が称賛
-編集委員 中沢克二
-米エヌビディアの前最高経営責任者（CEO）、ジェンスン・ファンと極めて親密な関係を築いた中国スパイ疑惑の渦中にいるアリス・ファン。2027年に向けて米中関係を大きく左右する謎だらけの女性は出身地・中国でどうみられているのか。
-インターネット上の情報が厳格に統制・管理されている中国だが、意外なことにアリス・ファンを巡る発信が全て封鎖されているわけではない。中国政府が認めていない「中国スパイ」にさえ...
-※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。
-この投稿は現在非表示</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOCD160IE0W6A111C2000000/</guid><pubDate>Tue, 17 Nov 2026 22:59:45 +0000</pubDate></item><item><title>部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい - Qiita</title><link>https://qiita.com/nuco_d/items/b279477cbcdbe5921abd</link><description>[score: 0.903] 部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい - Qiita はじめに AIはプログラミングだけでなく、営業資料や発表資料まで作れるようになった。 部下に資料を頼むと、AIで作ったスライドが返ってくることも増えたのではないだろうか。 そして諸君は、そのスライドをひと目見てこう思ったはずだ。 「これ、生成AIで作ったでしょ？」 と。本記事では、AIのスライドがなぜ「Claude...</description><guid isPermaLink="false">https://qiita.com/nuco_d/items/b279477cbcdbe5921abd</guid><pubDate>Wed, 18 Nov 2026 02:22:07 +0000</pubDate></item><item><title>「さすがに笑えない」…政府広報に「陰謀論」YouTuberナオキマン起用の理由は：東京新聞デジタル</title><link>https://www.tokyo-np.co.jp/article/528788</link><description>[score: 0.904] 「さすがに笑えない」…政府広報に「陰謀論」YouTuberナオキマン起用の理由は：東京新聞デジタル 政府が公式サイトの「政府広報オンライン」上で16日に開設した安全保障関連の特集ページに、陰謀論や都市伝説を扱うユーチューバーが起用され、SNS上で「信じ難い」などと批判が巻き起こっている。（森田真奈子） 特集ページのタイトルは「これは都市伝説ではない。」。世界とのつながりが絶たれ、食料やエネルギーなど...</description><guid isPermaLink="false">https://www.tokyo-np.co.jp/article/528788</guid><pubDate>Tue, 17 Nov 2026 23:48:18 +0000</pubDate></item><item><title>OpenAI、「GPT-6.2」の「Astra」と「Sol」を公開　AI自己改善能力は初の「High」に</title><link>https://www.itmedia.co.jp/news/article/2611/18/2000003279/</link><description>[score: 0.905] OpenAI、「GPT-6.2」の「Astra」と「Sol」を公開 AI自己改善能力は初の「High」に
-米OpenAIは11月17日（現地時間）、新たなAIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表した。Astraは複雑な専門業務向けの最上位モデル、Solは日常業務向けの高効率な汎用モデルという位置付けだ。いずれも従来モデルより少ない出力トークンで高度なタスクを処理できるとしている。
-Astraは、9月3日に公開した「GPT-6 Astra」の後継モデル。GPT-6.1世代ではAstraの新モデルは公開されておらず、今回が約2カ月半ぶりの更新となる。法律、金融、科</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/18/2000003279/</guid><pubDate>Tue, 17 Nov 2026 23:41:54 +0000</pubDate></item><item><title>エヌビディア、フアン氏をＣＥＯに復帰させる意向ない＝会長 - Reuters</title><link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHVjZUo0eE1qWEt1NjRrODZsbzdGTmNEUVBXRTltd1NTNXIyQW00NjJNSDFFVE02WnJxcUlmVzFKdnRfYUxmQW5vZ09jTV9vN2N5aURJRlppckJoRHlfYU5qTE5qSXN6WnZSZ1VBZ01ob2I4RTctWEZKaHBaN3FXaHFwZEMtMjRQNDA3RExkN2k?oc=5</link><description>[score: 0.906] エヌビディア、フアン氏をＣＥＯに復帰させる意向ない＝会長 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxQNHVjZUo0eE1qWEt1NjRrODZsbzdGTmNEUVBXRTltd1NTNXIyQW00NjJNSDFFVE02WnJxcUlmVzFKdnRfYUxmQW5vZ09jTV9vN2N5aURJRlppckJoRHlfYU5qTE5qSXN6WnZSZ1VBZ01ob2I4RTctWEZKaHBaN3FXaHFwZEMtMjRQNDA3RExkN2k?oc=5</guid><pubDate>Tue, 17 Nov 2026 22:31:54 +0000</pubDate></item><item><title>サムスン、約41gのGemini搭載スマートグラス　米韓で395ドルから</title><link>https://www.watch.impress.co.jp/docs/news/2157226.html</link><description>[score: 0.907] ニュース
-サムスン、約41gのGemini搭載スマートグラス 米韓で395ドルから
-2026年11月18日 08:00
-Samsungは、GoogleのAI「Gemini」を搭載したスマートグラス「インテリジェントアイウェア」を12月10日に米国と韓国で発売する。米国での価格は395ドル(約62,900円)。日本での発売については発表していない。
-Googleと共同開発した製品で、ファッションブランドのGentle MonsterおよびWarby Parkerと協力し、全30種類のデザインを展開する。米国では両ブランドの製品を発売し、韓国ではGentle Monsterのみを販売する。
-インテ</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2157226.html</guid><pubDate>Tue, 17 Nov 2026 23:03:36 +0000</pubDate></item><item><title>エヌビディアが「国家安全保障委員会」を新設、情報流出疑惑の火消し図る</title><link>https://forbesjapan.com/articles/detail/108432?s=ns</link><description>[score: 0.908] エヌビディアは、ジェンスン・フアン前CEOが中国のスパイと疑われる人物と不倫関係にあった問題を受け、取締役会に新たな委員会を設置した。社内の国家安全保障チームと国際貿易コンプライアンスチームを直接監督する体制を整えることで、米政府やウォール街の懸念を払拭したい考えだ。
-同社は米国時間11月17日、取締役会の下に「国家安全保障・輸出管理監督委員会」を新設したと発表した。この委員会は、同社の国家安全保障に関する方針や輸出管理規則の遵守、国際貿易におけるリスク管理の監督を担う。
-既存の国家安全保障チームと国際貿易コンプライアンスチームは今後、新設された委員会および暫定CEOのコレット・クレスに直接報</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108432?s=ns</guid><pubDate>Wed, 18 Nov 2026 01:11:43 +0000</pubDate></item><item><title>「GPT-6.2 Astra／Sol」登場　前世代超える性能を「コスト1/3で実現」　Ultrafast提供も拡大</title><link>https://www.itmedia.co.jp/aiplus/article/2611/18/2000003282/</link><description>[score: 0.909] 「GPT-6.2 Astra／Sol」登場 前世代超える性能を「コスト1/3で実現」 Ultrafast提供も拡大（1/2 ページ）
-米OpenAIは11月17日（現地時間）、AIモデル「GPT-6.2 Astra」（以下、6.2 Astra）と「GPT-6.2 Sol」（以下、6.2 Sol）を発表した。6.2 Astraは一部の性能評価で、前世代の「GPT-6 Astra」（以下、6 Astra）を上回るスコアを3分の1以下のコストで実現したとうたう。
-6.2 Astraは難度の高い専門業務向けの最上位モデル、6.2 Solは「GPT-6.1 Sol」（以下、6.1 Sol）の後継に当たる</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2611/18/2000003282/</guid><pubDate>Wed, 18 Nov 2026 02:38:44 +0000</pubDate></item><item><title>OpenAI、最上位モデル「GPT-6.2 Astra」と「Sol」公開 コストを抑えて高い成果</title><link>https://www.watch.impress.co.jp/docs/news/2157303.html</link><description>[score: 0.910] ニュース
-OpenAI、最上位モデル「GPT-6.2 Astra」と「Sol」公開 コストを抑えて高い成果
-2026年11月18日 10:08
-OpenAIは17日(米国時間)、最新の最上位AIモデル「GPT‑6.2 Astra」と、日常業務向けの「GPT‑6.2 Sol」を発表した。いずれも要求の厳しいタスクにおいて、より少ない出力トークン数で優れた結果を提供可能で、大規模な利用においても合理的なコストで最先端のパフォーマンスを実現できるとしている。
-ChatGPT WorkとCodexにおいて、Plus、Pro、Enterprise、Eduのユーザーが、GPT-6.2 AstraとSolを</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2157303.html</guid><pubDate>Wed, 18 Nov 2026 01:19:22 +0000</pubDate></item><item><title>エヌビディアのフアンCEOは、なぜ「中国のスパイ」をめぐって調査を受けるのか【まとめ3選】</title><link>https://forbesjapan.com/articles/detail/108406?s=ns</link><description>[score: 0.910] 米国時間11月8日、エヌビディアはフアンCEOが外国の諜報活動の標的だったかを調べる独立調査を発表した。CEOは従業員に、婚外関係を持ったと認めて謝罪した。相手の中国籍の女性は、米当局が外国の諜報機関の協力者とみているとニューヨーク・タイムズは伝えた。
-時価総額が推計4兆5000億ドル（約711兆円）の企業のトップに、何が起きているのか。Forbes JAPAN の記事から3本を紹介する。
-独立調査と、CEOの謝罪
-エヌビディアは、フアンCEOが「外国による諜報活動の標的」になっていたかを調べる独立調査を始めると発表した。CEOは従業員向けの声明で「妻を裏切った」と述べ、謝罪している。取締役会</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108406?s=ns</guid><pubDate>Wed, 18 Nov 2026 01:39:35 +0000</pubDate></item><item><title>OpenAIが「GPT-6.2 Astra」を公開、効率アップも料金は2割安価に</title><link>https://www.techno-edge.net/article/2026/11/18/5757.html</link><description>[score: 0.925] OpenAIは11月17日（米国時間）、新しいAIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を公開したと発表しました。Astraは難しい仕事向けの最上位モデル、Solは日常業務向けの効率重視モデルです。ChatGPT WorkとCodexでは、Plus、Pro、Enterprise、Eduの利用者が同日から使えます。企業で使う場合、EnterpriseとEduはワークスペースの管理者が有効にすると利用できます。APIでも提供します。
-GPT-6.2 Astraの特徴は、同じ仕事を少ない出力で完了できるようになったことです。OpenAIの社内評価「GDPval v2」（コン</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/11/18/5757.html</guid><pubDate>Wed, 18 Nov 2026 00:51:52 +0000</pubDate></item></channel></rss>
+歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット
+11月18日 19:15
+三菱UFJグループ漏えい相次ぐ 銀行は顧客情報約650万件流出
+11月18日 18:26
+APEC首脳会議開幕へ 習主席 トランプ大統領をみずから出迎え
+11月18日 21:48
+APEC 高市首相と習近平国家主席が握手 プーチン氏と接触調整
+11月18日 21:02
+ネットにつながらない</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de78027</guid><pubDate>Wed, 18 Nov 2026 13:00:24 +0000</pubDate></item><item><title>国民 玉木代表 政府広報“陰謀論ユーチューバー起用は適切か”</title><link>https://news.web.nhk/newsweb/na/nd-20261118de77756</link><description>[score: 0.877] 政府が根拠のない情報や陰謀論を「都市伝説」として紹介しているユーチューバーを政府広報に起用したことについて、国民民主党の玉木代表は「国の政策の説明に陰謀論などで登録者数を稼いできたユーチューバーを使う…
+政府広報に都市伝説系ユーチューバーを起用で物議
+11月17日 17:52
+中野 女性刺殺事件 「女性との食事代などに800万円」供述
+11月18日 14:13
+ネットにつながらない携帯電話発売へ 脱ネット需要がねらい
+11月18日 23:29
+日本の自動車業界 主要素材・部品共通化 競争力強化へ【QA】
+11月18日 19:54
+高市首相APECで中国へ出発 習主席対応は プーチン氏と接触調整</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de77756</guid><pubDate>Wed, 18 Nov 2026 07:39:48 +0000</pubDate></item><item><title>コメへの補助金 一部で増額案 主食用米の生産抑制の役割見直し</title><link>https://news.web.nhk/newsweb/na/nd-20261118de77959</link><description>[score: 0.878] 農林水産省は、コメを対象とした来年度の補助金について、家畜のエサや米粉用など主食用米以外の一部で増額する案をまとめたことが分かりました。増額には生産性の向上に取り組むことなどが条件で、主食用米の生産を…
+あわせて読みたい
+歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット
+11月18日 19:15
+三菱UFJグループ漏えい相次ぐ 銀行は顧客情報約650万件流出
+11月18日 18:26
+ネットにつながらない携帯電話発売へ 脱ネット需要がねらい
+11月18日 23:29
+APEC 高市首相と習近平国家主席が握手 プーチン氏と接触調整
+11月18日 21:02
+APEC首脳会議開幕へ 習</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de77959</guid><pubDate>Wed, 18 Nov 2026 12:03:07 +0000</pubDate></item><item><title>エヌビディア、ファン氏をＣＥＯに復帰させる意向なし ロイター報道 - QUICK Money World</title><link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zZmxpUjRObTByZFVSb1RWVHUyZUFtb3lZWHg2eEdobmZFYlVYVlJpdjhDYXViMFVxU1ctZGVaX2ZGUFlTTG1RdFJNVVFSYnl4UV9EdG5B?oc=5</link><description>[score: 0.879] エヌビディア、ファン氏をＣＥＯに復帰させる意向なし ロイター報道 QUICK Money World</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zZmxpUjRObTByZFVSb1RWVHUyZUFtb3lZWHg2eEdobmZFYlVYVlJpdjhDYXViMFVxU1ctZGVaX2ZGUFlTTG1RdFJNVVFSYnl4UV9EdG5B?oc=5</guid><pubDate>Wed, 18 Nov 2026 05:34:46 +0000</pubDate></item><item><title>Google検索の「AIによる概要」のせいで外部ウェブサイトのクリック率が約40％減少、サイト運営者はどうするべきか？</title><link>https://gigazine.net/news/20261118-google-ai-overviews-cut-clicks-websites/</link><description>[score: 0.879] Google検索の「AIによる概要」のせいで外部ウェブサイトのクリック率が約40％減少、サイト運営者はどうするべきか？
+Googleで何らかの検索をした際、検索結果の一番上に「AIによる概要」が表示されることがよくあります。検索結果画面にAIによる概要が表示されると、外部ウェブサイトのクリック率が約40％減少するという研究結果も発表されており、ウェブサイト向けの収益分析ツールを提供するRevScopeが現状や対策まとめています。
+Google's AI Overviews cut clicks to websites by 40% - RevScope
+https://revscope.co/</description><guid isPermaLink="false">https://gigazine.net/news/20261118-google-ai-overviews-cut-clicks-websites/</guid><pubDate>Wed, 18 Nov 2026 10:07:56 +0000</pubDate></item><item><title>OpenAI、「GPT-6.2 Astra」「GPT-6.2 Sol」を発表 ～少ない出力トークンでより高い成果／上位モデルのAPI料金は2割引き、「Pro 200」でも「Ultrafast」</title><link>https://forest.watch.impress.co.jp/docs/news/2157295.html</link><description>[score: 0.880] ニュース
+OpenAI、「GPT-6.2 Astra」「GPT-6.2 Sol」を発表 ～少ない出力トークンでより高い成果
+上位モデルのAPI料金は2割引き、「Pro 200」でも「Ultrafast」
+2026年11月18日 09:28
+米OpenAIは11月17日（現地時間）、大規模言語モデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表した。「GPT-6.2 Astra」はもっとも難しいプロジェクト向けの最上位（フロンティア）モデル、「GPT-6.2 Sol」は日常業務向けの効率的で汎用的なモデル。いずれも、より少ない出力トークンで難しいタスクの成果を高めており、利用上</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2157295.html</guid><pubDate>Wed, 18 Nov 2026 04:43:20 +0000</pubDate></item><item><title>孫正義氏が明かす、アンソロピック出資見送りの舞台裏　「僕の失敗」「あん時入れときゃよかった」</title><link>https://www.itmedia.co.jp/business/articles/2611/18/news086.html</link><description>[score: 0.880] ソフトバンクグループの孫正義会長兼社長は、日経主催イベントの対談で米Anthropicへの出資を見送ったことについて「僕の失敗の例の一つ」と明かした。同社のダリオ・アモデイCEOと直接面会し、その凄さを認めながらも、なぜ投資に踏み切らなかったのか。すでに動き出していた米OpenAIへの集中投資と、出資先の企業同士のつながりを創出する「群戦略」におけるパートナー選びのさじ加減など、孫氏の投資判断の舞台裏に迫る。</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2611/18/news086.html</guid><pubDate>Wed, 18 Nov 2026 14:22:48 +0000</pubDate></item><item><title>審理に関与していない裁判官が判決に署名押印するミス</title><link>https://news.web.nhk/newsweb/na/nd-20261118de78047</link><description>[score: 0.880] ことし5月に東京地方裁判所が言い渡した民事裁判の判決について、2審の東京高等裁判所は「審理に関与していない裁判官が署名や押印をしていて、手続きは法律違反だ」として取り消し、審理のやり直しを命じる判決を…
+注目ワード
+あわせて読みたい
+歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット
+11月18日 19:15
+APEC 高市首相と習近平国家主席が握手 プーチン氏と接触調整
+11月18日 21:02
+三菱UFJグループ漏えい相次ぐ 銀行は顧客情報約650万件流出
+11月18日 18:26
+ネットにつながらない携帯電話発売へ 脱ネット需要がねらい
+11月18日 23:29
+日本の自動車業</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de78047</guid><pubDate>Wed, 18 Nov 2026 13:58:05 +0000</pubDate></item><item><title>2つの低気圧急発達へ 北海道暴風警戒 日本海側は雪道に備えて</title><link>https://news.web.nhk/newsweb/na/nd-20261118de77980</link><description>[score: 0.880] 日本付近にある2つの低気圧が急速に発達する影響で、19日以降、北日本と東日本の日本海側を中心に風が強まり波も高くなる見込みです。北海道を中心に暴風に警戒するとともに、東日本や西日本の日本海側の山沿いで…
+注目ワード
+あわせて読みたい
+中野 女性刺殺事件 「女性との食事代などに800万円」供述
+11月18日 14:13
+ネットにつながらない携帯電話発売へ 脱ネット需要がねらい
+11月18日 23:29
+日本の自動車業界 主要素材・部品共通化 競争力強化へ【QA】
+11月18日 19:54
+受刑者の選挙権制限は“合憲” 最高裁が初判断
+11月18日 21:20
+APEC 高市首相と習近平国家主席が</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de77980</guid><pubDate>Wed, 18 Nov 2026 11:31:06 +0000</pubDate></item><item><title>不正アクセスによる個人情報を含む可能性のある情報等の漏えいに関するお詫びとお知らせ</title><link>https://plaid.co.jp/news/20261116/</link><description>[score: 0.880] 不正アクセスによる個人情報を含む可能性のある情報等の漏えいに関するお詫びとお知らせ 11月13日に発表した当社が提供する「KARTE」に対する第三者からの不正アクセスについて、調査の結果、KARTEをご利用いただく企業（以下「ご利用企業」）のアカウントに関する情報、ならびにご利用企業からお預か... asakura-t</description><guid isPermaLink="false">https://plaid.co.jp/news/20261116/</guid><pubDate>Wed, 18 Nov 2026 08:22:37 +0000</pubDate></item><item><title>転職したら話し相手がいなかったんだけど</title><link>https://anond.hatelabo.jp/20250325171929</link><description>[score: 0.881] この度客先を回る営業職から、一歩たりとも社外に出ない事務職に転職した。
+俺は幼少期に母が「言葉のない国に行きたい」と神に祈ったレベルのおしゃべりだ。そしてそのまま成長した。
+先に書いておくけど、この話はマジで長い。なぜなら俺がおしゃべりだから。
+転職してみたら、新しい職場で話せる相手がぜんぜんいなくて辛い。本当にいない。
+下手したら
+「お疲れ様です」
+「お先に失礼します」
+当たり前なんだけど、営業と比べて「しゃべり無用」の業務が多すぎる。
+激烈繁忙期のせいか、皆俺なんかに興味がないのか、仕事の合間にちょっと雑談、みたいなのも発生しない。俺の歓迎会はなぜか2ヶ月先に設定されている。
+苦しい～～ッ</description><guid isPermaLink="false">https://anond.hatelabo.jp/20250325171929</guid><pubDate>Wed, 18 Nov 2026 12:31:58 +0000</pubDate></item><item><title>Museは「成長する相棒」になれるのか？ 記憶と改善の積み重ねを観察する</title><link>https://zenn.dev/daydream/articles/muse-observation-01-memory-and-boundaries</link><description>[score: 0.882] AIに仕事を頼んで、結果を受け取る。それだけなら、もう珍しくない。 でも、こちらの目標を覚えて、先回りして考え、失敗を振り返り、次の仕事の進め方まで変えていくとしたら？ 私は最近、その可能性に興味を持っている。 きっかけはMetaのパーソナルAIエージェント「Muse」だった。使い始めて驚いたのは、回答のうまさ以上に、秘書のように段取りを考えて仕事を前に進めようとするところだった。 だから、ベンチマークの点数だけではわからないことを調べたくなった。記憶や自己改善の一つ一つが正しくても、積み重なった「全体」は本当に良くなっているのか。 情報が追加され、不要なものが消され、要約や統合（コンパ...</description><guid isPermaLink="false">https://zenn.dev/daydream/articles/muse-observation-01-memory-and-boundaries</guid><pubDate>Wed, 18 Nov 2026 11:48:23 +0000</pubDate></item><item><title>@IT_BOYAKI のポスト on X（2026-11-18 17:53） / X</title><link>https://x.com/IT_BOYAKI/status/2122976471350481025</link><description>[score: 0.883] 「SQLインジェクションを知らない経験者が増えている」という動画、コメント欄に実際に破った人と破られた人が集まってきたのでまとめます。
+いいねが一番多かったのは、最も実践的な教育法でした。
+「後輩が対策してないシステム作ってたから、テストで破ってやった」
+口で百回説明するより、目の前でログインを通してみせるほうが早いです。
+破れてしまった報告は、他にもあります。
+「過去に常駐していた大手サービス会社のシステムは、ストプロにビジネスロジックが集約されていたのに、SQLインジェクションが余裕で通りました。『これが日本のインフラ支えてる会社のシステムかよ』って震えましたよね」
+「発注者側がSQLイン</description><guid isPermaLink="false">https://x.com/IT_BOYAKI/status/2122976471350481025</guid><pubDate>Wed, 18 Nov 2026 14:28:29 +0000</pubDate></item><item><title>衆議院議員定数31削減法案 特別委員会で各党が意見表明</title><link>https://news.web.nhk/newsweb/na/nd-20261118de77693</link><description>[score: 0.883] 衆議院議員の定数を比例代表で31議席削減するなどとした法案を審議している特別委員会が開かれ、提出した自民、維新、国民の3党が意義を強調した一方、ほかの野党からは比例のみでの削減に否定的な意見や、削減そ…
+あわせて読みたい
+定数31削減法案 衆院特別委員会審議入り 3党 今国会成立目指す
+11月17日 20:31
+比例31削減法案 あす審議入りで与野党が合意 衆院政治改革特委
+11月16日 18:44
+定数削減法案 今国会成立へ早期の衆院通過目指す 自民維新幹部
+11月16日 16:26
+比例代表31議席削減法案 与党側が来週の審議入りを提案
+11月13日 19:12
+日本の自動車業界 主要素材</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de77693</guid><pubDate>Wed, 18 Nov 2026 05:43:55 +0000</pubDate></item><item><title>楽天証券、投資信託の出庫手数料を無料化</title><link>https://www.watch.impress.co.jp/docs/news/2157569.html</link><description>[score: 0.884] ニュース楽天証券、投資信託の出庫手数料を無料化 清宮信志2026年11月18日 17:35 楽天証券は18日、他の金融機関へ投資信託を移管する際の出庫手数料を無料化した。従来は1銘柄あたり3,300円(税込)の事務手続料がかかっていた。 適用期間は同日から当面の間。11月18日以降に楽天証券へ振替依頼書が到着した受付分から対象となる。 なお、楽天証券は17日に、第三者による不正アクセスを受け、ログインIDなどが漏えいした可能性があると発表している。 楽天証券に不正アクセス 最大1125万口座の情報漏えい可能性2026年11月17日 18:20</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2157569.html</guid><pubDate>Wed, 18 Nov 2026 08:41:27 +0000</pubDate></item><item><title>@tsujimotokiyomi のポスト on X（2026-11-18 13:41） / X</title><link>https://x.com/tsujimotokiyomi/status/2122913079617007998</link><description>[score: 0.885] 政府広報が暴走している。
+本日、以下を内閣府に確認した。
+①「陰謀論系YouTuber」といわれる「ナオキマン」を、安全保障の広報に起用
+・タイトル：『これは都市伝説ではない』
+・予算：上限1.5億円
+・受注先：大広、大広WEDO
+・ターゲット：20～30代
+・同氏の起用は大広が提案。若者の人気の高いYouTuberであること、チャンネル登録者数が多いことなどが理由。
+→40代以上の女性向け『夫婦漫才』1.5億円（受注先：吉本興業）と合わせて、今年度は安全保障の広報に上限3億円となる。
+②Mrs. GREEN APPLEをネットの偽・誤情報対策の広報に起用
+・タイトル：『偽・誤情報の可能性、ま</description><guid isPermaLink="false">https://x.com/tsujimotokiyomi/status/2122913079617007998</guid><pubDate>Wed, 18 Nov 2026 08:49:11 +0000</pubDate></item><item><title>アメリカ軍がイランのミサイル基地を攻撃…ロイター通信など報道 米イラン攻撃応酬が激化か（2026年11月17日掲載） - 日テレNEWS NNN</title><link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQMDdURXhBeElITE1EcXhKaG5EdVo1Z1ROSWhTUGpFb3lGSVluanQ5SklyUkhmSU9BcjNnSTJQNUFqUUlKVU1FamJZVGVnUTkxX21wd0RKUE9zUEo5SUVwb1IyTUs4MWZYdU1sWUxZYnlsN0NhYXhLaXNDdU14NG8yVl95b2E?oc=5</link><description>[score: 0.885] アメリカ軍がイランのミサイル基地を攻撃…ロイター通信など報道 米イラン攻撃応酬が激化か（2026年11月17日掲載） 日テレNEWS NNN</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxQMDdURXhBeElITE1EcXhKaG5EdVo1Z1ROSWhTUGpFb3lGSVluanQ5SklyUkhmSU9BcjNnSTJQNUFqUUlKVU1FamJZVGVnUTkxX21wd0RKUE9zUEo5SUVwb1IyTUs4MWZYdU1sWUxZYnlsN0NhYXhLaXNDdU14NG8yVl95b2E?oc=5</guid><pubDate>Wed, 18 Nov 2026 13:45:19 +0000</pubDate></item><item><title>AIペネトレーションテストツール「ARTEX」の仕組みを知る - ラック・セキュリティごった煮ブログ</title><link>https://devblog.lac.co.jp/entry/20261105</link><description>[score: 0.886] AIペネトレーションテストツール「ARTEX」の仕組みを知る - ラック・セキュリティごった煮ブログ デジタルペンテスト部でペネトレーションテストを担当している小松奈央です。 昨今、情報漏えいなどのセキュリティインシデントが相次いで報告されている他、AIの進化によるサイバー攻撃の高度化やハードルの低下... wasai %E3%83%86%E3%82%B9%E3%83%88AI%E3%83%84%E3%83%BC%E3%83%AB%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3</description><guid isPermaLink="false">https://devblog.lac.co.jp/entry/20261105</guid><pubDate>Wed, 18 Nov 2026 14:28:29 +0000</pubDate></item><item><title>エヌビディア、中国への高性能ＡＩ半導体出荷停止 先行き不透明に - Reuters</title><link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWRBTzdFcExPYmhSb3VvY3NnQTZiUUtUTkFvdzhzN3ltWlJUUU9CNm9IbUdjNzR2a2E0TVBJOGZRUXpvWmR4RnJXNXc1S0VkNDExN09lU1B5LVNrcFV3UVlnZWVhN3BJTDE2TlFSSmJ3c1VxNWhxNm5UTlhCeElpb2t1VV8?oc=5</link><description>[score: 0.888] エヌビディア、中国への高性能ＡＩ半導体出荷停止 先行き不透明に Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWRBTzdFcExPYmhSb3VvY3NnQTZiUUtUTkFvdzhzN3ltWlJUUU9CNm9IbUdjNzR2a2E0TVBJOGZRUXpvWmR4RnJXNXc1S0VkNDExN09lU1B5LVNrcFV3UVlnZWVhN3BJTDE2TlFSSmJ3c1VxNWhxNm5UTlhCeElpb2t1VV8?oc=5</guid><pubDate>Wed, 18 Nov 2026 10:38:09 +0000</pubDate></item><item><title>OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に</title><link>https://gigazine.net/news/20261118-openai-gpt-6-2-astra-sol/</link><description>[score: 0.889] OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に
+OpenAIが新たなAIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表しました。GPT-6.2 Astraは複雑な業務やプログラミング、科学研究に適した最上位モデルで、GPT-6.2 Solは日常的な作業を効率よく処理できるモデルです。両モデルとも従来より少ない出力トークン数で高い性能を発揮でき、資料作成やPC操作の精度も向上しているとのことです。
+GPT-6.2 Astra と Sol のご紹介 | OpenAI
+http</description><guid isPermaLink="false">https://gigazine.net/news/20261118-openai-gpt-6-2-astra-sol/</guid><pubDate>Wed, 18 Nov 2026 04:16:37 +0000</pubDate></item><item><title>OpenAI、専門業務向けのGPT-6.2 Astraと日常業務向けのGPT-6.2 Solを発表</title><link>https://gihyo.jp/article/2026/11/gpt-6.2-astra-and-sol?utm_source=feed</link><description>[score: 0.893] OpenAIは2026年11月17日、2つの推論モデル
+AstraとSolの用途と前世代からの変更点
+GPT-6.
+GPT-6.
+OpenAIは、Solが日常生活の相談にどこまで応えられるかを、ベンチマーク
+APIでは、AstraとSolはどちらもテキストと画像を受け取り、テキストで回答する。コンテキストウィンドウは両モデルとも105万トークンで、入力の上限は92万2000トークン、出力の上限は12万8000トークン。
+APIの標準料金を前世代と比べると、Astraは入力・
+CEOのSam Altman氏は両モデルのトークン効率の高さに触れ、特にSolの高速モード
+コア製品・
+Sottiaux</description><guid isPermaLink="false">https://gihyo.jp/article/2026/11/gpt-6.2-astra-and-sol?utm_source=feed</guid><pubDate>Wed, 18 Nov 2026 07:57:04 +0000</pubDate></item><item><title>木原官房長官「広告会社の提案」　政府広報に陰謀論系人材起用で | NEWSjp</title><link>https://news.jp/i/1495728368415588768</link><description>[score: 0.895] 木原稔官房長官は18日の記者会見で、陰謀論や都市伝説を扱うユーチューバーを政府広報に起用した経緯について、広告会社「大広」と「大広WEDO」の共同企業体から提案され、内閣府が採用したと明らかにした。事業費を明らかにするのは困難だとした上で、若年層向けの広報経費総額は1億5千万円を上限としていると説明した。
+今回の広報は、複数の企画提案を審査し、最も点数の高い事業者に発注する「企画競争方式」だった。政府広報のホームページには未公開部分もある。木原氏は、ページの更新時期に関して「現在制作中であり、現時点で決まっていない」とした。</description><guid isPermaLink="false">https://news.jp/i/1495728368415588768</guid><pubDate>Wed, 18 Nov 2026 12:18:52 +0000</pubDate></item><item><title>Claude Codeチームは検証についてどのように考えて実行しているのか、エンドツーエンドテスト・プロパティテスト・差分テストで証拠に基づいて自身の作業を検証する方法</title><link>https://gigazine.net/news/20261118-claude-code-test-code-review/</link><description>[score: 0.896] Claude Codeチームは検証についてどのように考えて実行しているのか、エンドツーエンドテスト・プロパティテスト・差分テストで証拠に基づいて自身の作業を検証する方法
+AIコーディングツール「Claude Code」の開発チームでは、コードの約90％をClaudeが記述・レビューしています。AIに大量の開発作業を任せながらコードの品質を維持するため、Claude Codeの開発チームがどのような検証の仕組みを構築しているのかについて、Anthropicのエンジニアであるアディ・オスマーニ氏が解説しています。
+How the Claude Code team thinks about veri</description><guid isPermaLink="false">https://gigazine.net/news/20261118-claude-code-test-code-review/</guid><pubDate>Wed, 18 Nov 2026 12:02:36 +0000</pubDate></item><item><title>イスラエル新議長は野党議員 ネタニヤフ首相に痛手</title><link>https://news.web.nhk/newsweb/na/nd-20261118de77976</link><description>[score: 0.896] 10月に総選挙が行われたイスラエルで議会の新しい議長に、野党が推した候補が、与党側の候補を抑えて選ばれました。
+次の政権の樹立に向けた協議も野党側が主導していて、政権の維持を目指すネタニヤフ首相にと…
+注目ワード
+あわせて読みたい
+APEC首脳会議開幕へ 習主席 トランプ大統領をみずから出迎え
+11月18日 21:48
+日米首脳が短時間懇談 インド太平洋情勢で緊密連携確認
+11月18日 6:56
+米軍がイランのミサイル施設を攻撃 両者で攻撃の応酬に
+11月18日 19:03
+アメリカ中間選挙 アラスカ州も民主当確 上院で56議席に
+11月18日 16:23
+WHO地域機関 アメリカのはしか“排</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de77976</guid><pubDate>Wed, 18 Nov 2026 13:00:24 +0000</pubDate></item><item><title>『高市早苗天皇末裔説』も。陰謀論系YouTuber起用で税金1億5千万円の政府広報が“都市伝説より恐ろしい”ワケ</title><link>https://www.huffingtonpost.jp/entry/story_jp_6afd36b3e4b02da00c036891</link><description>[score: 0.902] 『高市早苗天皇末裔説』も。陰謀論系YouTuber起用で税金1億5千万円の政府広報が“都市伝説より恐ろしい”ワケ 「1億5千万円投入か？」『高市早苗天皇末裔説』の陰謀論系YouTuber起用の政府広報が“都市伝説より恐ろしい“ワケ 「政府広報オンライン」の特集「これは都市伝説ではない ―世界を消した主婦―」への都市伝説・陰謀論系と言われるYouTuber「Naokiman（ナオキマン）」氏の起用に批判の声が。</description><guid isPermaLink="false">https://www.huffingtonpost.jp/entry/story_jp_6afd36b3e4b02da00c036891</guid><pubDate>Wed, 18 Nov 2026 14:42:44 +0000</pubDate></item><item><title>楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？　「本番データでの確認が必要だった」</title><link>https://www.itmedia.co.jp/news/article/2611/18/2000003302/</link><description>[score: 0.923] 楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？ 「本番データでの確認が必要だった」 楽天証券が11月17日に公表した不正アクセスの問題を巡り、同社がテスト環境に本番の顧客データを保存していたことが問題視されている。ITmedia NEWSの取材に対し、同社は「社内システムのアップグレードに伴い、一部の機能の検証に本番データを使用する必要があった」と説明した。 楽天証券は17日、第三者が社内システム...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/18/2000003302/</guid><pubDate>Wed, 18 Nov 2026 12:05:36 +0000</pubDate></item></channel></rss>
