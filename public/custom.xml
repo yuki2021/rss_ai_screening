@@ -1,135 +1,147 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 18 Nov 2026 14:50:39 +0000</lastBuildDate><item><title>楽天証券の情報漏えい、集団訴訟の動き始まる　「タイムズカー集団訴訟」の弁護士がサイト開設 - 弁護士ドットコムニュース</title><link>https://www.bengo4.com/c_18/n_21206/</link><description>[score: 0.874] 楽天証券の情報漏えい、集団訴訟の動き始まる 「タイムズカー集団訴訟」の弁護士がサイト開設 - 弁護士ドットコムニュース 楽天証券の顧客情報が不正アクセスで漏えいした可能性がある問題をめぐり、集団訴訟の動きが始まった。 カーシェアサービス「タイムズカー」の情報漏えい問題でも集団訴訟を予定している牧野裕貴弁護士が、参加希望者を募る専用サイトを11月18日に開設した。 牧野弁護士は同日、Xにサイト開設を報告。 「『誰が、どこに...</description><guid isPermaLink="false">https://www.bengo4.com/c_18/n_21206/</guid><pubDate>Wed, 18 Nov 2026 13:25:16 +0000</pubDate></item><item><title>ジェンスン・フアンの不倫相手でスパイ疑惑のアリス・フアンは夫がデータセンター事業を政府支援のもと展開、会社はHuaweiと関係も</title><link>https://gigazine.net/news/20261118-who-is-alice-huangs-husband-kang-wei/</link><description>[score: 0.875] ジェンスン・フアンの不倫相手でスパイ疑惑のアリス・フアンは夫がデータセンター事業を政府支援のもと展開、会社はHuaweiと関係も
-NVIDIAのジェンスン・フアン元CEOと不倫関係にあり中国のスパイという疑いもあるアリス・フアン氏について、夫・康偉(カン・ウェイ)氏が投資会社創業者で、データセンター事業も手がけており中国政府から支援を受けていたことが明らかになっています。また、この投資会社は半導体分野でNVIDIAとライバル関係にあるHuawei(華為技術)ともつながりがあったことがわかっています。
-Alice Huang’s Husband Built a Data-Center Empir</description><guid isPermaLink="false">https://gigazine.net/news/20261118-who-is-alice-huangs-husband-kang-wei/</guid><pubDate>Wed, 18 Nov 2026 08:57:51 +0000</pubDate></item><item><title>危険コマンドを止める Claude Code hook を書いたのに、素通ししていた</title><link>https://zenn.dev/minewo/articles/claude-code-hook-fail-open</link><description>[score: 0.875] ! 結論: 危険パターンの網羅より先に、パターン照合へ到達できているか・到達できなかったときどちらへ倒れるかを確かめる。抽出に失敗したら止める（fail-closed）。 この記事で得られること PreToolUse hook が「検査に到達する前」に素通しする経路と、その実測 exit code 2 以外の非ゼロはブロックしないという仕様が、fail-open を作る仕組み 抽出できなかったときに止める（fail-closed）へ倒す実装と、その副作用 想定読者: Claude Code の hook で危険コマンドをブロックする設定を、すでに入れている人 この記事が扱うもの: ...</description><guid isPermaLink="false">https://zenn.dev/minewo/articles/claude-code-hook-fail-open</guid><pubDate>Wed, 18 Nov 2026 11:48:23 +0000</pubDate></item><item><title>日本とインドとの関係強化へ 政財界の関係者が議論</title><link>https://news.web.nhk/newsweb/na/nd-20261118de78046</link><description>[score: 0.876] 日本とインドとの関係を一段と深めようと、両国の政財界の関係者が日本企業によるインドへの投資の将来性などについて議論する会議が、東京都内で始まりました。
-18日から始まった「ライシナ東京」は国際協力…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 18 Nov 2026 21:08:42 +0000</lastBuildDate><item><title>漫画家・魚豊先生による『チ。』構想段階で描かれたプロットが公開「プロットってこう書くのか…勉強になった」</title><link>https://togetter.com/li/2772024</link><description>[score: 0.864] 漫画家・魚豊先生による『チ。』構想段階で描かれたプロットが公開「プロットってこう書くのか…勉強になった」 木下昌輝@汝、室町の王たれ 11/9発売 @musketeers10 魚豊さんの『チ。』のプロットを見て気付いたこと10選。 1】「やりたいこと」としてまず最初に、作品で実現したいことをちゃんと言語化している。 私はこれがかなりあやふやなままやっているなぁ。ここ大事なんやな。反省。 2】登場人物名がない これは私もそうで、最...</description><guid isPermaLink="false">https://togetter.com/li/2772024</guid><pubDate>Wed, 18 Nov 2026 20:40:19 +0000</pubDate></item><item><title>エヌビディア株2％超下落、好業績見通しも経営混乱への懸念続く - Reuters</title><link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNblRTVENZZ1pJcG10UkhZaUE2MDd2WmlOZVJRMWFnV2NzdUstWUR0aW5VQUtLZjZYcTBjV0RMS0VkLWRwRXZXLWNUeURJSTNzUzM5aXhLX3RNVDJVV3gxaVVpbzc5U25pblAtQThRSElSNllnVkh2anpiMVdoTlBhUXdPS2huMmc1QXBUMU9xTC0?oc=5</link><description>[score: 0.864] エヌビディア株2％超下落、好業績見通しも経営混乱への懸念続く Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxNblRTVENZZ1pJcG10UkhZaUE2MDd2WmlOZVJRMWFnV2NzdUstWUR0aW5VQUtLZjZYcTBjV0RMS0VkLWRwRXZXLWNUeURJSTNzUzM5aXhLX3RNVDJVV3gxaVVpbzc5U25pblAtQThRSElSNllnVkh2anpiMVdoTlBhUXdPS2huMmc1QXBUMU9xTC0?oc=5</guid><pubDate>Wed, 18 Nov 2026 17:46:23 +0000</pubDate></item><item><title>米政権、国内企業に中国製ＡＩ使用状況の開示義務付けも＝関係筋 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE9uaUo2ZmJaVnNFNkd2cC1IWnVpQXhIMTJZTWdXMDBVTUpTWXZndzczUG1VaFRFMGlwdURPRHJ5TXhBc21pa21ESzBmekZHQmFlQ1hsaXI3SElIMFByNFBDWFlvTkNSODR2YjBhZndTOHFDemNZLUtNa3BqdDMzTDA?oc=5</link><description>[score: 0.864] 米政権、国内企業に中国製ＡＩ使用状況の開示義務付けも＝関係筋 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE9uaUo2ZmJaVnNFNkd2cC1IWnVpQXhIMTJZTWdXMDBVTUpTWXZndzczUG1VaFRFMGlwdURPRHJ5TXhBc21pa21ESzBmekZHQmFlQ1hsaXI3SElIMFByNFBDWFlvTkNSODR2YjBhZndTOHFDemNZLUtNa3BqdDMzTDA?oc=5</guid><pubDate>Wed, 18 Nov 2026 14:47:09 +0000</pubDate></item><item><title>熊本県で震度5弱 揺れの映像</title><link>https://news.web.nhk/newsweb/na/nd-20261119de78111</link><description>[score: 0.865] 19日午前2時22分ごろ、熊本県で震度5弱の揺れを観測する地震がありました。 震度4を観測した八代市に設置したNHKのカメラによる揺れの映像です。
+【地震情報】熊本県で震度5弱 今後1週間程度は注意を
+11月19日 5:06
+APEC 高市首相 習近平国家主席と握手 プーチン氏と意見交わす
+11月19日 1:54
+EUがウクライナに7兆円余の追加融資へ「和平協議で優位に」
+11月19日 1:51
+歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット
+11月19日 0:38
+愛子さま シンガポール公式訪問へ 紡がれる友好の絆
+オーストラリアの性風俗で働く日本人女性
+不動産が“負”の動産に</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261119de78111</guid><pubDate>Wed, 18 Nov 2026 18:53:43 +0000</pubDate></item><item><title>中国、エヌビディア製半導体確保目指す ＡＩ兵器向け＝報告書 - Reuters</title><link>https://news.google.com/rss/articles/CBMijgFBVV95cUxPS2NDRlRvREl4Y2VyQThyaFQyQ09nbkxKbk9JRmQ0UWJMbVNzQ0YyOURMRG0wU1AxRF91S3pIRFVSZE5xdzRESC1weVJTR0hacjhIY3pBQ054UTB4ZHROdkZ1WHdLYkFIRHV5X3BfRkloc2xieTE0eG1wLTctbEEtczZndTlWZEdfUzhvdlZR?oc=5</link><description>[score: 0.865] 中国、エヌビディア製半導体確保目指す ＡＩ兵器向け＝報告書 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMijgFBVV95cUxPS2NDRlRvREl4Y2VyQThyaFQyQ09nbkxKbk9JRmQ0UWJMbVNzQ0YyOURMRG0wU1AxRF91S3pIRFVSZE5xdzRESC1weVJTR0hacjhIY3pBQ054UTB4ZHROdkZ1WHdLYkFIRHV5X3BfRkloc2xieTE0eG1wLTctbEEtczZndTlWZEdfUzhvdlZR?oc=5</guid><pubDate>Wed, 18 Nov 2026 15:43:07 +0000</pubDate></item><item><title>保守 百田代表 統一地方選や参院選見据え 党勢拡大目指す考え</title><link>https://news.web.nhk/newsweb/na/nd-20261118de78070</link><description>[score: 0.865] 日本保守党は党大会を開き、百田代表は、来年春の統一地方選挙や再来年の参議院選挙を見据え、党勢の拡大を目指す考えを強調しました。
+東京都内で開かれた日本保守党の党大会には党所属の国会議員や地方議員、…
 あわせて読みたい
+歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット
+11月19日 0:38
+三菱UFJグループ漏えい相次ぐ 銀行は顧客情報約650万件流出
+11月18日 18:26
+ネットにつながらない携帯電話発売へ 脱ネット需要がねらい
+11月18日 23:29
+APEC 高市首相 習近平国家主席と握手 プーチン氏と意見交わす
+11月19日 1:54
+APEC首脳会議開幕へ 習主席 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de78070</guid><pubDate>Wed, 18 Nov 2026 15:50:56 +0000</pubDate></item><item><title>AI監視塔の近くで相次ぐ死、米国境警備当局が取るべき4つの対策</title><link>https://www.technologyreview.jp/s/391460/4-ways-to-address-the-failures-we-found-along-the-us-borders-virtual-wall/</link><description>[score: 0.866] You need to enable JavaScript to run this app.</description><guid isPermaLink="false">https://www.technologyreview.jp/s/391460/4-ways-to-address-the-failures-we-found-along-the-us-borders-virtual-wall/</guid><pubDate>Wed, 18 Nov 2026 20:58:57 +0000</pubDate></item><item><title>第185回　米医学会が「交替勤務障害」診療ガイドラインを改訂、主な対処法を解説</title><link>https://natgeo.nikkeibp.co.jp/atcl/web/15/403964/111800188/?rss</link><description>[score: 0.866] 第185回 米医学会が「交替勤務障害」診療ガイドラインを改訂、主な対処法を解説
+この連載で交替勤務（夜勤）者の睡眠問題を取り上げたのは2015年の夏、第30回と第31回のことである。あれから11年。ちょうどよい見直しの機会がやってきた。2026年10月、米国睡眠医学会（AASM）が「交替勤務障害」の診療ガイドラインを19年ぶりに改訂し、公表したのである。今回はそのエッセンスを紹介したい。
+交替勤務障害とは、本来の睡眠時間と重なる勤務が続くことで、強い眠気や不眠が生じて生活に支障をきたす睡眠障害の一種である。交替勤務者のおよそ4人に1人に認められるとされる。
+新ガイドラインは、研究の結果を「GR</description><guid isPermaLink="false">https://natgeo.nikkeibp.co.jp/atcl/web/15/403964/111800188/?rss</guid><pubDate>Wed, 18 Nov 2026 21:04:21 +0000</pubDate></item><item><title>コスプレイヤー伊織もえ、Anthropic社の新規公開株購入を申し込み「Claudeをたくさん使ってるので」</title><link>https://kai-you.net/article/97192</link><description>[score: 0.868] コスプレイヤー伊織もえ、Anthropic社の新規公開株購入を申し込み「Claudeをたくさん使ってるので」 コスプレイヤーの伊織もえさんが11月18日（水）、生成AI・Claudeを開発する米企業・Anthropic（アンソロピック）の新規株式公開（IPO）に申し込んだことをXで明かした。 伊織もえさんは「証券口座作って本当にたまにしかログインしてないけど、AnthropicのIPOはClaudeをたくさん使ってるのでポチりました 明日どうなるか...</description><guid isPermaLink="false">https://kai-you.net/article/97192</guid><pubDate>Wed, 18 Nov 2026 15:04:12 +0000</pubDate></item><item><title>イランの脅威「大幅増大」、国内外の米国人にリスク＝国家情報長官 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNYjUxbXZQLWJLQTR5QVJ5S0VralVXNjYtdEZkOU5CNzB4dnlfdzJTUzJRMmVJam5FWEJnWFpvcEpwQVlVUURJY2Z6QnZDZUZua1NENkw0dUMyNmd2Tkg2VWc1Y1N5aTdfcDFma3RNV0tzMFlWeFBrdFh6NUpBYUl0TzlxczdLanM?oc=5</link><description>[score: 0.870] イランの脅威「大幅増大」、国内外の米国人にリスク＝国家情報長官 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxNYjUxbXZQLWJLQTR5QVJ5S0VralVXNjYtdEZkOU5CNzB4dnlfdzJTUzJRMmVJam5FWEJnWFpvcEpwQVlVUURJY2Z6QnZDZUZua1NENkw0dUMyNmd2Tkg2VWc1Y1N5aTdfcDFma3RNV0tzMFlWeFBrdFh6NUpBYUl0TzlxczdLanM?oc=5</guid><pubDate>Wed, 18 Nov 2026 18:48:47 +0000</pubDate></item><item><title>EUがウクライナに7兆円余の追加融資へ「和平協議で優位に」</title><link>https://news.web.nhk/newsweb/na/nd-20261119de78087</link><description>[score: 0.870] ウクライナを支援するEU＝ヨーロッパ連合の執行機関は、新たに7兆円余りの追加融資を実施する方針を加盟国に示しました。融資のねらいについてフォンデアライエン委員長は、ロシアとの交渉でウクライナが優位に立…
+あわせて読みたい
+APEC首脳会議開幕へ 習主席 トランプ大統領をみずから出迎え
+11月18日 21:48
+【詳細】ロシア ウクライナに軍事侵攻（11月18日の動き）
+11月18日 15:57
+APEC 高市首相 習近平国家主席と握手 プーチン氏と意見交わす
+11月19日 1:54
 日米首脳が短時間懇談 インド太平洋情勢で緊密連携確認
 11月18日 6:56
-APEC首脳会議開幕へ 習主席 トランプ大統領をみずから出迎え
-11月18日 21:48
+米軍がイランのミサイル施設を攻撃 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261119de78087</guid><pubDate>Wed, 18 Nov 2026 17:20:22 +0000</pubDate></item><item><title>NVIDIA「RTX Spark」搭載の小型デスクトップPCが11月18日発売　4399ドルから　“常時稼働のAIエージェント拠点”に</title><link>https://www.itmedia.co.jp/pcuser/articles/2611/18/news019.html</link><description>[score: 0.871] NVIDIAは11月18日（米国太平洋時間）、同社のWindows向けSoC「RTX Spark」を搭載する小型デスクトップPCが、同日に各社から発売されると発表した。価格は4399ドルからとなる。
+RTX Spark搭載PCは、10月16日にノートPCが先行して発売されており、今回の小型デスクトップPCでラインアップがそろう形だ。
+小型デスクトップPCを投入するのは、Acer、ASUSTeK Computer、GIGABYTE、Dell Technologies、HP、Lenovo、MSIの7社だ。
+SoCは、ノートPCの上位モデルと同じ「RTX Spark N1X」（20コアCPU＋614</description><guid isPermaLink="false">https://www.itmedia.co.jp/pcuser/articles/2611/18/news019.html</guid><pubDate>Wed, 18 Nov 2026 15:26:37 +0000</pubDate></item><item><title>ペルーのケイコ・フジモリ大統領が来日し高市首相と会談へ</title><link>https://news.web.nhk/newsweb/na/nd-20261119de78085</link><description>[score: 0.872] 南米・ペルーのケイコ・フジモリ大統領は就任後初めて19日から日本を訪問し、高市総理大臣との首脳会談などに臨みます。
+ペルーのケイコ・フジモリ大統領は、おととし亡くなったアルベルト・フジモリ元大統領…
+あわせて読みたい
+注目の米中首脳会談 米中ロの3か国首脳会談 きょう開催へ
+11月19日 4:46
+米中ロ首脳会談 ウクライナ外相「当事国抜きの決定は不可能」
+11月19日 4:47
+高市首相 プーチン大統領と意見交換 習主席とは握手
+11月19日 4:50
+日米首脳が短時間懇談 インド太平洋情勢で緊密連携確認
+11月18日 6:56
 米軍がイランのミサイル施設を攻撃 両者で攻撃の応酬に
-11月18日 19:03
-アメリカ中間選挙 アラスカ州も民主当確 上院で56議席に
-11月18日 16:23
-WHO地域機関 アメリカのはしか“排除認定”を取り</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de78046</guid><pubDate>Wed, 18 Nov 2026 13:58:05 +0000</pubDate></item><item><title>うその説明で投資を勧誘 監視委が行政処分を勧告</title><link>https://news.web.nhk/newsweb/na/nd-20261118de78027</link><description>[score: 0.877] 投資の助言業務を行っている都内の会社が、顧客に対して「優れた実績を持つ部長がいる」と架空の人物像を作り出すうその説明などをして勧誘していたとして、証券取引等監視委員会は行政処分を行うよう金融庁に勧告し…
-あわせて読みたい
-歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット
-11月18日 19:15
+11月1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261119de78085</guid><pubDate>Wed, 18 Nov 2026 20:52:00 +0000</pubDate></item><item><title>マイクロソフト、AIによるサイバー攻撃にAIエージェントで対抗する新サービス「Microsoft Perception」提供開始</title><link>https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</link><description>[score: 0.873] マイクロソフトは日本時間11月18日未明に開幕した年次イベント「Microsoft Ignite 2026」で、AIによるサイバー攻撃に対抗するためのAIエージェントによる新サービス「Microsoft Perception」の提供開始を発表しました。 Now generally available, Microsoft Perception brings red, blue and green team agents together through playbooks t……</description><guid isPermaLink="false">https://www.publickey1.jp/blog/26/aiaimicrosoft_perception.html</guid><pubDate>Wed, 18 Nov 2026 14:53:18 +0000</pubDate></item><item><title>支援金対象者の年収下限「56万円程度」案　政府・与党が公明に提示：朝日新聞</title><link>https://www.asahi.com/articles/ASVCL2JL0VCLUTFK00MM.html</link><description>[score: 0.874] 支援金対象者の年収下限「56万円程度」案 政府・与党が公明に提示
+政府が来春の消費減税とセットで導入する方針の「就業者負担軽減支援金」（所得連動給付）について、政府・与党が支援金の対象者の年収下限を「56万円程度」とする案を検討していることが分かった。公明党が強く主張してきた考えに沿っており、参院で過半数に満たない与党側は、公明の意見を取り込むことで、法案への賛同を得たい考えだ。
+複数の関係者が明らかにした。政府は2027年4月から食料品の消費税を2年限定で8%から1%に引き下げるのにあわせて、働く中低所得者向けの支援金を創設する計画だ。27～28年度は年6千億円規模（食料品の消費税率1%分）</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVCL2JL0VCLUTFK00MM.html</guid><pubDate>Wed, 18 Nov 2026 20:49:34 +0000</pubDate></item><item><title>米民主党、商務長官を調査 エヌビディア関連で親族企業に利益誘導か - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPN3hkS3dqRnQ1akNiR211dmZVTTBzN2tveEI4ZkJjYkVTZGhDTVFBR0dRZk1nX0xqR0RrbEZSZmZKVnhYT3lMR3I5WEdUengtem5XcU4xbHkyWVNtLVVKUGFpdmVYVG0zNDNpS2YxOVJUSUdtQzRWaE4zVE0tUV9pdDk1MlZfQU0?oc=5</link><description>[score: 0.875] 米民主党、商務長官を調査 エヌビディア関連で親族企業に利益誘導か Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxPN3hkS3dqRnQ1akNiR211dmZVTTBzN2tveEI4ZkJjYkVTZGhDTVFBR0dRZk1nX0xqR0RrbEZSZmZKVnhYT3lMR3I5WEdUengtem5XcU4xbHkyWVNtLVVKUGFpdmVYVG0zNDNpS2YxOVJUSUdtQzRWaE4zVE0tUV9pdDk1MlZfQU0?oc=5</guid><pubDate>Wed, 18 Nov 2026 15:43:07 +0000</pubDate></item><item><title>Jリーグのチケット販売サイト 利用者情報238万件漏えい</title><link>https://news.web.nhk/newsweb/na/nd-20261118de78072</link><description>[score: 0.875] Jリーグは、チケットの販売サイトの運用に利用している外部のサービスが不正アクセスを受け、利用者の生年月日や性別など、合わせて238万件あまりが漏えいしたと発表しました。
+Jリーグによりますと、今月…
 三菱UFJグループ漏えい相次ぐ 銀行は顧客情報約650万件流出
 11月18日 18:26
-APEC首脳会議開幕へ 習主席 トランプ大統領をみずから出迎え
-11月18日 21:48
-APEC 高市首相と習近平国家主席が握手 プーチン氏と接触調整
-11月18日 21:02
-ネットにつながらない</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de78027</guid><pubDate>Wed, 18 Nov 2026 13:00:24 +0000</pubDate></item><item><title>国民 玉木代表 政府広報“陰謀論ユーチューバー起用は適切か”</title><link>https://news.web.nhk/newsweb/na/nd-20261118de77756</link><description>[score: 0.877] 政府が根拠のない情報や陰謀論を「都市伝説」として紹介しているユーチューバーを政府広報に起用したことについて、国民民主党の玉木代表は「国の政策の説明に陰謀論などで登録者数を稼いできたユーチューバーを使う…
-政府広報に都市伝説系ユーチューバーを起用で物議
-11月17日 17:52
-中野 女性刺殺事件 「女性との食事代などに800万円」供述
-11月18日 14:13
-ネットにつながらない携帯電話発売へ 脱ネット需要がねらい
-11月18日 23:29
-日本の自動車業界 主要素材・部品共通化 競争力強化へ【QA】
-11月18日 19:54
-高市首相APECで中国へ出発 習主席対応は プーチン氏と接触調整</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de77756</guid><pubDate>Wed, 18 Nov 2026 07:39:48 +0000</pubDate></item><item><title>コメへの補助金 一部で増額案 主食用米の生産抑制の役割見直し</title><link>https://news.web.nhk/newsweb/na/nd-20261118de77959</link><description>[score: 0.878] 農林水産省は、コメを対象とした来年度の補助金について、家畜のエサや米粉用など主食用米以外の一部で増額する案をまとめたことが分かりました。増額には生産性の向上に取り組むことなどが条件で、主食用米の生産を…
-あわせて読みたい
-歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット
-11月18日 19:15
-三菱UFJグループ漏えい相次ぐ 銀行は顧客情報約650万件流出
-11月18日 18:26
-ネットにつながらない携帯電話発売へ 脱ネット需要がねらい
-11月18日 23:29
-APEC 高市首相と習近平国家主席が握手 プーチン氏と接触調整
-11月18日 21:02
-APEC首脳会議開幕へ 習</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de77959</guid><pubDate>Wed, 18 Nov 2026 12:03:07 +0000</pubDate></item><item><title>エヌビディア、ファン氏をＣＥＯに復帰させる意向なし ロイター報道 - QUICK Money World</title><link>https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zZmxpUjRObTByZFVSb1RWVHUyZUFtb3lZWHg2eEdobmZFYlVYVlJpdjhDYXViMFVxU1ctZGVaX2ZGUFlTTG1RdFJNVVFSYnl4UV9EdG5B?oc=5</link><description>[score: 0.879] エヌビディア、ファン氏をＣＥＯに復帰させる意向なし ロイター報道 QUICK Money World</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiVkFVX3lxTE8zZmxpUjRObTByZFVSb1RWVHUyZUFtb3lZWHg2eEdobmZFYlVYVlJpdjhDYXViMFVxU1ctZGVaX2ZGUFlTTG1RdFJNVVFSYnl4UV9EdG5B?oc=5</guid><pubDate>Wed, 18 Nov 2026 05:34:46 +0000</pubDate></item><item><title>Google検索の「AIによる概要」のせいで外部ウェブサイトのクリック率が約40％減少、サイト運営者はどうするべきか？</title><link>https://gigazine.net/news/20261118-google-ai-overviews-cut-clicks-websites/</link><description>[score: 0.879] Google検索の「AIによる概要」のせいで外部ウェブサイトのクリック率が約40％減少、サイト運営者はどうするべきか？
-Googleで何らかの検索をした際、検索結果の一番上に「AIによる概要」が表示されることがよくあります。検索結果画面にAIによる概要が表示されると、外部ウェブサイトのクリック率が約40％減少するという研究結果も発表されており、ウェブサイト向けの収益分析ツールを提供するRevScopeが現状や対策まとめています。
-Google's AI Overviews cut clicks to websites by 40% - RevScope
-https://revscope.co/</description><guid isPermaLink="false">https://gigazine.net/news/20261118-google-ai-overviews-cut-clicks-websites/</guid><pubDate>Wed, 18 Nov 2026 10:07:56 +0000</pubDate></item><item><title>OpenAI、「GPT-6.2 Astra」「GPT-6.2 Sol」を発表 ～少ない出力トークンでより高い成果／上位モデルのAPI料金は2割引き、「Pro 200」でも「Ultrafast」</title><link>https://forest.watch.impress.co.jp/docs/news/2157295.html</link><description>[score: 0.880] ニュース
-OpenAI、「GPT-6.2 Astra」「GPT-6.2 Sol」を発表 ～少ない出力トークンでより高い成果
-上位モデルのAPI料金は2割引き、「Pro 200」でも「Ultrafast」
-2026年11月18日 09:28
-米OpenAIは11月17日（現地時間）、大規模言語モデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表した。「GPT-6.2 Astra」はもっとも難しいプロジェクト向けの最上位（フロンティア）モデル、「GPT-6.2 Sol」は日常業務向けの効率的で汎用的なモデル。いずれも、より少ない出力トークンで難しいタスクの成果を高めており、利用上</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2157295.html</guid><pubDate>Wed, 18 Nov 2026 04:43:20 +0000</pubDate></item><item><title>孫正義氏が明かす、アンソロピック出資見送りの舞台裏　「僕の失敗」「あん時入れときゃよかった」</title><link>https://www.itmedia.co.jp/business/articles/2611/18/news086.html</link><description>[score: 0.880] ソフトバンクグループの孫正義会長兼社長は、日経主催イベントの対談で米Anthropicへの出資を見送ったことについて「僕の失敗の例の一つ」と明かした。同社のダリオ・アモデイCEOと直接面会し、その凄さを認めながらも、なぜ投資に踏み切らなかったのか。すでに動き出していた米OpenAIへの集中投資と、出資先の企業同士のつながりを創出する「群戦略」におけるパートナー選びのさじ加減など、孫氏の投資判断の舞台裏に迫る。</description><guid isPermaLink="false">https://www.itmedia.co.jp/business/articles/2611/18/news086.html</guid><pubDate>Wed, 18 Nov 2026 14:22:48 +0000</pubDate></item><item><title>審理に関与していない裁判官が判決に署名押印するミス</title><link>https://news.web.nhk/newsweb/na/nd-20261118de78047</link><description>[score: 0.880] ことし5月に東京地方裁判所が言い渡した民事裁判の判決について、2審の東京高等裁判所は「審理に関与していない裁判官が署名や押印をしていて、手続きは法律違反だ」として取り消し、審理のやり直しを命じる判決を…
-注目ワード
-あわせて読みたい
-歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット
-11月18日 19:15
-APEC 高市首相と習近平国家主席が握手 プーチン氏と接触調整
-11月18日 21:02
-三菱UFJグループ漏えい相次ぐ 銀行は顧客情報約650万件流出
-11月18日 18:26
-ネットにつながらない携帯電話発売へ 脱ネット需要がねらい
-11月18日 23:29
-日本の自動車業</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de78047</guid><pubDate>Wed, 18 Nov 2026 13:58:05 +0000</pubDate></item><item><title>2つの低気圧急発達へ 北海道暴風警戒 日本海側は雪道に備えて</title><link>https://news.web.nhk/newsweb/na/nd-20261118de77980</link><description>[score: 0.880] 日本付近にある2つの低気圧が急速に発達する影響で、19日以降、北日本と東日本の日本海側を中心に風が強まり波も高くなる見込みです。北海道を中心に暴風に警戒するとともに、東日本や西日本の日本海側の山沿いで…
-注目ワード
-あわせて読みたい
-中野 女性刺殺事件 「女性との食事代などに800万円」供述
-11月18日 14:13
 ネットにつながらない携帯電話発売へ 脱ネット需要がねらい
 11月18日 23:29
 日本の自動車業界 主要素材・部品共通化 競争力強化へ【QA】
 11月18日 19:54
 受刑者の選挙権制限は“合憲” 最高裁が初判断
 11月18日 21:20
-APEC 高市首相と習近平国家主席が</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de77980</guid><pubDate>Wed, 18 Nov 2026 11:31:06 +0000</pubDate></item><item><title>不正アクセスによる個人情報を含む可能性のある情報等の漏えいに関するお詫びとお知らせ</title><link>https://plaid.co.jp/news/20261116/</link><description>[score: 0.880] 不正アクセスによる個人情報を含む可能性のある情報等の漏えいに関するお詫びとお知らせ 11月13日に発表した当社が提供する「KARTE」に対する第三者からの不正アクセスについて、調査の結果、KARTEをご利用いただく企業（以下「ご利用企業」）のアカウントに関する情報、ならびにご利用企業からお預か... asakura-t</description><guid isPermaLink="false">https://plaid.co.jp/news/20261116/</guid><pubDate>Wed, 18 Nov 2026 08:22:37 +0000</pubDate></item><item><title>転職したら話し相手がいなかったんだけど</title><link>https://anond.hatelabo.jp/20250325171929</link><description>[score: 0.881] この度客先を回る営業職から、一歩たりとも社外に出ない事務職に転職した。
-俺は幼少期に母が「言葉のない国に行きたい」と神に祈ったレベルのおしゃべりだ。そしてそのまま成長した。
-先に書いておくけど、この話はマジで長い。なぜなら俺がおしゃべりだから。
-転職してみたら、新しい職場で話せる相手がぜんぜんいなくて辛い。本当にいない。
-下手したら
-「お疲れ様です」
-「お先に失礼します」
-当たり前なんだけど、営業と比べて「しゃべり無用」の業務が多すぎる。
-激烈繁忙期のせいか、皆俺なんかに興味がないのか、仕事の合間にちょっと雑談、みたいなのも発生しない。俺の歓迎会はなぜか2ヶ月先に設定されている。
-苦しい～～ッ</description><guid isPermaLink="false">https://anond.hatelabo.jp/20250325171929</guid><pubDate>Wed, 18 Nov 2026 12:31:58 +0000</pubDate></item><item><title>Museは「成長する相棒」になれるのか？ 記憶と改善の積み重ねを観察する</title><link>https://zenn.dev/daydream/articles/muse-observation-01-memory-and-boundaries</link><description>[score: 0.882] AIに仕事を頼んで、結果を受け取る。それだけなら、もう珍しくない。 でも、こちらの目標を覚えて、先回りして考え、失敗を振り返り、次の仕事の進め方まで変えていくとしたら？ 私は最近、その可能性に興味を持っている。 きっかけはMetaのパーソナルAIエージェント「Muse」だった。使い始めて驚いたのは、回答のうまさ以上に、秘書のように段取りを考えて仕事を前に進めようとするところだった。 だから、ベンチマークの点数だけではわからないことを調べたくなった。記憶や自己改善の一つ一つが正しくても、積み重なった「全体」は本当に良くなっているのか。 情報が追加され、不要なものが消され、要約や統合（コンパ...</description><guid isPermaLink="false">https://zenn.dev/daydream/articles/muse-observation-01-memory-and-boundaries</guid><pubDate>Wed, 18 Nov 2026 11:48:23 +0000</pubDate></item><item><title>@IT_BOYAKI のポスト on X（2026-11-18 17:53） / X</title><link>https://x.com/IT_BOYAKI/status/2122976471350481025</link><description>[score: 0.883] 「SQLインジェクションを知らない経験者が増えている」という動画、コメント欄に実際に破った人と破られた人が集まってきたのでまとめます。
-いいねが一番多かったのは、最も実践的な教育法でした。
-「後輩が対策してないシステム作ってたから、テストで破ってやった」
-口で百回説明するより、目の前でログインを通してみせるほうが早いです。
-破れてしまった報告は、他にもあります。
-「過去に常駐していた大手サービス会社のシステムは、ストプロにビジネスロジックが集約されていたのに、SQLインジェクションが余裕で通りました。『これが日本のインフラ支えてる会社のシステムかよ』って震えましたよね」
-「発注者側がSQLイン</description><guid isPermaLink="false">https://x.com/IT_BOYAKI/status/2122976471350481025</guid><pubDate>Wed, 18 Nov 2026 14:28:29 +0000</pubDate></item><item><title>衆議院議員定数31削減法案 特別委員会で各党が意見表明</title><link>https://news.web.nhk/newsweb/na/nd-20261118de77693</link><description>[score: 0.883] 衆議院議員の定数を比例代表で31議席削減するなどとした法案を審議している特別委員会が開かれ、提出した自民、維新、国民の3党が意義を強調した一方、ほかの野党からは比例のみでの削減に否定的な意見や、削減そ…
+アントニオ猪木さんの孫が新日本プロレス入団 あの名ぜりふも
+11月</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de78072</guid><pubDate>Wed, 18 Nov 2026 19:24:59 +0000</pubDate></item><item><title>米中ロ首脳会談 ウクライナ外相「当事国抜きの決定は不可能」</title><link>https://news.web.nhk/newsweb/na/nd-20261119de78096</link><description>[score: 0.876] アメリカ、中国、ロシアの3か国の首脳による初めての会談が開かれるのを前に、ウクライナのシビハ外相は「会談で何が議論されようと、ウクライナ抜きではいかなる決定も不可能だと各国は理解しなくてはいけない」と…
 あわせて読みたい
-定数31削減法案 衆院特別委員会審議入り 3党 今国会成立目指す
-11月17日 20:31
-比例31削減法案 あす審議入りで与野党が合意 衆院政治改革特委
-11月16日 18:44
-定数削減法案 今国会成立へ早期の衆院通過目指す 自民維新幹部
-11月16日 16:26
-比例代表31議席削減法案 与党側が来週の審議入りを提案
-11月13日 19:12
-日本の自動車業界 主要素材</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de77693</guid><pubDate>Wed, 18 Nov 2026 05:43:55 +0000</pubDate></item><item><title>楽天証券、投資信託の出庫手数料を無料化</title><link>https://www.watch.impress.co.jp/docs/news/2157569.html</link><description>[score: 0.884] ニュース楽天証券、投資信託の出庫手数料を無料化 清宮信志2026年11月18日 17:35 楽天証券は18日、他の金融機関へ投資信託を移管する際の出庫手数料を無料化した。従来は1銘柄あたり3,300円(税込)の事務手続料がかかっていた。 適用期間は同日から当面の間。11月18日以降に楽天証券へ振替依頼書が到着した受付分から対象となる。 なお、楽天証券は17日に、第三者による不正アクセスを受け、ログインIDなどが漏えいした可能性があると発表している。 楽天証券に不正アクセス 最大1125万口座の情報漏えい可能性2026年11月17日 18:20</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2157569.html</guid><pubDate>Wed, 18 Nov 2026 08:41:27 +0000</pubDate></item><item><title>@tsujimotokiyomi のポスト on X（2026-11-18 13:41） / X</title><link>https://x.com/tsujimotokiyomi/status/2122913079617007998</link><description>[score: 0.885] 政府広報が暴走している。
-本日、以下を内閣府に確認した。
-①「陰謀論系YouTuber」といわれる「ナオキマン」を、安全保障の広報に起用
-・タイトル：『これは都市伝説ではない』
-・予算：上限1.5億円
-・受注先：大広、大広WEDO
-・ターゲット：20～30代
-・同氏の起用は大広が提案。若者の人気の高いYouTuberであること、チャンネル登録者数が多いことなどが理由。
-→40代以上の女性向け『夫婦漫才』1.5億円（受注先：吉本興業）と合わせて、今年度は安全保障の広報に上限3億円となる。
-②Mrs. GREEN APPLEをネットの偽・誤情報対策の広報に起用
-・タイトル：『偽・誤情報の可能性、ま</description><guid isPermaLink="false">https://x.com/tsujimotokiyomi/status/2122913079617007998</guid><pubDate>Wed, 18 Nov 2026 08:49:11 +0000</pubDate></item><item><title>アメリカ軍がイランのミサイル基地を攻撃…ロイター通信など報道 米イラン攻撃応酬が激化か（2026年11月17日掲載） - 日テレNEWS NNN</title><link>https://news.google.com/rss/articles/CBMihAFBVV95cUxQMDdURXhBeElITE1EcXhKaG5EdVo1Z1ROSWhTUGpFb3lGSVluanQ5SklyUkhmSU9BcjNnSTJQNUFqUUlKVU1FamJZVGVnUTkxX21wd0RKUE9zUEo5SUVwb1IyTUs4MWZYdU1sWUxZYnlsN0NhYXhLaXNDdU14NG8yVl95b2E?oc=5</link><description>[score: 0.885] アメリカ軍がイランのミサイル基地を攻撃…ロイター通信など報道 米イラン攻撃応酬が激化か（2026年11月17日掲載） 日テレNEWS NNN</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxQMDdURXhBeElITE1EcXhKaG5EdVo1Z1ROSWhTUGpFb3lGSVluanQ5SklyUkhmSU9BcjNnSTJQNUFqUUlKVU1FamJZVGVnUTkxX21wd0RKUE9zUEo5SUVwb1IyTUs4MWZYdU1sWUxZYnlsN0NhYXhLaXNDdU14NG8yVl95b2E?oc=5</guid><pubDate>Wed, 18 Nov 2026 13:45:19 +0000</pubDate></item><item><title>AIペネトレーションテストツール「ARTEX」の仕組みを知る - ラック・セキュリティごった煮ブログ</title><link>https://devblog.lac.co.jp/entry/20261105</link><description>[score: 0.886] AIペネトレーションテストツール「ARTEX」の仕組みを知る - ラック・セキュリティごった煮ブログ デジタルペンテスト部でペネトレーションテストを担当している小松奈央です。 昨今、情報漏えいなどのセキュリティインシデントが相次いで報告されている他、AIの進化によるサイバー攻撃の高度化やハードルの低下... wasai %E3%83%86%E3%82%B9%E3%83%88AI%E3%83%84%E3%83%BC%E3%83%AB%E3%82%BB%E3%82%AD%E3%83%A5%E3%83%AA%E3%83%86%E3%82%A3</description><guid isPermaLink="false">https://devblog.lac.co.jp/entry/20261105</guid><pubDate>Wed, 18 Nov 2026 14:28:29 +0000</pubDate></item><item><title>エヌビディア、中国への高性能ＡＩ半導体出荷停止 先行き不透明に - Reuters</title><link>https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWRBTzdFcExPYmhSb3VvY3NnQTZiUUtUTkFvdzhzN3ltWlJUUU9CNm9IbUdjNzR2a2E0TVBJOGZRUXpvWmR4RnJXNXc1S0VkNDExN09lU1B5LVNrcFV3UVlnZWVhN3BJTDE2TlFSSmJ3c1VxNWhxNm5UTlhCeElpb2t1VV8?oc=5</link><description>[score: 0.888] エヌビディア、中国への高性能ＡＩ半導体出荷停止 先行き不透明に Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihAFBVV95cUxOWWRBTzdFcExPYmhSb3VvY3NnQTZiUUtUTkFvdzhzN3ltWlJUUU9CNm9IbUdjNzR2a2E0TVBJOGZRUXpvWmR4RnJXNXc1S0VkNDExN09lU1B5LVNrcFV3UVlnZWVhN3BJTDE2TlFSSmJ3c1VxNWhxNm5UTlhCeElpb2t1VV8?oc=5</guid><pubDate>Wed, 18 Nov 2026 10:38:09 +0000</pubDate></item><item><title>OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に</title><link>https://gigazine.net/news/20261118-openai-gpt-6-2-astra-sol/</link><description>[score: 0.889] OpenAIが「GPT-6.2 Astra」「GPT-6.2 Sol」をリリース、資料作成やPC操作が進化＆少ないトークンで複雑な業務を処理可能に
-OpenAIが新たなAIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表しました。GPT-6.2 Astraは複雑な業務やプログラミング、科学研究に適した最上位モデルで、GPT-6.2 Solは日常的な作業を効率よく処理できるモデルです。両モデルとも従来より少ない出力トークン数で高い性能を発揮でき、資料作成やPC操作の精度も向上しているとのことです。
-GPT-6.2 Astra と Sol のご紹介 | OpenAI
-http</description><guid isPermaLink="false">https://gigazine.net/news/20261118-openai-gpt-6-2-astra-sol/</guid><pubDate>Wed, 18 Nov 2026 04:16:37 +0000</pubDate></item><item><title>OpenAI、専門業務向けのGPT-6.2 Astraと日常業務向けのGPT-6.2 Solを発表</title><link>https://gihyo.jp/article/2026/11/gpt-6.2-astra-and-sol?utm_source=feed</link><description>[score: 0.893] OpenAIは2026年11月17日、2つの推論モデル
-AstraとSolの用途と前世代からの変更点
-GPT-6.
-GPT-6.
-OpenAIは、Solが日常生活の相談にどこまで応えられるかを、ベンチマーク
-APIでは、AstraとSolはどちらもテキストと画像を受け取り、テキストで回答する。コンテキストウィンドウは両モデルとも105万トークンで、入力の上限は92万2000トークン、出力の上限は12万8000トークン。
-APIの標準料金を前世代と比べると、Astraは入力・
-CEOのSam Altman氏は両モデルのトークン効率の高さに触れ、特にSolの高速モード
-コア製品・
-Sottiaux</description><guid isPermaLink="false">https://gihyo.jp/article/2026/11/gpt-6.2-astra-and-sol?utm_source=feed</guid><pubDate>Wed, 18 Nov 2026 07:57:04 +0000</pubDate></item><item><title>木原官房長官「広告会社の提案」　政府広報に陰謀論系人材起用で | NEWSjp</title><link>https://news.jp/i/1495728368415588768</link><description>[score: 0.895] 木原稔官房長官は18日の記者会見で、陰謀論や都市伝説を扱うユーチューバーを政府広報に起用した経緯について、広告会社「大広」と「大広WEDO」の共同企業体から提案され、内閣府が採用したと明らかにした。事業費を明らかにするのは困難だとした上で、若年層向けの広報経費総額は1億5千万円を上限としていると説明した。
-今回の広報は、複数の企画提案を審査し、最も点数の高い事業者に発注する「企画競争方式」だった。政府広報のホームページには未公開部分もある。木原氏は、ページの更新時期に関して「現在制作中であり、現時点で決まっていない」とした。</description><guid isPermaLink="false">https://news.jp/i/1495728368415588768</guid><pubDate>Wed, 18 Nov 2026 12:18:52 +0000</pubDate></item><item><title>Claude Codeチームは検証についてどのように考えて実行しているのか、エンドツーエンドテスト・プロパティテスト・差分テストで証拠に基づいて自身の作業を検証する方法</title><link>https://gigazine.net/news/20261118-claude-code-test-code-review/</link><description>[score: 0.896] Claude Codeチームは検証についてどのように考えて実行しているのか、エンドツーエンドテスト・プロパティテスト・差分テストで証拠に基づいて自身の作業を検証する方法
-AIコーディングツール「Claude Code」の開発チームでは、コードの約90％をClaudeが記述・レビューしています。AIに大量の開発作業を任せながらコードの品質を維持するため、Claude Codeの開発チームがどのような検証の仕組みを構築しているのかについて、Anthropicのエンジニアであるアディ・オスマーニ氏が解説しています。
-How the Claude Code team thinks about veri</description><guid isPermaLink="false">https://gigazine.net/news/20261118-claude-code-test-code-review/</guid><pubDate>Wed, 18 Nov 2026 12:02:36 +0000</pubDate></item><item><title>イスラエル新議長は野党議員 ネタニヤフ首相に痛手</title><link>https://news.web.nhk/newsweb/na/nd-20261118de77976</link><description>[score: 0.896] 10月に総選挙が行われたイスラエルで議会の新しい議長に、野党が推した候補が、与党側の候補を抑えて選ばれました。
-次の政権の樹立に向けた協議も野党側が主導していて、政権の維持を目指すネタニヤフ首相にと…
-注目ワード
-あわせて読みたい
-APEC首脳会議開幕へ 習主席 トランプ大統領をみずから出迎え
-11月18日 21:48
+注目の米中首脳会談 米中ロの3か国首脳会談 きょう開催へ
+11月19日 4:46
+高市首相 プーチン大統領と意見交換 習主席とは握手
+11月19日 4:50
 日米首脳が短時間懇談 インド太平洋情勢で緊密連携確認
 11月18日 6:56
 米軍がイランのミサイル施設を攻撃 両者で攻撃の応酬に
 11月18日 19:03
 アメリカ中間選挙 アラスカ州も民主当確 上院で56議席に
-11月18日 16:23
-WHO地域機関 アメリカのはしか“排</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261118de77976</guid><pubDate>Wed, 18 Nov 2026 13:00:24 +0000</pubDate></item><item><title>『高市早苗天皇末裔説』も。陰謀論系YouTuber起用で税金1億5千万円の政府広報が“都市伝説より恐ろしい”ワケ</title><link>https://www.huffingtonpost.jp/entry/story_jp_6afd36b3e4b02da00c036891</link><description>[score: 0.902] 『高市早苗天皇末裔説』も。陰謀論系YouTuber起用で税金1億5千万円の政府広報が“都市伝説より恐ろしい”ワケ 「1億5千万円投入か？」『高市早苗天皇末裔説』の陰謀論系YouTuber起用の政府広報が“都市伝説より恐ろしい“ワケ 「政府広報オンライン」の特集「これは都市伝説ではない ―世界を消した主婦―」への都市伝説・陰謀論系と言われるYouTuber「Naokiman（ナオキマン）」氏の起用に批判の声が。</description><guid isPermaLink="false">https://www.huffingtonpost.jp/entry/story_jp_6afd36b3e4b02da00c036891</guid><pubDate>Wed, 18 Nov 2026 14:42:44 +0000</pubDate></item><item><title>楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？　「本番データでの確認が必要だった」</title><link>https://www.itmedia.co.jp/news/article/2611/18/2000003302/</link><description>[score: 0.923] 楽天証券の大規模漏えい、なぜテスト環境に顧客情報が？ 「本番データでの確認が必要だった」 楽天証券が11月17日に公表した不正アクセスの問題を巡り、同社がテスト環境に本番の顧客データを保存していたことが問題視されている。ITmedia NEWSの取材に対し、同社は「社内システムのアップグレードに伴い、一部の機能の検証に本番データを使用する必要があった」と説明した。 楽天証券は17日、第三者が社内システム...</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/18/2000003302/</guid><pubDate>Wed, 18 Nov 2026 12:05:36 +0000</pubDate></item></channel></rss>
+11</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261119de78096</guid><pubDate>Wed, 18 Nov 2026 20:22:42 +0000</pubDate></item><item><title>アンソロピック株オプション、早ければ23日に取引開始へ 旺盛な需要見込む - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQTVpGbUl5Q090NlRKanpuaW5rWjNBb3FBLTBnWDQwQnJoUFUyd0NGYmt2VVlqeFhuNlpSaDdoWTdZMm5xcXZ1T2Jza3kwVGFxazk3ekZSOTI4ZnB0c0tGN19zWWlMUFllUVROcnVZN2RUUEJPWmlHNERjd2hFbXhZZDMyT3pKQQ?oc=5</link><description>[score: 0.876] アンソロピック株オプション、早ければ23日に取引開始へ 旺盛な需要見込む Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQTVpGbUl5Q090NlRKanpuaW5rWjNBb3FBLTBnWDQwQnJoUFUyd0NGYmt2VVlqeFhuNlpSaDdoWTdZMm5xcXZ1T2Jza3kwVGFxazk3ekZSOTI4ZnB0c0tGN19zWWlMUFllUVROcnVZN2RUUEJPWmlHNERjd2hFbXhZZDMyT3pKQQ?oc=5</guid><pubDate>Wed, 18 Nov 2026 18:48:47 +0000</pubDate></item><item><title>AWS JumpStart2026参加レポート</title><link>https://qiita.com/inorin__62/items/68fcb017ab4b6bfd9c08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] はじめに
+AWS JumpStartの2026年11月回に参加したので参加レポートを執筆しました。
+ネタバレ防止の観点から、公開されている情報や感想を中心とした内容となります。
+AWS JumpStartとは
+以下、公式からの引用です。
+AWS JumpStartは、新卒を含むAWS初学者のエンジニアを対象とした、クラウドネイティブなテックリード人材を育成するための第一歩となる実践的な研修プログラムです。
+事前学習用動画と2日間の集中的なオンラインワークショップを通して、皆様のAWSに対する理解度を一気に引き上げることを目的としています。
+2日間のプログラムを経て実践的なアーキテクチャ図を自分</description><guid isPermaLink="false">https://qiita.com/inorin__62/items/68fcb017ab4b6bfd9c08?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 18 Nov 2026 20:49:12 +0000</pubDate></item><item><title>【ポエム】コミュニティ参加が本業に活かされなくても、他者と比べず気にせず気長に構えよう</title><link>https://qiita.com/sadabon444/items/1d64e5260d31e4644601?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.879] この記事は100%人力で書いています。
+“Connecting the Dots" という言葉をご存知だろうか。
+これは、有名なスティーブ・ジョブズの言葉である。
+大学の講義でカリグラフィー（西洋式の書道）をコッソリ聴講したことが、時を経てiPhoneのデザインに繋がったと、スタンフォード大学の卒業式で彼は述べた。
+何がいつ、どう繋がるか分からないのだ。
+※4分35秒あたり～JBUGとの出会い
+話をコミュニティに移そう。
+私は、AWSのイベント（JAWS DAYS 2024）で出会ったJBUGのイベントに、しばらく参加を続けていた。
+JBUGとは、日本で開催されるBacklogのユーザーグルー</description><guid isPermaLink="false">https://qiita.com/sadabon444/items/1d64e5260d31e4644601?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 18 Nov 2026 20:49:12 +0000</pubDate></item><item><title>高市首相 プーチン大統領と意見交換 習主席とは握手</title><link>https://news.web.nhk/newsweb/na/nd-20261119de78112</link><description>[score: 0.881] APECの首脳会議に出席するため中国を訪問している高市総理大臣は、日本時間の18日夜、ロシアのプーチン大統領と意見を交わし、ロシアの治安機関による北海道新聞記者の拘束などについて、日本側の立場を直接伝…
+あわせて読みたい
+【地震情報】熊本県で震度5弱 今後1週間程度は注意を
+11月19日 5:06
+注目の米中首脳会談 米中ロの3か国首脳会談 きょう開催へ
+11月19日 4:46
+与党 消費税法案の会期内成立を 野党 関文科相への追及強める
+11月19日 5:08
+歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット
+11月19日 0:38
+三菱UFJグループ漏えい相次ぐ 銀行は顧客情報</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261119de78112</guid><pubDate>Wed, 18 Nov 2026 20:22:42 +0000</pubDate></item><item><title>死亡の3歳女児に数十か所のあざ 生活実態など捜査 兵庫 伊丹</title><link>https://news.web.nhk/newsweb/na/nd-20261119de78092</link><description>[score: 0.881] ことし1月、兵庫県伊丹市の自宅で3歳の次女に暴行を加えて死亡させたとして父親が逮捕された事件で、次女の顔や体には数十か所のあざがあったことが警察への取材で分かりました。次女は1か月ほど前に施設から戻っ…
+あわせて読みたい
+3歳の次女を暴行 死亡させたか 父親を逮捕 兵庫 伊丹
+11月18日 20:05
+歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット
+11月19日 0:38
+APEC 高市首相 習近平国家主席と握手 プーチン氏と意見交わす
+11月19日 1:54
+APEC首脳会議開幕へ 習主席 トランプ大統領をみずから出迎え
+11月18日 21:48
+三菱UFJグループ漏えい相次ぐ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261119de78092</guid><pubDate>Wed, 18 Nov 2026 20:52:00 +0000</pubDate></item><item><title>イスラエル情報機関長官が先週訪米、イラン共同攻撃を働きかけ ＝関係筋 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE54ZWFueGk5UWk1d2VJZHFfU2VDaHp3TVpzSUw2MzlaWUYteFpLQUtFcEJMenUzUTFCWHhieUs0aUotNHJMQW14TjFPRHE0akxNeW1ucEJrUngyWi1wUUkwNGpjelE0Sk91SXowMDFGaHRsN21raEpnQTdjMU5fNEk?oc=5</link><description>[score: 0.883] イスラエル情報機関長官が先週訪米、イラン共同攻撃を働きかけ ＝関係筋 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE54ZWFueGk5UWk1d2VJZHFfU2VDaHp3TVpzSUw2MzlaWUYteFpLQUtFcEJMenUzUTFCWHhieUs0aUotNHJMQW14TjFPRHE0akxNeW1ucEJrUngyWi1wUUkwNGpjelE0Sk91SXowMDFGaHRsN21raEpnQTdjMU5fNEk?oc=5</guid><pubDate>Wed, 18 Nov 2026 19:55:38 +0000</pubDate></item><item><title>与党 消費税法案の会期内成立を 野党 関文科相への追及強める</title><link>https://news.web.nhk/newsweb/na/nd-20261119de78076</link><description>[score: 0.883] 参議院での審議が続いている食料品の消費税減税関連法案について、与党側は丁寧に議論を積み重ね、来月中旬までの会期内の成立を図る方針です。一方、野党側は、関文部科学大臣が開催した政治資金パーティーをめぐっ…
+あわせて読みたい
+熊本県で震度5弱 揺れの映像
+11月19日 3:21
+高市首相 プーチン大統領と意見交換 習主席とは握手
+11月19日 4:50
+注目の米中首脳会談 米中ロの3か国首脳会談 きょう開催へ
+11月19日 4:46
+歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット
+11月19日 0:38
+三菱UFJグループ漏えい相次ぐ 銀行は顧客情報約650万件流出
+11月18日 1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261119de78076</guid><pubDate>Wed, 18 Nov 2026 20:22:42 +0000</pubDate></item><item><title>注目の米中首脳会談 米中ロの3か国首脳会談 きょう開催へ</title><link>https://news.web.nhk/newsweb/na/nd-20261119de78117</link><description>[score: 0.885] APEC＝アジア太平洋経済協力会議が開かれている中国の※深センで19日、アメリカのトランプ大統領と中国の習近平国家主席、それにロシアのプーチン大統領が、3か国の首脳による初めての会談を行います。核軍縮…
+あわせて読みたい
+米中ロ首脳会談 ウクライナ外相「当事国抜きの決定は不可能」
+11月19日 4:47
+高市首相 プーチン大統領と意見交換 習主席とは握手
+11月19日 4:50
+日米首脳が短時間懇談 インド太平洋情勢で緊密連携確認
+11月18日 6:56
+米軍がイランのミサイル施設を攻撃 両者で攻撃の応酬に
+11月18日 19:03
+アメリカ中間選挙 アラスカ州も民主当確 上院で56議席に
+1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261119de78117</guid><pubDate>Wed, 18 Nov 2026 20:22:42 +0000</pubDate></item><item><title>GPT-6.2 Astra vs Fable 5.2で3Dモデル生成対決！</title><link>https://qiita.com/7mpy/items/6a9ce87b576063f68d71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] GPT-6.2 AstraやFable 5.2のみだけで3Dモデルを作ってみました！ 簡単に街づくりできるので面白いですよね。AIだけで日本版GTA6が作れるみらいも近いかもしれません。
+デジタルツイン
+See the Pen Fable 5.2 デジタルツイン by John Doe (@04) on CodePen.
+Fable 5.2 パトカー
+See the Pen Fable 5.2 パトカー by John Doe (@04) on CodePen.
+Fable 5.2 消防車
+See the Pen Fable 5.2 消防車 by John Doe (@04) on CodeP</description><guid isPermaLink="false">https://qiita.com/7mpy/items/6a9ce87b576063f68d71?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 18 Nov 2026 20:49:12 +0000</pubDate></item><item><title>「陰謀論者と交わっちゃった」発信も　政府広報起用の配信者物議 | 毎日新聞</title><link>https://mainichi.jp/articles/20261118/k00/00m/010/354000c</link><description>[score: 0.892] 「陰謀論者と交わっちゃった」発信も 政府広報起用の配信者物議 | 毎日新聞 若者向けに安全保障政策について発信する政府の広報戦略に波紋が広がっている。真偽不明の都市伝説や陰謀論を扱うユーチューバーを起用した特集サイトに、野党などから「不適切だ」と批判が続出。木原稔官房長官... firststar_hateno 陰謀論者の起用、政府の舞台裏でのコメディですわね。真実を求める若者たち、どこへ行くのかしら？</description><guid isPermaLink="false">https://mainichi.jp/articles/20261118/k00/00m/010/354000c</guid><pubDate>Wed, 18 Nov 2026 19:26:53 +0000</pubDate></item><item><title>今話題のMuseってなに？どんなことができる？※この記事はMuseが書いて自動で投稿しています</title><link>https://qiita.com/inoyu-qiita/items/05f9c10adc1a398d6ff5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.897] ※この記事は、Museと壁打ちしながら内容を作り、投稿作業もMuseに自動で行わせているものです。
+TL;DR
+- Museは、質問に答えるだけのチャットAIではなく、あなたのことを覚えて、自分で調べて・作って・定期的に動いてくれるパーソナルエージェントです
+- できることの柱は、長期メモリ、調べ物と成果物づくり、外部サービス連携、定期実行、目標の伴走の5つです
+- ChatGPTのようなチャットAI、Claude CodeのようなAIコーディングエージェントとは、役割が違います。違いは後半の比較表で整理します
+- 初心者はまず、①覚えてもらう ②定期チェックを1つ頼む ③小さな成果物を作らせ</description><guid isPermaLink="false">https://qiita.com/inoyu-qiita/items/05f9c10adc1a398d6ff5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Wed, 18 Nov 2026 20:49:12 +0000</pubDate></item><item><title>同じ仕事を少ないトークンで。GPT-6.2 AstraとSolが登場</title><link>https://pc.watch.impress.co.jp/docs/news/2157394.html</link><description>[score: 0.917] ニュース
+同じ仕事を少ないトークンで。GPT-6.2 AstraとSolが登場
+2026年11月18日 12:14
+同じ成果をより少ないトークンで出せれば、利用上限の範囲でこなせる作業も増える。OpenAIは11月17日(米国時間)、新たなAIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」を発表した。ChatGPTのPlus、Pro、Enterprise、Eduプランのユーザーは、同日から「ChatGPT Work」と「Codex」で利用できる。また、Pro 500の加入者は、どちらのモデルでも「Ultrafast」を利用でき、Pro 200の加入者にも、GPT-6.2 So</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2157394.html</guid><pubDate>Wed, 18 Nov 2026 18:55:30 +0000</pubDate></item></channel></rss>
