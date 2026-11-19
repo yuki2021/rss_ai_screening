@@ -1,94 +1,138 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 19 Nov 2026 02:25:44 +0000</lastBuildDate><item><title>【特集】 Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた</title><link>https://pc.watch.impress.co.jp/docs/topic/feature/2157654.html</link><description>[score: 0.880] 特集
-Museに「僕と“家の鍵”を交換してザウルス開発者になってよ」と頼んでみた
-2026年11月19日 06:08
-筆者は今年(2026年)の6月以来、「Claude Code」を使いまくっている。やっている作業の大半は、ほしいソフトウェアの開発だ。この世には「俺がほしいと思っているソフトがある。そして理論上はできるはずだ。しかし誰もそのソフトを作らない。そして作りたくてもその時間がない」ものが多すぎる。
-それを、Claude Codeは片っ端から実現してくれる。筆者が散歩している間も、寝ている間もだ。この半年で、おそらく筆者は世界一のNPUを使うソフトウェア開発者になったんじゃないか？とい</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/topic/feature/2157654.html</guid><pubDate>Thu, 19 Nov 2026 00:07:34 +0000</pubDate></item><item><title>トレードオフをAIと比較し、技術選定の判断を行う</title><link>https://gihyo.jp/article/2026/10/engineer-ai-sounding-board-04?utm_source=feed</link><description>[score: 0.880] 本連載は2026年9月刊行の
-技術選定の理由を聞かれて、
-トレードオフを比較して判断する
-技術選定に限った話ではありませんが、設計や実装における
-設計のトレードオフを比較するうえで意識したいのは次の3つの観点です。
-| 観点 | 問い |
-|---|---|
-| 比較材料の網羅性 | 選択肢を1つだけでなく、複数並べて比較できているか |
-| トレードオフの理解 | メリット・ |
-| 判断の主体性 | AIが推奨したからではなく、自分で判断の根拠を言語化できるか |
-- よくある失敗パターン
--
-- 複数の選択肢がある中で、AIに
-「どれが一番いいですか？」 と聞き、返ってきた1つの案をその</description><guid isPermaLink="false">https://gihyo.jp/article/2026/10/engineer-ai-sounding-board-04?utm_source=feed</guid><pubDate>Thu, 19 Nov 2026 01:20:35 +0000</pubDate></item><item><title>GPT-6 Cyber​​でJavaに12年以上未発見の深刻な脆弱性を発見。オラクルはすでにパッチ配布、即時適用を推奨</title><link>https://www.techno-edge.net/article/2026/11/19/5767.html</link><description>[score: 0.881] サイバーセキュリティ企業のCalifは、OpenAIの未公開モデル「GPT-6 Cyber」を活用し、プログラミング言語Javaに12年以上にわたって存在していた重大な脆弱性を発見したと発表しました。
-Java開発コミュニティを運営するOracleは、日本時間11月18日にこの脆弱性を含む652件の問題を修正するパッチをリリースしています。
-Javaは銀行・病院・航空・政府機関など幅広い分野の基幹システムに用いられており、米国のサイバーセキュリティ機関CISAはJavaを使用するシステムを利用する企業や組織に対して即時の適用を呼びかけています。
-PHPの脆弱性も発見したCalifの研究者らは、</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/11/19/5767.html</guid><pubDate>Wed, 18 Nov 2026 23:38:41 +0000</pubDate></item><item><title>プロンプト・リテラシーがメールや検索と並ぶ標準スキルになる日</title><link>https://forbesjapan.com/articles/detail/108510?s=ns</link><description>[score: 0.881] かつて電子メールは任意であり、検索も任意だった。そのため、しばらくは両方を無視してもなんとかやっていけた。いち早くこれらを導入した人々は、より速く動き、少ない手間で答えを見つけられるため、静かな優位性を得ていると感じていた。やがてツールは当たり前になり、その優位性は最低限の基準へと変わった。そして突然、「使い方を知らない」ことが、遅れを取っているように感じられ始めた。
-筆者は、プロンプティング（AIへの指示）も現在、同じ道をたどっていると考えている。MicrosoftとLinkedInの報告によると、ナレッジワーカーの75%がすでに職場でAIを利用しており、その大半は最近使い始めたばかりだ。筆</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108510?s=ns</guid><pubDate>Thu, 19 Nov 2026 00:03:12 +0000</pubDate></item><item><title>アプリ作りに専門知識が不要に!? AIが変える常識と落とし穴 | NHKニュース</title><link>https://news.web.nhk/newsweb/na/nd-20261117de77369</link><description>[score: 0.882] アプリは、専門家だけが作るもの。そんな常識が変わり始めています。
-AIに言葉で指示するだけで、誰でもアプリを作れる時代に。被災地で人々の命をつなぎ、仕事の効率化にも大きな成果を上げています。
-一方…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 19 Nov 2026 14:57:19 +0000</lastBuildDate><item><title>「働いても、報われない」 中間層にいま何が | NHKニュース</title><link>https://news.web.nhk/newsweb/na/nd-20261119de78318</link><description>[score: 0.871] スーパーで買い物をして値段を見て驚く。 美容院に行く回数を減らした。 子どもの教育費が不安…。
+多くの人たちから「それまで普通だと思っていた暮らしが難しくなってきている」という声が上がっています。 …
+「一定の所得はあっても・・・」働く40代が直面 住まいの現実
+10月16日 18:33
+不動産が“負”の動産に？ 「実家じまいは3年以内」 なぜ
+11月15日 12:57
+“いいねがつくから”じゃ済まされない アスリート盗撮深刻化
+11月19日 12:36
+250年目の“自由”の国 リベラリズムの憂鬱
+11月6日 22:33
+村上宗隆はなぜ「1年目で35本塁打」を成し遂げられたのか
+10月27日</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261119de78318</guid><pubDate>Thu, 19 Nov 2026 11:18:56 +0000</pubDate></item><item><title>アンソロピック、1株83ドル（約1万3280円）で価格設定。1兆ドル超のIPOに向けた体制を整える</title><link>https://www.businessinsider.jp/article/2611-anthropic-will-go-public-at-around-1-5-trillion-valuation/</link><description>[score: 0.871] - アンソロピックはIPO価格を83ドル（約1万3280円）に設定し、想定レンジを上回った。
+- 同社は19日（木・米時間）に公開市場に登場し、5年間での目覚ましい成長に区切りをつける。
+- ANT（同社のティッカーシンボル）の価格設定により、希薄化後の同社の企業価値は約1兆5000億ドル（約240兆円）となる。
+アンソロピックは18日水曜日、19日（木・米時間）に1株83ドル（約1万3280円、1ドル=160円換算：以下同）で上場すると正式に発表した。これは、同社が以前提示していた価格帯を上回る。
+このAI業界の巨人は、新規株式公開（IPO）で巨額の資金を調達する態勢を整えている。この価格設</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-anthropic-will-go-public-at-around-1-5-trillion-valuation/</guid><pubDate>Thu, 19 Nov 2026 03:50:38 +0000</pubDate></item><item><title>AIを追いかけるより、最近やっていたこと</title><link>https://qiita.com/nguyen_thi_thu_trang/items/b9fce43d578e86d2cadf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.872] はじめに
+ベトナム出身のエンジニア、チャンです。
+最近、どこへ行ってもAIの話を聞く。新しいモデルが出た。新しいツールが出た。これを使わないと置いていかれる。
+どれも、たぶん本当だと思う。
+最近、いろいろやってみて、人のことが前より面白いと感じるようになった。
+そのきっかけになったのが、この二つだ。人と話すことと、本を読むことだ。
+話さなかったエンジニアが、人と話しはじめた
+私は、あまり話さないエンジニアだった。
+仕事の大半は、画面の前で完結する。仕様を読んで、コードを書いて、テストして、レビューする。
+人と話すのは、必要なときだけ。それで困ったことも、特になかった。
+ただ、ときどき言われるこ</description><guid isPermaLink="false">https://qiita.com/nguyen_thi_thu_trang/items/b9fce43d578e86d2cadf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 19 Nov 2026 08:12:10 +0000</pubDate></item><item><title>北海道「六花亭」に不正アクセス クレカ情報 約8000件流出か</title><link>https://news.web.nhk/newsweb/na/nd-20261119de78663</link><description>[score: 0.872] 北海道帯広市に本社がある菓子メーカー「六花亭」は、運営するオンラインショップが不正アクセスを受け、およそ8000件のクレジットカード情報が流出した可能性があると発表しました。
+六花亭によりますと、…
+【情報漏えい】対策どうする 二次被害に遭わないためには
+徹底解説 相次ぐ不正アクセスなぜ？情報守るためにできること
+11月6日 19:08
+情報漏えいリスク回避へ対策は？通販サイト閉鎖の企業も
+11月11日 18:51
+日本はなぜ狙われる？サイバー攻撃 生活にも影響
+11月7日 18:14
+相次ぐ情報流出 犯罪グループの摘発は
+11月11日 12:54
+国際ハッカー集団“日本企業はぜい弱性を放置”</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261119de78663</guid><pubDate>Thu, 19 Nov 2026 11:33:19 +0000</pubDate></item><item><title>米中ロの3首脳が会談、世界のエネルギー流通や国際法について議論　中国国営メディア</title><link>https://www.cnn.co.jp/world/35255170.html</link><description>[score: 0.872] 19日、中国・深センで米国、ロシア、中国の3首脳が会談を開いた/Vyacheslav Prokofyev/AFP/Getty Images （CNN） 米国のトランプ大統領、中国の習近平（シーチンピン）国家主席、ロシアのプーチン大統領が19日、中国南部の深センで開催されたアジア太平洋経済協力会議（APEC）の傍ら、歴史的な3首脳会談を行った。 中国の国営放送CCTVによると、会談は約1時間半にわたって行われた。 CCTVが公表した会談の記録によると、3人の指導者は幅広いテーマについて意見を交わした。具体的には世界的なエネルギーの流れ、核拡散、国際法の体系といった問題だという。 特筆すべき点とし</description><guid isPermaLink="false">https://www.cnn.co.jp/world/35255170.html</guid><pubDate>Thu, 19 Nov 2026 13:11:51 +0000</pubDate></item><item><title>PHP 新たなぜい弱性が判明 サービス休止を計画する動きも</title><link>https://news.web.nhk/newsweb/na/nd-20261119de78620</link><description>[score: 0.872] 先月、重大なぜい弱性が見つかってウェブサイト停止などの影響が出たプログラミング言語「PHP」について、新たに重大なぜい弱性があることが分かり、運営する団体は修正プログラムを日本時間の19日夜に公開する…
 あわせて読みたい
-使わせる? 使わせない? 子どもとAI 親たちの悩み
-11月14日 17:28
-中野 女性刺殺事件 「女性との食事代などに800万円」供述
-11月18日 14:13
-ネットにつながらない携帯電話発売へ 脱ネット需要がねらい
-11月18日 23:29
-日本の自動車業界 主要素材・部品共通化 競争力強化へ【QA】
-11月18日 19:54
-受刑者の選挙権制限は“合憲” 最高裁が初判断</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261117de77369</guid><pubDate>Wed, 18 Nov 2026 23:08:47 +0000</pubDate></item><item><title>イタリアも未成年のＳＮＳ利用制限へ、年内に関連法令承認の見通し - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE1IeEo3bzJPYnYxRV9tamJkOXdLNzdXaUpGUUViOWlCUklnc3FBakM0YURmVmRpeGVLUVFra1RFbDd3ZDFTdXBhVlpEMlFoMHRMREFkV0hyQ19UNVYyd3U0RDZVZlNpUk1qN3hjaW8tSEJsUjNTbVFFejR5WHhRNWc?oc=5</link><description>[score: 0.883] イタリアも未成年のＳＮＳ利用制限へ、年内に関連法令承認の見通し Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE1IeEo3bzJPYnYxRV9tamJkOXdLNzdXaUpGUUViOWlCUklnc3FBakM0YURmVmRpeGVLUVFra1RFbDd3ZDFTdXBhVlpEMlFoMHRMREFkV0hyQ19UNVYyd3U0RDZVZlNpUk1qN3hjaW8tSEJsUjNTbVFFejR5WHhRNWc?oc=5</guid><pubDate>Thu, 19 Nov 2026 01:59:01 +0000</pubDate></item><item><title>Microsoftが自社AIモデル7種を一挙公開、コーディング用「MAI Code 2」は「Opus 5.5の96%の性能を5%の価格で」</title><link>https://www.techno-edge.net/article/2026/11/19/5768.html</link><description>[score: 0.883] Microsoftは11月17日（現地時間）、同社の年次イベントMicrosoft Ignite 2026に合わせて、自社のAI部門MAIが開発したモデル7種を発表しました。コーディング、セキュリティ、画像編集、音声対話、文字起こしなどをそろえ、いずれも「最高性能に近い品質を、エージェントを24時間動かせる価格で」という価格性能比を前面に出しています。
-MAI Code 2：日常的な企業のコーディング作業向け。4つのベンチマークの平均で、GPT-6.1 Solの98%の性能を約40%の価格で、Claude Opus 5.5の96%の性能を5%の価格で実現したとしています。GitHub Copi</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/11/19/5768.html</guid><pubDate>Wed, 18 Nov 2026 23:38:41 +0000</pubDate></item><item><title>QA効率化におけるAI活用事例</title><link>https://zenn.dev/applibot_tech/articles/6b8ec8d196634b</link><description>[score: 0.884] はじめに アプリボットの田中です。普段はUnityエンジニアとしてスマートフォンゲームを開発しており、最近はAIを活用した業務の効率化に取り組んでいます。 プロジェクトメンバーとQA担当者が連携しながら、ここ半年ほど、AIを活用した仕組みをいくつかつくってきました。私を含むチームメンバーで作成した、以下の 3 つを紹介します。 仕様書と実装の差分チェック 不具合の起票数の予測 設計書とマスターデータの静的チェック 3 つとも、「AIにどこまで任せるか」を考えながらつくりました。 成功事例というよりも、AIを活用して効率化を進める取り組みとして、読んでいただければと思います。 ...</description><guid isPermaLink="false">https://zenn.dev/applibot_tech/articles/6b8ec8d196634b</guid><pubDate>Thu, 19 Nov 2026 00:08:07 +0000</pubDate></item><item><title>米下院議長に民主党のジェフリーズ氏選出へ 初のアフリカ系</title><link>https://news.web.nhk/newsweb/na/nd-20261119de78146</link><description>[score: 0.884] 11月に行われたアメリカの中間選挙で大勝し、上下両院で多数派を奪還した野党・民主党は、次の下院議長に、現在、党の下院トップを務めるジェフリーズ氏を推すことを決め、アフリカ系で初めての下院議長が誕生する…
+ソフトウエア「nginx」にぜい弱性 “必要な措置を”官房長官
+11月19日 18:33
+集客や広告宣伝支援「KARTE」に不正アクセス 利用企業に影響
+11月17日 23:34
+徹底解説 相次ぐ不正アクセスなぜ？情報守るためにできること
+11月6日 19:08
+史上初 米中ロ首脳会談で「平和宣言」 核リスク低減へ対話を
+11月19日 21:32
+高市首相 訪問先の中国で記者</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261119de78620</guid><pubDate>Thu, 19 Nov 2026 09:45:30 +0000</pubDate></item><item><title>NGINX、HTTP/2処理の脆弱性を修正 ——静的ファイルだけを配信する構成でもリモートコード実行を確認</title><link>https://gihyo.jp/article/2026/11/nginx-http2-rce?utm_source=feed</link><description>[score: 0.872] NGINXの開発チームは2026年11月18日、オープンソース版NGINXの複数の脆弱性を修正し、メインライン版1.31.9と安定版1.30.7を公開した。修正対象には、複数の研究チームが独立に発見したHTTP/2処理の脆弱性2件が含まれる。Wizは、どちらの脆弱性でも認証なしにリモートからコードを実行できたと報告した。そのうちCVE-2026-123007では、静的ファイルだけを配信するNGINXサーバーでもコードを実行できたという。
+HTTP/2の脆弱性2件、影響を受ける構成の違い
+2件とも、NGINXでHTTP/2が有効になっていることが前提となる。静的ファイルの配信にも影響するCVE-</description><guid isPermaLink="false">https://gihyo.jp/article/2026/11/nginx-http2-rce?utm_source=feed</guid><pubDate>Thu, 19 Nov 2026 03:16:08 +0000</pubDate></item><item><title>「DNSリゾルバによる海賊版サイトのブロック」が著作権侵害対策に不向きな理由とは？</title><link>https://gigazine.net/news/20261119-quad9-dns-blocking-doesnt-work/</link><description>[score: 0.872] インターネットユーザーをマルウェアやフィッシング詐欺から保護する機能を持つ無料のパブリックDNSサービス(DNSリゾルバ)であるQuad9が、2026年11月24日をもってフランスから撤退します。この背景には裁判所から「海賊版サイトのブロック」を命じられた件がありますが、テクノロジー系メディアのTech StackupsがDNSリゾルバによる対応は著作権侵害対策に向いていないとして、その理由について解説しています。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20261119-quad9-dns-blocking-doesnt-work/</guid><pubDate>Thu, 19 Nov 2026 10:06:58 +0000</pubDate></item><item><title>Webサーバー「nginx」に10件の脆弱性 ～HTTP/2実装の欠陥は未認証でリモートコード実行も／「CVE-2026-123633」「CVE-2026-123007」に警戒、v1.30.7/v1.31.9で修正</title><link>https://forest.watch.impress.co.jp/docs/news/2157695.html</link><description>[score: 0.875] ニュース
+Webサーバー「nginx」に10件の脆弱性 ～HTTP/2実装の欠陥は未認証でリモートコード実行も
+「CVE-2026-123633」「CVE-2026-123007」に警戒、v1.30.7/v1.31.9で修正
+2026年11月19日 11:35
+米F5は11月18日（現地時間）、Webサーバー「nginx」（エンジンエックス）の安定版（stable）v1.30.7と開発版（mainline）v1.31.9を公開した。10件の脆弱性が修正されたセキュリティアップデートとなっている。
+今回のアップデートで修正された脆弱性は、以下の通り。深刻度は「nginx.org」の評価で「maj</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2157695.html</guid><pubDate>Thu, 19 Nov 2026 07:02:50 +0000</pubDate></item><item><title>Geminiアプリでタスクを定期実行できる「Tasks」、日本など6カ国で無料提供を開始 ——米国では電話や買い物も代行可能に</title><link>https://gihyo.jp/article/2026/11/gemini-app-tasks?utm_source=feed</link><description>[score: 0.876] Googleは2026年11月17日、日本など6カ国で、Geminiアプリの「Tasks」を有料プランを契約していない人にも順次提供し始めた。たとえば旅行の計画を頼めば、Geminiがバックグラウンドで日程を組み、まとまったところで利用者に知らせる。毎朝メールとカレンダーを確認して、その日の優先事項をまとめるといった作業も任せられる。このほか、Geminiが利用者に代わって店舗に電話をかけたり、Google Payで商品を購入したりする機能も、米国から順次提供する。
+Googleは10月の発表 で、Google AI ProとUltraの契約者向けに、チャット画面からタスクを依頼する機能を紹介</description><guid isPermaLink="false">https://gihyo.jp/article/2026/11/gemini-app-tasks?utm_source=feed</guid><pubDate>Thu, 19 Nov 2026 11:41:13 +0000</pubDate></item><item><title>高市首相とトランプ大統領の電話会談終わる</title><link>https://news.web.nhk/newsweb/na/nd-20261119de78721</link><description>[score: 0.876] 高市総理大臣は19日夜、アメリカのトランプ大統領と電話会談を行いました。このあと高市総理大臣は記者団に対し、アメリカ、中国、ロシアの3か国の首脳による会談の内容などについて説明を受けた上で、国際社会の…
+あわせて読みたい
+片山財務相 支援金対象の所得下限“年収56万円程度で検討”
+11月19日 18:52
+JT ロシア現地法人“実質的経営権喪失”約1兆3770億円の損失へ
+11月19日 23:39
+高市首相 訪問先の中国で記者会見【動画 全編】
+11月19日 18:09
+史上初 米中ロ首脳会談で「平和宣言」 核リスク低減へ対話を
+11月19日 21:32
+関文科相の政治資金パーティーめぐり 与</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261119de78721</guid><pubDate>Thu, 19 Nov 2026 13:55:54 +0000</pubDate></item><item><title>【速報】タイミー、事業者情報最大22.6万人漏えい</title><link>https://www.47news.jp/15256728.html</link><description>[score: 0.876] 【速報】タイミー、事業者情報最大22.6万人漏えい
+2026年11月19日 19時43分
+短時間・単発アルバイトを紹介する「タイミー」（東京）は19日、サービスを利用する求人事業者の情報最大約22万6千人分が漏えいしたと発表した。タイミーの委託先が不正アクセスを受けた。
+楽天証券に報告徴求命令 金融庁、顧客情報漏えいで
+21時28分
+共同通信
+毎日新聞、14万人の名字漏えい 会員情報、年齢やメアドも
+20時38分
+共同通信
+タイミー、事業者情報流出 最大22万6千人分
+20時15分
+共同通信
+サントリーウエルネス情報漏えい 最大94万件超、KARTE
+19時34分
+共同通信
+【速報】サントリー</description><guid isPermaLink="false">https://www.47news.jp/15256728.html</guid><pubDate>Thu, 19 Nov 2026 12:26:01 +0000</pubDate></item><item><title>【動画】米中首脳会談 貿易やAIなど意見を交わしたか</title><link>https://news.web.nhk/newsweb/na/nd-20261119de78419</link><description>[score: 0.877] アメリカのトランプ大統領と中国の習近平国家主席は中国の※深センでことし3回目となる首脳会談を行い、米中両国が安定した関係の構築に引き続き取り組むことを確認するとともに、貿易やAIなどについて意見を交わ…
+あわせて読みたい
+史上初 米中ロ首脳会談で「平和宣言」 核リスク低減へ対話を
+11月19日 21:32
+中国 高市首相 出迎え「国際慣例に基づく適切な儀礼上の手配」
+11月19日 18:29
+JT ロシア現地法人“実質的経営権喪失”約1兆3770億円の損失へ
+11月19日 23:39
+米AI開発「アンソロピック」 19日に過去最大規模の上場へ
+11月19日 18:47
+NASA長官「月面で日米</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261119de78419</guid><pubDate>Thu, 19 Nov 2026 06:55:32 +0000</pubDate></item><item><title>録音の文字起こし・リアルタイム文字起こし・テキストの音声読み上げができる「speech.cpp」はGPU不要でCPUだけで動作可能</title><link>https://gigazine.net/news/20261119-speech-cpp/</link><description>[score: 0.877] 録音の文字起こし・リアルタイム文字起こし・テキストの音声読み上げができる「speech.cpp」はGPU不要でCPUだけで動作可能
+日本語特化型の音声認識AI「Haas-ja-v1.0」や音声合成AI「Irodori-TTS」などを1つの実行環境にまとめた無料のオープンソースツールが「speech.cpp」です。GPUが不要でブラウザから文字起こしや音声読み上げが可能とのことなので実際に使ってみました。
+nyosegawa/speech.cpp: Speech synthesis, speech recognition and voice activity detection for voic</description><guid isPermaLink="false">https://gigazine.net/news/20261119-speech-cpp/</guid><pubDate>Thu, 19 Nov 2026 14:05:11 +0000</pubDate></item><item><title>自分の代わりに動くAgentへ。Claude CodeとCodexで作る自律改善ハーネス</title><link>https://zenn.dev/nttdata_tech/articles/9562962cc181a1</link><description>[score: 0.879] 自分の仕事を、コーディングAgentに自律的に進めてほしい。 一度伝えたことは覚えていて、それを踏まえて、仕事の種類を問わず「私の代わりに」動いてほしい。 これが一番の動機で、2026年7月に、自律作業のための個人のハーネスを作り始めました。 ほかにも困っていたことがあります。今でこそOrcaのように、いろいろなコーディングAgentを複数のターミナルで同じように扱える開発環境（ADE: Agentic Development Environment）がありますが、当時は過去の作業を追えない、同じ指示を何度もしている、Claude CodeとCodexで設定が分かれていく、という状態でし...</description><guid isPermaLink="false">https://zenn.dev/nttdata_tech/articles/9562962cc181a1</guid><pubDate>Thu, 19 Nov 2026 13:19:34 +0000</pubDate></item><item><title>「売上高103％増」でも時価総額約79兆円減のエヌビディア──フアンの法令違反はいまだ未立証</title><link>https://forbesjapan.com/articles/detail/108492?s=ns</link><description>[score: 0.879] エヌビディアの2027会計年度第3四半期決算と今後の業績見通しは、文句のつけようがないほど好調だった。10月25日までの第3四半期の売上高は前年同期比103％増の1158億ドル（約18兆4122億円）に達した。通常より1週間長い第4四半期についても、売上高1300億ドル（約20兆6700億円、予想幅は上下3％）を見込んでいる。
+ただし、第3四半期の好業績は、共同創業者のジェンスン・フアンが最高経営責任者（CEO）を務めていた期間に達成されたものだ。フアンは米国時間2026年11月12日に辞任し、最高財務責任者（CFO）のコレット・クレスが暫定CEOを兼務している。フアンの退任が事業運営に及ぼす</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108492?s=ns</guid><pubDate>Thu, 19 Nov 2026 06:09:21 +0000</pubDate></item><item><title>【分析】前例なき3首脳会談、中ロが掲げる「新世界秩序」の勝利</title><link>https://www.cnn.co.jp/world/35255173.html</link><description>[score: 0.880] トランプ米大統領を交えた3首脳会談を終えて会場を後にする中国の習近平国家主席（中央右）とロシアのプーチン大統領（同左）/Vyacheslav Prokofyev/Sputnik/Reuters （CNN） 中国の習近平（シーチンピン）国家主席とロシアのプーチン大統領が長らく共有している見解は、世界の勢力均衡が根本的には自分たちに有利な方向へ移行していくというものだ。背景には東洋の台頭と西洋の衰退がある。 彼らの目から見れば、米国の超大国時代は終焉（しゅうえん）を迎えつつある。そして彼らはこの認識を軸に独自のパートナーシップを築き、国際的な陣営を形成してきた。 中国・深センで開催された、トランプ</description><guid isPermaLink="false">https://www.cnn.co.jp/world/35255173.html</guid><pubDate>Thu, 19 Nov 2026 14:09:47 +0000</pubDate></item><item><title>女も自立しろじゃないんだよ。種の保存のために子を宿す器の機能を持たせ、育児をする本能も持たせ、はい「男と同じように働け」は無理。→「男性が女性と同じだけ家事育児介護したら、おそらく女性は男性と同じだけ働けるのではないでしょうか。」</title><link>https://posfie.com/@_vO____Ov_/p/PtNbsxh</link><description>[score: 0.881] 女も自立しろじゃないんだよ。種の保存のために子を宿す器の機能を持たせ、育児をする本能も持たせ、はい「男と同じように働け」は無理。→「男性が女性と同じだけ家事育児介護したら、おそらく女性は男性と同じだけ働けるのではないでしょうか。」 「男と同じように働け」は無理、という投稿に、家事育児介護を同じだけ担えばという返信。離婚した場合の備えや非正規雇用、そもそも稼ぐのは「機能」か「役割」か、ひと言では片付きません。 Amazonのアソシエイトとして、土土土土は適格販売により収入を得ています。</description><guid isPermaLink="false">https://posfie.com/@_vO____Ov_/p/PtNbsxh</guid><pubDate>Thu, 19 Nov 2026 14:08:03 +0000</pubDate></item><item><title>ソフトウェアダークファクトリー | 技術評論社</title><link>https://gihyo.jp/book/2026/978-4-297-16073-9</link><description>[score: 0.882] ソフトウェアダークファクトリー
+──AIエージェント時代の設計・実装・運用ハーネス
+- 広木大地 著
+- 定価
+- 2,860円（本体2,600円＋税10%）
+- 発売日
+- 2026.12.17
+- 判型
+- A5
+- 頁数
+- 304ページ
+- ISBN
+- 978-4-297-16073-9
+サポート情報
+概要
+「ダークファクトリー」とは、人間を排除した無人工場ではありません。AIコーディングの普及に伴い増幅する「あいまいな仕様」「弱い権限設計」「薄いテスト」「壊れやすい運用」といったリスクに対し、人間の判断・業務知識・失敗の教訓をシステム構造に埋め込むことで、AIや複数チームが動いても</description><guid isPermaLink="false">https://gihyo.jp/book/2026/978-4-297-16073-9</guid><pubDate>Thu, 19 Nov 2026 13:46:20 +0000</pubDate></item><item><title>相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ</title><link>https://zenn.dev/kusuke/articles/98e178e6824cac</link><description>[score: 0.882] 相次ぐOSSの脆弱性に、とりあえずクラウドWAF入れるだけでだいぶ違う話+Rootlessコンテナもいいぞ
+昨日から今日にかけて、なんだかすごいことになっていますね。
+先日「PHP2Shell（CVE-2026-109618 / CVE-2026-109619）」というコアそのもののRCE（リモートコード実行）が出て大騒ぎになったと思ったら、JavaでもJavaのBase64デコーダ周りで「Java2Shell（CVE-2026-114938）」が出てきました。さらに今日（11月18日・米国時間）はnginxで10年前から潜んでいたHTTP/2のメモリ破壊バグ（CVE-2026-123007、</description><guid isPermaLink="false">https://zenn.dev/kusuke/articles/98e178e6824cac</guid><pubDate>Thu, 19 Nov 2026 03:19:42 +0000</pubDate></item><item><title>ロヒンギャ迫害はジェノサイドと認定 国際司法裁判所が判決</title><link>https://news.web.nhk/newsweb/na/nd-20261119de78716</link><description>[score: 0.883] ミャンマー国内の少数派、ロヒンギャの人たちに対する迫害をめぐって、国際司法裁判所は19日、ジェノサイド、集団殺害に当たるとしてミャンマー政府の責任を認める判決を言い渡しました。
+ミャンマー西部では2…
 注目ワード
 あわせて読みたい
-注目の米中首脳会談 米中ロの3か国首脳会談 きょう開催へ
-11月19日 4:46
-米中ロ首脳会談 ウクライナ外相「当事国抜きの決定は不可能」
-11月19日 4:47
-高市首相 プーチン大統領と意見交換 習主席とは握手
-11月19日 4:50
-日米首脳が短時間懇談 インド太平洋情勢で緊密連携確認
-11月18日 6:56
-米軍がイランのミサイル施設を攻撃 両者で攻撃の</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261119de78146</guid><pubDate>Thu, 19 Nov 2026 01:43:52 +0000</pubDate></item><item><title>MetabaseのSQLインジェクションの脆弱性（CVE-2026-72898）に関する注意喚起</title><link>https://www.jpcert.or.jp/at/2026/at260023.html</link><description>[score: 0.886] MetabaseのSQLインジェクションの脆弱性（CVE-2026-72898）に関する注意喚起 JPCERT-AT-2026-0023 JPCERT/CC 2026-08-14 I. 概要Metabaseは、2026年8月6日（日本時間）、同社製品であるMetabaseにSQLインジェクションの脆弱性が存在することを公表しました。本脆弱性にはCVE-2026-72898が採... yuiseki</description><guid isPermaLink="false">https://www.jpcert.or.jp/at/2026/at260023.html</guid><pubDate>Wed, 18 Nov 2026 23:22:09 +0000</pubDate></item><item><title>アメリカの従業員エンゲージメントが過去最低水準に…厳しい雇用市場が転職を阻む</title><link>https://www.businessinsider.jp/article/2611-workers-losing-passion-for-their-jobs-gallup-poll/</link><description>[score: 0.886] - ギャラップの調査結果によると、アメリカの従業員のエンゲージメントは2011年以降で最低の水準に落ち込んだ。
-- 新しい仕事を見つけるのが依然として困難なため、従業員の不満も高まっている。
-- 雇用市場が好転すれば、これまで蓄積されてきた不満が、再び大量退職の波を引き起こす可能性がある。
-多くの従業員が仕事に対して情熱を持てておらず、支援や明確な指針の不足が士気を低下させている。
-ギャラップ（Gallup）が成人を対象に実施した調査によると、「従業員が仕事や職場に積極的に関わり、意欲を持っている状態」と定義される従業員エンゲージメントが、2011年以降で最低の水準に落ち込んだ。エンゲージメン</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-workers-losing-passion-for-their-jobs-gallup-poll/</guid><pubDate>Wed, 18 Nov 2026 21:55:00 +0000</pubDate></item><item><title>米アンソロピック、ＩＰＯ価格83ドル 813億ドル調達で過去最大 - Reuters</title><link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOWlppX3NCN09iN1ItSmgxbmtqY3VfazhDVDJkREgtUkpUMFA0MllwenRTR19LdjRXVWYtYXVwX3l4WnZRcWVfT2lvbFVWam1TMmVLaEd5Yml6QlNFNk5QTnN5TGVweDFzTlZtZUpBOENjZTd6MHBGWHJHWU1id01MTkpCWmsxWWJQdEV1TG5YMHY?oc=5</link><description>[score: 0.886] 米アンソロピック、ＩＰＯ価格83ドル 813億ドル調達で過去最大 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxOWlppX3NCN09iN1ItSmgxbmtqY3VfazhDVDJkREgtUkpUMFA0MllwenRTR19LdjRXVWYtYXVwX3l4WnZRcWVfT2lvbFVWam1TMmVLaEd5Yml6QlNFNk5QTnN5TGVweDFzTlZtZUpBOENjZTd6MHBGWHJHWU1id01MTkpCWmsxWWJQdEV1TG5YMHY?oc=5</guid><pubDate>Wed, 18 Nov 2026 22:57:40 +0000</pubDate></item><item><title>「Gemini 4 Neon」公開　Carbonに次ぐ性能で他社最上位に迫る新モデル</title><link>https://www.watch.impress.co.jp/docs/news/2157702.html</link><description>[score: 0.887] ニュース
-「Gemini 4 Neon」公開 Carbonに次ぐ性能で他社最上位に迫る新モデル
-2026年11月19日 09:58
-Googleは18日(米国時間)、最新のAIモデル「Gemini 4 Neon」を提供開始した。複雑なソフトウェアエンジニアリング、ナレッジワーク、科学ワークフローにおいて、最先端レベルの知能と高速なエンドツーエンドのタスク完了を実現できるという。
-Gemini 4世代において、最上位モデルのCarbonに次ぐ中上位モデルとなる。高速動作で日常動作用のHydrogenとあわせて、Carbon、Neon、Hydrogenという序列となる。
-API価格は、入力トークン</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2157702.html</guid><pubDate>Thu, 19 Nov 2026 01:04:15 +0000</pubDate></item><item><title>イスラエル人入植者、72歳パレスチナ人女性を射殺　軍がパレスチナ人2人を拘束 - CNN.co.jp</title><link>https://www.cnn.co.jp/world/35255127.html</link><description>[score: 0.888] イスラエル入植者によって殺害されたファッダ・フハイダートさんの遺族が葬儀で遺体を運ぶ様子＝11月17日、ヨルダン川西岸地区エリコ/Jamal Awad/Reuters エルサレム（CNN） イスラエルの占領下にあるパレスチナ自治区ヨルダン川西岸で17日、72歳のパレスチナ人女性が自宅前でイスラエル人入植者に射殺された。パレスチナ当局や目撃者が明らかにした。 死亡したのはエリコ市近郊に住むファッダ・フハイダートさん。同地では2週間前、イスラエル人入植者らがパレスチナ人の住宅8棟を占拠していた。 フハイダートさんの孫ナガムさん（19）はCNNに対し、イスラエル人入植者らは同地の住民に対する嫌がらせ</description><guid isPermaLink="false">https://www.cnn.co.jp/world/35255127.html</guid><pubDate>Thu, 19 Nov 2026 02:06:27 +0000</pubDate></item><item><title>前橋 クマ2頭出没の住宅地 再び目撃情報 未発見の親グマか</title><link>https://news.web.nhk/newsweb/na/nd-20261119de78168</link><description>[score: 0.888] 警察によりますと19日午前8時すぎ、前橋市天川大島町で、通学中の男子高校生から「クマに追いかけられた」と通報があったということです。
-現場はJR両毛線の前橋大島駅から北西に1キロほどの住宅地で、今…
-あわせて読みたい
-前橋 住宅街に出没したクマ1頭見つからず 警戒続く
-11月18日 12:51
-群馬 前橋 住宅街にクマが出没 男性1人けが 子グマ1頭を捕獲
-11月17日 17:57
-歌手の太田裕美さん死去 71歳「木綿のハンカチーフ」大ヒット
-11月19日 0:38
-注目の米中首脳会談 米中ロの3か国首脳会談 きょう開催へ
-11月19日 4:46
-三菱UFJグループ漏えい相次ぐ 銀行は顧客情報</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261119de78168</guid><pubDate>Thu, 19 Nov 2026 01:43:52 +0000</pubDate></item><item><title>ChatGPTで毎月もらえる100ドル分以上のAPIクレジットを使い切ろう!</title><link>https://www.watch.impress.co.jp/docs/topic/2155622.html</link><description>[score: 0.889] トピック
-ChatGPTで毎月もらえる100ドル分以上のAPIクレジットを使い切ろう!
-2026年11月19日 08:20
-2026年10月末から、ChatGPTでは契約プランに応じて毎月「APIクレジット」が付与されるようになりました。個人向けのPro 100ドルプランで毎月100ドル分、同200ドルプランで200ドル分、同500ドルプランで500ドル分がもらえる、といった具合です。ビジネスプランでは20ドル分から、となっています。
-APIを呼び出すためのクレジットなので、いわゆる「サブスク枠」とは別。ChatGPTアプリのチャットやCodexをより多く使える、というものではありません。Ch</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/topic/2155622.html</guid><pubDate>Wed, 18 Nov 2026 23:24:19 +0000</pubDate></item><item><title>企業の情報漏えいは、どこから起きるのか【まとめ3選】</title><link>https://forbesjapan.com/articles/detail/108405?s=ns</link><description>[score: 0.889] 仕事用のノートパソコンの紛失。顧客データの誤送信。サーバーに仕掛けられた不正なプログラム。情報漏えいは、攻撃を受けたときだけに起きるわけではない。
-企業の情報は、どこから漏れるのか。Forbes JAPAN の記事から3本を紹介する。
-大企業の3割が経験し、15％は「わからない」
-帝国データバンクが全国1328社を調べたところ、情報漏えいを経験した企業は16.2％だった。大企業では3割にのぼる。もっと心配なのは、「わからない」と答えた企業が約15％あったことだ。「ない」と言い切れる企業は、どれだけあるのか。
-漏れる場所は、Webからクラウドへ
-リブランディング株式会社が、個人情報の漏えいを公表</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108405?s=ns</guid><pubDate>Thu, 19 Nov 2026 00:03:12 +0000</pubDate></item><item><title>セールスフォース、さらなる人員削減を開始…Slackチャンネルへの書き込みで判明</title><link>https://www.businessinsider.jp/article/2611-salesforce-layoffs-slack-2023/</link><description>[score: 0.889] - セールスフォースの社内メッセージによって、同社がさらなる人員削減を開始したことがわかった。
-- 今年、すでにセールスフォースは人員削減を行っている。今回の削減はそれに続くものだ。
-- セールスフォースの標準的な退職金制度の内容は、Business Insiderが入手した社内文書で明らかになっている。
-Business Insiderが確認したセールスフォース（Salesforce）の社内メッセージによると、同社はさらなる人員削減を開始した。
-削減の規模は明らかではない。社内のSlackチャンネルでは、今週実施されている人員削減について従業員らがやり取りしていた。複数の従業員が、最近解雇が</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-salesforce-layoffs-slack-2023/</guid><pubDate>Thu, 19 Nov 2026 01:54:34 +0000</pubDate></item><item><title>“暗黒の10月”に学ぶセキュリティの鉄則　「ウチは狙われない」はもう通用しない</title><link>https://monoist.itmedia.co.jp/mn/articles/2611/19/news009.html</link><description>[score: 0.889] 「モノづくりに携わる人」だからこそ、もはや無関心ではいられない情報セキュリティ対策。今回は、不正アクセス被害や重大な脆弱性への対応が相次いだ2026年10月を振り返り、政府などの注意喚起を手掛かりに、いま見直すべき基本対策について考えます。
-“暗黒の10月”ともいうべき状況が続き、未曾有の脅威がインターネットからやってきています。もはや不正アクセスやランサムウェアの被害報道は飽和状態となり、むしろまだ被害に遭っていない大企業を探す方が難しいと感じるほどです。2026年10月21日には、プログラミング言語「PHP」の重大な脆弱（ぜいじゃく）性への対応を巡り、PHPを利用するWebサイトが被害を未</description><guid isPermaLink="false">https://monoist.itmedia.co.jp/mn/articles/2611/19/news009.html</guid><pubDate>Wed, 18 Nov 2026 22:25:57 +0000</pubDate></item><item><title>アンソロピック、ＩＰＯで813億ドル調達 過去最大＝関係者 - Reuters</title><link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0EzZEpWRUxFQnFBWmFyUjFqTUdRUmhMS2YwTDhyb1RGeXE3VEstRnBxVEtfQmdGbUFzS2JKUzZhNHVWZWNmZ3JwYlBtUXl1cU9kWS04NzhfSXJiRFlKREU1U2ZvX1FwOVNTSnRFUjhYT3RhbTRIYmZLbE1wek1mYzVMX3ZZb0p1UDFZWHRVaV8?oc=5</link><description>[score: 0.890] アンソロピック、ＩＰＯで813億ドル調達 過去最大＝関係者 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxQT0EzZEpWRUxFQnFBWmFyUjFqTUdRUmhMS2YwTDhyb1RGeXE3VEstRnBxVEtfQmdGbUFzS2JKUzZhNHVWZWNmZ3JwYlBtUXl1cU9kWS04NzhfSXJiRFlKREU1U2ZvX1FwOVNTSnRFUjhYT3RhbTRIYmZLbE1wek1mYzVMX3ZZb0p1UDFZWHRVaV8?oc=5</guid><pubDate>Thu, 19 Nov 2026 00:01:18 +0000</pubDate></item><item><title>AIがもたらす最大のリスクは、人間がそれをどう使うかにある</title><link>https://forbesjapan.com/articles/detail/108516?s=ns</link><description>[score: 0.891] AIエージェントが独自に行動し、人間に被害を及ぼす可能性があるのではないか、場合によっては致命的な被害さえもたらすのではないか。テック業界の専門家が表明したそうした懸念をめぐる激しい議論は、ひとまず沈静化した。だが、Microsoft創業者のビル・ゲイツが記事やインタビューで繰り返し指摘しているように、より差し迫ったリスクは、政府から悪意ある個人に至るまで、人間がAIをどう使うかにある。ゲイツはこう記している。「ごく限られた技能しか持たない犯罪者であっても、個人、企業、政府というあらゆる規模で被害者を標的にできるようになる」
-ゲイツは、AIによって個人や集団が「爆弾、生物兵器、さらにはコンピュ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108516?s=ns</guid><pubDate>Thu, 19 Nov 2026 01:04:16 +0000</pubDate></item><item><title>【超速報】NGINX、お前もか。HTTP/2に認証不要のRCE脆弱性「NGINX2Shell」（CVE-2026-123007／123633）パッチは公開済み。PHP2Shellほどではないが更新を。Apache好きの私は高みの見物......のはずだった：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ</title><link>https://blogs.itmedia.co.jp/agile/2026/11/nginx_http2_rce_cve_2026_123007_nginx2shell_20261119.html</link><description>[score: 0.893] 【超速報】NGINX、お前もか。HTTP/2に認証不要のRCE脆弱性「NGINX2Shell」（CVE-2026-123007／123633）パッチは公開済み。PHP2Shellほどではないが更新を。Apache好きの私は高みの見物......のはずだった：秋山大志のそれとりあえず作ってみようか。：オルタナティブ・ブログ 【超速報】NGINX、お前もか。HTTP/2に認証不要のRCE脆弱性「NGINX2Shell」（CVE-2026-123007／123633）パッチは公開済み。PHP2Shellほどではないが更新を。Apache好きの私は高みの見物......のはずだった 【追記】11月19</description><guid isPermaLink="false">https://blogs.itmedia.co.jp/agile/2026/11/nginx_http2_rce_cve_2026_123007_nginx2shell_20261119.html</guid><pubDate>Thu, 19 Nov 2026 00:16:50 +0000</pubDate></item><item><title>アンソロピックＩＰＯ、上場後の値動きに警戒感 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQd2JkZFd0Ulo4YUNUeVJDNzFhUEM3QlVDc2thaWEzNkU2RllPdmJzbG9FMWxmbU1DTHAtRS1QWTRtbzFRMG9aRHhIZjJuWFVGQnFDSDlMQmd5X29SZ1gxTkhKMzJwTnhTaHR4b2dQQWxYUWEwSUpyWHZvTXJJQmI3NlZxR3JFUQ?oc=5</link><description>[score: 0.893] アンソロピックＩＰＯ、上場後の値動きに警戒感 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQd2JkZFd0Ulo4YUNUeVJDNzFhUEM3QlVDc2thaWEzNkU2RllPdmJzbG9FMWxmbU1DTHAtRS1QWTRtbzFRMG9aRHhIZjJuWFVGQnFDSDlMQmd5X29SZ1gxTkhKMzJwTnhTaHR4b2dQQWxYUWEwSUpyWHZvTXJJQmI3NlZxR3JFUQ?oc=5</guid><pubDate>Thu, 19 Nov 2026 01:59:01 +0000</pubDate></item><item><title>Google、AIエージェント機能「Tasks in Gemini」を日本を含む6カ国で無料提供　旧「Gemini Spark」</title><link>https://www.itmedia.co.jp/news/article/2611/19/2000003319/</link><description>[score: 0.899] Google、AIエージェント機能「Tasks in Gemini」を日本を含む6カ国で無料提供 旧「Gemini Spark」
-米Googleは11月17日（現地時間）、Geminiアプリのエージェント機能「Tasks in Gemini」（以下、Task）を、米国、日本、韓国、カナダ、オーストラリア、インドの6カ国で無料で提供すると発表した。
-これまでは有料プラン「Google AI Pro」と「Google AI Ultra」向けだった。AI ProとAI Ultraでは、18日発表の新モデル「Gemini 4 Neon」で動作し、無料プランでは「Gemini 4 Hydrogen」で動</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/19/2000003319/</guid><pubDate>Thu, 19 Nov 2026 01:24:25 +0000</pubDate></item><item><title>アンソロピックIPO、公開価格が1株83ドルに決定──調達額はスペースXの約11.9兆円を上回る可能性</title><link>https://forbesjapan.com/articles/detail/108504?s=ns</link><description>[score: 0.903] ※注：米国版記事はライブアップデート版として随時更新・編集を行うため、日本語版と内容が異なる可能性がある
-アンソロピック（Anthropic）のIPO（新規株式公開）は、1株83ドルの公開価格で実施される見通しだ。米国の株式市場で過去最大級のIPOとなり、AI（人工知能）関連株の値動きが不安定な状況でも、投資家のAI分野への関心が続いていることを示す。
-仮条件を超える公開価格、私募を含め約15兆円規模の調達も視野
-複数のメディアが関係者の話として、アンソロピックが公開価格を1株83ドルに決めたと報じた。IPOで売却する株式の総額は680億ドル（約10兆8120億円）以上となる見通しだ。260億</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108504?s=ns</guid><pubDate>Thu, 19 Nov 2026 00:03:12 +0000</pubDate></item><item><title>楽天証券、投信の他社移管を当面無料に--大規模情報漏えい公表に関連か</title><link>https://japan.cnet.com/article/35255102/</link><description>[score: 0.904] 楽天証券は11月18日、顧客が保有する投資信託を他の金融機関に移す際の手数料を、当面の間、無料にすると発表した。従来は1銘柄あたり3300円（税込）を徴収していた。18日以降に「投信口座振替依頼書」が楽天証券に届いた分から適用する。
-楽天証券の手続き案内によると、移管するには、希望する投資信託を受け入れられるか移管先の金融機関に確認したうえで、依頼書を楽天証券に郵送する必要がある。書類の到着から手続きの完了までは通常約2週間、長い場合は1カ月かかる。この間、対象の投資信託は売買できず、積立注文も受け付けられない。
-NISA口座で保有する投資信託は、そのまま他社へ移管できない。事前に楽天証券の課</description><guid isPermaLink="false">https://japan.cnet.com/article/35255102/</guid><pubDate>Wed, 18 Nov 2026 21:45:39 +0000</pubDate></item><item><title>グーグルとサムスンの「Android XR」スマートグラス、ついに登場｜試着レビュー</title><link>https://wired.jp/article/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/</link><description>[score: 0.908] グーグルとサムスンの次なる“フェイスコンピューター”が登場した。両社が、このハードウェアを動かすプラットフォーム「Android XR」を初めて発表してから2年近くを経て、スマートグラスがついに発売されるのだ［編注：米国で12月から、日本での発売は未定］。
-「Intelligent Eyewear」は、サムスンがハードウェアの専門知識を、グーグルがソフトウェアプラットフォームの大部分を担う、両社の共同プロジェクトだ。スマートグラスは、Android XRの一部にすぎない。2025年に発売された「Samsung Galaxy XR」や、近く登場する「Xreal Aura」のように、より没入感のあ</description><guid isPermaLink="false">https://wired.jp/article/google-samsung-intelligent-eyewear-launch-warby-parker-gentle-monster-smart-glasses/</guid><pubDate>Wed, 18 Nov 2026 22:50:51 +0000</pubDate></item><item><title>PHPが2026年11月19日に緊急セキュリティリリースを予定――CVE-2026-115560を含む重大な脆弱性に対応</title><link>https://aikido-community.jp/blog/php-security-release-19-november-2026-cve-2026-115560</link><description>[score: 0.910] PHPが2026年11月19日に緊急セキュリティリリースを予定――CVE-2026-115560を含む重大な脆弱性に対応 PHPが2026年11月19日に緊急セキュリティリリースを予定――CVE-2026-115560を含む重大な脆弱性に対応PHP schedules a critical security release for 19 November, including CVE-2026-115560 この記事のポイント【なぜ重要か】 PHPセキュリティチームは2026年11月19日 14:00〜14:30 UTC に、サポート中の全バージョン向け...</description><guid isPermaLink="false">https://aikido-community.jp/blog/php-security-release-19-november-2026-cve-2026-115560</guid><pubDate>Thu, 19 Nov 2026 00:56:18 +0000</pubDate></item><item><title>OpenAIが新AIモデルとして専門業務用「GPT-6.2 Astra」と日常業務向け「GPT-6.2 Sol」を提供開始</title><link>https://webtan.impress.co.jp/n/2026/11/19/53630</link><description>[score: 0.910] OpenAIが新AIモデルとして専門業務用「GPT-6.2 Astra」と日常業務向け「GPT-6.2 Sol」を提供開始 難しいタスクで前モデルと比べて少ない出力トークンで良い結果、利用枠内で処理できる仕事が増加 yamakawa 2026年11月19日 シェア ポスト はてブ Bluesky 優先するニュース提供元に追加 AI開発の米国OpenAIは、新たなAIモデル「GPT-6.2 Astra」と「GPT-6.2 Sol」の提供を11月17日に始めた、と同日発表した。6.2 Astraは難しいプロジェクトを行う専門業務用、6.2 Solは日常業務向けの汎用(はんよう)性の高いモデルとなる</description><guid isPermaLink="false">https://webtan.impress.co.jp/n/2026/11/19/53630</guid><pubDate>Wed, 18 Nov 2026 22:51:36 +0000</pubDate></item><item><title>ジェンスン・フアンの辞任が、アンソロピックのIPOに与える影響…資金調達、チップ契約、AI規制の行方を専門家が分析</title><link>https://www.businessinsider.jp/article/2611-anthropic-ipo-jensen-huang-resignation-impact/</link><description>[score: 0.911] - アンソロピックの新規株式公開（IPO）は、今シーズン最大のテックニュースになるはずだった。そこに、突如としてジェンスン・フアン氏のスキャンダルが巻き起こった。
-- エヌビディアCEOの辞任は、AI業界全体に新たな疑問を投げかけている、とアナリストらは指摘する。
-- アンソロピックのダリオ・アモデイCEOは、輸出規制をめぐってフアン氏と対立してきた。
-エヌビディア（Nvidia）のスキャンダルが、この半導体大手と長年のパートナー関係にあるアンソロピック（Anthropic）の新規株式公開（IPO）計画に、新たな波乱要因をもたらしている。
-11月12日、ジェンスン・フアン（Jensen Hua</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-anthropic-ipo-jensen-huang-resignation-impact/</guid><pubDate>Thu, 19 Nov 2026 01:54:34 +0000</pubDate></item></channel></rss>
+史上初 米中ロ首脳会談で「平和宣言」 核リスク低減へ対話を
+11月19日 21:32
+【動画】米中首脳会談 貿易やAIなど意見を交わしたか
+11月19日 19:07
+中国 高市首相 出迎え「国際慣例に基づく適切な儀礼上の手配」
+11月19日 18:29
+JT ロシア現地法人“実質的経営権喪失”約1兆3770億円の損失へ
+11月19日 23:39
+米AI開発「アンソロ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261119de78716</guid><pubDate>Thu, 19 Nov 2026 13:29:20 +0000</pubDate></item><item><title>「Ruby」に7件の脆弱性、修正版への更新を強く推奨。リモートコード実行の実証コードが存在／最高深刻度「Critical」。v4.0.10、v3.4.13、v3.3.14が公開</title><link>https://forest.watch.impress.co.jp/docs/news/2157700.html</link><description>[score: 0.884] ニュース
+「Ruby」に7件の脆弱性、修正版への更新を強く推奨。リモートコード実行の実証コードが存在
+最高深刻度「Critical」。v4.0.10、v3.4.13、v3.3.14が公開
+2026年11月19日 13:05
+スクリプト言語「Ruby」の開発チームは11月18日（現地時間）、「Ruby」の正規表現エンジンと、文字列の大文字・小文字変換に、7件の脆弱性が見つかったことを明らかにした。一部についてはリモートコード実行（RCE）を引き起こせることを示す実証コード（PoC）の存在も確認されているとのことで、修正版へのアップデートが強く推奨されている。
+今回のアップデートで修正された脆弱性</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2157700.html</guid><pubDate>Thu, 19 Nov 2026 12:06:41 +0000</pubDate></item><item><title>IPOの裏でアンソロピックは天然ガスに依存…年収40万ドルで調達責任者を募集</title><link>https://www.businessinsider.jp/article/2611-anthropic-hires-gas-supply-lead-ai-plans-accelerate-ipo/</link><description>[score: 0.885] - 新規株式公開（IPO）を控えたアンソロピックは、データセンターの建設計画を進めている。
+- 同社は、パイプラインを通じてデータセンターに天然ガスを供給する担当者の募集を新たに開始した。
+- 天然ガスは温室効果ガスを排出するものの、急速に拡大するAIインフラの整備に欠かせないエネルギー源となっている。
+アンソロピック（Anthropic）が、天然ガスの大量消費を伴う事業にさらに力を入れている。
+アンソロピックは2026年11月上旬、自社のデータセンターに天然ガスを供給する「ガス調達・輸送責任者」を初めて募集する求人情報を掲載した。同社は新規株式公開（IPO）を控えており、調達した資金をAIの</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-anthropic-hires-gas-supply-lead-ai-plans-accelerate-ipo/</guid><pubDate>Thu, 19 Nov 2026 08:58:09 +0000</pubDate></item><item><title>私はAI銘柄には弱気だが、急落したエヌビディア株は買う――。ベテランのヘッジファンド投資家の見解</title><link>https://www.businessinsider.jp/article/2611-nvidia-stock-investor-outlook-jensen-huang-resigns-scandal/</link><description>[score: 0.885] - ダン・ナイルズは、先週の株価急落にもかかわらず、エヌビディアへのロングポジションを後悔していない理由を説明した。
+- ファンドマネージャーの同氏は、ジェンスン・フアン氏が辞任した11月12日に、エヌビディア株を保有し始めた。
+- ナイルズは、この投資はネオクラウド企業やその他のAI銘柄に対する、大規模な売り戦略の一部だと述べた。
+この本人談の記事は、長年ヘッジファンドを運用し、ナイルズ・インベストメント・マネジメント（Niles Investment Management）を創設したダン・ナイルズとの会話をもとにしている。同氏は、ジェンスン・フアン氏がCEOを辞任した11月12日にエヌビデ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-nvidia-stock-investor-outlook-jensen-huang-resigns-scandal/</guid><pubDate>Thu, 19 Nov 2026 08:58:09 +0000</pubDate></item><item><title>グーグル、Geminiに作業を任せる「タスク」を日本など6カ国で無料提供　旧「Spark」を改称</title><link>https://japan.cnet.com/article/35255128/</link><description>[score: 0.887] グーグル、Geminiに作業を任せる「タスク」を日本など6カ国で無料提供 旧「Spark」を改称 5月からベータ版として試験提供してきた「Gemini Spark」を改称し、有料のGoogle AIサブスクリプションを契約していない利用者にも対象を広げる。基盤モデルには「Gemini 4 Hydrogen」を採用した。 Geminiの入力欄にある「Chat」と「Task」の切り替えで、指示の種類を選ぶ。タスクには、例えばメールを検索して要点をま...</description><guid isPermaLink="false">https://japan.cnet.com/article/35255128/</guid><pubDate>Thu, 19 Nov 2026 14:46:40 +0000</pubDate></item><item><title>「子が私の暗殺方法、AIに相談してた」反抗期の小学生の子どもの行動に心身疲れてしまった母親がXに投稿「将来に少しでも道筋をつけてあげられたらって。毒親なのかねえ」</title><link>https://togetter.com/li/2772442</link><description>[score: 0.887] 「子が私の暗殺方法、AIに相談してた」反抗期の小学生の子どもの行動に心身疲れてしまった母親がXに投稿「将来に少しでも道筋をつけてあげられたらって。毒親なのかねえ」 おっきぃ @okkie0711 ちょっとメンタル折れたかも。子が私の暗殺方法ＡＩに相談してた。 そっかー。 いなくなってもいいんだ。 知らないよマジで。 鬱で休職中の父親と不登校の自分をどうにかできるんなら暗殺でもなんでもすればいいさ。 教育虐待どころか遅れているのを少しぐらいやったらってレベルだし、家の手伝いす...</description><guid isPermaLink="false">https://togetter.com/li/2772442</guid><pubDate>Thu, 19 Nov 2026 14:15:50 +0000</pubDate></item><item><title>NVIDIAがジェンスン・フアンの不倫相手が幹部を務めるシンガポール企業との取引を停止したのち急成長を続けていたシンガポール事業の売上高を公表しなくなる</title><link>https://gigazine.net/news/20261119-nvidia-stop-disclosing-singapore-sales/</link><description>[score: 0.891] NVIDIAがジェンスン・フアンの不倫相手が幹部を務めるシンガポール企業との取引を停止したのち急成長を続けていたシンガポール事業の売上高を公表しなくなる
+半導体大手のNVIDIAが、シンガポール事業の売上高を公表しなくなりました。これについて、経済メディアのFinancial Timesやウォール・ストリート・ジャーナルが報じています。
+Nvidia’s Disappearing Singapore Sales Deepen Mystery Around Megaspeed - WSJ
+https://www.wsj.com/business/earnings/nvidias-disappea</description><guid isPermaLink="false">https://gigazine.net/news/20261119-nvidia-stop-disclosing-singapore-sales/</guid><pubDate>Thu, 19 Nov 2026 13:07:41 +0000</pubDate></item><item><title>NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構</title><link>https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html</link><description>[score: 0.893] NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） | 情報セキュリティ | IPA 独立行政法人 情報処理推進機構 トップページ 情報セキュリティ 重要なセキュリティ情報 2026年度 NGINXの複数の脆弱性対策について（CVE-2026-123007、CVE-2026-123633等） 注釈：追記すべき情報がある場合には、その都度このページを更新する予定です。 概要 F5社が提供するNGINX Open SourceおよびNGINX Plusについて、2026年11月18日に複数の脆弱性...</description><guid isPermaLink="false">https://www.ipa.go.jp/security/security-alert/2026/alert20261119.html</guid><pubDate>Thu, 19 Nov 2026 10:34:02 +0000</pubDate></item><item><title>コラム：エヌビディア離れ、フアン氏辞任前から進行 好業績でもＡＩ投資巡る懸念消えず - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE9PZHg3UVlraHVJd3dnbWF5aFdXYUVtNThTY1dVQlZuQWM3NE1lNkJDU3BrOC0wZTY1aGhTbnZ6V3dDOGF6WjZoX1hxQkwxTFN3bDUxQ1hxNHozRE9MQmx0YThBc09OYzNzb1V6TTlSX0VsVDFvS19JVUFSclRTUQ?oc=5</link><description>[score: 0.894] コラム：エヌビディア離れ、フアン氏辞任前から進行 好業績でもＡＩ投資巡る懸念消えず Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE9PZHg3UVlraHVJd3dnbWF5aFdXYUVtNThTY1dVQlZuQWM3NE1lNkJDU3BrOC0wZTY1aGhTbnZ6V3dDOGF6WjZoX1hxQkwxTFN3bDUxQ1hxNHozRE9MQmx0YThBc09OYzNzb1V6TTlSX0VsVDFvS19JVUFSclRTUQ?oc=5</guid><pubDate>Thu, 19 Nov 2026 09:23:29 +0000</pubDate></item><item><title>AEの式もWGSLシェーダーも動く動画編集ソフトを作っていたら、Claude Codeを旧モデルに戻すことになっていた件</title><link>https://zenn.dev/oshikaidesu/articles/8bce9bc005b3e7</link><description>[score: 0.895] 最近、Claude CodeのモデルをOpus 5.5からOpus 4.6に戻しました。 普通に考えれば新しいモデルの方が性能は高いはずですが、実際に開発していると、どうも4.6の方が使いやすい。🤔 5.5に大きな不満があったわけではありません。むしろコードを書く能力は高く、複雑な問題にも粘り強く取り組んでくれます。 ただ、4.6に戻してみると、こちらの意図を細かく説明しなくても伝わることが多く、結果的に手戻りが減りました。 最新モデルの方が優秀なはずなのに、なぜか一つ前のモデルの方が開発が捗る。そんな最近の雑感です。🍺 ! この記事はモデルの性能を客観的に比較したものではなく、個人開発...</description><guid isPermaLink="false">https://zenn.dev/oshikaidesu/articles/8bce9bc005b3e7</guid><pubDate>Thu, 19 Nov 2026 13:19:34 +0000</pubDate></item></channel></rss>
