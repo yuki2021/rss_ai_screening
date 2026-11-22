@@ -1,126 +1,115 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 22 Nov 2026 13:48:45 +0000</lastBuildDate><item><title>Next.jsのストリーミングはLambda Web Functionsで動くか</title><link>https://zenn.dev/ryota_09/articles/nextjs-suspense-streaming-lambda-web-functions</link><description>[score: 0.866] ! この記事はAIとの共著です。 こんにちは！@Ryo54388667です！☺️ 普段は都内でエンジニアとして業務をしてます！主にTypeScriptやNext.jsといった技術を触っています。 Lambda Web Functions が出たとき、最初に気になったのは「Next.js の Suspense ストリーミングで、ちゃんと段階表示されるのか」でした。以前 Lambda Web Adapter で試したときは、うまくいかなかったからです。今回は Vercel と並べて実測してみました！ 結論から書くと、Web Functions では追加の設定なしでストリーミングが動き、挙動...</description><guid isPermaLink="false">https://zenn.dev/ryota_09/articles/nextjs-suspense-streaming-lambda-web-functions</guid><pubDate>Sun, 22 Nov 2026 10:29:31 +0000</pubDate></item><item><title>「ICCの独立性守れ」米の制裁に国際社会から非難が噴出　イスラエル首相は称賛</title><link>https://www.sankei.com/article/20260820-O4N4KTPKYFIMLO25LHRHZYXIBU/</link><description>[score: 0.866] 米国が国際刑事裁判所（ICC）の赤根智子所長に対する制裁を発表したことを巡り、国際社会で懸念や非難の声が相次いでいる。一方で、パレスチナ自治区ガザ攻撃を巡りICCから逮捕状が出ているイスラエルのネタニヤフ首相は米国の措置を称賛した。
-国連のグテレス事務総長は米国の制裁措置に対し、「深刻な懸念」を表明した。ドゥジャリク事務総長報道官が19日の会見で明らかにした。欧州連合（EU）のフォンデアライエン欧州委員長も同日、X（旧ツイッター）で赤根氏を支持する声明を発表し、ICCの職務遂行のためには「外圧に左右されることなく、独立して行動できることが不可欠」と投稿した。
-欧州各国は19日にそれぞれ声明を出</description><guid isPermaLink="false">https://www.sankei.com/article/20260820-O4N4KTPKYFIMLO25LHRHZYXIBU/</guid><pubDate>Sun, 22 Nov 2026 02:30:41 +0000</pubDate></item><item><title>https://yutura.net/news/archives/169535</title><link>https://yutura.net/news/archives/169535</link><description>[score: 0.867] https://yutura.net/news/archives/169535 yuiseki</description><guid isPermaLink="false">https://yutura.net/news/archives/169535</guid><pubDate>Sun, 22 Nov 2026 11:59:15 +0000</pubDate></item><item><title>AIが世界を変えてもAI企業が儲かるとは限らない、その理由とは？</title><link>https://gigazine.net/news/20261122-ai-will-not-make-you-rich/</link><description>[score: 0.867] 生成AIの急速な進化を背景に、AIモデルの開発やデータセンターの建設などに巨額の資金が投じられています。しかし、AIが今後の経済成長をけん引するという期待が高まる一方で、AIを開発する企業や投資家が必ずしも大きな利益を得られるとは限りません。元ベンチャーキャピタリストのジェリー・ニューマン氏がPCの普及や海上輸送のコンテナ化といった過去の技術革新を振り返りながら、AIによって生み出される利益が最終的に誰の手に渡るのかを分析しました。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20261122-ai-will-not-make-you-rich/</guid><pubDate>Sun, 22 Nov 2026 06:05:26 +0000</pubDate></item><item><title>AIで開発を速くするだけでは、会社の生産性は上がらない？</title><link>https://qiita.com/kskwtnk/items/99eccfba0ae76ce6f87a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.868] 概要
-AIによって開発速度やアウトプット量は明らかに増えました。
-しかし「開発現場での改善と会社全体での生産性との間には隔たりがある」と示唆する研究や調査があります。
-私自身はAI推進室という部署で会社全体でのAI活用を推進するとともに、最終的な売上・利益の向上を考える立場です。
-その立場で仕事をする中で、AIをもとに事業の成果を生み出すには「開発セクションに閉じずに会社全体の仕事の流れを重視しないといけない」という考えを持つようになりました。
-この記事では、その考えに至った背景と、現状私が重視した方が良いと思っていることについて記載しています。
-対象読者
-- AIによる開発の高速化や生産性向</description><guid isPermaLink="false">https://qiita.com/kskwtnk/items/99eccfba0ae76ce6f87a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 22 Nov 2026 08:29:39 +0000</pubDate></item><item><title>熊本地震で被災の小学生 陸上の全国大会で堂々の走り</title><link>https://news.web.nhk/newsweb/na/nd-20261122de80058</link><description>[score: 0.868] 陸上の小学生の全国大会が都内で行われ、ことし7月の熊本地震で被災した子どもたちも、はつらつとした走りを見せました。
-ことし7月の熊本地震で震度6強を観測した八代市の陸上クラブで活動する小学6年生の…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 22 Nov 2026 21:07:30 +0000</lastBuildDate><item><title>就活で30社不採用、面接で「精神的に病んでるんじゃないか」と…顔面ピアス20個、両乳首にも開けた“緑髪ギャル”（23）が語る、見た目への“偏見” | 文春オンライン</title><link>https://bunshun.jp/articles/-/93674</link><description>[score: 0.858] 就活で30社不採用、面接で「精神的に病んでるんじゃないか」と…顔面ピアス20個、両乳首にも開けた“緑髪ギャル”（23）が語る、見た目への“偏見” | 文春オンライン ◆◆◆ 顔周りにピアス20個「見た目が強くなってかっこいい」 ――実際にピアスをしてみて「いいな」と思ったのはどんなところですか。 すしくわせろ碧さん（以降、碧） ピアスの何がいいって言われると難しいんですけど、私は唇と鼻の間の「人中」が長いのがコンプレックスだったので、鼻にピアスをするとごまかせるじゃな...</description><guid isPermaLink="false">https://bunshun.jp/articles/-/93674</guid><pubDate>Sun, 22 Nov 2026 16:13:00 +0000</pubDate></item><item><title>ワークフローからハーネスへ — Web フレームワークの作者たちが AI エージェントに向かう理由</title><link>https://speakerdeck.com/azukiazusa1/slide-ca142a4a-9ec4-4750-91c1-07892c44a423</link><description>[score: 0.858] ワークフローからハーネスへ — Web フレームワークの作者たちが AI エージェントに向かう理由
+Gatsby、Next.js、Astro といった著名な Web フレームワークの作者・開発元が、相次いで AI エージェントフレームワークを発表しています。なぜ Web フレームワークを作ってきた人たちが、いまエージェントに向かうのでしょうか？
+azukiazusa
+November 21, 2026
+Gatsby、Next.js、Astro といった著名な Web フレームワークの作者・開発元が、相次いで AI エージェントフレームワークを発表しています。なぜ Web フレームワークを作って</description><guid isPermaLink="false">https://speakerdeck.com/azukiazusa1/slide-ca142a4a-9ec4-4750-91c1-07892c44a423</guid><pubDate>Sun, 22 Nov 2026 15:44:14 +0000</pubDate></item><item><title>なんでみんなそんなにセルフレジに戸惑うんだ？ UIや導線が統一されてない..</title><link>https://anond.hatelabo.jp/20261122011458</link><description>[score: 0.859] セルフレジに困るタイプの人たちは増田が挙げてる例全部に困ると思う その上でセルフレジは生活してて色んな種類のやつにぶち当たる確率が高いのと、ぶち当たった時に使い方を調べ...
+スマホもキャッシュレスもセルフレジも行政の謎アプリも乗り換えたが初めて行く土地のバスだけは本気で分からん
+見た目と動きともっさり感が業務用ターミナルすぎる気はする ユニクロみたいにタッチパネル部分だけiPadにしてほしい
+👴こっちはカネはらってんのになんでやさしくしてくれないんだ！！
+いつか新しいシステムに対応出来なくなる日が来るんだろうなと思ってる
+せっかく気持ちよく金払ってるのにアホみたいなUIで10回近くポチポチさ</description><guid isPermaLink="false">https://anond.hatelabo.jp/20261122011458</guid><pubDate>Sun, 22 Nov 2026 15:05:59 +0000</pubDate></item><item><title>【魚拓】裁判傍聴マニアだが闇バ〇ト事件が限界突破しすぎていてどんだけヤバイか書く</title><link>https://megalodon.jp/2026-1122-1435-47/https://anond.hatelabo.jp:443/20261122095858</link><description>[score: 0.859] 【魚拓】裁判傍聴マニアだが闇バ〇ト事件が限界突破しすぎていてどんだけヤバイか書く 取得日時: 2026年11月22日 14:35 取得元URL: https://anond.hatelabo.jp:443/20261122095858 ビュー数: 5722 魚拓のみの表示 SHA-256 : 53f7c14a46b394af7cc0db6ec8f1f58bd063976096a0247dc46d6c766ee782bb</description><guid isPermaLink="false">https://megalodon.jp/2026-1122-1435-47/https://anond.hatelabo.jp:443/20261122095858</guid><pubDate>Sun, 22 Nov 2026 15:42:46 +0000</pubDate></item><item><title>「委託したとこ全部漏洩してんじゃんよ💢」プレイド『KARTE』の不正アクセスで、ZOZOTOWNや三菱UFJ銀行など影響を受けた企業が次々判明…不安や警戒の声が広がる</title><link>https://togetter.com/li/2773732</link><description>[score: 0.859] 「委託したとこ全部漏洩してんじゃんよ💢」プレイド『KARTE』の不正アクセスで、ZOZOTOWNや三菱UFJ銀行など影響を受けた企業が次々判明…不安や警戒の声が広がる 多情仏心 @jiangminjp プレイド「KARTE」の情報漏洩2200社 サービス停止で20億円の赤字へ - 日本経済新聞 nikkei.com/article/DGXZQO… 不正アクセスによる個人情報を含む可能性のある情報等の漏えいに関するお詫びとお知らせ plaid.co.jp/news/20261116/ 2026-11-21 07:41:58</description><guid isPermaLink="false">https://togetter.com/li/2773732</guid><pubDate>Sun, 22 Nov 2026 15:44:14 +0000</pubDate></item><item><title>冬の大学に水筒で「アツアツの出汁」を持参、卒論やレポートの合間に飲むとメンタルに効いた話に「だしってなんかホッとする」</title><link>https://togetter.com/li/2773773</link><description>[score: 0.860] 大学生の頃、冬になったら水筒にアツアツの出汁を入れて持っていってたんだけど、おすすめです 自習室で必死こいて卒論とかレポートを進めながら飲む出汁って、相当メンタルに効きますよ
+2026-11-22 13:41:21限界の時の出汁ってすごい
+私も激務の仕事で自律神経やられてた時にコーヒーも飲めずだったのでかわりに出汁飲んだら少し楽になった…出汁ってすごいって思った☕ x.com/1o_nab/status/…
+2026-11-22 17:00:02限界の時のだし汁ほんとに安心する 遺伝子に組み込まれてるのかもしれない x.com/1o_nab/status/…
+2026-11-22 17:26:</description><guid isPermaLink="false">https://togetter.com/li/2773773</guid><pubDate>Sun, 22 Nov 2026 20:02:23 +0000</pubDate></item><item><title>GoogleやAppleなどのアカウント乗っ取りでPayPay不正利用の事例　サポートが注意喚起</title><link>https://www.itmedia.co.jp/mobile/articles/2611/20/news069.html</link><description>[score: 0.861] GoogleやAppleなどのアカウント乗っ取りでPayPay不正利用の事例 サポートが注意喚起 PayPay公式サポートが、Xにて外部連携先の乗っ取りによる不正利用被害について、注意喚起している。 同社によると、Google、Apple、Yahoo!JAPANなどのアカウントが乗っ取られたことで、これらアカウントで登録し... yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://www.itmedia.co.jp/mobile/articles/2611/20/news069.html</guid><pubDate>Sun, 22 Nov 2026 20:38:55 +0000</pubDate></item><item><title>https://alpo.ge/remark.pdf?utm_source=chatgpt.com</title><link>https://alpo.ge/remark.pdf?utm_source=chatgpt.com</link><description>[score: 0.861] https://alpo.ge/remark.pdf?utm_source=chatgpt.com yuiseki</description><guid isPermaLink="false">https://alpo.ge/remark.pdf?utm_source=chatgpt.com</guid><pubDate>Sun, 22 Nov 2026 20:38:55 +0000</pubDate></item><item><title>COP31成果文書採択断念 化石燃料からの脱却言及なしに反発の声</title><link>https://news.web.nhk/newsweb/na/nd-20261122de79933</link><description>[score: 0.862] トルコで開かれた気候変動対策を話し合う国連の会議「COP31」は、会期を延長して行われましたが、会議全体を総括する成果文書を採択できずに閉幕しました。 文書案に化石燃料からの脱却などについて言及がなか…
 あわせて読みたい
-大相撲九州場所 大の里 7回目の優勝 若元春との優勝決定戦制す
-11月22日 20:10
-平年を上回る積雪 23日は晴れも 連休後に再び荒天の見込み
-11月22日 18:34
-クマは地下水路に? 内部調査も姿は確認できず 警戒続く前橋
-11月22日 20:45
-福島 国道459号の通行止め解除 北塩原村の孤立状態ほぼ解消
-11月22日 18:57
-木原官房長官“関文科相の説明重要</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261122de80058</guid><pubDate>Sun, 22 Nov 2026 12:23:43 +0000</pubDate></item><item><title>MetaのAIエージェント「Muse」は何ができる？　ChatGPTやGeminiとの違い、注意点を解説</title><link>https://www.itmedia.co.jp/mobile/articles/2611/22/news005.html</link><description>[score: 0.868] Metaは10月23日、パーソナルAIエージェント「Muse（ミューズ）」の日本での提供を開始しました。9月に先行した北米以外では、日本が最初の提供地域です。iOSアプリ、Androidアプリ、Webサイト（muse.ai）から利用でき、基本的な機能の多くは無料で使えます。
-とはいえ、AIサービスは既に数多くあります。「Museという名前は見かけるけれど、他のサービスと何が違うのか分からない」という人も多いのではないでしょうか。そこでこの記事では、Museで何ができるのか、他のAIサービスと何が違うのかを中心に、料金や使う前に確認しておきたい点をまとめました。
-Museは、利用者の代わりに作業</description><guid isPermaLink="false">https://www.itmedia.co.jp/mobile/articles/2611/22/news005.html</guid><pubDate>Sun, 22 Nov 2026 03:21:06 +0000</pubDate></item><item><title>EC管理システムの「GoQSystem」に不正アクセス、1694社・約498万件の注文情報が漏えい</title><link>https://internet.watch.impress.co.jp/docs/news/2156617.html</link><description>[score: 0.868] EC管理システムの「GoQSystem」に不正アクセス、1694社・約498万件の注文情報が漏えい yuiseki</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2156617.html</guid><pubDate>Sun, 22 Nov 2026 11:59:15 +0000</pubDate></item><item><title>https://yutura.net/news/archives/171166</title><link>https://yutura.net/news/archives/171166</link><description>[score: 0.869] https://yutura.net/news/archives/171166 yuiseki</description><guid isPermaLink="false">https://yutura.net/news/archives/171166</guid><pubDate>Sun, 22 Nov 2026 11:59:15 +0000</pubDate></item><item><title>ナオキマンが発信してきたこと（前編）｜雨宮純</title><link>https://note.com/caffelover/n/n0e6fee367342</link><description>[score: 0.869] ナオキマンが発信してきたこと（前編）
-2026年11月17日午前・深夜。筆者は高熱に朦朧とする頭でXのタイムラインを見ていた。季節の変わり目に酷い風邪を引いてしまい、妙な時間に寝落ちてしまったせいで夜中に目が覚めてしまったものの、関心対象についての記事や書籍を読むには体調が悪すぎた。
-アルゴリズムの変更によるものなのか、Xでは現実離れした陰謀論がPVを集めることも少なくなっており、また最近の関心は陰謀論から若干離れたところに向かっていた（最近の記事を読んで下さっている読者諸氏はこの変化を感じられているところだろうが、いまだ仕事の依頼が来るのはほとんど陰謀論関連だ――が、最近は自分の納得する記事</description><guid isPermaLink="false">https://note.com/caffelover/n/n0e6fee367342</guid><pubDate>Sun, 22 Nov 2026 11:22:01 +0000</pubDate></item><item><title>就活で30社不採用、面接で「精神的に病んでるんじゃないか」と…顔面ピアス20個、両乳首にも開けた“緑髪ギャル”（23）が語る、見た目への“偏見”（文春オンライン） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/00294ad5b9c1995a96909a67925b2c094219ee5b</link><description>[score: 0.869] 就活で30社不採用、面接で「精神的に病んでるんじゃないか」と…顔面ピアス20個、両乳首にも開けた“緑髪ギャル”（23）が語る、見た目への“偏見”（文春オンライン） - Yahoo!ニュース すしくわせろ碧さん ©細田忠／文藝春秋（文春オンライン）「そのピアスでキスできますか?」などの動画で話題になったインフルエンサーのすしくわせろ碧さん（23）。SNSの総フォロワー数は40万人超で、口元に20個... firststar_hateno おしゃれは自己表現の華、でも就活はちょっと別の舞台ですわね。両立の道、探してみてほしいですの。</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/00294ad5b9c1995a96909a67925b2c094219ee5b</guid><pubDate>Sun, 22 Nov 2026 11:59:15 +0000</pubDate></item><item><title>メールアドレス宛に荷物を送る時代は来るのか ～ 認証・本人確認・物流・決済に広がるゼロトラストとレジリエンス</title><link>https://qiita.com/carol0226/items/ed8741b1e779c39bb52b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.870] はじめに
-実はこの記事、1か月ほど前（2026年10月中旬）に書き上げたあと、そのまま下書きフォルダに埋もれていたものを見つけたのです。
-当時のまま公開しても良かったのですが、この1か月で起きた出来事や Microsoft Ignite 2026 に参加して得られた視点、さらにその後に投稿した記事へのリンクなどを盛り込んで再編成することにしました。
-昨今、大規模な個人情報流出やランサムウェア被害が相次いでいます。
-また、システムそのものが利用できなくなったり、クラウド基盤が大きな影響を受けたりするインシデントも発生しています。
-これまでは、
-- 不正アクセスを防ぐ
-- 情報漏えいを防ぐ
-- シ</description><guid isPermaLink="false">https://qiita.com/carol0226/items/ed8741b1e779c39bb52b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 22 Nov 2026 08:29:39 +0000</pubDate></item><item><title>ウィークリー新着いいねランキング【毎週更新】</title><link>https://qiita.com/figueiredoluiz/items/d54695be04d1e533b05b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.870] 📈 今週のランキング 2026-11-21
-直近7日間で投稿された記事から、いいね数の多い順に上位 20 件を毎週更新で紹介しています。
-タグ別
-生成AI
-LLM
-ClaudeCode
-Codex
-AIエージェント
-Rust
-フロントエンド
-ランキング
-1 位: 部下がClaudeっぽいスライドしか出してこなくてウンザリしてる上司はこれを使わせなさい
-AI
-生成AI
-ClaudeCode
-AIエージェント
-LLM
-👍 377 ・ 🔖 250 ・ 🏆 高stock率
-@nuco_d さん ( 2026-11-17 09:58 に投稿 )
-2 位: 社長の一言は重い。RAGにも忖度させてみた（重み</description><guid isPermaLink="false">https://qiita.com/figueiredoluiz/items/d54695be04d1e533b05b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 22 Nov 2026 08:29:39 +0000</pubDate></item><item><title>フロントエンドのテストカバレッジは 100%強制がいい</title><link>https://speakerdeck.com/bengo4com/20261122-jsconfjp2026-coverage-100</link><description>[score: 0.870] フロントエンドのテストカバレッジは 100%強制がいい
-JSConf JP 2026 における、プロダクト開発本部 クラウドサインProduct Engineering部 SWE 辻 佳佑 (t0daaay) による登壇資料です。
-【JSConf JP 2026】
-https://jsconf.jp/2026/ja
-■ 弁護士ドットコム株式会社 CompanyDeck for Engineers
-https://speakerdeck.com/bengo4com/2026-companydeck-for-engineers
-■ 採用情報
-https://hrmos.co/pages/bengo</description><guid isPermaLink="false">https://speakerdeck.com/bengo4com/20261122-jsconfjp2026-coverage-100</guid><pubDate>Sun, 22 Nov 2026 11:41:10 +0000</pubDate></item><item><title>LLMを呼ぶ、その先へ。12のGitHub教材で学ぶAIエンジニアリングのロードマップ</title><link>https://qiita.com/ryosuke_ohori/items/5b4638fab7f9aefbd81a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.872] みなさん、こんにちは。株式会社ulusageの技術ブログ生成AIです。
-チャット画面を作ってLLMのAPIにつなぐと、思ったより早く「AIアプリらしいもの」が動きます。最近は開発支援AIもあるので、最初の手応えを得るまでの距離はずいぶん短くなりました。
-ただ、ここから実際の業務で使おうとすると、別の問いが出てきます。
-- 社内文書を根拠に答えてほしいとき、必要な情報をどう取り出すのか。
-- モデルが間違ったツールを選んだら、実行前に止められるのか。
-- 利用者に閲覧権限のない情報を、検索や回答に混ぜないようにできるのか。
-- 利用者が増えたとき、待ち時間やAPIの利用制限、費用をどう管理するの</description><guid isPermaLink="false">https://qiita.com/ryosuke_ohori/items/5b4638fab7f9aefbd81a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 22 Nov 2026 08:29:39 +0000</pubDate></item><item><title>EC受注管理のGoQSystemに不正アクセス、1,694社・注文498万件・437万人分が対象に（ビジネス＋IT） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/a0ded1257ef2a1e5e25f77c2c4979d48a83bfab4</link><description>[score: 0.872] EC受注管理のGoQSystemに不正アクセス、1,694社・注文498万件・437万人分が対象に（ビジネス＋IT） - Yahoo!ニュース 【画像解説と記事全文はこちら】GoQSystemの連携先、状況と店舗側の対応（ビジネス+IT） EC向け受注管理システムを提供するGoQSystemは2026年11月13日、不正アクセスの第二報を公表し、対象が1,694社、注文4,984... yuiseki</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/a0ded1257ef2a1e5e25f77c2c4979d48a83bfab4</guid><pubDate>Sun, 22 Nov 2026 11:59:15 +0000</pubDate></item><item><title>情報漏えいを公表しないリスクの要点整理</title><link>https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.873] 業務でセキュリティ動向を追う中で、情報漏えいの公表が毎日のように目につく。
-ただ、公表されているのは被害を受けた企業の一部だけだと思う。
-今はそれでも回っているが、前提が崩れつつある。自戒を込めて整理する。
-先にキーワードを出す。
-- 情報漏えい
-- 個人情報保護委員会への報告
-- 公表（報道発表）
-- ランサムウェア
-- 二重恐喝（ダブルエクストーション）
-- リークサイト
-- レピュテーションリスク
-1. 現状
-a. 報告と公表は別
-2022年4月以降、一定の漏えいは個人情報保護委員会への報告と、本人への通知が義務になった。
-ただし、報道発表（プレスリリース等での公表）までが義務ではない。</description><guid isPermaLink="false">https://qiita.com/Maruo110/items/385b2c7ef5fbd074e6e2?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 22 Nov 2026 08:29:39 +0000</pubDate></item><item><title>「サイバーセキュリティ緊急対策パッケージ」の中身 | blog.jxck.io</title><link>https://blog.jxck.io/entries/2026-11-19/cyber-security-emergency-package.html</link><description>[score: 0.873] 「サイバーセキュリティ緊急対策パッケージ」の中身 | blog.jxck.io 「サイバー対処能力強化法」の施行直後からフル稼働な「国家サイバー統括室」 昨今の漏洩ラッシュを受け、高市総理が「緊急対策パッケージ」の作成を 10/26 の関係閣僚会議で指示し、それが 11/6 に公開された。 内容を解説する。 この記事は、サイバーセキュリティアドベントカレンダー 2 日目である。 サイバーセキュ...</description><guid isPermaLink="false">https://blog.jxck.io/entries/2026-11-19/cyber-security-emergency-package.html</guid><pubDate>Sun, 22 Nov 2026 11:20:55 +0000</pubDate></item><item><title>コードを書くコストが下がった今、ソフトウェアエンジニアリングの価値はどこにあるのか</title><link>https://qiita.com/figueiredoluiz/items/1d6751643b84db67812e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.874] はじめに
-AIがコードを書くようになった今、ソフトウェアエンジニアの仕事は不要になるのでしょうか。
-私は日常的にAIを使って開発しています。数時間かかっていた実装を短時間で終えられるなら、手作業にこだわる理由はありません。その分、問題の理解や設計、品質の改善に時間を使えるのは歓迎すべき変化です。
-ただ、コードを書く速度と、ソフトウェア開発全体の生産性を同じものとして扱うことには疑問があります。2026年の研究では、自律型コーディングエージェントの利用に伴うコミット数の増加が240%だった一方、リリース数の増加は30%と推定されました1。リリース数も増えていますが、実装で得た効果が後工程まで同じ</description><guid isPermaLink="false">https://qiita.com/figueiredoluiz/items/1d6751643b84db67812e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 22 Nov 2026 08:29:39 +0000</pubDate></item><item><title>韓国 大学入試 スマートグラスなどの対策で混乱 教育相が辞意</title><link>https://news.web.nhk/newsweb/na/nd-20261122de80041</link><description>[score: 0.875] 韓国で今月19日に行われた大学進学のための共通試験で、スマートグラスを使用するなどAIを悪用した不正行為への対策を政府が試験直前に強化して混乱が広がったことを受け、教育相が22日、辞意を表明しました。…
-韓国で大学入試 スマートグラスなどＡＩ不正に警戒
-11月19日 20:56
+COP31 会期延長し協議続く 化石燃料からの脱却などめぐり
+11月22日 7:06
+AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは?
+11月22日 14:24
+イラン バーレーンの米軍施設を標的に攻撃と発表 緊張続く
+11月22日 12:22
+福島 北塩原村 宿泊客帰宅開始も514世帯孤立 猪苗代町でも孤立
+11月22日 14:13
+クマは地下水路に? 内部調</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261122de79933</guid><pubDate>Sun, 22 Nov 2026 14:29:44 +0000</pubDate></item><item><title>オバマ氏を「へつらい屋」とやゆ　トランプ氏、天皇陛下写真 | NEWSjp</title><link>https://news.jp/i/1497045677678232364</link><description>[score: 0.862] 【ワシントン共同】トランプ米大統領は21日、自身のSNSで、オバマ元大統領が2009年、当時の天皇、皇后両陛下と面会した際に深くお辞儀をした写真と、自身が中国の習近平国家主席に赤じゅうたんで迎えられた写真を並べて投稿した。これをトランプ氏の政治広報チームがX（旧ツイッター）に転載し、オバマ氏を「へつらい屋」とやゆした。
+トランプ氏は中国・深センで19日、初の米中ロ首脳会談に臨んだ。中ロ首脳を「私の友人」と呼んだ発言が米メディアで批判的に報じられ、野党民主党上院トップのシューマー議員は「写真撮影のため敵対国に平身低頭することが何より好きな大統領による米国への裏切りだ」と非難した。
+トランプ氏はこ</description><guid isPermaLink="false">https://news.jp/i/1497045677678232364</guid><pubDate>Sun, 22 Nov 2026 20:02:23 +0000</pubDate></item><item><title>2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま</title><link>https://note.com/cgbeginner/n/n5856d402f125</link><description>[score: 0.865] 2026年11月21日をもって世界はシンギュラリティに突入した｜たてはま 2026年11月21日をもって、世界はシンギュラリティに突入したのではないか。 この日、AnthropicのAI「Claude」との共同作業で書かれた「リーマン予想の証明」について、検証コミュニティが「正しい」と認定した。独立に検証したマサチューセッツ工科大学の数学者アンドリュー・サザーランド氏も「何か怪しい点がある可能...</description><guid isPermaLink="false">https://note.com/cgbeginner/n/n5856d402f125</guid><pubDate>Sun, 22 Nov 2026 15:34:55 +0000</pubDate></item><item><title>【React個人開発-JISOU課題1】学習記録アプリを作る過程で詰まったところと解決策</title><link>https://qiita.com/polymetisoutis/items/be7eb3814ad8006be3aa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.866] 成果物
+簡易的な学習記録アプリを制作しました。
+課題着手開始：2026年11月12日木曜日
+課題制作完了：2026年11月13日金曜日
+準拠教材
+受講開始：2026年10月15日木曜日
+受講完了：2026年10月21日水曜日
+成果物のGitHubリポジトリ
+Push：2026年11月15日日曜日
+プロジェクトメインファイル構成
+src
+┠components
+┃ ┠Input.jsx
+┃ ┠Output.jsx
+┃ ┗TestList.jsx
+┠App.jsx
+┗main.jsx
+// css略
+はじめに
+JISOUに加入し、ちょうど1か月が経過した11月13日金曜日、課題1の成果物の制作が完</description><guid isPermaLink="false">https://qiita.com/polymetisoutis/items/be7eb3814ad8006be3aa?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 22 Nov 2026 20:28:02 +0000</pubDate></item><item><title>オープンＡＩ、110億ドル調達 評価額は当初目標下回る＝関係者 | ロイター - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQTFNKeVozWWExMmFOZGZONUJqRXlQS3dMVWJESUxqblkxUVl5a3R4b21iRHJxaVVYSGFwS3R1TEtpeU5DTmZqWjJ0dzc3NHFCS3BUUUthX2R1amxZZDNsUURoanZ4dHktdlptS2NNdnBOYkhlelhYYkdHd0JwcTJRSExJaTZpZw?oc=5</link><description>[score: 0.868] オープンＡＩ、110億ドル調達 評価額は当初目標下回る＝関係者 | ロイター Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQTFNKeVozWWExMmFOZGZONUJqRXlQS3dMVWJESUxqblkxUVl5a3R4b21iRHJxaVVYSGFwS3R1TEtpeU5DTmZqWjJ0dzc3NHFCS3BUUUthX2R1amxZZDNsUURoanZ4dHktdlptS2NNdnBOYkhlelhYYkdHd0JwcTJRSExJaTZpZw?oc=5</guid><pubDate>Sun, 22 Nov 2026 17:54:19 +0000</pubDate></item><item><title>Your Coding Agent Doesn't Need Your Keys. It Needs a Request Signer.</title><link>https://dev.to/sudokat_/your-coding-agent-doesnt-need-your-keys-it-needs-a-request-signer-3f2c</link><description>[score: 0.868] Somewhere on public GitHub right now sits a JSON file listing, in plaintext, every database, SSH host, and cloud endpoint one developer can reach—along with the credentials that open them. No attacker planted it. No phishing link was clicked. The developer's own coding agent wrote it, one "Yes, and </description><guid isPermaLink="false">https://dev.to/sudokat_/your-coding-agent-doesnt-need-your-keys-it-needs-a-request-signer-3f2c</guid><pubDate>Sun, 22 Nov 2026 16:55:26 +0000</pubDate></item><item><title>AIと実機デバッグで挑む、MSX1〜V9990・V9968（Geo3D）対応ゲーム開発のリアル</title><link>https://qiita.com/Kan0n/items/98b2c561c967ed207860?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.869] はじめに
+はじめまして、Kanonです。Qiita初投稿になります。
+普段はレトロPC（特にMSXやPC-98など）の実機いじりやハードウェア寄りの開発、そしてローカルAIを組み合わせた実験的なものづくりを楽しんでいます。
+1983年に登場したMSX規格は、MSX1からMSX2、MSX2+、turboR、外部拡張VDPのV9990、そして近年MSXシーンに新たな息吹を吹き込んでいるFPGAベースの次世代VDP V9968（およびその3D機能である Geo3D）まで、実に幅広いハードウェアの広がりを持っています。
+「せっかく令和の今MSX向けの新作を作るなら、エミュレータ上のおもちゃではなく、歴</description><guid isPermaLink="false">https://qiita.com/Kan0n/items/98b2c561c967ed207860?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 22 Nov 2026 20:28:02 +0000</pubDate></item><item><title>【個人開発】推し祭壇を投稿するアプリを作ってみた【React / TypeScript / Supabase】</title><link>https://qiita.com/ko1_tktn/items/75fdcc2a4b7c824f2a6f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.869] はじめに
+個人開発で、推し祭壇を写真とその日の気持ちで記録するWebアプリ「OSHI-SAIDAN」を作りました。
+この記事では、アプリの使い方と、開発を通して感じた「作る範囲の決め方」と「題材選び」の難しさを振り返ります。
+開発背景
+個人開発の題材を探していたとき、思いついたアイデアを調べてみると、すでに似たサービスがいくつもありました。「自分なら何を加えたいだろう」と考えても、なかなか案が浮かばず、題材選びで手が止まっていました。
+そんなとき、推しのグッズを並べて飾る「推し祭壇」という文化をたまたま知りました。飾り付けを写真に撮って、そのときの気持ちも一緒に残せたらどうだろう。そこから、祭</description><guid isPermaLink="false">https://qiita.com/ko1_tktn/items/75fdcc2a4b7c824f2a6f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 22 Nov 2026 20:28:02 +0000</pubDate></item><item><title>ここまで情報漏洩してもGoogle、Amazon、Apple辺りがやらかしていないのは流石では？→漏洩させている側がサイバー攻撃用にクラウドを使っているからできない説が浮上</title><link>https://togetter.com/li/2773653</link><description>[score: 0.870] ここまで情報漏洩してもGoogle、Amazon、Apple辺りがやらかしていないのは流石では？→漏洩させている側がサイバー攻撃用にクラウドを使っているからできない説が浮上 クラウド上のファントム：Googleクラウドストレージを悪用したフィッシング詐欺の手口｜Aryaka Blog サイバー犯罪者が Google Cloud Storage を悪用してフィッシングサイトをホストし、クレデンシャルの盗難を隠蔽し、巧妙な詐欺を組織する方法をご覧ください。検出戦略、実際のキャンペーン… Aryaka Unified SASE Solut...</description><guid isPermaLink="false">https://togetter.com/li/2773653</guid><pubDate>Sun, 22 Nov 2026 19:33:10 +0000</pubDate></item><item><title>ＩＣＣ赤根所長らに有罪判決　プーチン氏逮捕状で報復―ロシア：時事ドットコム</title><link>https://www.jiji.com/jc/article?k=2025121201092&amp;g=int</link><description>[score: 0.872] ＩＣＣ赤根所長らに有罪判決 プーチン氏逮捕状で報復―ロシア
+ロシアのプーチン大統領に逮捕状を出した国際刑事裁判所（ＩＣＣ、オランダ・ハーグ）の赤根智子所長ら９人に対し、モスクワの裁判所は本人不在のまま懲役３年６月～１５年の有罪判決を言い渡した。ロシア連邦捜査委員会が１２日発表した。
+米のＩＣＣ制裁「影響は限定的」 多国間協調回帰を期待―鄭彰鎬元判事
+ＩＣＣは２０２３年３月、ロシアのウクライナ侵攻を巡り、戦争犯罪の疑いでプーチン氏の逮捕状を発付。これに対し、ロシア当局は「無実の人物（プーチン氏）に刑事責任を負わせた」ことが犯罪行為に当たると主張し、報復措置として赤根氏らを指名手配している。</description><guid isPermaLink="false">https://www.jiji.com/jc/article?k=2025121201092&amp;g=int</guid><pubDate>Sun, 22 Nov 2026 14:52:41 +0000</pubDate></item><item><title>【登壇レポート】「Business-JAWS #0 キックオフ！」でAIBの練習問題をAIに作らせて感じた気づきを話してきました！</title><link>https://qiita.com/yosuke-suzuki/items/668b75e7f1ae9be15d99?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.874] はじめに
+こんにちは！アマコネ芸人です。
+2026年11月19日にAWS Japanオフィス(東京都港区の麻布台ヒルズ森JPタワー)で開催された「Business-JAWS #0 キックオフ！〜AWSとビジネスをつなぐコミュニティ始動〜」にて、LT登壇させていただきました。
+Business-JAWSは、AWSを使ったビジネス課題の解決を職種を越えて学び合う、JAWS-UGの新しい専門支部です。
+その最初の回のLT枠で、AWS Certified AI Business Strategist(AIB)の受験体験記を話しました。
+登壇資料
+タイトルは「AWS AIB 受験体験記！～練習問題を A</description><guid isPermaLink="false">https://qiita.com/yosuke-suzuki/items/668b75e7f1ae9be15d99?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 22 Nov 2026 20:28:02 +0000</pubDate></item><item><title>超難問「リーマン予想」AIと証明か　米アンソロピックの数学者発表：朝日新聞</title><link>https://www.asahi.com/articles/ASVCP10Z2VCPUHBI00GM.html</link><description>[score: 0.876] 超難問「リーマン予想」AIと証明か 米アンソロピックの数学者発表：朝日新聞 米国の人工知能（AI）開発企業アンソロピックの数学者は20日、「（同社のAIモデル）クロードと共同で、リーマン予想の証明を発見した」と個人サイト上で明らかにした。リーマン予想は数学の難問で、解決に1… yuiseki %E3%81%82%E3%81%A8%E3%81%A7%E8%AA%AD%E3%82%80</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVCP10Z2VCPUHBI00GM.html</guid><pubDate>Sun, 22 Nov 2026 20:38:55 +0000</pubDate></item><item><title>AI駆動開発では「Project as Code」が超重要である！ - Qiita</title><link>https://qiita.com/kumai_yu/items/0aa2fc294f8e1347e36c</link><description>[score: 0.877] AI駆動開発では「Project as Code」が超重要である！ - Qiita Deleted articles cannot be recovered. Draft of this article would be also deleted. Are you sure you want to delete this article? はじめに こんにちは。主にXにてAI駆動開発について発信している熊井悠 ... razokulover</description><guid isPermaLink="false">https://qiita.com/kumai_yu/items/0aa2fc294f8e1347e36c</guid><pubDate>Sun, 22 Nov 2026 18:45:58 +0000</pubDate></item><item><title>脆弱性の「CVSS 9.8」って結局なに？CVSSの読み方をちゃんと理解する</title><link>https://qiita.com/heki-dm/items/77ecaacd592d1c4459df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] はじめに
+Dependabot のアラートや脆弱性情報を見ていると、こんな表記をよく目にします。
+CVSS 9.8 (Critical)
+CVSS:3.1/AV:N/AC:L/PR:N/UI:N/S:U/C:H/I:H/A:H
+「数字が大きいほどヤバいんだろうな」くらいの理解で済ませていたのですが、依存パッケージの脆弱性を監視するアプリ『Vectana』を作るにあたって、改めてちゃんと調べてみました。
+この記事では、CVSS とは何か、スコアとベクタ文字列の読み方、v3.1 と v4.0 の違い、そして CVSS のスコアだけで対応の優先度を決めてはいけない理由 までをまとめます。最後に、20</description><guid isPermaLink="false">https://qiita.com/heki-dm/items/77ecaacd592d1c4459df?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 22 Nov 2026 20:28:02 +0000</pubDate></item><item><title>うわっ…私の記事、スロップすぎ…？（見出しだけ本気出すプロンプト7選）</title><link>https://qiita.com/kikuziro/items/0c54614c1db8afa5abb1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] 当記事ではAIスロップについて明確な定義は行いません
+（よく見るAIっぽい記事というニュアンスで使っております）
+👋 はじめに
+記事を書き終えて読み返したとき「うわっ…なんかAIスロップっぽいなぁ〜」って思ったことありませんか？私は毎回思います。たとえ手書きで書いたとしてもAIスロップに見えたりします。
+AIスロップは”大量に出回った”と言う意味を含む為、まだ出回っていないものを使えばいい。そう考えて行き着いたのが章タイトルのバナー化でした。
+と、いうことで今回は見出しバナーを簡単に作れるプロンプトを紹介します！
+🎯 対象読者
+- 自分の記事を読み返して「うわっ…」となったことがある方
+- 世</description><guid isPermaLink="false">https://qiita.com/kikuziro/items/0c54614c1db8afa5abb1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 22 Nov 2026 20:28:02 +0000</pubDate></item><item><title>Claude Code を安全に「自走」させるなら、もう Docker Sandboxes 一択でよくない？と思った話。</title><link>https://qiita.com/yamac_tech/items/2f1d598288990c381f2d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.885] Claude Codeとか、Codex、使ってますか。もちろん私はがっつり使ってます。Claude Codeに代表されるAI Coding Agentをつかってるとだんだん「毎回確認したり面倒だな～」となってくると思います。今はClaudeではAuto modeがデフォルトになるなど、許可取りを毎回求めてくることは減りましたが、独立した環境で自走してくれれば安全だし、最高なのになーと思いますよね。
+でも同時に、こんな不安も少しあります。もしAI Agentが判断ミスで勝手に重要なファイルやソフトを変更・消去したり、.envなんかを勝手に送ってしまったらどうしよう。。とか。
+こういった問題を解決</description><guid isPermaLink="false">https://qiita.com/yamac_tech/items/2f1d598288990c381f2d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 22 Nov 2026 20:28:02 +0000</pubDate></item><item><title>ドキュメントにない答えを残す：オープンソースのサポートツール「answerLoops」</title><link>https://qiita.com/pitaspot/items/ee92f922136762ca1985?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.887] 📰 海外事例
+元記事：Building an Open-Source Support Tool That Turns Your Docs into Reusable Knowledge（dev.to）
+dev.toに載った、CopilotKit社でDevRel（開発者向けの広報・交流）を担当する筆者が作っているオープンソースのAIサポートツール「answerLoops」の紹介記事です。Discord・Slack・GitHubなどに届く質問を1か所に集め、AIが回答の下書きを作ります。特徴は、回答の途中で見つかった「ドキュメントに載っていない答え」をチームの知識ベースへ戻し、次の質問で使えるよう</description><guid isPermaLink="false">https://qiita.com/pitaspot/items/ee92f922136762ca1985?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 22 Nov 2026 20:28:02 +0000</pubDate></item><item><title>ウクライナ キーウ近郊に攻撃 4人死亡 ロシアの攻撃激化</title><link>https://news.web.nhk/newsweb/na/nd-20261123de80114</link><description>[score: 0.889] ロシアによる軍事侵攻が続くウクライナで22日、首都キーウ近郊の集合住宅などが無人機攻撃を受けあわせて4人が死亡しました。ロシア軍の攻撃はこの数日で激しさを増していて、さらなる攻撃に警戒が強まっています…
+COP31成果文書採択断念 化石燃料からの脱却言及なしに反発の声
+11月23日 4:45
+AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは?
+11月22日 14:24
 イラン バーレーンの米軍施設を標的に攻撃と発表 緊張続く
 11月22日 12:22
 フィンランド沖 ロシアの貨物船に無人機攻撃 ウクライナ関与か
 11月22日 12:42
-AIで未解決難問“リーマン予想”証明主張 専門家の受けとめは?
-11月22日 14:24
-デンマーク ロシア主導の暗殺計画阻止と発表 首相「制裁強化</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261122de80041</guid><pubDate>Sun, 22 Nov 2026 12:23:43 +0000</pubDate></item><item><title>トランプ氏と習氏、AI分野での協力誇示　それでも突きつけられる厳しい現実</title><link>https://www.cnn.co.jp/business/35255281.html</link><description>[score: 0.877] 19日、深センでの首脳会談で設定された昼食会に向かうトランプ氏（左）と習氏/Mark Schiefelbein/Pool/Getty Images （CNN） 中国の習近平（シーチンピン）国家主席にとって、トランプ米大統領を自国の近未来的な都市、深センに迎えることは、中国のハイテク産業がどれほど発展したかを誇示する絶好の機会となった。 しかしトランプ氏も習氏も、ある不都合な現実には触れたがらなかった。つまりそのとき米国は、中国のさらなる技術発展を阻止するための新たな措置を発表したばかりだったということだ。しかもその背景には、米国の極めて重要なハイテク企業の一つであるエヌビディアのトップが、中国</description><guid isPermaLink="false">https://www.cnn.co.jp/business/35255281.html</guid><pubDate>Sun, 22 Nov 2026 10:21:49 +0000</pubDate></item><item><title>タワーレコード 1100万件情報流出 - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/pickup/6603588</link><description>[score: 0.877] タワーレコード 1100万件情報流出
-アフロ
-企業で個人情報の漏えい相次ぐ
-タワーレコードに不正アクセス、1100万件の個人情報流出と発表
-朝日新聞タワーレコードは、運営する通販サイト「タワーレコードオンライン」が外部からの不正アクセスを受け、会員のメールアドレスや氏名、生年月日など個人情報約1100万件が流出したと21日付で発表した。
-ココがポイント
-みんなの意見
-個人情報の取り扱いで、最も懸念するリスクは何ですか？
-詐欺や犯罪への悪用
-81.2%情報の漏えいや紛失
-16.3%プライバシーの侵害
-1.2%その他/分からない
-1.2%
-※ 統計に基づく世論調査ではありません。</description><guid isPermaLink="false">https://news.yahoo.co.jp/pickup/6603588</guid><pubDate>Sun, 22 Nov 2026 11:59:15 +0000</pubDate></item><item><title>先日職場の中堅層の重鎮が2人退職…理由は「仕事量と責任だけが増え、給料が全然増えないのに下っ端は給料が増えている。休みも取れずこのままいても先が見えなさすぎる」</title><link>https://togetter.com/li/2773699</link><description>[score: 0.877] 先日職場の中堅層の重鎮が2人退職…理由は「仕事量と責任だけが増え、給料が全然増えないのに下っ端は給料が増えている。休みも取れずこのままいても先が見えなさすぎる」 社畜の人 @jyomeiman 先日職場の中堅層の重鎮が2人揃って退職 理由は『仕事量と責任だけ増えて給料が全然増えん。なのに下っ端は給料が増えてる。休みもマトモにとれねぇしこのまま居ても先が見えなすぎる。』 それにつられて他の中堅層も退職の意思を持ち始め、地獄の様相を呈しております ヤベェよヤベェよ… 2026-11-2...</description><guid isPermaLink="false">https://togetter.com/li/2773699</guid><pubDate>Sun, 22 Nov 2026 13:01:18 +0000</pubDate></item><item><title>越後製菓の公式オンラインショップで個人情報が漏えい GoQSystemへの不正アクセスで|セキュリティニュースのセキュリティ対策Lab</title><link>https://rocket-boys.co.jp/security-measures-lab/echigoseika_goqsystem_611orders_610people_202611/</link><description>[score: 0.878] 越後製菓株式会社は2026年11月17日、公式オンラインショップの注文管理を委託する株式会社GoQSystemへの不正アクセスにより、顧客の注文情報611件、対象者610人分の個人情報が外部に漏えいしたと公表しました。対象には注文者や届け先の氏名、住所、電話番号、メールアドレス、購入内容などが含まれます。クレジットカード情報は受注管理システムで保有しておらず、今回の漏えい対象ではありません。
-同社は11月18～19日にGoQSystemから影響データの提供を受け、対象者に順次個別通知する予定です。今回の不正アクセスは越後製菓のオンラインショップへの独立した攻撃ではなく、複数の通販事業者に波及し</description><guid isPermaLink="false">https://rocket-boys.co.jp/security-measures-lab/echigoseika_goqsystem_611orders_610people_202611/</guid><pubDate>Sun, 22 Nov 2026 11:59:15 +0000</pubDate></item><item><title>政府広報「ナオキマン」起用「調査・選別」を批判していたリベラル系の二重基準　有元隆志</title><link>https://www.sankei.com/article/20261122-NLSYVXL4NJIRHN7NTLESWO7D7U/?outputType=theme_weekly-fuji</link><description>[score: 0.878] 安全保障政策に関する政府広報に、都市伝説や陰謀論を題材とする人気動画投稿者（ユーチューバー）の「ナオキマン」氏が起用されたことをめぐって、立憲民主党などの野党や一部メディアから批判が上がっている。
-立憲民主党の辻元清美参院議員は19日の参院外交防衛委員会で、内閣府が「ナオキマン」氏の過去の配信内容を網羅的に確認していなかった点を取り上げ、「陰謀論にお墨付きを与えるのではないか」と追及し、企画の撤回を迫った。朝日新聞などの一部メディアも、政府が過去の配信内容をすべて確認していなかった点を強調して報じている。
-しかし、政府に出演者の過去の言動を徹底的に事前調査・選別するよう求める野党やリベラル系メ</description><guid isPermaLink="false">https://www.sankei.com/article/20261122-NLSYVXL4NJIRHN7NTLESWO7D7U/?outputType=theme_weekly-fuji</guid><pubDate>Sun, 22 Nov 2026 12:51:46 +0000</pubDate></item><item><title>Anthropicの研究者がAI「Claude」とともに数学の未解決問題「リーマン予想」を証明したと発表、1700万行の証明コードを専門家が検証中</title><link>https://gigazine.net/news/20261122-anthropic-claude-said-riemann-hypothesis-solved/</link><description>[score: 0.879] AI開発企業Anthropicの研究者であるレベント・アルポゲ氏が2026年11月20日、AnthropicのAIモデルであるClaudeとともに数学の未解決問題であるリーマン予想を証明したと発表しました。アルポゲ氏は約1700万行に及ぶ証明コードを公開しており、マサチューセッツ工科大学(MIT)などの研究者による独立した検証で証明の正しさを確認する複数の検査に成功しています。リーマン予想には100万ドル(約1億5800万円)の懸賞金が設定されていますが、記事作成時点では今回の証明はまだ正式に認められておらず、今後も専門家による評価が必要となります。 続きを読む...</description><guid isPermaLink="false">https://gigazine.net/news/20261122-anthropic-claude-said-riemann-hypothesis-solved/</guid><pubDate>Sun, 22 Nov 2026 02:05:15 +0000</pubDate></item><item><title>Androidの野良アプリ導入が2027年1月から世界規模で制限へ　Googleの開発者認証が本格展開</title><link>https://sumahodigest.com/?p=76937</link><description>[score: 0.880] Androidの野良アプリ導入が2027年1月から世界規模で制限へ Googleの開発者認証が本格展開 Googleは、Androidのアプリ開発者に本人確認を義務付ける新たな認証制度と、未認証アプリのサイドローディングに関する制限を、2027年1月から世界各国に拡大すると発表しました。 今回の変更はGoogle Playだけでなく、Galaxy StoreやXiaomi、OPPOなどのメーカー独自ストアにも適用されます。未認証アプリを引き続きイン...</description><guid isPermaLink="false">https://sumahodigest.com/?p=76937</guid><pubDate>Sun, 22 Nov 2026 08:16:51 +0000</pubDate></item><item><title>【重要】当社システムへの不正アクセスによる個人情報漏えいに関するお詫びとお知らせ（第二報：対象規模および今後の対応について）｜GoQSystem</title><link>https://goq.co.jp/security-incident-2.html</link><description>[score: 0.884] 【重要】当社システムへの不正アクセスによる個人情報漏えいに関するお詫びとお知らせ（第二報：対象規模および今後の対応について）
-株式会社GoQSystem
-このたびの当社システムへの不正アクセスに関し、ご利用店舗様ならびにご注文者様・お届け先様に多大なるご迷惑とご心配をおかけしておりますことを、深くお詫び申し上げます。
-11月12日（木）に公表した第一報以降、調査を進めた結果、新たに判明した事項がございますので、ご報告いたします。
-■ 11月12日（木）に公表したお知らせ
-【重要】当社システムへの不正アクセスによる個人情報漏えいに関するお詫びとお知らせ
-https://goq.co.jp/sec</description><guid isPermaLink="false">https://goq.co.jp/security-incident-2.html</guid><pubDate>Sun, 22 Nov 2026 11:59:15 +0000</pubDate></item><item><title>【社説】安保の政府広報に「陰謀論者」起用の倒錯　今からでも見直せ：朝日新聞</title><link>https://www.asahi.com/sp/articles/ASVCN42ZCVCNUSPT00VM.html?ref=tw_asahi</link><description>[score: 0.886] 【社説】安保の政府広報に「陰謀論者」起用の倒錯 今からでも見直せ
-この社説のポイント
-●人選は事業者が行ったというが、政府が過去の発言をチェックするのが当然
-●判断基準や審査の経過を検証し、広報発注のルールを整備する必要もある
-●重要政策に国民の理解を求めるなら、首相が国会や記者会見で説明するのが先だ
-社会の出来事を、明確な根拠なしに特定の集団や権力者による秘密の企てと結びつけて語る。そんな「陰謀論」の発信者を、政府広報の担い手に起用する倒錯ぶりに驚くばかりだ。高市政権が事実に謙虚に向き合う姿勢を欠いていることの表れではないのか。
-政府の安全保障の広報サイトに、陰謀論者を自称し「Naokima</description><guid isPermaLink="false">https://www.asahi.com/sp/articles/ASVCN42ZCVCNUSPT00VM.html?ref=tw_asahi</guid><pubDate>Sun, 22 Nov 2026 08:48:25 +0000</pubDate></item><item><title>【重要】当社システムへの不正アクセスによる個人情報漏えいに関するお詫びとお知らせ｜GoQSystem</title><link>https://goq.co.jp/security-incident.html</link><description>[score: 0.889] 【重要】当社システムへの不正アクセスによる個人情報漏えいに関するお詫びとお知らせ
-株式会社GoQSystem
-平素よりGoQSystemをご利用いただき、誠にありがとうございます。
-このたび、当社システムが外部の第三者による不正アクセスを受け、お預かりしている注文データ（個人情報を含む）の一部が外部に持ち出されたことを確認いたしました。
-お客様ならびに関係者の皆様に多大なご迷惑とご心配をおかけしておりますことを、深くお詫び申し上げます。
-なお、不正アクセスの経路はすでに遮断を完了しており、現時点で新たな侵入や、情報の悪用・二次被害は確認されておりません。
-また、当社ではクレジットカード情報を保</description><guid isPermaLink="false">https://goq.co.jp/security-incident.html</guid><pubDate>Sun, 22 Nov 2026 11:59:15 +0000</pubDate></item></channel></rss>
+デンマーク ロシア主導の暗殺計画阻止と発表 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261123de80114</guid><pubDate>Sun, 22 Nov 2026 20:23:39 +0000</pubDate></item><item><title>Amazon Bedrock AgentCoreの1年をたどると、クラウドの十数年と同じ道だった ― re:Invent 2026を"勝手に"予測する</title><link>https://qiita.com/somasun_aws/items/6d10711b34636a4a2f30?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.890] はじめに
+2025年は、AIエージェントを「作る」こと自体はかなり簡単になった年でした。CrewAI、LangGraph、OpenAI Agents SDKなどのフレームワークがそろい、モデルも選べるようになって、デモやPoCならすぐ作れる状態です。
+一方で、それを本番に出すとなると話は別でした。
+- ずっと安全に動かせる保証がない
+- 勝手な操作を止める手段がない
+- 誰が責任を持つのか決められない
+作れることと、本番に出せることの間には、大きな差がありました。
+この記事では、その差を埋めるためにAWSが出してきた Amazon Bedrock AgentCore（以下、AgentCore）</description><guid isPermaLink="false">https://qiita.com/somasun_aws/items/6d10711b34636a4a2f30?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 22 Nov 2026 20:28:02 +0000</pubDate></item><item><title>Jevって高速らしい。じゃあ、一文字ずつ文章を書かせてもLLMより速いのけ？</title><link>https://qiita.com/ryosuke_ohori/items/532719a37f9a1965b1c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.895] みなさん、こんにちは。株式会社ulusageの技術ブログ生成AIです。
+「本の取り置き期限はまだ確認できていませんが、支払いの内訳は確認できました。確認方法を教えてください。」
+この問い合わせに、AIが一文字ずつ、5.27秒かけて答えてくれました。
+「支払記録」を開いてください。「明細番号」をお知らせください。
+支払いのほうは、もう確認できています。
+しかもこの二文には、33回のAPI通信がかかっています。途中でどの文字に決まり、どこから先はもう引き返せなかったのか。受信ログを再生すると、普通のチャット画面では見えないものが見えてきます。
+今回使ったのは、TypeSafeの意思決定モデル Je</description><guid isPermaLink="false">https://qiita.com/ryosuke_ohori/items/532719a37f9a1965b1c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 22 Nov 2026 20:28:02 +0000</pubDate></item><item><title>手書きをやめた途端、ブログが全部AI臭くなったあなたへ！ マシにする方法教えます</title><link>https://qiita.com/minorun365/items/faa50b7662b86e1df29c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.897] 友達のブログが AI slop だらけになって、がっかりしていませんか？
+この1年でブログをAIに書かせる人が増えましたよね。学んだことを面白く書いていた友達まで、情報量ばかりのビジーな記事を出すようになり、読まなくなった人も多いのではないでしょうか。
+とはいえ、アンチAIだった私ですら、最近はブログのほとんどを Claude Code に書いてもらっています。先日公開したこちらの記事もそうです。
+人に出せる品質まで仕上げたやり方を、この記事を例に紹介します！
+書く前の準備
+性能の高いハーネスとモデルを使う
+私は Claude Code と Opus 5.5 で書いています。下書きの質はハーネ</description><guid isPermaLink="false">https://qiita.com/minorun365/items/faa50b7662b86e1df29c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 22 Nov 2026 20:28:02 +0000</pubDate></item><item><title>リーマン予想のLean形式検証とは？Claudeと独立証明チェッカーの仕組み</title><link>https://qiita.com/sponge841841/items/22a73af83a4e3528e6bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.900] 個人開発しているもの
+日々の開発で得た知識を発信しながら、「あったら便利」「作ってみたい」と思ったアイデアを形にしています。
+これまでに、グループ旅行アプリ Trip Supporter、スコア管理サービス PointPia、リアルタイム共有サービス JustNow などを開発しました。
+さらに、刺繍やオリジナルキャラクターを中心としたアパレルブランド MAD TOMMY WITH... も運営しています。
+開発したサービスや技術記事は chicchi.work で紹介しています。
+結論（TL;DR）
+- 2026年11月20日、Levent Alpöge氏がClaudeと共同でリーマン予想の</description><guid isPermaLink="false">https://qiita.com/sponge841841/items/22a73af83a4e3528e6bf?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sun, 22 Nov 2026 20:28:02 +0000</pubDate></item></channel></rss>
