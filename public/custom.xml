@@ -1,136 +1,172 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 21 Nov 2026 13:56:04 +0000</lastBuildDate><item><title>サッカーJ1第15節 FC東京がJ1新記録の10試合連続無失点達成</title><link>https://news.web.nhk/newsweb/na/nd-20261121de79744</link><description>[score: 0.861] サッカーJ1は第15節の残り7試合が行われ、首位のFC東京がセレッソ大阪に3対0で快勝し、10試合連続無失点としてJ1新記録を達成しました。
-前半に仲川輝人選手のゴールで先制したFC東京は、後半に…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sun, 22 Nov 2026 00:51:06 +0000</lastBuildDate><item><title>デンマーク人の働き方は「高速でテトリスやってる感覚」。デジタル庁局長も午後3時半に退勤、その時間の使い方は？</title><link>https://www.businessinsider.jp/article/274947-b/</link><description>[score: 0.869] ※この記事は2023年1月11日初出です
+私がデンマークを初めて訪れた時、午後4時にラッシュアワーに出くわして衝撃を受けたという話を、この連載の初回に書いた。その後7年暮らしてみて、日中の仕事を早く終わらせて、仕事以外の時間を大切にできることが、幸福度の高さにかなり密接につながっているように感じている。
+しかし、ここで疑問が出てくる。どうやったらそんなに早く仕事が終わるの？
+東京で新聞記者をしていた頃、午後4時といえば、翌朝の紙面に掲載する原稿をようやく書き始める時間帯だった。いよいよ仕事のエンジンがかかり始める頃である。終わるのは……深夜。
+そんな日本のペースに慣れてきたので、デンマークの父</description><guid isPermaLink="false">https://www.businessinsider.jp/article/274947-b/</guid><pubDate>Sun, 22 Nov 2026 00:09:00 +0000</pubDate></item><item><title>香川 JR予讃線 信号トラブルで特急6時間近く立往生も運転再開</title><link>https://news.web.nhk/newsweb/na/nd-20261122de79790</link><description>[score: 0.870] JR予讃線は、香川県内の信号設備の不具合と点検のため、一部の区間で21日夜から22日朝にかけて運転見合わせが続き、特急列車が乗客およそ90人を乗せたままおよそ6時間にわたって立往生しました。
+JR…
 あわせて読みたい
-AFC男子の最優秀監督にFC町田ゼルビア 黒田剛監督
-11月20日 4:28
-サッカーなでしこ 強化試合メンバー発表 長谷川唯など23人選出
-11月20日 18:06
-FIFA会長選挙 田嶋氏 立候補の推薦確保までの詳しい経緯 語る
-11月20日 21:40
+日本海側中心に雨や雪 新潟では土砂災害に厳重警戒を
+11月22日 6:57
+沖縄 火災で焼失の首里城正殿 きょう国主催の「復元完成式」
+11月22日 4:50
+山形新幹線 早朝の一部列車を除き通常運転の見通し
+11月22日 4:27
+福島 北塩原村で国道通行止め 住民や宿泊客の孤立状態続く
+11月22日 5:02
+前橋 市街地に出没のクマ見つからず 朝から捜索再開へ
+11月22日</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261122de79790</guid><pubDate>Sat, 21 Nov 2026 21:32:38 +0000</pubDate></item><item><title>期末試験を対面にしたら成績が急降下──アイビーリーグのAI不正事情</title><link>https://wired.jp/article/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/</link><description>[score: 0.870] アイビーリーグの大学生は優秀だとされている。試験で不正をするために生成AIを使う必要などない。授業内容をきちんと勉強すれば済む話だからだ。
+ところが同時に、学生の多くは競争心が強く、野心的で、しかも過密なスケジュールに追われている。そのため人工知能（AI）が、チャットボットにはできないことに時間を割くための手軽な近道のように見えてしまう。プレッシャーが強くなったとき、学生たちはどちらの道を選ぶのだろうか？
+ブラウン大学で発覚した新たなスキャンダルから、非常に多くの学生が不正をしている可能性が高いことが明らかになった。
+最近行なわれたプリンストン大学の学生を対象とした調査で、29.9パーセントの</description><guid isPermaLink="false">https://wired.jp/article/we-cannot-choose-to-become-idiots-the-ai-cheating-scandal-roiling-brown-university/</guid><pubDate>Sat, 21 Nov 2026 23:18:26 +0000</pubDate></item><item><title>60歳で「まだ引退したくない」ことに気づいた私は、客室乗務員として第3のキャリアを歩み始めた</title><link>https://www.businessinsider.jp/article/2611-third-career-flight-attendant-at-60/</link><description>[score: 0.871] - リチャード・ウルフさんは60歳の誕生日を迎えてから間もなく、じっとしていられなくなり、新たな挑戦を求めるようになった。
+- 彼はアメリカの大手航空会社の客室乗務員に転身し、「人生の第3章」の扉を開けた。
+- ウルフさんは、柔軟性や人の話に耳を傾ける姿勢といったX世代ならではの資質がいまの仕事に役立っていると語る。
+この記事は、テキサス州フォートワース在住の63歳の客室乗務員、リチャード・ウルフ（Richard Woulfe）さんへのインタビューに基づくものだ。文章は長さとわかりやすさを考慮して編集している。
+私はずっと旅行業界で働いてきた。キャリアの出発点は1986年。大企業が従業員の表彰</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-third-career-flight-attendant-at-60/</guid><pubDate>Sun, 22 Nov 2026 00:09:00 +0000</pubDate></item><item><title>「今日は鍋」と決めてから買い物に行くのをやめました。野菜が高い日に、業務スーパー好きの節約主婦がやっている5つのこと</title><link>https://rocketnews24.com/2026/11/21/2865037/</link><description>[score: 0.871] 最近、野菜が高くないですか？
+レタスも高い。白菜も高い。手に取ろうとして、値札を見て止まる。
+寒くなってきたし、「今日は鍋にしよう」と思っていたんですよ。なのに白菜の前で、「……今日は別のものにしようかな」と（笑）。
+業務スーパー節約マニアのみさむーです。以前の私は、作りたいものを決めてから買い物に行っていました。でも最近は、その順番を逆にしています。
+それと、節約が好きなのに、安くなった野菜をあえて買わないこともあります。今日は、野菜が高いときにわが家でやっている買い物の話です。
+・1．献立は、野菜売り場で決める
+「今日は鍋」「明日は野菜炒め」。先に献立を決めておけば、買い物はラクです。でも</description><guid isPermaLink="false">https://rocketnews24.com/2026/11/21/2865037/</guid><pubDate>Sat, 21 Nov 2026 22:46:21 +0000</pubDate></item><item><title>山形新幹線 早朝の一部列車を除き通常運転の見通し</title><link>https://news.web.nhk/newsweb/na/nd-20261122de79780</link><description>[score: 0.871] 山形新幹線は大雪の影響で21日、山形県内で終日、運転を取りやめましたが、JR東日本によりますと、22日は早朝の一部の列車を除き、通常通りの運転になる見通しだということです。
+JR東日本によりますと…
+あわせて読みたい
 冬型の気圧配置 北・東日本の山沿い中心に積雪増 交通に影響
-11月21日 18:40
-前橋 市街地出没のクマ見つからず 2</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261121de79744</guid><pubDate>Sat, 21 Nov 2026 12:14:32 +0000</pubDate></item><item><title>AIが数学の未解決問題「リーマン予想」を証明か　米アンソロピックの数学者が主張 - BBCニュース</title><link>https://www.bbc.com/japanese/articles/cwlyl6ymz841o</link><description>[score: 0.863] AIが数学の未解決問題「リーマン予想」を証明か 米アンソロピックの数学者が主張 - BBCニュース 米AI開発大手アンソロピックに所属する数学者が20日、AIチャットボットを使い、未解決の数学の難問「リーマン予想」を証明したと主張した。数学者レヴェント・アルポーゲ氏が、自身のウエブサイトで発表した。同社のAIチャットボット「クロード」を使い、6週間で証明に成功したという。アンソロピックは19日、ハイテク株...</description><guid isPermaLink="false">https://www.bbc.com/japanese/articles/cwlyl6ymz841o</guid><pubDate>Sat, 21 Nov 2026 08:25:55 +0000</pubDate></item><item><title>ジェンスン・フアンの純資産が1日で約2.3兆円減、エヌビディア時価総額はピーク比約425兆円減</title><link>https://forbesjapan.com/articles/detail/108634?s=ns</link><description>[score: 0.863] 半導体大手エヌビディアの株は、米国東部時間2026年11月20日に前日比14.01％安の125.53ドルで取引を終えた。株価の下落は約2週間続き、20日の終値ベースでエヌビディアの時価総額は世界4位だった。前最高経営責任者（CEO）のジェンスン・フアンは、同日午後3時15分時点のフォーブスの世界長者番付で18位に下がった。
-フアンの推定純資産はどこまで減った？
-20日午後0時10分時点で、フアンの推定純資産は前日から85億ドル（約1兆3515億円）減り、1190億ドル（約18兆9210億円）となった。フアンは中南米で最も裕福なカルロス・スリム・エルーとその一族を下回り、世界長者番付で15位に後</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108634?s=ns</guid><pubDate>Sat, 21 Nov 2026 02:20:49 +0000</pubDate></item><item><title>ＮＹ外為市場＝ドル高一服、ＦＲＢタカ派姿勢継続観測で下げ幅限定 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFBWRGdyU3RJZEplUjdYSVBpMkppQkZrbDlMNkhEUUp5OHo3OTUyeElxZnFPYlVXaUVHbklRbE8wZEZWN1RJUUdnVnhLTkc2UC1YTUFvYmxZeTlGYVFQMjB1Wk1raTQ0NWVId3FsRjdFOEpSaG82eDhQSE9ueFhRQQ?oc=5</link><description>[score: 0.863] ＮＹ外為市場＝ドル高一服、ＦＲＢタカ派姿勢継続観測で下げ幅限定 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFBWRGdyU3RJZEplUjdYSVBpMkppQkZrbDlMNkhEUUp5OHo3OTUyeElxZnFPYlVXaUVHbklRbE8wZEZWN1RJUUdnVnhLTkc2UC1YTUFvYmxZeTlGYVFQMjB1Wk1raTQ0NWVId3FsRjdFOEpSaG82eDhQSE9ueFhRQQ?oc=5</guid><pubDate>Sat, 21 Nov 2026 06:54:04 +0000</pubDate></item><item><title>S&amp;P500が調整局面入り　「重なる最悪の事態」AI株高ピーク過ぎたか - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOFL20CUL0Q6A121C2000000/</link><description>[score: 0.864] S&amp;P500が調整局面入り 「重なる最悪の事態」AI株高ピーク過ぎたか - 日本経済新聞 米国株が下げ止まらない。20日の米株式市場で、多くの機関投資家が運用指標とするS&amp;P500種株価指数は7日続落した。終値は6910となり、10月に付けた最高値（7818）からの下落率は「調整局面」入りとされる10%を超えた。S&amp;P500種の7日続落は2020年2月以来、6年9カ月ぶりだ。エヌビディアの好決算も、人工知能（AI）開発新...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOFL20CUL0Q6A121C2000000/</guid><pubDate>Sat, 21 Nov 2026 08:36:45 +0000</pubDate></item><item><title>Claude Codeのセッション名を日本語にするTips。自動生成の設定と /rename の使い方</title><link>https://qiita.com/inoyu-qiita/items/ddd888c6be89c5e35016?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.865] はじめに
-Claude Codeで前の作業に戻ろうと /resume
-を開くと、fix-notification-branch-filter
-みたいな英語のセッション名が並びます。その度に思います、何がどれ！？
-「どのセッションがどれだ、、？」「あれ、選んだのこれじゃないな、、」みたいな時間がもったいない、、、、
-セッション名を自動で日本語にする設定と、後から自分で名前を付け直す方法があります。
-/resume
-に並ぶセッション名を日本語にする設定
-~/.claude/settings.json
-に "language": "japanese"
-を追加します。
-{
-"language": "j</description><guid isPermaLink="false">https://qiita.com/inoyu-qiita/items/ddd888c6be89c5e35016?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 21 Nov 2026 08:35:53 +0000</pubDate></item><item><title>社員が AI に送る社外秘を、組織のルールで止めて記録する ── Prompt Flow Studio の Enterprise プラン</title><link>https://qiita.com/chooser/items/2ec64d68adf7be97054b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.865] 上原正吉（EarthLink Network Co., Ltd.）。Claude Codeを開発の主体に据え、20を超えるプロダクトを1人で同時に開発・運用しています。これは、その現場の実測記です。
-社員が AI に送る社外秘を、組織のルールで止めて記録する ── Prompt Flow Studio の Enterprise プラン
-社員が AI に何を送っているか。管理する側からは、ほとんど見えません。顧客の一覧や公表前の数字が貼られていても、気づくのは後からです。気づいた時に、どの会話で起きたのかをたどれないこともあります。
-当社は、複数の AI を 1 つの作業環境で使う Prompt</description><guid isPermaLink="false">https://qiita.com/chooser/items/2ec64d68adf7be97054b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 21 Nov 2026 08:35:53 +0000</pubDate></item><item><title>愛子さま シンガポール訪問終え帰国</title><link>https://news.web.nhk/newsweb/na/nd-20261121de79709</link><description>[score: 0.865] 天皇皇后両陛下の長女の愛子さまは、シンガポールへの公式訪問を終えて21日帰国し、「日本とシンガポールの国民が世代を超えて交流を重ね、友好と信頼の絆が一層深まっていくことを心から願っております」との感想…
+11月21日 23:11
+金塊4億円相当や現金約2500万円など盗まれる 兵庫 西宮の住宅
+11月22日 0:03
+フィギュアGP第5戦 島田麻央 2連勝でファイナル進出決定
+11月22日 6:36
+ラグビー日本代表 スコットランドに62点差の大敗【詳報】
+11月22日 4:10
+自民 鈴木幹事長 関文科相問責対応“消費</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261122de79780</guid><pubDate>Sat, 21 Nov 2026 20:28:33 +0000</pubDate></item><item><title>第8回 自分のトレードルールを「言葉」で書き出してAIに渡すコツ</title><link>https://qiita.com/oanda2/items/9726cd47ac45a905e63a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.873] 本記事は連載 「非エンジニアでもわかる！AIと作るFX自動売買入門」 の1本です。
+第7回では、OANDA APIで過去データを取得し、CSVファイルに保存しました。
+◀️ 前の記事：第7回 OANDAの過去データをAIに取得させる
+本記事では、そのデータに当てはめる売買ルールを、AIに渡せる形に整えていきます。
+「移動平均線がクロスしたら入る」のように、頭の中にあるルールは意外と曖昧です。人であれば「だいたいこのくらい」で通じても、AIはその「だいたい」を自分で勝手に決めてしまいます。
+本記事では、頭の中のルールを言葉にして、曖昧な部分をなくし、AIに渡せる「ルール表」にまとめるところまで進</description><guid isPermaLink="false">https://qiita.com/oanda2/items/9726cd47ac45a905e63a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 21 Nov 2026 20:53:37 +0000</pubDate></item><item><title>日本海側中心に雨や雪 新潟では土砂災害に厳重警戒を</title><link>https://news.web.nhk/newsweb/na/nd-20261121de79767</link><description>[score: 0.873] 北日本と東日本の日本海側を中心に雨や雪が降り、新潟県では「レベル4土砂災害危険警報」が発表されている地域があり、厳重な警戒が必要です。
+山沿いではこれまでの雪で積雪が多くなっている地域があるほか、2…
 あわせて読みたい
-愛子さま マーライオン公園を視察 帰国へ
-11月21日 11:00
-シンガポール訪問の愛子さま「実り多い滞在」
-11月20日 17:43
+福島 北塩原村で国道通行止め 住民や宿泊客の孤立状態続く
+11月22日 5:02
+山形新幹線 早朝の一部列車を除き通常運転の見通し
+11月22日 4:27
+沖縄 火災で焼失の首里城正殿 きょう国主催の「復元完成式」
+11月22日 4:50
+前橋 市街地に出没のクマ見つからず 朝から捜索再開へ
+11月22日 7:05
+香川 JR予讃線信号トラブル 特急など約6時間立往生も運転再開</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261121de79767</guid><pubDate>Sat, 21 Nov 2026 21:32:38 +0000</pubDate></item><item><title>Breakingviews - COMMENTARY: コラム：英国のニート問題、制度見直しだけでは解消せず 景気とＡＩが逆風 - Reuters</title><link>https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEl1cnhEMzVER2NFN3o0djltSUVJQVB6VGpnbUFTZVpyaXUtdk04eGxISkZZS0dneEFrYi1ub2l2SXhfODRiNmNCYmFjSlFMVVItemh5Ty1Ub3NTWTVFQXpRaXJRRWM2THE0SGgwa3ZNZ0Y1UHdZUVdKMTFXbE5qTzA1YTZEc3dGODlaZF96blo?oc=5</link><description>[score: 0.874] Breakingviews - COMMENTARY: コラム：英国のニート問題、制度見直しだけでは解消せず 景気とＡＩが逆風 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxQUEl1cnhEMzVER2NFN3o0djltSUVJQVB6VGpnbUFTZVpyaXUtdk04eGxISkZZS0dneEFrYi1ub2l2SXhfODRiNmNCYmFjSlFMVVItemh5Ty1Ub3NTWTVFQXpRaXJRRWM2THE0SGgwa3ZNZ0Y1UHdZUVdKMTFXbE5qTzA1YTZEc3dGODlaZF96blo?oc=5</guid><pubDate>Sun, 22 Nov 2026 00:12:47 +0000</pubDate></item><item><title>AIで本当に効率は上がっているか？「効率化の罠」の避け方</title><link>https://forbesjapan.com/articles/detail/108675?s=ns</link><description>[score: 0.874] AIを使えば、より多くの業務を迅速にこなせるようになる。しかし大所高所から眺めたとき、それは本当に時間と労力を節約できているのだろうか。エンジニアリングチームのコーディング出力が3倍になったとしても、そのコードにエラーはないだろうか。マーケティングチームがウェブサイト更新用に1年分のコンテンツを一気に作成できたとしても、誤字脱字や、イースターが過ぎた後に「ハッピー・イースター」と表示してしまうような時期尚早・時期外れのミスはないだろうか。会計の照合処理はできても、取引先が買収され請求書の送付元が別の会社に変わった事実に気づけるだろうか。
+実際に効率を高めるには、経営陣をはじめとする人間がAIと</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108675?s=ns</guid><pubDate>Sat, 21 Nov 2026 23:59:10 +0000</pubDate></item><item><title>COP31 会期延長し協議続く 化石燃料からの脱却などめぐり</title><link>https://news.web.nhk/newsweb/na/nd-20261122de79786</link><description>[score: 0.875] 気候変動対策を話し合う国連の会議「COP31」は、成果文書案に化石燃料からの脱却について盛り込まれなかったことなどをめぐり、会期を延長して協議が続いていて、各国が一致した方針を打ち出せるか不透明な状況…
+あわせて読みたい
+気候変動の偽情報投稿 国連「対策の障害に」日本も増加 注意を
+11月20日 10:32
+日本海側中心に雨や雪 新潟では土砂災害に厳重警戒を
+11月22日 6:57
+福島 北塩原村で国道通行止め 住民や宿泊客の孤立状態続く
+11月22日 5:02
+沖縄 火災で焼失の首里城正殿 きょう国主催の「復元完成式」
+11月22日 4:50
+金塊4億円相当や現金約2500万円など盗まれる </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261122de79786</guid><pubDate>Sat, 21 Nov 2026 23:35:34 +0000</pubDate></item><item><title>「QAエンジニアってどんな仕事？」｜現役エンジニアが語るQAのリアル｜QAエンジニア・H執筆</title><link>https://qiita.com/Oursship/items/b63fa21532f340fa467d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.875] QAエンジニアとは？
+QA（Quality Assurance）とは、日本語で「品質保証」という意味です。
+システムやソフトウェアの品質を保証することを主な業務としています。
+「ユーザーが安心して使える製品になっているか」
+その品質を守ることが、QAエンジニアの役割です。
+テストエンジニアとの違い
+QAエンジニアとよく比較される職種に、テストエンジニアがあります。
+私が考えるQAエンジニアとテストエンジニアの違いは、以下のとおりです。
+テストエンジニア
+「不具合やバグを発見すること」を重視し、テストの実行に重点を置きます。
+また、テストの段階（単体テスト・結合テストなど）によっては、開発エンジ</description><guid isPermaLink="false">https://qiita.com/Oursship/items/b63fa21532f340fa467d?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 21 Nov 2026 20:53:37 +0000</pubDate></item><item><title>福島 北塩原村で国道通行止め 住民や宿泊客の孤立状態続く</title><link>https://news.web.nhk/newsweb/na/nd-20261122de79781</link><description>[score: 0.875] 福島県北塩原村ではおとといから雪による倒木が相次いだ影響で国道の一部が通行止めになり、500世帯余りのほか、ホテルの宿泊客の孤立状態が続いています。県は22日朝から除雪作業を再開する予定ですが、通行止…
+あわせて読みたい
+金塊4億円相当や現金約2500万円など盗まれる 兵庫 西宮の住宅
+11月22日 0:03
+フィギュアGP第5戦 島田麻央 2連勝でファイナル進出決定
+11月22日 6:36
+ラグビー日本代表 スコットランドに62点差の大敗【詳報】
+11月22日 4:10
 冬型の気圧配置 北・東日本の山沿い中心に積雪増 交通に影響
-11月21日 18:40
-自民 鈴木幹事長 関文科相問責対応“消費税法案など成立優先”
-11月21日 15:08
-前橋 市街地出没のクマ見つからず 22日朝から捜索再開
-11月21</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261121de79709</guid><pubDate>Sat, 21 Nov 2026 10:10:24 +0000</pubDate></item><item><title>Claudeを使い「リーマン予想」を証明か　Anthropic数学者が発表　Lean検証も通過、数学界が精査へ</title><link>https://japan.cnet.com/article/35255245/</link><description>[score: 0.865] Claudeを使い「リーマン予想」を証明か Anthropic数学者が発表 Lean検証も通過、数学界が精査へ 米アンソロピックの数学者Levent Alpöge氏は11月20日、生成AI「Claude」と研究を進め、素数の分布に関わる難問「リーマン予想」の証明を見つけたとする声明を個人サイトで公開した。米マサチューセッツ工科大学（MIT）の研究者は、公開された証明コードが機械検証を通過したと報告した。追加の検証も続いている。</description><guid isPermaLink="false">https://japan.cnet.com/article/35255245/</guid><pubDate>Sat, 21 Nov 2026 01:13:06 +0000</pubDate></item><item><title>「高市首相が冷遇された」は騒ぎすぎ？　「習近平さんが大阪のG20に来た時の接遇は...」識者が指摘</title><link>https://www.j-cast.com/2026/11/21519334.html?p=all</link><description>[score: 0.866] 「高市首相が冷遇された」は騒ぎすぎ？ 「習近平さんが大阪のG20に来た時の接遇は...」識者が指摘 中国・深圳で開かれたAPECに出席した高市早苗首相は、空港到着時は他の首脳たちのような歓迎の踊りや花束もなく、タラップはわざとやったとしか思えないほど低くセットされていた。各国首脳の集合写真でも後列の端っこに追いやられた。中国の子どもっぽい「いじわる」に、日本国内では怒りの声が上がっているが、ベテラ...</description><guid isPermaLink="false">https://www.j-cast.com/2026/11/21519334.html?p=all</guid><pubDate>Sat, 21 Nov 2026 12:23:34 +0000</pubDate></item><item><title>AIエージェントは「仲間のAI」の助けが得られると思うと秘密を漏らしやすくなるという実験結果</title><link>https://gigazine.net/news/20261121-ai-agents-leak-secrets/</link><description>[score: 0.867] AIエージェントは「仲間のAI」の助けが得られると思うと秘密を漏らしやすくなるという実験結果
-AIエージェントにソフトウェアのバグ修正を任せ、別のAIとやり取りする中で秘密を守れるかどうかを調べる実験を行ったところ、修正方法を教えてもらう代わりに秘密の認証情報を相手に渡すエージェントがいたという実験結果が報告されています。
-AI agents give up their secrets under the influence of swarms | AI Alignment Foundation
-https://www.aialignmentfoundation.org/early-explo</description><guid isPermaLink="false">https://gigazine.net/news/20261121-ai-agents-leak-secrets/</guid><pubDate>Sat, 21 Nov 2026 12:08:11 +0000</pubDate></item><item><title>自民 鈴木幹事長 関文科相問責対応“消費税法案など成立優先”</title><link>https://news.web.nhk/newsweb/na/nd-20261121de79553</link><description>[score: 0.867] 関文部科学大臣に対する問責決議案の提出を野党側が検討していることについて、自民党の鈴木幹事長は、極めてセンシティブな判断が必要だとした上で、あくまで今国会での食料品の消費税減税関連法案などの成立を優先…
+11月21日 23:11
+自民 鈴木幹事長 関文科相問責対応“</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261122de79781</guid><pubDate>Sat, 21 Nov 2026 20:28:33 +0000</pubDate></item><item><title>ホテル更衣室で保育園児など盗撮疑い 福島県警の行政職員逮捕</title><link>https://news.web.nhk/newsweb/na/nd-20261122de79820</link><description>[score: 0.876] 千葉県内のホテルの浴場の更衣室で、訪れていた保育園児などを盗撮したとして、福島県警の40歳の行政職員が逮捕されました。容疑を否認しているということです。
+逮捕されたのは、福島県警の行政職員 高井健…
 あわせて読みたい
-関文科相 政治資金パーティーめぐり 野党から辞任要求相次ぐ
-11月21日 6:30
-関文科相 2024年に ほかに3回省庁職員が出席のパーティー開催
-11月20日 22:21
-冬型の気圧配置 北・東日本の山沿い中心に積雪増 交通に影響
-11月21日 18:40
-日本企業などから高額収入の海外居住者 課税強化へ
-11月21日 5:33
-安保3文書 与党内で防衛費の大幅増額求める</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261121de79553</guid><pubDate>Sat, 21 Nov 2026 06:00:31 +0000</pubDate></item><item><title>陰謀論YouTuberの件から見る社会 - 水城正太郎の道楽生活</title><link>https://s-mizuki.hatenablog.com/entry/2026/11/21/143125</link><description>[score: 0.867] このブログでは陰謀論ウォッチ的な観点から世界情勢について年に一回は書くことにしています。ここ最近、陰謀論業界においても世界情勢においても凄まじいことになってきているので、前倒しして少々触れていこうと思います。
-なにが起きているか
-陰謀論的には、まさに陰謀論を拡散している都市伝説YouTuberが政府広報に採用され、さすがにウォッチャーでない人々にも問題視されるようになってきました。
-世界情勢的には、Qアノン型の陰謀論集団が衰退し、同様の集団は中国やロシアのプロパガンダに影響された陰謀論を唱えるようになってきているのですが、それは米中露の首脳会談として結実してしまい、旧来の欧米型の秩序の崩壊を感</description><guid isPermaLink="false">https://s-mizuki.hatenablog.com/entry/2026/11/21/143125</guid><pubDate>Sat, 21 Nov 2026 06:05:42 +0000</pubDate></item><item><title>定数削減法案　野党「少数意見の排除だ」　与党は来週の採決を提案</title><link>https://news.tv-asahi.co.jp/news_politics/articles/000549411.html</link><description>[score: 0.868] 1
-衆議院の特別委員会で、衆議院議員の定数を比例代表のみで31議席削減する法案の審議が行われ、野党は「少数意見の排除だ」と批判しました。
-民主改革の会 重徳和彦衆議院議員
-「自民党さんを中心とした権力側がですね、比例定数を削減する。これはすなわち少数意見を排除する、この本質というものを外向けに出した時、有権者の皆さんがどう受け止めるとお考えか」
-自民党 鈴木馨祐衆議院議員
-「中規模政党、小規模政党においてもしっかりそういった反映機能がより強くなる方式ということを導入をしている。権力を持っている側の横暴だというご指摘は当たらない」
-自民党と日本維新の会、国民民主党の3党は、比例代表のみで31議席</description><guid isPermaLink="false">https://news.tv-asahi.co.jp/news_politics/articles/000549411.html</guid><pubDate>Sat, 21 Nov 2026 00:43:51 +0000</pubDate></item><item><title>除雪車にはねられ 国道横断中の女性死亡 福井 勝山</title><link>https://news.web.nhk/newsweb/na/nd-20261121de79712</link><description>[score: 0.868] 21日午前、福井県勝山市の国道で道路を横断していた71歳の女性が後ろに進んでいた大型の除雪車にはねられて死亡しました。
-警察によりますと、21日午前10時ごろ、勝山市長山町の国道の交差点で近くに住…
+日本海側中心に雨や雪 新潟では土砂災害に厳重警戒を
+11月22日 6:57
+フィギュアGP第5戦 島田麻央 2連勝でファイナル進出決定
+11月22日 6:36
+沖縄 火災で焼失の首里城正殿 きょう国主催の「復元完成式」
+11月22日 4:50
+福島 北塩原村で国道通行止め 住民や宿泊客の孤立状態続く
+11月22日 5:02
+前橋 市街地に出没のクマ見つからず 朝から捜索再開へ
+1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261122de79820</guid><pubDate>Sat, 21 Nov 2026 23:35:34 +0000</pubDate></item><item><title>収益の未来は「生きたシステム」にある</title><link>https://forbesjapan.com/articles/detail/108673?s=ns</link><description>[score: 0.876] この6カ月間、私は収益部門の次に何が起きるのかについて話し合う会議に出席してきた。だが次の資料を作成した後、居心地の悪い事実に気づいた。「未来」と題したほぼすべてのスライドが、今四半期に実行する必要のある仕事を説明していたのだ。
+多くの人にとって、「次」はすでに事業計画そのものである。収益組織を率いているなら、時計はこれから動き始めるのではない。すでに動いている。
+最高収益責任者の仕事は変わった
+かつての最高収益責任者（CRO）は、社内で最もクロージングに優れた人物が予測業務を担う役職に昇進した存在だった。だが、その仕事はもう存在しない。今日の収益リーダーは、パイプライン、実行、オンボーディン</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108673?s=ns</guid><pubDate>Sat, 21 Nov 2026 23:59:10 +0000</pubDate></item><item><title>暗号資産利用者の申告漏れ多く 国税当局が調査体制強化へ</title><link>https://news.web.nhk/newsweb/na/nd-20261121de79765</link><description>[score: 0.876] 暗号資産の利用者が年々増えるなか、東京国税局が昨年度、利用者90人あまりに税務調査を行い、あわせて39億円余りの申告漏れを指摘したことが関係者への取材でわかりました。税務申告をしない利用者が多いことか…
 あわせて読みたい
-大雪「除雪」事故を防ぐポイントは
-冬型の気圧配置 北・東日本の山沿い中心に積雪増 交通に影響
-11月21日 18:40
-福島 北塩原村 倒木で国道通行止め 514世帯948人が孤立状態
-11月21日 19:08
-【動画】今後の雨と積雪の見通しは 気象予報士解説 （21日）
-11月21日 19:40
-前橋 市街地出没のクマ見つからず 22日朝から捜索再開
-11月21日 20:56
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261121de79712</guid><pubDate>Sat, 21 Nov 2026 10:10:24 +0000</pubDate></item><item><title>【第10回】ゼロから目指す! CCDV-F合格への道：Claudeアプリの設計</title><link>https://qiita.com/Ray_T/items/def0bc4fd7c2fb7029f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.869] この記事について
-- Anthropic社の公式認定資格「Claude Certified Developer – Foundations(CCDV-F)」に向けた、非公式の学習シリーズ(全24回)の第10回です。（Anthropic社とは関係ありません）
-- 公式の試験ガイドをもとにした解説とオリジナルの確認問題だけで構成しています。（規約に従い、実際の試験問題は載せていません）
-- 筆者自身も、この試験をまだ受験・合格していません。(この連載を書きながら、自分も学習している途中です)
-- 記事は生成AI(Claude)の支援を受けて作成し、筆者が内容を確認しています。
-- 情報は 2026</description><guid isPermaLink="false">https://qiita.com/Ray_T/items/def0bc4fd7c2fb7029f6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 21 Nov 2026 08:35:53 +0000</pubDate></item><item><title>「パッチ地獄」が米IT障害誘発、AIがせかす脆弱性修正　銀行や空港停止 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOGN18CYM0Y6A111C2000000/</link><description>[score: 0.869] 「パッチ地獄」が米IT障害誘発、AIがせかす脆弱性修正 銀行や空港停止
-【ニューヨーク=西邨紘子、シリコンバレー=伴正春】米国の銀行や空港でシステム障害が相次ぐ。原因は個別に異なるものの、大きな背景には人工知能（AI）が膨大な脆弱性を見つけ、パッチ（修正）適用や更新を急がざるを得ない事情がある。日本のインフラも同様のリスクを抱える。
-マイクロソフト、チェース、ユナイテッド、アップルで障害相次ぐ
-12日（米時間）、米マイクロソフトの業務ソフトに不具合が発生し、メールを...
-※掲載される投稿は投稿者個人の見解であり、日本経済新聞社の見解ではありません。
-この投稿は現在非表示に設定されています
-(</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOGN18CYM0Y6A111C2000000/</guid><pubDate>Sat, 21 Nov 2026 09:15:57 +0000</pubDate></item><item><title>超難問「リーマン予想」AIと証明か　米アンソロピックの数学者発表：朝日新聞</title><link>https://www.asahi.com/articles/ASVCP10Z2VCPUHBI00GM.html</link><description>[score: 0.869] 超難問「リーマン予想」AIと証明か 米アンソロピックの数学者発表
-米国の人工知能（AI）開発企業アンソロピックの数学者は20日、「（同社のAIモデル）クロードと共同で、リーマン予想の証明を発見した」と個人サイト上で明らかにした。リーマン予想は数学の難問で、解決に100万ドル（約1.6億円）の懸賞がかけられている。専門家による検証が続けられているが、証明が正しければ数学の歴史的成果となる。
-発表したのは、同社の数学者レベント・アルポゲ氏。アルポゲ氏が、似た問題で使えた考え方をリーマン予想に応用する道筋をつけた。その後、ある数学的な操作を何回繰り返せば良いかが論点となり、クロードが具体的な回数を提</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVCP10Z2VCPUHBI00GM.html</guid><pubDate>Sat, 21 Nov 2026 11:16:30 +0000</pubDate></item><item><title>ゼレンスキー大統領「プーチンは殺人者」</title><link>https://news.web.nhk/newsweb/na/nd-20261121de79605</link><description>[score: 0.871] アメリカのトランプ大統領が、中国で行われたロシアのプーチン大統領との会談の際に、プーチン大統領を「友人」と呼んだことについて、ウクライナのゼレンスキー大統領は、「私たちにとって、プーチンは殺人者だ」と…
+沖縄 火災で焼失の首里城正殿 きょう国主催の「復元完成式」
+11月22日 4:50
+山形新幹線 早朝の一部列車を除き通常運転の見通し
+11月22日 4:27
+福島 北塩原村で国道通行止め 住民や宿泊客の孤立状態続く
+11月22日 5:02
+前橋 市街地に出没のクマ見つからず 朝から捜索再開へ
+11月22日 7:05
+香川 JR予讃線信号トラブル 特急など約6時間立往生も運転再</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261121de79765</guid><pubDate>Sat, 21 Nov 2026 21:32:38 +0000</pubDate></item><item><title>Googleが「Gemini 4 Neon」をリリース／「Chrome 158」登場</title><link>https://www.itmedia.co.jp/pcuser/articles/2611/22/news002.html</link><description>[score: 0.876] うっかり見逃していたけれど、ちょっと気になる――そんなニュースを週末に“一気読み”する連載。今回は、11月15日週を中心に公開された主なニュースを一気にチェックしましょう！
+Googleは11月18日、AIモデル「Gemini 4 Neon」を発表し、同日から順次提供を始めた。Gemini 4ファミリーでは、難度の高い長期のプロジェクトを「Gemini 4 Carbon」が、日常的な作業の素早い実行を11月12日公開の「Gemini 4 Hydrogen」が受け持つ。Neonはその中間で、推論の深さと効率のバランスを重視したとしている。
+開発者／企業向けには、Gemini APIの有料ティアと</description><guid isPermaLink="false">https://www.itmedia.co.jp/pcuser/articles/2611/22/news002.html</guid><pubDate>Sat, 21 Nov 2026 22:06:18 +0000</pubDate></item><item><title>会社員としてのスキルはすでにビジネスになる。あとは始めるだけだ</title><link>https://forbesjapan.com/articles/detail/108670?s=ns</link><description>[score: 0.877] 会社員としてのスキルはすでにビジネスになる。あとは始めるだけだ
+私の知人は、フォーチュン500企業で最高マーケティング責任者（CMO）を務めていた。娘の誕生後、彼女は家族と過ごす時間を増やすため、時間の自由度と自分でコントロールできる余地をもっと持ちたいと考えるようになった。
+そこで彼女は、会社員として使ってきたまさにそのスキルを生かし、自分が提供できるサービスについてLinkedInで発信し始めた。別の雇い主を探す代わりに、彼女は最初のクライアントを見つけたのだ。
+最初のクライアントから得た収入が、給与の一部を補った。その後、彼女は次々と新しい顧客を獲得する方法を身につけていった。
+現在、彼</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108670?s=ns</guid><pubDate>Sat, 21 Nov 2026 23:30:44 +0000</pubDate></item><item><title>トランプ氏、ICCは「制御不能」 米中ロ3か国で非難と強調（ＡＦＰ＝時事） - Yahoo!ニュース</title><link>https://news.yahoo.co.jp/articles/01055ab948ba7aadb592fbe2ba95ca1bb48c700c</link><description>[score: 0.878] トランプ氏、ICCは「制御不能」 米中ロ3か国で非難と強調（ＡＦＰ＝時事） - Yahoo!ニュース 米首都ワシントンのホワイトハウスで記者会見を行うドナルド・トランプ大統領（2026年11月20日撮影）。【翻訳編集】 AFPBB News（AFP＝時事）【AFP＝時事】ドナルド・トランプ米大統領は20日、国際刑事裁判所（ICC）が「制御不能になっている」と批判し、米国、ロシア、中国の3か国がICCを共同で非難したと強調した。 【...</description><guid isPermaLink="false">https://news.yahoo.co.jp/articles/01055ab948ba7aadb592fbe2ba95ca1bb48c700c</guid><pubDate>Sat, 21 Nov 2026 22:40:46 +0000</pubDate></item><item><title>AIバブル論の整理</title><link>https://note.com/cjdbx883/n/ne8a9e6d580e0</link><description>[score: 0.878] AIバブル論の整理
+言葉の定義の重要性
+最近の株式市場では、AI半導体株が急落したこともあり、巷で「AIバブル崩壊」という言葉をよく目にする。しかし、私はこの言葉にかなり違和感がある。そもそも、何が膨らみ、何が崩壊したのだろうか。今回は、まずこの言葉から掘り下げてみたい。言葉の使い分けの話に聞こえるかもしれないが、実は、株式市場を正しく見るうえでも重要な作業なのだ。
+まず、「AIバブルの崩壊」と「AI関連株のバブル崩壊」では、意味合いが違う。「AIバブル」という言葉は、AIが社会を変えるという期待も、データセンターへの巨額投資も、半導体企業の株価も、すべて含み得る。AI関連株の下落は、そのうち</description><guid isPermaLink="false">https://note.com/cjdbx883/n/ne8a9e6d580e0</guid><pubDate>Sat, 21 Nov 2026 23:46:22 +0000</pubDate></item><item><title>Claude Code が調べずに「ありません」「できません」と答えるのを Stop フックで差し戻す(道具を1回も呼んでいない返事だけを止める)</title><link>https://qiita.com/takamatt_ai/items/043da9bb50a9136d38b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] 読み終えるとできること
+道具で何も調べていないのに「入っていません」「できません」と言い切る返事を、Stop フックで差し戻せるようになります。
+根拠は、2026-11-18 に偽の会話記録を作って6通りを実行した結果です(下の「動かした結果」)。
+何に困ったか
+Claude Code が、ファイルや保存先を1つも開かずに「その資料は手元にありません」「ここでは使えません」と答えることがありました。
+確かめずに答えて外したことが、同じ会話で3回続きました。
+そこで CLAUDE.md に「ないと言う前に調べる」と書くのに加えて、最後の発言のあとに道具を1回も呼んでいないのに否定の言い切りがある</description><guid isPermaLink="false">https://qiita.com/takamatt_ai/items/043da9bb50a9136d38b5?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 21 Nov 2026 20:53:37 +0000</pubDate></item><item><title>AI自律兵器の国際会議 法的拘束力あるルール作りで合意できず</title><link>https://news.web.nhk/newsweb/na/nd-20261121de79771</link><description>[score: 0.884] 人間が関与せず、AIなどを用いて自律して攻撃する兵器システムをテーマにした国際会議はヨーロッパ各国が法的拘束力のあるルール作りを求めたのに対し、アメリカやロシアが反対したため合意には至りませんでした。…
 あわせて読みたい
+ウクライナ支援の有志連合 初の軍事演習をメディアに公開
+11月21日 21:30
 トランプ大統領 米国外のデータセンター建設認めず 罰則も
 11月21日 10:16
-仏大統領選元首相立候補表明 極右ルペン氏支持トップ
-11月21日 11:18
-トランプ大統領 中ロ首脳との3者会談の意義強調
-11月21日 18:30
-サウジ側がフーシ派実効支配の首都攻撃 フーシ派は報復主張
-11月21日 6:59
-ウクライナ“ロシアから最大規模攻撃 8人死亡約30人けが”
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261121de79605</guid><pubDate>Sat, 21 Nov 2026 04:53:47 +0000</pubDate></item><item><title>米高校生の大学出願はAIが頼り、エッセーの代筆も　大学側は対応に苦慮</title><link>https://www.cnn.co.jp/tech/35255255.html</link><description>[score: 0.872] AIの存在が、大学出願の際に提出するエッセーの扱いを複雑なものにしている/Photo Illustration by Jason Lancaster/CNN/Getty Images ニューヨーク（CNN） 米国の大学出願の際に提出を求められるエッセーが混迷状態にある。人工知能（AI）に書かせたエッセーがどれほど増えたのかは不明だが、既に多数に上るとの見方で専門家は一致している。そうした現状に対して大学側は眉をひそめながらも、エッセーの採点にやはりAIを利用している。 志望校への入学を目指して優位に立とうとする争いは激化の一途にある。 カリフォルニア大学バークリー校を2025年に卒業し、大学入</description><guid isPermaLink="false">https://www.cnn.co.jp/tech/35255255.html</guid><pubDate>Sat, 21 Nov 2026 08:47:27 +0000</pubDate></item><item><title>米カリフォルニア州がエヌビディアに召喚状、AI半導体の中国流出疑惑を調査</title><link>https://forbesjapan.com/articles/detail/108637?s=ns</link><description>[score: 0.876] 米カリフォルニア州のロブ・ボンタ司法長官は米国時間2026年11月19日、半導体大手エヌビディアとジェンスン・フアン前最高経営責任者（CEO）を巡る調査で、エヌビディアに召喚状を送達したと発表した。ジェンスン・フアンが中国のスパイと疑われる女性と不倫関係にあったとされる問題を巡り、当局の追及が強まっている。
-米カリフォルニア州司法長官がエヌビディアに召喚状
-ボンタは11月19日の発表で、ジェンスン・フアンとアリス・フアンの不倫疑惑が報じられたことを受け、調査のために召喚状を出したと明らかにした。アリス・フアンには、中国の情報機関とのつながりが疑われている。
-先端AI半導体や機密情報の中国流出と</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108637?s=ns</guid><pubDate>Sat, 21 Nov 2026 03:21:10 +0000</pubDate></item><item><title>AIにコードレビューを頼んだら、仕込んだ脆弱性をいくつ見つけるか実験してみた</title><link>https://qiita.com/Machida-03/items/feaa1fc101e83d09110a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] はじめに
-これまでの記事では、AI エージェントにコードを書かせたときに、セキュリティの穴を開けるかどうかを試してきました。
-今の AI は、だれが見ても危ないコードはあまり書かない、というのがこれまでの結果でした。
-では、反対の立場ではどうでしょうか？
-私は開発経験が浅いので、自分の書いたコードを AI にレビューしてもらうことがあります。
-そのとき、AI が「問題ありません」と言ったら、本当に信じてよいのでしょうか？
-そこで、穴をわざと5つ仕込んだ変更を AI エージェント（Claude Code）にレビューしてもらい、いくつ見つけるかを数えてみました。
-結果から言うと、6回とも5つ全部を</description><guid isPermaLink="false">https://qiita.com/Machida-03/items/feaa1fc101e83d09110a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 21 Nov 2026 08:35:53 +0000</pubDate></item><item><title>GitHub - fkubota/understand-mode: Claude Code の出力・PR・コードを、付箋のホワイトボードで寄り道しながら理解する /understand スキル</title><link>https://github.com/fkubota/understand-mode</link><description>[score: 0.878] GitHub - fkubota/understand-mode: Claude Code の出力・PR・コードを、付箋のホワイトボードで寄り道しながら理解する /understand スキル You signed in with another tab or window. Reload to refresh your session. You signed out in another tab or window. Reload to refresh your session. You switched accounts on another tab or window. Reload t</description><guid isPermaLink="false">https://github.com/fkubota/understand-mode</guid><pubDate>Sat, 21 Nov 2026 13:51:50 +0000</pubDate></item><item><title>Cloudflare Radarの「Zero Wire」、脆弱性の影響範囲や深刻度を調べられるページをCVEごとに公開</title><link>https://gihyo.jp/article/2026/11/cloudflare-zero-wire-cve-pages?utm_source=feed</link><description>[score: 0.881] Cloudflareは2026年11月20日、Cloudflare Radarの脆弱性情報サイト「Zero Wire」に、公開済みのCVEすべての個別ページを追加した。11月3日の公開当初は、インターネットに公開するサービスやそれを支えるソフトウェアの重大な脆弱性をCloudflareが選び、解説記事で取り上げていた。今回の更新で、解説記事のないCVEについても、Zero Wireの個別ページで影響を受ける製品や悪用に関する情報を調べられるようになった[1]。CVEによっては、修正版や回避策も同じページで確認できる。
-Cloudflareが解説で取り上げたCVEなら、個別ページから記事を開き、</description><guid isPermaLink="false">https://gihyo.jp/article/2026/11/cloudflare-zero-wire-cve-pages?utm_source=feed</guid><pubDate>Sat, 21 Nov 2026 09:12:47 +0000</pubDate></item><item><title>【TLA+】AIにテストケースを書かせるな。ルールを書け</title><link>https://zenn.dev/karamage/articles/73027ee36796dc</link><description>[score: 0.883] 「はて、このテストケース、誰が考えたんだっけ？ ほんとにだいじょぶ？」 AIに頼めば、実装もテストも数秒で出て、CIが全部グリーンになって Approveボタンを押そうとしたとき、ふと背筋がゾッとして手が止まりました。 なんか嫌な予感。。。 実装を書いたのはAI レビューしたのもAI テストを書いたのも同じAI ま、だいじょぶでしょ！(大丈夫じゃない) えぇい、ままよ！ マージしちゃえ！ 問い: AIがコードもテストも書く時代に、テストはどう変わるのか？ 結論: 人間は「テストケース」を書くのをやめて、「守るべきルール」を書く 理由: テストケースを考えるのは機械のほうが得意で、ル...</description><guid isPermaLink="false">https://zenn.dev/karamage/articles/73027ee36796dc</guid><pubDate>Sat, 21 Nov 2026 10:02:53 +0000</pubDate></item><item><title>バイブコーディング・isdd・AI-DLCに同じ依頼を出して、できあがりと手間を比べた</title><link>https://qiita.com/notfolder/items/c4480072ef594e591dc8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] はじめに
-AIにアプリを作ってもらうとき、要件定義や設計の手順を踏ませたほうが、良いものができるのでしょうか。それとも、作りたいものをそのまま伝えるだけで十分なのでしょうか。
-私はisddという、AIが質問しながら要件を決め、設計してから実装する手順を作っています。作っている本人として、この手順に意味があるのかを確かめたくなりました。そこで、同じ依頼を次の3つのやり方でClaude Codeに渡し、できあがったアプリを同じテストで採点しました。
-| やり方 | 内容 |
-|---|---|
-| バイブコーディング | 手順を何も入れず、依頼文をそのまま渡して作ってもらう |
-| isdd | </description><guid isPermaLink="false">https://qiita.com/notfolder/items/c4480072ef594e591dc8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 21 Nov 2026 08:35:53 +0000</pubDate></item><item><title>トランプ氏、データセンター国外建設認めず　米中でAI安全策検討 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOGN20CXV0Q6A121C2000000/</link><description>[score: 0.885] トランプ氏、データセンター国外建設認めず 米中でAI安全策検討
-【ワシントン=八十島綾平】トランプ米大統領は20日、アジア訪問を総括する記者会見を開いた。中国の習近平（シー・ジンピン）国家主席との間で、人工知能（AI）に対する「ガードレール（安全策）」を検討することで合意したと述べた。
-トランプ氏は中国・深圳でのアジア太平洋経済協力会議（APEC）首脳会議に出席したあと19日夜にワシントンに戻った。
-20日の会見で、習氏との首脳会談で「私たち2人で何らかの『...
-この記事は会員限定です。登録すると続きをお読みいただけます。
-残り901文字
-※掲載される投稿は投稿者個人の見解であり、日本経済新</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOGN20CXV0Q6A121C2000000/</guid><pubDate>Sat, 21 Nov 2026 04:37:33 +0000</pubDate></item><item><title>AI利用料値上げの足音──アンソロピック上場で判明、約144兆円の支払い契約</title><link>https://forbesjapan.com/articles/detail/108557?s=ns</link><description>[score: 0.886] アンソロピック（Anthropic）は米国時間2026年11月19日にナスダック市場へ上場し、翌20日に新規株式公開（IPO）を完了した。世界有数のAIモデル開発企業を運営するには、どれほどの資金が必要で、何に費用がかかるのか。投資家やAI業界は、これまでほとんど得られなかった詳しい財務情報を、今後は継続して確認できるようになる。
-株式売り出し約14.96兆円、IPOで変わる財務情報の開示
-引受証券会社が追加購入権をすべて行使した結果、IPOで売り出された株式は11億2700万株に増えた。公開価格は1株83ドルで、株式売り出し総額は過去最大の約935億ドル（約14.96兆円）に達した。うちアン</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108557?s=ns</guid><pubDate>Sat, 21 Nov 2026 07:22:38 +0000</pubDate></item><item><title>ウクライナ支援の有志連合 初の軍事演習をメディアに公開</title><link>https://news.web.nhk/newsweb/na/nd-20261121de79750</link><description>[score: 0.898] ウクライナを支援する有志連合による初めての大規模な軍事演習が20日、メディアに公開され、各国の部隊はウクライナの安全の保証に向けて現地で活動するため、連携を確認していました。
-ウクライナを支援する…
-あわせて読みたい
 ゼレンスキー大統領「私たちにとってプーチンは殺人者」
 11月21日 13:22
-ウクライナ“ロシアから最大規模攻撃 8人死亡約30人けが”
-11月21日 6:46
-英EU首脳会談 輸出入手続きの簡素化で合意 離脱後の関係強化
-11月21日 7:35
-トランプ大統領 中ロ首脳との3者会談の意義強調
-11月21日 18:30
+ナスダック株価指数急落 今週4兆ドル時価総額が消失
+11月21日 13:33
+仏大統領選元首相立候補表明 極右ルペン氏支持トップ
+1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261121de79771</guid><pubDate>Sat, 21 Nov 2026 22:38:36 +0000</pubDate></item><item><title>検索順位から「シグナル」へ：AI検索が本当に重視する評価基準とは？</title><link>https://forbesjapan.com/articles/detail/108671?s=ns</link><description>[score: 0.885] 長年にわたり、検索における視認性（可視性）は比較的分かりやすく説明できていた。企業は重要なキーワードを特定し、それを中心にコンテンツを制作し、Googleでの検索順位向上に取り組んできた。しかしAIの世界では、こうした検索の捉え方は有用性を失いつつある。
+自社の検索順位を可視性の指標として今も報告している企業は、その順位が顧客の実際の情報検索方法を反映しているのか自問する必要がある。AIシステムは複数の情報源を活用して直接回答を生成するため、検索順位を追いかけるのではなく、「自社にとって重要な質問がなされている際、自社はどこに表示されているか？」と問いかけるべきなのだ。
+キーワードよりもプロン</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108671?s=ns</guid><pubDate>Sat, 21 Nov 2026 23:30:44 +0000</pubDate></item><item><title>後戻りできないAI時代、超知能はこうして日常に根付く</title><link>https://forbesjapan.com/articles/detail/108672?s=ns</link><description>[score: 0.886] 4年連続で絶え間ない成長を遂げてきた人工知能（AI）業界だが、今後は厳しい課題に直面することを示す大きな兆候が現れている。資金調達の停滞、安全性の懸念、プライバシーへの不安、データセンター建設に対するNIMBY（近隣反対運動）といったリスクが存在するものの、筆者は企業や消費者に対し、依然としてAIの可能性に「強気で賭ける」ことを強く推奨する。AIは人々の生活に不可欠な存在になりつつあり、もはや後戻りはできないのだ。
+AIが短期的課題を克服し、社会や経済のあらゆる側面に普及し続けると確信する理由は何だろうか。
+第一に、資金調達の問題やデータセンター建設に対する反発は一過性の問題だ。AIやコンピュ</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108672?s=ns</guid><pubDate>Sat, 21 Nov 2026 23:30:44 +0000</pubDate></item><item><title>トランプ氏、日本など「取り残されたと感じたよう」米中露会談巡り | 毎日新聞</title><link>https://mainichi.jp/articles/20261121/k00/00m/030/049000c</link><description>[score: 0.887] トランプ米大統領は20日、ホワイトハウスで記者会見し、アジア歴訪の成果をアピールした。日本を含む数カ国に言及して「非常に素晴らしく力強い国々だ」と称賛したが、19日に中国・深圳で開かれた米中露首脳会談を巡って「彼らは少し取り残されたと感じたようだ」との認識を示した。
+会談後に3首脳が発表した「平和首脳宣言」では、国際刑事裁判所（ICC）を批判。トランプ氏はICCから逮捕状が出ているプーチン露大統領にとって「特に不愉快だろう」と述べ「偽りの力しかないのに首脳を逮捕できると思っているので、世界で最も重要で力のある3カ国が非難した」と主張した。
+トランプ氏は、会談が第二次大戦期に米国、英国、ソ連（当</description><guid isPermaLink="false">https://mainichi.jp/articles/20261121/k00/00m/030/049000c</guid><pubDate>Sat, 21 Nov 2026 23:21:32 +0000</pubDate></item><item><title>中小企業のAI導入はなぜ「広く浅く」にとどまるのか</title><link>https://forbesjapan.com/articles/detail/108667?s=ns</link><description>[score: 0.888] ゴールドマン・サックスの中小企業向けプログラム修了生にAIを使っているかと尋ねれば、ほぼ全員がイエスと答える。バブソン大学が同行の「10,000 Small Businesses」プログラム修了生を対象に8月10～24日に実施した調査（回答数2473件）では、86%が業務でAIを活用しており、2024年の56%から増加した。しかし、会社の運営そのものにAIが組み込まれているかと問えば、答えは反転する。中核業務に完全に統合されていると回答したのは、わずか15%にとどまった。
+このパターンは、2026年に実施された中小企業のAI導入に関するほぼすべての調査に共通している。経営者や従業員は、メールの</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108667?s=ns</guid><pubDate>Sat, 21 Nov 2026 22:58:36 +0000</pubDate></item><item><title>CEOの次なる成長戦略：人間とAIの両方に向けたマーケティング</title><link>https://forbesjapan.com/articles/detail/108674?s=ns</link><description>[score: 0.890] この30年間、成長とはおおむね、人間の注意をめぐる争奪戦に勝つことを意味してきた。人々が記憶するブランドを築き、人々が訪れるウェブサイトを最適化し、人々が共有する広告をつくった。人々が生み出すクリック、インプレッション、コンバージョンを測定してきた。いま、根本的な変化が起きている。顧客はますます、そうした作業のすべてを自分で行うのではなく、AIに代行させるようになっているのだ。
+ChatGPT、Claude、Gemini、Perplexity、Google AI Modeのいずれであれ、数百万人がすでに、ウェブサイトを訪れたり営業担当者と話したりする前に、企業の調査、製品比較、ベンダーの絞り込</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108674?s=ns</guid><pubDate>Sat, 21 Nov 2026 23:59:10 +0000</pubDate></item><item><title>Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張　Leanコミュニティが「正しい」と認定</title><link>https://www.itmedia.co.jp/news/article/2611/22/2000003388/</link><description>[score: 0.892] Anthropicの数学者、「Claude」と共同で「リーマン予想」を証明したと主張 Leanコミュニティが「正しい」と認定
+米Anthropicに所属する数学者のレベント・アルポーゲ氏は11月20日（現地時間）、自身のWebサイトで声明を発表した。同社のAI「Claude」と共に、数学の未解決問題「リーマン予想」の証明を見つけたと考えているという。証明は証明支援系「Lean」で記述した形式証明として公開した。Leanの開発者や利用者のコミュニティは21日、この証明が正しいと認定する共同声明を出している。
+リーマン予想とは、ドイツの数学者ベルンハルト・リーマンが1859年に提唱した予想だ。一見</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/22/2000003388/</guid><pubDate>Sun, 22 Nov 2026 00:10:28 +0000</pubDate></item><item><title>デンマーク ロシア主導の暗殺計画阻止と発表 首相「制裁強化」</title><link>https://news.web.nhk/newsweb/na/nd-20261122de79796</link><description>[score: 0.895] 北欧デンマークの首相府は、国内での暗殺計画を警察などが阻止したと発表しました。ロシアの情報機関が計画を主導したとみられるとして、フレデリクセン首相はロシアへの制裁を強化するとしています。
+デンマー…
+あわせて読みたい
+プーチン大統領 米中ロ首脳会談意義強調 継続開催に前向き
+11月20日 5:51
+米中ロ首脳会談“国際秩序の変化を象徴” 世界 日本への影響は
+11月20日 22:04
+COP31 会期延長し協議続く 化石燃料からの脱却などめぐり
+11月22日 7:06
+AI自律兵器の国際会議 法的拘束力あるルール作りで合意できず
+11月22日 6:02
+ゼレンスキー大統領「3か国首脳会談はロシ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261122de79796</guid><pubDate>Sun, 22 Nov 2026 00:33:42 +0000</pubDate></item><item><title>ゼレンスキー大統領「3か国首脳会談はロシアにとっては失敗」</title><link>https://news.web.nhk/newsweb/na/nd-20261122de79819</link><description>[score: 0.897] ウクライナのゼレンスキー大統領はアメリカ、中国、ロシアによる3か国の首脳会談について「ロシアにとっては失敗に終わった」と述べ、プーチン大統領の期待どおりには進まなかったという認識を示しました。
+ゼ…
+あわせて読みたい
+AI自律兵器の国際会議 法的拘束力あるルール作りで合意できず
+11月22日 6:02
+ウクライナ支援の有志連合 初の軍事演習をメディアに公開
+11月21日 21:30
 トランプ大統領 米国外のデータセンター建設認めず 罰則も
-</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261121de79750</guid><pubDate>Sat, 21 Nov 2026 13:13:59 +0000</pubDate></item><item><title>AIエージェントに堅牢なテストを書かせるには？</title><link>https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7</link><description>[score: 0.899] AI コーディングエージェントにテストを書かせると、実装を少し変えただけで壊れるテストができることがあります。この記事はそうならないテストを書かせる手順を 4 つにまとめたものです。筆者が自分のプロダクトで 15 日間試した結果を反映しています。 対象読者 次のどれかに当てはまる開発者に向けて書きました。 AI コーディングエージェント (Claude Code、Codex など) に、実装の前にテストを書かせている。または、これからそうしたい エージェントが書いたテストが、実装を少し変えただけで壊れて困っている エージェントがテストを書き換えて合格させるのが心配で、テストを保護...</description><guid isPermaLink="false">https://zenn.dev/yasuakiomokawa/articles/3ac970c3a3a1c7</guid><pubDate>Sat, 21 Nov 2026 10:02:53 +0000</pubDate></item></channel></rss>
+11月21日 10:16
+ゼレンスキー大統領「私たちにとってプーチンは殺人者」
+11月21日 13:22
+ナスダック株価指数急落 今週4兆ドル時価総額が消失</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261122de79819</guid><pubDate>Sat, 21 Nov 2026 23:35:34 +0000</pubDate></item></channel></rss>
