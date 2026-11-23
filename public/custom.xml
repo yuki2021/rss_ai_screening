@@ -1,80 +1,136 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 23 Nov 2026 16:51:34 +0000</lastBuildDate><item><title>価値の99％が消失、トランプ大統領の暗号資産暴落と当局の本格調査</title><link>https://forbesjapan.com/articles/detail/108706?s=ns</link><description>[score: 0.864] 「初の暗号資産大統領」を自称するドナルド・トランプ米大統領が発行に関与したミームコイン「$TRUMP（オフィシャル・トランプ）」が、ここ数カ月でビットコインをはじめとする暗号資産市場全体とともに急落している。暗号資産市場では、時価総額が2兆ドル（約318兆円）を下回りかねないとして、トレーダーが突如として身構えている。
-トランプのミームコインは、わずか3カ月で70％も下落した。2025年1月下旬に史上最高値をつけてから、価値の99％が吹き飛んだことになる。
-そして今、実業家のイーロン・マスクが「世界的な破産」のリスクに警鐘を鳴らすなか、トランプは自身のミームコイン購入者を招く第2回晩餐会を開催</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108706?s=ns</guid><pubDate>Mon, 23 Nov 2026 08:28:38 +0000</pubDate></item><item><title>Claude Codeのセッションを分岐して並行作業する：/fork と --fork-session の手順・落とし穴・検証方法</title><link>https://qiita.com/joinclass/items/8b30d5453db55388966a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.864] はじめに
-当社（合同会社ジョインクラス）は、社員のいない会社を Claude Code で回しています。launchd のジョブが 30 本ほど毎日 claude -p
-を呼び、部署ごとの仕事をしています。
-僕が対話セッションでいちばん困っていたのは、長いセッションで調べ物をした後、「A案とB案を両方試したい」ときに文脈が1本しかないことでした。A案を試して失敗すると、会話がA案の試行錯誤で埋まります。B案に戻るころには、最初に集めた前提が自動要約で薄まっていました。
-これを解決するのがセッションの分岐（fork）です。この記事では次の3つを、当社で実際に動いているスクリプトを元に書きます。
-</description><guid isPermaLink="false">https://qiita.com/joinclass/items/8b30d5453db55388966a?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 23 Nov 2026 08:41:15 +0000</pubDate></item><item><title>ウクライナで被害住宅から2人救助 7歳の男の子は14時間後に</title><link>https://news.web.nhk/newsweb/na/nd-20261123de80276</link><description>[score: 0.865] ウクライナの首都キーウ近郊では、ロシアによる攻撃で集合住宅が崩壊し、これまでに11人の死亡が確認されました。
-一方、現場のがれきの下からは7歳の男の子が14時間後に、高齢の女性が22時間後に救助され…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Mon, 23 Nov 2026 21:07:49 +0000</lastBuildDate><item><title>若い世代で増える脳卒中の謎、大麻でリスクは上がるのか</title><link>https://natgeo.nikkeibp.co.jp/atcl/news/26/112000642/?rss</link><description>[score: 0.850] 脳卒中の発生率は、高齢世代では下がっている一方で、若年成人では増加傾向にある。
+若年層の脳卒中は依然として比較的まれだが、人生を一変させる可能性がある。仕事や子育て、高齢の親の介護を並立させなければならない年齢にもかかわらず、生存できても運動機能、言語機能、認知機能に障害が残ることが多い。医学誌「Stroke」に発表された研究によれば、若年成人期の脳卒中は、後年の認知症リスクを高めるおそれもある。
+高血圧を抱える人の割合の上昇は、この傾向の説明になりうる。高血圧は、時間の経過とともに血管を損傷し、脳血管をふさいだり脳内出血を引き起こしたりする可能性を高めるため、脳卒中の主要なリスク因子となる。</description><guid isPermaLink="false">https://natgeo.nikkeibp.co.jp/atcl/news/26/112000642/?rss</guid><pubDate>Mon, 23 Nov 2026 21:05:43 +0000</pubDate></item><item><title>AWS Lambda MicroVMsで動作するWebサーバからAmazon Auroraにアクセスする</title><link>https://qiita.com/neruneruo/items/ca9f94a6883fd78ea49c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.853] はじめに
+AWS Lambda MicroVMs記事第2弾。
+第1弾の記事はこちら。今回の記事は前回記事で作成したリソースを変更してくため、まずはこちらを読んでいただきたい。
+前回は、単純なWebサーバを起動して応答させるところまで構築した。
+AWS Lambda MicroVMsは非VPCリソースであるため、このままの構成ではAmazon AuroraインスタンスなどのVPCリソースにアクセスすることはできない。そこで、今回は、VPCリソースに接続して応答するインタフェースを作成する。
+いつも通り、各種リソースはTerraformでの自動構築を行う。
+システム構成
+今回のゴールとなる構成図は</description><guid isPermaLink="false">https://qiita.com/neruneruo/items/ca9f94a6883fd78ea49c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 23 Nov 2026 20:13:47 +0000</pubDate></item><item><title>伝説の「VZ Editor」を Rust + egui で現代の Linux (x86_64 / ARM64) 向けに蘇らせた話</title><link>https://qiita.com/Tamane/items/f67fb1745ad81480f75f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.853] はじめに
+かつて MS-DOS（PC-9801 や HP 200LX など）の時代に一世を風靡したテキストエディタ 「VZ Editor」。
+ホームポジションから指を動かさずに操れるダイヤモンドカーソル（^E
+/^S
+/^D
+/^X
+）や、ESC
+キー一発で切り替わる軽快な 2画面ファイラーの操作感は、誕生から約40年近く経った今でも指先に染みついています。
+現在、私は普段使いのデスクトップ環境として Raspberry Pi 5 (ARM64 / Debian・Ubuntu) などの Linux 環境をメインで使っていますが、「あの VZ の軽快な操作体系と PC-98 風の濃紺画面を、現代</description><guid isPermaLink="false">https://qiita.com/Tamane/items/f67fb1745ad81480f75f?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 23 Nov 2026 20:13:47 +0000</pubDate></item><item><title>ＮＡＴＯ、対ロ抑止・防衛を常時検証 ロシア核搭載衛星報道受け＝事務総長 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxQcktUQWo3OEY3d0FFMmFPcWZTYnBjMm8zMWJmS1pwdUVsd2xZa2NKSlVHVFQxUWM4ODFtTDRqcFVqSHBUMU9jem5ybDBwdXc5R0ZWV0sxQnM4c1NPUGhsOWVpZk5YOTNqSFVuQVFlcEhUeC1VVl8xUG16SnBrZHZlZDk2dTV1Zw?oc=5</link><description>[score: 0.859] ＮＡＴＯ、対ロ抑止・防衛を常時検証 ロシア核搭載衛星報道受け＝事務総長 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxQcktUQWo3OEY3d0FFMmFPcWZTYnBjMm8zMWJmS1pwdUVsd2xZa2NKSlVHVFQxUWM4ODFtTDRqcFVqSHBUMU9jem5ybDBwdXc5R0ZWV0sxQnM4c1NPUGhsOWVpZk5YOTNqSFVuQVFlcEhUeC1VVl8xUG16SnBrZHZlZDk2dTV1Zw?oc=5</guid><pubDate>Mon, 23 Nov 2026 20:48:01 +0000</pubDate></item><item><title>パソコンが壊れるより怖いデータ消失を防ぐ方法 - 予防保守ラボ</title><link>https://mk01.hatenadiary.com/entry/2026/11/23/052114</link><description>[score: 0.860] 「パソコンが壊れたら困る」と考える人は多いですが、
+本当に怖いのはパソコンの故障そのものではありません。
+本当に怖いのは、その中に入っていたデータが消えてしまうことです。
+パソコンは買い替えれば解決します。
+しかし、何年もかけて集めた写真や仕事の資料、ブログの原稿、設定情報は、
+一度失われると二度と戻ってこない場合があります。
+今回は、私自身が重視している「データ消失を防ぐための予防保守」について書いてみたいと思います。
+パソコンは壊れても買い替えられる
+例えば、10万円のパソコンが故障したとします。
+痛い出費ではありますが、新しいパソコンを買えば作業は再開できます。
+しかし、
+- 家族の写真</description><guid isPermaLink="false">https://mk01.hatenadiary.com/entry/2026/11/23/052114</guid><pubDate>Mon, 23 Nov 2026 19:06:03 +0000</pubDate></item><item><title>中国で縦型ショートドラマを作成する制作陣のドキュメンタリーがNHKスペシャルで放映、監督の濃いキャラクターと熱い展開が話題に</title><link>https://togetter.com/li/2774163</link><description>[score: 0.860] 中国で縦型ショートドラマを作成する制作陣のドキュメンタリーがNHKスペシャルで放映、監督の濃いキャラクターと熱い展開が話題に マシュマロの日 @DayofMarshmallo NHKスペシャルに出てきた縦型ショートドラマを制作してる監督がクライアントから送られてきたバズ狙いの脚本をディスってたのにクライアントから電話がかかってきたら動じることなく平然と脚本をベタ褒めし始めたところはコントみたいで笑ってしまった。でも最後まで見ると涙が出るほど...</description><guid isPermaLink="false">https://togetter.com/li/2774163</guid><pubDate>Mon, 23 Nov 2026 19:33:34 +0000</pubDate></item><item><title>Nvidia Reinstates Jensen Huang as CEO</title><link>https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html</link><description>[score: 0.861] Nvidia on Monday announced Jensen Huang has been reinstated as CEO, effective immediately, a dramatic twist in a scandal that hammered the chipmaker's stock price and rocked the tech and artificial intelligence industries.
+The board of directors said it unanimously voted to reinstate Huang following</description><guid isPermaLink="false">https://www.cnbc.com/2026/11/23/nvidia-jensen-huang-ceo.html</guid><pubDate>Mon, 23 Nov 2026 18:43:33 +0000</pubDate></item><item><title>【オモコロ杯】プロ漫画家に聞く漫画のコツ | オモコロ</title><link>https://omocoro.jp/kiji/596021/</link><description>[score: 0.861] 最近、発明しました。
+ほう
+発明？
+9月が速攻終わって、10月もあっという間に終わって、なんか急に寒いじゃないですか。
+でも、まだ暖房って感じでは、ないですよね。そんなときの便利アイテムを発明しました。
+暖房つけてます
+それが
+エアコンつけてる
+え？
+暖房つけてんの？
+断たれた
+『みくのしん』ってすごい発明しそうな名前。『キテレツ斎』みたいだから。
+本名「未来之進」
+みんなが好きなこと言い始めた
+低松 過去乃助（みくのしんの偽物）
+まじで好き勝手すぎ！！！！！！！
+オモコロ杯2026！！！！！！！！！！！！！！！！！！！！始まってるんですよ！！！！！！！！！！！！！！！！！！
+なんだっけ 発明</description><guid isPermaLink="false">https://omocoro.jp/kiji/596021/</guid><pubDate>Mon, 23 Nov 2026 18:24:51 +0000</pubDate></item><item><title>スカウトを受けて「願ってもないお話です」と返事をしたら、「やりたい！と強い熱意と願いを持って応募してくれる方を優先したいので、今回はなかったことに」と言われた</title><link>https://togetter.com/li/2774004</link><description>[score: 0.865] スカウトを受けて「願ってもないお話です」と返事をしたら、「やりたい！と強い熱意と願いを持って応募してくれる方を優先したいので、今回はなかったことに」と言われた ばぶ｜茨城を8万km走った女 @babu_talk これは持ちネタになってるレベルの笑い話なんだけど。 以前スカウトを受けて、面談で「願ってもないお話です」って言ったら、「やりたい！と強い熱意と願いを持って応募してくれる方を優先したいので、今回はなかったことに」って言われて、（゜д゜）みたいな顔したことがある。 2...</description><guid isPermaLink="false">https://togetter.com/li/2774004</guid><pubDate>Mon, 23 Nov 2026 18:55:40 +0000</pubDate></item><item><title>IBM Bob でUbuntu公式ドキュメントのMCPサーバーを開発</title><link>https://qiita.com/duelist2020jp/items/ea1b645197af4bf7e78c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.865] はじめに
+ユーザーからの照会内容を元に、Ubuntu の公式ドキュメント、man ページ、CVE/USN(後述の用語の補足を参照)、パッケージ等の情報を、出典URL付で回答してくれるMCP サーバー ubuntu-docs-mcp
+をIBM Bobで開発してみました。本年7月に1度Ubuntu関連のMCPサーバーを開発、下記リンク先のQiita記事を投稿していましたが、今回はそのMCPサーバー開発第2段のご紹介になります。
+本記事では、開発に至る動機、苦労した点や稼働確認例、今後のメンテナンスにおける考慮点等を纏めました。
+開発に至る動機
+Red Hat Enterprise Linux には</description><guid isPermaLink="false">https://qiita.com/duelist2020jp/items/ea1b645197af4bf7e78c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 23 Nov 2026 20:13:47 +0000</pubDate></item><item><title>How Jensen Huang ended up as Nvidia CEO again</title><link>https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return</link><description>[score: 0.865] The Jensen Huang era of Nvidia nearly came to an end this month. Huang, who three decades ago cofounded what's come to be considered one of the most important companies in AI, resigned from his role on November 12th over mounting scrutiny around his alleged affairs. Huang admitted he had been "unfai</description><guid isPermaLink="false">https://www.theverge.com/tech/1040428/nvidia-jensen-huang-ceo-return</guid><pubDate>Mon, 23 Nov 2026 19:59:09 +0000</pubDate></item><item><title>精神的疲労によりタスク達成のモチベーションが低下する理由が示唆される</title><link>https://gigazine.net/news/20261124-give-up-tough-tasks/</link><description>[score: 0.867] 精神的疲労によりタスク達成のモチベーションが低下する理由が示唆される
+タスクを終えたときにご褒美があるとわかっていても、精神的疲労が蓄積したとき、タスクを完了できずに諦めてしまうことがあります。その理由が脳内物質にある可能性が示唆されています。
+A causal account of the neural origins of mental fatigue | PNAS
+https://www.pnas.org/doi/10.1073/pnas.2534136123
+A possible chemical explanation for why we give up on tough task</description><guid isPermaLink="false">https://gigazine.net/news/20261124-give-up-tough-tasks/</guid><pubDate>Mon, 23 Nov 2026 20:05:55 +0000</pubDate></item><item><title>つづ井さんの新刊あんなに楽しみにしてたのに読了したら普通に嫉妬と妬みで反転アンチになりそうで怯えてる…。普通の成人女性はさぁ…脱毛サロンが廃業トンズラこいたその日に生花買ってマッサージサロン行って好きな漫画全巻買い出来んよ…ご自愛をテーマにして言いたいことは伝わるけど…→「声優と仲良くなって漫画家とルームシェア始めるような人は絶対的に一般人ではないのよな」</title><link>https://posfie.com/@kalofollow/p/zQrwcAG</link><description>[score: 0.867] つづ井さんの新刊あんなに楽しみにしてたのに読了したら普通に嫉妬と妬みで反転アンチになりそうで怯えてる…。普通の成人女性はさぁ…脱毛サロンが廃業トンズラこいたその日に生花買ってマッサージサロン行って好きな漫画全巻買い出来んよ…ご自愛をテーマにして言いたいことは伝わるけど…→「声優と仲良くなって漫画家とルームシェア始めるような人は絶対的に一般人ではないのよな」 ほた @hota_ru_88 つづ井さんの新刊あんなに楽しみにしてたのに読了したら普通に嫉妬と妬みで反転アンチになりそうで怯えてる…。普通の成人女性はさぁ…脱毛サロンが廃業トンズラこいたその日に生花買ってマッサー... orbis %E6%</description><guid isPermaLink="false">https://posfie.com/@kalofollow/p/zQrwcAG</guid><pubDate>Mon, 23 Nov 2026 18:29:25 +0000</pubDate></item><item><title>GitHub - MaryCache/tsuzuri: Claude Code skill and viewer app for writing and reviewing Japanese prose sentence by sentence with explicit writing intent</title><link>https://github.com/MaryCache/tsuzuri</link><description>[score: 0.871] GitHub - MaryCache/tsuzuri: Claude Code skill and viewer app for writing and reviewing Japanese prose sentence by sentence with explicit writing intent English: README.en.md tsuzuri は Claude Code に日本語の文章を執筆させる際に、AI が生成した文章の品質を向上させるためのスキルと閲覧アプリです。 ユーザーは閲覧アプリで文ごとに AI の執筆意図（その文で読み手に何をするか）と文機能（文の役割や前の文と</description><guid isPermaLink="false">https://github.com/MaryCache/tsuzuri</guid><pubDate>Mon, 23 Nov 2026 17:50:43 +0000</pubDate></item><item><title>おうちミッション ― 話すだけで、お母さんの「覚えておく」「聞かれる」を引き受ける</title><link>https://qiita.com/jksoft/items/06b60aeca5d4050eac0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.871] AI HACK のワンデーハッカソン（テーマ「話すだけで誰かの面倒を減らすアプリ」）で作った作品です。
+- 公開 URL（ログインなしで試せます）: https://lcdp005.enebular.com/hack1123/
+- LINE ミニアプリ（家族だけのボード）: https://miniapp.line.me/2012755435-kLp4aPIr
+- 想定した人: 家事と仕事を両立するお母さん
+1. 作品名・キャッチコピー
+おうちミッション
+話すだけで、お母さんの「覚えておく」「聞かれる」を引き受ける
+3 行で言うと
+- 子どもの「あした○○がいる」、週末の予定、切れた食材、ハサ</description><guid isPermaLink="false">https://qiita.com/jksoft/items/06b60aeca5d4050eac0e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 23 Nov 2026 20:13:47 +0000</pubDate></item><item><title>【microCMS × Vercel × Next.js】microCMSの記事を手動デプロイなしで静的ページに更新させる方法</title><link>https://qiita.com/nagi-0106/items/3d25d8f2f5e5e16bcccd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.872] こんにちは。
+以前に作成したmicroCMSのブログサイトはWebhookを用いてビルドなしでmicroCMSの記事がサイトに反映される仕組みにしました。
+当記事ではこの仕組みを実装するために行ったことを記載します。
+前提
+- Next.jsのサイトはVercelでデプロイしている
+- フロント部分はNext.js 16で構築している
+全体の流れ
+実現する方法は2通り存在します。
+①VercelのDeploy Hooksを使う
+②自作APIを使う
+①VercelのWebhook連携機能を使う方法
+詳しくは下記の公式ドキュメントもご覧ください。
+(1)Vercel側でデプロイフック用のURLを生</description><guid isPermaLink="false">https://qiita.com/nagi-0106/items/3d25d8f2f5e5e16bcccd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 23 Nov 2026 20:13:47 +0000</pubDate></item><item><title>米アンソロピックのオプション取引、23日に活況スタート - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ3VITldLVm1YT2tpdXJmRDNTMVBmVHBIMHVvRk1LMDVzd0tNckZGbHlES05tOURPVDNITmdVem41MW00X1BpZjczRmF4NHlwWmVIcEhieUxtdWFzVHl5YndXUHhvMGhLcm9Ea21BbVhLQml6cTRYLXVoWThmbF90YW10RTFhdw?oc=5</link><description>[score: 0.875] 米アンソロピックのオプション取引、23日に活況スタート Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ3VITldLVm1YT2tpdXJmRDNTMVBmVHBIMHVvRk1LMDVzd0tNckZGbHlES05tOURPVDNITmdVem41MW00X1BpZjczRmF4NHlwWmVIcEhieUxtdWFzVHl5YndXUHhvMGhLcm9Ea21BbVhLQml6cTRYLXVoWThmbF90YW10RTFhdw?oc=5</guid><pubDate>Mon, 23 Nov 2026 18:46:13 +0000</pubDate></item><item><title>【備忘録】Copilotハーネスでcomputer useをざっくり解説 ― 12月のプレビュー前に全体像を整理</title><link>https://qiita.com/Tadataka_Takahashi/items/42d15e487df873a51283?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.876] はじめに
+前回の記事では、AIエージェント専用のクラウドPC「Windows 365 for Agents」の全体像を整理しました。
+Ignite 2026で、Copilot Studioの「Microsoft Copilot ハーネス」でも、Windows 365 for Agentsをcomputer useのツールとして使えるようになる（12月からプレビュー） と発表されました。
+ただ、この一文には「ハーネス」「computer use」「Windows 365 for Agents」と、初見だとわかりにくい言葉が3つ並んでいます。そこで本記事では、プレビュー開始前の予習として、それぞれ</description><guid isPermaLink="false">https://qiita.com/Tadataka_Takahashi/items/42d15e487df873a51283?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 23 Nov 2026 20:13:47 +0000</pubDate></item><item><title>【ざっくり理解】Microsoft Copilot harnessとは？ GitHub Copilotとの関係と3つの使い方</title><link>https://qiita.com/Tadataka_Takahashi/items/0e080490d149df4e6255?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.878] はじめに
+Microsoft Ignite 2026（2026年11月17〜20日）のセッションや発表資料を追っていると、「harness（ハーネス）」という言葉が何度も出てきました。
+- Copilot Studio の発表は Microsoft Copilot harness を中心に構成されている
+- Microsoft Foundry でも Copilot harness がパブリックプレビューになっている
+- Copilot SDK 2.0 も「本番で使われているハーネスを提供」と説明されている
+「GitHub Copilot harness と何が違うの？」「GitHub Copi</description><guid isPermaLink="false">https://qiita.com/Tadataka_Takahashi/items/0e080490d149df4e6255?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 23 Nov 2026 20:13:47 +0000</pubDate></item><item><title>三菱重工→外資日本法人社長から再び“社員”へ。「給料が減っても働きたいか」ロケットエンジニアが「宇宙に帰ってきた」理由</title><link>https://www.businessinsider.jp/article/2611-mitsubishi-heavy-to-synspective-why-career-pivot/</link><description>[score: 0.881] 「お金をもらえなくても働きたいと思える仕事が一番いいよね」
+アメリカで働いていた頃、ある経営者から聞いた言葉が心に残っている——。
+そう自身のキャリア観を語るのは、現在、宇宙スタートアップ・Synspective（シンスペクティブ）で執行役員を務める中村卓史さん（52）だ。
+新卒で入社した三菱重工業（以下、三菱重工）で20年以上勤めたあと、デンソーの新規事業開発部門を経て米スタートアップの日本法人代表を務めるなど、キャリアを積み上げてきた中村さん。
+しかし、シンスペクティブへの入社は引き抜きなどではなく、多くのビジネスパーソンが使っているような「転職エージェント経由」。管理職相当とはいえ、ごく</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-mitsubishi-heavy-to-synspective-why-career-pivot/</guid><pubDate>Mon, 23 Nov 2026 21:01:49 +0000</pubDate></item><item><title>野党 関大臣の問責決議案協議 政府・与党 情勢見極め対応検討</title><link>https://news.web.nhk/newsweb/na/nd-20261123de80283</link><description>[score: 0.881] 政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣について、野党側は、問責決議案の提出も視野に協議を行うことにしています。
+一方、政府・与党内からは大臣自身が説明を尽くすよう求める指摘や国会…
 あわせて読みたい
-ゼレンスキー大統領“リビア沖でロシア艦艇を無人艇で攻撃”
-11月23日 18:36
-なぜトランプ大統領は世界最大級の博物館を標的にしたのか
-11月23日 8:30
-北朝鮮 キム総書記“友好的な国との関係は強化”と強調
-11月23日 13:09
-“会談模索もキム総書記の条件を米が受け入れられず”米報道
-11月23日 9:26
-イギリス人スイマー ホルムズ海峡を遠泳「戦争をやめるべ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261123de80276</guid><pubDate>Mon, 23 Nov 2026 12:23:59 +0000</pubDate></item><item><title>【増枠】赤坂これから会議〜AI時代、エンジニアはどう働き、どう生きる？〜 (2026/11/24 19:00〜)</title><link>https://lycorptech-jp.connpass.com/event/409956/</link><description>[score: 0.866] 11月
-24
-【増枠】赤坂これから会議〜AI時代、エンジニアはどう働き、どう生きる？〜
-技術もキャリアも人生も。ばんくし氏 ×ぎぎねっと氏と語る、これからの話。
-主催 : LINEヤフー株式会社、エムスリー株式会社
-広告
-参加者への情報
-イベントの説明
-イベント概要
-エンジニアとして、これからどう働き、どう生きていく？
-AIの進化によって、エンジニアの仕事や求められるスキルが大きく変わろうとしています。一方で、私たち自身も年齢を重ね、結婚、育児、介護、健康など、さまざまなライフステージの変化に向き合っていきます。
-技術を追い続けたい。でも、仕事だけが人生ではない。
-キャリアを積み重ねる中で、働</description><guid isPermaLink="false">https://lycorptech-jp.connpass.com/event/409956/</guid><pubDate>Mon, 23 Nov 2026 12:47:30 +0000</pubDate></item><item><title>[増田保存部] ■裁判傍聴マニアだが闇バ〇ト事件が限界突破しすぎていてどんだけヤバイか書く</title><link>https://anond.hatelabo.jp/20261122175901</link><description>[score: 0.866] [増田保存部] ■裁判傍聴マニアだが闇バ〇ト事件が限界突破しすぎていてどんだけヤバイか書く 最近、闇バイトでの逮捕案件が激増しているようで、 裁判傍聴しててもこの手の話が異様に多くなってきていたので、よく傍聴で見ることが多くなった。 この手の事件が顕在化しだしたころに比べて、狂暴化・悪質化... firststar_hateno 闇バイトの危険性、現代の社会問題ですの。犯罪には関わらず、自らの道を歩むべきですわよ。安全第一ですの！</description><guid isPermaLink="false">https://anond.hatelabo.jp/20261122175901</guid><pubDate>Mon, 23 Nov 2026 07:41:13 +0000</pubDate></item><item><title>AI駆動開発を始めるまでに半年かかった話 ― ガードレール、結局どこまでやればいいの？</title><link>https://qiita.com/hyahyahyahyahoooi/items/26c9ffd65fce026510c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.866] この記事の結論
-- ガードレールは「人の注意をなくすもの」ではなく「不注意を事故にしないもの」
-- どこまでやっても人の注意は残る。ルール・仕組み・個人の注意の全部が要る
-- 合言葉は「AIに渡す前に、ひと呼吸」
-はじめに
-今年の5月、AWSの AI-DLC Unicorn Gym に参加しました（参加レポートはこちら）。
-そこで感じたのは、
-「この手法で、自分たちがサービス提供しているアプリケーションフレームワークを使った開発ができたらいいな」 ということでした。
-AI-DLCのいいところは、AIが勝手に作るところではなく、人のレビューと人の承認が必要なところです。
-品質を保ちながら、今まで</description><guid isPermaLink="false">https://qiita.com/hyahyahyahyahoooi/items/26c9ffd65fce026510c8?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 23 Nov 2026 08:41:15 +0000</pubDate></item><item><title>医療や建設、AI導入へ政府がルール整備　責任明示・被害救済など - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUA201SJ0Q6A021C2000000/</link><description>[score: 0.867] この記事は会員限定記事です
-医療や建設、AI導入へ政府がルール整備 責任明示・被害救済など
-政府は人工知能（AI）の社会実装を進めるため、責任範囲の明確化や被害救済をはじめとしたルールを整備する。医療や建設の分野を中心に導入を促す計画を年内にとりまとめる方針だ。22日に初会合を開く「AI・デジタル改革推進会議」で議論する。
-人口減少に伴う人手不足が深刻化しており、政府はAIの活用を前提に社会や制度の仕組みを見直すAX（AIトランスフォーメーション）を進める。会議では人が担うことを前提と...
-NIKKEI Primeについて
-朝夕刊や電子版ではお伝えしきれない情報をお届けします。今後も様々な切</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUA201SJ0Q6A021C2000000/</guid><pubDate>Mon, 23 Nov 2026 11:47:33 +0000</pubDate></item><item><title>AIに実装を任せても、理解と判断は手放さない：基準・証拠・説明をGoのAPIで試した記録</title><link>https://zenn.dev/kinuuu/articles/ai-coding-criteria-evidence-explanation</link><description>[score: 0.867] はじめに ! この記事の要点 AIに実装を任せるときに自分が確かめることを、「基準」「証拠」「説明」の3つの手順に決め、GoのAPIの変更で試しました。 基準を先に書いておくと、AIが基準の外で決めたことを、後から区別できました。 テストが確かめていない点は、テストが見ていない項目と、テストの前提と本番との違いから探せます。 実装は任せても、マージの前に変更の内容を自分の言葉で説明し、採用するかどうかは自分で決めました。 AIに実装を任せると、動くものは速くできます。一方で、できあがった変更を前にして、「これをマージしてよい」と言える根拠を、自分の言葉で挙げられない場面がありま...</description><guid isPermaLink="false">https://zenn.dev/kinuuu/articles/ai-coding-criteria-evidence-explanation</guid><pubDate>Mon, 23 Nov 2026 10:57:03 +0000</pubDate></item><item><title>ビル・ゲイツ「AIはすでに数億人を殺せる生物テロを可能にした」 | 【第1回】 「AI企業は安全を優先できていない」</title><link>https://courrier.jp/news/archives/463936/</link><description>[score: 0.868] Interview by Ezra Klein
-1995年、ビル・ゲイツはコンピュータが考える未来を「恐ろしい」と語った。それから約30年。AIはプログラミング能力で人間を超え、経営判断に関われるほどに進歩した。AIの進化を長く見てきたゲイツは、なぜいま、自らの評判を懸けて人類に警告を発するのか。米紙「ニューヨーク・タイムズ」記者のエズラ・クラインが聞いた。
-30年前の「恐ろしい考え」
-──ビル・ゲイツさん、最初の質問の前にまずは1995年にあなたが出演したテレビ番組「レイト・ショー・ウィズ・デービッド・レターマン」の映像を見ていただきたいと思います。再生しますね。
-〈1995年の番組映像〉
-</description><guid isPermaLink="false">https://courrier.jp/news/archives/463936/</guid><pubDate>Mon, 23 Nov 2026 09:48:12 +0000</pubDate></item><item><title>@murong97358 のポスト on X（2026-11-23 00:51） / X</title><link>https://x.com/murong97358/status/2124531122826854873?a=DTWZLEyvrqresjHWg8o&amp;s=12</link><description>[score: 0.868] Vercel Next.js 团队的老哥，烧了大概 60B tokens，最后就总结出一份 AGENTS.md，核心就 8 条规则。
-60B tokens 什么概念？换算成钱，差不多六位数美元。
-这 8 条规则说白了就一句话：别让你的 AI 编程助手像个刚入行的实习生，什么都想自己造一遍；要让它像干了十年的老油条一样，写最少的、最能用的代码。
-直接上规则：
-1. 不保留向后兼容。过时的东西直接删，别加兼容层、别写迁移脚本、别留备用回退方案。
-2. 选能满足当前需求的最简单实现。别搞预防性抽象，也别加那些“万一以后用得上”的配置层。
-3. 系统要分层生长。先跑通一个最小的端到端版本，能跑了再往上</description><guid isPermaLink="false">https://x.com/murong97358/status/2124531122826854873?a=DTWZLEyvrqresjHWg8o&amp;s=12</guid><pubDate>Mon, 23 Nov 2026 13:45:32 +0000</pubDate></item><item><title>【2026年11月24日】本日発売のマンガ単行本リスト</title><link>https://natalie.mu/comic/news/695595</link><description>[score: 0.868] コミックナタリーより、本日2026年11月24日に発売される単行本をお知らせいたします。本日発売の雑誌リストはこちらから。</description><guid isPermaLink="false">https://natalie.mu/comic/news/695595</guid><pubDate>Mon, 23 Nov 2026 15:12:43 +0000</pubDate></item><item><title>コードベースから重複した箇所を探せるjscpdが良さげかも | kawarimidoll.com</title><link>https://kawarimidoll.com/posts/202611122/</link><description>[score: 0.868] コードベースから重複した箇所を探せるjscpdが良さげかも | kawarimidoll.com プロジェクトのソースコードの中から重複したコードや使われていないコードを洗い出せるjscpdの紹介です。 https://jscpd.dev/ GitHub - kucherenko/jscpd: Copy/paste detector for source code. 220+ languages... tmatsuu ほう</description><guid isPermaLink="false">https://kawarimidoll.com/posts/202611122/</guid><pubDate>Mon, 23 Nov 2026 14:40:49 +0000</pubDate></item><item><title>AI時代、結局"食いっぱぐれるエンジニア"と"生き残るエンジニア"を分けるものは何か - rokujyouhitoma's blog</title><link>https://rokujyouhitoma.hatenablog.com/entry/2026/11/23/135112</link><description>[score: 0.870] AI時代、結局"食いっぱぐれるエンジニア"と"生き残るエンジニア"を分けるものは何か - rokujyouhitoma's blog ※ 本記事に記載されている意見や見解は筆者個人に帰属するものであり、筆者が所属する組織・団体の公式な見解を示すものではありません。 0. 前書き AIコーディングエージェントが日常の風景になってから、「エンジニアの仕事はなくなるのか」「自分はこれから食いっぱぐれないだろうか」という問いをあちこちで耳にする...</description><guid isPermaLink="false">https://rokujyouhitoma.hatenablog.com/entry/2026/11/23/135112</guid><pubDate>Mon, 23 Nov 2026 10:39:13 +0000</pubDate></item><item><title>「男と女の話には興味がない」　押井守監督が劇場版アニメ『ボトムズ』で描く「成熟した人間同士の物語」 | NEWSjp</title><link>https://news.jp/i/1495617294731919497</link><description>[score: 0.872] 「男と女の話には興味がない」 押井守監督が劇場版アニメ『ボトムズ』で描く「成熟した人間同士の物語」 | NEWSjp 『ＧＨＯＳＴ ＩＮ ＴＨＥ ＳＨＥＬＬ／攻殻機動隊』などで世界中のファンを熱狂させてきたアニメーション映画の巨匠、押井守監督の新作『装甲騎兵ボトムズ 灰色の魔女（ヘクセ）』が公開された。１９８３～８４年に放送された『装甲騎兵ボトムズ』は、４０年以上愛されている戦場ロボットアニメの傑作だ。自身もフ...</description><guid isPermaLink="false">https://news.jp/i/1495617294731919497</guid><pubDate>Mon, 23 Nov 2026 10:40:49 +0000</pubDate></item><item><title>イラン、「あらゆる手段」で米海上封鎖に対抗＝外務省報道官 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxPdkE2WkZGN014SzlMQk1VSjloQ3BNblphVzJzWGZuUG1NczlKbndwdU1PUnBwNnczREhGYXEyWFVSWllCLXN3TVk1QnoyX1lacnFmcjBMbXhPN3VpVGE3ZHJFMFAtSEM5anVoNGpLeUNwWVpRVEpsbEpDNG5tNTZWUHF0Wm9mUk0?oc=5</link><description>[score: 0.879] イラン、「あらゆる手段」で米海上封鎖に対抗＝外務省報道官 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxPdkE2WkZGN014SzlMQk1VSjloQ3BNblphVzJzWGZuUG1NczlKbndwdU1PUnBwNnczREhGYXEyWFVSWllCLXN3TVk1QnoyX1lacnFmcjBMbXhPN3VpVGE3ZHJFMFAtSEM5anVoNGpLeUNwWVpRVEpsbEpDNG5tNTZWUHF0Wm9mUk0?oc=5</guid><pubDate>Mon, 23 Nov 2026 15:48:15 +0000</pubDate></item><item><title>ジェンスン・フアン氏、11日間の不在の後、NVIDIAのCEOに返り咲き</title><link>https://www.techno-edge.net/article/2026/11/23/5793.html</link><description>[score: 0.883] NVIDIAの創業者であるジェンスン・フアン氏が、社長兼CEO（代表取締役）として復帰しました。
-NVIDIAが2026年11月23日（米国時間）、取締役会が全会一致で決定したとして発表。取締役会はフアン氏との協議・面談を経て、同氏の誠実さとNVIDIAを率いる能力に納得したとして復帰を承認。米国の国家安全保障上のリスクをもたらさないとの判断を、米国政府からも得ているそうです。
-同社は11月12日（米国時間）に、フアン氏の退任を発表していましたが、わずか11日で復帰したことになります。
-フアン氏はXへの投稿で、CEO復帰に意欲を見せていました。
-暫定CEOを務めていたコレット・クレス氏は最高財</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/11/23/5793.html</guid><pubDate>Mon, 23 Nov 2026 15:04:47 +0000</pubDate></item><item><title>MetaのパーソナルAIエージェント「Muse」、Apple WatchとWear OSに対応 | gihyo.jp</title><link>https://gihyo.jp/article/2026/11/muse-watch-device</link><description>[score: 0.886] MetaのパーソナルAIエージェント「Muse」、Apple WatchとWear OSに対応 | gihyo.jp Metaは2026年11月9日、パーソナルAIエージェント「Muse」がApple WatchとWear OS搭載スマートウォッチで利用可能になったと、Museの公式Threadsアカウントで発表した。Wear OSは、Googleが提供するスマートウォッ... tmatsuu 画面いっぱいに。主張が激しい。</description><guid isPermaLink="false">https://gihyo.jp/article/2026/11/muse-watch-device</guid><pubDate>Mon, 23 Nov 2026 14:40:49 +0000</pubDate></item><item><title>ニンテンドーアカウントの「かんたんログイン」におけるGoogle/Apple連携終了のお知らせ｜お客様へのお知らせ</title><link>https://support.nintendo.com/jp/information/2026/1110/index.html</link><description>[score: 0.888] ニンテンドーアカウントの「かんたんログイン」におけるGoogle/Apple連携終了のお知らせ｜お客様へのお知らせ このたび、GoogleまたはAppleのアカウント情報を利用したニンテンドーアカウントへの「かんたんログイン」につきまして、下記のとおりサービスを終了させていただくこととなりました。 tmatsuu あらまぁ。以降はパスキー推奨か。</description><guid isPermaLink="false">https://support.nintendo.com/jp/information/2026/1110/index.html</guid><pubDate>Mon, 23 Nov 2026 15:35:25 +0000</pubDate></item><item><title>NVIDIAのジェンスン・フアンがCEOに復帰</title><link>https://gigazine.net/news/20261123-nvidia-jensen-huang-ceo/</link><description>[score: 0.891] NVIDIAのジェンスン・フアンがCEOに復帰
-2026年11月23日23時頃にNVIDIAの取締役会がジェンスン・フアン氏をCEOに再任したことを発表しました。
-NVIDIA Board Reinstates Jensen Huang as President, CEO and Board Director | NVIDIA Newsroom
-https://nvidianews.nvidia.com/news/nvidia-board-reinstates-jensen-huang-as-president-ceo-and-board-director
-NVIDIA Board reins</description><guid isPermaLink="false">https://gigazine.net/news/20261123-nvidia-jensen-huang-ceo/</guid><pubDate>Mon, 23 Nov 2026 14:45:26 +0000</pubDate></item><item><title>米国株式市場・序盤＝急反発、エヌビディア約30％高 フアン氏復帰を好感 - Reuters</title><link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0sxTHVNeFY5elM4ZVc0UE5TR0l5WXNZMENwclVrZnZaaHdBVXotaEd2Qkk5al9scm0tRjVkRURvQWZSdzJzLWtranhyYjVwTnFMQzdLSWdNcGY0R2g4UUk5cF9JZGF1VGxlMlhDbE5GRXlrM1NMcmxJc09yd2lHZ2hZc3l3SHg5M0tKLXJsUXI?oc=5</link><description>[score: 0.892] 米国株式市場・序盤＝急反発、エヌビディア約30％高 フアン氏復帰を好感 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxPV0sxTHVNeFY5elM4ZVc0UE5TR0l5WXNZMENwclVrZnZaaHdBVXotaEd2Qkk5al9scm0tRjVkRURvQWZSdzJzLWtranhyYjVwTnFMQzdLSWdNcGY0R2g4UUk5cF9JZGF1VGxlMlhDbE5GRXlrM1NMcmxJc09yd2lHZ2hZc3l3SHg5M0tKLXJsUXI?oc=5</guid><pubDate>Mon, 23 Nov 2026 15:48:15 +0000</pubDate></item><item><title>退屈なCoding AgentはMuseにやらせよう</title><link>https://zenn.dev/watany/articles/342b9815dd0553</link><description>[score: 0.897] 退屈なCoding AgentはMuseにやらせよう はじめに 旧FacebookのMetaが開発したパーソナルAIエージェントのMuseがすごく良くて、意味不明なくらいずっと触ってる。紹介コード: 7L990R を入れるとトークンがもらえるのでよろしくね。 Museは触ると魅力がわ... tmatsuu 「Muse(無料)の中身Muse Spark 1.3はコードが割と書ける方のモデルだ。型落ちとは言え、GPT5.6 SolとかGrok 4.6程度のモデルがタダで使えている状態である」わいわい</description><guid isPermaLink="false">https://zenn.dev/watany/articles/342b9815dd0553</guid><pubDate>Mon, 23 Nov 2026 13:45:32 +0000</pubDate></item><item><title>米与野党議員、エヌビディアのフアン氏復帰決定を批判 対中輸出規制強化訴え - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFdFRndNTXR4QS1Kc05uaE0zVDIxYndrY0FhMTNPSXo5MlJ5d3k2NjFTd3k4a09JSm52WGl5Z2gxem1Ddl9lY3JSUkkwa0xjQi1Hd1NRWVJ5VldMRFVXd01oekNIZ1lUY19EX0ZocVhLclR1a21EU2FVV1lPMEkyU0pYR3VFdWc?oc=5</link><description>[score: 0.898] 米与野党議員、エヌビディアのフアン氏復帰決定を批判 対中輸出規制強化訴え Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxOdFdFRndNTXR4QS1Kc05uaE0zVDIxYndrY0FhMTNPSXo5MlJ5d3k2NjFTd3k4a09JSm52WGl5Z2gxem1Ddl9lY3JSUkkwa0xjQi1Hd1NRWVJ5VldMRFVXd01oekNIZ1lUY19EX0ZocVhLclR1a21EU2FVV1lPMEkyU0pYR3VFdWc?oc=5</guid><pubDate>Mon, 23 Nov 2026 16:45:33 +0000</pubDate></item><item><title>NVIDIA、ジェンスン・フアン氏がCEO復帰 「安全保障上のリスクはない」</title><link>https://www.watch.impress.co.jp/docs/news/2158554.html</link><description>[score: 0.903] ニュース
-NVIDIA、ジェンスン・フアン氏がCEO復帰 「安全保障上のリスクはない」
-2026年11月24日 01:07
-NVIDIAは23日(米国時間)、ジェンスン・フアン氏がCEOに復帰すると発表した。取締役会は、フアン氏との協議と会合を経て、満場一致で同氏の復帰を決定した。また、決定に至る過程で、取締役会は米国政府高官からの意見も聴取。その意見に基づき、フアン氏の復帰が国家安全保障上のリスクをもたらさないと判断したという。
-NVIDIAの創業者で、同社をコンピューティング、AIのリーダー企業に押し上げたフアン氏だが、外国の諜報活動の標的となっていたとの報道などから、12日に辞任。取締役</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2158554.html</guid><pubDate>Mon, 23 Nov 2026 16:19:37 +0000</pubDate></item><item><title>トランプ氏、フアン氏のエヌビディア復帰歓迎 安保リスク見当たらず - Reuters</title><link>https://news.google.com/rss/articles/CBMijgFBVV95cUxNRTZxZUQ1SDBrQTloWGtvYy1LTXgzN2RRWm1DU1R4STh5U3RnQTR5NEl4Sjk3UnlzUWVOeDVsQlJhSUJvZFlabldZazI3NE42ZHd3Rm80cTVoNTBvQ3owYVo2WFpmaFJKeXltdkdqdGZtYXA4WElRazBBSENDV20yMU93Y1dGbXZtUTJ2T1Jn?oc=5</link><description>[score: 0.906] トランプ氏、フアン氏のエヌビディア復帰歓迎 安保リスク見当たらず Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMijgFBVV95cUxNRTZxZUQ1SDBrQTloWGtvYy1LTXgzN2RRWm1DU1R4STh5U3RnQTR5NEl4Sjk3UnlzUWVOeDVsQlJhSUJvZFlabldZazI3NE42ZHd3Rm80cTVoNTBvQ3owYVo2WFpmaFJKeXltdkdqdGZtYXA4WElRazBBSENDV20yMU93Y1dGbXZtUTJ2T1Jn?oc=5</guid><pubDate>Mon, 23 Nov 2026 14:50:01 +0000</pubDate></item><item><title>エヌビディア株一時35％超急伸、フアン氏のＣＥＯ復帰決定受け - Reuters</title><link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNaHY5UU40czg0akJ6NTA2NzZPcHdwLUNHc3hVaHdmOGRWdTBWNkgzRFQzMW41eURWdWlvYW04VHlDUDJpdW5WMURWYVZTRGhRdE52RTd6NjkxVDl1eXVkSnpwRm92NUtVY0w0SXNhSjQwWl8zYlJLaE9iMjFqNm5qNXowTVdRZFVsNDBsalpyLTQ?oc=5</link><description>[score: 0.908] エヌビディア株一時35％超急伸、フアン氏のＣＥＯ復帰決定受け Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxNaHY5UU40czg0akJ6NTA2NzZPcHdwLUNHc3hVaHdmOGRWdTBWNkgzRFQzMW41eURWdWlvYW04VHlDUDJpdW5WMURWYVZTRGhRdE52RTd6NjkxVDl1eXVkSnpwRm92NUtVY0w0SXNhSjQwWl8zYlJLaE9iMjFqNm5qNXowTVdRZFVsNDBsalpyLTQ?oc=5</guid><pubDate>Mon, 23 Nov 2026 16:45:33 +0000</pubDate></item><item><title>Googleが実践するSTAMP/STPAとは何か？ 私たちのSREにも使えるのか</title><link>https://zenn.dev/maruloop/articles/7ff108e29741b5</link><description>[score: 0.910] Googleの『Site Reliability Engineering, 2nd Edition』に、「Safety Engineering for SRE with STPA and CAST」という章が追加されました。 STAMPやSTPAは、システム安全工学から生まれた考え方・分析手法であり、Googleでも実際に利用され始めているようです。2021年にはGoogle社内研修が始まり、2025年のSREconではGoogle Mapsへの適用事例も紹介されました。 Google SRE — STPA: Teaching a New Way to Prevent Outages a...</description><guid isPermaLink="false">https://zenn.dev/maruloop/articles/7ff108e29741b5</guid><pubDate>Mon, 23 Nov 2026 10:57:03 +0000</pubDate></item><item><title>米半導体大手エヌビディアのCEO 辞任のフアン氏が復帰</title><link>https://news.web.nhk/newsweb/na/nd-20261123de80304</link><description>[score: 0.916] アメリカの半導体大手「エヌビディア」は、中国の情報機関の協力者とされる女性と親密な関係にあったと報じられ、辞任したジェンスン・フアン氏がCEOに復帰したと発表しました。
-会社はフアン氏の復帰が国家安…
-エヌビディア フアン氏復帰に意欲も取締役会は「意向ない」
-11月18日 10:31
-史上初 米中ロ首脳会談で「平和宣言」 核リスク低減へ対話を
-11月19日 21:32
-中国外務省 米の先端半導体輸出新規則に反発
-11月17日 22:42
-米商務省 アリス・フアン氏に去年事情聴取 関連企業も調査
-11月17日 17:23
-トランプ大統領 フアン氏エヌビディアCEOへの復帰を容認の姿勢
-11月17</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261123de80304</guid><pubDate>Mon, 23 Nov 2026 15:20:44 +0000</pubDate></item><item><title>フアン氏エヌビディアＣＥＯ復帰：識者はこうみる - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTE5hUS11UTZ4cWZMbzNKZlozd3ZSVlRMVF9waTRpeG04X3piVUUxcGNUM0tITW55Umh3UkhUNHFibEJVWWg2X0VTTWxKZy1EVDhuWWo0R3FkazJRbHVKSS0xcUhqLXdNN1NCaDdPU0hjY3BMVlhWYnhrUTBxY2tDUQ?oc=5</link><description>[score: 0.916] フアン氏エヌビディアＣＥＯ復帰：識者はこうみる Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTE5hUS11UTZ4cWZMbzNKZlozd3ZSVlRMVF9waTRpeG04X3piVUUxcGNUM0tITW55Umh3UkhUNHFibEJVWWg2X0VTTWxKZy1EVDhuWWo0R3FkazJRbHVKSS0xcUhqLXdNN1NCaDdPU0hjY3BMVlhWYnhrUTBxY2tDUQ?oc=5</guid><pubDate>Mon, 23 Nov 2026 15:48:15 +0000</pubDate></item><item><title>エヌビディア、不倫問題で辞任したフアン氏のCEO復帰発表　国家安保上のリスクないと「確信」 - CNN.co.jp</title><link>https://www.cnn.co.jp/tech/35255303.html</link><description>[score: 0.923] エヌビディアの会合で基調講演を行うジェンスン・フアンCEO＝2025年3月18日、カリフォルニア州サンノゼ/Justin Sullivan/Getty Images （CNN） 米半導体大手エヌビディアは23日、取締役会がジェンスン・フアン氏を最高経営責任者（CEO）と社長、取締役に復帰させたと発表した。 エヌビディアの取締役会は2週間近く前、フアン氏に複数の不倫関係があったとの報道を受け、辞任を受け入れた。不倫相手の中には、中国の情報機関に協力している可能性があると米政府当局者が懸念していた女性や、フアン氏の直属の部下も含まれていた。 エヌビディアの取締役会によると、今回の決定に当たっては「</description><guid isPermaLink="false">https://www.cnn.co.jp/tech/35255303.html</guid><pubDate>Mon, 23 Nov 2026 15:33:27 +0000</pubDate></item><item><title>NVIDIA、CEOにジェンスン・ファン氏復帰　「安保上のリスクなし」 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOGN232LV0T21C26A1000000/</link><description>[score: 0.927] NVIDIA、CEOにジェンスン・ファン氏復帰 「安保上のリスクなし」 - 日本経済新聞 【シリコンバレー=山田航平】米エヌビディアは23日、最高経営責任者（CEO）にジェンスン・ファン氏が復帰したと発表した。中国のスパイ疑惑のある女性との不倫問題を受け12日に辞任を発表したが、米政府高官との意見聴取を経て安全保障上のリスクがないと判断した。エヌビディアは取締役会がファン氏との協議や米政府高...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOGN232LV0T21C26A1000000/</guid><pubDate>Mon, 23 Nov 2026 14:37:51 +0000</pubDate></item></channel></rss>
+野党 関文科相辞任求める声強まる 木原官房長官“説明が重要”
+11月23日 6:18
+木原官房長官“関文科相の説明重要 人事は総理が決めること”
+11月22日 19:09
+国民 玉木代表“関文科相は問責決議案に値する 進退判断を”
+11月22日 16:34
+沖縄 復元の首里城正殿 一般公開始まり大勢の人でにぎわう
+11月23日 19:40
+【動画】上空から見た首里城正殿は？
+1</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261123de80283</guid><pubDate>Mon, 23 Nov 2026 20:21:00 +0000</pubDate></item><item><title>なぜ 11 月に日本のサイバー事故は「爆発」したのか — 605件を数えたら「日本が狙われている」だけではなかった</title><link>https://qiita.com/songchong/items/073f202bb0ca65611b30?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] この図は IT連携マップで操作できます → https://renkeimap.jp/security/incidents
+上の図は、セキュリティ事故の一覧の頭にある図「事故の時期と規模」を 1 枚の画像にしたものです。サイトの図では、円を押すと、その事故のカード（漏えいした項目・使う人のやること・出典）が図の下に出ます。KARTE のように 1 件の事故から多くの会社が公表した円では、カードの「この件で公表したほかの会社を見る」で、利用企業の公表をまとめて読めます。
+2026 年の秋、セキュリティ事故のニュースが止まりませんでした。上の図は、IT連携マップに載せた事故を、公表の日（横）と発表</description><guid isPermaLink="false">https://qiita.com/songchong/items/073f202bb0ca65611b30?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 23 Nov 2026 20:13:47 +0000</pubDate></item><item><title>トランプ氏、フアン氏復帰へ安保リスクないと保証 「関与重要だった」 - Reuters</title><link>https://news.google.com/rss/articles/CBMiigFBVV95cUxNbzdkMnBJNDhCQ2VCZDVrSmdGMWVIRXh3a3JoZ3pNV0tCREN1X2xSaHBlQWN4RkZ2Ml9nOWhiR0xYOVBXUHd6Qkd1U3d6TzFsY0RkcXJqYk9nZU5yamZ6Z0VRLXBnU01mX3BkTTMyTV9OV3pDRzQ2ZjZ6ZW5RSk9Lb3RzZjJIYkpKRFE?oc=5</link><description>[score: 0.885] トランプ氏、フアン氏復帰へ安保リスクないと保証 「関与重要だった」 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMiigFBVV95cUxNbzdkMnBJNDhCQ2VCZDVrSmdGMWVIRXh3a3JoZ3pNV0tCREN1X2xSaHBlQWN4RkZ2Ml9nOWhiR0xYOVBXUHd6Qkd1U3d6TzFsY0RkcXJqYk9nZU5yamZ6Z0VRLXBnU01mX3BkTTMyTV9OV3pDRzQ2ZjZ6ZW5RSk9Lb3RzZjJIYkpKRFE?oc=5</guid><pubDate>Mon, 23 Nov 2026 18:46:13 +0000</pubDate></item><item><title>エヌビディア空売り筋に122億ドルの含み損、フアン氏ＣＥＯ復帰で - Reuters</title><link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNWjZpSVI2ZjI3bTdVSEUxVHhwcmZEdlhxdF9XZzA2azR2SDVrMkNJaWJrcDcwbXNmdHBST0hnRW4zc2xVNFc4MDdmYjhnZnlCOWs3ajRzTTVXRnY2RmZLczV0OEI3eGVUWEY2MFA3YUpRM3lac2FEaTViVGd2c09aZ3RtNVVNNHFTNFFwMThicno?oc=5</link><description>[score: 0.885] エヌビディア空売り筋に122億ドルの含み損、フアン氏ＣＥＯ復帰で Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxNWjZpSVI2ZjI3bTdVSEUxVHhwcmZEdlhxdF9XZzA2azR2SDVrMkNJaWJrcDcwbXNmdHBST0hnRW4zc2xVNFc4MDdmYjhnZnlCOWs3ajRzTTVXRnY2RmZLczV0OEI3eGVUWEY2MFA3YUpRM3lac2FEaTViVGd2c09aZ3RtNVVNNHFTNFFwMThicno?oc=5</guid><pubDate>Mon, 23 Nov 2026 18:46:13 +0000</pubDate></item><item><title>AIに任せた仕事が散らからなくなった。LinearとDotsで個人開発を進めてみた</title><link>https://qiita.com/Tachiuo/items/dde9afe6a6d2a3aa8618?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.886] はじめに
+個人開発でAIに実装や調査を任せることが増えてきました。仕事に行っている間や寝ている間にも作業を進めてもらえるのは便利です。ただ、任せる仕事が増えると、別の難しさが出てきました。
+「今、自分は何を進めたいのか」
+「AIに何を任せているのか」
+「返ってきた成果物のうち、まだ確認していないのはどれか」
+これが、チャットやメモをたどらないと分かりにくくなってきたのです。
+そこで、LinearとDotsを組み合わせて、個人開発の進め方を少し変えてみました。まだ始めて数日ですが、かなりやりやすくなったので、今の運用をまとめます。
+この記事では、私が使っているDotsを「ドット」と呼びます。製品</description><guid isPermaLink="false">https://qiita.com/Tachiuo/items/dde9afe6a6d2a3aa8618?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 23 Nov 2026 20:13:47 +0000</pubDate></item><item><title>Claude Code 2.1.330入門、plugin install --jsonは失敗も1行のJSONで返す</title><link>https://qiita.com/kai_kou/items/24d6e9acaf593968f8d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] はじめに
+Claude Code のプラグインを claude plugin install
+で入れるとき、結果は人間向けのメッセージとして画面に出ます。スクリプトや CI から呼ぶなら、成功か失敗か、失敗ならなぜかを機械で読み取りたくなります。
+Claude Code 2.1.330 の CHANGELOG には、claude plugin install --json
+の結果に commandPrinted
+と commandFailed
+が加わった、という記述があります。では --json
+の出力は実際にどんな形で、失敗したときは何が返るのでしょうか。
+対象読者: Claude Code</description><guid isPermaLink="false">https://qiita.com/kai_kou/items/24d6e9acaf593968f8d6?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 23 Nov 2026 20:13:47 +0000</pubDate></item><item><title>【完全解説】本質から学ぶSOLIDの原則｜なんとなく分かるから完全理解へ【設計シリーズ】</title><link>https://qiita.com/Sicut_study/items/2bbdfbacab915773dad1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.895] はじめに
+こんにちは、Watanabe Jin(@Sicut_study)です。
+今回から私が得意な設計に関するチュートリアルを投稿していこうと思います。
+ソフトウェア設計は学ぶのが難しいです。
+なぜかというと、抽象的な概念が多く、現実世界で利用しにくいためです。
+利用したとしても、気づいたら原則から外れてうまくいかないことも多々あります。
+そこで、初心者でもわかりやすく本質を理解して、実際に利用できるところまでをめざします。それが、設計シリーズの目的です。
+記念すべき第一回は、SOLIDの原則です。
+SOLIDの原則は、ロバート・C・マーティン（通称ボブおじさん）が考案しました。
+1990年</description><guid isPermaLink="false">https://qiita.com/Sicut_study/items/2bbdfbacab915773dad1?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 23 Nov 2026 20:13:47 +0000</pubDate></item><item><title>米正副大統領、フアン氏のエヌビディアＣＥＯ復帰に関与 米ＡＩ競争力を重視 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE8xeVJTblFpYmJjcHprLWNGSGd2c29aUVFfY05iWWRTMWd5Mk5Ba0pCVFdNYm9mX1UwaDJHSzFPLXlIWFVBdkJ2OUczSFdwM3ZxQlJVUEh0cTNBZk5Xc0l5RzVQWS1mbVU5cTcxd0VpdW1mZDVnNHVvbUhQNXNNb2s?oc=5</link><description>[score: 0.898] 米正副大統領、フアン氏のエヌビディアＣＥＯ復帰に関与 米ＡＩ競争力を重視 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE8xeVJTblFpYmJjcHprLWNGSGd2c29aUVFfY05iWWRTMWd5Mk5Ba0pCVFdNYm9mX1UwaDJHSzFPLXlIWFVBdkJ2OUczSFdwM3ZxQlJVUEh0cTNBZk5Xc0l5RzVQWS1mbVU5cTcxd0VpdW1mZDVnNHVvbUhQNXNNb2s?oc=5</guid><pubDate>Mon, 23 Nov 2026 19:43:39 +0000</pubDate></item><item><title>Claude Codeのhooksで：危険な命令は止められる？</title><link>https://qiita.com/blogjiraiya377/items/c320bb728b6733f153dd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.911] はじめに
+プログラムが書けない私が、AIの暴走を止める見張り役をAIに作らせて確かめた記録です。
+Claude Codeのhooksで見張り役を作る時に、どこでしくじったかが分かります。
+作った後に別のAIで点検すると、何が見つかるかが分かります。
+何が起きたか
+- はずだった：試験が全部通れば見張り役は完成のはずだった
+- 実際は：別のAIに点検してもらうと穴が8件見つかった
+- 原因：88件の試験に入っていない形の命令が、点検役の約280件の入力の中にありました
+- 次から：自分の試験とは別の目で入力を作ってもらう
+- 今回のやらかし：試験88件が全部合格と報告した約4分後に穴8件の知らせ</description><guid isPermaLink="false">https://qiita.com/blogjiraiya377/items/c320bb728b6733f153dd?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Mon, 23 Nov 2026 20:13:47 +0000</pubDate></item><item><title>フアン氏のエヌビディアＣＥＯ復帰、ラトニック米商務長官は関与せず＝関係筋 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxQWTRuT1NXVGtSeWFNWnJVNHNpeTlob1BOYmZBeTAxMWV6dmluMzBTX29PV3daRzZiemdTOUM3bGlUdFZPeEpHUHUzeDdONnNsVlh2emtKbjcxSXFBR1NaeFQ5UFZ2T1BfR25aUVI2dGVwZFBRMWsyWVdoYm90WUQzTkVDNXYxWmM?oc=5</link><description>[score: 0.912] フアン氏のエヌビディアＣＥＯ復帰、ラトニック米商務長官は関与せず＝関係筋 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxQWTRuT1NXVGtSeWFNWnJVNHNpeTlob1BOYmZBeTAxMWV6dmluMzBTX29PV3daRzZiemdTOUM3bGlUdFZPeEpHUHUzeDdONnNsVlh2emtKbjcxSXFBR1NaeFQ5UFZ2T1BfR25aUVI2dGVwZFBRMWsyWVdoYm90WUQzTkVDNXYxWmM?oc=5</guid><pubDate>Mon, 23 Nov 2026 19:43:39 +0000</pubDate></item></channel></rss>
