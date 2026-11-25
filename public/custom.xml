@@ -1,78 +1,118 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 25 Nov 2026 03:57:44 +0000</lastBuildDate><item><title>シューマー氏、エヌビディアＣＥＯを非難 「対中半導体輸出は違法」 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ0wwcXVMcmJ5WkJxSTBtSktWRDJ1b3djN1JrdWd0ZXduYzdwVDhvQUdyUUFLOE5PRFAxbENGcmhlMW5DaUJka1o3S0JrMmxYakJVSnJCWUhOMEFQZC1OYVc1ZG1LMTZ2TUpDWTdOYzdaQzRYYXpab1ZKZDhNQlVtMlZ3T0hMcDA?oc=5</link><description>[score: 0.879] シューマー氏、エヌビディアＣＥＯを非難 「対中半導体輸出は違法」 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxOQ0wwcXVMcmJ5WkJxSTBtSktWRDJ1b3djN1JrdWd0ZXduYzdwVDhvQUdyUUFLOE5PRFAxbENGcmhlMW5DaUJka1o3S0JrMmxYakJVSnJCWUhOMEFQZC1OYVc1ZG1LMTZ2TUpDWTdOYzdaQzRYYXpab1ZKZDhNQlVtMlZ3T0hMcDA?oc=5</guid><pubDate>Tue, 24 Nov 2026 19:49:42 +0000</pubDate></item><item><title>千葉 柏 夫婦殺害放火事件の裁判 79歳被告に死刑求刑 検察</title><link>https://news.web.nhk/newsweb/na/nd-20261125de81041</link><description>[score: 0.879] 2024年、千葉県柏市で知人の50代の夫婦を殺害し、近くの住宅に放火して8棟を全焼させたとして、殺人や放火などの罪に問われている79歳の被告の裁判で、検察は「残虐かつ極めて悪質だ。最大限の非難に値する…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Wed, 25 Nov 2026 16:29:39 +0000</lastBuildDate><item><title>GitLab User Community Tokyo Vol.4 (2026/12/09 18:15〜)</title><link>https://gitlab.connpass.com/event/410801/</link><description>[score: 0.872] 広告
+イベントの説明
+GitLab User Community Tokyo Vol.4
+GitLab を活用している方、これから使ってみたい方が集まり、GitLabの活用事例、機能の使いこなし、技術Tipsなどを共有するコミュニティイベントです。 第4回となる今回は、ピクシブ株式会社様のおしゃれオフィスをお借りして開催します。ガチユーザーの使いこなし事例も聞けますのでぜひご参加ください！
+開催概要
+- 日時: 2026年12月9日(水) 18:15〜21:30（18:30スタート）
+- 会場: ピクシブ株式会社（〒171-0021 東京都豊島区西池袋3丁目28番13号 IT tower TO</description><guid isPermaLink="false">https://gitlab.connpass.com/event/410801/</guid><pubDate>Wed, 25 Nov 2026 15:43:21 +0000</pubDate></item><item><title>Kubernetes祭り #3 (2026/12/04 19:00〜)</title><link>https://3-shake.connpass.com/event/412316/</link><description>[score: 0.872] 広告
+参加者への情報
+イベントの説明
+本イベントは、Kubernetesを始めとしたインフラ・SRE/DevOps支援サービス「Sreake」を提供するスリーシェイクが主催する、Kubernetesのためのイベントです。
+Kubernetesを中心としたクラウドネイテイブ技術に関する情報を、これらをどう活用してるのかを発信していきます！
+第3回目の今回は「Kubernetesを支えるコミュニティ活動について学ぼう」と題しまして、Kubernetesの開発コミュニティでの活動や、日本のクラウドネイテイブコミュニティでの活動について登壇者の皆様から教えてもらおうと思います。
+- Kubernete</description><guid isPermaLink="false">https://3-shake.connpass.com/event/412316/</guid><pubDate>Wed, 25 Nov 2026 15:43:21 +0000</pubDate></item><item><title>SRE Meetup (2026/12/08 19:00〜)</title><link>https://mercari.connpass.com/event/412578/</link><description>[score: 0.873] 12月
+8
+SRE Meetup
+AIを前提とした働き方の中でSREが持つべき観点を議論します。懇親会で一緒にお話しましょう！
+主催 : 株式会社メルカリ
+広告
+イベントの説明
+申込方法
+当ページ右側の「このイベントに申し込む」ボタンよりお申込みをお願いいたします。
+※申込み締切： 2026/12/4(金) 10:00 迄
+&lt;補足&gt;
+・本イベントは対面・日本語での実施を予定しています。
+・軽食やお飲み物のご用意もございます。
+・入館案内はイベント1～2営業日前を目処に登録メールアドレスへ配信いたします。
+イベント概要
+- アラート対応、インシデント対応、ポストモーテムのまとめ、繰り返し発生する</description><guid isPermaLink="false">https://mercari.connpass.com/event/412578/</guid><pubDate>Wed, 25 Nov 2026 15:43:21 +0000</pubDate></item><item><title>【増枠】ISUCON2026 優勝AIエージェント、8時間分の生ログを眺める会 (2026/11/26 12:00〜)</title><link>https://herp-inc.connpass.com/event/412593/</link><description>[score: 0.873] 広告
+| 募集内容 |
+オンライン 無料
+先着順
+|
+|---|---|
+| 申込者 | 申込者一覧を見る |
+| 開催日時 |
+2026/11/26(木) 12:00 ～ 13:00
+|
+| 募集期間 |
+2026/11/10(火) 16:03
+〜 |
+| 会場 |
+オンライン オンライン |
+| 出席登録 |
+(イベント開始時間の2時間前から終了時間まで、参加者のみに公開されます)
+|
+参加者への情報
+イベントの説明
+お知らせ
+11/25(水)：参加者への情報欄に当日の参加リンクを追加しました。
+11/19(木)：ご好評につき、1,500人まで増枠しました。
+11/16(月)：増枠を予定し</description><guid isPermaLink="false">https://herp-inc.connpass.com/event/412593/</guid><pubDate>Wed, 25 Nov 2026 15:43:21 +0000</pubDate></item><item><title>米国株式市場・序盤＝ダウ1000ドル超安、ナスダック4％安 ＡＩ株売り継続 - Reuters</title><link>https://news.google.com/rss/articles/CBMikAFBVV95cUxOX1RDTDNIdVpvMW13QlAtYXNhNU43VnY1ZWh5TDZEM3FNdkJZMFBhNDNIS1AySlAwSGN1QmowUlZOWHNWYkRXaHF0THJVN2hZN3BvU3AxUFlJM0tWTzRjMWJJUkd6N2pkMkdPRk9VWmhlOHAxWlM5aTFfZmxMbFNWUS1LTjFJc080bldZemtEeTM?oc=5</link><description>[score: 0.873] 米国株式市場・序盤＝ダウ1000ドル超安、ナスダック4％安 ＡＩ株売り継続 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxOX1RDTDNIdVpvMW13QlAtYXNhNU43VnY1ZWh5TDZEM3FNdkJZMFBhNDNIS1AySlAwSGN1QmowUlZOWHNWYkRXaHF0THJVN2hZN3BvU3AxUFlJM0tWTzRjMWJJUkd6N2pkMkdPRk9VWmhlOHAxWlM5aTFfZmxMbFNWUS1LTjFJc080bldZemtEeTM?oc=5</guid><pubDate>Wed, 25 Nov 2026 15:24:13 +0000</pubDate></item><item><title>【2026年ベストバイ】エンジニアが買ってよかったガジェット8選 - stmn tech blog</title><link>https://tech.stmn.co.jp/entry/best-buy-2026</link><description>[score: 0.874] 【2026年ベストバイ】エンジニアが買ってよかったガジェット8選 - stmn tech blog はじめに みなさん、こんにちは☀️プロダクト開発部のねぎちゃんです🌷 いよいよ年に一度のビッグセール、ブラックフライデーの季節がやってきましたね！ 「このタイミングで作業環境をアップデートしたい」「何か良いガジェットがないか探している」という方も多いのではないでしょうか。 そこで今回は、リモートワークと...</description><guid isPermaLink="false">https://tech.stmn.co.jp/entry/best-buy-2026</guid><pubDate>Wed, 25 Nov 2026 14:20:16 +0000</pubDate></item><item><title>「セキュアSAMBA」における利用者情報の漏えいのおそれに関するお詫びとお知らせ | 株式会社kubellストレージ</title><link>https://www.kubell-storage.com/news/2026/11/samba.html</link><description>[score: 0.874] 「セキュアSAMBA」における利用者情報の漏えいのおそれに関するお詫びとお知らせ | 株式会社kubellストレージ 株式会社kubellストレージ（本社：東京都港区、代表取締役社長：中 哲成）が提供する「セキュアSAMBA」の一部環境で、ユーザーID、パスワード等が、第三者に漏えいしたおそれがあることが判明いたしました。 なお... ockeghem さまざまな感情がうずまいて簡潔にコメントができない事例だ。ログが120日分しかなく、それ以前の不正アクセスは調べられなかったと</description><guid isPermaLink="false">https://www.kubell-storage.com/news/2026/11/samba.html</guid><pubDate>Wed, 25 Nov 2026 15:43:21 +0000</pubDate></item><item><title>Incident Response Meetup vol.3 (2026/11/26 19:00〜)</title><link>https://incident-response.connpass.com/event/411015/</link><description>[score: 0.875] 広告
+参加者への情報
+イベントの説明
+概要
+本イベントはインシデントレスポンス（障害対応）のスキルを向上したいエンジニアの技術交流を目的としています。
+第3回のテーマは、『「AI×組織」でなんとかする障害対応』です。 ログラスのmekkaさん、MIXIのホンマークハントさんをお招きして、 インシデントレスポンスやインシデントマネジメントに関する色々な話を聞ける場として開催します！
+対象者
+- 自社の障害対応に課題を感じているエンジニア、エンジニアリングマネージャー
+- 障害対応の属人性、障害対応の初動や報告のスピードを改善したい組織リーダー
+- これから障害対応に取り組む、障害対応なにもわから</description><guid isPermaLink="false">https://incident-response.connpass.com/event/411015/</guid><pubDate>Wed, 25 Nov 2026 15:43:21 +0000</pubDate></item><item><title>FC2創業者「1円も稼いでへんのに、AI課金が月15万円」…さらには「AI彼氏」に月12万円注ぎ込み、借金40万円を抱えた30代女性も…急増する「AI貧乏」のリアル | 日刊SPA!</title><link>https://nikkan-spa.jp/2196453</link><description>[score: 0.875] FC2創業者「1円も稼いでへんのに、AI課金が月15万円」…さらには「AI彼氏」に月12万円注ぎ込み、借金40万円を抱えた30代女性も…急増する「AI貧乏」のリアル | 日刊SPA! 生成AI 、整形、シール、ブルーカラー転職──近年のブームに乗り、人生を変えようとした人々がいる。だが手軽な快感と「乗り遅れたくない」という焦りは課金沼や借金、心身の不調を招くことも。熱狂の先に待つ、笑えない現実を追った。 近年、最も注目を集め、世の中を変えた技術といえば生成AIだろう。業務を効率化する...</description><guid isPermaLink="false">https://nikkan-spa.jp/2196453</guid><pubDate>Wed, 25 Nov 2026 15:09:24 +0000</pubDate></item><item><title>防衛省、自衛官の定数削減へ　「AI指揮統制」で人手補強 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUA20BWZ0Q6A121C2000000/</link><description>[score: 0.876] この記事は会員限定記事です
+防衛省、自衛官の定数削減へ 「AI指揮統制」で人手補強
+防衛省は年内に予定する安全保障関連3文書の改定に合わせ、自衛官の定数を削減する検討に入った。部隊編成の基本となる定数を実際の自衛官の数に近づけることで運用の効率を高める。司令機能は人工知能（AI）を導入し必要な人手を減らす。
+自衛官の定数は防衛省設置法で24万7154人と定める。実際は21万8000人弱にとどまる。1割が欠員状態だ。防衛省は3文書の中で定数を減らす方針を明記し充足率を高める。陸上...
+NIKKEI Primeについて
+朝夕刊や電子版ではお伝えしきれない情報をお届けします。今後も様々な切り口でサ</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUA20BWZ0Q6A121C2000000/</guid><pubDate>Wed, 25 Nov 2026 15:47:47 +0000</pubDate></item><item><title>【ドパガキ向け】AI 時代の要求管理 ハンドブックを読もう</title><link>https://zenn.dev/muroshima/articles/be47515ff9c16e</link><description>[score: 0.876] IPA の「AI 時代の要求管理ハンドブック」を読みました。 129ページあって全部追うのは大変なので、重要そうなところだけピックアップしました。 https://www.ipa.go.jp/digital/kaihatsu/rqr7mi000000f5up-att/req-mgmt-hb.pdf ! とりあえず、3行で 要望と要求と要件は別物。要望から要件へは一足飛びにできない AI を使う要件では「AI が迷ったときにどうするか」まで書く AI の出力の良し悪しを見抜くために、人間側の要求定義の力がいっそう要る どんな資料か 発行は IPA のデジタル＆AI システムズ・...</description><guid isPermaLink="false">https://zenn.dev/muroshima/articles/be47515ff9c16e</guid><pubDate>Wed, 25 Nov 2026 11:41:55 +0000</pubDate></item><item><title>ジェンスン・フアンのCEO復帰は「間違い」だ、エヌビディア企業統治の崩壊</title><link>https://forbesjapan.com/articles/detail/108831?s=ns</link><description>[score: 0.876] 衝撃的な方針転換であり、コーポレートガバナンス（企業統治）という点でまさに「悲しい日」としか言いようがない。エヌビディアの取締役会は、中国のためにスパイ活動を行った疑いをかけられている女性との関係を含め、複数の婚外関係を認めて辞任したジェンスン・フアンを辞任からわずか11日後に社長兼最高経営責任者（CEO）に復帰させた。
+株式市場はこの動きを歓迎した。エヌビディアの株価は30％以上上昇し、同社の時価総額はわずか1日で1兆ドル（約159兆円）近く増えた。だが、フアンを復帰させるという決定は取締役会の独立性を損ない、価値観に基づくリーダーシップに反する重大な過ちだ。
+当初から明らかだったのは、フア</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108831?s=ns</guid><pubDate>Wed, 25 Nov 2026 07:21:17 +0000</pubDate></item><item><title>SRA OSS -Data Platform Night- 第1回 (2026/12/04 18:00〜)</title><link>https://sraoss.connpass.com/event/410554/</link><description>[score: 0.876] 広告
+| 募集内容 |
+現地参加 無料
+先着順
+|
+|---|---|
+| 申込者 | 申込者一覧を見る |
+| 開催日時 |
+2026/12/04(金) 18:00 ～ 22:00
+|
+| 募集期間 |
+2026/11/13(金) 18:50
+〜 |
+| 会場 |
+アットビジネスセンター池袋駅前 別館 609号室（イベントスペース） 東京都豊島区東池袋1-6-4 伊藤ビル 4・6・7・8・9階 マップで見る 会場のサイトを見る |
+| 出席登録 |
+(イベント開始時間の2時間前から終了時間まで、参加者のみに公開されます)
+|
+参加者への情報
+イベントの説明
+🔖 本イベントについて
+株式会社S</description><guid isPermaLink="false">https://sraoss.connpass.com/event/410554/</guid><pubDate>Wed, 25 Nov 2026 15:43:21 +0000</pubDate></item><item><title>トランプ氏、フアン氏への恩赦「常に選択肢ある」　必要になる可能性は低いとも</title><link>https://www.cnn.co.jp/usa/35255398.html</link><description>[score: 0.877] ホワイトハウスでの会合後、トランプ氏と握手を交わすエヌビディアのジェンスン・フアンCEO＝2025年4月30日、米首都ワシントン/Andrew Harnik/Getty Images/File （CNN） トランプ米大統領は24日、米半導体大手エヌビディアの最高経営責任者（CEO）に復帰したばかりのジェンスン・フアン氏について、何らかの罪に問われた場合は恩赦を検討する考えを示した。ただ、恩赦が必要になる可能性は低いとも付け加えた。 トランプ氏は米紙ニューヨーク・ポストのインタビューでフアン氏への恩赦について問われ、「常に選択肢の一つではあると思うが、その必要はないだろう」と答えた。 またフアン</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35255398.html</guid><pubDate>Wed, 25 Nov 2026 07:35:55 +0000</pubDate></item><item><title>ＡＩ関連株下げ止まらず、ナスダック100が1.5兆ドル超消失も - Reuters</title><link>https://news.google.com/rss/articles/CBMikAFBVV95cUxPa2E0UXNiWDVzMkltakV2QW15TW5FWUdEMTE1bGI5R1Z1WVZfMmFhMkxQRGFybnVXelJvWDFOSHBVekswYWc4aUdLdnFDRUgtUXVIejJjVVU4MGtEV2VOUGdhR2hqR2lORlc2WU5penVZa2dRbWpZSGhxcWt5ODNGVFdSQTV0Smd5TjRZYUFOVkg?oc=5</link><description>[score: 0.877] ＡＩ関連株下げ止まらず、ナスダック100が1.5兆ドル超消失も Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxPa2E0UXNiWDVzMkltakV2QW15TW5FWUdEMTE1bGI5R1Z1WVZfMmFhMkxQRGFybnVXelJvWDFOSHBVekswYWc4aUdLdnFDRUgtUXVIejJjVVU4MGtEV2VOUGdhR2hqR2lORlc2WU5penVZa2dRbWpZSGhxcWt5ODNGVFdSQTV0Smd5TjRZYUFOVkg?oc=5</guid><pubDate>Wed, 25 Nov 2026 16:21:06 +0000</pubDate></item><item><title>「PHP脆弱性」騒動の経緯と実態　本当に危険だったのか - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC110RZ0R11C26A1000000/</link><description>[score: 0.877] この記事は会員限定記事です
+「PHP脆弱性」騒動の経緯と実態 本当に危険だったのか
+[会員限定記事]
+ウェブサイトで使われているプログラミング言語「PHP」の脆弱性が日本を震撼（しんかん）させた。悪用された場合の被害が深刻になるとして、多くのウェブサイトがサービスを停止した。いわゆる能動的停止である。だが幸いなことに、現時点（2026年11月6日現在）で大規模な被害は広く確認されていない。本記事では、「騒動」に至った経緯、脆弱性を悪用した攻撃の現状、能動的停止の判断について解説する。
+修正版公開前に情報漏洩が相次ぐ
+関連リンク</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC110RZ0R11C26A1000000/</guid><pubDate>Wed, 25 Nov 2026 12:40:28 +0000</pubDate></item><item><title>Qwen3.8 27Bより高性能なアメリカ製オープンモデル「Inkling 2 Mini」が公開される＆メモリ16GBで実行できる量子化版も登場</title><link>https://gigazine.net/news/20261124-inkling-2-mini/</link><description>[score: 0.877] Qwen3.8 27Bより高性能なアメリカ製オープンモデル「Inkling 2 Mini」が公開される＆メモリ16GBで実行できる量子化版も登場 アメリカに拠点を置くAI開発企業のThinking Machines LabがAIモデル「Inkling 2 Mini」を公開しました。ベンチマークテストではQwen3.8 27Bを上回っています。 Introducing Inkling 2 Mini - Thinking Machines Lab https://thinkingmachines.ai/news/inkling-2-mini/ Thinking Machines LabはOpenA</description><guid isPermaLink="false">https://gigazine.net/news/20261124-inkling-2-mini/</guid><pubDate>Wed, 25 Nov 2026 14:58:45 +0000</pubDate></item><item><title>Apache Iceberg Meetup Japan #8 (2026/12/07 18:30〜)</title><link>https://iceberg.connpass.com/event/408569/</link><description>[score: 0.878] 広告
+参加者への情報
+イベントの説明
+🧊 Iceberg Japan Meetupへようこそ！🧊
+Apache Iceberg日本コミュニティの第8回ミートアップを開催します！ Icebergは、大規模なデータレイク環境で信頼性の高いデータ管理を可能にするオープンテーブルフォーマットです。Snowflake、Apache Spark、Flink、Trino、DuckDBなど、多様なエコシステムと連携し、パフォーマンスとスケーラビリティを向上させます。
+本イベントでは、Icebergの実際のユースケースや最新機能ついて詳しく解説します。データエンジニアやデータアナリストの皆様、データレイク技術に</description><guid isPermaLink="false">https://iceberg.connpass.com/event/408569/</guid><pubDate>Wed, 25 Nov 2026 15:43:21 +0000</pubDate></item><item><title>米10月コア資本財受注1.2％増、ＡＩ投資過熱警戒で勢い鈍化も - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPVXI3aFNpWXFfQWdfMGRaRE9fZWFEc1FVQ0luWkJHSWlHYzFyNXotQjhMMzRVZ0VqMFB1WGZQTGlocmNmUEVqSjBlSGZoZE1oLURKLXJDSmVERWtSd2dhWmN6RTRWN1BVSmhOa0NkRVNCSWNxQVlybXhiS215ME9hX3FvVHNFZw?oc=5</link><description>[score: 0.878] 米10月コア資本財受注1.2％増、ＡＩ投資過熱警戒で勢い鈍化も Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxPVXI3aFNpWXFfQWdfMGRaRE9fZWFEc1FVQ0luWkJHSWlHYzFyNXotQjhMMzRVZ0VqMFB1WGZQTGlocmNmUEVqSjBlSGZoZE1oLURKLXJDSmVERWtSd2dhWmN6RTRWN1BVSmhOa0NkRVNCSWNxQVlybXhiS215ME9hX3FvVHNFZw?oc=5</guid><pubDate>Wed, 25 Nov 2026 15:24:13 +0000</pubDate></item><item><title>個人情報漏えいの可能性に関するお詫びとお知らせ | Ci-en｜サービスインフォメーション</title><link>https://info.eisys.co.jp/cien/d79b97fd904d00c8</link><description>[score: 0.879] 個人情報漏えいの可能性に関するお詫びとお知らせ | Ci-en｜サービスインフォメーション いつもCi-enをご利用いただき、誠にありがとうございます。 株式会社エイシス（以下「当社」）が運営するCi-enにおいて、Ci-enをご利用のクリエイターの皆様のお取引に関する個人情報が、第三者による不正アクセスにより外部に流出した可能性が高いことが判明いたしました。 対象となる皆様をはじめ、関係する皆様に多大...</description><guid isPermaLink="false">https://info.eisys.co.jp/cien/d79b97fd904d00c8</guid><pubDate>Wed, 25 Nov 2026 11:33:03 +0000</pubDate></item><item><title>ロシアがウクライナ電力網攻撃、5州で停電 ザポリージャ原発も電源喪失 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPVDhZNDRzcmdYbDlCZmZsTmRzNk9scjBDNzE1Y0RZYlpCVlgxQXlsNk94TU42ZHRjQy1MYXJPek85WWVTZ3JZWnFiOEZVUG9tNTlEYmNXRXU5ZVdqVGVaM2xkbzIyWFRya0xpM0hJdXROcWpENndPWWRORVRSOUthOHZzUW84QQ?oc=5</link><description>[score: 0.880] ロシアがウクライナ電力網攻撃、5州で停電 ザポリージャ原発も電源喪失 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxPVDhZNDRzcmdYbDlCZmZsTmRzNk9scjBDNzE1Y0RZYlpCVlgxQXlsNk94TU42ZHRjQy1MYXJPek85WWVTZ3JZWnFiOEZVUG9tNTlEYmNXRXU5ZVdqVGVaM2xkbzIyWFRya0xpM0hJdXROcWpENndPWWRORVRSOUthOHZzUW84QQ?oc=5</guid><pubDate>Wed, 25 Nov 2026 16:21:06 +0000</pubDate></item><item><title>NVIDIAのジェンスン・フアンCEOの不倫相手であるアリス・フアンは犯罪組織を含む巨大違法取引ネットワークに関与していたと判明</title><link>https://gigazine.net/news/20261125-alice-huang/</link><description>[score: 0.880] NVIDIAのジェンスン・フアンCEOの不倫相手であるアリス・フアンは犯罪組織を含む巨大違法取引ネットワークに関与していたと判明
+NVIDIAのジェンスン・フアンCEOの不倫相手で中国のスパイであることが疑われているアリス・フアン氏が、中国へNVIDIA製半導体を違法に輸出する巨大ネットワークに関与していたことが報じられています。
+Alice Huang’s links to the chip underworld - FINANCIAL TIMES
+https://www.ft.com/content/f3ad8a81-3890-4a8a-8853-ff0a94b08ba9
+Exclusiv</description><guid isPermaLink="false">https://gigazine.net/news/20261125-alice-huang/</guid><pubDate>Wed, 25 Nov 2026 08:40:50 +0000</pubDate></item><item><title>NY株式市場 ナスダック 一時4％超の下落 ハイテク株売りが再び</title><link>https://news.web.nhk/newsweb/na/nd-20261126de81556</link><description>[score: 0.881] 25日のニューヨーク株式市場では、AIの先行きに対する不透明感が強まるなかで、半導体をはじめ幅広い銘柄に売り注文が広がり、ハイテク株の比率が高いナスダックの株価指数は前日と比べて一時、4％を超える大幅…
 あわせて読みたい
-神奈川 小田原厚木道路で77歳運転の逆走車が衝突 34歳男性死亡
-11月25日 1:52
-日経平均株価 一時2100円超の値下がり 半導体関連中心に売り
-11月25日 11:51
-ナスダック 一転下落 エヌビディア企業統治に懸念
-11月25日 7:09
+米 牧場で働く3人が鳥インフルエンザウイルス感染 1人死亡 WHO
+11月25日 23:08
+韓国で仕事求める日本人増加 ソウルで合同企業説明会
+11月25日 21:13
+ソロモン諸島 オーストラリアと安全保障の新条約に署名
+11月25日 18:56
 ロシア軍の戦死者49万人超か ロシア独立系メディアが分析
 11月25日 8:45
-野党 関文科相への問責決議案提出へ 与党 </description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261125de81041</guid><pubDate>Wed, 25 Nov 2026 03:05:14 +0000</pubDate></item><item><title>定数削減、識者4人全員が否定的　衆院特別委、自民などの推薦者も：朝日新聞</title><link>https://www.asahi.com/articles/ASVCS3R1YVCSUTFK00DM.html</link><description>[score: 0.880] 定数削減、識者4人全員が否定的 衆院特別委、自民などの推薦者も
-衆院議員定数の31削減を柱とする法案をめぐり、衆院政治改革特別委員会は24日、参考人質疑を行った。法案を共同提出した自民、日本維新の会、国民民主の3党側が招いた識者を含む全4人が定数削減そのものに否定的な見解を表明した。与党側は26日の法案採決を提案したが、法案の根幹に識者から疑問が突きつけられた中、野党側は反対姿勢を強めている。
-参考人質疑に出席したのは、法案提出者側が推薦した中北浩爾・中央大教授と谷口将紀・東大教授、国民民主を除く野党側が招いた大山礼子・駒沢大名誉教授と小沢隆一・東京慈恵会医科大名誉教授の4人。
-そもそも定数を</description><guid isPermaLink="false">https://www.asahi.com/articles/ASVCS3R1YVCSUTFK00DM.html</guid><pubDate>Tue, 24 Nov 2026 22:32:54 +0000</pubDate></item><item><title>午前の日経平均は反落、米ＡＩ株安を嫌気し3％超安 アジア株安も重し - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxPUy1ydkZ2aEc1ZzRReWFZMWNYUkdNeGstLTdqTXdJVGZCZkRaVnFlUTBlOGp2Q0V6V0xrWExSclo3aTdMQnBfNVFYdnpRMHJNNmpCY3k3NWFIeXFjTG9wZEV5MjVkSE5yQnVCZzNtSGNQd2l4bTdhXzVObk1DUHFCSUoyNUgtUQ?oc=5</link><description>[score: 0.881] 午前の日経平均は反落、米ＡＩ株安を嫌気し3％超安 アジア株安も重し Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxPUy1ydkZ2aEc1ZzRReWFZMWNYUkdNeGstLTdqTXdJVGZCZkRaVnFlUTBlOGp2Q0V6V0xrWExSclo3aTdMQnBfNVFYdnpRMHJNNmpCY3k3NWFIeXFjTG9wZEV5MjVkSE5yQnVCZzNtSGNQd2l4bTdhXzVObk1DUHFCSUoyNUgtUQ?oc=5</guid><pubDate>Wed, 25 Nov 2026 03:42:43 +0000</pubDate></item><item><title>フアン氏がエヌビディアに復帰、不倫発覚による辞任から一転　トランプ氏は「私が取引をまとめた」と - BBCニュース</title><link>https://www.bbc.com/japanese/articles/c6g7l1397vvzo</link><description>[score: 0.883] フアン氏がエヌビディアに復帰、不倫発覚による辞任から一転 トランプ氏は「私が取引をまとめた」と
-バーント・デブスマン・ジュニア・ホワイトハウス記者、カリ・ヘイズ記者（サンフランシスコ）
-米半導体大手エヌビディアは23日、ジェンスン・フアン氏を最高経営責任者（CEO）に復帰させると発表した。フアン氏は12日、中国のスパイと疑われる人物などとの不倫が発覚したことを受けてCEOを辞任。同社は数日前、フアン氏の復帰の申し出を拒否したばかりだった。
-フアン氏をめぐっては、ドナルド・トランプ米大統領がフアン氏をCEOに再任するよう圧力をかけていた。トランプ大統領は23日、同社の取締役会を「説得」するため自</description><guid isPermaLink="false">https://www.bbc.com/japanese/articles/c6g7l1397vvzo</guid><pubDate>Tue, 24 Nov 2026 19:48:00 +0000</pubDate></item><item><title>アンソロピック株が公開価格の「83ドル割れ」、一時11％超下落</title><link>https://forbesjapan.com/articles/detail/108806?s=ns</link><description>[score: 0.883] 米国時間11月24日、アンソロピックの株価が取引開始後に下落し、米東部標準時午前11時時点で11.4％安となった。前日の急反発から一転して株式市場全体が軟調に始まるなか、先週の上場時に設定された公開価格の83ドルを下回った。
-23日の終値は前日比1.4％安の87.64ドルだったが、24日の取引開始後は77.65ドルまで値を下げている。
-アンソロピック株は19日の上場時に公開価格を34％上回る111.50ドルの初値をつけたものの、その後は急激に下落し、24日朝に初めて公開価格の83ドルを割り込んだ。
-米国株市場は23日に2025年4月以来最大の上げ幅を記録したが、AI関連株に対する懸念が再燃した</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108806?s=ns</guid><pubDate>Tue, 24 Nov 2026 23:58:06 +0000</pubDate></item><item><title>第3回　先回りアシストはどこで顔を出すか。LINEの日程調整でわかったちょうどいい距離感</title><link>https://gihyo.jp/article/2026/11/gemini-intelligence-03?utm_source=feed</link><description>[score: 0.883] 前回までは、Gemini Intelligenceが決まった機能の名前ではなく端末基準の名前であり、対象は7機種に限られることを整理しました。第2回では、GboardのAI音声入力と文章作成ツールを読み上げテストで試して、フィラーの除去と言い直しの反映は実用になる一方で固有名詞には出力後の確認が要ることを確かめました。
-今回取り上げる先回りアシストの対象は、この間に広がっています。当初はPixel 11シリーズ向けでしたが、2026年11月のPixel Dropがリリースされたことで、Pixel 10シリーズも対象に入りました。公式ヘルプが示す対象は、Pixel 10、Pixel 10 Pro</description><guid isPermaLink="false">https://gihyo.jp/article/2026/11/gemini-intelligence-03?utm_source=feed</guid><pubDate>Wed, 25 Nov 2026 03:30:11 +0000</pubDate></item><item><title>「Claude」で作ったアプリをMac／Windowsにインストール可能に　全プランでβ提供</title><link>https://www.itmedia.co.jp/news/article/2611/25/2000003431/</link><description>[score: 0.884] 「Claude」で作ったアプリをMac／Windowsにインストール可能に 全プランでβ提供
-米Anthropicは11月24日（現地時間）、AIアシスタント「Claude」で作成した「アーティファクト」（Artifacts）を、macOSおよびWindows向けのデスクトップアプリとしてインストールできる機能「Install as app」を発表した。Mac／Windows向けのClaudeアプリで、全プランを対象にβ版として順次提供する。
-アーティファクトは、Claudeとの対話の中で生成されるチャートやWebページなどの成果物だ。Anthropicによると、当初は人と共有するための成果物</description><guid isPermaLink="false">https://www.itmedia.co.jp/news/article/2611/25/2000003431/</guid><pubDate>Wed, 25 Nov 2026 01:59:32 +0000</pubDate></item><item><title>翻訳特化AI「Hy MT3」をテンセントが公開、日本語を含む102言語に対応しローカルで実行可能</title><link>https://gigazine.net/news/20261125-hy-mt3-tencent-translation-ai/</link><description>[score: 0.884] 翻訳特化AI「Hy MT3」をテンセントが公開、日本語を含む102言語に対応しローカルで実行可能
-中国の大手テクノロジー企業であるTencentが翻訳特化AIモデル「Hy MT3」を2026年11月24日に公開しました。
-GitHub - Tencent-Hunyuan/Hy-MT3 · GitHub
-https://github.com/Tencent-Hunyuan/Hy-MT3
-🚀 Hy MT3 is here — third-generation open-source translation models.
-— Tencent Hy (@TencentHunyuan) Novembe</description><guid isPermaLink="false">https://gigazine.net/news/20261125-hy-mt3-tencent-translation-ai/</guid><pubDate>Wed, 25 Nov 2026 02:31:17 +0000</pubDate></item><item><title>GPT-6シリーズが生物学に特化したAIなしでタンパク質を設計できることが判明、実験室での検証にも成功</title><link>https://gigazine.net/news/20261125-openai-gpt-6-protein/</link><description>[score: 0.885] GPT-6シリーズが生物学に特化したAIなしでタンパク質を設計できることが判明、実験室での検証にも成功
-OpenAIは2026年11月24日、汎用大規模言語モデル(LLM)のGPT-6シリーズが推論とコーディングだけで新たなタンパク質の立体構造やアミノ酸配列を設計できることを発表しました。さらに、GPT-6.2による設計を基に実際にタンパク質を合成し、意図した標的に結合することを実験で確認しています。
-GPT-6 models demonstrate intrinsic protein-design capabilities | OpenAI
-https://openai.com/index/</description><guid isPermaLink="false">https://gigazine.net/news/20261125-openai-gpt-6-protein/</guid><pubDate>Wed, 25 Nov 2026 03:35:26 +0000</pubDate></item><item><title>Copilot Studioのエージェント開発をClaude Codeにどこまで任せられるか試した</title><link>https://zenn.dev/upgradetech/articles/a9a1637d3071c1</link><description>[score: 0.885] この記事の想定読者 Copilot Studioのエージェントを画面操作で作っていて、直すたびにどこを変えたのか分からなくなっている方 Claude Codeを使い始めて、コードを書く以外の仕事にも使えないか考えている方 「AIにアプリを作らせる」が実際どこまで通用するのか、判断材料がほしいPM・マネージャーの方 記事を見ながら同じものを自分の環境で作ってみたい方 この記事を読むと、小さなサンプルでClaude Codeにどこまで任せられたのかが分かります。同じものを自分の環境で作る手順も載せています。 1. Copilot Studioのエージェント作りをClaude Co...</description><guid isPermaLink="false">https://zenn.dev/upgradetech/articles/a9a1637d3071c1</guid><pubDate>Tue, 24 Nov 2026 23:31:27 +0000</pubDate></item><item><title>Claudeで作ったツールがそのままMac・Windowsアプリに、Anthropicが「Install as app」をベータ公開　署名もAPIキーも不要</title><link>https://www.techno-edge.net/article/2026/11/25/5812.html</link><description>[score: 0.887] Anthropicは11月24日、Claudeのアーティファクトをデスクトップアプリとして作成・実行・共有する機能「Install as app」を発表しました。Mac版とWindows版のClaudeで、全プランを対象にベータ版として順次提供します。
-アーティファクトは、Claudeとの対話で生成するチャートやWebページなどの成果物です。Anthropicによると、当初は共有するための成果物でしたが、現在はカレンダーとメールから定期的に情報を取り込む会議準備ページや、当日発送する注文の管理表など、日常業務の道具としても利用が広がっています。同社は、仕事で頼る道具はほかのアプリと同じように開</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/11/25/5812.html</guid><pubDate>Wed, 25 Nov 2026 03:05:20 +0000</pubDate></item><item><title>AIに意識？ アンソロピックがIPOで投資家に示した奇妙なリスク</title><link>https://www.technologyreview.jp/s/395176/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/</link><description>[score: 0.887] You need to enable JavaScript to run this app.</description><guid isPermaLink="false">https://www.technologyreview.jp/s/395176/a-legendary-philosopher-isnt-buying-anthropics-consciousness-argument/</guid><pubDate>Tue, 24 Nov 2026 21:39:39 +0000</pubDate></item><item><title>楽天証、預かり資産の残高情報168万件が漏えい 調査で判明 - Reuters</title><link>https://news.google.com/rss/articles/CBMif0FVX3lxTE5DQXNkakZGTmtndG9DbndTMkJwMzZFVEIwbEg5UG9DVFphZUVQWXU5RVIzU1VOLUdXSVkxazNUWHV1a280c0VmekJudWk5SGgxcEVPbmxEYUVtMGhJWW5LNENzMDNtQ3VvT1ZjX2V6aW9VZDBJcGxEb09zeFdaSnM?oc=5</link><description>[score: 0.887] 楽天証、預かり資産の残高情報168万件が漏えい 調査で判明 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMif0FVX3lxTE5DQXNkakZGTmtndG9DbndTMkJwMzZFVEIwbEg5UG9DVFphZUVQWXU5RVIzU1VOLUdXSVkxazNUWHV1a280c0VmekJudWk5SGgxcEVPbmxEYUVtMGhJWW5LNENzMDNtQ3VvT1ZjX2V6aW9VZDBJcGxEb09zeFdaSnM?oc=5</guid><pubDate>Tue, 24 Nov 2026 23:48:41 +0000</pubDate></item><item><title>ベラルーシ大統領、ゼレンスキー氏にモスクワへの同行提案「私が安全を含め一切を保証する」</title><link>https://www.afpbb.com/articles/-/3663966</link><description>[score: 0.887] ベラルーシ大統領、ゼレンスキー氏にモスクワへの同行提案「私が安全を含め一切を保証する」 【11月25日 AFP】ベラルーシのアレクサンドル・ルカシェンコ大統領は仏週刊誌ルポワンのインタビューで、5年近く続くウクライナでの戦争の終結に向けた協議のため、ウクライナのウォロディミル・ゼレンスキー大統領と「安全の保証人として」ロシアの首都モスクワまで同行する用意があると述べた。 1994年から30年以上に...</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3663966</guid><pubDate>Wed, 25 Nov 2026 02:49:11 +0000</pubDate></item><item><title>楽天証券、住所・氏名等の漏えいは441万件　口座未開設者も119万件</title><link>https://www.watch.impress.co.jp/docs/news/2158909.html</link><description>[score: 0.888] ニュース
-楽天証券、住所・氏名等の漏えいは441万件 口座未開設者も119万件
-2026年11月24日 22:58
-楽天証券は24日、第三者による不正アクセスにより顧客情報の一部が漏えいした問題について、ログインIDなどに加え、氏名や住所などの情報が漏えいした件数が約441万件と発表した。
-17日に不正アクセスにより顧客情報の一部が漏えいした可能性があると発表し、最大1,125万口座に影響するとしていた。今回外部に持ち出された情報についての調査状況を第2報として発表し、部店・お客様コード、ログインIDに限った漏えいは、約1,198万口座だった。
-この3情報に加え、氏名、カナ氏名、生年月日、住所</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2158909.html</guid><pubDate>Tue, 24 Nov 2026 14:06:56 +0000</pubDate></item><item><title>民主党多数派の米議会、2027年以降の米外交・安全保障政策はどう変わるか</title><link>https://forbesjapan.com/articles/detail/108802?s=ns</link><description>[score: 0.888] 米民主党が上下両院で多数派を奪還した中間選挙の結果を受け、2028年の次期米大統領選をめぐる憶測が本格化している。ホワイトハウスは過去2年間、国家安全保障に関する意思決定において連邦議会の関与をほとんど受けずに政権運営を続けてきた。だが、来年1月に新議会が招集されれば、全く異なる状況に直面することは明らかだ。
-今後2年間の米国の外交政策や安全保障をめぐる議論の展望をまとめてみた。
-対イラン紛争の徹底検証
-世論調査から明白なのは、米国民はトランプ政権によるイラン攻撃に深い不満を抱いており、これが中間選挙での民主党の躍進につながったという点だ。有権者は、開戦から早9カ月目に突入した戦争の推移、遂行</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108802?s=ns</guid><pubDate>Wed, 25 Nov 2026 03:21:14 +0000</pubDate></item><item><title>Claudeで作ったアプリをチームに共有・管理できる「Install as app」</title><link>https://www.watch.impress.co.jp/docs/news/2159019.html</link><description>[score: 0.889] ニュース
-Claudeで作ったアプリをチームに共有・管理できる「Install as app」
-2026年11月25日 12:30
-Anthropicは24日(米国時間)、「Claude」のアーティファクト(Artifacts)を利用して、デスクトップアプリの作成、実行、共有が可能になる「Install as app(アプリとしてインストール)」機能を提供開始した。Claude for MacとWindowsでベータ版として利用できる。
-アーティファクトはClaude上で動作するWebアプリを作成できる機能。今回のInstall as appは、Mac/Windowsアプリとしてインストールす</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2159019.html</guid><pubDate>Wed, 25 Nov 2026 03:40:50 +0000</pubDate></item><item><title>エヌビディア株が8％下落、ジェンスン・フアンの資産は「約1.6兆円減」</title><link>https://forbesjapan.com/articles/detail/108811?s=ns</link><description>[score: 0.891] 米国時間11月24日朝、エヌビディアのジェンスン・フアンCEOの資産が100億ドル（約1兆6000億円）以上減少した。CEOへの復帰を受けて急騰した前日から一転し、エヌビディアをはじめとするAI関連株が軒並み下落したことで、フアンはフォーブスの世界長者番付で順位を1つ落とした。
-フアンは24日、フォーブスの「リアルタイム・ビリオネア・リスト」で13位から14位へと後退し、ウォルマート創業家のアリス・ウォルトンに順位を抜かれた。米東部標準時午前10時50分時点の推定資産額は1331億ドル（約21兆3000億円）となっている。
-エヌビディア株は23日に31.5％高で取引を終えたものの、24日午前1</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108811?s=ns</guid><pubDate>Wed, 25 Nov 2026 00:25:18 +0000</pubDate></item><item><title>Cursorが中国製AIモデルの段階的廃止を検討中との報道</title><link>https://gigazine.net/news/20261125-cursor-ai-china/</link><description>[score: 0.895] Cursorが中国製AIモデルの段階的廃止を検討中との報道
-コーディングエージェント「Cursor」の開発企業であるAnysphereは、中国製AIモデルをベースとするコーディングモデルなども開発していました。新たにAnysphereが中国製AIモデルの段階的廃止を検討中であることが判明しました。
-Joint Investigation Report: China is Trying to Get U.S. Companies Addicted to Chinese AI Models | Select Committee on the CCP
-https://chinaselectcommi</description><guid isPermaLink="false">https://gigazine.net/news/20261125-cursor-ai-china/</guid><pubDate>Tue, 24 Nov 2026 21:08:19 +0000</pubDate></item><item><title>AIにもブラックフライデー。Google AI Plus/Proの年間プランが半額！</title><link>https://pc.watch.impress.co.jp/docs/news/2158884.html</link><description>[score: 0.896] ニュース
-AIにもブラックフライデー。Google AI Plus/Proの年間プランが半額！
-2026年11月25日 06:14
-Googleは、「Google AIプランブラックフライデー」と題したキャンペーンを実施している。年単位で契約する場合、「Google AI Plus」の400GBストレージ付きは通常7,250円のところ3,600円、2TBストレージ付きは通常1万4,500円のところ7,200円、「Google AI Pro」の5TBストレージ付きは通常2万9,000円のところ1万4,500円となる。11月25日現在、対象はGoogle AIまたはGoogle Oneのサブスク利</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2158884.html</guid><pubDate>Wed, 25 Nov 2026 02:23:12 +0000</pubDate></item><item><title>エヌビディアCEO復帰の真相、トランプ大統領の関与説は「事実無根」と断言</title><link>https://forbesjapan.com/articles/detail/108803?s=ns</link><description>[score: 0.897] 米国時間11月24日、エヌビディアのジェンスン・フアンCEOはオンラインで開催された全社集会に出席し、ドナルド・トランプ大統領の要請だけで復帰したというのは「まったくの事実無根」だと社員に説明した。複数のメディアが報じた。
-中国のスパイと疑われる人物を含む複数の相手との不倫疑惑で退任に追い込まれたのち、一転して復帰を果たしたフアンは、この日の集会で自ら社員に語りかけ、一連のスキャンダルについて謝罪した。
-トランプが取締役会に働きかけて復帰を後押ししたとの報道があるなか、ニューヨーク・タイムズ紙やWIREDによると、フアンはトランプの働きかけや「政府の最高幹部が私の復帰を望んだ」ことだけを理由に</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108803?s=ns</guid><pubDate>Wed, 25 Nov 2026 00:54:57 +0000</pubDate></item><item><title>押井守『装甲騎兵ボトムズ　灰色の魔女』入プレ第2弾は前日譚マンガ　描き下ろしイラスト第2弾も公開｜シネマトゥデイ</title><link>https://www.cinematoday.jp/news/N0158139</link><description>[score: 0.898] 押井守『装甲騎兵ボトムズ 灰色の魔女』入プレ第2弾は前日譚マンガ 描き下ろしイラスト第2弾も公開｜シネマトゥデイ 『装甲騎兵ボトムズ 灰色の魔女（ヘクセ）』明貴美加のトリビュートイラスト - (C)SUNRISE 押井守監督が2部作で手掛ける「装甲騎兵ボトムズ」シリーズ完全新作『装甲騎兵ボトムズ 灰色の魔女（ヘクセ）』（全国公開中）の入場者特典第2弾として、メカニカルデザイン担当の曽野由大が描き下ろした前日譚マンガ「BEFORE ...</description><guid isPermaLink="false">https://www.cinematoday.jp/news/N0158139</guid><pubDate>Wed, 25 Nov 2026 03:47:32 +0000</pubDate></item><item><title>Anthropic、PRの修正から承認判断までAIに任せる「Claude Ship」をベータ公開　Claude Codeに /ship コマンド</title><link>https://www.techno-edge.net/article/2026/11/25/5807.html</link><description>[score: 0.898] Anthropicは2026年11月23日、「Claude Ship」を発表しました。プルリクエスト（PR）のレビューと修正に加え、承認の判断までをAIエージェント群が担う仕組みで、現在はベータ版です。
-Claude Shipは3つの機能から成ります。1つ目の「Code Review」は既存の機能で、Anthropicがすでに一般提供しています。管理者はリポジトリごとに、Quick、Standard、Deepの3つのレビューレベルから選びます。
-2つ目の「PR Steward」は、今回ベータで加わった新しいエージェントです。CIの失敗やマージコンフリクト、レビューでの指摘を処理しますが、承認や</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/11/25/5807.html</guid><pubDate>Tue, 24 Nov 2026 23:56:08 +0000</pubDate></item><item><title>退職代行モームリを利用された企業ランキング公開</title><link>https://prtimes.jp/main/html/rd/p/000000036.000103965.html</link><description>[score: 0.907] 退職代行モームリを利用された企業ランキング公開 退職代行モームリを管理している株式会社アルバトロス（本社：神奈川県横浜市、代表取締役：浜田 優花）は、2026年11月10日（火）時点での企業ランキングなどの最新の退職代行利用データを公開いたします。 株式会社アルバトロス https://www.alba-tross.jp/ 退職代行モームリ https://momuri.com/ なお、本プレスリリ...</description><guid isPermaLink="false">https://prtimes.jp/main/html/rd/p/000000036.000103965.html</guid><pubDate>Tue, 24 Nov 2026 23:31:12 +0000</pubDate></item><item><title>エヌビディアCEOにフアン氏復帰 トランプ大統領の関与に批判も</title><link>https://news.web.nhk/newsweb/na/nd-20261125de81016</link><description>[score: 0.910] アメリカの半導体大手「エヌビディア」のCEOにジェンスン・フアン氏が復帰したことをめぐり、トランプ大統領が関与を明らかにしたことについて、アメリカメディアからは「国家資本主義だ」とする指摘や「安全保障…
-あわせて読みたい
-米司法長官 エヌビディアのフアン氏のリスク判断 説明避ける
-11月25日 8:24
-米財務長官 米中で「軍事決定はAIでなく人間が関与」合意
-11月21日 7:44
-アメリカ商務省 “メガスピード” を輸出規制の対象に指定
-11月24日 12:45
-ナスダック 一転下落 エヌビディア企業統治に懸念
-11月25日 7:09
-ロシア軍の戦死者49万人超か ロシア独立系メディアが分</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261125de81016</guid><pubDate>Wed, 25 Nov 2026 03:05:14 +0000</pubDate></item><item><title>ChatGPT、通常のチャットでも「GPT-6.2」が利用可能に</title><link>https://www.watch.impress.co.jp/docs/news/2159024.html</link><description>[score: 0.916] ニュース
-ChatGPT、通常のチャットでも「GPT-6.2」が利用可能に
-2026年11月25日 12:15
-OpenAIは23日、ChatGPTのチャット機能に「GPT-6.2」を順次提供開始した。対象はPlus、Pro、Business、Enterpriseの有料プラン。画像理解や複雑な指示への対応、Web検索の性能を向上させている。
-GPT-6.2は17日にWorkやCodex、API向けに提供開始されたモデル。今回、GPT-6.2 Solをベースに日常的な対話に最適化したモデルを、通常のチャット機能にも展開する。WorkやCodexで使用するモデルに変更はない。
-詳細な指示に従う必要</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2159024.html</guid><pubDate>Wed, 25 Nov 2026 03:30:25 +0000</pubDate></item><item><title>楽天証券、顧客からの預かり資産残高168万件漏洩　性別や国籍も - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUB24AXS0U6A121C2000000/</link><description>[score: 0.918] 楽天証券、顧客からの預かり資産残高168万件漏洩 性別や国籍も
-不正アクセスによる顧客情報流出を巡って楽天証券は24日、追加の調査結果を公表した。株式など顧客からの預かり資産残高の情報が約168万口座分漏洩した。性別や国籍など7項目の漏洩も新たに確認したと明らかにした。
-国内株や投資信託などの商品区分別での残高情報が漏れた。個別の保有銘柄や過去の取引履歴の情報は含まれない。これとは別に、顧客が口座開設時に自己申告した年収情報が約1.4万件、金融資産が約271万件漏洩した。自己申告は選択肢から選ぶもので、具体的金額ではないという。
-預かり資産に加えて氏名や住所、生年月日、電話番号などの個人情報が</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUB24AXS0U6A121C2000000/</guid><pubDate>Wed, 25 Nov 2026 00:00:29 +0000</pubDate></item><item><title>楽天証券の情報漏えい、個人情報は約441万件と判明　資産残高168万件、口座未開設の119万件も</title><link>https://www.techno-edge.net/article/2026/11/25/5808.html</link><description>[score: 0.920] 楽天証券は11月24日、11月17日に公表した顧客情報の漏えいについて第2報を出し、氏名や住所、電話番号などの個人情報の漏えいが約441万件にのぼると明らかにしました。
-約441万件のうち、約322万口座は口座開設者の情報で、約119万件は口座未開設者の情報です。後者は口座開設申し込み時の内容で、申し込みを途中でやめて改めて申し込んだ場合などの重複を含む可能性があるとしています。漏えいした項目は、部店・お客様コード、ログインID（楽天IDとは別のもの）、氏名、カナ氏名、生年月日、住所、電話番号など。第2報では新たに、性別、国籍、FAX番号、入金先口座情報（楽天証券側の口座情報）、口座開設・受付</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/11/25/5808.html</guid><pubDate>Wed, 25 Nov 2026 00:15:37 +0000</pubDate></item><item><title>楽天証券、約441万件の個人情報漏えいを確認　168万口座の資産残高も流出</title><link>https://japan.cnet.com/article/35255354/</link><description>[score: 0.937] 楽天証券は11月24日、第三者による不正アクセスを受け、氏名や住所、電話番号など約441万件の個人情報が漏えいしたと発表した。このうち、約168万口座では実際の資産残高に関する情報も漏えいした。口座開設を申し込んだものの、開設に至らなかった人の個人情報も含まれる。
+中国 独自の宇宙ステーションにパキスタン人宇</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261126de81556</guid><pubDate>Wed, 25 Nov 2026 16:13:23 +0000</pubDate></item><item><title>【自動化】Muse のサイドチャットへ Webhook を届ける MuseKnock の仕組み</title><link>https://zenn.dev/codehex/articles/33bc6ee330b880</link><description>[score: 0.882] Meta の個人向け AI エージェント「Muse」を使い込んでいくうちに、どうしても欲しくなった仕組みがあります。Slack でメンションされた瞬間や、GitHub でリリースが出た瞬間に、そのまま Muse を動かすことです。 執筆時点（2026 年 11 月）で僕が調べた範囲では、Muse を外部イベントで即座に動かす仕組みを公開している例は見当たりませんでした。（でもいつかはリリースされそう...?） そして、これを見てください！！ https://x.com/codehex/status/2125375389241675856?a=SmFmSPV7nT_lsgSAYbs&amp;amp...</description><guid isPermaLink="false">https://zenn.dev/codehex/articles/33bc6ee330b880</guid><pubDate>Wed, 25 Nov 2026 15:45:00 +0000</pubDate></item><item><title>なんとなくgrill-meしている人に伝えたい、作者本人から学んだSkillsの使い方</title><link>https://zenn.dev/mediaforce/articles/27df1f22a00546</link><description>[score: 0.882] はじめに 株式会社メディアフォースでエンジニアをしている池田です。自社プロダクトの開発を担当しています。 弊社の開発チームは、設計や実装にClaude Codeを利用しています。 周りのエンジニアに勧められたことをきっかけに、最近はMatt PocockのSkillsを利用しています。 このSkillsは2026年春頃から話題になっていたgrill-me（grilling）[1]を含んだスキル集です。 仕様の曖昧さを排除しながら設計できる便利さを感じつつも、質問の多さに疲れたり、途中で仕事の進め方を見失ったりと、時折使いこなせていないと感じることも出てきました。 そこで、公式ドキュメ...</description><guid isPermaLink="false">https://zenn.dev/mediaforce/articles/27df1f22a00546</guid><pubDate>Wed, 25 Nov 2026 15:45:00 +0000</pubDate></item><item><title>公表資料から読む2026年10〜11月の情報漏えい23件：侵入経路はどこだったのか</title><link>https://zenn.dev/shirochan/articles/f579abb8be4b1e</link><description>[score: 0.886] ! この記事の要点（2026年11月24日時点） 10月28日〜11月24日に初めて公表された国内の不正アクセス・漏えい（可能性を含む）23件を、各社と公的機関の発表で整理 メール配信サービスのアララでは、持ち出されたメールアドレスが81,329,467件。サービスが悪用され、カード会社を装った不審なメールも最大約713万通送られた 理化学研究所は、インターネットに公開されていた「富岳」の稼働状況のダッシュボードを足がかりに、内部へ侵入された 原因・入口が公表されたのは23件中9件。うち3件は、委託先が不正アクセスを受けたと利用企業が公表したもの 京王電鉄は、9月26日に公表していたラ...</description><guid isPermaLink="false">https://zenn.dev/shirochan/articles/f579abb8be4b1e</guid><pubDate>Wed, 25 Nov 2026 11:41:55 +0000</pubDate></item><item><title>Nvidia Investors Sue, Accusing It Of Hiding CEO Huang's Spy Scandal</title><link>https://dev.to/fathomnews/nvidia-investors-sue-accusing-it-of-hiding-ceo-huangs-spy-scandal-16f7</link><description>[score: 0.888] Jensen Huang is barely back in charge of Nvidia and the chipmaker is already being sued by its own investors, who claim it hid the scandal that cost Huang his job and sent the world's most valuable AI stock tumbling. Key Takeaways A class action lawsuit has been filed against Nvidia on behalf of inv</description><guid isPermaLink="false">https://dev.to/fathomnews/nvidia-investors-sue-accusing-it-of-hiding-ceo-huangs-spy-scandal-16f7</guid><pubDate>Wed, 25 Nov 2026 11:01:33 +0000</pubDate></item><item><title>エヌビディアCEOに復帰のフアン氏、従業員に謝罪　「セラピー」受けていると明かす</title><link>https://www.cnn.co.jp/tech/35255384.html</link><description>[score: 0.890] エヌビディアのジェンスン・フアンCEO。辞任の理由は会社の行動規範に違反したためだと説明した/Josh Edelson/AFP/Getty Images （CNN） 米半導体大手エヌビディアのジェンスン・フアン最高経営責任者（CEO）が24日、1時間の全社会議で従業員に謝罪したことが分かった。事情に詳しい情報筋が明らかにした。 フアン氏はこの前日、約30年前に創業したエヌビディアのトップに復帰していた。フアン氏は中国情報機関に協力している可能性があると米当局が懸念していた女性や、自身の部下との関係など、複数の不倫疑惑が報じられ、今月12日に辞任。しかしエヌビディアは23日、復帰を認めないとした</description><guid isPermaLink="false">https://www.cnn.co.jp/tech/35255384.html</guid><pubDate>Wed, 25 Nov 2026 05:39:28 +0000</pubDate></item><item><title>楽天証券、約441万件の個人情報漏えいを確認　168万口座の資産残高も流出</title><link>https://japan.cnet.com/article/35255354/</link><description>[score: 0.890] 楽天証券は11月24日、第三者による不正アクセスを受け、氏名や住所、電話番号など約441万件の個人情報が漏えいしたと発表した。このうち、約168万口座では実際の資産残高に関する情報も漏えいした。口座開設を申し込んだものの、開設に至らなかった人の個人情報も含まれる。
 同社は11月17日の第1報で、テスト用のシステムで管理していた顧客情報の一部が外部に漏えいした可能性があると明らかにしていた。
-今回判明した約441万件の内訳は、口座を持つ顧客の約322万口座分と、口座開設に至らなかった人の申し込み情報約119万件。申し込みを途中でやめてから再度申し込んだ場合など、同じ人の情報が重複している可能性が</description><guid isPermaLink="false">https://japan.cnet.com/article/35255354/</guid><pubDate>Wed, 25 Nov 2026 01:53:11 +0000</pubDate></item></channel></rss>
+今回判明した約441万件の内訳は、口座を持つ顧客の約322万口座分と、口座開設に至らなかった人の申し込み情報約119万件。申し込みを途中でやめてから再度申し込んだ場合など、同じ人の情報が重複している可能性が</description><guid isPermaLink="false">https://japan.cnet.com/article/35255354/</guid><pubDate>Wed, 25 Nov 2026 01:53:11 +0000</pubDate></item><item><title>ブラックフライデーでGoogle AIサブスク半額、Pro月額より年2万円お得。YouTubeプレミアムLiteやGoogle Health特典も</title><link>https://www.techno-edge.net/article/2026/11/25/5816.html</link><description>[score: 0.908] Googleは、ストレージ容量とAIのサブスクGoogle AI Plus / Pro年額プランが半額になるブラックフライデーセールを実施中です。
+5TBのストレージに、Geminiの最新モデルや4倍の利用枠、YouTube Premium Lite等がセットになった 「Google AI Pro」の年額プランは通常2万9000円のところ、セールでは半額の1万4500円。
+月額払いでは2900円なので、セールの年額払いに切り替えれば年間2万300円安くなります。
+現在はブラックフライデー先行セールの扱いで、すでに Google AIプラン含むGoogle Oneに契約している人が対象。米国時間</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/11/25/5816.html</guid><pubDate>Wed, 25 Nov 2026 11:16:37 +0000</pubDate></item></channel></rss>
