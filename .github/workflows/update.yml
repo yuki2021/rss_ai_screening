@@ -33,7 +33,7 @@ jobs:
     runs-on: ubuntu-latest
     environment:
       name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
+      url: ${{ steps.deploy1.outputs.page_url || steps.deploy2.outputs.page_url || steps.deploy3.outputs.page_url }}
 
     steps:
       - uses: actions/checkout@v4
@@ -80,6 +80,34 @@ jobs:
         with:
           path: public
 
+      # deploy-pages looks the artifact up exactly once, and GitHub's artifact
+      # listing sometimes doesn't show a just-finalized artifact yet: since
+      # 2026-11-21, 6 of 15 runs failed with 'Found 0 artifact(s)' /
+      # 'No artifacts named "github-pages"' ~0.5 s after a successful upload
+      # (actions/deploy-pages#451; the lag has been seen to reach ~46 s).
+      # The lookup fails before any deployment is created, so trying again on
+      # the same artifact is safe. Re-running the failed job does NOT work:
+      # it uploads a second artifact and fails with "Multiple artifacts".
       - name: Deploy to GitHub Pages
-        id: deployment
+        id: deploy1
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Wait for the artifact listing to catch up
+        if: steps.deploy1.outcome == 'failure'
+        run: sleep 20
+
+      - name: Deploy to GitHub Pages (retry 1)
+        id: deploy2
+        if: steps.deploy1.outcome == 'failure'
+        continue-on-error: true
+        uses: actions/deploy-pages@v4
+
+      - name: Wait longer for the artifact listing
+        if: steps.deploy1.outcome == 'failure' && steps.deploy2.outcome == 'failure'
+        run: sleep 60
+
+      - name: Deploy to GitHub Pages (retry 2)
+        id: deploy3
+        if: steps.deploy1.outcome == 'failure' && steps.deploy2.outcome == 'failure'
         uses: actions/deploy-pages@v4
