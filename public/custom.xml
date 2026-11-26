@@ -1,88 +1,159 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 26 Nov 2026 16:03:32 +0000</lastBuildDate><item><title>交際相手と知り合って間もないころに商業施設の一階でキッザニアもどきをしているのを一緒に見下ろしていたとき、彼の発言の薄情さに陶酔した話…寄生獣っぽさもある</title><link>https://togetter.com/li/2775284</link><description>[score: 0.868] 交際相手と知り合って間もないころに商業施設の一階でキッザニアもどきをしているのを一緒に見下ろしていたとき、彼の発言の薄情さに陶酔した話…寄生獣っぽさもある 打撃 @Dageki_donki 交際相手と知り合って間もないころ、商業施設の吹き抜けの一階でキッザニアもどきみたいなのをやっていた。それを見下ろしながら（こういう時に可愛いって言える子が好きかな）と心配していた... firststar_hateno まるで才能を見抜く探偵のようですわね。薄情さが魅力になるとは、恋愛の不思議ですの。</description><guid isPermaLink="false">https://togetter.com/li/2775284</guid><pubDate>Thu, 26 Nov 2026 15:20:49 +0000</pubDate></item><item><title>公開サイトやVPN装置に「外から入れるか」をAIで検証、OpenAIの技術でSB OAI Japanが診断サービス</title><link>https://www.techno-edge.net/article/2026/11/26/5828.html</link><description>[score: 0.868] SB OAI Japanは11月25日、企業がインターネットに公開しているシステムについて、外部から侵入できるかどうかを確かめる「侵入可否診断」の提供を開始しました。AIを使う脆弱性対策サービス「Patching as a Service」の新しい診断メニューです。
-対象は、利用企業が指定したIPアドレスまたはURLにひも付く、会員向けサイトなどのウェブアプリケーション、外部公開API、VPN装置の3種類です。
-まず、対象について外部から確認できる情報と、関連する脆弱性情報を調査します。その情報を基に、OpenAIのサイバーセキュリティ技術を使って、想定される侵入経路を検討します。続いて、アク</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/11/26/5828.html</guid><pubDate>Thu, 26 Nov 2026 07:44:04 +0000</pubDate></item><item><title>1Password、従業員のGitHubアカウント経由で顧客の氏名とメールアドレスが流出したと発表 — BigGo ファイナンス</title><link>https://finance.biggo.jp/news/86bd3431-ad2e-4b18-b885-4fb6393beb46</link><description>[score: 0.868] 1Password、従業員のGitHubアカウント経由で顧客の氏名とメールアドレスが流出したと発表 — BigGo ファイナンス 1Passwordは、攻撃者が侵害した従業員のGitHubアカウントを利用してバックエンドシステムに悪意あるコードを仕込み、一部ユーザーの氏名、ログイン用メールアドレス、公開鍵、アカウント識別子、ログイン日時をダウンロードしたと発表した。攻撃者は非公開リポジトリからソースコードもコピーし、同社のCI/CDシステムに...</description><guid isPermaLink="false">https://finance.biggo.jp/news/86bd3431-ad2e-4b18-b885-4fb6393beb46</guid><pubDate>Wed, 25 Nov 2026 23:44:29 +0000</pubDate></item><item><title>アマゾンブラックフライデー開始 iPhone Airなど過去最大規模の11日間</title><link>https://www.watch.impress.co.jp/docs/news/2159709.html</link><description>[score: 0.868] ニュース
-アマゾンブラックフライデー開始 iPhone Airなど過去最大規模の11日間
-2026年11月27日 00:01
-Amazonの大規模セール「Amazon ブラックフライデー」がスタートしました。先行セールが11月27日0時からスタートしており、11月30日～12月7日の本セールと合わせ合計11日間の開催です。
-人気商品や日用品など、過去最大の約400万点を特別価格で販売。プライム会員でなくても利用できる大規模セールです。期間中はポイントアップやdポイント関連のキャンペーン、スタンプラリー、Amazonネットスーパーでのセールも開催。コスメの数量限定のスペシャルセット「Amazon</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2159709.html</guid><pubDate>Thu, 26 Nov 2026 15:14:06 +0000</pubDate></item><item><title>OpenAIの最新モデルに酷評の嵐。本当の勝者はAnthropic？ | ギズモード・ジャパン</title><link>https://www.gizmodo.jp/article/2611-openai-gpt-6-2-reviews-anthropic/</link><description>[score: 0.869] OpenAIの最新モデルに酷評の嵐。本当の勝者はAnthropic？ | ギズモード・ジャパン アプデが頻繁すぎてついていけない…。 Anthropic（アンソロピック）のIPO（新規株式公開）を前に、OpenAI（オープンエーアイ）が最新モデルのGPT-6.2を公開してユーザーをあっと驚かせようとしましたが、初期の酷評レビューを見て驚いたのはOpenAIのほうかもしれません。 OpenAIは、11月17日に公開した新モデルを金融や...</description><guid isPermaLink="false">https://www.gizmodo.jp/article/2611-openai-gpt-6-2-reviews-anthropic/</guid><pubDate>Thu, 26 Nov 2026 05:57:22 +0000</pubDate></item><item><title>集英社 販売サイト会員の生年月日など70万件余漏えい</title><link>https://news.web.nhk/newsweb/na/nd-20261126de82087</link><description>[score: 0.869] 集英社は、メールの配信やアプリの一部に使っていた、外部の「KARTE」というサービスが不正アクセスを受け、顧客の情報が漏えいしたと発表しました。
-漏えいしたのは、キャラクターグッズを販売しているサイ…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Thu, 26 Nov 2026 21:07:51 +0000</lastBuildDate><item><title>肺の病気と闘う「笑い療法」とは　COPDで効果も、方法は？</title><link>https://natgeo.nikkeibp.co.jp/atcl/news/26/112400643/?rss</link><description>[score: 0.856] 数人が小さな部屋に集まり、こんな説明を受けている。「電話を耳に当てていると思ってください。そこで、とても面白おかしいことを耳にします。部屋を歩きながら、ほかの人にもそれがわかるように体で表現してみてください」
+果たしてこの課題の目的は？ 心の底から笑うことだ。たとえそれが演技であっても。
+「笑い療法」と呼ばれる治療法がある。数十年にわたる研究によって、笑いには心理学的に大きな恩恵があることがわかってきた。これまでは、気分やメンタルヘルスの向上といった効果に注目した研究が大多数だったが、最近では一部の慢性肺疾患に対する効果についての研究も始まっている。（参考記事：「メンタルを整え、平常心を保つ「</description><guid isPermaLink="false">https://natgeo.nikkeibp.co.jp/atcl/news/26/112400643/?rss</guid><pubDate>Thu, 26 Nov 2026 21:05:16 +0000</pubDate></item><item><title>フィギュアNHK杯 きょう開幕</title><link>https://news.web.nhk/newsweb/na/nd-20261126de82128</link><description>[score: 0.856] フィギュアスケートのグランプリシリーズ、最終第6戦のNHK杯が、27日に東京 調布市で開幕し、日本勢のシリーズ6大会連続優勝がかかる女子シングルなど4つの種目が行われます。
+大会は27日から3日間…
 あわせて読みたい
-相次ぐ情報流出 犯罪グループの摘発は
-11月11日 12:54
-情報漏えいリスク回避へ対策は？通販サイト閉鎖の企業も
-11月11日 18:51
-【情報漏えい】対策どうする 二次被害に遭わないためには
-四国電力 ウェブ委託会社に不正アクセス さらに25万件情報流出
-11月26日 19:47
+フィギュアNHK杯 27日開幕 選手たちが本番に向けて調整
+11月26日 19:29
+フィギュアNHK杯 27日開幕 男女シングルなど【注目選手 紹介】
+11月25日 14:47
+“氷上の哲学者”が語るフィギュアNHK杯 町田樹さん【解説】
+11月26日 6:30
+本田武史さんが解説 注目は4回転ジャンパーと自由な演技構成
+11月26日 17:16
+巨人 ドラフト1位の横浜高・織</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261126de82128</guid><pubDate>Thu, 26 Nov 2026 20:52:56 +0000</pubDate></item><item><title>「Telnet Client」（telnet.exe）が非推奨に ～将来のWindowsリリースで削除へ／リモートコンピューターと通信するOSのオプション機能</title><link>https://forest.watch.impress.co.jp/docs/news/2159560.html</link><description>[score: 0.857] ニュース
+「Telnet Client」（telnet.exe）が非推奨に ～将来のWindowsリリースで削除へ
+リモートコンピューターと通信するOSのオプション機能
+2026年11月26日 18:11
+Windowsに付属するコマンドラインツール「Telnet Client」（telnet.exe）が非推奨になるとのこと。米Microsoftが11月25日（現地時間）、自社のドキュメントサイト「Microsoft Learn」で明らかにした。
+「Telnet Client」は、「Telnet」プロトコルを利用してリモートコンピューターと接続・通信するためのコマンド。接続先のホスト名またはI</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2159560.html</guid><pubDate>Thu, 26 Nov 2026 16:11:03 +0000</pubDate></item><item><title>北朝鮮、対ロ軍事協力一時停止 南北緊張緩和巡る発言に反発か＝ウ情報機関 - Reuters</title><link>https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ2NwU1JTeHdaOGVOWG1QM1dZczZ6em5DalMtUEc4eEdZWWlRNmhVSnIybXRhM2hOMEw2ZlBNX1hLSG5DMG9JUTdTOURFV2tDZHRPLTlYemdQWHlQUmd1NlUxQTJfTkU1NzdlMWxNaXotalRCb3l5X3o3RG9BU3h2REhxSDNkUQ?oc=5</link><description>[score: 0.859] 北朝鮮、対ロ軍事協力一時停止 南北緊張緩和巡る発言に反発か＝ウ情報機関 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihgFBVV95cUxNZ2NwU1JTeHdaOGVOWG1QM1dZczZ6em5DalMtUEc4eEdZWWlRNmhVSnIybXRhM2hOMEw2ZlBNX1hLSG5DMG9JUTdTOURFV2tDZHRPLTlYemdQWHlQUmd1NlUxQTJfTkU1NzdlMWxNaXotalRCb3l5X3o3RG9BU3h2REhxSDNkUQ?oc=5</guid><pubDate>Thu, 26 Nov 2026 20:16:07 +0000</pubDate></item><item><title>Quadro P2200(VRAM 5GB)でMoE LLMを2種類動かしてみた</title><link>https://zenn.dev/nooop/articles/00cde2e1a825ad</link><description>[score: 0.859] llama.cpp が MoE に対応し、エキスパートの一部を CPU 側の RAM に置くことで高速化できるようになったようです。VRAM 5GB でも35B級のモデルが実用的な速度で動くのか、速度を測ってみました。 NVIDIA Quadro P2200(VRAM 5GB) で、MoE(Mixture of Experts)モデルを動かしてみました。 やったことは llama.cpp の速度計測のみ です。設定ファイルと起動スクリプトは GitHub に置いています。 これと同じマシンです。 ソースビルドも試しましたが、速度はあまり変わらなかったので、お手軽な docker イメージ...</description><guid isPermaLink="false">https://zenn.dev/nooop/articles/00cde2e1a825ad</guid><pubDate>Thu, 26 Nov 2026 20:20:17 +0000</pubDate></item><item><title>米中間選挙前のＧＤＰ成長率は「偽物」、トランプ氏 即時調査を要求 - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFA1RHR2LUlibVJEWnBEYjNXWlJRMWFCbmJ2N0NRNkNrWHRBd2FxcGJSV1MydVQ4UWJoOElZOUFzLTFISjZUNFZBNHd2V0M2UzJPSDFWQmtQSFFPa1E5MzQwZEF1NkZqdlNPNWJaZERMZVRlSXJySTQ0VVZfV2pndw?oc=5</link><description>[score: 0.861] 米中間選挙前のＧＤＰ成長率は「偽物」、トランプ氏 即時調査を要求 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFA1RHR2LUlibVJEWnBEYjNXWlJRMWFCbmJ2N0NRNkNrWHRBd2FxcGJSV1MydVQ4UWJoOElZOUFzLTFISjZUNFZBNHd2V0M2UzJPSDFWQmtQSFFPa1E5MzQwZEF1NkZqdlNPNWJaZERMZVRlSXJySTQ0VVZfV2pndw?oc=5</guid><pubDate>Thu, 26 Nov 2026 16:14:50 +0000</pubDate></item><item><title>クウェートでドローン攻撃、イタリア人技術者2人死亡 イランは関与否定 - Reuters</title><link>https://news.google.com/rss/articles/CBMihwFBVV95cUxNbjllT0tjWnBuMjBUajhRbUtWSjg3WmdRSThXMTNaSUNKeTlEQVFXelFuTU5uTVdsbzZKSlZ0dHdxcGdneTNoczFqZXF5LVZvSWNJSDhOVFVQbEExV3dkNUZaZmxiLUFKMXdoZjFRc2g4bjl4ZzBLTE9rTHdtcGRHTHRJSXZrcVE?oc=5</link><description>[score: 0.861] クウェートでドローン攻撃、イタリア人技術者2人死亡 イランは関与否定 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMihwFBVV95cUxNbjllT0tjWnBuMjBUajhRbUtWSjg3WmdRSThXMTNaSUNKeTlEQVFXelFuTU5uTVdsbzZKSlZ0dHdxcGdneTNoczFqZXF5LVZvSWNJSDhOVFVQbEExV3dkNUZaZmxiLUFKMXdoZjFRc2g4bjl4ZzBLTE9rTHdtcGRHTHRJSXZrcVE?oc=5</guid><pubDate>Thu, 26 Nov 2026 19:16:40 +0000</pubDate></item><item><title>日オマーン外相 ホルムズ海峡は国際社会の慎重な議論が不可欠</title><link>https://news.web.nhk/newsweb/na/nd-20261126de82125</link><description>[score: 0.866] 茂木外務大臣は中東オマーンのバドル外相と会談し、緊張が続くホルムズ海峡のあり方は、沿岸国や利用国など国際社会全体で慎重に議論していくことが不可欠だという認識で一致しました。
+茂木外務大臣は26日夜…
+あわせて読みたい
 ロシア拘束の北海道新聞記者 妻が手記を公開【全文掲載】
 11月26日 14:01
-定数削減</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261126de82087</guid><pubDate>Thu, 26 Nov 2026 11:34:10 +0000</pubDate></item><item><title>Windows・Mac・Linux・AndroidでファイルやテキストをLAN・インターネット経由で共有できる「flipflop」を使ってみた</title><link>https://gigazine.net/news/20261126-flipflop/</link><description>[score: 0.870] Windows・Mac・Linux・AndroidでファイルやテキストをLAN・インターネット経由で共有できる「flipflop」を使ってみた
-PCとスマートフォンの間でファイルを共有するにはクラウドストレージにアップロードしたり相手の端末を探したりする必要があります。こうした作業を簡略化し、一度ペアリングした端末同士でLANやインターネット、さらに実験的機能としてBluetooth経由でもファイル転送やテキスト共有ができる無料のオープンソースアプリが「flipflop」です。
-andunieee/flipflop: filesharing for the meatspace era
-http</description><guid isPermaLink="false">https://gigazine.net/news/20261126-flipflop/</guid><pubDate>Thu, 26 Nov 2026 14:01:45 +0000</pubDate></item><item><title>Claude Ship - Claude Code Docs</title><link>https://code.claude.com/docs/en/claude-ship</link><description>[score: 0.871] Claude Ship - Claude Code Docs misshiki Anthropic%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0 Claude Shipの公式ドキュメント。Code Review、PR Steward、Claude Approvalsの3種のAIエージェントでPRのレビュー・修正・承認を自動化する</description><guid isPermaLink="false">https://code.claude.com/docs/en/claude-ship</guid><pubDate>Thu, 26 Nov 2026 12:27:25 +0000</pubDate></item><item><title>AEDの件、結局はてなのブコメでも「配慮なんていいから助けてほしい」とい..</title><link>https://anond.hatelabo.jp/20261126073406</link><description>[score: 0.872] ご献体にすら性加害して内臓破壊する男さんがいるから警戒されるよねそりゃ 被害者ヅラする前に自分たちの行いを反省したら？
-反省してこれからは決して助けませんってみんな言ってるのに何か不満なの？
-じゃあ女性がチー牛を避けても問題ない筈 それなのに何故か自分が相手にされない事に発狂する男さんは多い 何が不満なの？
-発狂してる女さんが多い現実について掘り下げてみると答が出ると思う
-でも現実では発狂して性加害や犯罪を起こすのは男さんしかいませんよね？ 男さんの自認どうなってるんですか？
-愚かなはてなブックマーカー達も、自分や家族が病気になる事は考えてないんだよ 死ぬ覚悟が出来てるように見えないし 親や家</description><guid isPermaLink="false">https://anond.hatelabo.jp/20261126073406</guid><pubDate>Thu, 26 Nov 2026 14:29:39 +0000</pubDate></item><item><title>自民税制調査会 東京と地方の税収格差是正で意見相次ぐ</title><link>https://news.web.nhk/newsweb/na/nd-20261126de82085</link><description>[score: 0.872] 来年度の税制改正で焦点となっている、東京とそれ以外の地域との税収格差の是正をめぐり、自民党の税制調査会で議論が行われ、地方選出の議員から具体的な結論を出すべきだという意見が出たのに対し、東京選出の議員…
+スペースXが宇宙にデータセンター網構築へ アメリカで初認可
+11月26日 19:00
+「ICCを守り抜く」赤根所長が都内で会見 若者たちへの訴えも
+11月26日 18:11
+ネパール土石流発生から3か月 生活再建に向けた支援が急務
+11月26日 19:37
+香港 168人死亡の高層住宅火災から1年で</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261126de82125</guid><pubDate>Thu, 26 Nov 2026 18:21:45 +0000</pubDate></item><item><title>未来を読むはずが票を読めず、トランプに賭けたテック業界の誤算</title><link>https://www.technologyreview.jp/s/394781/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/</link><description>[score: 0.868] You need to enable JavaScript to run this app.</description><guid isPermaLink="false">https://www.technologyreview.jp/s/394781/silicon-valley-claims-to-know-the-future-so-why-did-it-get-the-midterms-so-wrong/</guid><pubDate>Thu, 26 Nov 2026 20:58:24 +0000</pubDate></item><item><title>悪気なくメンバーの思考を奪っていないか？現場で見た「デミニッシャー」と「マルチプライヤー」の決定的な違い</title><link>https://qiita.com/human_hub_T/items/b7254cda7d0ce81dac85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.869] はじめに
+前回の初投稿（1on1の工夫）がまさかの5万ビュー＆トレンド入りし、たくさんの方に読んでいただきました。本当にありがとうございます！
+前回の記事はこちら。
+初めての方へ：ITインフラ歴16年、180cm95kg・青髪・ヒゲの中間管理職の者です。普段はお客様の現場に入り込み、社員の方と同じ目線で一緒に手を動かしながら推進する「伴走型支援」がメインです。
+前回は「1on1でメンバーの思考を引き出す工夫」を書きましたが、今回はその根底にあるリーダーの2つのタイプ、「デミニッシャー」と「マルチプライヤー」について、私が現場で実際に見てきた2人の実例をもとに書いてみたいと思います。
+そもそも「</description><guid isPermaLink="false">https://qiita.com/human_hub_T/items/b7254cda7d0ce81dac85?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 26 Nov 2026 20:37:37 +0000</pubDate></item><item><title>沖縄県本島北部に線状降水帯発生</title><link>https://news.web.nhk/newsweb/na/nd-20261127de82176</link><description>[score: 0.869] 前線の影響で、沖縄県では非常に激しい雨が降り気象庁は、午前4時すぎ、沖縄県本島北部に「線状降水帯発生」の気象防災速報を発表しました。
+沖縄県ではこれまでの雨でレベル4の危険警報が出されている地域があ…
+沖縄 東村全域に避難指示
+11月27日 4:32
+線状降水帯とは？情報が出たらどうする？
+「命を守る行動を！」特別警報に緊急安全確保…どうすれば
+天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで
+【最新の避難情報】こちらから地域別でご覧になれます
+【最新の河川情報】こちらから一覧でご覧になれます
+【気象警報・注意報】各地の発表状況を詳しく
+川の氾濫 警戒のポイントは？
+土砂災害 警戒や</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261127de82176</guid><pubDate>Thu, 26 Nov 2026 19:24:12 +0000</pubDate></item><item><title>フィンランド 「核のごみ」最終処分場 操業許可後初の報道公開</title><link>https://news.web.nhk/newsweb/na/nd-20261127de82160</link><description>[score: 0.870] 北欧のフィンランドにある、原子力発電所から出た高レベル放射性廃棄物、いわゆる「核のごみ」の最終処分場について、政府が10月、施設の操業を許可した後としては初めて、その内部が報道機関に公開されました。 …
 注目ワード
 あわせて読みたい
-税制改正 暮らしはどう変わる？注目テーマのポイント
 ロシア拘束の北海道新聞記者 妻が手記を公開【全文掲載】
 11月26日 14:01
-定数削減法案 26日は採決行わず 改めて協議 衆院特別委
-11月26日 15:34
+スペースXが宇宙にデータセンター網構築へ アメリカで初認可
+11月26日 19:00
+「ICCを守り抜く」赤根所長が都内で会見 若者たちへの訴えも
+11月26日 18:11
+ネパール土石流発生から3か月 生活再建に向けた支援が急務
+11月26日 19:37
+香港 168人死亡の高層住</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261127de82160</guid><pubDate>Thu, 26 Nov 2026 20:52:56 +0000</pubDate></item><item><title>死者2000人超のアジアの記録的大雨から1年 生活再建が課題</title><link>https://news.web.nhk/newsweb/na/nd-20261127de82141</link><description>[score: 0.871] 東南アジアを中心にアジア各国で合わせて2000人以上が犠牲になった記録的な大雨から11月で1年です。 最大の被災地となったインドネシアでは被災者の生活再建が進まず、一部で政府に対する不満も高まっていま…
+あわせて読みたい
+沖縄県本島北部に線状降水帯発生
+11月27日 5:04
+インドネシアの金鉱山で浸水 13人死亡 13人坑内に閉じ込めか
+11月26日 0:08
+ロシア拘束の北海道新聞記者 妻が手記を公開【全文掲載】
+11月26日 14:01
+スペースXが宇宙にデータセンター網構築へ アメリカで初認可
+11月26日 19:00
+「ICCを守り抜く」赤根所長が都内で会見 若者たちへの訴えも
+11</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261127de82141</guid><pubDate>Thu, 26 Nov 2026 19:54:10 +0000</pubDate></item><item><title>欧州外為市場＝ドル高一服、米感謝祭で薄商い - Reuters</title><link>https://news.google.com/rss/articles/CBMifkFVX3lxTFAzQjh4eWxQYkZmcDJUQjlHMno2NGVDNm5ESmtqaVBWUXVDQ3BNU1ZBZGx4RXA2YVRzVzkxZEFWMWh2a1Y3VkF5czlqUHl0amVQXzEzcExmRHQ5dHdXTlZWSGI4SDJJSTdJVm5XOEhQV01NSmxmeGpQNWthWVJzUQ?oc=5</link><description>[score: 0.872] 欧州外為市場＝ドル高一服、米感謝祭で薄商い Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMifkFVX3lxTFAzQjh4eWxQYkZmcDJUQjlHMno2NGVDNm5ESmtqaVBWUXVDQ3BNU1ZBZGx4RXA2YVRzVzkxZEFWMWh2a1Y3VkF5czlqUHl0amVQXzEzcExmRHQ5dHdXTlZWSGI4SDJJSTdJVm5XOEhQV01NSmxmeGpQNWthWVJzUQ?oc=5</guid><pubDate>Thu, 26 Nov 2026 18:10:56 +0000</pubDate></item><item><title>北朝鮮、ロシア軍事支援停止の情報　南北緊張緩和推進発言に反発か</title><link>https://www.47news.jp/15291750.html</link><description>[score: 0.872] 北朝鮮、ロシア軍事支援停止の情報 南北緊張緩和推進発言に反発か
+2026年11月26日 21時38分
+【キーウ共同】ウクライナ国防省情報総局は26日、ロシア外務省幹部が北朝鮮と韓国の緊張緩和を推進すると発言したことに北朝鮮が反発し、ロシアへの軍事支援を一時停止したとの情報があると発表した。北朝鮮の金正恩朝鮮労働党総書記が決定したとしている。事実であれば、ロシアによるウクライナ侵攻に影響する可能性がある。
+情報総局によると、北朝鮮はロシア軍の輸送機の北朝鮮領空通過を禁止し、短距離弾道ミサイル「KN23」や砲弾の供給を停止したという。情報を入手した方法については明らかにしていない。
+情報総局による</description><guid isPermaLink="false">https://www.47news.jp/15291750.html</guid><pubDate>Thu, 26 Nov 2026 19:50:30 +0000</pubDate></item><item><title>沖縄 東村全域に避難指示</title><link>https://news.web.nhk/newsweb/na/nd-20261127de82178</link><description>[score: 0.872] 沖縄県の東村は、レベル4土砂災害危険警報が発表されたことを受けて、27日午前3時10分に村内全域に避難指示を出しました。
+5段階の警戒レベルのうち、レベル4にあたる情報で危険な場所から全員避難するよ…
+あわせて読みたい
+沖縄県本島北部に線状降水帯発生
+11月27日 5:04
+線状降水帯とは？情報が出たらどうする？
+「命を守る行動を！」特別警報に緊急安全確保…どうすれば
+天気防災マップ ふだんの雨雲予想から災害時のリスク情報まで
+【最新の避難情報】こちらから地域別でご覧になれます
+【最新の河川情報】こちらから一覧でご覧になれます
+【気象警報・注意報】各地の発表状況を詳しく
+川の氾濫 警戒のポイン</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261127de82178</guid><pubDate>Thu, 26 Nov 2026 19:54:10 +0000</pubDate></item><item><title>北海道新聞記者の妻の手記をロシアメディアも報じる</title><link>https://news.web.nhk/newsweb/na/nd-20261127de82163</link><description>[score: 0.875] ロシアの治安機関に拘束された北海道新聞の記者の妻が公開した手記の内容を複数のロシアのメディアが報じました。
+夫妻について「2人ともロシア文化が好きだ」などと紹介し、ロシアへの愛着と理解がある記者が拘…
+あわせて読みたい
+ロシア拘束の北海道新聞記者 妻が手記を公開【全文掲載】
+11月26日 14:01
+スペースXが宇宙にデータセンター網構築へ アメリカで初認可
+11月26日 19:00
+「ICCを守り抜く」赤根所長が都内で会見 若者たちへの訴えも
+11月26日 18:11
+ネパール土石流発生から3か月 生活再建に向けた支援が急務
+11月26日 19:37
+香港 168人死亡の高層住宅火災から1年</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261127de82163</guid><pubDate>Thu, 26 Nov 2026 20:24:32 +0000</pubDate></item><item><title>取引先の若者に「似通う」とチャットで伝えたら「方言やめてください」→広辞苑のスクショを送ったところ、その若者は上司にチャットから即キックされてた</title><link>https://togetter.com/li/2775408</link><description>[score: 0.877] 取引先の若者に「似通う」とチャットで伝えたら「方言やめてください」→広辞苑のスクショを送ったところ、その若者は上司にチャットから即キックされてた アユバク @ayumi_bakusui 以前仕事で「似通う」を使ったら「なにそれ。方言やめてください」と取引先の若者にチャットで言われ、ワイの変換システムは広辞苑連動してて載ってますって『似通う』の意味をスクショして「禁止する前に検索してほしいなー」とチャットに打ったら、その若者は即上長から○○部屋キックされた思...</description><guid isPermaLink="false">https://togetter.com/li/2775408</guid><pubDate>Thu, 26 Nov 2026 20:59:59 +0000</pubDate></item><item><title>【合格体験記】G検定、勉強40時間。本番145問100分はエグい！</title><link>https://qiita.com/Shinn_Matsumoto/items/310d5eff7fcbcbd044f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.879] G検定、辛くも合格しました。
+2026年11月7日の土曜に自宅で受けて、11月24日に結果が来ました。勉強時間は合わせて40時間くらいで、そのうち20時間は公式テキストを1冊読み切るのに使っています。
+使ったのは公式テキスト、問題集に付いているWebアプリ、Udemyの模擬試験の3つです。で、本番でいちばんきつかったのは、145問を100分で解き続ける時間のなさでした。
+きっかけは、勉強会で会った方の一言
+2026年10月2日に、松尾研究所さんの勉強会に行きました。Sansanさん、ABEJAさんとの共同開催で、LLMやVLM、VLAを自社でファインチューニングしている話を聞く会の第2回です。</description><guid isPermaLink="false">https://qiita.com/Shinn_Matsumoto/items/310d5eff7fcbcbd044f7?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 26 Nov 2026 20:37:37 +0000</pubDate></item><item><title>福岡 刺殺事件 男がカーディガン購入 逃走のため服装変えたか</title><link>https://news.web.nhk/newsweb/na/nd-20261127de82183</link><description>[score: 0.880] 福岡市の駐輪場で70歳の男性が刺されて死亡した事件で、現場から逃走した男が近くの商業施設でカーディガンを購入し、それを着て施設から出ていたことが警察への取材で分かりました。
+警察は、逃走するために服…
+あわせて読みたい
+ロシア拘束の北海道新聞記者 妻が手記を公開【全文掲載】
+11月26日 14:01
 参院 野党側 関文科相の問責決議案を提出 27日に採決へ
 11月26日 19:22
-アディーレ法律事務所 不正アクセスで個人情報漏えい
-11月26日</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261126de82085</guid><pubDate>Thu, 26 Nov 2026 12:03:29 +0000</pubDate></item><item><title>サービスチーム全員で2年半続けているドメインモデリングのリアル / domain-modeling-with-the-whole-service-team</title><link>https://speakerdeck.com/kaminashi/domain-modeling-with-the-whole-service-team</link><description>[score: 0.872] サービスチーム全員で2年半続けているドメインモデリングのリアル / domain-modeling-with-the-whole-service-team 私たちのサービスチームでは、2024年からPdM、PD、Engの全員でドメインモデリングを続けてきました。手探りでSUDOモデリングから始め、実践を重ねるうちに職種間の認識がそろい、手戻りがほぼなくなりました。しかしプロダクトが育つにつれてモデリングで扱うユースケースが増え、全員で議論する時間自体が開発…</description><guid isPermaLink="false">https://speakerdeck.com/kaminashi/domain-modeling-with-the-whole-service-team</guid><pubDate>Thu, 26 Nov 2026 14:39:53 +0000</pubDate></item><item><title>年末商戦前にダークパターンや詐欺サイトに注意呼びかけ</title><link>https://news.web.nhk/newsweb/na/nd-20261126de81876</link><description>[score: 0.873] 年末商戦が本格化するのを前に、専門家などで作る民間の団体が会見し、消費者を勘違いさせるようないわゆる「ダークパターン」と呼ばれる表示で宣伝する通販サイトなどが増えるおそれがあるとして、注意を呼びかけま…
-あわせて読みたい
-サブスクや定期購入 相次ぐトラブル 注意すべき5つのポイント
-11月24日 17:37
-ロシア拘束の北海道新聞記者 妻が手記を公開【全文掲載】
-11月26日 14:01
 定数削減法案 26日は採決行わず 改めて協議 衆院特別委
 11月26日 15:34
-アディーレ法律事務所 不正アクセスで個人情報漏えい
-11月26日 12:20
-参院 野党側 関文科相の問責決議案を提出 27</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261126de81876</guid><pubDate>Thu, 26 Nov 2026 13:01:54 +0000</pubDate></item><item><title>【備忘録】AIが書いたコードを自分で理解するための習慣 ― 「動いた」で手を離さない</title><link>https://qiita.com/Tadataka_Takahashi/items/f47f216fb76fff654336?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.873] はじめに
-AIにコードを書いてもらうと、数秒で動くものが手に入ります。便利な一方で、後からそのコードを直そうとしたときに「これ、なぜこう書いてあるんだっけ」と手が止まることが増えました。
-この記事では、AIが書いたコードを自分の理解として残すために続けている7つの習慣を整理します。Pythonのリトライ処理を例に、挙動を予想し、境界値で試し、分かったことを一行残すまでを紹介します。その前に、関連する調査データを簡単に紹介します。習慣そのものは個人的な実践で、効果が研究で確かめられたものではない点はご了承ください。
-調査データは2026年11月時点で公開されているものを参照しています。
-データか</description><guid isPermaLink="false">https://qiita.com/Tadataka_Takahashi/items/f47f216fb76fff654336?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 26 Nov 2026 08:14:05 +0000</pubDate></item><item><title>「Gemini Notebook」でノートや調査資料からインタラクティブなサイトを生成可能に／</title><link>https://forest.watch.impress.co.jp/docs/news/2159542.html</link><description>[score: 0.874] 「Gemini Notebook」でノートや調査資料からインタラクティブなサイトを生成可能に／ misshiki Google%E4%BA%BA%E5%B7%A5%E7%9F%A5%E8%83%BD Gemini Notebook（旧NotebookLM）が、資料からインタラクティブなWebサイトを生成する機能を追加。学習教材、売上分析ダッシュボード、プロジェクト管理ツールなどを作成・共有できる。</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2159542.html</guid><pubDate>Thu, 26 Nov 2026 11:32:38 +0000</pubDate></item><item><title>Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump</title><link>https://thezvi.substack.com/p/jensen-huang-reinstated-as-nvidia</link><description>[score: 0.874] Jensen Huang Reinstated As Nvidia CEO at Behest of President Trump misshiki NVIDIA トランプ米大統領の働きかけを受け、NVIDIAのフアン氏がCEOに復帰。著者は株式市場の急落が介入を促したと分析し、国家安全保障や企業統治への影響を批判する。</description><guid isPermaLink="false">https://thezvi.substack.com/p/jensen-huang-reinstated-as-nvidia</guid><pubDate>Thu, 26 Nov 2026 12:27:25 +0000</pubDate></item><item><title>アンソロピック株、初日急騰も公募価格割れ…AI相場の逆風は払拭できず</title><link>https://www.businessinsider.jp/article/2611-anthropic-ipo-couldnt-revive-ai-trade-ant-huang-regulation/</link><description>[score: 0.874] - アンソロピックの株価は上場初日に急騰したが、その後は市場全体の急落とともに下落している。
-- 投資家は、同社の新規株式公開（IPO）が市場の強気派を再び勢いづかせることを期待していた。
-- だが、Claudeを開発した同社の超大型デビューでさえ、テック銘柄を取り巻く逆風は払拭できていない。
-アンソロピック（Anthropic）が11月19日に実施した新規株式公開（IPO）でも、強気派（相場の上昇を見込む投資家）を再び勢いづかせることはできなかった。
-このClaudeの開発元は、上場初日の取引で素晴らしいスタートを切った。初値は1株111.5ドルと、公開価格の83ドルを34%上回り、終値も公</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-anthropic-ipo-couldnt-revive-ai-trade-ant-huang-regulation/</guid><pubDate>Thu, 26 Nov 2026 08:11:54 +0000</pubDate></item><item><title>ChatGPTで作ったWebサイト、公開し続けると追加料金も　2027年2月から課金開始</title><link>https://ascii.jp/elem/000/004/454/4454606/</link><description>[score: 0.875] ChatGPTで作ったWebサイト、公開し続けると追加料金も 2027年2月から課金開始 OpenAIのサイト公開機能「Sites」を利用している人は、ホスティング料金に注意が必要だ。OpenAIの公式案内によると、ホスティングは2027年1月31日まで無料で、2月1日からPlus・Pro・Businessの月間利用枠を超えた分について課金が始まる予定だ。 Sitesは、ChatGPTやCodexに指示することで、Webサイトやアプリを作成・公...</description><guid isPermaLink="false">https://ascii.jp/elem/000/004/454/4454606/</guid><pubDate>Thu, 26 Nov 2026 11:12:09 +0000</pubDate></item><item><title>Jev で実現する Generative UI</title><link>https://speakerdeck.com/azukiazusa1/slide-efc59f7e-336f-4e6c-8919-27211ebc3d07</link><description>[score: 0.876] (one JSON object per line) ... RULES: 1. Output ONLY JSONL patches - ... no markdown, no code fences 5. ONLY use components listed above 14. CRITICAL: The "on" field goes on the ELEMENT object, NOT inside "props". ▸ コンポーネントの説明は数行で、大半は出力形式や記法のルール
-Intelligent UI: https://techcrunch.com/2026/10/07/chat</description><guid isPermaLink="false">https://speakerdeck.com/azukiazusa1/slide-efc59f7e-336f-4e6c-8919-27211ebc3d07</guid><pubDate>Thu, 26 Nov 2026 13:10:48 +0000</pubDate></item><item><title>「ICCを守り抜く」赤根所長が都内で会見 若者たちへの訴えも</title><link>https://news.web.nhk/newsweb/na/nd-20261126de81627</link><description>[score: 0.877] ICC＝国際刑事裁判所の赤根智子所長は都内で会見し、アメリカによる制裁などで厳しい状況が続くICCを「守り抜くことに集中したい」と述べました。
-オランダに拠点を置くICCの赤根智子所長は26日に都…
-ICC赤根所長 “管轄権厳格に守り活動 世界のために努力”
-11月24日 19:42
-ICC＝国際刑事裁判所“解体論”が広げる波紋
-9月3日 16:40
-ICCの新たな試練～ノーベル平和賞とアメリカの制裁～
-10月16日 16:40
+フィギュアNHK杯 27日開幕 選手たちが本番に向けて調整
+11月26日 19:29
+文部科学省 入札システムに不正アクセス 情報</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261127de82183</guid><pubDate>Thu, 26 Nov 2026 20:24:32 +0000</pubDate></item><item><title>学校のいじめ79万件超で過去最多 「性的いじめ」初調査 文科省</title><link>https://news.web.nhk/newsweb/na/nd-20261127de82139</link><description>[score: 0.880] 2025年度、全国の学校で把握されたいじめは79万件余りと5年連続で過去最多を更新したことが文部科学省の調査で分かりました。 また「性的いじめ」を初めて調査した結果、8000件以上が確認されていて文部…
+注目ワード
+あわせて読みたい
 ロシア拘束の北海道新聞記者 妻が手記を公開【全文掲載】
 11月26日 14:01
-香港 168人死亡の高層住宅火災から1年で追悼
-11月26日 15:03
-合意なき閉</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261126de81627</guid><pubDate>Thu, 26 Nov 2026 09:33:44 +0000</pubDate></item><item><title>MetaのAIエージェント「Muse」による買い物をAmazonがブロックしている件について「解除」する方向での提携について協議中との報道</title><link>https://gigazine.net/news/20261126-muse-amazon-discuss/</link><description>[score: 0.877] MetaのAIエージェント「Muse」による買い物をAmazonがブロックしている件について「解除」する方向での提携について協議中との報道
-AIエージェントを使いやすいアプリに落とし込んだMetaの「Muse」は、40日間で1000万ダウンロードされるなど高い人気を集めました。このMuseをAmazonがブロックしている件で、AmazonとMetaがブロックを解除する方針で協議していると報じられました。
-Exclusive: Meta and Amazon discuss ending Muse blockade; ads, search emerge as key issues | Fort</description><guid isPermaLink="false">https://gigazine.net/news/20261126-muse-amazon-discuss/</guid><pubDate>Thu, 26 Nov 2026 10:02:00 +0000</pubDate></item><item><title>さくらインターネット、AIを月額固定料金で提供する「シンプルAI」発表、システムへの組み込み用途を想定</title><link>https://www.publickey1.jp/blog/26/aiai_1.html</link><description>[score: 0.878] さくらインターネットは11月25日と26日の2日間、大規模イベント「SAKURA DEKIRU Conference 2026」を都内で開催。2日目の基調講演で、新サービスとして月額固定料金でAIを提供する「シンプルAI」を発表しました。 月額固定料金で安定したAIモデルを提供 同社はすでに各種の生成AIモデルをAPI経由で提供するマネージドサービス「さくらのAI Engine」を提供しています。 さくらのAI Engineは従量課金制なのに対し、今回発表された「シンプルAI……</description><guid isPermaLink="false">https://www.publickey1.jp/blog/26/aiai_1.html</guid><pubDate>Thu, 26 Nov 2026 13:56:36 +0000</pubDate></item><item><title>これから高齢独身男性に襲ってくる地獄</title><link>https://anond.hatelabo.jp/20261126200243</link><description>[score: 0.878] まず、親が死ぬ。親戚とも疎遠。兄弟もいない。妻も子どももいない。何かあったときに連絡する相手がいない。病気になっても誰も看病してくれない。倒れていても誰も気づかない。何日も誰とも会話しない。自分の誕生日すら誰も覚えていない。
-若い頃は一人で飯を食い、一人で遊び、一人で旅行して、それでよかったかもしれない。でも年を取ってからも、ずっと一人でいるのは別の話だ。面白いことがあっても話す相手がいない。体調が悪くても心配してくれる人がいない。何かを始めようと思っても誘う相手がいない。毎日、誰とも関わらないまま時間だけが過ぎていく。
-そのうち、コンビニの女性店員に話しかけるようになる。毎日同じ店に通い、店</description><guid isPermaLink="false">https://anond.hatelabo.jp/20261126200243</guid><pubDate>Thu, 26 Nov 2026 13:53:19 +0000</pubDate></item><item><title>中国ＡＩ開発に遅れ、米企業の「蒸留」対策や半導体規制で＝関係筋 | ロイター - Reuters</title><link>https://news.google.com/rss/articles/CBMijgFBVV95cUxObGpnR3hKeGRFQ0otZDhnU2ZXaWd1dFFQb3RWbHgxOVJaWVdhVnpOdENrNVdKWXNQNFhUd284S3htckVKRm56VURSaWE0Q0gxT19kOWRZMzNhaUotQUVMbnV6ME5UTGhnSGRCYW4xS1R2SGJOZkdwcjE5NXgycmpfU01xZm5FY3VjdEFhUmNR?oc=5</link><description>[score: 0.882] 中国ＡＩ開発に遅れ、米企業の「蒸留」対策や半導体規制で＝関係筋 | ロイター Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMijgFBVV95cUxObGpnR3hKeGRFQ0otZDhnU2ZXaWd1dFFQb3RWbHgxOVJaWVdhVnpOdENrNVdKWXNQNFhUd284S3htckVKRm56VURSaWE0Q0gxT19kOWRZMzNhaUotQUVMbnV6ME5UTGhnSGRCYW4xS1R2SGJOZkdwcjE5NXgycmpfU01xZm5FY3VjdEFhUmNR?oc=5</guid><pubDate>Thu, 26 Nov 2026 11:24:37 +0000</pubDate></item><item><title>自律型AIエージェント「Claude Duet」、日本でも利用可能に</title><link>https://pc.watch.impress.co.jp/docs/news/2159488.html</link><description>[score: 0.883] ニュース
-自律型AIエージェント「Claude Duet」、日本でも利用可能に
-2026年11月26日 14:01
-Claudeの自律型AIエージェントが、日本でも使えるようになった。Anthropicは、AIエージェントアプリ「Claude Duet」の提供対象地域に日本を追加した。11月26日時点で、Androidアプリは「Claude Duet(早期アクセス)」としてGoogle Playに掲載されており、ウェイトリストに登録したユーザーは順次利用できるようになった模様だ。
-提供はリサーチプレビュー扱いで追加料金はかからず、対象はPro/Max/Ultraプランのユーザー。iOS/And</description><guid isPermaLink="false">https://pc.watch.impress.co.jp/docs/news/2159488.html</guid><pubDate>Thu, 26 Nov 2026 10:01:14 +0000</pubDate></item><item><title>【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開 / offers-claude-code-2026-11-26</title><link>https://speakerdeck.com/tonkotsuboy_com/index-1f2ed0d2-597d-459d-abf2-db8db109c5d6</link><description>[score: 0.883] 【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開 / offers-claude-code-2026-11-26 「【Claude Code】鹿野さんが実践するエンジニアの日常業務を爆速にする最新推しツール 大公開」で発表した資料です。 実際にはスライドをほとんど見せずにずっと喋っていました笑 https://offers-jp.connpass.com/event/409773/</description><guid isPermaLink="false">https://speakerdeck.com/tonkotsuboy_com/index-1f2ed0d2-597d-459d-abf2-db8db109c5d6</guid><pubDate>Thu, 26 Nov 2026 13:39:41 +0000</pubDate></item><item><title>「知らない〝私〟が血を流し罵倒」中国AI短編ドラマで「顔盗用」急増　俳優は泣き寝入り</title><link>https://www.sankei.com/article/20261126-SZTQ2RJW5ZKU3GJ4GQKJAORUPE/</link><description>[score: 0.884] 人工知能（AI）を活用した短編ドラマが急増する中国で、AIで作られた「俳優」に顔や声を盗用されたと実在の俳優が訴えるトラブルが多発している。短編ドラマは低コストと制作期間の短さが強みだが、規制が追い付かず不利益を被った側が泣き寝入りするケースも。対策を急ぐ中国政府は管理強化に乗り出す。
-うり二つのAI俳優が「出演」
-「知らない〝私〟がそこにいた」
-中国や日本でモデルとして活躍する七海さん（27）は今年3月末、ファンからSNSを通じてAI短編ドラマに「出演している」というメッセージを受け取った。動画を確認すると、あざだらけの顔で唇から血を流しながら相手を罵倒するAI俳優と、自身の顔がうり二つだっ</description><guid isPermaLink="false">https://www.sankei.com/article/20261126-SZTQ2RJW5ZKU3GJ4GQKJAORUPE/</guid><pubDate>Thu, 26 Nov 2026 10:21:02 +0000</pubDate></item><item><title>「1Password」のGitHubアカウントに不正アクセス、顧客管理データの一部漏えい。パスワードの「保管庫」は影響なし</title><link>https://internet.watch.impress.co.jp/docs/news/2159331.html</link><description>[score: 0.892] ニュース
-「1Password」のGitHubアカウントに不正アクセス、顧客管理データの一部漏えい。パスワードの「保管庫」は影響なし
-2026年11月26日 09:45
-パスワード管理アプリ「1Password」を提供するカナダのAgileBitsは11月25日（現地時間）、同社従業員のGitHubアカウントが不正アクセスを受け、一部の情報がダウンロードされたと発表した。1Passwordのサービスそのものや、ユーザーのパスワードなどを保存する「保管庫」（Vault）への影響はないとしている。
-発表によれば、11月19日に、攻撃者が同社従業員の業務用GitHubアカウントにアクセスした形跡が確</description><guid isPermaLink="false">https://internet.watch.impress.co.jp/docs/news/2159331.html</guid><pubDate>Thu, 26 Nov 2026 11:12:09 +0000</pubDate></item><item><title>GPT-6.2の使用量「誤って割引されていた」　修正後はAstraで上限に40％早く達する見込み</title><link>https://www.itmedia.co.jp/aiplus/article/2611/26/2000003495/</link><description>[score: 0.893] GPT-6.2の使用量「誤って割引されていた」 修正後はAstraで上限に40％早く達する見込み（1/2 ページ）
-米OpenAIのプロダクト責任者ティボー・ソティオ氏（通称Tibo）は11月25日（現地時間）、17日にリリースしたAIモデル「GPT-6.2 Astra」（以下、6.2 Astra）と「GPT-6.2 Sol」（以下、6.2 Sol）の使用量が実際よりも少なく計算されていたとXで明かした。
-この誤りは既に修正されており、修正前と比べて6.2 Astraでは利用上限に40％早く、6.2 Solでは25％早く達することになると説明している。
-Tibo氏は今回の誤りへの「ささやかなお</description><guid isPermaLink="false">https://www.itmedia.co.jp/aiplus/article/2611/26/2000003495/</guid><pubDate>Thu, 26 Nov 2026 08:51:31 +0000</pubDate></item><item><title>トランプ政権の新関税、日本は12.5％から最大15％にアップ　20％になる恐れも</title><link>https://www.sankei.com/article/20261126-AGHYK432P5MQDAFGRYB44IK5IA/?outputType=asynd</link><description>[score: 0.898] トランプ政権の新関税、日本は12.5％から最大15％にアップ 20％になる恐れも 【ワシントン＝塩原永久】米通商代表部（USTR）は25日、日本や中国、欧州連合（EU）を含む14カ国・地域を対象とした新たな関税措置を発表した。各国・地域の過剰生産能力に対処するためだと主張している。日本からの輸入品には最大15％が課され、現行の12.5％から上がる。通商法301条を根拠とする今回の関税発動は来年1...</description><guid isPermaLink="false">https://www.sankei.com/article/20261126-AGHYK432P5MQDAFGRYB44IK5IA/?outputType=asynd</guid><pubDate>Thu, 26 Nov 2026 09:34:11 +0000</pubDate></item><item><title>1Password、GitHub侵害で一部顧客の氏名とメール流出　保管庫は無事、コードは10桁に</title><link>https://www.sbbit.jp/article/cont1/188761</link><description>[score: 0.911] 1Password、GitHub侵害で一部顧客の氏名とメール流出 保管庫は無事、コードは10桁に パスワード管理サービスの1Passwordは11月25日、従業員のGitHubアカウントが侵害され、バックエンドのサービスに悪意あるコードを投入されたと公表した。一部ユーザーの氏名やメールアドレスなどが持ち出された一方、保管庫の中身と鍵は無事としている。招待や復旧のコードは6桁の数字から10桁の英数字に変更した。 パス...</description><guid isPermaLink="false">https://www.sbbit.jp/article/cont1/188761</guid><pubDate>Thu, 26 Nov 2026 11:00:06 +0000</pubDate></item></channel></rss>
+参院 野党側 関文科相の問責決議案を提出 27日に採決へ
+11月26日 19:22
+定数削減法案 26日は採決行わず 改めて協議 衆院特別委
+11月26日 15:34
+フィギュアNHK杯 27日開幕 選手たちが本番に向けて調整
+11月26日 19:29
+文部科学省 入札システムに不正</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261127de82139</guid><pubDate>Thu, 26 Nov 2026 20:24:32 +0000</pubDate></item><item><title>自民 維新幹事長ら 問責決議案採決前に国会情勢めぐり意見交換</title><link>https://news.web.nhk/newsweb/na/nd-20261126de82129</link><description>[score: 0.881] 自民・維新両党の幹部は、26日夜、東京都内で会談し、政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣に対する問責決議案が27日に採決されるのを前に、国会情勢などをめぐって意見を交わしました。…
+注目ワード
+あわせて読みたい
+自民税制調査会 東京と地方の税収格差是正で意見相次ぐ
+11月26日 20:31
+ロシア拘束の北海道新聞記者 妻が手記を公開【全文掲載】
+11月26日 14:01
+参院 野党側 関文科相の問責決議案を提出 27日に採決へ
+11月26日 19:22
+定数削減法案 26日は採決行わず 改めて協議 衆院特別委
+11月26日 15:34
+フィギュアNHK杯 27日開幕 選手</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261126de82129</guid><pubDate>Thu, 26 Nov 2026 18:21:45 +0000</pubDate></item><item><title>関文科相問責決議案 きょう採決 可否はギリギリの情勢か</title><link>https://news.web.nhk/newsweb/na/nd-20261127de82148</link><description>[score: 0.881] 政治資金パーティーをめぐる指摘が相次いでいる関文部科学大臣に対し、野党側が提出した問責決議案は、27日の参議院本会議で採決が行われます。 与野党ともに、可決か否決かギリギリの情勢とみていて、党内の引き…
+あわせて読みたい
+沖縄県本島北部に線状降水帯発生
+11月27日 5:04
+ロシア拘束の北海道新聞記者 妻が手記を公開【全文掲載】
+11月26日 14:01
+参院 野党側 関文科相の問責決議案を提出 27日に採決へ
+11月26日 19:22
+定数削減法案 26日は採決行わず 改めて協議 衆院特別委
+11月26日 15:34
+フィギュアNHK杯 27日開幕 選手たちが本番に向けて調整
+11月26日</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261127de82148</guid><pubDate>Thu, 26 Nov 2026 19:54:10 +0000</pubDate></item><item><title>定数削減、衆院委で採決先送り　「６０日ルール」与党断念：時事ドットコム</title><link>https://www.jiji.com/jc/article?k=2026112600982&amp;g=pol</link><description>[score: 0.883] 定数削減、衆院委で採決先送り 「６０日ルール」与党断念
+衆院政治改革特別委員会は２６日、衆院比例代表定数３１削減法案の同日の採決を見送った。与党は衆院の３分の２以上による再可決が可能になる「６０日ルール」を念頭に週内の衆院通過を目指してきたが、野党の抵抗により断念した。
+特別委の理事会で与党は２６日の質疑後の採決を提案したが、野党は「審議が尽くされていない」と主張。３０日も質疑を行うことで合意した。
+憲法５９条は、法案の衆院通過から６０日以内に参院が議決しない場合、衆院は否決されたと見なして３分の２以上の賛成で再可決、成立させられると規定する。
+一方、国会法の定めにより来年１月中に通常国会を召</description><guid isPermaLink="false">https://www.jiji.com/jc/article?k=2026112600982&amp;g=pol</guid><pubDate>Thu, 26 Nov 2026 16:12:44 +0000</pubDate></item><item><title>「git push が通らないので調べて」と頼むと、Codex は作業フォルダの外の ~/.ssh を読んだ。Claude Code と Gemini CLI は確認なしでは読まなかった（偽の鍵で60回）</title><link>https://qiita.com/suwa_nobu/items/3bcba393673985c9b8ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.883] 11/25 に 1Password がセキュリティインシデントを公表しました。Hacker News では、11/26 の朝の時点で983ポイントを集めていました。社員の GitHub アカウントが乗っ取られ、そこから一部の利用者の名前やメールアドレスが持ち出されたそうです。保管庫の中身は無事でした。
+その2日前（11/23）に投稿された「You can't afford to keep your SSH keys on disk」という記事も、203ポイントを集めていました。秘密鍵をディスクに置いておくと、ディスクを読む悪いコードに持ち出されるので、鍵をパスワード管理ソフトに移したという話で</description><guid isPermaLink="false">https://qiita.com/suwa_nobu/items/3bcba393673985c9b8ed?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 26 Nov 2026 20:37:37 +0000</pubDate></item><item><title>AIでアプリを公開したのに、Google検索から誰も来ない。Next.jsで点検する7つの設定</title><link>https://qiita.com/yuonozawa/items/94e10fdbd52f2433c9ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.884] AIで作ったアプリが動いた。デプロイも成功。URLを教えれば、ちゃんと開ける。
+ところが、Google検索からは誰も来ない。
+「SEOの設定を忘れた？」「Googleにサイトマップを送ればいい？」「そもそも検索する人がいない？」
+これらは似ているようで、確認する場所が違う。
+公開できたことと、Googleがページを認識し、検索結果に出すことは別。 Google公式によれば、アクセスできてHTTP 200が返り、内容を取得できても、登録は保証されない。
+この記事ではNext.js App Routerで公開した小さなWebアプリを例に、検索から見つけてもらう前に確認したい7項目を紹介する。確認コ</description><guid isPermaLink="false">https://qiita.com/yuonozawa/items/94e10fdbd52f2433c9ff?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 26 Nov 2026 20:37:37 +0000</pubDate></item><item><title>防衛費50兆円台は「実質減額」　装備品分割払いや円安を考慮すると現行計画下回る水準に</title><link>https://www.sankei.com/article/20261126-KPOT4PMMTFNSBCFM5LLWCXNWM4/</link><description>[score: 0.885] 防衛費50兆円台は「実質減額」 装備品分割払いや円安を考慮すると現行計画下回る水準に 年末に予定する安全保障関連3文書の改定で、令和9～13年度の5年間で計画する防衛費総額の規模が最大の焦点となっている。防衛省が必要額を約80兆円と見積もる中、官邸や財務省は50兆～60兆円台で調整を進めている。政府は厳しい安保環境に対応するため3文書の前倒し改定を決めたが、50兆円台にとどまれば、現行計画と比...</description><guid isPermaLink="false">https://www.sankei.com/article/20261126-KPOT4PMMTFNSBCFM5LLWCXNWM4/</guid><pubDate>Thu, 26 Nov 2026 20:40:47 +0000</pubDate></item><item><title>議員定数削減法案「31減」想定に対する「44減」試算 落選判定議員54名に？ 【議員定数削減法案シミュレーション】 ｜ チキラボ</title><link>https://www.sra-chiki-lab.com/notification/1601/</link><description>[score: 0.888] 議員定数削減法案「31減」想定に対する「44減」試算 落選判定議員54名に？ 【議員定数削減法案シミュレーション】 ｜ チキラボ 執筆：社会調査支援機構チキラボ、監修・分析協力：菅原琢（政治学者） 1. 制度改正シミュレーションの概要と分析枠組み 現在国会では、議員定数を削減する法案が審議されている。この法案には、衆議院比例の31議席削減に加えて、議席配分方式の変更や、比例復活要件の厳格化、名簿不足時の欠員などが盛り込まれている。...</description><guid isPermaLink="false">https://www.sra-chiki-lab.com/notification/1601/</guid><pubDate>Thu, 26 Nov 2026 19:00:15 +0000</pubDate></item><item><title>Claude Designに画面設計書とデザインシステムを渡したら、実装を見据えたUIモックを作れるのか？</title><link>https://qiita.com/ShokiSasaki/items/ad82b12f0e51c1f9f5f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] 私はBIPROGYのデザイン組織に所属しており、これまで業種・業界を問わず、さまざまな案件のUI/UXデザインに携わってきました。BIPROGYにおけるUI/UXの取り組みについては、以下の記事で詳しく紹介しています。
+はじめに
+生成AIによるUI生成では、1画面をそれらしく作ることは比較的容易になってきました。一方、実際の開発では、複数画面にわたって同じUIルールを維持し、後工程の実装につなげられるかが重要になります。
+そこで今回は、画面を毎回AIに自由生成させるのではなく、Claude Codeで共通UIコンポーネントを先に作成し、Claude Designではその部品を使って画面を組み立</description><guid isPermaLink="false">https://qiita.com/ShokiSasaki/items/ad82b12f0e51c1f9f5f9?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 26 Nov 2026 20:37:37 +0000</pubDate></item><item><title>AIコーディングで再び出会うTDD・BDD・仕様駆動開発</title><link>https://qiita.com/figueiredoluiz/items/be77af87766215ef1055?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.889] はじめに
+AIコーディングエージェントの使い方を読んでいると、以前から知られている開発手法に何度も出会います。期待する振る舞いを明確にする。変更を小さく分ける。テストする。結果をレビューしてから受け入れる。OpenSpecやSpec Kitは、その一部を仕様中心の開発フローに取り入れています。Anthropicも2025年のガイドでテスト駆動開発（Test-Driven Development、TDD）を勧めていました。123
+使う道具は大きく変わりました。それでも、開発の意図を残し、変更を調整し、完成したシステムが期待どおりに動くと判断する仕事は残っています。
+私は、既存のエンジニアリングの</description><guid isPermaLink="false">https://qiita.com/figueiredoluiz/items/be77af87766215ef1055?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Thu, 26 Nov 2026 20:37:37 +0000</pubDate></item></channel></rss>
