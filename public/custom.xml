@@ -1,88 +1,116 @@
 <?xml version='1.0' encoding='UTF-8'?>
-<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 28 Nov 2026 03:03:27 +0000</lastBuildDate><item><title>100本の記事を書いて見えた、PRとマーケティングの教訓</title><link>https://forbesjapan.com/articles/detail/108969?s=ns</link><description>[score: 0.869] 人生に節目が訪れたときは、少し立ち止まり、感謝とともに振り返り、祝福し、そして先を見据えるべきである。今回の記事は、Forbes Agency Councilへの100本目の寄稿となる。PRとマーケティングに関心を持つ読者とつながるうえで、同カウンシルは私にとって素晴らしい場であり続けてきた。
-それだけではない。私のエージェンシーは今年、創業35周年を迎え、記念に新しいウェブサイトもローンチした。さらに、3冊目となる著書も刊行予定だ。今回のテーマはPRと高度なAIの台頭、特に「AIにオンラインで見つけてもらう方法」である。先日は、別の記事で生成エンジン最適化（GEO）について取り上げ、個人や企</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108969?s=ns</guid><pubDate>Fri, 27 Nov 2026 23:12:48 +0000</pubDate></item><item><title>10年前ベトナムの職場で財布からお金を取られたことが何回かあり、財布にトラップを仕掛けたらその日のうちに清掃スタッフが「今日で辞めます」と逃げるように帰っていった</title><link>https://togetter.com/li/2775905</link><description>[score: 0.869] むかし職場で、財布からお金取られたことが何回かあって 財布にトラップ仕掛けたら その日のうちに 清掃スタッフさんが「今日で辞めます」って逃げるように帰っていったの思い出した
-2026-11-27 08:46:10そのときベトナムの職場だったんだけど ベトナムって清掃員の給料がめっちゃ安いんだよね。 だから、あんまり大事にしないで、見て見ぬフリした。 (職場のみんなには"最近お財布からお金抜かれてる"って情報共有はしたけど)
-2026-11-27 08:56:54「お金を盗る」って自分のプライドへし折らないとできない行為だし、長期的に考えたらコスパ悪い行為だと思うんだけど(自認犯罪者になることで</description><guid isPermaLink="false">https://togetter.com/li/2775905</guid><pubDate>Sat, 28 Nov 2026 01:22:13 +0000</pubDate></item><item><title>プーチン氏の盟友ルカシェンコ氏、ウクライナの領土巡るロシアの主張に疑問符　「その理屈ならロシアはモンゴルに」</title><link>https://www.cnn.co.jp/world/35255529.html</link><description>[score: 0.870] 集団安全保障条約機構（CSTO）の首脳会議に出席するベラルーシのルカシェンコ大統領＝11月11日、ロシア首都モスクワ/Pavel Bednyakov/Pool/Reuters/File （CNN） ロシアの最も緊密な同盟国であるベラルーシが、ウクライナに対するロシアの領有権主張の背後にある論理に疑問を呈している。例えるなら、モンゴルがロシアに領土割譲を要求するようなものだと指摘した。 ロシアのプーチン大統領はこれまで、ウクライナの首都キーウが中世の国家連合「ルーシ」の中心地だったことを理由に、ウクライナはロシアの一部になるべきだと主張してきた。 専門家は長年、こうした主張は控えめに言っても歴史</description><guid isPermaLink="false">https://www.cnn.co.jp/world/35255529.html</guid><pubDate>Sat, 28 Nov 2026 01:13:33 +0000</pubDate></item><item><title>米空軍のクラウド基盤「Cloud One」に不正侵入、被害の全容は不明</title><link>https://forbesjapan.com/articles/detail/108979?s=ns</link><description>[score: 0.870] 米空軍の主要システムを支えるクラウド基盤「Cloud One」が、ハッカーの不正侵入を受けたと報じられた。サイバー攻撃やシステム障害が相次ぎ、人間が急速に進歩するテクノロジーを制御できるのかが問われている。
-米空軍の基幹クラウドへの不正侵入、被害の全容は不明
-ロイターは米国時間2026年11月27日、匿名の情報筋3人の話として、米空軍のCloud Oneが不正侵入を受けたと報じた。侵入が発覚したのは報道前の約1カ月以内で、システムの更新作業中だったという。
-ハッカーは、Cloud One全体を制御・管理する機能「コントロールプレーン」にまで到達したとされる。軍用機の稼働状況や予備部品の移動状況</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108979?s=ns</guid><pubDate>Sat, 28 Nov 2026 00:10:15 +0000</pubDate></item><item><title>Redditの「AI引用崩壊」が示した教訓　マーケターが知るべき脆弱性</title><link>https://forbesjapan.com/articles/detail/108988?s=ns</link><description>[score: 0.871] AIは変化し続けている。企業はそれに対応しようと右往左往し続けている。だが、最も重要な教訓を学んでいる者は誰もいないようだ。
-過去1年間、私たちは皆、AI検索で競合に勝つための「唯一の特効薬」として、トレンドの戦術やテクノロジーを持ち上げる自称「専門家」たちの洪水にさらされてきた。その最大の標的となったのがReddit（レディット）だ。
-まるで穴から湧き出てくるかのように専門家たちが次々と現れ、あたかもRedditが他のSNSチャンネルの1つに過ぎないかのように、ブランドを適切なサブレディット（掲示板コミュニティ）に参入させると約束してきた。そうした人々の中には本物の専門家もいる。だが、大半は</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108988?s=ns</guid><pubDate>Fri, 27 Nov 2026 23:42:06 +0000</pubDate></item><item><title>Breakingviews - COMMENTARY: コラム：ＡＩはなぜ市場を攻略できないか、数学と異なる投資の難問 - Reuters</title><link>https://news.google.com/rss/articles/CBMikAFBVV95cUxNazNCN3NpekFIc2J2RE90bmZvbG1ldkJnc2lRMUxCVXkxbW84V1I3UFQybW5aaHBocF9IRzZpUW9JU2txYzhYd1VtRmxRY25PdWxLQXRFd0wxRmQwOHFtVzczczFPcm9ZUFM4Y29MbWRsbmx0VnpPZWU1VGZiVEdhNG5UNlBLN016QzJUVHRrbUk?oc=5</link><description>[score: 0.871] Breakingviews - COMMENTARY: コラム：ＡＩはなぜ市場を攻略できないか、数学と異なる投資の難問 Reuters</description><guid isPermaLink="false">https://news.google.com/rss/articles/CBMikAFBVV95cUxNazNCN3NpekFIc2J2RE90bmZvbG1ldkJnc2lRMUxCVXkxbW84V1I3UFQybW5aaHBocF9IRzZpUW9JU2txYzhYd1VtRmxRY25PdWxLQXRFd0wxRmQwOHFtVzczczFPcm9ZUFM4Y29MbWRsbmx0VnpPZWU1VGZiVEdhNG5UNlBLN016QzJUVHRrbUk?oc=5</guid><pubDate>Fri, 27 Nov 2026 23:47:06 +0000</pubDate></item><item><title>エンジニアが見落としがちな5つのアウトプット ～ Qiita・生成AIを活用した実践方法 ～</title><link>https://qiita.com/ayatokura/items/bb2c22e6254cd702ab2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.871] こんにちは。職業「戸倉彩」です。
-技術コミュニティ の魅力は、多様な知識や経験、価値観を持つ人たちが出会い、互いに刺激を受けながら成長できることにあると感じています。一人ひとりの視点を尊重し、日々の気づきや新たな挑戦にも価値を見いだせる文化を育んでいきたい。そんな思いから、今回は 「アウトプット」 をテーマに記事を書きました。
-はじめに
-「アウトプット」＝技術記事の執筆だけではない
-「エンジニアのアウトプット」というと、技術記事の執筆やカンファレンス登壇、OSSへのコード提供をイメージする方が多いのではないでしょうか。しかし、日々の開発業務や技術コミュニティでの活動には、見落とされがちなアウト</description><guid isPermaLink="false">https://qiita.com/ayatokura/items/bb2c22e6254cd702ab2e?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Fri, 27 Nov 2026 20:44:46 +0000</pubDate></item><item><title>Docker HubのPHP公式イメージから自前ビルドへ移行 〜Debian移行と最適化で稼働Pod数を約25%削減〜 - COLOPL Tech Blog</title><link>https://blog.colopl.dev/entry/2026/11/27/110000</link><description>[score: 0.872] Docker HubのPHP公式イメージから自前ビルドへ移行 〜Debian移行と最適化で稼働Pod数を約25%削減〜 - COLOPL Tech Blog こんにちは、サーバー基盤グループの駒崎です。 Google Kubernetes Engine（GKE）などコンテナ上で動く複数のゲームタイトル向けに、社内共通のPHPベースイメージを運用しています。インフラのCPU効率を基盤側から改善しようと手を入れた結果、Docker Hubの php 公式イメージをやめて、php.net のソースコードから自前で...</description><guid isPermaLink="false">https://blog.colopl.dev/entry/2026/11/27/110000</guid><pubDate>Sat, 28 Nov 2026 02:16:51 +0000</pubDate></item><item><title>NISAが広がる時代、お金の学びはいつから始めるべきか【まとめ3選】</title><link>https://forbesjapan.com/articles/detail/108776?s=ns</link><description>[score: 0.872] 2027年1月、未成年者を対象にした「こどもNISA」が始まる予定だ。17歳以下の子どもを持つ親の約7割は、教育資金に不安を抱えている。新NISAで資産運用が身近になる一方、実践的な金融教育の機会は海外に比べて決定的に足りないという指摘もある。
-お金の学びは、いつから始めるべきか。Forbes JAPAN の記事から3本を紹介する。
-こどもNISAに、親の4割が期待
-2027年1月に始まる「こどもNISA」について、「利用したい」「どちらかといえば利用したい」と答えた親は合わせて39.3％だった。教育資金の準備方法は預金が49.8％でトップ、2位の投資（35.2％）が3位の学資保険（35.0％</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108776?s=ns</guid><pubDate>Sat, 28 Nov 2026 01:41:23 +0000</pubDate></item><item><title>なぜ、売名で熊狩りする人が居ないのか</title><link>https://anond.hatelabo.jp/20261127093828</link><description>[score: 0.874] どうして売名目的で熊狩りする人っていないんだろう。
-命懸けなのは分かるけど、熊なんか倒したらめちゃくちゃ有名になれると思うんだけど。
-YouTuberとかインフルエンサーが山に入って熊を探して、見つけたら退治する動画とか絶対バズるでしょ。
-熊が出たら警察や猟友会に頼るんじゃなくて、俺が行きます！っていう人がいてもよさそうなのに。
-命懸けだから誰もやらないのかな。でも中途半端なことじゃバズらないし、だれもやっていない、命懸けのことをやって有名になるのが売名じゃないの？
-Permalink | 記事への反応(1) | 09:38
-ツイート シェア
-それって撮影１日でカタつけられる？
-別に何日かかっ</description><guid isPermaLink="false">https://anond.hatelabo.jp/20261127093828</guid><pubDate>Sat, 28 Nov 2026 02:39:23 +0000</pubDate></item><item><title>『グランド・セフト・オートVI』、発売1週間で5300万本を突破──売上高は7520億円を記録</title><link>https://forbesjapan.com/articles/detail/108975?s=ns</link><description>[score: 0.874] 『グランド・セフト・オートVI』（GTA 6）は、発売直後から記録的な高評価と販売実績を上げ、ゲーム史に残る滑り出しを見せている。米国時間2026年11月20日の公式発表によると、ゲームなどのレビュー評価を集計するMetacriticで100点満点中99点を獲得した。新たに明らかになった販売本数の推計は、GTA 6の数々の記録の中でも最も驚くべき数字かもしれない。
-発売から約1週間で5300万本、推計売上高は約7520億円
-GTA 6の開発元は、米ナスダック上場のゲーム大手テイクツー・インタラクティブ傘下のロックスター・ゲームスだ。
-ロックスター・ゲームスが11月20日に公表した推計によると、</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108975?s=ns</guid><pubDate>Sat, 28 Nov 2026 02:40:05 +0000</pubDate></item><item><title>米株先物が上昇、エヌビディアやアンソロピックなど時間外取引でAI関連株が反発</title><link>https://forbesjapan.com/articles/detail/108977?s=ns</link><description>[score: 0.876] 米国時間2026年11月27日早朝、米株価指数先物が急伸した。ナスダック100先物が2.4％近く上昇し、相場をけん引した。人工知能（AI）業界への懸念と金利上昇で相場は数週間にわたり不安定だったが、短縮取引を控えた時間外取引ではエヌビディアや米生成AI開発企業アンソロピック（Anthropic）などのAI関連株が反発した。
-米主要3指数の先物が上昇、AI関連株も取引開始前に反発
-テクノロジー株の比率が高いナスダック100先物は11月27日早朝に2.4％上昇した。S&amp;P500種指数先物は1.7％、ダウ工業株30種平均先物は1.3％上げた。
-取引開始前の時間外取引で、エヌビディアは約4.2％上昇し</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108977?s=ns</guid><pubDate>Fri, 27 Nov 2026 23:12:48 +0000</pubDate></item><item><title>自民 麻生副総裁 茂木外相らが会談 消費税減税法案など成立を</title><link>https://news.web.nhk/newsweb/na/nd-20261127de82796</link><description>[score: 0.876] 自民党の麻生副総裁と茂木外務大臣らが27日夜、会談し、関文部科学大臣への問責決議案の否決を受けて、食料品の消費税減税関連法案などの成立に向けて緊張感を持って対応していくことを確認しました。
-自民党…
-あわせて読みたい
-あす朝にかけ関東 近畿などで激しい雨のおそれ 広範囲で不安定
-11月27日 18:12
-東京23区 11月消費者物価指数上昇 物価高でクリスマスケーキは
-11月27日 19:34
-12月使用分の電気料金 大手10社で値下がり 政府の補助再開で
-11月27日 20:52
-去年の政治資金収入11％余増加 パーティー収入は37％余の増加
-11月27日 18:14
-去年の政治資金 “動画</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261127de82796</guid><pubDate>Sat, 28 Nov 2026 02:04:02 +0000</pubDate></item><item><title>『装甲騎兵ボトムズ』×押井守はいかにして実現したのか？ 髙橋良輔との“約束”と新キャラ誕生秘話【押井守監督インタビュー・前編】</title><link>https://lp.p.pia.jp/article/news/516951/index.html?detail=true</link><description>[score: 0.876] 『装甲騎兵ボトムズ』×押井守はいかにして実現したのか？ 髙橋良輔との“約束”と新キャラ誕生秘話【押井守監督インタビュー・前編】 あの“ボトムズ”を、押井守が監督する――。サンライズ50周年記念作品となる『装甲騎兵ボトムズ 灰色の魔女』で描かれるのは、戦場を生きるふたりの女性、アッシュとマキの物語だ。「魔女は私のメインテーマ」と言い... asakura-t</description><guid isPermaLink="false">https://lp.p.pia.jp/article/news/516951/index.html?detail=true</guid><pubDate>Sat, 28 Nov 2026 02:12:53 +0000</pubDate></item><item><title>タスク管理「Todoist」で利用者約6％の情報流出、対象者はパスワードや外部連携の再設定を急げ</title><link>https://forbesjapan.com/articles/detail/108971?s=ns</link><description>[score: 0.877] タスク管理サービス「Todoist」は、攻撃者がサービス提供用のシステムに侵入し、全利用者の約6％分の情報をダウンロードしたと発表した。流出したのは、メールアドレス、パスワードを変換した値（ハッシュ値）、アカウントの作成日だ。登録情報が持ち出されたのは、パスワードのハッシュ値が古い方式で保存されていたサービス初期のアカウントだという。
-盗まれた社内認証情報による侵入とTodoistの再発防止策
-Todoistは協定世界時2026年11月24日、セキュリティ告知で不正アクセスを公表した。Todoistが確認した、盗まれた開発用認証情報の最も早い使用記録は11月22日だった。23日には攻撃者が従業</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108971?s=ns</guid><pubDate>Sat, 28 Nov 2026 02:40:05 +0000</pubDate></item><item><title>AIでしか生み出せない価値とは何か ― 4つの壁と8つの価値創造 - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing</title><link>https://kaz-ataka.hatenablog.com/entry/2026/11/28/085335</link><description>[score: 0.877] AIでしか生み出せない価値とは何か ― 4つの壁と8つの価値創造 - ニューロサイエンスとマーケティングの間 - Between Neuroscience and Marketing Meguro River, in the uppermost reaches of the Shimanto River, Shikoku, Japan. Leica M10-P, Summilux-M 50mm f/1.4 ASPH., RAW. AIはすごい、これを感じていない人は僕の周りではもう殆どいない。 ちょっと指示を出せばメールの返信を書いてくれる。かなり面倒な分析も、こういうことをやりたいと伝えれば</description><guid isPermaLink="false">https://kaz-ataka.hatenablog.com/entry/2026/11/28/085335</guid><pubDate>Sat, 28 Nov 2026 02:26:11 +0000</pubDate></item><item><title>なぜAIは超難問を解けるのに、あなたの現場では“綺麗なゴミ”を量産するのか？ - サッとぶ</title><link>https://kei-1010.hatenablog.com/entry/2026/11/27/133416</link><description>[score: 0.877] なぜAIは超難問を解けるのに、あなたの現場では“綺麗なゴミ”を量産するのか？ - サッとぶ 最近のAI関連のニュースでは、人間離れした成果が次々に出ている。 167年間どの天才数学者も解けなかったリーマン予想をAnthropicのClaudeが約1,700万行のコードで形式証明したかと思えば、OpenAIのGPT-6.2 Astraは200年以上も作者不明だった1808年のスケッチブックの描き手をたった22分で突き止めた。さらに新興企業のA...</description><guid isPermaLink="false">https://kei-1010.hatenablog.com/entry/2026/11/27/133416</guid><pubDate>Sat, 28 Nov 2026 00:34:19 +0000</pubDate></item><item><title>スペースX株が約5％上昇、マスクが全米の子どもに毎年1株贈ると表明──1年あたり約1.5兆円相当</title><link>https://forbesjapan.com/articles/detail/108978?s=ns</link><description>[score: 0.880] 米国時間2026年11月27日、宇宙開発と人工知能（AI）事業を手がけるスペースXの株価は急伸し、前取引日比4.83％高で取引を終えた。世界一の富豪イーロン・マスクが、米国の子ども全員に毎年スペースX株を1株ずつ、個人として寄付すると表明したことを受けた動きだ。
-マスクとスペースXは11月25日にも、米国の子どもの資産形成を支援する税制優遇付きの投資口座「トランプ口座」を対象に、株式を寄付する計画を発表していた。約7000万口座すべてに寄付すると仮定した場合、11月27日の終値で計算した寄付総額は約3兆円に上る。
-全米の子どもへの株式寄付を拡大するマスク
-スペースX株は11月27日早朝の取引開</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108978?s=ns</guid><pubDate>Fri, 27 Nov 2026 23:42:06 +0000</pubDate></item><item><title>データセンター整備めぐり 政府が関係者向け指針策定へ</title><link>https://news.web.nhk/newsweb/na/nd-20261128de82863</link><description>[score: 0.880] 全国各地で整備が進むデータセンターをめぐって、一部の事業者と周辺住民との間で摩擦も起きる中、政府は、整備にあたって事業者や地元自治体、それに電力会社が守るべき指針を新たに策定する方針を固めました。
-…
+<rss xmlns:atom="http://www.w3.org/2005/Atom" xmlns:content="http://purl.org/rss/1.0/modules/content/" version="2.0"><channel><title>RSS AI Screening — Personalized</title><link>https://yuki2021.github.io/rss_ai_screening/custom.xml</link><description>AI-filtered RSS feed based on Raindrop.io preferences</description><atom:link href="https://yuki2021.github.io/rss_ai_screening/custom.xml" rel="self"/><docs>http://www.rssboard.org/rss-specification</docs><generator>python-feedgen</generator><language>ja</language><lastBuildDate>Sat, 28 Nov 2026 14:46:27 +0000</lastBuildDate><item><title>言語化が「わかったつもり」を助長する。言語化を過信すべきでない「3つの限界」</title><link>https://studyhacker.net/verbalization-limits</link><description>[score: 0.863] 2026年の「新語・流行語大賞」に「言語化」がノミネートされました。考えや気持ちを言葉にして、自分にも他人にもわかる形にする。その大切さに異論はありません。 ただ、この言葉をよく聞くようになって、ひとつ気になっていることがあります。言葉にできたら、わかったことになるのでしょうか。 世の中には、言葉にできないこともあります。それに、うまく説明できたと思っていても、その説明が本当のことを言っているとはかぎりません。言語化が注目されているいまだからこそ、その限界についても考えてみたいと思います。 自分が選んだ理由は、自分がいちばんよく知っている？ 言葉より先に体が感じていること 心拍をよく感じ取れる</description><guid isPermaLink="false">https://studyhacker.net/verbalization-limits</guid><pubDate>Sat, 28 Nov 2026 10:26:29 +0000</pubDate></item><item><title>データサイエンティストの Claude Code 活用術-Claude Code にデータ分析をさせる方法論</title><link>https://speakerdeck.com/yossyds/deta-saientisuto-no-claude-code-katsuyoujutsu</link><description>[score: 0.863] Share
+Embed
+データサイエンティストの Claude Code 活用術-Claude Code にデータ分析をさせる方法論
+Claude Codeによってデータサイエンティスト業務を効率化する方法論をまとめました。プロジェクトナレッジを溜める方法論から、ナレッジベースの作り方、AI時代のレビューしやすい分析コードのまとめかた（Claude.md）など多岐にわたって筆者が実践している方法論を書いています。
+よっしーDS
+November 17, 2026
+Annual Pro sale · Save $30
+Have presentations of your own?
+Share w</description><guid isPermaLink="false">https://speakerdeck.com/yossyds/deta-saientisuto-no-claude-code-katsuyoujutsu</guid><pubDate>Sat, 28 Nov 2026 07:30:55 +0000</pubDate></item><item><title>アンソロピックかオープンAIの株式で、ロサンゼルスの「48億円豪邸」を購入OK。不動産デベロッパーが語ったその理由</title><link>https://www.businessinsider.jp/article/2611-thirty-million-la-mansion-accepts-anthropic-shares-as-payment/</link><description>[score: 0.864] - フィリップ・ブラウンスタイン氏は、所有する2999万5000ドル（47億6920万5000円）の豪邸を、オープンAIかアンソロピックの株式で支払うことも可能にした。
+- ロサンゼルスの不動産デベロッパーである彼は、現地の高級住宅市場の低迷とAIへの楽観的な見方が、株式との交換を考えたきっかけだと語る。
+- ブラウンスタイン氏は、AI銘柄の価値は時間とともに何倍にもなり得るとみている。
+この記事は、不動産開発会社コロッサル・プロパティーズ（Colossal Properties）の社長フィリップ・ブラウンスタイン（Phillip Braunstein）氏への取材をもとに構成した、一人称スタイ</description><guid isPermaLink="false">https://www.businessinsider.jp/article/2611-thirty-million-la-mansion-accepts-anthropic-shares-as-payment/</guid><pubDate>Sat, 28 Nov 2026 09:08:19 +0000</pubDate></item><item><title>オープンAIがアップルを提訴 開発競争を背景に対立深まる</title><link>https://news.web.nhk/newsweb/na/nd-20261128de82903</link><description>[score: 0.864] アメリカのAI企業オープンAIが機密情報を持ち出されたとしてIT大手アップルを訴えました。アップルはこれより前、オープンAIを訴えていて、開発競争を背景に両社の対立があらわになっています。
+生成A…
 あわせて読みたい
 生成AIへの不安 「犯罪に悪用される」が73% NHK世論調査
 11月28日 5:34
-スペースXが宇宙にデータセンター網構築へ アメリカで初認可
-11月26日 19:00
-宮城県山中で身元不明2人の遺体 1人は横浜の女子高校生か 警察
-11月28日 8:39
-警察 ICC赤根所長の安全確保 最高ランク「特A」で警戒強化
-11月28日 5:03
-広範囲で大気不安定 北日本や東日</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261128de82863</guid><pubDate>Sat, 28 Nov 2026 02:04:02 +0000</pubDate></item><item><title>GMOペパボのロリポップで51万件超の情報漏えい、パスワード約10万件を平文保存</title><link>https://www.techno-edge.net/article/2026/11/28/5842.html</link><description>[score: 0.880] GMOペパボは2026年11月27日、「ロリポップ！レンタルサーバー」などのサービスで不正アクセスによる情報漏えいが発生したと公表しました。対象は51万6564件。氏名やメールアドレスに加え、一部ではパスワードも流出しており、同社はこれらを平文で保存していたことを認めています。
-対象となるのは「ロリポップ！レンタルサーバー」「ロリポップ！デプロイナウ」「ロリポップ！AIホームページ」「ロリポップ！AIエージェントクラウド」の4サービスです。同社の内部システムが不正アクセスを受け、データ分析基盤を経由して顧客情報を含むデータが外部に持ち出されました。
-同社は原因について、利用者のWebサイト側で</description><guid isPermaLink="false">https://www.techno-edge.net/article/2026/11/28/5842.html</guid><pubDate>Fri, 27 Nov 2026 23:42:03 +0000</pubDate></item><item><title>相次いだ大規模なシステム障害は、まだ序章にすぎない</title><link>https://wired.jp/article/brace-yourself-for-years-of-outage-chaos/</link><description>[score: 0.882] ここのところシステム障害が相次ぎ、大きな混乱が生じたことは多くの人が知るところだ。マイクロソフトの「Outlook」やアップルのサービス、米国の銀行約6行、ユナイテッド航空、さらには米国家安全保障局（NSA）の機密ネットワークまで、さまざまなシステムで障害が発生した。サイバー攻撃が原因だったという証拠はないものの、さまざまな憶測が飛び交っている。なかでも広がっているのが、人工知能（AI）が原因という見方だ。
-ただし、ここでひとつはっきりさせておこう。今回の障害は、AIを使った組織的なハッキング攻撃が相次いだ結果ではない。個々の障害を見れば、いずれもよくある技術的な問題で説明できるのだ。とはいえ</description><guid isPermaLink="false">https://wired.jp/article/brace-yourself-for-years-of-outage-chaos/</guid><pubDate>Fri, 27 Nov 2026 23:54:56 +0000</pubDate></item><item><title>GMO、サーバー貸出事業で不正アクセス　顧客情報51万件漏洩 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC27B210X21C26A1000000/</link><description>[score: 0.882] GMO、サーバー貸出事業で不正アクセス 顧客情報51万件漏洩 - 日本経済新聞 GMOインターネットグループ傘下のGMOペパボは27日、サーバーの貸し出しサービスで不正アクセスがあったと発表した。顧客情報51万6564件が流出した可能性がある。個人情報に加え、一部顧客のパスワード計約12万件の漏洩も確認されたという。不正アクセスがあったのはGMOペパボが提供する「ロリポップ！レンタルサーバー」...</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC27B210X21C26A1000000/</guid><pubDate>Sat, 28 Nov 2026 00:24:36 +0000</pubDate></item><item><title>GMOインターネットグループ、 「サイバー・イージス構想」第一弾 「攻撃観測ダッシュボード byGMO」を公開</title><link>https://group.gmo/news/article/10280/</link><description>[score: 0.882] 2026年11月27日
-GMOインターネットグループ、「サイバー・イージス構想」第一弾
-「攻撃観測ダッシュボード byGMO」を公開
-〜ハッカーの実態を、すべての人へ。 「侵入した攻撃者が何をしたか」「AIによる攻撃」まで見える、無料の公開サイト〜
-- GMOインターネットグループ株式会社
-GMOインターネットグループ（グループ代表：熊谷正寿）は、2026年11月27日（金）に、サイバー攻撃の実態を誰でも無料で見られるウェブサイト「攻撃観測ダッシュボード byGMO」（https://cyberaegis.gmo/dashboard/）を公開しました。
-本サイトは、当社がインターネット上に設置</description><guid isPermaLink="false">https://group.gmo/news/article/10280/</guid><pubDate>Fri, 27 Nov 2026 23:12:24 +0000</pubDate></item><item><title>AI活用マーケティングについて、すべてのCEOが問うべき3つの質問</title><link>https://forbesjapan.com/articles/detail/108985?s=ns</link><description>[score: 0.882] 1人目のCEOは、停滞するパイプラインの改善を期待し、AIを活用したアウトバウンドマーケティングへの投資をチームに促した。だが、開始前に自社のポジショニングを見直すべきだという提案は無視した。パイプラインは動かず、原因がツールにあるのか、ポジショニングにあるのかは明確にならなかった。
-2人目のCEOは、スピードと差別化を期待し、マーケティング全体でAI生成コンテンツを承認した。チームはコンテンツ制作を拡大できたものの、そのコンテンツには説得力のある視点が欠けていた。文章としてはよくできていたが、競合が作るものと見分けがつかなかった。
-3人目のCEOのマーケティングチームはAI熱心なメンバーで構</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108985?s=ns</guid><pubDate>Fri, 27 Nov 2026 23:42:06 +0000</pubDate></item><item><title>45歳で大学生の子供2人持ちだから稼ぎたいという人が入社、初日に助手席に乗せて車庫を出たら携帯2台手に持ってスマホゲーム、その後楽な仕事を要求して最後は辞めていった</title><link>https://togetter.com/li/2775912</link><description>[score: 0.883] 45歳で大学生の子供2人持ちだから稼ぎたいという人が入社、初日に助手席に乗せて車庫を出たら携帯2台手に持ってスマホゲーム、その後楽な仕事を要求して最後は辞めていった たくやん。 @takuro_mi うちの会社に45歳で大学生の子供2人持ちだから稼ぎたいって奴が入ってきて、じゃあ時間長いし手作業もあるけど1番稼げる俺と同じ仕事をやらせようって事で横乗せて教えてたんですよ。したら初日の車庫出て5分で携帯2台手に持ってスマホゲーム。その時点で常識ねぇなとは思ったんだけど 2026-11-27...</description><guid isPermaLink="false">https://togetter.com/li/2775912</guid><pubDate>Sat, 28 Nov 2026 02:08:54 +0000</pubDate></item><item><title>スマホの「マイナアプリ」に脆弱性、不正リンクからマイナンバーカード情報窃取のおそれ／iOS版/Android版ともに最新バージョンへのアップデートを</title><link>https://forest.watch.impress.co.jp/docs/news/2160150.html</link><description>[score: 0.883] ニュース
-スマホの「マイナアプリ」に脆弱性、不正リンクからマイナンバーカード情報窃取のおそれ
-iOS版/Android版ともに最新バージョンへのアップデートを
-2026年11月27日 20:40
-脆弱性対策情報ポータルサイト「JVN」は11月27日、脆弱性レポート「JVN#19729125」を公開した。デジタル庁が提供するスマートフォンアプリ「マイナアプリ」（旧：マイナポータルアプリ）に、複数の脆弱性が存在するという。
-今回公表された脆弱性は、入力リストによる制限が不十分なことに起因する。利用者が不正なリンクを開くと、攻撃者が指定したサイトに誘導され、フィッシング被害に遭ったり、マイナンバーカ</description><guid isPermaLink="false">https://forest.watch.impress.co.jp/docs/news/2160150.html</guid><pubDate>Sat, 28 Nov 2026 01:25:34 +0000</pubDate></item><item><title>不正アクセス被害のKARTE、12億人分のデータ解析　止まらぬ漏洩 - 日本経済新聞</title><link>https://www.nikkei.com/article/DGXZQOUC26A6E0W6A121C2000000/</link><description>[score: 0.885] この記事は会員限定記事です
-不正アクセス被害のKARTE、12億人分のデータ解析 止まらぬ漏洩
-[会員限定記事]
-プレイドのウェブ解析サービス「KARTE（カルテ）」を起点とする情報流出が止まらない。カルテは月間のべ12億人分の消費者データを解析し、行動履歴を活用して顧客を広げてきた。収益の源泉だった個人情報が一転、漏洩時には「負債」となるリスクが浮き彫りになった。
-ピーチやZOZOでも流出、のべ2億件超に
-ANAホールディングス傘下の格安航空会社（LCC）、ピーチ・アビエーション（大阪府泉佐野市）は顧客の...
-個人情報漏洩の事案が相次いでいます。最新ニュース・解説をまとめました。
-■個人情</description><guid isPermaLink="false">https://www.nikkei.com/article/DGXZQOUC26A6E0W6A121C2000000/</guid><pubDate>Sat, 28 Nov 2026 02:12:53 +0000</pubDate></item><item><title>さらに進化した未公表AIが「暗号技術を突破」する可能性、ビットコイン価格急落の懸念</title><link>https://forbesjapan.com/articles/detail/108993?s=ns</link><description>[score: 0.886] ビットコインは今週初めの急落から回復した。一方で、「国家レベル」の攻撃への懸念により、iPhoneユーザーに対する深刻な警告が出ている。
-ビットコイン価格は1BTCあたり6万2000ドルを再び上回った。先週には5万5000ドルの安値まで下落していたが、これはドナルド・トランプ米大統領が2024年末にホワイトハウスに復帰する前以来の水準だった。
-現在、AIバブル崩壊への懸念から2008年の金融危機時のような「世代に一度」の救済策を予測する声が高まっている。そうしたなか、AI企業が未公表の「爆弾級成果」を握っているとの警告が浮上し、ビットコインをはじめとする暗号資産市場に新たなショックが起きるとの</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108993?s=ns</guid><pubDate>Sat, 28 Nov 2026 02:40:05 +0000</pubDate></item><item><title>アンソロピック株、11％急騰──上場初日以来の大幅高で公開価格を回復</title><link>https://forbesjapan.com/articles/detail/108981?s=ns</link><description>[score: 0.895] 米国時間2026年11月27日、米生成AI開発企業のアンソロピック（Anthropic）の株価が11％上昇した。大きな注目を集めた11月19日の上場初日に公開価格から17％超上昇して以来、最大の上昇率だ。人工知能（AI）を巡る懸念から売りが続いていたテクノロジー株が反発した。
-アンソロピックはIPO（新規株式公開）を経て、11月19日にナスダックに上場した。証券コードは「ANT」だ。
-アンソロピック株が公開価格を回復
-米国の感謝祭翌日に当たるブラックフライデーで取引時間が短縮された11月27日、アンソロピック株は91.88ドルで取引を終えた。取引時間中には93ドル台まで上昇し、11月23日以来</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108981?s=ns</guid><pubDate>Fri, 27 Nov 2026 22:16:36 +0000</pubDate></item><item><title>ドナルド・トランプ大統領、米株急落に懸念もエヌビディアのフアン復帰を擁護</title><link>https://forbesjapan.com/articles/detail/108980?s=ns</link><description>[score: 0.915] ドナルド・トランプ大統領は米国時間2026年11月26日の感謝祭の夜、25日の株式市場の急落に一時不安を覚えたと認めた。半導体大手エヌビディアのジェンスン・フアンを最高経営責任者（CEO）に復帰させた自らの功績を改めて強調し、富豪のフアンは米国の国家安全保障上の脅威にはならないとの見方を繰り返した。
-フアンが外国の情報工作の標的になったと報じられたことを受け、エヌビディアの取締役会は11月8日、独立取締役による調査の開始を発表した。フアンは12日に社長、CEO、取締役を退任したが、23日に取締役会の全会一致の決定で3つの役職に復帰した。
-エヌビディアの取締役会は、米政府高官から得た情報に基づき</description><guid isPermaLink="false">https://forbesjapan.com/articles/detail/108980?s=ns</guid><pubDate>Sat, 28 Nov 2026 01:41:23 +0000</pubDate></item></channel></rss>
+データセンター整備めぐり 政府が関係者向け指針策定へ
+11月28日 10:47
+米でブラックフライデー 年末商戦が本格化 個人消費に注目
+11月28日 5:11
+宮城の山中の2人遺体 1人は一部白骨化 身元の手がかりなし
+11月28日 22:13
+警察 ICC赤根所長の安全確保 最高ランク「特</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261128de82903</guid><pubDate>Sat, 28 Nov 2026 07:15:58 +0000</pubDate></item><item><title>https://ieeexplore.ieee.org/document/10892091/</title><link>https://ieeexplore.ieee.org/document/10892091/</link><description>[score: 0.865] https://ieeexplore.ieee.org/document/10892091/ yuiseki</description><guid isPermaLink="false">https://ieeexplore.ieee.org/document/10892091/</guid><pubDate>Sat, 28 Nov 2026 11:16:08 +0000</pubDate></item><item><title>空間知能と大規模世界モデルのアーキテクチャ：World Labsが描く生成AIのパラダイムシフトと既存モデルとの徹底比較｜laboautomation</title><link>https://note.com/laboautomation/n/n031a979f05c8</link><description>[score: 0.865] 空間知能と大規模世界モデルのアーキテクチャ：World Labsが描く生成AIのパラダイムシフトと既存モデルとの徹底比較
+1. 序論：人工知能における「失われた次元」の探求
+21世紀初頭の人工知能（AI）研究は、主に「記号」と「パターン」の処理において爆発的な進化を遂げました。大規模言語モデル（LLM）の台頭により、AIは人間と同等、あるいはそれ以上の言語能力を獲得し、複雑な推論や創造的な記述が可能になりました。しかし、このデジタルな知性には決定的な欠落があります。それは「身体性」と「空間的理解」です。現在の生成AIは、シェイクスピアのようなソネットを書くことはできても、散らかった部屋を片付け</description><guid isPermaLink="false">https://note.com/laboautomation/n/n031a979f05c8</guid><pubDate>Sat, 28 Nov 2026 11:16:08 +0000</pubDate></item><item><title>GPT-6.2 Astraが歴史学者もわからなかった「1808年に描かれた北米旅行のスケッチブック」の作者を22分で特定</title><link>https://gigazine.net/news/20261126-gpt-62-astra-solves-a-historical-mystery/</link><description>[score: 0.866] GPT-6.2 Astraが歴史学者もわからなかった「1808年に描かれた北米旅行のスケッチブック」の作者を22分で特定 OpenAIがリリースしたAIモデル「GPT-6.2 Astra」が、専門の歴史学者でさえわからなかった1808年に描かれたスケッチブックの作者を、わずかな手がかりからたった22分で特定してしまったと報告されました。 GPT 6.2... Cherenkov</description><guid isPermaLink="false">https://gigazine.net/news/20261126-gpt-62-astra-solves-a-historical-mystery/</guid><pubDate>Sat, 28 Nov 2026 12:20:57 +0000</pubDate></item><item><title>中学生不明 父親が新たな写真公開し情報提供求める 福島 郡山</title><link>https://news.web.nhk/newsweb/na/nd-20261128de83037</link><description>[score: 0.867] 福島県郡山市で行方が分からなくなっている中学1年の男子生徒について、父親が新たな写真や動画を公開し、広く情報提供を求めています。
+11月20日の夜から行方が分からなくなっているのは、福島県郡山市に…
+注目ワード
+あわせて読みたい
+大気不安定続く 北～東日本 標高の高いところ中心に雪の見込み
+11月28日 18:51
+航空機に乱気流知らせる注意情報1000件余 事故防ぐ対策に課題
+11月28日 19:38
+“エヌビディア半導体 輸出規制先の中国で確認”米メディア
+11月28日 19:15
+フィギュアNHK杯 男子シングル マリニンが優勝【全種目 結果】
+11月28日 23:37
+通販「フェリシモ</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261128de83037</guid><pubDate>Sat, 28 Nov 2026 12:29:19 +0000</pubDate></item><item><title>Amazonブラックフライデーのオススメは?　注目商品を編集部がセレクト</title><link>https://www.watch.impress.co.jp/docs/news/2160168.html</link><description>[score: 0.868] ニュース
+Amazonブラックフライデーのオススメは? 注目商品を編集部がセレクト
+2026年11月28日 18:30
+Amazonの大型セール「Amazon ブラックフライデー」が11月30日から12月7日まで開催されます。期間は8日間ですが、27日から「先行セール」が開始されており、実質11日間のセールとなります。
+人気商品や日用品など、過去最大の約400万点を特別価格で販売。プライム会員でなくても利用できる大規模セールです。期間中はポイントアップやdポイント関連のキャンペーン、スタンプラリー、Amazonネットスーパーでのセールも開催しています。
+セール対象品は家電や日用品、食料品、衣料</description><guid isPermaLink="false">https://www.watch.impress.co.jp/docs/news/2160168.html</guid><pubDate>Sat, 28 Nov 2026 09:31:40 +0000</pubDate></item><item><title>CTOからエンジニアへ</title><link>https://speakerdeck.com/mirakui/20261127-yapc-lt</link><description>[score: 0.868] CTOからエンジニアへ
+YAPC::Tokyo 2026
+https://blog.yapcjapan.org/entry/2026/11/13/182428
+Issei Naruta
+November 28, 2026
+Annual Pro sale · Save $30
+Have presentations of your own?
+Share with private links, password protection, and more control over your work.</description><guid isPermaLink="false">https://speakerdeck.com/mirakui/20261127-yapc-lt</guid><pubDate>Sat, 28 Nov 2026 12:35:09 +0000</pubDate></item><item><title>Claude Code の作業環境を Mac から GitHub とクラウドへ移して、Duet からも使えるようにした</title><link>https://qiita.com/okeee0315/items/262ca780e38f6b3dcd3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.869] Claude Code を毎日の仕事に使っています。朝のブリーフィング、タスク管理、日次のまとめ、定期的な資料づくりなどを、自作のスキルやルールで回しています。
+Claude Duet が使えるようになったのをきっかけに、この環境を Mac のローカルから GitHub とクラウド（Claude Code on the web）へ移しました。1 日目に Mac の設定を GitHub のリポジトリにまとめ、2 日目にそのリポジトリをクラウドで動かしました。この記事では、その手順を書きます。途中でハマったところは別の記事にまとめます。
+なぜ移したか
+Claude Duet が使えるようになって、</description><guid isPermaLink="false">https://qiita.com/okeee0315/items/262ca780e38f6b3dcd3b?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 28 Nov 2026 08:12:48 +0000</pubDate></item><item><title>Claude Code の Skill で「根拠のない指摘」を出さない SEO 監査を作る（SKILL.md と検証スクリプト全文）</title><link>https://qiita.com/palafonda67/items/e3cea9a483a4335f9e6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.870] LLM に「このページの SEO を見て」と頼むと、もっともらしい指摘がたくさん返ってきます。ただ、その中には確かめられていないものが混ざります。meta description が 150 文字あるのに「短すぎます」と言ったり、canonical があるのに「設定されていません」と言ったり。LLM は文字数を数えるのが苦手ですし、実際には見ていない HTML についても文章を書けてしまうからです。
+この記事では、Claude Code の Skill として、すべての指摘に根拠を付けさせ、その根拠をスクリプトで照合し、通らなかった指摘は出させない SEO 監査を作ります。使うのは Pytho</description><guid isPermaLink="false">https://qiita.com/palafonda67/items/e3cea9a483a4335f9e6c?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 28 Nov 2026 08:12:48 +0000</pubDate></item><item><title>今度のターゲットはしまむら、虚偽の性被害体験がまたバズる</title><link>https://posfie.com/@Elif87995911/p/q8r0umO</link><description>[score: 0.870] 週刊誌に載ってないから嘘松みたいなクソリプしてる男なんなん そんなん報道されたら生活しにくくなるから提供しないだろアホか x.com/haruurarahare/…
+2026-11-28 09:54:35ノーコメでスルーしようと思ったけど都市伝説とかフェイクとか言ってくるヤツ多いので。たぶん、これうちの近所で実際に起きた事件。一緒に来店した祖父母がたしか自殺。この事件を境にトイレを店外側面から店内入口に改装したし他社の店舗も一気に改装の流れ。犯人は捕まっていない。 x.com/haruurarahare/…
+2026-11-28 08:50:48これ都市伝説とか言われてるけど実際うちの近所であ</description><guid isPermaLink="false">https://posfie.com/@Elif87995911/p/q8r0umO</guid><pubDate>Sat, 28 Nov 2026 13:21:38 +0000</pubDate></item><item><title>ロシア、アルメニアに陣営選択迫る EU側かロシア側か</title><link>https://www.afpbb.com/articles/-/3664615</link><description>[score: 0.870] ロシア、アルメニアに陣営選択迫る EU側かロシア側か ロシアのウラジーミル・プーチン大統領（2026年11月25日撮影）。(c)Ramil Sitdikov/POOL/AFP 【11月28日 AFP】ロシア大統領府（クレムリン）は27日、カフカス地方の小国アルメニアのニコル・パシニャン首相が来週モスクワを訪問するのを前に、欧州連合（EU）加盟を目指すか、ロシア主導のユーラシア経済連合（EAEU）にと...</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3664615</guid><pubDate>Sat, 28 Nov 2026 11:30:11 +0000</pubDate></item><item><title>https://onlinelibrary.wiley.com/doi/10.1111/cgf.12077</title><link>https://onlinelibrary.wiley.com/doi/10.1111/cgf.12077</link><description>[score: 0.870] https://onlinelibrary.wiley.com/doi/10.1111/cgf.12077 yuiseki</description><guid isPermaLink="false">https://onlinelibrary.wiley.com/doi/10.1111/cgf.12077</guid><pubDate>Sat, 28 Nov 2026 11:16:08 +0000</pubDate></item><item><title>防衛費5年「60兆円弱」で調整　安保3文書、米側は難色 | NEWSjp</title><link>https://news.jp/i/1499333120076284499</link><description>[score: 0.871] 政府は、安全保障関連3文書改定で示す2027年度から5年間の防衛費総額を60兆円弱とする調整に入った。高市早苗首相が最終判断した上で、12月初旬にも防衛、財務両省に財源確保を指示する方向だ。関係者が28日明らかにした。防衛省が試算した70兆～80兆円から大きく圧縮する方針は変わらず、与党は反発している。トランプ米政権も水面下で不満を示しており、理解を得られるかは見通せていない。
+官邸は11月上旬、防衛省側に総額を56兆円程度とする案を内々に伝えた。防衛省の試算を大きく下回ったため、自民党や日本維新の会から批判が噴出。下旬に再調整し、一定額を上積みする方向となった。
+関係者によると、米側は総額6</description><guid isPermaLink="false">https://news.jp/i/1499333120076284499</guid><pubDate>Sat, 28 Nov 2026 13:23:59 +0000</pubDate></item><item><title>エラーを 3 秒で AI に丸投げする若手を見て、AI から答えを取り上げることにした - Qiita</title><link>https://qiita.com/jksoft/items/65f7824679ddf171a93d</link><description>[score: 0.873] 本記事に対して経営層、マネージャー、エンジニアの方など多くのレスポンスをいただき、同じような課題感が多く存在することがわかりました。将来的には、開発だけではなく、幅広くユースケースを考えていきたいと思います。
+2026/11 追記：いただいたコメントへの返答も含めて、続きを書きました。上長として、AI時代にエンジニアの何を評価すればいいのか、という話です。
+AIから答えを取り上げてみたけど、結局、上長はエンジニアの何を評価すればいいのか【リンク修正】
+「見事な手さばき」を笑えなかった話
+先日、隣の席の若手エンジニアの画面をたまたま見て、手が止まりました。
+エラーが出る。
+コピーする。
+AI に</description><guid isPermaLink="false">https://qiita.com/jksoft/items/65f7824679ddf171a93d</guid><pubDate>Sat, 28 Nov 2026 10:16:46 +0000</pubDate></item><item><title>台湾統一地方選挙 激戦の台北市長選挙で国民党現職が勝利宣言</title><link>https://news.web.nhk/newsweb/na/nd-20261128de83073</link><description>[score: 0.873] 台湾で、再来年の総統選挙の前哨戦とされる統一地方選挙が行われ、激戦となった台北市長選挙で、国民党の現職、蒋万安氏が勝利を宣言しました。
+台湾の自治体のトップや議員などを選ぶ統一地方選挙は、28日投…
+あわせて読みたい
+台湾 統一地方選挙 開票始まる 政権基盤を強化できるか注目
+11月28日 17:58
+“エヌビディア半導体 輸出規制先の中国で確認”米メディア
+11月28日 19:15
+ガザ平和評議会の上級代表「今こそハマスの武装解除を」
+11月28日 19:01
+ドイツ連邦議会が予算案可決 防衛予算 冷戦終結以降 最大に
+11月28日 21:12
+北朝鮮 12月下旬に党の重要会議開催 外交や核</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261128de83073</guid><pubDate>Sat, 28 Nov 2026 14:29:39 +0000</pubDate></item><item><title>AIエージェント中心アーキテクチャ―人の判断を仕組みに移し、チームの役割を変えるまで / architecture-con2026</title><link>https://speakerdeck.com/visional_engineering_and_design/architecture-con2026</link><description>[score: 0.873] AIエージェント中心アーキテクチャ―人の判断を仕組みに移し、チームの役割を変えるまで / architecture-con2026 2026年11月26日より開催の「アーキテクチャConference 2026」の登壇資料です。 https://architecture-con.findy-tools.io/2026 ▼関連情報 AI駆動開発が変える、大規模開発の前提 ーHuman in the Loop から Human…</description><guid isPermaLink="false">https://speakerdeck.com/visional_engineering_and_design/architecture-con2026</guid><pubDate>Sat, 28 Nov 2026 10:52:03 +0000</pubDate></item><item><title>“エヌビディア半導体 輸出規制先の中国で確認”米メディア</title><link>https://news.web.nhk/newsweb/na/nd-20261128de82966</link><description>[score: 0.874] アメリカのメディア、ブルームバーグは半導体大手エヌビディア製の先端半導体を搭載したサーバーが中国、上海のデータセンターに設置されていたと報じました。
+データセンターはエヌビディアのCEOジェンスン・…
+あわせて読みたい
+エヌビディアが東南アジア4か国への輸出を停止 欧米メディア
+11月27日 8:00
+【詳しく】エヌビディアCEO フアン氏が復帰へ 水面下の動きは
+11月24日 17:45
+生成AIへの不安 「犯罪に悪用される」が73% NHK世論調査
+11月28日 5:34
+オープンAIがアップルを提訴 開発競争を背景に対立深まる
+11月28日 13:55
+宮城の山中の2人遺体 1人は一部白</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261128de82966</guid><pubDate>Sat, 28 Nov 2026 09:19:35 +0000</pubDate></item><item><title>生成AIは知的労働能力を「ドーピング」することはできるが、「定着」させることはできない - 渋谷駅前で働くデータサイエンティストのブログ</title><link>https://tjo.hatenablog.com/entry/2026/11/28/185602</link><description>[score: 0.875] 生成AIは知的労働能力を「ドーピング」することはできるが、「定着」させることはできない - 渋谷駅前で働くデータサイエンティストのブログ 先日のことですが、以下のNature Human Behavior掲載論文がSNSで話題になっているのを見かけました。 最初に見た時はそれほど反応が伸びていなかったんですが、後日メディアで取り上げられたことで再度バズっていたのでした。 既に様々な媒体で解説記事が出ているので何番煎じになるかもはや分からない有様ですが、自分...</description><guid isPermaLink="false">https://tjo.hatenablog.com/entry/2026/11/28/185602</guid><pubDate>Sat, 28 Nov 2026 11:43:37 +0000</pubDate></item><item><title>高市首相が脱法スキームで企業献金を受け取っていた〈大阪の建設会社グループから総額3000万円〉 | 週刊文春</title><link>https://bunshun.jp/denshiban/articles/b15352</link><description>[score: 0.876] 高市首相が脱法スキームで企業献金を受け取っていた〈大阪の建設会社グループから総額3000万円〉 | 週刊文春 高市早苗首相（65）が大阪府内の建設会社グループ4社から総額3000万円に及ぶ企業献金を受け取っていたことが「週刊文春」の取材で分かった。政治資金規正法が規制する上限額を逃れるための脱法的な企業献金の疑いがある。 問題となるのは、高市氏が代表を務める「自民党奈良県第二選挙区支部」だ。2025年分の政治資金収...</description><guid isPermaLink="false">https://bunshun.jp/denshiban/articles/b15352</guid><pubDate>Sat, 28 Nov 2026 13:23:59 +0000</pubDate></item><item><title>https://dl.acm.org/doi/10.1145/3519941.3535065</title><link>https://dl.acm.org/doi/10.1145/3519941.3535065</link><description>[score: 0.876] https://dl.acm.org/doi/10.1145/3519941.3535065 yuiseki</description><guid isPermaLink="false">https://dl.acm.org/doi/10.1145/3519941.3535065</guid><pubDate>Sat, 28 Nov 2026 13:21:38 +0000</pubDate></item><item><title>AIも僕もボールを落とす構造。暗黙の状態マシン｜仲村トウ</title><link>https://note.com/count0interrupt/n/n000b7d972fb5</link><description>[score: 0.877] AIも僕もボールを落とす構造。暗黙の状態マシン
+Xで、Steve Ruiz のポストが流れてきた。「良いプロンプト：私のアプリ内のすべての暗黙の状態マシンを探す」。
+非エンジニアである僕にはピンとこない。でも、気になる。
+暗黙の状態マシンって何だ。言葉が面白すぎる。
+暗黙の状態マシン
+業務ハーネスの設計を相談している Opus に、疑問をそのまま投げてみた。答えは以下のとおり。
+状態マシンは、いまどの段階にいて、何が起きたら次のどの段階に進むかを決める仕組みのこと。自動販売機で言えば、お金を入れる前と、入れた後と、商品を出している最中。同じボタンを押しても、どの段階にいるかで動きが変わる。普通</description><guid isPermaLink="false">https://note.com/count0interrupt/n/n000b7d972fb5</guid><pubDate>Sat, 28 Nov 2026 13:21:38 +0000</pubDate></item><item><title>【GitHub日報】初登場ゼロが8日連続、spec-kitが再ランクイン — 2026-11-28</title><link>https://qiita.com/Git_Dayori/items/fbd342d5ad92c7552e29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</link><description>[score: 0.877] GitHub Trending から、日本の開発者に役立ちそうなリポジトリを毎日ピックアップしてお届けします。
+🆕 初登場（First Timers）
+今日初めてトレンド入りしたリポジトリ。
+（該当なし）
+🔁 常連（Repeat Performers）
+過去にもトレンド入りしたリポジトリ。
+| リポジトリ | ⭐ スター | 📈 増加 | 言語 | 概要 |
+|---|---|---|---|---|
+| elementalsouls/Claude-BugHunter | 25,996 | +1,615 | Python | Claude向けバグハンティングスキル集。85スキルと681の脆弱性</description><guid isPermaLink="false">https://qiita.com/Git_Dayori/items/fbd342d5ad92c7552e29?utm_campaign=popular_items&amp;utm_medium=feed&amp;utm_source=popular_items</guid><pubDate>Sat, 28 Nov 2026 08:12:48 +0000</pubDate></item><item><title>パスキーは最強で美しいよ、正しく実装すればね</title><link>https://zenn.dev/kantacky/articles/b5a03eab70c7b1</link><description>[score: 0.878] 近年、パスワード漏洩やフィッシングによる不正アクセス、さらには証券口座の乗っ取りといった認証にまつわるセキュリティ事件が後を絶ちません。こうしたニュースが出るたびに、「パスワードを使い回さないようにしよう」「SMS や認証アプリによる 2 段階認証を設定しよう」といった対策記事や呼びかけを目にします。 しかし、現在の攻撃手法はそれよりも一歩先を行っており、偽サイトを中継してリアルタイムに認証情報を奪う リアルタイムフィッシング（AiTM: Adversary-in-the-Middle 攻撃） の前では、従来の SMS や認証アプリを使った 2 段階認証すら突破されてしまいます。実際、金...</description><guid isPermaLink="false">https://zenn.dev/kantacky/articles/b5a03eab70c7b1</guid><pubDate>Sat, 28 Nov 2026 13:04:34 +0000</pubDate></item><item><title>アフガン東部の鉱山開発会社で爆発 子ども7人死亡 90人超けが</title><link>https://news.web.nhk/newsweb/na/nd-20261128de83075</link><description>[score: 0.879] アフガニスタン東部の鉱山の開発会社の施設で大規模な爆発が起き、近くの学校に登校していた児童や生徒少なくとも7人が死亡し、90人以上がけがをしました。
+アフガニスタンで実権を握るイスラム主義勢力タリ…
+注目ワード
+あわせて読みたい
+“エヌビディア半導体 輸出規制先の中国で確認”米メディア
+11月28日 19:15
+台湾 統一地方選挙 開票始まる 政権基盤を強化できるか注目
+11月28日 17:58
+ガザ平和評議会の上級代表「今こそハマスの武装解除を」
+11月28日 19:01
+ドイツ連邦議会が予算案可決 防衛予算 冷戦終結以降 最大に
+11月28日 21:12
+北朝鮮 12月下旬に党の重要会議開</description><guid isPermaLink="false">https://news.web.nhk/newsweb/na/nd-20261128de83075</guid><pubDate>Sat, 28 Nov 2026 14:29:39 +0000</pubDate></item><item><title>【分析】トランプ氏が見せつけるむき出しの力、驚くべき行動は何を意味するか(1/2)</title><link>https://www.cnn.co.jp/usa/35255542.html</link><description>[score: 0.880] 司法省に到着して演説を行うトランプ米大統領＝11月23日、首都ワシントン /Andrew Harnik/Getty Images （CNN） トランプ米大統領が先日ロシア、中国両国の独裁的指導者と開いた首脳会談は、権力者たちが何でも自分の思い通りにできることをうかがわせた。 トランプ氏が23日、それを証明した。 大方の見方では世界で最も重要な企業とされる米半導体大手、エヌビディアのジェンスン・フアン最高経営責任者（CEO）の復帰に、自身がどう影響力を行使したかを語ったのだ。 トランプ氏はフアン氏を野球のオールスター選手に例え、米国の経済と国防産業にとって（ひいてはトランプ氏自身の政治的な命運に</description><guid isPermaLink="false">https://www.cnn.co.jp/usa/35255542.html</guid><pubDate>Sat, 28 Nov 2026 09:17:26 +0000</pubDate></item><item><title>1週間以上バッテリーが持続するスマートウォッチ「Google Fitbit Edge」を1カ月以上使ってみたよレビュー</title><link>https://gigazine.net/news/20261128-google-fitbit-edge-review/</link><description>[score: 0.887] 1週間以上バッテリーが持続するスマートウォッチ「Google Fitbit Edge」を1カ月以上使ってみたよレビュー
+「Google Fitbit Edge」は多機能スマートウォッチ「Google Pixel Watch」と画面なしスマートトラッカー「Google Fitbit Air」の中間的な立ち位置の製品として開発されたスマートウォッチです。そんなGoogle Fitbit Edgeを1カ月以上にわたって着用し続けたので、使用感をまとめました。
+Google Fitbit Edge: 高度な健康管理＆フィットネス トラッカー
+https://store.google.com/jp/pr</description><guid isPermaLink="false">https://gigazine.net/news/20261128-google-fitbit-edge-review/</guid><pubDate>Sat, 28 Nov 2026 09:42:04 +0000</pubDate></item><item><title>エヌビディアCEO復帰に女性たちが不満と懸念表明、「特定の男性なら何をしても許されるという考え」を批判</title><link>https://www.afpbb.com/articles/-/3664633</link><description>[score: 0.919] エヌビディアCEO復帰に女性たちが不満と懸念表明、「特定の男性なら何をしても許されるという考え」を批判 【11月28日 AFP】米半導体大手エヌビディア創業者のジェンスン・フアン氏が、辞任からわずか11日で最高経営責任者（CEO）に電撃復帰したとのニュースが伝わるや否や、ドナルド・トランプ米大統領は、フアン氏が顔から血を流しながら赤いブラジャーを掲げ、警護要員に囲まれて壇上から退避させられる様子を描いた人工知能...</description><guid isPermaLink="false">https://www.afpbb.com/articles/-/3664633</guid><pubDate>Sat, 28 Nov 2026 13:53:04 +0000</pubDate></item></channel></rss>
